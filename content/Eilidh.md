@@ -1,0 +1,43 @@
+---
+categoria: lugar
+tags:
+ - "lugar"
+ - "plano"
+ - "mundo-gema"
+ - "caldero"
+ - "mc"
+aliases:
+ - "Eilidh"
+
+ - "mundo-gema"
+---
+
+# Eilidh
+
+<!-- HEADER_IMG -->
+<!-- Imagen pendiente. -->
+<!-- /HEADER_IMG -->
+
+## Presentación
+
+**Mundo primario dentro de una gema (rubí)** creada como arca de salvación durante la [[Franja_de_la_Disolucion_TG|Franja de Disolución]], cuando Terra y [[Antiterra_Demonia|Antiterra]] iban a colisionar. Millones de almas refugiadas (~1.200.000 según el [[Cosmarca]]). Protegida por capa de [[Vala_Cristalis|Vala Cristalis]] y plataformas zodiacales.
+
+**Geografía propia:** [[Rio_Oukronos|Río Oukronos]], [[Caldero]], [[Ciudad_Estrella|Ciudad Estrella]], [[Valle_de_la_Tempestad|Valle de la Tempestad]], Greyhawk.
+
+**Eilidh** = plano primario; **[[Vala_Cristalis|Vala Cristalis]]** = nombre de la gema. La Génesis de Vala es documento separado.
+
+## Conexiones
+
+- [[Franja_de_la_Disolucion_TG|Franja de Disolución]] (CFA — origen del mundo-gema)
+- [[Vala_Cristalis|Vala Cristalis]] (capa protectora)
+- [[Plataformas_Ucronica|Plataformas]] zodiacales (MED, CFA, el Mundo Nuevo)
+- [[Magia_dual|Magia dual]] (CFA)
+
+## Ver también
+
+- [[Vala_Cristalis|Vala Cristalis]]
+- [[Caldero]]
+- [[Ciudad_Estrella|Ciudad Estrella]]
+- [[Vala_Cristalis|Vala Cristalis]]
+- [[Franja_de_la_Disolucion_TG|Franja de Disolución]]
+- [[Cosmarca]]

@@ -1,0 +1,19 @@
+---
+aliases:
+ - "Uso"
+en_construccion: true
+---
+
+# Uso
+
+> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
+
+## Referencias entrantes
+
+Esta entrada es mencionada desde:
+
+- [[Mecanica_Tiempo_Stop_Reloj]]
+
+---
+
+*Si llegaste aquí buscando información sobre **Uso**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

@@ -1,0 +1,19 @@
+---
+aliases:
+ - "Mencion_de"
+en_construccion: true
+---
+
+# Mencion De
+
+> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
+
+## Referencias entrantes
+
+Esta entrada es mencionada desde:
+
+- [[Lisandra_El_Solitario_El_Paradigma_Enterrado]]
+
+---
+
+*Si llegaste aquí buscando información sobre **Mencion De**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

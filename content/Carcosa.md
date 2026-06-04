@@ -1,0 +1,19 @@
+---
+aliases:
+ - "Carcosa"
+en_construccion: true
+---
+
+# Carcosa
+
+> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
+
+## Referencias entrantes
+
+Esta entrada es mencionada desde:
+
+- [[Rey_Amarillo_King_in_Yellow]]
+
+---
+
+*Si llegaste aquí buscando información sobre **Carcosa**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

@@ -1,0 +1,24 @@
+---
+categoria: evento
+tags:
+ - "northern-crown"
+ - "nc06"
+ - "nc07a"
+ - "evento"
+ - "muerte"
+ - "sinspawn"
+ - "flying-dutchman"
+ - "ritual"
+aliases:
+ - "Muerte y Transformación de Patience (NC06-NC07a)"
+ - "NC06-NC07a"
+ - "Muerte y Transformación de Patience"
+---
+
+# Muerte y Transformación de Patience (NC06-NC07a)
+
+## Presentación
+
+[[Anti_Inferno|la figura del segundo círculo]] es capturada a bordo del [[Flying_Dutchman_Holandes_Errante|Flying Dutchman]], sometida a ritual sacrificial donde acepta matar a un infante. Su familiar dice: "Merecés lo que soñás." Transforma en [[Sinspawn_Template|Sinspawn]]. cronista describe como "decisión deliberada hacia la oscuridad, no coerción." Evento pivotal del Arco I que redefine el personaje moral del grupo.
+*Apariciones:* NC06 (captura), NC07a (ritual, muerte, transformación)
+*Conexiones:* [[Anti_Inferno|la figura del segundo círculo]], [[Flying_Dutchman_Holandes_Errante|Flying Dutchman]], [[Sinspawn_Template|Sinspawn]], patrón serpentino

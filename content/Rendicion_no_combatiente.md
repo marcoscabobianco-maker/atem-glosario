@@ -1,0 +1,19 @@
+---
+aliases:
+ - "Rendicion_no_combatiente"
+en_construccion: true
+---
+
+# Rendicion No Combatiente
+
+> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
+
+## Referencias entrantes
+
+Esta entrada es mencionada desde:
+
+- [[Dimitri_TNW]]
+
+---
+
+*Si llegaste aquí buscando información sobre **Rendicion No Combatiente**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

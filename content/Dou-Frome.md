@@ -1,0 +1,58 @@
+---
+título: "Dou-Frome"
+slug: Dou-Frome
+categoria: personaje
+imagen: "Imagenes_Tier1/Dou-Frome.png"
+aliases:
+ - Dou-Frome
+ - Dough From
+ - Doughfrom
+linaje:
+ padre: "[[Frome]]"
+tags:
+ - personaje
+ - paladin
+ - corrupcion
+ - tentacion
+ - trasgo
+ - yelmalio
+ - culto-satanico
+ - lord-soth
+ - andgara
+ - glastumville
+---
+# Dou-Frome
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Dou-Frome.png]]
+<!-- /HEADER_IMG -->
+
+> *El guardia-capitán que dijo sí al trasgo posado en el hombro. El paladín que terminó decapitado en su propio cementerio.*
+
+## Presentación
+
+Dou-Frome empezó del lado correcto. Hijo de **Frome**, guardia-capitán de **Glastumville**, llevaba uniforme, custodiaba puertas, escoltaba peregrinos. Cuando la magia entró en su vida lo hizo por la vía del servicio: alcanzó el nivel de **clérigo** sin abandonar el grado militar, las dos vocaciones juntas. Hasta ahí el arco era el del paladín reconocible —el que sirve sin querer ser visto.
+
+Entonces llegó el **trasgo**. Un pequeño imp rojo, de piel encendida, alas membranosas, cola de demonio menor. Se le posó en el hombro y le habló. Dou-Frome no era el primero en escuchar una voz así, pero a diferencia de otros que la oyeron y la rechazaron, él pactó. Lo que el trasgo le ofreció no figura en las crónicas con claridad; lo que se sabe es que después del pacto, Dou-Frome ya no estaba entero.
+
+El **Patriarca** intentó enderezarlo: lo sometió a la fe de **Yelmalio**, el dios de la luz solar contenida, esperando que la disciplina del culto lo recompusiera. No alcanzó. Dou-Frome derivó hacia el **culto satánico**, levantó santuario, encendió la **Vela de Invocación**. La conversión fue completa: del paladín de Glastumville al sacerdote de la sombra, y todo con la armadura todavía puesta.
+
+**el Señor de la Mortaja** apareció entonces. La Reina Oscura le había encargado un nuevo paladín: que sirviera, que cabalgara, que matara en su nombre. A Dou-Frome se le ofreció ese servicio. Lo rechazó —es el único acto del arco que el archivo conserva como acto limpio—. El trasgo, que llevaba años posado en su hombro, lo envenenó con su mordedura. el Señor de la Mortaja, paciente, le cortó la cabeza. Su santuario quedó como dungeon para quien pasara después. Su cuerpo quedó arrodillado en el cementerio que él mismo había custodiado, con la espada al lado, una vela negra encendida, y un libro con sello esperando que alguien lo abriera.
+
+## Linaje
+
+- **Padre:** [[Frome]] — del que también queda el Castillo de Frome como sitio propio
+
+## Vínculos
+
+- [[Glastumville]] — donde fue guardia-capitán
+- [[Imp_Trasgo|el imp/trasgo]] — el que se posó en el hombro
+- [[Yelmalio]] — el culto que intentó enderezarlo
+- [[Lord_Soth]] — quien lo decapita
+- [[Reina_Oscura]] — la que ordena el martirio
+- [[Helter]] — paralelo cosmológico tardío (el paladín tentado, el otro)
+
+## Apariciones
+
+- [[Glastumville]] — guardia-capitán, primer servicio
+- [[Angara_Andgara|Andgara]] — Catedral de Glastumville, conversión y caída

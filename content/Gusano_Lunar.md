@@ -1,0 +1,25 @@
+---
+categoria: criatura
+tags:
+ - "northern-crown"
+ - "nc14"
+ - "criatura"
+ - "gusano"
+ - "luna"
+ - "subterráneo"
+ - "amenaza"
+aliases:
+ - "Gusano Lunar"
+---
+
+# Gusano Lunar
+
+## Presentación
+
+Criatura que consumió el árbol pétreo lunar desde adentro. Hace la Luna "como un queso gruyère." Aparece en escena post-créditos de [[Abordaje_del_Holandes_en_la_Luna_NC14|NC14]]. Se escucha un grito.
+*Apariciones:* [[Abordaje_del_Holandes_en_la_Luna_NC14|NC14]] (escena post-créditos)
+*Conexiones:* Luna, árbol pétreo, [[Medawin_Medawaywin|Medawin]]
+
+## Notas
+
+Conexión con "Gusano Lunar" del GLOSARIO — verificar si es la misma entidad.
