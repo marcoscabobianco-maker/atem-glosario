@@ -19,7 +19,7 @@ aliases:
 | **[[Mittelfeid_Hechizo_de_Miedo_Religioso|Mittelfeid]]** | Hechizo de miedo religioso | homebrew, TE universe |
 | **[[Fervor_Curacion_Champion|Fervor]]** | Curación de Champion | class ability |
 | **Contingencia** | Hechizo preparado para activación automática | standard |
-| **H del minotauro** | Hacha/[[Halcon_Hacha_del_Minotauro|Halcón]] del [[Minotauro_Jefe_del_Laberinto|Minotauro]] (distorsión TurboScribe) | [[Jornada_del_Falso_Maestre]] weapon reference |
+| **H del minotauro** | Hacha/[[Halcon_Hacha_del_Minotauro|Halcón]] del [[Minotauro_Jefe_del_Laberinto|Minotauro]] (distorsión el archivo de transcripción) | [[Jornada_del_Falso_Maestre]] weapon reference |
 | **[[Sugestion_mecanica_homebrew_Inferno|Sugestión]] demoníaca** | Enchantment spell implanting course of action | spell/effect |
 
 ## Ver también

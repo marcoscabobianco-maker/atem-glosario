@@ -24,7 +24,7 @@ Estructura de poder político-religiosa en París post-liberación. Representan 
 
 ## Notas
 
-Expande enormemente el worldbuilding de París. Conecta con la pregunta central de la campaña: ¿pueden los compañeros escapar del guion temporal? Si los dioses mismos traicionan la libertad, ¿qué esperanza hay? Ver también **[[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]]**, **[[Los_Comunados|Los Comunados]]**.
+Expande enormemente el construcción del mundo de París. Conecta con la pregunta central de la campaña: ¿pueden los compañeros escapar del guion temporal? Si los dioses mismos traicionan la libertad, ¿qué esperanza hay? Ver también **[[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]]**, **[[Los_Comunados|Los Comunados]]**.
 
 ## Ver también
 

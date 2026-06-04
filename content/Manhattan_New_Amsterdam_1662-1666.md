@@ -30,4 +30,4 @@ Isla descrita antes de colonización masiva: "Isla de Muchas Colinas" (Manhatōe
 
 ## Notas
 
-La descripción de Manhattan 1662 es worldbuilding detallado de.
+La descripción de Manhattan 1662 es construcción del mundo detallado de.

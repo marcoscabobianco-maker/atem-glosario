@@ -20,6 +20,6 @@ aliases:
 | **[[Reynaud|Reynaud]] captura modalidad** | "Se apagó" vago; ubicación desconocida | Rescate en la jornada siguiente |
 | **[[Michel|Michel]] rol reducido** | Mención inicial, ausencia posterior | Status pendiente (continúa o ausencia) |
 | **Compañero identity** | Nunca confirmado en las jornadas grabadas | ¿Es [[Negociador_Intermediario_Orador_4_identidad_sin_confirmar|Orador 4]]? ¿Abandonó? |
-| **Pathé copyright** | VTT bloqueado; solo TurboScribe disponible | Investigar causa; resolver si posible |
+| **Pathé copyright** | VTT bloqueado; solo el archivo de transcripción disponible | Investigar causa; resolver si posible |
 
 **Fin del glosario del ciclo parisino templario**

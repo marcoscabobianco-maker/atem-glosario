@@ -40,7 +40,7 @@ entre poder político regio y autoridad espiritual-mágica. Fundación especulat
 
 (2003-04, cosmología y destrucciones cíclicas), C18 (2004), C19 (2004, enseñanza
 en taller), C20 (2005), C23 (2007, heroína de Torregrises), C25 (2008-09,
-23+ menciones — worldbuilding extensivo: "ciudad invisible", paralelo [[Buenos_Aires_Ucronica|Buenos Aires]],
+23+ menciones — construcción del mundo extensivo: "ciudad invisible", paralelo [[Buenos_Aires_Ucronica|Buenos Aires]],
 "A nivel D&D es como un Mythal"), C48 (2013). **Hallazgo clave:** C25 línea 574:
 "Hay una [[Buenos_Aires_Ucronica|Buenos Aires]] que es Torregrises, y una Torregrises que es [[Buenos_Aires_Ucronica|Buenos Aires]]" —
 declaración de equivalencia simbólica ciudad real / ciudad ficcional.

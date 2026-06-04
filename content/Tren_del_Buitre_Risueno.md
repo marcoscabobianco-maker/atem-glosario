@@ -22,4 +22,4 @@ aliases:
 ## Presentación
 
 **Ref.:** 9 ("novice crew"), 9 ("posada interdimensional, buitre ruiseño"), 9 ("tren con Redcat y los dos amigos. De [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]]").
-**Nota:** "Buitre ruiseño" — TurboScribe distorsiona "risueño" a "ruiseño." Confirmar grafía.
+**Nota:** "Buitre ruiseño" — el archivo de transcripción distorsiona "risueño" a "ruiseño." Confirmar grafía.

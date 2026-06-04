@@ -33,7 +33,7 @@ aliases:
 
 ## Glastumville en Ardis Vala (eco trans-campaña — Gaceta el archivo)
 
-**Confirmado por la Gaceta de Ardis Vala (Sesión Cero)**: hay otra Glastumville (o **la misma reencarnada**) **al pie de la cascada de Ardis Vala** en el setting Archonteo.
+**Confirmado por la Gaceta de Ardis Vala**: hay otra Glastumville (o **la misma reencarnada**) **al pie de la cascada de Ardis Vala** en el setting Archonteo.
 
 ### Datos canónicos Ardis Vala
 

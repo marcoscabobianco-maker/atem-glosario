@@ -20,7 +20,7 @@ aliases:
 
 Concepto/habilidad de **divination cósmica** usada por [[Reynaud|Reynaud]] en el ciclo templario. Acceso a los "registros akáshicos" — conocimiento ancestral universal (tradición teosófica/budista incorporada a como habilidad planar de clérigo o bardo).
 
-> **Nota de naming (2026-05-19):** En la transcripción TurboScribe el término aparecía como "**Akashik Communium**", que es transcripción incorrecta del oral. El nombre canónico es **Akashic Records** (registros akáshicos) o **Akashic Communion** (comunión akáshica, según sistema). El slug previo `Akashik_Communium_Nivel_3_Reynaud` mezclaba habilidad + nivel + compañero y se ha deprecado.
+> **Nota de naming (2026-05-19):** En la transcripción el archivo de transcripción el término aparecía como "**Akashik Communium**", que es transcripción incorrecta del oral. El nombre canónico es **Akashic Records** (registros akáshicos) o **Akashic Communion** (comunión akáshica, según sistema). El slug previo `Akashik_Communium_Nivel_3_Reynaud` mezclaba habilidad + nivel + compañero y se ha deprecado.
 
 ## Mecánica
 

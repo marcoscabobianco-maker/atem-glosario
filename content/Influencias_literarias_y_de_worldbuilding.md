@@ -1,10 +1,10 @@
 ---
 categoria: personaje
 aliases:
- - "Influencias literarias y de worldbuilding"
+ - "Influencias literarias y de construcción del mundo"
 ---
 
-# Influencias literarias y de worldbuilding
+# Influencias literarias y de construcción del mundo
 
 ## Presentación
 

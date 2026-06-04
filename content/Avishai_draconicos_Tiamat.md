@@ -19,7 +19,7 @@ wikipedia: https://es.wikipedia.org/wiki/Tiamat
 
 **Tipo:** Criaturas dracónicas, servidores de Tiamat
 **Cantidad:** 4 en combate de el archivo
-**Descripción:** "Adoradores de mantenimiento de los avillanos" (probable TurboScribe error). Tamaño mediano (comparado a dragón negro).
+**Descripción:** "Adoradores de mantenimiento de los avillanos" (probable el archivo de transcripción error). Tamaño mediano (comparado a dragón negro).
 
 **Rol:** Combatientes secundarios en [[Coliseo_Dis|Coliseo]]. Derrotados junto con dragón principal.
 

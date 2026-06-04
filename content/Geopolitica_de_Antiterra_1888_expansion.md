@@ -11,7 +11,7 @@ epoca: "1888 A.D.A. — fase de despliegue inmediato anterior al ciclo final de 
 ubicacion_principal: "mapa entero de Antiterra — eje occidente-oriente y atlántico-pacífico"
 tags:
  - concepto
- - worldbuilding
+ - construcción del mundo
  - geopolitica
  - antiterra
  - 1888

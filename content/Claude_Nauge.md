@@ -33,7 +33,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 ## Quién es
 
-**Claude Nauge es metalúrgico y socialista uchrónico** —*"monje de la clase obrera"*, **"obrero revolucionario"** *en autoidentificación*—. **Cofundador del grupo Time Bandits, cuarto pilar del ciclo**, *establecido en Session Zero de París Ucrónica*. **Su posicionamiento ideológico** —*registrado por el archivero del Plata con cuidado*— **es paradoja productiva**: *autoproclamado anarquista*, **opera en práctica como socialista utópico**; **defiende la insurrección como fin, no como medio**; **rechaza estructuras de dominación y explotación del hombre por el hombre**.
+**Claude Nauge es metalúrgico y socialista uchrónico** —*"monje de la clase obrera"*, **"obrero revolucionario"** *en autoidentificación*—. **Cofundador del grupo Time Bandits, cuarto pilar del ciclo**, *establecido en el comienzo del ciclo de París Ucrónica*. **Su posicionamiento ideológico** —*registrado por el archivero del Plata con cuidado*— **es paradoja productiva**: *autoproclamado anarquista*, **opera en práctica como socialista utópico**; **defiende la insurrección como fin, no como medio**; **rechaza estructuras de dominación y explotación del hombre por el hombre**.
 
 **Contribuye a la legalidad insurgente de [[Los_Comunados|los Comunados]]** —corriente parisina de los obreros uchrónicos—; *participa en debates de doctrina con la prosa de quien lee a Bakunin entre martillazos*; **su oratoria es rítmica y fuerte**, **se atreve con las palabras gruesas cuando el momento lo necesita**.
 
@@ -106,7 +106,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 ## Apariciones
 
-- **Session Zero — establecimiento como obrero revolucionario** — caracterización inicial
+- **el comienzo del ciclo — establecimiento como obrero revolucionario** — caracterización inicial
 - **Operaciones tempranas en París** — Vivescu, Cornablue, Les Halles, Iriarte, huelga
 - **Combate en Club des Gorriones**
 - **Bucarest — negociación con revolucionarios** — arco bucarestino

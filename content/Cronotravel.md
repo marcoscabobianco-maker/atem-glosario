@@ -21,7 +21,7 @@ Sistema de viajes por el tiempo habitualizado en [[Antiterra_Demonia|Antiterra]]
 
 ## Apariciones notables
 
-Session Zero (mecánica narrativa central), el archivo (viajes en [[Orient_Express|Orient Express]]).
+el comienzo del ciclo (mecánica narrativa central), el archivo (viajes en [[Orient_Express|Orient Express]]).
 
 ## Notas
 

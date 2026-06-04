@@ -10,7 +10,7 @@ aliases:
 ## Presentación
 
 **Tipo:** Dragón negro, criatura gargantuesca
-**Descripción:** "Dragon de Ophaio chorreando negro de pantano". Gran sombra, envergadura de alas como "musea" (error TurboScribe?). Dientes enormes.
+**Descripción:** "Dragon de Ophaio chorreando negro de pantano". Gran sombra, envergadura de alas como "musea" (error el archivo de transcripción?). Dientes enormes.
 
 **Historia:** Devoró partida aventurera previa (: "entre los dientes el consumir de varias criaturas exceptuando a yun toda una partida aventurera que fue devorada").
 

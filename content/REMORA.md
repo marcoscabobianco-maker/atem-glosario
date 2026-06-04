@@ -13,5 +13,5 @@ aliases:
 
 **Tipo:** Objeto / Mecánica
 **Primer aparición:** CC2_REPORTE
-**Descripción:** Entidad/objeto que "no hace nada". Rol específico desconocido; posible error TurboScribe o término técnico infernal.
+**Descripción:** Entidad/objeto que "no hace nada". Rol específico desconocido; posible error el archivo de transcripción o término técnico infernal.
 **Confianza:** BAJA (mención única, contexto vago)

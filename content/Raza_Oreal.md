@@ -15,7 +15,7 @@ Raza de seres cucesores entre humanos y "viejos genios que habitan la piedra." D
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] [00:03:10] — introduce raza en worldbuilding.
+[[Paris_Ucronica|París Ucrónica]] [00:03:10] — introduce raza en construcción del mundo.
 
 ## Notas
 

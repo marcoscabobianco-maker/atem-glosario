@@ -26,7 +26,7 @@ Continuidad inter-campaña: personajes pueden conectar con otros pilares, perío
 
 ## Apariciones notables
 
-Session Zero ( establece marco cosmológico de la el cosmos compartido).
+el comienzo del ciclo ( establece marco cosmológico de la el cosmos compartido).
 
 ## Notas
 

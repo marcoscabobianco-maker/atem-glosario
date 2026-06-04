@@ -12,7 +12,7 @@ aliases:
 **Contexto:**
  - "Máquina de Bafometo" (infraestructura París 1889)
  - "Adoración Bafometo" (el grupo la vivió "en carne y sangre" desde la operación al Temple en adelante)
- - "Industrialización pasta Bafometo" (4-5 años después de la entrada a París Ucrónica en cronología in-game = ~1894)
+ - "Industrialización pasta Bafometo" (4-5 años después de la entrada a París Ucrónica en cronología  = ~1894)
 
 ## Notas
 

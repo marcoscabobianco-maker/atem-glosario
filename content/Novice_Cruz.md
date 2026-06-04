@@ -33,7 +33,7 @@ La denominación "novice cruz" —con "cruz" en el nombre— sugiere también **
 
 ### Conexión con el Tren del Buitre Risueño (Gary del Mundo Nuevo)
 
-Hallazgo del minado de **[[Gary_TNW|Gary TNW]]**: las Novice Cruz conectan con el **Tren del Buitre Risueño** (en algunas transcripciones "Buitre Ruiseño" por distorsión TurboScribe), el **tren interdimensional que parte de [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]]** en Gary, Indiana 1987:
+Hallazgo del minado de **[[Gary_TNW|Gary TNW]]**: las Novice Cruz conectan con el **Tren del Buitre Risueño** (en algunas transcripciones "Buitre Ruiseño" por distorsión el archivo de transcripción), el **tren interdimensional que parte de [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]]** en Gary, Indiana 1987:
 
 > *"Tripulado por una **novice crew**. Se dirige a una posada interdimensional donde 'afuera de las ventanas se asaba el mundo como manzanas asadas.' El Buitre Risueño es su última parada."* (GARY_TNW_GLOSARIO_ADDITIONS.md ¶669-674)
 

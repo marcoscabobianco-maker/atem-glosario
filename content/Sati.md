@@ -32,4 +32,4 @@ hacer: yo traicionaré a Satán, vos a la reina."
  [128-160] (plan de manipulación), [338] (engaño a compañeros),
 [401] (primer caído en la batalla final). **Cuadernos T (minería S17T1):**
 C1 GREEN (1995-97): mencionado en contexto de sesiones tempranas. C17
-(2003-04): referencia en worldbuilding. C42 (2010): referencia contextual.
+(2003-04): referencia en construcción del mundo. C42 (2010): referencia contextual.

@@ -43,7 +43,7 @@ imagen: null
 
 *La línea completa de avatares*:
 1. **[[Arian]]** — elfo primigenio divinizado del Panteón
-2. **[[Auro_CI|Auro]]** — héroe del C63
+2. **[[Auro_CI|Auro]]** — héroe del Renacimiento
 3. **[[Arian|el avatar arlequín]]** — paladín-arlequín del Foso
 4. **[[Caladan]]** — wonderwalker vampirizado, darklord involuntario de Valakhan
 5. **Lucky** — caballero Sagrada Orden de Caldero

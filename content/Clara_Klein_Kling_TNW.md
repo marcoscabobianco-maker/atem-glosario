@@ -22,4 +22,4 @@ La lámina la fija **en sala de control de los años setenta**: **pantsuit gris 
 ## Presentación
 
 **Ref.:** 2d (Clara), 4b (Clara), 9 ("[[Richard_Bentham_TNW|Richard Bentham]] y Clara Kling, los guardianes"), 9 ("Clara Klim Grimm dejó unas cargas"), 8b ("clara clean").
-**Nota:** TurboScribe produce: "Klein," "Kling," "Klim," "Grimm," "[[Clean_TG|Clean]]." Confirmar grafía.
+**Nota:** el archivo de transcripción produce: "Klein," "Kling," "Klim," "Grimm," "[[Clean_TG|Clean]]." Confirmar grafía.

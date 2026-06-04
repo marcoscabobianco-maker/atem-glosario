@@ -11,7 +11,7 @@ aliases:
 
 **Fuente:** el archivo, [[Maristo]] (Orador 2)
 **Cita:** "¿Tomamos un buquellón?"
-**Descripción:** Término corrupto de TurboScribe. Posibilidades:
+**Descripción:** Término corrupto de el archivo de transcripción. Posibilidades:
 1. **"Boquellón"** — Posible bebida infernal (analogía con "trago")
 2. **"Buquete"** — Posible evento oficial de Dis (corrupción de "banquete")
 3. **"Bulo"** — Posible término de negociación fraudulenta

@@ -13,7 +13,7 @@ aliases:
 
 ## Presentación
 
-**Descripción:** Arma de [[Minotauro_Jefe_del_Laberinto|Minotauro]]. Referido como "H del minotauro" (posible abreviatura o distorsión de TurboScribe).
+**Descripción:** Arma de [[Minotauro_Jefe_del_Laberinto|Minotauro]]. Referido como "H del minotauro" (posible abreviatura o distorsión de el archivo de transcripción).
 
 **Forma:** Probablemente hacha (dado contexto de armas medievales templarias).
 

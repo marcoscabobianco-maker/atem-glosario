@@ -19,7 +19,7 @@ Líder de **[[Las_Palomas_de_Hierro|Las Palomas de Hierro]]**, facción ferrovia
 
 ## Apariciones notables
 
-el archivo (mención como líder de [[Palomas_de_Hierro|Palomas de Hierro]], referencia en worldbuilding sobre ferroviarias y socialismo utópico). Conectada a panfleto con referencia "San [[Simon_NPC_demoniaco|Simón]] gravedad a las [[Palomas_de_Hierro|Palomas de Hierro]]."
+el archivo (mención como líder de [[Palomas_de_Hierro|Palomas de Hierro]], referencia en construcción del mundo sobre ferroviarias y socialismo utópico). Conectada a panfleto con referencia "San [[Simon_NPC_demoniaco|Simón]] gravedad a las [[Palomas_de_Hierro|Palomas de Hierro]]."
 
 ## Notas
 

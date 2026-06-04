@@ -19,8 +19,6 @@ Seres poderosos activos en [[Antiterra_Demonia|Antiterra]] hasta 1901 cuando mue
 
 ## Apariciones notables
 
-Session Zero (worldbuilding sobre cierre de eras y liberación de [[Antiterra_Demonia|Antiterra]] post-1901).
-
 ## Notas
 
 Potencias ambiguas: algunos intentaban adorarlos ("torco pulenta" = reliquia/objeto de culto). Su muerte coincide con Gema de Deseos, Reguladores [[La_Jabalina|Jabalina]], y restructuración política de [[Antiterra_Demonia|Antiterra]].
