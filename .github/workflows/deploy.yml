@@ -29,8 +29,36 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Download Imagenes_Tier1 from GitHub Release
+        run: |
+          mkdir -p content/Imagenes_Tier1
+          cd content/Imagenes_Tier1
+
+          # Descargar las 2 partes de la release v1-images
+          gh release download v1-images \
+            --repo marcoscabobianco-maker/atem-glosario \
+            --pattern "imagenes_tier1_part*.zip"
+
+          # Descomprimir cada parte
+          for zip in imagenes_tier1_part*.zip; do
+            unzip -q -o "$zip"
+            rm "$zip"
+          done
+
+          echo "Imagenes descargadas: $(ls *.png *.jpg *.jpeg 2>/dev/null | wc -l)"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Build Quartz site
         run: npx quartz build
+
+      - name: Copy Imagenes_Tier1 to public/
+        run: |
+          mkdir -p public/Imagenes_Tier1
+          cp content/Imagenes_Tier1/*.png public/Imagenes_Tier1/ 2>/dev/null || true
+          cp content/Imagenes_Tier1/*.jpg public/Imagenes_Tier1/ 2>/dev/null || true
+          cp content/Imagenes_Tier1/*.jpeg public/Imagenes_Tier1/ 2>/dev/null || true
+          echo "Imagenes en public/: $(ls public/Imagenes_Tier1/ | wc -l)"
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
