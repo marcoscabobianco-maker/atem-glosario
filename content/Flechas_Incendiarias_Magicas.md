@@ -6,6 +6,10 @@ aliases:
 
 # Flechas Incendiarias Mágicas
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Flechas_Incendiarias_Magicas.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Rareza:** Menor

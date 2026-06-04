@@ -13,6 +13,10 @@ aliases:
 ---
 # Panteón Posmoderno — dioses menores (TG)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Panteon_Posmoderno_dioses_menores_TG.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Dioses del [[Panteon_Posmoderno|Panteón Posmoderno]] según las Notas preliminares, con sus dominios y equivalencias urbanas: **Nix** (nieve/drogas/"todas las cosas que enfrían"), **Anxifer** (inquietante/medios de comunicación), **Intrico** (enredar/política), **Intimus** (secreto/sexo), **Intactus** (intangibilidad/tribus), **Tentator** (tentación/dinero). Nombres latinizantes que mapean vicios posmodernos sobre dominios arcaicos. "El [[Panteon_Posmoderno|Panteón Posmoderno]] ha resurgido. Sus dioses tienen nombre."

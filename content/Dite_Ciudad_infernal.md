@@ -9,6 +9,10 @@ aliases:
 ---
 # Dite (Ciudad infernal)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Dite_Ciudad_infernal.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Referencia:** el archivo título + ¶ (menciones dispersas, 2 directas)

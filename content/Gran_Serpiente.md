@@ -14,6 +14,10 @@ aliases:
 
 # Gran Serpiente
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gran_Serpiente.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Criatura/artefacto encontrado en los ataúdes del sitio de entierro Shawnee (NC02). Ataúdes con grabados de wampum y plata. Órganos malformados. Primer eslabón del hilo serpentino de la campaña.

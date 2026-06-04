@@ -9,6 +9,10 @@ aliases:
 
 # Agujeros Portátiles
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Agujeros_Portatiles.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Referencia:** CC1

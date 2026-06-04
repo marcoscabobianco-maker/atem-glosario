@@ -9,6 +9,10 @@ aliases:
 
 # SIMPLEX
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/SIMPLEX.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Tipo:** Enemigo — Construcción mágica / Elemental

@@ -9,6 +9,10 @@ aliases:
 ---
 # Cangrejo de Cristal
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cangrejo_de_Cristal.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Entidad mística detectada en el archivo, asociada al Faro de [[Alejandria|Alejandría]]. "Disyuntó la magia" del grupo en [[Alejandria|Alejandría]]. En el archivo, un "cangrejo digital gigante" aparece como [[Nightmare_montura|montura]] del emisario "Para Allá de las Cenizas Danzantes" — posiblemente la misma entidad.

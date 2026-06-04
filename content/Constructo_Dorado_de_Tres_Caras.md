@@ -13,6 +13,10 @@ aliases:
 
 # Constructo Dorado de Tres Caras
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Constructo_Dorado_de_Tres_Caras.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Constructo encargado por. Tres manifestaciones: Reina Dorada (artística/creativa), Niño Dorado (temporal/trickster, sentado sobre calaveras, menciona Fiebre del oro de [[California]]), Golem guardián (protector/físico). Se proclama "liberador de negros." Habita la morada sagrada de Leonino en [[Manhattan_New_Amsterdam_1662-1666|Manhattan]]. El Niño Dorado discute anacronismos temporales — posible vínculo con [[Cronotravel]].

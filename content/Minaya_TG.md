@@ -14,6 +14,10 @@ aliases:
 
 # Minaya (TG)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Minaya_TG.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Dios supremo en la cosmogonía de [[Torregrises]]. Mató a **[[Tiamat_TG|Tiamat (TG)]]** y proclamó la victoria del Bien sobre el Mal. Carácter dominante, impaciente: "¡Sólo hay un corredor de verdades mágicas, el amor que soy yo y es todo!" Posee la lanza coronada con la **[[Gema_de_la_Creacion|Gema de la Creación]]**.

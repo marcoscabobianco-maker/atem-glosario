@@ -13,6 +13,10 @@ aliases:
 
 # Fort Henry
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Fort_Henry.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Fuerte colonial en Virginia, punto de partida de la expedición. Enclave de la frontera entre territorio colonial y territorio Shawnee. [[Abraham_Wood|Abraham Wood]] opera desde aquí.

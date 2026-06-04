@@ -19,7 +19,7 @@ tags:
 # Asmodeus
 
 <!-- HEADER_IMG -->
-![[Imagenes_Tier1/ASMODEUS_DISPATER.png]]
+![[Imagenes_Tier1/Asmodeus.png]]
 <!-- /HEADER_IMG -->
 
 > *El Primero de los Nueve. La ley se sienta a su izquierda y el contrato a su derecha. Allí donde Lucifer rebela y Graz'zt corrompe, Asmodeus reglamenta.*

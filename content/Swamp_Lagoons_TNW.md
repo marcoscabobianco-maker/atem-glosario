@@ -12,6 +12,10 @@ aliases:
 
 # Swamp Lagoons (TNW)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Swamp_Lagoons_TNW.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** Resumen

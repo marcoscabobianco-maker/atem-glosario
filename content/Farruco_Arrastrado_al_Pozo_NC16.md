@@ -17,6 +17,10 @@ aliases:
 
 # Farruco Arrastrado al Pozo (NC16)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Farruco_Arrastrado_al_Pozo_NC16.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 [[Farruco]] lee contratos de almas dejados por el espectro de [[Lope_de_Vega|Lope de Vega]] junto al aljibe. Manos con garras salen del pozo y lo arrastran. Le susurran algo "re importante, clave, crucial" que no puede recordar. Escena de body horror — la campaña termina con este gancho sin resolver.

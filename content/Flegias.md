@@ -6,6 +6,10 @@ aliases:
 ---
 # Flegias
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Flegias.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** el archivo

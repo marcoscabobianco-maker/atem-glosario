@@ -7,6 +7,10 @@ aliases:
 ---
 # Uroboros
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Uroboros.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Referencia:** el archivo (epílogo final)

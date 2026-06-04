@@ -14,6 +14,10 @@ epoca: "Edad de los Imperios — siglo III-IV d.C."
 
 # Alejandría
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Alejandria.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Ciudad de condición múltiple temporal y espacial: fue, es y será el

@@ -11,6 +11,10 @@ aliases:
 ---
 # Oximec
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Oximec.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** el archivo (muerte de stormy).

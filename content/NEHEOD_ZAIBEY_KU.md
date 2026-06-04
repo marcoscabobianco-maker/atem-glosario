@@ -8,6 +8,10 @@ aliases:
 ---
 # NEHEOD ZAIBEY KU
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/NEHEOD_ZAIBEY_KU.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Tipo:** Ubicación — Templo infernal

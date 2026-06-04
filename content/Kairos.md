@@ -14,6 +14,10 @@ aliases:
 
 # Kairos
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Kairos.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Homo Magus —mago de categoría especial dentro del universo de

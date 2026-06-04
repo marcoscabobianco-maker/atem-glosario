@@ -6,6 +6,10 @@ aliases:
 
 # Breath of Life
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Breath_of_Life.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Concepto:** Hechizo de reversión de muerte.

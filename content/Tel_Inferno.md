@@ -13,6 +13,10 @@ aliases:
 ---
 # Tel (Inferno)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Tel_Inferno.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 [[Vito_Guia|Guía]] en el Infierno, conectado al Castillo de los Justos. Aparece en las secciones iniciales del Descenso el archivo (secciones 1–2).

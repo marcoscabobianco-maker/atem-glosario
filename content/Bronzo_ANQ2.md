@@ -1,17 +1,15 @@
 ---
+categoria: lugar
 aliases:
- - "Bronzo_ANQ2"
-en_construccion: true
+ - "Bronzo (ANQ2)"
+ - "ANQ2"
+ - "Bronzo"
 ---
 
-# Bronzo ANQ2
+# Bronzo (ANQ2)
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
+## Presentación
 
-## Referencias entrantes
-
-- (sin referencias entrantes detectadas)
-
----
-
-*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*
+**Agregar:**
+> Transporta al grupo desde Chihuahua al Golfo de México. Interviene en combate contra dos dragones (rojo y verde) en el templo, golpeando paredes. Marca un círculo de teleportación. Relación constante con el grupo como transporte y apoyo de combate.
+> **Ref.:** sesiones documentadas.

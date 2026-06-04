@@ -21,6 +21,10 @@ tags:
 ---
 # Atlántida — Alta y Baja
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Atlantida_Alta_y_Baja.png]]
+<!-- /HEADER_IMG -->
+
 > *"Hay reinos que se hundieron y reinos que decidieron quedarse abajo. La Atlántida es del segundo tipo, lo cual cambia todo el resto del asunto."*
 
 La voz que todavía no ha consignado en lámina **sostiene la entrada aquí en palabra escrita**, **a la espera de la imagen submarina que la fije** —*y conviene anotar que la Atlántida no se ha dejado retratar nunca por completo*: las descripciones antiguas dudan entre la ciudad-disco platónica y el continente sumergido; **el archivo del Plata las acepta ambas, porque la entidad MC tiene capa Alta sobre capa Baja**.

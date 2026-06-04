@@ -9,6 +9,10 @@ aliases:
 ---
 # Big Berta
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Big_Berta.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Cañón colosal presente en el contexto del sitio de París 1870. La Big Bertha histórica es un obús alemán de [[Sarajevo_1914_Ucronica|1914]], pero en [[Antiterra_Demonia|Antiterra]]/[[Paris_Ucronica|París Ucrónica]] existe un **tremendo cañón** con ese nombre que ya opera en 1870 — **anacronismo ucrónico intencional** del cronista. La distorsión temporal del universo compartido permite que tecnología de guerra "llegue antes" en la línea ucrónica.

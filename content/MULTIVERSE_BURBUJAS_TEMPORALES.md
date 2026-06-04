@@ -8,6 +8,10 @@ aliases:
 
 # MULTIVERSE / BURBUJAS TEMPORALES
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/MULTIVERSE_BURBUJAS_TEMPORALES.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 - **Concepto emergente del último encuentro templario:**

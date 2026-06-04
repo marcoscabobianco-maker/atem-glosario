@@ -19,6 +19,10 @@ tags:
 ---
 # La Corrupción Dual
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Corrupcion_Dual.png]]
+<!-- /HEADER_IMG -->
+
 > *"La plataforma es la prisión del guardián."* — anotación del cronista, C1 ROL, hoja del 9 de junio de 1995.
 
 La **Corrupción Dual** es la **ley de relevo** que rige el sistema de las doce plataformas zodiacales del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]]. Su enunciado es seco: **quien derrota al guardián de una plataforma se convierte en el nuevo guardián de esa plataforma, heredando su corrupción**. No hay opción de no heredar. Quien gana, ocupa. *Quien ocupa, espera. Quien espera, es derrotado a su debido tiempo por otro aventurero que cree estar ganando lo que en realidad está heredando.*

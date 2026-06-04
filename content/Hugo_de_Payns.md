@@ -20,7 +20,7 @@ epoca: "1119-1120 AD — Edad Templaria — primer Maestre"
 # Hugo de Payns
 
 <!-- HEADER_IMG -->
-![[Imagenes_Tier1/Hugo_de_Payns_ACTUALIZADO.png]]
+![[Imagenes_Tier1/Hugo_de_Payns.png]]
 <!-- /HEADER_IMG -->
 
 > *El Gran Maestre que tuvo dos caras. La que rezaba ante la Cúpula y la que ardía dentro.*

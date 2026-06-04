@@ -9,6 +9,10 @@ aliases:
 ---
 # Pompiériu
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Pompieriu.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Zona de París donde se compran y venden scrolls mágicos. Barrio o mercado especializado en objetos y artefactos de poder arcano. Fuente de aprovisión mágico para aventureros y practicantes de cronomancia.

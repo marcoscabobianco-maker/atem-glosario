@@ -14,6 +14,10 @@ aliases:
 
 # Rebeca / Pocahontas
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Rebeca_Pocahontas.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Hija de jefe Powhatan, viuda de John Rolfe, dada por muerta en Inglaterra. Regresó misteriosamente a América — experiencia de "la muerte la rechaza." Busca a su hijo Stone (mestizo). Reclama tierras en Pensilvania contra William Penn. Heráldica: escudo con tres cabezas negras con turbantes. Conoce pactos con dragones y serpientes. Menciona Transilvania como origen de ciertos pactos. Madre de [[Secoya]]. Su padre es [[Sequoia]]. Conecta la tradición matrilineal de control de dragones ([[Sequoia]] → Rebeca → [[Secoya]]).

@@ -28,6 +28,10 @@ imagen: null
 ---
 # La Línea Arian — avatares y Reunidos
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Linea_Arian_Avatares.png]]
+<!-- /HEADER_IMG -->
+
 > *"Hay almas que el cosmos extendido distribuye en pliegues paralelos como quien reparte la misma copa en mesas distintas. Arian es de esas. No se acumula en un cuerpo: se reparte. Quien quiera entenderlo debe leerlo en cinco mesas a la vez, y la sexta —que aún no se ha sentado— ya tiene su servicio dispuesto."* — anotación marginal de Paulus al *libro IV del Decadiano*, sobre las almas mayores trans-cosmológicas.
 
 ---

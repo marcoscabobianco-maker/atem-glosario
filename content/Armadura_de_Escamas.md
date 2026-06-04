@@ -10,6 +10,10 @@ aliases:
 ---
 # Armadura de Escamas
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Armadura_de_Escamas.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Armadura medieval de escamas de metal. Utilizada ocasionalmente por Corvino cuando "viene picante la cosa" (situaciones de combate serio). Descrita como "poco vieja," probablemente herencia familiar (Corvino es de familia noble caída). Proporciona protección contra balas/armas en cantidad limitada (aclaración: ciudad llena de cuchilleros, rifles menos comunes).

@@ -9,6 +9,10 @@ aliases:
 ---
 # Kronamon Church
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Kronamon_Church.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Secta religiosa especializada en viaje temporal. Requiere preparación espiritual para viajes seguros. Sistema de creencias sobre sincronía y destino. Posible rival o aliada de autoridades seculares ([[Prefectos_del_Tiempo|Prefectos del Tiempo]]). [[Philippe]] conectado a poder de [[Kronamon]] a través de [[El_Primer_Reloj|EL PRIMER RELOJ]].

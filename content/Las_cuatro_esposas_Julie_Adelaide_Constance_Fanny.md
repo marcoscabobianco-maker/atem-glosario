@@ -12,6 +12,10 @@ aliases:
 ---
 # Las cuatro esposas (Julie, Adelaide, Constance, Fanny)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Las_cuatro_esposas_Julie_Adelaide_Constance_Fanny.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** el archivo (exploracion individual, [[Maristo]] + Constance)

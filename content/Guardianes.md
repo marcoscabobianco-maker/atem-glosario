@@ -9,6 +9,10 @@ aliases:
 
 # Guardianes
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Guardianes.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Seres poderosos activos en [[Antiterra_Demonia|Antiterra]] hasta 1901 cuando mueren. Fueron importantes en la era de 1880 ("años de vértigo," Belle Époque). Dejaron vestigios temporales tras su muerte. Su desaparición marca el punto de quiebre que separa Terra y [[Antiterra_Demonia|Antiterra]], liberando a esta última de dominación inglesa.

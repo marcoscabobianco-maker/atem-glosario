@@ -23,6 +23,10 @@ tags:
 ---
 # El Círculo Simultáneo
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Circulo_Simultaneo.png]]
+<!-- /HEADER_IMG -->
+
 > *"No es puerta que lleva al pasado: es trampa que coloca el cuerpo donde el pasado lo está esperando."*
 
 La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra escrita** —*el Círculo opera en cámaras subterráneas con luz de antorcha y escudos abjuradores, y por eso sus líneas son difíciles de retratar enteras*—. *Cuando llegue la lámina*, **mostrará el piso 4 del Faro-Monolito**: **suelo circular de diez a quince metros de diámetro grabado con sigilo cuádruple**, **figuras encapuchadas dispuestas en los cuatro cuadrantes con escudos translúcidos extendidos**, **un grupo en el centro proyectándose en transparencia hacia el exterior del cuadro** —*el cuerpo en plena transición temporal*—.

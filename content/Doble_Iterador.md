@@ -1,17 +1,15 @@
 ---
+título: "DOBLE ITERADOR — redirect"
+slug: DOBLE_ITERADOR
+estado: redirect
+target: "[[Doble_Iterador]]"
 aliases:
- - "Doble_Iterador"
-en_construccion: true
+ - DOBLE ITERADOR
+tags:
+ - redirect
+ - filename-mayusculas-normalizado
 ---
 
-# Doble Iterador
+# DOBLE ITERADOR
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
-
-## Referencias entrantes
-
-- (sin referencias entrantes detectadas)
-
----
-
-*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*
+→ Consolidado en **[[Doble_Iterador]]**. *Filename MAYÚSCULAS reemplazado por Title Case canónico.*

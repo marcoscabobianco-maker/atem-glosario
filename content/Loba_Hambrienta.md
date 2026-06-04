@@ -6,6 +6,10 @@ aliases:
 ---
 # Loba Hambrienta
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Loba_Hambrienta.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Tipo:** Criatura/figura | **Origen:** el archivo | **Estado:** Activo, acompañando al grupo

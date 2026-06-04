@@ -9,6 +9,10 @@ aliases:
 
 # Zygomind
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Zygomind.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Criatura venida del espacio. Copia mentes a través de ability (inducir mindscape). Deja tranquilas a huéspedes mediante hongos parásito-esporas. Contaminó árbol de [[Zoe_Emperatriz|Zoe]], causando su muerte.

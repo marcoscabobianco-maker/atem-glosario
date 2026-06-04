@@ -8,6 +8,10 @@ aliases:
 
 # "Guardián del Tiempo" (Ángel Corrector)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Guardian_del_Tiempo_Angel_Corrector.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 - **Definición:** Entidad celestial anómala. Función: restaurar "normalidad" de realidad.

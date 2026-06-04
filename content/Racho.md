@@ -9,6 +9,10 @@ aliases:
 
 # Racho
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Racho.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Personaje de en la el cosmos compartido y autodenominación en

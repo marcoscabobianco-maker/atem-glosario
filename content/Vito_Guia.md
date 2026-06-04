@@ -11,6 +11,10 @@ aliases:
 
 # Vito (Guía)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Vito_Guia.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Joven guía de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] que ofrece llevar al grupo a una posada e introducirlos a la ciudad tras su llegada en [[Constantinopla_Ucronica_1055_CE|1055 CE]]. Primer contacto amistoso del grupo en el escenario bizantino.

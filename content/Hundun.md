@@ -12,7 +12,7 @@ wikipedia: https://en.wikipedia.org/wiki/Hundun
 # HUNDUN (EL HUNDUN)
 
 <!-- HEADER_IMG -->
-![[Imagenes_Tier1/HUNDUN_EL_HUNDUN.png]]
+![[Imagenes_Tier1/Hundun.png]]
 <!-- /HEADER_IMG -->
 
 ## Presentación

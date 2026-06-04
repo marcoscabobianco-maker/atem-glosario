@@ -14,6 +14,10 @@ aliases:
 
 # Sagrada Orden, la
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Sagrada_Orden_la.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Organización de sabios y druidas dedicada a preservación de conocimiento antiguo.

@@ -23,6 +23,10 @@ imagen: null
 ---
 # Hécate
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Hecate.png]]
+<!-- /HEADER_IMG -->
+
 > *"Hay diosas que abren caminos; hay diosas que los cierran; Hécate hace las dos cosas, y la diferencia entre ambas decisiones depende de a quién recibe."*
 
 ---

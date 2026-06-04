@@ -12,6 +12,10 @@ aliases:
 
 # Utah
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Utah.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Visir de la corte egipcia en el arco de [[Amitlai]]. Funciona como padre adoptivo y figura de autoridad paternal para [[Amitlai]]. En los cuadernos T, Utah es interlocutor extenso de [[Amitlai]] en diálogos de corte: política, lealtad, manipulación. Su rol combina la autoridad administrativa del visir con el vínculo emocional de padre sustituto.

@@ -9,6 +9,10 @@ aliases:
 ---
 # Biblioteca de los Heresiarcas (Dis)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Biblioteca_de_los_Heresiarcas_Dis.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ubicación:** Sexto círculo (Dis), uno de cuatro distritos (el del estandarte de la biblioteca)

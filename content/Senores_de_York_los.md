@@ -11,6 +11,10 @@ aliases:
 
 # Señores de York, los
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Senores_de_York_los.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Primer nombre del grupo que eventualmente sería **[[Rintrah]]**. Progresión nominal:

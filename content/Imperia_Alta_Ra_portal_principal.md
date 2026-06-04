@@ -14,6 +14,10 @@ aliases:
 
 # Imperia Alta Ra (portal principal)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Imperia_Alta_Ra_portal_principal.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** Confirmación de (23 mar 2026, dictado oral).

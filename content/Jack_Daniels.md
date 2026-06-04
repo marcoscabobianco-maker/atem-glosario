@@ -13,6 +13,10 @@ aliases:
 
 # Jack Daniels
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Jack_Daniels.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Pirata vestido de negro, 45 años. Revólver en cartuchera, aliento a whisky. Mediano de tres hermanos piratas poderosos, siempre compitiendo con ellos. Posee tripulación de malditos. Función en el guión: personaje "de impacto" que termina burlado por los anarquistas primerizos.

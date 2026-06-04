@@ -7,6 +7,10 @@ aliases:
 ---
 # Gran Grimonio
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gran_Grimonio.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Tipo:** Libro mítico

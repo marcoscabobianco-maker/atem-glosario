@@ -11,6 +11,10 @@ epoca: "Era Primordial — antes del registro"
 
 # Los Antiguos
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Los_Antiguos.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Grupo aventurero del período más temprano de el cosmos compartido. Su nombre sugiere vinculación con la era primordial o con entidades de gran antigüedad.

@@ -6,6 +6,10 @@ aliases:
 
 # Gordo Suli
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gordo_Suli.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Fuentes:** Taller l.303-314

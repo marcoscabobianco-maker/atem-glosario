@@ -11,6 +11,10 @@ aliases:
 ---
 # Fanchon
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Fanchon.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Alma condenada en el segundo círculo. 62 años, aspecto de esqueleto. Mencionada brevemente durante la exploración.

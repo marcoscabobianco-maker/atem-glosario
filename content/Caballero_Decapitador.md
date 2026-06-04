@@ -6,6 +6,10 @@ aliases:
 
 # Caballero Decapitador
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Caballero_Decapitador.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Rol:** Guardián de cripta de reliquias, caballero de armadura oscura.

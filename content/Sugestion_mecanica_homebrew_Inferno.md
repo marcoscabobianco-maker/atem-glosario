@@ -6,6 +6,10 @@ en_construccion: true
 
 # Sugestion Mecanica Homebrew Inferno
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Sugestion_mecanica_homebrew_Inferno.png]]
+<!-- /HEADER_IMG -->
+
 > *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
 
 ## Referencias entrantes

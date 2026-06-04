@@ -9,6 +9,10 @@ aliases:
 ---
 # Ciudad de Dis (CDI)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ciudad_de_Dis_CDI.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Tipo:** Locación Infernal | **Origen:** el archivo | **Estado:** Activo (grupo ingresa al final de el archivo)

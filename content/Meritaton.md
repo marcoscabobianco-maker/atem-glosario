@@ -12,6 +12,10 @@ aliases:
 
 # Meritatón
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Meritaton.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Hija mayor de **[[Amitlai]]** y heredera del trono en el arco egipcio de el cosmos compartido. Su nombre evoca a Meritatón histórica (hija mayor de Akhenatón y Nefertiti, XVIII dinastía). Su posición como heredera la sitúa en el centro de las intrigas de sucesión del arco de [[Amitlai]].

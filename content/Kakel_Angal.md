@@ -10,6 +10,10 @@ aliases:
 ---
 # Kakel Angal
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Kakel_Angal.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** sesión registrada.

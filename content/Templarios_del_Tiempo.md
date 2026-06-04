@@ -23,9 +23,33 @@ imagen: null
 ---
 # Templarios del Tiempo
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Templarios_del_Tiempo.png]]
+<!-- /HEADER_IMG -->
+
 > *"De los Templarios no se sabe cuántos son, ni cómo se reclutan, ni dónde duermen. Se sabe sólo una cosa: cuando un ciclo demoníaco amenaza con romper el equilibrio cronológico, alguno aparece. Y alguno se inmola."* — del cuaderno operativo de la Capilla Oscura, fragmento conservado en las criptas.
 
 ---
+
+## Narrativa del Temple
+
+Jerusalén en 1120 huele a polvo, a sangre seca y a incienso de iglesias que todavía no saben que son ruinas. El Temple está recién fundado, Hugo de Payns gobierna con la seguridad de quien ha recibido una misión divina, y los peregrinos que llegan desde Europa traen consigo sus espadas y sus pecados como si fueran lo mismo. Un grupo de cinco llega a las puertas del Temple con credenciales variadas y ninguna razón para confiar entre sí. Lirio, el paladín, carga un juramento leonino hacia algo que todavía no entiende del todo. Ärsvan trae fuego en una mano y curación en la otra, y el caos como brújula moral. Reynaud tiene una espada oxidada que canaliza lo que sus libros no pueden explicar. Alexio tiene el cuerpo de un campeón y la mala suerte de creer que eso basta. Michel tiene veinticinco años y bombas químicas y desaparecerá del relato antes de que el relato sepa qué hacer con ella.
+
+Debajo de la orden hay demonios. Esto se descubre por grados: primero, anomalías litúrgicas. Después, desapariciones. Después, una cripta donde Alexio muere de forma permanente en la sesión cuatro, lo que establece que este mundo no perdona y no resucita. Hugo de Payns, que desde afuera parecía un fanático, desde adentro resulta un vehículo — algo más viejo y más frío que él lo habita, lo desdobla, lo convierte en andrógeno de escamas y fuego encapuchado. Matarlo lleva siete sesiones y la bendición del Patriarca, y cuando finalmente muere en el Sancta Sanctorum con una lanza de Ärsvan clavada a treinta y seis puntos de daño, la forma demoníaca escapa igual. El problema local se resolvió. El problema cósmico acaba de empezar.
+
+Porque debajo de los demonios hay algo peor: el Tiempo está enfermo. No es metáfora. Existe un ser llamado Cronomon — Dios del Tiempo, Heredeth, Titán Negro — que escribió un Libro Azul donde están las coordenadas de un apocalipsis programado para la Navidad de 1889. Si el Tiempo muere, el universo se apaga. No como explosión sino como reloj que se detiene. El grupo lo descubre en el Laberinto Omniporal, una zona 34 que está fuera del espacio-tiempo, un no-lugar donde el concepto de "dirección" es una sugerencia. Allí encuentran a Carlos, Rolando y Ganelon, caballeros temporales del año 800, congelados en una misión que empezó hace tres siglos o ayer, dependiendo de qué lado del Laberinto estés parado.
+
+Reynaud es quien lo comprende primero. Es el erudito, el de la espada inútil y la mente filosa, y cuando tira un 37 en la prueba de conocimiento cosmológico y desbloquea el Akashik Communium tres veces consecutivas, el narrador ya no puede esconderle nada. Reynaud ve la estructura completa: Cronomon al centro, el Guardián del Tiempo como árbitro neutral —un ángel decapitado con esferas de creación y destrucción—, y el apocalipsis como evento no inevitable sino autocumplido. Solo ocurre si nadie interviene. Reynaud va a intervenir, pero el Guardián del Tiempo se lo lleva primero. El investigador brillante desaparece justo cuando más se lo necesita.
+
+París, 1889. Notre-Dame de noche. La Hija de Baphomet espera en las catacumbas. El Negro — el espectro que exorcizaron pero nunca destruyeron — merodea como una mancha que no se va. Y en algún lugar del edificio, el Reloj del Destino marca la hora: avatar de Cronomon, cuenta regresiva del universo.
+
+Ärsvan toma una decisión. No la toma porque sea heroico — la toma porque es caótico neutral y entendió algo que los paladines no entienden: que a veces salvar el mundo es un acto de destrucción precisa. Agarra el Reloj. Se lanza sobre la Esfera de Aniquilación. Es como saltar sobre una bomba, pero la bomba es el Tiempo mismo. La Esfera lo devora. Devora a Cronomon con él. La profecía se quiebra. El mundo se salva no por fe ni por orden sino por un acto de caos elegido que resulta ser la única forma de libertad real cuando el universo te ofrece solo dos esferas — una blanca, una negra — y te dice que elijas.
+
+Lirio renuncia a sus poderes de paladín y promete custodia a algo que puede ser Cronomon redimido, o puede ser otra cosa. Ariadna, que era espíritu oscuro y enemiga, renace en el amanecer que sigue porque Ärsvan la amó antes de morir y resulta que eso es suficiente para que la redención sea posible.
+
+Neo-París emerge de las cenizas del reloj roto. La Ciudad de los Tiempos: un lugar nuevo donde las coordenadas del cosmos se recalibran. Los personajes que entraron como peregrinos a Jerusalén en 1120 salen como gobernantes de una cosmología abierta, setecientos sesenta y nueve años más tarde, habiendo demostrado que cincuenta horas de juego bien escritas pesan más que quinientas horas sin dirección.
+
+Tres años después, en el ciclo del Descenso, Ärsvan reaparece como templario condenado. Si está en el Infierno, los Templarios fueron reales. El pasado se valida por el futuro. El tiempo es paradójico, autorreferencial, y en este archivo siempre lo fue.
 
 ## La orden trans-geográfica
 

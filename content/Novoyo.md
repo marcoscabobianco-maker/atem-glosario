@@ -18,6 +18,10 @@ tags:
 ---
 # No-Voy-Yo / Novoyo
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Novoyo.png]]
+<!-- /HEADER_IMG -->
+
 > *El druida que dijo "no soy yo" y se quedó con el nombre. Surgió de una tumba donde había un doble gigante y rompió al que vino antes.*
 
 ## Presentación

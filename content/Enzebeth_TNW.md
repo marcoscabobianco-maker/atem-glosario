@@ -10,6 +10,10 @@ aliases:
 
 # Enzebeth (TNW)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Enzebeth_TNW.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** 9 ("dos guardianas imposibles"), resumen

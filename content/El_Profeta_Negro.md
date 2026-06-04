@@ -12,6 +12,10 @@ aliases:
 
 # El Profeta Negro
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/El_Profeta_Negro.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Hombre negro, alto, corpulento, casco con cuernos, se proclama "El Elegido." Posee el [[Dragon_Staff_Baston_del_Dragon|Dragon Staff]]. Predica ante esclavos reunidos clandestinamente en Nueva Ámsterdam: "El tiempo se acerca... Dios dice que combatamos el enemigo con sus propias armas." Visto por [[Vermir]] en Remote Viewing. Sol rojo que "clama por el baño de sangre."

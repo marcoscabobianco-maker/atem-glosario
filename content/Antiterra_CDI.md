@@ -9,6 +9,10 @@ aliases:
 ---
 # Antiterra (CDI)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Antiterra_CDI.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Tipo:** Ubicación secundaria, plano paralelo

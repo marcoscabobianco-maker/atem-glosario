@@ -18,6 +18,10 @@ aliases:
 
 # Manhattan / New Amsterdam (1662-1666)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Manhattan_New_Amsterdam_1662-1666.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Isla descrita antes de colonización masiva: "Isla de Muchas Colinas" (Manhatōes en Lenape). Fort Amsterdam al sur, Wall Street como muro defensivo literal, bosque denso donde será Central Park. Territorio Lenape bajo dominio holandés. [[Peter_Stuyvesant_II| II]] gobierna. "Comprada" por 60 guineas. Morada sagrada de Leonino en Manhattan norte.

@@ -13,6 +13,10 @@ aliases:
 
 # Soliman / Solomon
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Soliman_Solomon.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Vicealmirante del [[Gran_Khan|Gran Khan]]. Saluda al grupo en región lacustre. Presencia militar sugiere ataque pirata reciente. Navío tipo dragón observado. Discusión estratégica: isla principal vs. rutas alternativas por río.

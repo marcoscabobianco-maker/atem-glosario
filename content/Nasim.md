@@ -12,6 +12,10 @@ aliases:
 
 # Nasim
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Nasim.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Madre de **[[Clarisa]]** (III). Pareja de **[[Arcoms_Cosmar|Arcoms Cosmar]]**. Única mención documental:

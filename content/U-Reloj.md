@@ -8,6 +8,10 @@ aliases:
 ---
 # U-Reloj
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/U-Reloj.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Medidor de corrientes témpicas. Numeraciones y posiciones expresan distancias cuarta dimensión.

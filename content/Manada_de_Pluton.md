@@ -9,6 +9,10 @@ aliases:
 ---
 # Manada (de Plutón)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Manada_de_Pluton.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Fuente:** (Orador 1)

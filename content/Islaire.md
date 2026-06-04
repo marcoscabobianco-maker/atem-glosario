@@ -12,6 +12,10 @@ aliases:
 
 # Islaire
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Islaire.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Ubicación planar. Escenario de "Memorias de [[Amitlai]]" — narrativa de importancia cosmológica

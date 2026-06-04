@@ -15,6 +15,10 @@ tags:
 ---
 # Edward
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Edward.png]]
+<!-- /HEADER_IMG -->
+
 > *Agente de la corona inglesa. Siempre bien con Dios y con el Diablo.*
 
 ## Presentación

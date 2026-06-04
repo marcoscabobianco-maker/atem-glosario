@@ -11,6 +11,10 @@ aliases:
 
 # Luis
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Luis.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 compañero incorporado en NC10. Acusado por el Capitán del [[Wander]] de "ayudar al dragón." Estilo de combate agresivo — carga directamente contra el [[Dragon_Verde|Dragón Verde]] (NC11). En NC15-16 revelado como mercenario con pasado genocida: contagió lepra a indios, agente de "Potestas super terram." Pelo blanco, tez pálida, armaduras oscuras, espada terrible, cruz de hierro en el pecho, quemadura de ácido de [[Dragon_Staff_Baston_del_Dragon|Dragon Staff]] en la cabeza.

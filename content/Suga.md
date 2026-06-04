@@ -17,6 +17,10 @@ tags:
 
 # Suga
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Suga.png]]
+<!-- /HEADER_IMG -->
+
 > *Apodo de mesa que el avatar arlequín recibe durante el descenso por el Inferno. La grafía corta sirve como nombre de uso interno; el aparato del Coro no la registra como nombre canónico.*
 
 ---

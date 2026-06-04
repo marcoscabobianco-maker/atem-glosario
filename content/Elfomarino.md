@@ -1,17 +1,15 @@
 ---
+título: "ELFOMARINO — redirect"
+slug: ELFOMARINO
+estado: redirect
+target: "[[Elfomarino]]"
 aliases:
- - "Elfomarino"
-en_construccion: true
+ - ELFOMARINO
+tags:
+ - redirect
+ - filename-mayusculas-normalizado
 ---
 
-# Elfomarino
+# ELFOMARINO
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
-
-## Referencias entrantes
-
-- (sin referencias entrantes detectadas)
-
----
-
-*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*
+→ Consolidado en **[[Elfomarino]]**. *Filename MAYÚSCULAS reemplazado por Title Case canónico.*

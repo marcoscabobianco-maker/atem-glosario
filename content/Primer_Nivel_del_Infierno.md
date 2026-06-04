@@ -9,6 +9,10 @@ aliases:
 ---
 # Primer Nivel (del Infierno)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Primer_Nivel_del_Infierno.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Fuente:** el archivo, referencia a "Loba del Primer Nivel"

@@ -14,6 +14,10 @@ aliases:
 
 # Torre de Heva
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Torre_de_Heva.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Torre/fortaleza en Europa Central, escenario de asedio. Aparece en dos sesiones largas: "rol praga mikulov asedio en la torre de heva" (8377 ¶¶) y "en montbron contra el barquero y ultima visita torre heva" (5131 ¶¶). La "última visita" sugiere que el grupo retorna a Heva más de una vez. Mikulov es localidad real en Moravia (hoy República Checa).

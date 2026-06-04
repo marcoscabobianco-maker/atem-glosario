@@ -9,6 +9,10 @@ aliases:
 ---
 # Cronotravel
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cronotravel.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Sistema de viajes por el tiempo habitualizado en [[Antiterra_Demonia|Antiterra]]. El tiempo es una mercancía que se puede prestar, gastar, ahorrar. Requiere "cambio de ropa" apropiado para la época de destino. Envejecimiento acelerado como consecuencia mecánica. Paris funciona como "punto de cruce de tiempos" donde múltiples épocas convergen.

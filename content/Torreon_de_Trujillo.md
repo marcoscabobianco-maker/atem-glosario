@@ -9,6 +9,10 @@ aliases:
 
 # Torreón de Trujillo
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Torreon_de_Trujillo.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Comandante de guarnición en zona de Gibraltar. Descrito como soldado negro con bandera verde, cara con cicatriz, un solo ojo, fuma cigarro. Recibe al grupo como "viejo amigo." Ofrece banquete en el alcázar. Señala a contactos romanos.

@@ -19,6 +19,10 @@ tags:
 ---
 # Lucifer
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lucifer.png]]
+<!-- /HEADER_IMG -->
+
 > *El Caído. El que sentado en el palacio de Buckingham ofreció el Vala Cristalis a los que vinieran a buscar refugio.*
 
 ## Presentación

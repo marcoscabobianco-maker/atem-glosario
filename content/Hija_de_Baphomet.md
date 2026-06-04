@@ -1,17 +1,15 @@
 ---
+título: "HIJA DE BAPHOMET — redirect"
+slug: HIJA_DE_BAPHOMET
+estado: redirect
+target: "[[Hija_de_Baphomet]]"
 aliases:
- - "Hija_de_Baphomet"
-en_construccion: true
+ - HIJA DE BAPHOMET
+tags:
+ - redirect
+ - filename-mayusculas-normalizado
 ---
 
-# Hija De Baphomet
+# HIJA DE BAPHOMET
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
-
-## Referencias entrantes
-
-- (sin referencias entrantes detectadas)
-
----
-
-*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*
+→ Consolidado en **[[Hija_de_Baphomet]]**. *Filename MAYÚSCULAS reemplazado por Title Case canónico.*

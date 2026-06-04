@@ -14,6 +14,10 @@ aliases:
 
 # Sala del Tesoro
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Sala_del_Tesoro.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Cuarto de dungeon descrito en C47 p.12 (27 nov 2012). Centro de la

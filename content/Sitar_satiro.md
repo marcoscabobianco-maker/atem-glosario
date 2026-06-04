@@ -16,6 +16,10 @@ aliases:
 
 # Sitar (sátiro)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Sitar_satiro.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Sátiro de 300 años. Guardián de la isla donde se encuentra la entrada a la [[Atlantida_Alta_y_Baja|Atlántida]]. Dialoga con el grupo cuando desembarcan y les señala particularidades del paraje.

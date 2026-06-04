@@ -10,6 +10,10 @@ aliases:
 ---
 # Mariposa de Ámbar
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mariposa_de_Ambar.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Entidad o símbolo misterioso dejado flotando por el dragón psicopompo al retirarse del combate en el archivo. De color ámbar, sugiere "revisión" del caso de los [[Time_Bandits|Time Bandits]] ante las fuerzas de la [[Muerte]] y posibilidad de un "milagro" futuro. Contrasta con la advertencia sombría del psicopompo sobre las almas prometidas de la guerra.

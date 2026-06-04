@@ -1,17 +1,15 @@
 ---
+título: "MONTMARTRE — redirect"
+slug: MONTMARTRE
+estado: redirect
+target: "[[Montmartre]]"
 aliases:
- - "Montmartre"
-en_construccion: true
+ - MONTMARTRE
+tags:
+ - redirect
+ - filename-mayusculas-normalizado
 ---
 
-# Montmartre
+# MONTMARTRE
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
-
-## Referencias entrantes
-
-- (sin referencias entrantes detectadas)
-
----
-
-*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*
+→ Consolidado en **[[Montmartre]]**. *Filename MAYÚSCULAS reemplazado por Title Case canónico.*

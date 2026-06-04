@@ -1,17 +1,15 @@
 ---
+título: "FAIZANDRO — redirect"
+slug: FAIZANDRO
+estado: redirect
+target: "[[Faizandro]]"
 aliases:
- - "Faizandro"
-en_construccion: true
+ - FAIZANDRO
+tags:
+ - redirect
+ - filename-mayusculas-normalizado
 ---
 
-# Faizandro
+# FAIZANDRO
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
-
-## Referencias entrantes
-
-- (sin referencias entrantes detectadas)
-
----
-
-*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*
+→ Consolidado en **[[Faizandro]]**. *Filename MAYÚSCULAS reemplazado por Title Case canónico.*

@@ -9,6 +9,10 @@ aliases:
 ---
 # Dios del Fuego
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Dios_del_Fuego.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Entidad cósmica que quiere ser rey del tiempo. Tomó el "granaje" (mecanismo/engranaje) en algún momento y ha estado presente desde el principio. Sugiere una lucha de poder cósmica por el dominio temporal. Declarado por fuerzas elementales en el archivo.

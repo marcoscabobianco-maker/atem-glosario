@@ -18,6 +18,10 @@ tags:
 ---
 # Helena Blavatsky / Mamushka
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Blavatsky_Mamushka_TNW.png]]
+<!-- /HEADER_IMG -->
+
 > *Matrona rusa, teósofa, eslabón intermedio entre Paulus Alexandrinus y Paul Claudel. Custodia rusa del Portal del Yeti.*
 
 ## Presentación

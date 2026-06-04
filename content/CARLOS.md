@@ -5,6 +5,10 @@ aliases:
 
 # CARLOS
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/CARLOS.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Tipo:** Caballero Templario (figura)

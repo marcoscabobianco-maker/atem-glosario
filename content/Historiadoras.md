@@ -7,6 +7,10 @@ aliases:
 ---
 # Historiadoras
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Historiadoras.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** el archivo (descripcion), ("en un rato vienen las historias")

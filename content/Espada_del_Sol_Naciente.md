@@ -13,6 +13,10 @@ aliases:
 
 # Espada del Sol Naciente
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Espada_del_Sol_Naciente.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Espada dorada de Idaho, "la espada del sol que baja por la montaña." Cualidades solares y musicales. Permanece en mano de Idaho incluso durante la petrificación dorada.

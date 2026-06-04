@@ -10,6 +10,10 @@ aliases:
 ---
 # Forja Legendaria
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Forja_Legendaria.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Sitio de creación de artefactos temporales, mencionado en contexto de los Templarios y la Santa Lanza. Existencia datada ~1000 años antes de los eventos de la campaña.

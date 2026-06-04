@@ -9,6 +9,10 @@ aliases:
 ---
 # Cueva de los Lobos
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cueva_de_los_Lobos.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Mencionada por el cronista como destino para "sesión especial." Localización indeterminada (¿Abadón? ¿Bizancio? ¿plano de la espina dorsal?). El GLOSARIO tiene lobos blancos de corazón de hielo en [[Torregrises]]/Primera Plataforma — posible conexión.

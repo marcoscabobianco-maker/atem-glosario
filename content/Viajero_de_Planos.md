@@ -3,7 +3,6 @@ aliases:
  - "Nuevo_Companero_post_TE10"
  - "Nuevo compañero (post-TE10)"
  - "Nuevo compañero"
- - "JAVI_Viajero_de_Planos"
  - "Viajero de Planos"
 epoca: "Edad del Descenso — nuevo compañero post-sacrificio"
 ---

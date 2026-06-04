@@ -7,6 +7,10 @@ aliases:
 ---
 # Goristro
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Goristro.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** el archivo (aparicion), (fuga del Duque)

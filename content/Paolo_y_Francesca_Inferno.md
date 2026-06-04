@@ -14,6 +14,10 @@ aliases:
 ---
 # Paolo y Francesca (Inferno)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Paolo_y_Francesca_Inferno.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 ## Apariciones notables

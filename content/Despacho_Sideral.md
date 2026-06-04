@@ -8,6 +8,10 @@ aliases:
 ---
 # Despacho Sideral
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Despacho_Sideral.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Estación interestelar con "estrellas al fondo" donde los [[Time_Bandits|Time Bandits]] combaten autómatas guardianes durante su viaje FTL de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] 1055 a 1050 vía Alpha Centauri. Descrito en el docx como "despacho sideral con autómatas (cubos mecánicos y un 'hombre de bronce'), guardianes de las puertas interestelares."

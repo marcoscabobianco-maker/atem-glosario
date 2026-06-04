@@ -6,6 +6,10 @@ aliases:
 
 # Patriarca Como Guardián Futuro
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Patriarca_Como_Guardian_Futuro.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 - **Rol en la operación al Temple y la jornada de la campana:** Aliado firme; poder militar inequívoco

@@ -10,6 +10,10 @@ aliases:
 ---
 # Autómatas Siderales (Guardianes Interestelares)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Automatas_Siderales_Guardianes_Interestelares.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Criaturas mecánicas que custodian las puertas interestelares en el "despacho sideral" — estación de tránsito entre sistemas estelares. El docx los describe como "cubos mecánicos y un hombre de bronce."

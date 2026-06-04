@@ -8,6 +8,10 @@ aliases:
 
 # TORRE DEL CORAZÓN (Centro de Secretos Temporales)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/TORRE_DEL_CORAZON_Centro_de_Secretos_Temporales.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ubicación:** Desconocida. Accesible vía [[Libro_Azul|Libro Azul]] (específicamente FINAL del Libro)

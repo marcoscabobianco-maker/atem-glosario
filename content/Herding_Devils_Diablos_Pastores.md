@@ -9,6 +9,10 @@ aliases:
 ---
 # Herding Devils (Diablos Pastores)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Herding_Devils_Diablos_Pastores.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** el archivo (combate completo)

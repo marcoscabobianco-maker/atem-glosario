@@ -12,6 +12,10 @@ aliases:
 ---
 # Los Vigilantes (Watchers)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Los_Vigilantes_Watchers.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Orden de ángeles caídos a la que pertenece [[Baraquiel]]. Referencia a la tradición del Libro de Enoc (Vigilantes/Watchers que descendieron a la Tierra y fueron castigados). Su presencia expande la cosmología de la campaña más allá de D&D canónico hacia fuentes judeo-cristianas apócrifas.

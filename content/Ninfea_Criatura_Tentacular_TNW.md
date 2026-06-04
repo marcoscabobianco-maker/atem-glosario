@@ -14,6 +14,10 @@ aliases:
 
 # Nínfea / Criatura Tentacular (TNW)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ninfea_Criatura_Tentacular_TNW.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** Resumen –82.

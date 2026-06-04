@@ -1,17 +1,15 @@
 ---
+título: "LEONARDO DA VINCI — redirect"
+slug: LEONARDO_DA_VINCI
+estado: redirect
+target: "[[Leonardo_da_Vinci]]"
 aliases:
- - "Leonardo_da_Vinci"
-en_construccion: true
+ - LEONARDO DA VINCI
+tags:
+ - redirect
+ - filename-mayusculas-normalizado
 ---
 
-# Leonardo Da Vinci
+# LEONARDO DA VINCI
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
-
-## Referencias entrantes
-
-- (sin referencias entrantes detectadas)
-
----
-
-*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*
+→ Consolidado en **[[Leonardo_da_Vinci]]**. *Filename MAYÚSCULAS reemplazado por Title Case canónico.*

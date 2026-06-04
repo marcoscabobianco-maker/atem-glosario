@@ -10,6 +10,10 @@ epoca: "Edad del Descenso — Plutón del Inferno"
 
 # **Plutón (CDI)**
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Pluton_CDI.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Categoría**: figura / Guardián círculo 4

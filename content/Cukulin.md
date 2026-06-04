@@ -7,6 +7,10 @@ aliases:
 ---
 # Cukulín
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cukulin.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Amiga de la elfa [[Alexine_Mangetout|Alexine Mangetout]]. Víctima de crimen brutal en pasado (atacada junto a Alexine por [[Cornablue]] y [[La_Salud|La Salud]]). Amordazada, robada. Testimonio esquivo sobre incidente. Sigue débil emocionalmente. Busca "encargado de seguridad" para protección. Grupo la tranquiliza, investigación conecta a [[Cornablue]] y [[La_Salud|La Salud]] como atacantes recurrentes. Cukulín niega haber visto al Príncipe en la noche del crimen.

@@ -12,6 +12,10 @@ aliases:
 
 # Moon River
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Moon_River.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Tigre albino, compañero animal de [[Iriscan]]. Funciona como [[Nightmare_montura|montura]] de combate y soporte táctico. En el clímax de [[Zaira]] es referido como portador de esperanza: "Moon River salve la ciudad." Recibe awaken de Annunaki que le otorga inteligencia excesiva (dato [R] de , verificación pendiente en archivos). Posteriormente sustituido/complementado por [[Melody]] (dinosauria).

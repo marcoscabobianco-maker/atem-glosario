@@ -13,6 +13,10 @@ aliases:
 
 # Gary, Indiana (TNW)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gary_Indiana_TNW.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** archivos 1a–9, resumen docx.

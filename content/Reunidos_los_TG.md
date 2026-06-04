@@ -14,6 +14,10 @@ aliases:
 
 # Reunidos, los (TG)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Reunidos_los_TG.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Cuatro seres ancestrales** mencionados en la cosmogonía de [[Torregrises]]. *El archivo los registra como cuatro figuras que llegan en galeón marrón y negro tripulado por elfos antiguos*, **portadores de planos del mundo**. La descripción visual conserva:

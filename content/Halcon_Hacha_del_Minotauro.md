@@ -7,6 +7,10 @@ aliases:
 
 # Halcón/Hacha del Minotauro
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Halcon_Hacha_del_Minotauro.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Descripción:** Arma de [[Minotauro_Jefe_del_Laberinto|Minotauro]]. Referido como "H del minotauro" (posible abreviatura o distorsión de TurboScribe).

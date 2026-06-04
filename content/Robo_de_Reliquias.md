@@ -7,6 +7,10 @@ aliases:
 
 # Robo de Reliquias en el Temple
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Robo_de_Reliquias.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Evento:** Segunda noche tras el retorno a [[Temple_complejo_TE|Temple]]. Entrada no autorizada en cripta de reliquias.

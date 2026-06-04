@@ -1,17 +1,15 @@
 ---
+título: "MOONRIVER — redirect"
+slug: MOONRIVER
+estado: redirect
+target: "[[Moonriver]]"
 aliases:
- - "Moonriver"
-en_construccion: true
+ - MOONRIVER
+tags:
+ - redirect
+ - filename-mayusculas-normalizado
 ---
 
-# Moonriver
+# MOONRIVER
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
-
-## Referencias entrantes
-
-- (sin referencias entrantes detectadas)
-
----
-
-*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*
+→ Consolidado en **[[Moonriver]]**. *Filename MAYÚSCULAS reemplazado por Title Case canónico.*

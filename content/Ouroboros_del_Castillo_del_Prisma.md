@@ -7,6 +7,10 @@ aliases:
 ---
 # Ouroboros del Castillo del Prisma
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ouroboros_del_Castillo_del_Prisma.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** el archivo

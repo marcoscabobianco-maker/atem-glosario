@@ -8,6 +8,10 @@ aliases:
 ---
 # Henriette
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Henriette.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Miembro de las [[Palomas_de_Hierro|Palomas de Hierro]]. Amiga de [[Claude_Nauge|Claude Nauge]]. Receptora de sandalias rojas confiscadas (para financiar alimentación de niños abandonados).

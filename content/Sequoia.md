@@ -12,6 +12,10 @@ aliases:
 
 # Sequoia
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Sequoia.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Padre de [[Rebeca_Pocahontas|Rebeca]]. Maestro platero/herrero de habilidad extraordinaria. Exiliado de su comunidad por enseñar escritura Cherokee. Enterró cuatro ataúdes con criaturas vivas malditas en minas de plata para sellar corrupción ancestral. Hizo pactos con dragones y con el "Árbol de la Paz" (Confederación Iroquesa). Guantes bordados con [[Thunderbirds_Pajaros_de_Trueno|Pájaros de Trueno]]. Su hermano Doble Cabeza murió por consecuencias de estos pactos. Figura trágica: sus pactos protegen pero también atan.

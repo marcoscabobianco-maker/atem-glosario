@@ -10,6 +10,10 @@ aliases:
 ---
 # La Londra
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/La_Londra.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Ref.:** el archivo (por salir de Cádiz), el archivo (presenta stormy).

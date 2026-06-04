@@ -10,6 +10,10 @@ aliases:
 ---
 # La Acuaria
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/La_Acuaria.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Mujer/entidad que lleva cantos y ofrece garras del río océano. Presente en la asamblea de el archivo. ¿[[Cakravartin|Crakavartín]]/Aqualord? ¿Relación con la [[Atlantida_Alta_y_Baja|Atlántida]]? Facción del agua como contrapeso al fuego.

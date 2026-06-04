@@ -12,6 +12,10 @@ aliases:
 
 # Taberna de la Serpiente Mundo
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Taberna_de_la_Serpiente_Mundo.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Taberna dimensional que existe a través de múltiples planos. Originalmente propiedad de **Cronos** (titán). Contiene portales a **Limbo**, **Baator**, y otros planos. El personal incluía a **Día** (ninfa rubia) y **Noche** (ninfa pelirroja).

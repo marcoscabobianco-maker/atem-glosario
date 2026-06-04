@@ -9,6 +9,10 @@ aliases:
 ---
 # Kerubines (Paladinas)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Kerubines_Paladinas.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Referencia:** el archivo

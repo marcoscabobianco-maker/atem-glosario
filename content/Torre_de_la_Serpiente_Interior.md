@@ -11,6 +11,10 @@ aliases:
 ---
 # Torre de la Serpiente (Interior)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Torre_de_la_Serpiente_Interior.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Interior del [[Faro-Monolito_El_Faro|Faro-Monolito]] de la [[Isla_de_la_Serpiente|Isla de la Serpiente]], explorado con más detalle en el archivo. Además de la sala del [[Circulo_Simultaneo|Círculo Simultáneo]] (piso superior, esta sesión y posteriores), el grupo descubre pisos inferiores con:

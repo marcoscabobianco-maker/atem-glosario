@@ -16,6 +16,10 @@ tags:
 ---
 # Lirio
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lirio.png]]
+<!-- /HEADER_IMG -->
+
 > *Paladín peregrino del reino de León. El que buscaba el cáliz sagrado, sin gloria, sin ruido.*
 
 ## Presentación

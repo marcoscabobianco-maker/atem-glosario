@@ -9,6 +9,10 @@ aliases:
 
 # Emma Goldman
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Emma_Goldman.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Anarquista histórica, miembro de los [[Cuervos]]. Pronunció: "Anarchism stands for the liberation of the human mind from the dominion of religion, liberation of the human body from the dominion of property."

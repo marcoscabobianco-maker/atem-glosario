@@ -6,6 +6,10 @@ aliases:
 
 # Infiltración y Posesión Sistemática
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Infiltracion_y_Posesion_Sistematica.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Tema:** Confirmación de que enemigos no son solo enemigos externos, sino infiltradores internos. Flamenco ([[Jornada_del_Falso_Maestre]]) como ejemplo. Santuario como base de operaciones de posesión sistemática.

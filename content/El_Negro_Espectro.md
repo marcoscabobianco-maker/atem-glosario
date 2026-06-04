@@ -1,17 +1,15 @@
 ---
+título: "EL NEGRO Espectro — redirect"
+slug: EL_NEGRO_Espectro
+estado: redirect
+target: "[[El_Negro_Espectro]]"
 aliases:
- - "El_Negro_Espectro"
-en_construccion: true
+ - EL NEGRO Espectro
+tags:
+ - redirect
+ - filename-mayusculas-normalizado
 ---
 
-# El Negro Espectro
+# EL NEGRO Espectro
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
-
-## Referencias entrantes
-
-- (sin referencias entrantes detectadas)
-
----
-
-*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*
+→ Consolidado en **[[El_Negro_Espectro]]**. *Filename MAYÚSCULAS reemplazado por Title Case canónico.*
