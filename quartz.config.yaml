@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+# Override of quartz.config.default.yaml para el Glosario ATEM
+configuration:
+  pageTitle: "Glosario ATEM"
+  pageTitleSuffix: " · Mega Campaña"
+  enableSPA: true
+  enablePopovers: true
+  locale: es-ES
+  baseUrl: atem-glosario.pages.dev  # placeholder - Marcos lo cambia cuando configure el dominio
+  ignorePatterns:
+    - private
+    - templates
+    - .obsidian
+    - _meta
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Schibsted Grotesk
+      body: Source Sans Pro
+      code: IBM Plex Mono
