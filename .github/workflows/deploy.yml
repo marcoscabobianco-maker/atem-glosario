@@ -50,7 +50,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build Quartz site
-        run: npx quartz build
+        run: |
+          chmod +x ./quartz/bootstrap-cli.mjs 2>/dev/null || true
+          node ./quartz/bootstrap-cli.mjs build
 
       - name: Copy Imagenes_Tier1 to public/
         run: |
