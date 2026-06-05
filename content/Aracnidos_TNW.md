@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Aracnidos"
  - "Aracnidos_TNW"
 en_construccion: true
 ---

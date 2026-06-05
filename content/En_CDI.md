@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "En"
  - "En_CDI"
 en_construccion: true
 ---

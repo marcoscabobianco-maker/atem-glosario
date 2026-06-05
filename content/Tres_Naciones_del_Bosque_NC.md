@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Tres Naciones del Bosque"
  - "Tres_Naciones_del_Bosque_NC"
 en_construccion: true
 ---

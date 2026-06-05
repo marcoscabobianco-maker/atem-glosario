@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Grast Dios de Hierro"
  - "Grast_Dios_de_Hierro_TNW"
 en_construccion: true
 ---

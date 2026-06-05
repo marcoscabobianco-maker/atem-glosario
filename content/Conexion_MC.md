@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Conexion"
  - "Conexion_MC"
 en_construccion: true
 ---

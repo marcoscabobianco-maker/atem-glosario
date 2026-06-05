@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Campana Dante S Inferno"
  - "Campana_Dante_S_Inferno_CDI"
 en_construccion: true
 ---

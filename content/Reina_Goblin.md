@@ -1,5 +1,7 @@
 ---
 aliases:
+ - "Queen Goblin"
+ - "Goblin"
  - "Reina_Goblin"
 en_construccion: true
 ---

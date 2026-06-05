@@ -1,5 +1,8 @@
 ---
 aliases:
+ - "Señor Soth"
+ - "Sir Soth"
+ - "Soth"
  - "Lord_Soth"
 en_construccion: true
 ---

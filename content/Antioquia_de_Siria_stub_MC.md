@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Antioquia de Siria stub"
  - "Antioquia_de_Siria_stub_MC"
 en_construccion: true
 ---

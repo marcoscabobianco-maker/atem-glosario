@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Amonio Sacas stub"
  - "Amonio_Sacas_stub_MC"
 en_construccion: true
 ---

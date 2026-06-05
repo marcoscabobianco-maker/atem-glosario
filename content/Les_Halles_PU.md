@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Les Halles"
  - "Les_Halles_PU"
 en_construccion: true
 ---

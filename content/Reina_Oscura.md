@@ -1,5 +1,7 @@
 ---
 aliases:
+ - "Queen Oscura"
+ - "Oscura"
  - "Reina_Oscura"
 en_construccion: true
 ---

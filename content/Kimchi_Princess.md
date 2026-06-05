@@ -1,5 +1,7 @@
 ---
 aliases:
+ - "Princesa Kimchi"
+ - "Kimchi"
  - "Kimchi_Princess"
 en_construccion: true
 ---

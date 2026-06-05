@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Catedral implosionada"
  - "Catedral_implosionada_PU"
 en_construccion: true
 ---

@@ -1,5 +1,6 @@
 ---
 aliases:
+ - "Robots"
  - "Robots_TNW"
 en_construccion: true
 ---
