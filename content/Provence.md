@@ -1,0 +1,47 @@
+---
+tags: [SaintGermain, MMF, 1648, Francia, lugar, kanka-5211443]
+meta: M
+image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Provence_retrato.png
+image_status: pending
+nexus_status: APPROVED
+---
+
+# ATEM::SaintGermain::MMF::Provence
+
+> [!image-pending] Generar imagen
+> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Provence_retrato.png`
+> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Provence. Estilo coherente con la campaña.
+> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+
+![[ATEM__SaintGermain__MMF__Provence_retrato.png]]
+
+
+**status:** PROPUESTO — requires_user_review
+**namespace:** ATEM::SaintGermain::MMF
+**kanka_id:** 5211443
+**kanka_url:** https://app.kanka.io/w/216093/entities/5211443
+**kanka_kind:** location
+**kanka_type:** (vacío)
+**parent_location:** Francia (kanka 5151801)
+
+## Resumen de aparición en transcripts MMF
+
+- **Hits totales** (todas las sesiones): 14
+- **Sesiones donde aparece** (3/9):
+  - S5 — 7 hits
+  - S6 — 2 hits
+  - S8 — 5 hits
+
+## Entry Kanka actual
+
+> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
+
+## Citas y notas de sesión
+
+(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
+
+## Propuesta ATEM
+
+- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
+- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
+- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
