@@ -9,4 +9,4 @@ aliases:
 ![[Imagenes_Tier1/Panteon_de_Tanastias.png]]
 <!-- /HEADER_IMG -->
 
-Composición triádica: [[Arian]], [[Maristo]], [[Minborguen]] con altar central.
+Composición triádica: [[Arian]], [[Maristo]], [[Minborgen]] con altar central.

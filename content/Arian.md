@@ -74,7 +74,7 @@ Allí —en el mundo gemelo que no se nombra dos veces sin permiso— se involuc
 
 Mil años. La cifra es astrológica, no biográfica. **Arian no envejeció.**
 
-Cuando el Artefacto se liberó, retomó las aventuras de largo alcance. Con **[[Maristo]]** y **[[Minborguen]]**, fundó el núcleo del **[[Panteon_el|Panteón de Tanastias]]**. Una profecía cruzada con [[Adimanto]], [[Ariadna_Genoveva|Ariadna]] y un semielfo cuyo nombre se discute lo confirmó como **divinidad protectora de los misterios de la magia**.
+Cuando el Artefacto se liberó, retomó las aventuras de largo alcance. Con **[[Maristo]]** y **[[Minborgen]]**, fundó el núcleo del **[[Panteon_el|Panteón de Tanastias]]**. Una profecía cruzada con [[Adimanto]], [[Ariadna_Genoveva|Ariadna]] y un semielfo cuyo nombre se discute lo confirmó como **divinidad protectora de los misterios de la magia**.
 
 El acto cosmogónico mayor: *"danzó con Tiamat y después de Lucurioso se juntó con ella, pero le cortó la cabeza"*. **El paralelo con Marduk del Enuma Elish es directo.** Danza con el caos. Decapitación. Reordenamiento del cielo a partir de las piezas.
 
@@ -138,8 +138,8 @@ Salió **[[Caladan]]**.
 - [[Sagrada_Orden]] — la orden que lo formó y lo despidió
 - [[Torregrises]] — exilio y primera gesta del Artefacto
 - [[Artefacto_Engranaje]] — la carga cosmogónica
-- [[Panteon_el|Panteón de Tanastias]] — co-fundador con Maristo y Minborguen
-- [[Maristo]], [[Minborguen]] — compañeros del Panteón
+- [[Panteon_el|Panteón de Tanastias]] — co-fundador con Maristo y Minborgen
+- [[Maristo]], [[Minborgen]] — compañeros del Panteón
 - [[Ariadna_Genoveva|Ariadna]], [[Adimanto]] — profecía conjunta
 - [[Tiamat_MC|Tiamat]] — danza y decapitación cosmogónica
 - [[Grazzt|Graz'zt]] — adversario constante

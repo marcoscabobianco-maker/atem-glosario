@@ -67,7 +67,7 @@ Cinco voces hablaron por las cuatro voluntades. **La aritmética desajusta a pro
 
 **[[Maristo]]** —*"a quien hay que matar"*, según la fórmula que la asamblea le adjudicó—, por la causa de Dios. **Su nombre llevaba la sentencia como cifra**. Lo nombraron representante con la condición implícita de que su victoria lo desharía.
 
-**[[Minborguen]]** —por **Helm**—. Soldado-sacerdote de la fe que no negocia. La voz menos elegante; la voz que ganaba por terquedad. *El cronista, que tiene afecto por las terquedades inteligentes, lo aprecia sin retórica.*
+**[[Minborgen]]** —por **Helm**—. Soldado-sacerdote de la fe que no negocia. La voz menos elegante; la voz que ganaba por terquedad. *El cronista, que tiene afecto por las terquedades inteligentes, lo aprecia sin retórica.*
 
 **[[Cloeh]]** —por **Kosuth**—. Voz del cosmos sin sujeto, paradoja andante: representa lo que no se deja representar.
 
@@ -157,7 +157,7 @@ La Contienda **no clausuró nada y dejó todo abierto**, que es como suelen term
 - [[Panteon_el|Panteón]] — los cinco representantes y compañeros
 - [[Arian]] — representante por Mystra; bodhisattva del Arte
 - [[Maristo]] — representante por Dios; *"a quien hay que matar"*
-- [[Minborguen]] — representante por Helm
+- [[Minborgen]] — representante por Helm
 - [[Cloeh]] — representante por Kosuth
 - [[Tii_TiiMhut|Tii]] — representante por la Reina Oscura; abandonó el culto durante el viaje
 - [[Tiamat_MC|La Reina Oscura]] — potencia mayor del orden totalitario

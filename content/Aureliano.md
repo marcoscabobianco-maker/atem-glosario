@@ -29,7 +29,7 @@ Período (270-275): Guerra Alejandrina (ataque a la Biblioteca de [[Alejandria|A
 
 *Fuente primaria:* Documento Skronamon (líneas 9, 11, 20, personaje 11).
 
-*Conexiones:* **[[Grazzt|Graz'zt]] / [[GRDT]]** (prisionero/antagonista), **[[Zenobia_de_Palmyra|Zenobia de Palmyra]]** (rival vencida), **[[Axum_MC|Axum (MC)]]** (embajadores desfilados), **[[Minborguen]]** ([[Sol_Invictus_Culto_Mediterraneum|Sol Invictus]] como conexión simbólica), **[[Juan_el_Cazador|Juan el Cazador]]** (huida de Roma).
+*Conexiones:* **[[Grazzt|Graz'zt]] / [[GRDT]]** (prisionero/antagonista), **[[Zenobia_de_Palmyra|Zenobia de Palmyra]]** (rival vencida), **[[Axum_MC|Axum (MC)]]** (embajadores desfilados), **[[Minborgen]]** ([[Sol_Invictus_Culto_Mediterraneum|Sol Invictus]] como conexión simbólica), **[[Juan_el_Cazador|Juan el Cazador]]** (huida de Roma).
 
 ## Ver también
 
@@ -38,5 +38,5 @@ Período (270-275): Guerra Alejandrina (ataque a la Biblioteca de [[Alejandria|A
 - [[Grazzt|Graz'zt]]
 - [[Axum|Axum]]
 - [[Grazzt|Graz'zt / GRDT]]
-- [[Minborguen|Minborguen]]
+- [[Minborgen|Minborgen]]
 - [[Juan_el_Cazador|Juan el Cazador]]

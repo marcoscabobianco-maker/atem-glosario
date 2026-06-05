@@ -85,7 +85,7 @@ tags:
 - **1368 DR — Edad de los Reinos Olvidados — Marpenoth 6** — [[Danza_del_Conocimiento|Danza del Conocimiento]]
 - **1368-1375 DR — Edad de los Reinos Olvidados — Danza del Conocimiento y Juicio Final** — [[Minaya_MC|Minaya (MC)]]
 - **antes de la Contienda; reapariciones documentadas hasta y después de 1370 DR** — [[Maristo|Maristo]]
-- **antes de la Contienda; Rey de los Enanos desde 1370 DR (Tres Coronas)** — [[Minborguen|Minborguen — el enano de las hachas]]
+- **antes de la Contienda; Rey de los Enanos desde 1370 DR (Tres Coronas)** — [[Minborgen|Minborgen — el enano de las hachas]]
 - **1370 DR — Edad de los Reinos Olvidados** — [[Tres_Coronas_1370|Tres Coronas 1370]]
 - **1375 DR — Edad de los Reinos Olvidados — derrota de Tiamat** — [[Juicio_Final|Juicio Final]]
 - **siglo XIV DR; reapariciones documentadas hasta 1409 DR; equivalencia dinastía XVIII egipcia** — [[Amitlai|Amitlai]]

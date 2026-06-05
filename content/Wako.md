@@ -35,7 +35,7 @@ con [[Grazzt|Graz'zt]] sugiere diplomacia o negociación con poderes demoníacos
 
 **Taller de Rol** (líneas 473-494): arco completo de
 Wako en la [[Contienda]] (torneo año 2000 en mesa, 1370 DR). Wako con hermanos Jaco y
-Dott; portal al Infierno; primer encuentro con [[Maristo]], [[Arian]] y [[Minborguen]]. Convocado
+Dott; portal al Infierno; primer encuentro con [[Maristo]], [[Arian]] y [[Minborgen]]. Convocado
 en [[Sigil]] para la misión de las coronas. Mystra lo asigna a custodiar al elfo Ranzid.
 Episodio del Mundo de Tinieblas, amistad con Most, María y Lara. Participación en el
 Salón de los Espejos: elfos de [[Arian]] disparan contra seguidores de [[Maristo]].

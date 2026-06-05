@@ -16,7 +16,7 @@ aliases:
 
 Sistema de correspondencias pecados/virtudes asignado a los miembros
 de [[Rintrah]]. Documentado en [3-9]:
-[[More]] = Orgullo / Humildad; [[Minborguen]] = Avaricia / Generosidad;
+[[More]] = Orgullo / Humildad; [[Minborgen]] = Avaricia / Generosidad;
 [[Ray_TNW|Ray]] = Envidia / Amor-empatía; Elhenor = Ira / Amabilidad;
 [[Kal-el]] = Lujuria-vanidad / Castidad; Demián = Glotonería / Templanza;
 Bullfight ([[Bulfie]]) = Pereza / Celo.

@@ -25,7 +25,7 @@ enfrentamiento con **[[Grazzt|Graz'zt]]** y la impugnación-traición durante la
 los obliga a retroceder mil años en el tiempo.
 
 *Miembros:* **[[Arian]]** (elfo, ascendido a divinidad), **[[Maristo]]** (paladín de
-Helm, Tres Coronas), **[[Minborguen]]** (enano, Tres Coronas), **[[Cloeh]]** /
+Helm, Tres Coronas), **[[Minborgen]]** (enano, Tres Coronas), **[[Cloeh]]** /
 Andrea de Napoli (hechicera), **[[Letham]]** (pendiente de entrada propia), **[[Tii_TiiMhut|Tii]]** / **[[Tii_TiiMhut|Tii'Mhut]]** (avatar de la Reina Oscura/[[Avishai_draconicos_Tiamat|Tiamat]]).
 
 **[[Panteon_Posmoderno|Panteón Posmoderno]] (C17, oct 2003-ene 2004):** Los cuadernos T documentan
@@ -61,7 +61,7 @@ Los miembros listados son los confirmados en las fuentes procesadas hasta ahora.
 - [[Grazzt|Graz'zt]]
 - [[Arian|Arian]]
 - [[Maristo|Maristo]]
-- [[Minborguen|Minborguen]]
+- [[Minborgen|Minborgen]]
 - [[Cloeh|Cloeh]]
 - [[Letham|Letham]]
 - [[Tii|Tii]]

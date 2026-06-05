@@ -73,7 +73,7 @@ Kosakov el Conde · [[Kosuth_TG|Kosuth]] · Kropoktkin · Kulavaishyrus · Kyrio
 **L:** Ladón · [[La_Dama_Notre_Dame|La Dama]] del Dolor · La Fiebre · Latromis · Layo · Laveth · Libeck · [[Lolth]] · [[Lord_Gaul|Lord Gaul]] · Los · [[Lotan]] *(→ entrada completa)* · Lorenzo de Medici · [[Lotario]] · Lovborg · Lucca · Lucifer · Lucio Spini · **[[Lubina]]** *(→ entrada completa)* · Luquimia · Lujambio · Luvah
 
 **M:** Malcantet · [[Malakya-Axum]] *(→ entrada completa)* · [[Mani]] *(→ entrada completa)* · Marco Polo · Marcus · [[Marcos_el_Mago_Lich_Marcos_Arcoms_Cosmar|Marcos el Mago]] · María · [[Maristo]] · Markstead · Mat · Matilde Tout de Tué · Mauritius / San Mauricio *(→ stub MC)* · Maurito · Mazada ·
-Mazes · ciclo · [[Melania]] · Mencratia · Mephistofeles · Mequetref · Mentol · Mentuhotep Faraón · [[Minaya_MC|Minaya]] · [[Minborguen]] ·
+Mazes · ciclo · [[Melania]] · Mencratia · Mephistofeles · Mequetref · Mentol · Mentuhotep Faraón · [[Minaya_MC|Minaya]] · [[Minborgen]] ·
 Mirabilia · Miss Diana Diamond · Mitch · Moloch · [[Innombrable|el Innombrable]] · Most · Mundos · Musel · Musel Wyrm · [[Muerte]] Plateada · Myriddyn · Mystra · Mónaco
 
 **N:** Nada la · Naves del caos las · [[Grazzt|Neorex]] · Nemrod · Nezarith · Nikki · Nombres Verdaderos · Nubia · Nueva Orleans · [[Nueva_York_New_York|Nueva York]] *(→ entrada completa)* · Niño

@@ -15,7 +15,7 @@ Esta entrada es mencionada desde:
 
 - [[Maristo]]
 - [[Maristo_condenado]]
-- [[Minborguen]]
+- [[Minborgen]]
 
 ---
 
