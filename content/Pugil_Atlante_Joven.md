@@ -25,7 +25,7 @@ imagen: null
 # Pugil Atlante
 
 <!-- HEADER_IMG -->
-![[Imagenes_Tier1/Pugil_Atlante_nuevo_PJ_de_Juli.png]]
+![[Imagenes_Tier1/Pugil_Atlante_Joven.png]]
 <!-- /HEADER_IMG -->
 
 > *"El puño no opera por fuerza, opera por trazado. El trazado se hereda. El trazado en la piel del Pugil viene de manos que él nunca conoció, y opera con la disciplina de quienes lo grabaron."* — del cuaderno operativo de un cronista del Mediterráneo Atlante.
