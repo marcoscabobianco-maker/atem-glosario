@@ -8,7 +8,7 @@ aliases:
  - La Ciudad Volcánica
  - La urbe del cráter dormido
 categoria_diegetica: lugar
-epoca: "fundada en el primigenio sobre cráter de volcán dormido; activa en el ciclo presente (1824 AE)"
+epoca: "1824 AE — Cristal (fundada en el primigenio sobre cráter de volcán dormido; activa en el ciclo presente)"
 ubicacion_principal: "cráter de volcán dormido, unos 100 km al norte de Ciudad Estrella; manifestación geográfica sobre una de las Plataformas primigenias del mundo-gema Vala Cristalis"
 tags:
  - lugar
@@ -45,21 +45,21 @@ Detrás de la cortina roja del taller se abren los túneles de [[Jzadirune]], un
 
 No fue todo.
 
-Se hacen llamar La Jabalina. El nombre importa: en otra parte del cosmos, la Jabalina es un [[La_Hostia_artefacto|artefacto]], la [[Vara_del_Infinito]] que tocó manos de héroes cuyo nombre resuena en campañas que llevan siglos. Estos ocho no lo saben del todo, o tal vez algunos lo sospechan. Lo que sí saben es que Caldero tiene más secretos que túneles, y más túneles que calles.
+Se hacen llamar [[La_Jabalina]]. El nombre importa: en otra parte del cosmos, la Jabalina es un [[La_Hostia_artefacto|artefacto]], la [[Vara_del_Infinito]] que tocó manos de héroes cuyo nombre resuena en campañas que llevan siglos. Estos ocho no lo saben del todo, o tal vez algunos lo sospechan. Lo que sí saben es que Caldero tiene más secretos que túneles, y más túneles que calles.
 
 La segunda fase los lleva hacia arriba y hacia abajo al mismo tiempo. Hacia arriba: la política de Caldero está podrida, [[Lord_Valanthru]] manipula secuestros y rituales desde las alturas, los niños marcados con signos zodiacales son piezas de un tablero que nadie les explicó. Hacia abajo: [[Zenith_Splintershield]], enano profeta convertido en vocero de los kuo-toa en el Underdark, necesita ser rescatado de una doctrina que no es suya. Y en el medio, [[Jared_el_Loco]] pelea dragones rojos en su patio mientras diablos le arrancan la barba con la paciencia de quien desgrana maíz.
 
 Jared muere despedazado delante de ellos.
 
-[[Scylla]], el monje de las sombras que Guido trae a la mesa como un bisturí con piernas, se va por su cuenta al [[Shadowfell]]. Teo, paladín de los que no se miden, pierde un brazo salvando a [[Fogimer]] y consigue una prótesis mágico-industrial que funciona igual pero duele distinto. Un niño marcado con un topacio en la mejilla dice "yo no lloré" y nadie sabe todavía para qué lo están preparando.
+[[Scylla]], el monje de las sombras que llega a la compañía como un bisturí con piernas, se va por su cuenta al [[Shadowfell]]. Teo, paladín de los que no se miden, pierde un brazo salvando a [[Fogimer]] y consigue una prótesis mágico-industrial que funciona igual pero duele distinto. Un niño marcado con un topacio en la mejilla dice "yo no lloré" y nadie sabe todavía para qué lo están preparando.
 
-La tercera fase es la que rompe la escala. La Jabalina sale de Caldero, remonta el río [[Rio_Oukronos|Oukronos]] — no un río cualquiera sino un cauce donde el tiempo corre al revés — en un bajel de velas color limón. Obtienen un zeppelin destartalado, pelean brujas sobre escobas y un dragón tortuga, y llegan a Greyhawk llevando un Fénix herido que es algo más que un pájaro: es el termostato viviente de la capa de Vala, el cristal que protege este mundo.
+La tercera fase es la que rompe la escala. [[La_Jabalina]] sale de Caldero, remonta el río [[Rio_Ucronos|Oukronos]] — no un río cualquiera sino un cauce donde el tiempo corre al revés — en un bajel de velas color limón. Obtienen un zeppelin destartalado, pelean brujas sobre escobas y un dragón tortuga, y llegan a Greyhawk llevando un Fénix herido que es algo más que un pájaro: es el termostato viviente de la capa de Vala, el cristal que protege este mundo.
 
-Porque este mundo — Eilidh, [[Bala]], como quieran llamarlo — es una gema. Un rubí. Un arca donde millones de almas fueron refugiadas cuando Terra y [[Antiterra_Demonia|Antiterra]] iban a colisionar en la [[Franja_de_Disolucion|Franja de Disolución]]. Todo lo que es Caldero, Ciudad Estrella, el volcán muerto, la revolución mágico-industrial, el río Oukronos, los niños marcados con signos zodiacales — todo existe dentro de una piedra preciosa que alguien creó usando magia dual para salvar lo que se pudiera salvar. Las plataformas zodiacales que protegen la gema son las mismas que aparecieron en [[Alejandria|Alejandría]], en las campañas de los [[Los_Reguladores|Reguladores]], en el plan Sentinela de [[Grazzt|GRDT]].
+Porque este mundo — [[Eilidh]], [[Vala]], como quieran llamarlo — es una gema. Un rubí. Un arca donde millones de almas fueron refugiadas cuando Terra y [[Antiterra_Demonia|Antiterra]] iban a colisionar en la [[Franja_de_Disolucion|Franja de Disolución]]. Todo lo que es Caldero, [[Ciudad_Estrella]], el volcán muerto, la revolución mágico-industrial, el río [[Rio_Ucronos|Oukronos]], los niños marcados con signos zodiacales — todo existe dentro de una piedra preciosa que alguien creó usando magia dual para salvar lo que se pudiera salvar. Las plataformas zodiacales que protegen la gema son las mismas que aparecieron en [[Alejandria|Alejandría]], en las campañas de los [[Los_Reguladores|Reguladores]], en el plan Sentinela de [[Grazzt|GRDT]].
 
 En Greyhawk, bajo el Castillo, hay una Trampa de Dioses donde nueve guardianes divinos languidecen en celdas místicas. Su confinamiento genera una Fuga Entrópica que impide que la resurrección funcione. Mind flayers entregan la [[Falso_Profeta_Espada|Espada]] de Kas envuelta en trapos negros. Acererak irrumpe con una Esfera de Aniquilación. Mordenkainen da directivas. Un cultista vecniano de máscara tallada aparece en [[Tovag_Baragu]], el templo de los portales, y ofrece verdades a cambio de confesiones peligrosas.
 
-La cuarta fase los destruye como grupo y los reconstruye como otra cosa. Un gaucho demonio borgeano los guía por semimundos fracturados. Scylla se convierte en ceniza mojada, un blip irreversible. Caen en una prisión extradimensional que es el eco sombrío de Ushuaia en 1946. Ejecutan a Vecnina. Se alían con goliats patagónicos de piedra y se dejan tragar por el Leviatán — Hobbes como criatura viva — porque la única salida es a través de su muerte. La historia real y la ficción colisionan: Borges anciano y casi ciego, el atolón de Bikini, Fogimer ejecutando Geas tras Geas durante nueve años, la prueba atómica que reduce a un [[PJ_de_Guido_sin_nombre_TE|compañero]] a un meñique con anillo de vuelo.
+La cuarta fase los destruye como grupo y los reconstruye como otra cosa. Un gaucho demonio borgeano los guía por semimundos fracturados. [[Scylla]] se convierte en ceniza mojada, un blip irreversible. Caen en una prisión extradimensional que es el eco sombrío de Ushuaia en 1946. Ejecutan a Vecnina. Se alían con goliats patagónicos de piedra y se dejan tragar por el Leviatán — Hobbes como criatura viva — porque la única salida es a través de su muerte. La historia real y la ficción colisionan: Borges anciano y casi ciego, el atolón de Bikini, [[Fogimer]] ejecutando Geas tras Geas durante nueve años, la prueba atómica que reduce a un [[PJ_de_Guido_sin_nombre_TE|compañero]] a un meñique con anillo de vuelo.
 
 Teo, el paladín que ya había perdido un brazo, golpea una entidad cósmica desde adentro con tanta fuerza que rompe la realidad. De él nada se sabe, aunque en el plano astral, donde no pasa el tiempo, se escucha un eco de su grito de guerra.
 
@@ -75,7 +75,7 @@ La Jabalina ya no es un grupo de aventureros. Es un organismo narrativo que ha p
 
 **Caldero** —*"Nido del Fénix"* en los mitos fundacionales, *"la Ciudad Volcánica"* en boca corriente— **es urbe construida en el cráter de un volcán dormido** en el [[Eilidh|mundo-gema]] **[[Vala_Cristalis|Vala Cristalis]]**, *unos cien kilómetros al norte de [[Ciudad_Estrella]]*. *[[Forma_de_Pluton|Forma]] circular*: **anillos concéntricos descendentes** que bajan en escalones empedrados hasta el **lago central sereno** que ocupa el corazón del cráter.
 
-*La parte más elevada*, *cercana al borde del antiguo cráter*, **supera los doscientos metros sobre el lago**. *Una diferencia de altura* **que impresiona** —*según Mascor Blancarba*— *"incluso a quienes están acostumbrados a los desniveles de las grandes ciudades de montaña"*. **Mansiones y torres pertenecientes a nobles de linaje añejo** ocupan los anillos superiores. **Mercados, talleres, casas civiles** se distribuyen en los escalones intermedios y bajos. **Artesanos, comerciantes y granjeros** se reúnen en mercados improvisados ofreciendo víveres y objetos elaborados con la **roca negra del volcán** —*obsidiana, lava cristalizada, piedras volcánicas trabajadas*—.
+*La parte más elevada*, *cercana al borde del antiguo cráter*, **supera los doscientos metros sobre el lago**. *Una diferencia de altura* **que impresiona** —*según [[Mascor_Blancarba]]*— *"incluso a quienes están acostumbrados a los desniveles de las grandes ciudades de montaña"*. **Mansiones y torres pertenecientes a nobles de linaje añejo** ocupan los anillos superiores. **Mercados, talleres, casas civiles** se distribuyen en los escalones intermedios y bajos. **Artesanos, comerciantes y granjeros** se reúnen en mercados improvisados ofreciendo víveres y objetos elaborados con la **roca negra del volcán** —*obsidiana, lava cristalizada, piedras volcánicas trabajadas*—.
 
 **Murallas y edificaciones**: principalmente **obsidiana negra**, *signatura iconográfica de Caldero*, **resistente a erupciones internas y ataques externos**. *La ciudad ha resistido temblores, terremotos y ataques externos a lo largo de su historia*; *"siempre ha renacido de las cenizas"*. **Las avenidas principales** llevan nombres acordes con la geología: **Calle del Magma**, **Calle de la Lava**, **Calle de la Obsidiana**, **Calle de la Ceniza**, **Calle de la Linterna**.
 
@@ -95,9 +95,9 @@ La Jabalina ya no es un grupo de aventureros. Es un organismo narrativo que ha p
 
 **Caldero y [[Ciudad_Estrella]] son ciudades-hermanas del mundo-gema**, *unidas por mitos* —*también conocidas respectivamente como **"Nido del Fénix"** y **"[[Torreluces]]"***— *aunque sus destinos divergen en el ciclo reciente*.
 
-*Hace doce años* —*hacia 1812 AE*—, **[[Ciudad_Estrella]] sacudió el yugo del [[Papas_Borg|Papa Borg]]**. *Tras la **caída del sumo sacerdote**, **los nobles industriales tomaron el control** y *aceleraron la **[[Revolucion_Industrial_Magica|Revolución Industrial Mágica]]***. **Caldero**, *más conservadora*, *más distante de las metrópolis*, *más anclada en su geografía volcánica*, **avanza con cautela en la modernización**. *La magia industrial fluye desde Ciudad Estrella hacia Caldero con cierta resistencia*; **lo que en Ciudad Estrella es revolución, en Caldero es presagio inquietante**.
+*Hace doce años* —*hacia 1812 AE*—, **[[Ciudad_Estrella]] sacudió el yugo del [[Papas_Borg|Papa Borg]]**. *Tras la **caída del sumo sacerdote**, **los nobles industriales tomaron el control** y *aceleraron la **[[Revolucion_Industrial_Magica|Revolución Industrial Mágica]]***. **Caldero**, *más conservadora*, *más distante de las metrópolis*, *más anclada en su geografía volcánica*, **avanza con cautela en la modernización**. *La magia industrial fluye desde [[Ciudad_Estrella]] hacia Caldero con cierta resistencia*; **lo que en Ciudad Estrella es revolución, en Caldero es presagio inquietante**.
 
-[*Mascor Blancarba lo formuló así: "Si en la Ciudad Estrella la magia industrial parece abrir horizontes, aquí en Caldero se siente como un presagio de vientos oscuros, un recordatorio de que el progreso, a veces, oculta peligros que pocos se atreven a nombrar." Es la diferencia de tono entre las dos ciudades. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*[[Mascor_Blancarba]] lo formuló así: "Si en la Ciudad Estrella la magia industrial parece abrir horizontes, aquí en Caldero se siente como un presagio de vientos oscuros, un recordatorio de que el progreso, a veces, oculta peligros que pocos se atreven a nombrar." Es la diferencia de tono entre las dos ciudades. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
@@ -150,7 +150,7 @@ La Jabalina ya no es un grupo de aventureros. Es un organismo narrativo que ha p
 **Caldero en 1824 AE** es ciudad con varias amenazas activas que cronistas atentos como Mascor Blancarba registran:
 
 - **Desapariciones de niños** —*adultos y niños han desaparecido sin dejar rastro*; *La Jabalina rescató cuatro huérfanos de la Calle de la Linterna del bazar de la Vida*; *pero los desaparecidos del ciclo total son más*—.
-- **Conspiraciones nobles** —*Lord Valanthru, [[Titti_Frame]], casas industriales emergentes*— *operando con motivos ocultos*.
+- **Conspiraciones nobles** —*[[Lord_Valanthru]], [[Titti_Frame]], casas industriales emergentes*— *operando con motivos ocultos*.
 - **Cultos oscuros y sectas** —*"sectas y fiestas clandestinas"*, *sospechas sobre actividades en los sótanos de varios barrios*—.
 - **Rumores sobre un grupo siniestro** —*que opera con marcas, elegidos, número Trece, sacrificios planeados*— **vinculados al Atropal y a la profecía de [[Cageewrights]]**.
 - **[[Temporada_de_Inundaciones]]** —*amenaza estacional con dimensión política: varitas mágicas robadas, conspiraciones para anegar barriadas y exponer ricos*—.
@@ -160,11 +160,11 @@ La Jabalina ya no es un grupo de aventureros. Es un organismo narrativo que ha p
 
 ## La promesa cosmológica
 
-**Caldero es ciudad-frontera de [[Vala_Cristalis]]**. *Donde la Plataforma primigenia respira bajo el cráter dormido*, **la ciudad opera como nodo activo del mundo-gema**. *Mientras [[Ardis_Vala]] cayó bajo dominio brumoso ravenloftiano*, **Caldero resiste**, **se moderniza con cautela**, **y custodia inconscientemente la grieta cosmológica** que **el rito de la [[Capilla_Oscura]] selló** *en su forja primigenia*.
+**Caldero es ciudad-frontera de [[Vala_Cristalis]]**. *Donde la [[Aldebaran_Estrella_Plataforma|Plataforma]] primigenia respira bajo el cráter dormido*, **la ciudad opera como nodo activo del mundo-gema**. *Mientras [[Ardis_Vala]] cayó bajo dominio brumoso ravenloftiano*, **Caldero resiste**, **se moderniza con cautela**, **y custodia inconscientemente la grieta cosmológica** que **el rito de la [[Capilla_Oscura]] selló** *en su forja primigenia*.
 
 **Si La Jabalina opera con éxito**, *si los aventureros consiguen contener al grupo siniestro y a las redes oscuras*, **Caldero se mantiene como nodo activo**. **Si fallan**, *la grieta puede reabrirse* — *con consecuencias para todo el mundo-gema, no sólo para la ciudad volcánica*.
 
-[*Mascor Blancarba lo presiente sin nombrarlo del todo: "Caldero se ha revelado como un crisol de historias, un lugar donde las fuerzas del bien y del mal convergen en torno a un lago central, cada vez más turbulento a medida que la tensión en la ciudad se incrementa." El lago central es manifestación visible de la Plataforma que respira debajo. Si el lago hierve, el mundo-gema lo siente. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*Mascor Blancarba lo presiente sin nombrarlo del todo: "Caldero se ha revelado como un crisol de historias, un lugar donde las fuerzas del bien y del mal convergen en torno a un lago central, cada vez más turbulento a medida que la tensión en la ciudad se incrementa." El lago central es manifestación visible de la [[Aldebaran_Estrella_Plataforma|Plataforma]] que respira debajo. Si el lago hierve, el mundo-gema lo siente. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
@@ -200,5 +200,5 @@ La Jabalina ya no es un grupo de aventureros. Es un organismo narrativo que ha p
 - **Antes de 1812 AE** — Caldero bajo influencia de la teocracia del Papa Borg de Ciudad Estrella
 - **~1812 AE** — caída del Papa Borg; aceleración de la Revolución Industrial Mágica en Ciudad Estrella
 - **1812-1824 AE** — período de modernización cauta, ascenso de los nobles industriales
-- **1824 AE — ciclo presente** — La Jabalina activa, conspiraciones múltiples, Temporada de Inundaciones, rumores de grupo siniestro
+- **1824 AE — ciclo presente** — La Jabalina activa, conspiraciones múltiples, [[Temporada_de_Inundaciones]], rumores de grupo siniestro
 - **Próximo ciclo (anticipado)** — penetración posible de la Capilla [[Reina_Oscura|Oscura]]; confrontación cosmológica mayor

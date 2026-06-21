@@ -16,25 +16,26 @@ tags:
 
 ---
 
-## 1. Las trece eras
+## 1. Las catorce eras
 
-El archivo ATEM reconoce **trece eras platónicas** que ordenan los acontecimientos sin cancelar los calendarios nativos de cada subcosmos. Cada ficha del Glosario se inscribe en una era; la era es la **forma del tiempo**, los años son su **textura local**.
+El archivo ATEM reconoce **catorce eras platónicas** que ordenan los acontecimientos sin cancelar los calendarios nativos de cada subcosmos. Cada ficha del Glosario se inscribe en una era; la era es la **forma del tiempo**, los años son su **textura local**.
 
-| # | Era platónica | Marco temporal | Calendario nativo |
+| # | Era platónica | Marco temporal | [[Calendario]] nativo |
 |---|---|---|---|
 | **00** | **Era Primordial** | Anterior a todo registro | (sin calendario) |
 | **01** | **Edad de los Imperios** | Antigüedad clásica y tardoantigua | d.C. / 270-378 d.C. |
 | **02** | **Edad de los Reinos Olvidados** | Era cosmogónica del cosmos troncal | DR / 348-1375 DR |
 | **03** | **Hiato** | Los quince años velados | (sin calendario nominal) |
-| **04** | **Edad del Cristal** | Caldero, Vala, mundo-gema | AE / ~1824 AE |
+| **04** | **Edad del Cristal** | [[Caldero]], Vala, mundo-gema | AE / ~1824 AE |
 | **05** | **Edad Templaria** | Constantinopla a Tiro, fase templaria | AD / 1051-1120 AD |
-| **06** | **Edad del Renacimiento** | Ciudades Invisibles, principio del cristal abierto | A.D.A. / 1494-1520 A.D.A. |
-| **07** | **Edad de las Revoluciones** | Libertateurs, paso de Aries | A.D.A. / 1717-1820 A.D.A. |
+| **06** | **Edad del Renacimiento** | Ciudades Invisibles, principio del cristal abierto | [[Anno_Domini_Antiterra_ADA|A.D.A.]] / 1494-1520 [[Anno_Domini_Antiterra_ADA|A.D.A.]] |
+| **07** | **Edad de las Revoluciones** | [[Libertateurs]], paso de Aries | A.D.A. / 1717-1820 A.D.A. |
 | **08** | **Belle Époque** | El siglo XIX largo, expansión del oficio | A.D.A. / 1820-1888 A.D.A. |
 | **09** | **Edad del Apocalipsis** | El acontecimiento 1888-1901 | A.D.A. / 1888-1901 A.D.A. |
-| **10** | **Edad Sinterra** | Post-disolución, París Ucrónica, NEO-PARÍS | A.D.A. / 1901+ A.D.A. |
-| **11** | **Edad del Descenso** | Inferno, Ante-Inferno, voz coral | (tiempo invertido) |
-| **12** | **Edad del Mundo Nuevo** | Corona del Norte, América alternativa | (calendario propio) |
+| **10** | **Edad [[Sinterra]]** | Post-disolución, [[Paris_Ucronica|París Ucrónica]], [[NEO-PARIS_Ciudad_de_los_Tiempos|NEO-PARÍS]] | A.D.A. / 1901+ A.D.A. |
+| **11** | **Edad del Descenso** | Inferno, [[Anti_Inferno|Ante-Inferno]], voz coral | (tiempo invertido) |
+| **12** | **Edad del Mundo Nuevo** | [[Corona_activacion_desconocida|Corona]] del Norte, América alternativa | (calendario propio) |
+| **13** | **Edad de Archontos** | Imperio Archonteo, valle de Ardis Vala, Pacto dracónico | AEP / 1-2993 AEP |
 
 ---
 
@@ -64,10 +65,11 @@ El script de cronología parsea ambas formas.
 ## 3. Reglas operativas
 
 1. **La era es declarativa**, no descriptiva. El cronista (Akala) la elige; la ficha la inscribe.
-2. **Un evento puede aparecer en dos eras** si está en la frontera (caso típico: Hiato post-Juicio Final). Se inscribe en la era de **mayor peso narrativo**; la otra se menciona como nota.
+2. **Un evento puede aparecer en dos eras** si está en la frontera (caso típico: Hiato post-[[Juicio_Final]]). Se inscribe en la era de **mayor peso narrativo**; la otra se menciona como nota.
 3. **Las eras no son simétricas en duración**. La Era Primordial puede cubrir milenios; el Hiato cubre 15 años; la Edad del Apocalipsis cubre 13 años. La extensión no es lineal — es de **densidad acontecimental**.
 4. **Los calendarios nativos no se traducen entre sí**. 1375 DR y 1888 A.D.A. no tienen correspondencia mecánica; son tiempos de cosmos paralelos que el cronista del Plata reúne en la página.
 5. **La Edad del Descenso opera en tiempo invertido** — los acontecimientos del Anti_Inferno se cuentan desde el umbral hacia los círculos. La cronología allí es topológica, no aritmética.
+6. **Ningún calendario tiene año cero.** Cuando un calendario se ancla en un hito fundacional, ese hito es el **año 1**, no el año 0. Caso AEP: la noche del [[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc/Elías]] es el **año 1 AEP**, y desde ahí se cuenta hasta el 2993 AEP del ciclo presente.
 
 ---
 
@@ -99,10 +101,13 @@ La cronología del archivo —reunida en `Cronica_del_Archivo.md`— se escribe 
 - 1375 DR — [[Juicio_Final]]
 
 ### Hiato
-- Los quince años velados — [[Hiato_15_Anos_Ardis_Vala]]
+- Los quince años velados — [[Hiato_15_Años_Ardis_Vala|Hiato 15 Anos Ardis Vala]]
+
+### Edad del Cristal (AE)
+- 1824 AE — [[Caldero|Mascor Blancarba]] en el mundo-gema [[Vala_Cristalis]]
 
 ### Edad Templaria (AD)
-- 1051-1055 AD — [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] traduce la Eisagogika en Constantinopla
+- 1051-1055 AD — [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] traduce la [[Eisagogika]] en Constantinopla
 - 1119-1120 AD — los [[Templarios_del_Tiempo]] reciben el oficio
 
 ### Edad del Renacimiento (A.D.A.)
@@ -113,8 +118,7 @@ La cronología del archivo —reunida en `Cronica_del_Archivo.md`— se escribe 
 - 1820 — Revolución (Burning Empires de la Escuela San Brendan)
 
 ### Belle Époque (A.D.A.)
-- 1824 AE — [[Caldero|Mascor Blancarba]]
-- 1886 — [[Henri_La_France]] recibe la Eisagogika en París
+- 1886 — [[Henri_La_France]] recibe la [[Eisagogika]] en París
 
 ### Edad del Apocalipsis (A.D.A.)
 - 1888 A.D.A. — [[Los_Reguladores]] enfrentan Aries y Tauro
@@ -132,6 +136,11 @@ La cronología del archivo —reunida en `Cronica_del_Archivo.md`— se escribe 
 ### Edad del Mundo Nuevo
 - [[Corona_del_Norte]] y figuras del [[Mundo_Nuevo]]
 - Plataformas zodiacales activadas en el continente alternativo
+
+### Edad de Archontos (AEP)
+- Año 1 AEP — [[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc/Elías]] en el [[Monte_Ennio]]: funda el calendario imperial (no hay año cero)
+- ~2639 AEP — [[Juliana_X_Bellatrix]] renueva las alianzas dracónicas (Reconquista Archontea)
+- 2993 AEP — ciclo presente: [[Drusus_IX_El_Palido|Drusus IX]] y el descenso de los [[Buscadores_de_Ardis_Vala|Buscadores]] a [[Ardis_Vala]]
 
 ---
 

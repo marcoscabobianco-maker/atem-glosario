@@ -3,7 +3,7 @@ título: "Pacto de Elías — Ennio y los siete príncipes dracónicos"
 slug: Pacto_de_Elias_Elias_Ennio
 categoria: evento
 categoria_diegetica: evento
-epoca: "noche fundacional del Imperio Archonteo, año 0 AEP por la cuenta calendárica vigente"
+epoca: "noche fundacional del Imperio Archonteo, año 1 AEP por la cuenta calendárica vigente (sin año cero)"
 ubicacion_principal: "cima del Monte Ennio; renovación ritual en santuarios sucesivos del Imperio"
 aliases:
  - Pacto de Elías
@@ -30,7 +30,7 @@ imagen: null
 ---
 # Pacto de Elías
 
-> *"En la noche del vino ensangrentado, siete bocas dracónicas se cerraron sobre la misma copa que la boca humana del Primer Señor había acabado de tocar. La copa no se vació ni se llenó. Permaneció. Quien quiera entender al Imperio Archonteo, empiece por esa copa que no se vacía."* — del *Códice del Monte Ennio*, redacción primera; cita conservada en el *Decadiano*, libro I.
+> *"En la noche del vino ensangrentado, siete bocas dracónicas se cerraron sobre la misma copa que la boca humana del Primer Señor había acabado de tocar. La copa no se vació ni se llenó. Permaneció. Quien quiera entender al Imperio Archonteo, empiece por esa copa que no se vacía."* — del *Códice del [[Monte_Ennio]]*, redacción primera; cita conservada en el *[[Decadiano]]*, libro I.
 
 La lámina —*si el Imperio jamás tuvo lámina del Pacto*— **se conserva sólo en fragmentos**. ha respondido que el cuadro completo no podía dictarse: la noche del Pacto **estuvo cubierta**, *por mandato deliberado de los firmantes*, **de una niebla que las cosmologías archonteas posteriores leen como recato dracónico**, *y el archivo respeta el recato*. La mano dictará, en su momento, el contorno del Monte y la silueta de la copa. *No los rostros.*
 
@@ -40,7 +40,7 @@ La lámina —*si el Imperio jamás tuvo lámina del Pacto*— **se conserva só
 
 El **Pacto de Elías** —*Pacto de Enoc/Elías* en las cancillerías más antiguas, *Pacto del Vino Ensangrentado* en los himnos rurales, *El Pacto* sin más en la liturgia ortodoxa— es el **acto fundacional del Imperio Archonteo**.
 
-Según la tradición conservada en el **Códice del Monte Ennio** y en sus glosas posteriores del *Decadiano*:
+Según la tradición conservada en el **Códice del [[Monte_Ennio]]** y en sus glosas posteriores del *[[Decadiano]]*:
 
 > *"Cuenta la leyenda que hace milenios, en los albores de Archontos, el primer gran líder humano —**Elías Ennio**, también llamado **Ennius el Primer Señor**— realizó un pacto sobrenatural con los siete príncipes de los dragones. En una noche memorable, en la cima del **[[Monte_Ennio|Monte Ennio]]**, Elías compartió **vino ensangrentado** con siete dragones ancianos, forjando una alianza sagrada."*
 
@@ -61,8 +61,8 @@ Los términos del pacto, en la formulación que los archivos conservan:
 **Los dragones aportan al Imperio**:
 
 - **Unificación de las tribus humanas** dispersas en la región archontea primitiva.
-- **Derrota de los enemigos** —*goblins de Mithruin, bestias arcaicas de las cordilleras del norte, criaturas abismales del bosque mayor*—.
-- **Protección aérea** del territorio imperial.
+- **Derrota de los enemigos** —*goblins de [[Mithruin]], bestias arcaicas de las cordilleras del norte, criaturas abismales del bosque mayor*—.
+- **[[Proteccion_Hechizo_de_Encantamiento|Protección]] aérea** del territorio imperial.
 - **Consejo sobre los grandes asuntos** del aparato.
 
 **El Imperio aporta a los dragones**:
@@ -103,7 +103,7 @@ La **[[Juliana_X_Bellatrix|emperatriz Juliana X]]** —*emperatriz del siglo XXV
 
 > *"Cuando los dragones vuelen con nosotros, nada temeremos; cuando vuelen lejos, el Imperio caerá."*
 
-**La reaparición de dragones en los cielos** de Irthuin durante los últimos años **se interpreta como señal de reactivación del Pacto**. *El cronista, sin glosa, anota que tal interpretación coincide con la subida al trono de Drusus IX*.
+**La reaparición de dragones en los cielos** de Irthuin durante los últimos años **se interpreta como señal de reactivación del Pacto**. *El cronista, sin glosa, anota que tal interpretación coincide con la subida al trono de [[Drusus_IX_El_Palido|Drusus IX]]*.
 
 ---
 
@@ -115,12 +115,12 @@ El archivo decadiano registra **un rumor que circula en los pliegos del valle**,
 
 **Dos prendas dracónicas hipotéticas** ocultas en el valle:
 
-1. **Huevo ancestral** en la **Ciénaga de los Suspiros** —*paraje pantanoso al sur del valle, fuera del recorrido habitual de los Buscadores en su ciclo primero*—.
-2. **Talismán de dominio dracónico** en **criptas bajo el [[Forum_de_Set|templo de Set]]** —*nivel 4 del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], donde los rubíes activan el mensaje en mítrico de Priscus Pulcher*—.
+1. **Huevo ancestral** en la **Ciénaga de los Suspiros** —*paraje pantanoso al sur del valle, fuera del recorrido habitual de los [[Buscadores_de_Ardis_Vala|Buscadores]] en su ciclo primero*—.
+2. **[[Vale_de_Cristal_Talisman_Dimension|Talismán]] de dominio dracónico** en **criptas bajo el [[Forum_de_Set|templo de Set]]** —*en el [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], donde los rubíes activan el mensaje en mítrico de [[Priscus_Pulcher]]*—.
 
 *La proximidad espacial entre los rubíes sortianos y el talismán dracónico hipotético* **es coincidencia que el cronista decadiano registra sin glosa pero con cuidado**. **Recuperar la prenda dracónica reactivaría el Pacto en plenitud**. **Romperla o destruirla lo extinguiría**. *Ningún Buscador del ciclo primero localizó la prenda*. *La cuestión queda abierta al ciclo presente*.
 
-[*Si el Pacto exige hoy la recuperación de algo del dungeon, el dungeon ya no es sólo aventura: es deuda imperial. Y los Buscadores, sin haber firmado contrato con el Basileus, son los acreedores involuntarios del Imperio. El archivero del Plata lo dice con un brillo en la voz que el cronista no transcribe. —Glosa de [[Arkos]].*]
+[*Si el Pacto exige hoy la recuperación de algo del dungeon, el dungeon ya no es sólo aventura: es deuda imperial. Y los [[Buscadores_de_Ardis_Vala|Buscadores]], sin haber firmado contrato con el Basileus, son los acreedores involuntarios del Imperio. El archivero del Plata lo dice con un brillo en la voz que el cronista no transcribe. —Glosa de [[Arkos]].*]
 
 ---
 
@@ -133,7 +133,7 @@ El Pacto **inaugura el calendario imperial**. **AEP** = *Año Después del Pacto
 
 *El cronista decadiano sostiene que las dos formas son **co-extensivas**: el nombre del Primer Señor es Elías Ennio, pero la tradición patriarcal del Imperio honra también a Enoc como **figura preparadora del Pacto***. Algunas tradiciones rurales identifican a Enoc y Elías **como dos nombres del mismo hombre**; otras, **como dos figuras separadas que precedieron el ritual de la cima**. *El archivo conserva las dos interpretaciones*.
 
-**Año 0 AEP** = noche del Pacto. **2993 AEP** = ciclo presente del valle, año vigente bajo Drusus IX.
+**Año 1 AEP** = noche del Pacto (el calendario imperial no cuenta año cero: el hito es el año 1). **2993 AEP** = ciclo presente del valle, año vigente bajo [[Drusus_IX_El_Palido|Drusus IX]].
 
 ---
 
@@ -153,12 +153,12 @@ El Pacto **inaugura el calendario imperial**. **AEP** = *Año Después del Pacto
 - [[Mega_Dungeon_Arden_Vul]] — geografía de la prenda perdida
 - [[Iglesia_Imperial]] — Ortodoxia que oficia las renovaciones
 - [[Ardis_Vala]] — territorio donde algo del Pacto duerme
-- **Calendario AEP** — cuenta temporal inaugurada por el Pacto
+- **[[Calendario]] AEP** — cuenta temporal inaugurada por el Pacto
 
 ## Apariciones
 
-- **Año 0 AEP** — noche del Pacto en la cima del Monte Ennio
+- **Año 1 AEP** — noche del Pacto en la cima del Monte Ennio
 - **Siglos tempranos del Imperio** — Batalla de la Bahía Verdeante; fundación de Archontos con sobrevuelo del dragón rojo
 - **Siglos intermedios** — apariciones documentadas de los siete cromáticos en defensas territoriales y expansiones imperiales
-- **~2639 AEP — Reconquista Archontea** — Juliana X Bellatrix renueva las alianzas dracónicas
+- **~2639 AEP — Reconquista Archontea** — [[Juliana_X_Bellatrix]] renueva las alianzas dracónicas
 - **2993 AEP (ciclo presente)** — Drusus IX se apoya en consejos dracónicos; reaparición de dragones en cielos de Irthuin; rumor activo sobre la prenda dracónica oculta en el valle
