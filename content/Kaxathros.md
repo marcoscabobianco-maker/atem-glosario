@@ -43,8 +43,7 @@ ancho cinturón rojo, greguescos inmesos. La rudeza de los rasgos se
 templa "por la amenidad del ruego y la sonrisa servil del adulador
 acostumbrado al trato con el público."
 
-*Nota mecánica [no diegética]:* C57 p.45 anota en violeta "Monster Manual 77"
-con referencia a daño fuego/ácido — estadísticas de / D&D 3ª ed.
+*El cuaderno C57 p.45 conserva, en tinta violeta, una anotación técnica custodiada en la capa akáshica.*
 No es contenido de universo.
 
 *Nota marginal C57 p.45:* "Una carta debe venir de C47, pg 12.
@@ -71,8 +70,8 @@ Taschen). Posible fuente visual para los mapas del cuarto o del mundo.
 
 *Vela de invocación:* La glosa en lápiz "(Cáutico Malvada)" es notación
 mecánica de 2ª ed. — Chaotic Evil, alineamiento del objeto.
-El objeto diegético es la vela misma, que aparece en Calendario merged.doc
-y en relación con la invocación de la Reina Oscura y el Castillo de [[Frome]].
+El objeto diegético es la vela misma, que aparece en [[Calendario]] merged.doc
+y en relación con la invocación de la [[Reina_Oscura]] y el Castillo de [[Frome]].
 
 ## Apariciones notables
 

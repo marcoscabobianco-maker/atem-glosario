@@ -27,10 +27,10 @@ las razas que pudieron escapar del diluvio. En sus orígenes estaba
 habitado por clones de [[Arian|Adán]] y Eva y sus descendientes (el Imperio
 Íntegro y Solidario de Dios), junto a gigantes y Genasi moldeados por
 los efluvios elementales de la creación. [[Rintrah]] fue uno de los primeros
-grupos invitados a desembarcar allí, pero fue engañado por [[Hecate_Antagonista_Confirmada_S19|Hécate]] y
+grupos invitados a desembarcar allí, pero fue engañado por Hécate y
 quedó varado en las costas. Los dioses paganos (Aesir, Vanir) y las
 religiones foráneas fueron colonizando el continente hasta generar
-conflictos que sacudieron la **Espina de las Razas** y desencadenaron
+conflictos que sacudieron la **[[Espina_de_las_Razas]]** y desencadenaron
 guerras entre gigantes, dragones y colonizadores.
 
 (edad de oro pre-diluvio, regeneración después de catástrofe cósmica). La génesis de la

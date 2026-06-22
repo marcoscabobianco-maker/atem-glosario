@@ -21,7 +21,7 @@ aliases:
 
 Pueblo agrícola al sur de **[[York]]**. Arrasado por invasión coordinada picto-celta-vikinga
 en período documentado del Taller. Reconstruido bajo liderazgo dual de **[[Dolores]]** y
-**[[Egas]]** con base en visión cristiana y sanación espiritual. Escenario de linchamientos
+**[[Egas]]** con base en visión cristiana y sanación espiritual. [[Escenario]] de linchamientos
 ([[Lagu]]), represalias y resurgimiento comunitario.
 
 ## Notas

@@ -1,49 +1,20 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5406833]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Andromalius_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Andromalius"]
 ---
 
-# ATEM::SaintGermain::MMF::Andromalius
+# Andromalius
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Andromalius_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Andromalius. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Earl del mundo infernal. Se presenta bajo la apariencia de un hombre que lleva una serpiente en la mano, y puede ser invocado a cualquier hora del día. Su dominio es el castigo de ladrones y traidores: donde hay un robo no saldado, Andromalius puede encontrar al culpable y devolver lo robado. Tiene además la facultad de viajar en el tiempo y de poseer cuerpos humanos.
 
-![[ATEM__SaintGermain__MMF__Andromalius_retrato.png]]
+En el París de 1648 su nombre ya había sido pronunciado antes de que llegaran los que lo buscaban: alguien llamado [[Yankee_(NUEVO)|Yankee]] lo había invocado con anterioridad. Cuando volvió a manifestarse, lo hizo por medio de [[Gastón_Felón|Gastón Felón]], a quien poseyó primero; luego pasó a [[Jeanne_Devossie|Jeanne Devossie]], a quien —según los registros— ayudó a concebir un hijo. La posesión se desplazó de un cuerpo al otro como quien cambia de habitación.
 
+No debe confundirse con el uso ritual de su nombre como fórmula de castigo, práctica que circulaba por otros canales en la misma ciudad. Ese Andromalius reducido a especia de condena es una derivación del original, no el original mismo.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5406833
-**kanka_url:** https://app.kanka.io/w/216093/entities/5406833
-**kanka_kind:** character
-**kanka_type:** NPC
-**familia:** (sin familia)
-**sexo:** (no especificado)
-**título:** Earl demoníaco
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 8
-- **Sesiones donde aparece** (3/9):
-  - S6 — 4 hits
-  - S7 — 2 hits
-  - S8 — 2 hits
-
-## Entry Kanka actual (resumen)
-
-> Demonio de poca monta que se dedica a castigar ladrones. Tiene la facultad de viajar en el tiempo, y gusta de poseer humanos. En un breve lapso estuvo dentro de  [character:5406832] y de él pasó a [character:5198190|Jeanne], a quién ayudó a engendrar un hijo. Se manifiesta como un hombre con una serpiente en la mano. Se puede invocar a cualquier hora del día.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM espejo, citando kanka_url como fuente primaria.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Gastón_Felón]] — primer cuerpo poseído por Andromalius en la trama
+- [[Jeanne_Devossie]] — segunda poseída; con ella engendró un hijo según los registros
+- [[Yankee_(NUEVO)]] — invocador previo de Andromalius, antes de los sucesos narrados
+- [[Murmur]] — otro demonio activo en el mismo entorno parisino; Duque frente al Earl
+- [[Francia]] — París, 1648; el escenario de las invocaciones

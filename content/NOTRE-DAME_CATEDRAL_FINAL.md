@@ -14,12 +14,12 @@ aliases:
 
 ## Presentación
 
-- **Rol climax:** Ubicación donde Hija de Baphomet guard entrada catacumbas
+- **[[Rol_climax]]:** Ubicación donde [[Hija_de_Baphomet]] guard entrada catacumbas
 - **Descubrimiento:** Interior tiene "Órgano Solar" (no sonaba desde 1600s), campanas mágicas
-- **Magia interior:** Vitros (stained glass) mágicos con presencia sobrenatural
+- **[[Magia_interior]]:** Vitros (stained glass) mágicos con presencia sobrenatural
 - **Personaje:** Cables conectan a Torre Eiffel (red mágica / telégrafo oscuro)
 - **Implosión:** Notre-Dame colapsa en climax. "Vórtice meteórico negro" forma.
-- **Presencia:** Red demoníaca (Asmodeus/Dispater) operaba aquí
+- **Presencia:** Red demoníaca ([[Asmodeus]]/Dispater) operaba aquí
 
 ## Ver también
 

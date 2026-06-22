@@ -13,11 +13,11 @@ tags:
 ---
 # Mina
 
-> *Aliada de Las Tullidas.*
+> *Aliada de [[Las_Tullidas]].*
 
 ## Presentación
 
-**Mina** es **aliada del grupo [[Las_Tullidas]]** según el archivo del Taller de Rol. Su rol específico, naturaleza y trayectoria **pendientes de profundización**. Aparece nombrada en la lista de aliados de Las Tullidas (junto al compañero **[[Hannok]]**) sin desarrollo narrativo extenso en la entrada del grupo.
+**Mina** es **aliada del grupo [[Las_Tullidas]]** según el archivo del Taller de Rol. Su rol específico, naturaleza y trayectoria **pendientes de profundización**. Aparece nombrada en la lista de aliados de [[Las_Tullidas]] (junto al compañero **[[Hannok]]**) sin desarrollo narrativo extenso en la entrada del grupo.
 
 ## Vínculos
 

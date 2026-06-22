@@ -47,7 +47,7 @@ imagen: Imagenes_Tier1/Minborgen.png
 
 **Tras las Tres Coronas (1370 DR)**, **Minborgen es proclamado Rey de los Enanos**. *El título no es heredado*: **es conferido por el orden cosmológico nuevo** que emerge tras la Contienda y la coronación de las Tres. **Su reinado** —que el archivo no cierra con fecha de fin documentada— **gobierna el cuerpo enano del cosmos compartido**: *desde las minas profundas de [[Torregrises]] hasta los reinos subterráneos del eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]*.
 
-**Como Rey, Minborgen sostiene la doctrina del Ojo en clave enana**: *no la doctrina humana de [[Maristo]] —la del paladín que jura por la mirada—*, **sino la doctrina enana —la del rey que ve venir el golpe desde la profundidad y golpea antes**. *La diferencia operativa importa*: **Maristo decide no esquivar**; **Minborgen decide golpear primero**.
+**Como Rey, Minborgen sostiene la doctrina del Ojo en clave enana**: *no la doctrina humana de [[Maristo]] —la del paladín que jura por la mirada—*, **sino la doctrina enana —la del rey que ve venir el golpe desde la profundidad y golpea antes**. *La diferencia operativa importa*: **[[Maristo]] decide no esquivar**; **Minborgen decide golpear primero**.
 
 ---
 
@@ -55,7 +55,7 @@ imagen: Imagenes_Tier1/Minborgen.png
 
 **En la estructura de los [[Curiales_los|Curiales]]** —*sistema de correspondencias pecados/virtudes asignado a los miembros de [[Rintrah]]*—, **Minborgen encarna la Avaricia con su contrapeso de Generosidad**. **El emparejamiento doctrinal no es accidental**: *los enanos del cosmos compartido* **se piensan custodios de tesoros que el resto del cosmos quisiera para sí**; **la Avaricia es vicio compatible con el oficio**, **y la Generosidad es la virtud que el oficio aprende a desplegar cuando la situación lo exige**.
 
-*El archivo de los Curiales conserva*, **junto al nombre de Minborgen**: **[[More]] = Orgullo / Humildad**, **[[Ray_TNW|Ray]] como contrapeso adicional**, **otros nombres del registro [3-9] del cuaderno C9**. **La doctrina opera por pares, no por figuras solitarias**.
+*El archivo de los [[Curiales]] conserva*, **junto al nombre de Minborgen**: **[[More]] = Orgullo / Humildad**, **[[Ray_TNW|Ray]] como contrapeso adicional**, **otros nombres del registro [3-9] del cuaderno C9**. **La doctrina opera por pares, no por figuras solitarias**.
 
 ---
 
@@ -78,7 +78,7 @@ imagen: Imagenes_Tier1/Minborgen.png
 - [[Utah]] — posible custodio de su cuerpo perdido en el tránsito astral
 - [[Tres_Coronas_1370]] — episodio que lo hace Rey de los Enanos
 - [[Curiales_los|los Curiales]] — sistema donde figura como Avaricia / Generosidad
-- [[Rintrah]] — orden cuyos miembros se mapean en los Curiales
+- [[Rintrah]] — orden cuyos miembros se mapean en los [[Curiales]]
 - [[Pablo_y_Miranda_novela|Pablo y Miranda]] — obra que conserva su contexto
 - [[Akala]]
 
@@ -88,4 +88,4 @@ imagen: Imagenes_Tier1/Minborgen.png
 - **Contienda — candidatura por Helm** — cuerpo en saco-contenedor, perdido en plano astral
 - **1370 DR — Tres Coronas** — proclamación como Rey de los Enanos
 - **Crónicas Enanas del Taller de Rol** — narración del Enano Anónimo (líneas 271-282)
-- **Sistema de los Curiales (C9 [3-9])** — Avaricia / Generosidad
+- **[[Lords_of_Creation_Sistema_TNW|Sistema]] de los Curiales (C9 [3-9])** — Avaricia / Generosidad

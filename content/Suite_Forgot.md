@@ -16,7 +16,7 @@ Ubicación de tiempo doblado, específicamente una anomalía temporal donde even
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] [00:02:08] — menciona como ejemplo de "arruga del tiempo."
+[[Paris_Ucronica|París Ucrónica]] — menciona como ejemplo de "arruga del tiempo."
 
 ## Notas
 

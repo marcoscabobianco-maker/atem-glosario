@@ -15,13 +15,13 @@ aliases:
 
 **Tema:** Seguridad de reliquias.
 
-**Resultado:** Acuerdo de depósito en bóvedas de Ur. Reliquias transferidas fuera de [[Temple_complejo_TE|Temple]]. Protocolo de acceso establecido.
+**Resultado:** Acuerdo de depósito en bóvedas de Ur. Reliquias transferidas fuera de [[Temple_complejo_TE|Temple]]. [[Protocolo_de_acceso]] establecido.
 
 **Implicación:** Control de reliquias fuera de [[Temple_complejo_TE|Temple]]. Dependencia en fuerzas extraplanares.
 
 ## Cronología de la jornada del robo de reliquias
 
-| Hora | Evento |
+| Hora | [[Evento]] |
 |---|---|
 | T+0 | Grupo emerge del laberinto (cierre de la jornada del falso Maestre, hora exacta incierta) |
 | T+12h | Debriefing con [[Hugo_de_Payns|Hugo de Payns]] en jardín del [[Temple_complejo_TE|Temple]] |
@@ -39,15 +39,15 @@ aliases:
 4. **Reliquias fuera del alcance directo del [[Temple_complejo_TE|Temple]]** (en bóvedas de Ur).
 5. **[[Josefo]] introducido como nuevo miembro de operaciones** (potencial nuevo compañero).
 6. **Grupo debilitado por pérdida de [[Alexio]]** (curador ausente en jornadas siguientes).
-7. **Level 2 aplicado** (mejora de capacidades).
+7. **Grupo un grado más curtido** (mejora de capacidades; el segundo grado de su temple).
 8. **Facción interna del [[Temple_complejo_TE|Temple]] confirmada** ([[Marques_de_Sade_Hugo|Hugo]] vs. [[Elizabeth_madre_de_Swan|Elizabeth]], mínimo).
 
 ## Ver también
 
 - Participantes
-- [[Alexio_muerto|Alexio muerto]]
+- [[Alexio_Anacronismo|Alexio muerto]]
 - [[Elizabeth_de_Beauvois_introducida|Elizabeth de Beauvois introducida]]
 - [[Reliquias_fuera_del_alcance_directo_del_Temple|Reliquias fuera del alcance directo del Temple]]
 - [[Grupo_debilitado_por_perdida_de_Alexio|Grupo debilitado por pérdida de Alexio]]
-- [[Level_2_aplicado|Level 2 aplicado]]
-- [[Faccion_interna_del_Temple_confirmada|Facción interna del Temple confirmada]]
+- Grupo un grado más curtido
+- Facción interna del [[Temple_complejo_TE|Temple]] confirmada

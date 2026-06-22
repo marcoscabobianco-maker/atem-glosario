@@ -24,7 +24,7 @@ imagen: null
 ---
 # Mito de los Amantes y la Serpiente Lunar
 
-> *"Y la novia ofreció un cántico, y el cántico cedió un destello del sol al espejo. La Serpiente, que sabe cuándo basta, retiró la lengua del pacto."* — Mascor Blancarba, *Apéndices & Delirios Varios*, fragmento de los mitos fundacionales.
+> *"Y la novia ofreció un cántico, y el cántico cedió un destello del sol al espejo. La Serpiente, que sabe cuándo basta, retiró la lengua del pacto."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*, fragmento de los mitos fundacionales.
 
 ---
 
@@ -54,7 +54,7 @@ Pero **la [[Serpiente_Luna_Auna|Serpiente de la Medianoche]]** —*manifestació
 
 **El mito opera con enseñanza específica**: **la Serpiente-Luna no es figura malvada, es figura exigente**. *Quien le ofrece tributo apropiado opera con su bendición*; *quien pretende eludirla opera contra el orden cosmológico*. **La doctrina serpentina no admite eludidores**, *sólo postergadores* —*y los postergadores pagan el tributo más caro en la siguiente vuelta del ciclo*.
 
-*Los magos arcanos de Caldero conservan el mito como aviso operativo*: **antes de invocar a Auna para apaciguar volcanes o leer flujos subterráneos**, **se canta un fragmento del cántico de Nalía sobre un espejo pequeño**. La práctica se llama *"cesión menor"* y opera como pago anticipado simbólico.
+*Los magos arcanos de [[Caldero]] conservan el mito como aviso operativo*: **antes de invocar a Auna para apaciguar volcanes o leer flujos subterráneos**, **se canta un fragmento del cántico de Nalía sobre un espejo pequeño**. La práctica se llama *"cesión menor"* y opera como pago anticipado simbólico.
 
 ---
 

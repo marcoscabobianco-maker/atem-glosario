@@ -21,9 +21,9 @@ compañero **drow** de [[La_Jabalina|La Jabalina]]. Nombre completo: **Vorn Kils
 ## Conexiones
 
 - [[La_Jabalina|La Jabalina]]
-- [[Ayrton_Auslander|Ayrton Auslander]] (compañero previo del mismo jugador — retirado antes de la entrada de Vorn)
+- [[Ayrton_Auslander|Ayrton Auslander]] (compañero previo de la misma mano — retirado antes de la entrada de Vorn)
 - Rilauven (origen drow)
-- [[Maristo]] (otro compañero del mismo jugador en el ciclo/el Descenso)
+- [[Maristo]] (otro compañero de la misma mano en el ciclo/el Descenso)
 
 ## Ver también
 

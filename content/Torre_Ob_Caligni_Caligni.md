@@ -1,47 +1,20 @@
 ---
-tags: [Vala, VALA, lugar]
-meta: M
-image: _assets/Vala/Torre_Ob_Caligni___Caligni_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "vala"]
+aliases: ["Torre Ob Caligni", "Caligni", "Ob Caligni"]
 ---
 
-# Torre Ob Caligni / Caligni
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Torre_Ob_Caligni___Caligni_retrato.png`
-> **Prompt sugerido:** Ilustración de Torre Ob Caligni / Caligni. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+# Torre Ob Caligni
 
-![[Torre_Ob_Caligni___Caligni_retrato.png]]
+En el extremo más oscuro del arco de los Wordbreakers se levanta la Torre Ob Caligni: estructura y fuerza al mismo tiempo, nombre de un lugar y nombre de lo que habita ese lugar. Los Caligni son criaturas de la niebla y de la oscuridad subterránea, cuyo nombre lleva en sí la memoria del latín: *caligo*, la bruma que no deja ver. La torre concentra ese principio y lo vuelve fortaleza.
 
+El archivo registra cuatro grandes confrontaciones libradas en torno a la Torre, de las cuales la última cerró el ciclo completo de los Wordbreakers en Vala. En el umbral de ese cierre, [[Belial]] irrumpió desde el exterior como si la victoria de los viajeros hubiese atraído una potencia mayor. La nemesis personal de [[Nancon]] tiene su raíz en este lugar.
 
-**Acción:** Crear. Locación + facción/criatura asociada.
+La Torre guarda relación con el Huevo Negro, aunque el archivo no precisa si lo contiene, lo busca o lo produjo. En sus pináculos de sombra se menciona la presencia de un emisario de [[Nyarlathotep]], figura que conecta el enclave con los planos exteriores al orbe Vala.
 
-## Capa juego
-
-**Ob Caligni** es un sitio (torre) y/o orden/facción/raza que constituye el **clímax del arco final Wordbreaker**. Cuatro sesiones extensas dedicadas:
-- rol_wordbreaker_contra_ob_calignintorre (7141 párrafos — la más larga del corpus)
-- rol_wordbreajer_torrw_ob_caligni_2 (4224)
-- rol_wordbreajer_torre_ob_caligni_3_final (4460 — sesión final del arco)
-- + sesiones individuales relacionadas (nemesis_garkhan).
-
-Etimología: **Caligni** remite a *Caliginous* (latín *caligo*, niebla/oscuridad) o a los **Caliginous** del bestiario AD&D 2e (cf. Manual of the Planes / Underdark). En ACKS y D&D OSR, "Caligni" son una raza subterránea melancólica de la oscuridad. Plausible: Marcos importa el concepto y lo localiza en Vala.
-
-"Ob" puede ser prefijo locativo o nombre propio. La forma "torre Ob Caligni" sugiere "torre [de] Ob [de los] Caligni".
-
-Asociado a:
-- Nemesis personal de Nancon.
-- El "**huevo negro**" (siguiente sesión del arco: rol_wordbreaker_huevo_negro_y_grr).
-- El emisario de [[Nyarlathotep]] (mencionado junto al pináculo de sombras).
-
-## Ref.
-
-rol_wordbreaker_contra_ob_calignintorre (4); rol_wordbreajer_torrw_ob_caligni_2 (4); rol_wordbreajer_torre_ob_caligni_3_final (5); nemesis_garkhan (5); rol_wordbreaker_huevo_negro_y_grr (3); individual gharkan (3).
-
-## Preguntas
-
-1. ¿Caligni en VALA son la raza ACKS estándar o homebrew?
-2. ¿"Ob" es prefijo locativo, nombre, o ASR de algo más?
-3. ¿La nemesis de Nancon es habitante de la torre, líder de los Caligni, o entidad superior?
-4. ¿Relación con el "Huevo Negro" — la torre lo guarda, lo produce, lo busca?
-
+## Vínculos
+- [[Nancon]] — su némesis personal se origina en la Torre
+- [[El_Huevo_Negro]] — artefacto o entidad vinculada al clímax del arco
+- [[Nyarlathotep]] — su emisario fue registrado en los pináculos de la Torre
+- Wordbreakers (grupo PC) — protagonistas del asedio a la Torre
+- [[Belial_(Vala)]] — potencia que irrumpió en el umbral de la caída de la Torre

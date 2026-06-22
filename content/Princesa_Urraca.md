@@ -19,7 +19,7 @@ Hija del Rey Fernando I de [[Leon_Epoca_Carlomagno_800_DC|León]]. Recibió el [
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] (carta misteriosa, conexión corvina, sueños proféticos). Timestamp ~[00:14:29]-[00:16:35].
+[[Paris_Ucronica|París Ucrónica]] (carta misteriosa, conexión corvina, sueños proféticos).
 
 ## Notas
 

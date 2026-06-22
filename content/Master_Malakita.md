@@ -23,13 +23,13 @@ tags:
 ---
 # Master Malakita / Melok-Ri
 
-> *Rudishva vampiro. Fundador de la Orden de los Caballeros de la Cicatriz del Sol. Calavera flotante con IA embebida. Decapitado por Alúmine en la fase media del ciclo primero.*
+> *[[Rudishva]] vampiro. Fundador de la Orden de los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]. Calavera flotante con IA embebida. Decapitado por [[Alumine_Manwe_Finwe|Alúmine]] en la fase media del ciclo primero.*
 
 ## Presentación
 
 **Master Malakita** —también escrito **Malaquita, Maraquita** o **Master Malachite**, con su nombre verdadero **Melok-Ri**— es **uno de los antagonistas centrales de [[Arden_Vul]]**. Su naturaleza es triple:
 
-1. **Rudishva** —**alienígena llegado con el crash del Beacon hace milenios**, raza no-humana del setting Vala—
+1. **[[Rudishva]]** —**alienígena llegado con el crash del Beacon hace milenios**, raza no-humana del setting Vala—
 2. **Vampiro** —no-muerto chupasangre, líder de cadena vampírica que incluyó a [[Caladan]]—
 3. **Calavera flotante con inteligencia artificial embebida** —su forma real, revelada cuando [[Alumine_Manwe_Finwe|Alúmine]] le cercena la cabeza en la fase media del ciclo primero—
 
@@ -37,13 +37,13 @@ La triple naturaleza —**alienígena + vampiro + máquina**— es declaración 
 
 ### Fundador de la Orden de la Cicatriz del Sol
 
-Según el módulo *Ardisvala* (SL10A-32), **Melok-Ri fundó tres organizaciones paramilitares sucesivas**, siendo la última la **[[Caballeros_Cicatriz_del_Sol|Orden de los Caballeros de la Cicatriz del Sol]]** en el **año 1123 AEP** (Después del Pacto de Enoc / Elías). La Orden opera en los **Sub-Levels 10A-10B** del mega-dungeon. Sus miembros llevan **Anillos Solares** —cobre con plata escarlata, invocan luz solar, caída de pluma, salto, respiración acuática— como insignia.
+Según los pliegos antiguos de Ardisvala, **Melok-Ri fundó tres organizaciones paramilitares sucesivas**, siendo la última la **[[Caballeros_Cicatriz_del_Sol|Orden de los Caballeros de la Cicatriz del Sol]]** en el **año 1123 AEP** (Después del [[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc]] / Elías). [[Sagrada_Orden|La Orden]] opera desde su **Hold y su Ciudadela**, en lo más hondo del mega-dungeon. Sus miembros llevan **[[Anillos_Solares]]** —cobre con plata escarlata, invocan luz solar, caída de pluma, salto, respiración acuática— como insignia.
 
 La paradoja de Melok-Ri es brutal: **vampiro que funda orden de caballeros del sol**. Pero la paradoja es **operativa**: el sol que los Caballeros invocan no es el sol real, es **fachada arcana** —los anillos hacen luz solar artificial, no luz solar verdadera—. El vampiro fundó la Orden para **disfrazarse del propio enemigo solar** y operar a la vista de todos.
 
-### El acto: decapitación en sesión
+### El acto: decapitación en jornada
 
-**[[Alumine_Manwe_Finwe|Alúmine Manwe Finwe]] —el Rockseer Elf bladesinger, compañero— decapita a Malakita en sesión**. La descripción del reporte es nítida:
+**[[Alumine_Manwe_Finwe|Alúmine Manwe Finwe]] —el Rockseer Elf bladesinger, compañero— decapita a Malakita en jornada**. La descripción del reporte es nítida:
 
 - **Cámara hiperbárica sci-fi** —entorno tecnológico, no cripta tradicional—
 - **Disparo de bala de plata** al vampiro
@@ -51,23 +51,23 @@ La paradoja de Melok-Ri es brutal: **vampiro que funda orden de caballeros del s
 - **Decapitación de Malakita**
 - **La cabeza cercenada muestra evidencia de tecnología/mecanismos internos**
 
-Lo que cae al suelo no es solo una cabeza: es **una calavera flotante con IA embebida**. Alúmine después **derrotó la cabeza arcanum flotante** —la forma residual del vampiro que intentó seguir operando sin cuerpo—. La derrota total cierra esa cadena vampírica.
+Lo que cae al suelo no es solo una cabeza: es **una calavera flotante con IA embebida**. [[Alumine_Manwe_Finwe|Alúmine]] después **derrotó la cabeza arcanum flotante** —la forma residual del vampiro que intentó seguir operando sin cuerpo—. La derrota total cierra esa cadena vampírica.
 
 ### La cadena: del Masracht a Malakita a Caladan
 
-La estructura del vampirismo en Arden Vul es **jerárquica trans-generacional**:
+La estructura del vampirismo en [[Ardis_Vala|Arden Vul]] es **jerárquica trans-generacional**:
 
-1. **El [[Masracht_Prism_Keep|Masracht]]** —vampiro del *Monster Mythology*, **padre de Caladan/Arian**— estaba **capturado por seis Maruts en el [[Prism_Keep]]** (aventura de Richard Baker inserta en Arden Vul). Es **eslabón superior**.
-2. **Malakita / Melok-Ri** vampirizó a **Caladan**. Es **eslabón medio**.
+1. **El [[Masracht_Prism_Keep|Masracht]]** —vampiro primigenio, **padre de [[Caladan]]/Arian**— estaba **capturado por seis [[Maruts]] en el [[Prism_Keep]]** (capítulo inserto en los pliegos de [[Ardis_Vala|Arden Vul]]). Es **eslabón superior**.
+2. **Malakita / Melok-Ri** vampirizó a **[[Caladan]]**. Es **eslabón medio**.
 3. **Caladan / Arian** —vampirizado, ahora del lado de los compañeros—. Es **eslabón final** (de momento).
 
-En la **el archivo (audio pendiente de transcribir)**, **el grupo libera al Masracht del Prism Keep**, lo enfrenta y lo elimina. **Tomar la cadena entera —Masracht + Malakita ya muerto— es lo que permite a los compañeros tomar control de la Orden**. Los Caballeros de la Cicatriz del Sol pasan de ser herramienta de Malakita a ser **organización liderada por los buscadores** (los compañeros).
+En la **el archivo (audio pendiente de transcribir)**, **el grupo libera al [[Masracht_Prism_Keep|Masracht del Prism Keep]]**, lo enfrenta y lo elimina. **Tomar la cadena entera —Masracht + Malakita ya muerto— es lo que permite a los compañeros tomar control de la Orden**. Los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]] pasan de ser herramienta de Malakita a ser **organización liderada por los buscadores** (los compañeros).
 
 ### Botín de la decapitación
 
 De la guarida de Malakita el grupo se llevó:
 - **Armadura Gótica** (2-3 piezas)
-- **Anillos Solares** (cobre con plata escarlata)
+- **[[Anillos_Solares]]** (cobre con plata escarlata)
 - **Varita de Paralización** (43 cargas)
 - **Varita de Conjuración** (31 cargas)
 - **Lanzas encantadas** (3, con 10, 7 y 6 cargas)
@@ -75,9 +75,9 @@ De la guarida de Malakita el grupo se llevó:
 - **Armadura encantada de un elfo caído** (devuelta por tradición)
 - **Libro de hechizos**
 - **Armadura de Malakita con cilindros de líquido desconocido y granadas** —tecnología rudishva—
-- **Posible esfera/huevo oscuro** —relacionado con RAJ-750 y la destrucción de Ritornello—
+- **Posible esfera/huevo oscuro** —relacionado con [[RAJ-750]] y la destrucción de [[Ritornello]]—
 
-10.000 XP por miembro tras la victoria.
+La victoria templó a cada uno de los miembros como pocas gestas.
 
 ## Vínculos
 
@@ -88,13 +88,13 @@ De la guarida de Malakita el grupo se llevó:
 - [[Prism_Keep]] — donde el Masracht estaba capturado
 - [[Alumine_Manwe_Finwe|Alúmine]] — el que lo decapita en la fase media del ciclo primero
 - **Rudishva** — raza alienígena (la suya)
-- **Beacon / Faro Brillante** — nave que trajo a los rudishva hace ~3.000 años
+- **[[Beacon_Faro_Brillante|Beacon / Faro Brillante]]** — nave que trajo a los rudishva hace ~3.000 años
 - **Calavera flotante con IA** — su forma real revelada
 - **Anillos Solares** — insignia de los Caballeros
-- **Sub-Levels 10A-10B** — territorio de la Orden
-- **Pacto de Enoc / Elías** — referencia cronológica (1123 AEP)
+- **El Hold y la Ciudadela** — territorio de la Orden
+- **[[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc]] / Elías** — referencia cronológica (1123 AEP)
 - **Cámara hiperbárica sci-fi** — entorno de la decapitación
-- **Armadura con granadas, esfera oscura, RAJ-750** — botín tecnológico
+- **Armadura con granadas, esfera oscura, [[RAJ-750]]** — botín tecnológico
 
 ## Apariciones
 
@@ -102,5 +102,5 @@ De la guarida de Malakita el grupo se llevó:
 - ~3.000 años antes — llegada con el Beacon
 - Arden Vul — antagonista activo hasta la fase media del ciclo primero
 - **el archivo** — decapitado por Alúmine
-- Sesiones posteriores — cabeza arcanum flotante residual, derrotada
-- el archivo (audio pendiente) — el grupo cierra la cadena con el Masracht del Prism Keep
+- Jornadas posteriores — cabeza arcanum flotante residual, derrotada
+- el archivo (audio pendiente) — el grupo cierra la cadena con el [[Masracht_Prism_Keep|Masracht del Prism Keep]]

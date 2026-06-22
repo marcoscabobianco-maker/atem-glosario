@@ -13,7 +13,7 @@ aliases:
  - Cúpula doble (zona 4 y zona 5)
  - [[Campana_de_Veracruz|Campana de Veracruz]] colgada bajo andamios en zona 4
  - Suelo grabado con pentagramas/Sellos de Salomón
- - Velas encendidas en ritual; canto gregoriano durante la operación al Temple
+ - Velas encendidas en ritual; canto gregoriano durante la operación al [[Temple_complejo_TE|Temple]]
  - Muros de piedra de construcción reciente (sin puerta en la jornada de la campana, bloqueados)
-- **Función:** Centro ceremonial y político de los Templarios; escenario del combate final de la jornada de la campana templaria
+- **Función:** Centro ceremonial y político de los [[Templarios]]; escenario del combate final de la jornada de la campana templaria
 - **Cambio tras la jornada de la campana:** Bajo control patriarcal; cuerpo de [[Marques_de_Sade_Hugo|Hugo]] dejado en zona 4

@@ -15,39 +15,15 @@ aliases:
 
 ## Presentación
 
-- Ojo rojo que se enciende (habilidad de debilitamiento: -4 FUE, -2 DEX, -4 CON, paralización)
-- Látigo de energía oscura (encadenamiento, sustancia mágica)
-- Resistencia a daño (cuerpo grueso, resistencia a no-magia probablemente)
+Guardián demoniaco del [[Laberinto_Omniporal|Laberinto Omniporal]]. Su ojo rojo irradia una energía debilitante; porta un látigo de energía oscura con el que encadena a sus presas. Su cuerpo es resistente al daño no mágico.
 
-**Combate de la primera incursión al Laberinto Omniporal (Líneas 281-350):**
-- **Iniciativa:** Lirio 13, [[Arsvan|Ärsvan]] 11, Reynó 10, [[Alexio]] 5, [[Michelle]] 4, Cíclope 18-23
-- **Pre-combate:** Reynó bendice arma de Lirio (Legacy Weapon +1 contra humanoides/cíclopes)
-- **[[Arsvan|Ärsvan]]:** Látigo oscuro encadena, reduce atributos (-2 FUE, -2 DEX, -2 CON)
-- **Lirio:** Arma bendita (ahora +1 mágica), ataca con carga (19+crítico = ~17 daño)
-- **[[Alexio]]:** Escudo reflex vs. cíclope falla (5) → asustado, retrocede
-- **[[Michelle]]:** Daga (7 daño, apenas penetra)
-- **Cíclope contraataca:** Ojo rojo (reduce atributos aún más), látigo contra Lirio (~20+ daño)
-- **Segunda ronda:** Reynó carga (crítico 19, 17 daño penetrado), Lirio se cura
-- **Tercera ronda:** [[Arsvan|Ärsvan]] termina con guadañazo
-- **Total HP:** Estimado 60-80 daño acumulativo
+Fue derrotado por el grupo en la primera incursión al Laberinto. Tras su caída, los refugiados que mantenía cautivos fueron liberados y conducidos al hilo de salida; algunos reconocieron a sus rescatadores.
 
-**Post-combate:** Refugiados liberados, guiados al hilo de salida. Algunos reconocen a rescatadores (desconocido si vinculación previa).
-
-**Capa [R]:** Tipo mitológico clásico (Polifemo) recontextualizado como demonio cristiano. Sigue patrón de "guardianía infernal" del laberinto.
+**Capa [R]:** Tipo mitológico clásico (Polifemo) recontextualizado como demonio cristiano. Sigue el patrón de "guardianía infernal" del laberinto.
 
 ## Ver también
 
-- Iniciativa
-- Pre-combate
 - [[Lirio|Lirio]]
 - [[Alexio|Alexio]]
 - [[Michelle|Michelle]]
-- [[Ciclope_contraataca|Cíclope contraataca]]
-- Total HP
-- Post-combate
-
-### el plano operativo
-
-- Ojo rojo que se enciende (habilidad de debilitamiento: -4 FUE, -2 DEX, -4 CON, paralización)
-- Látigo de energía oscura (encadenamiento, sustancia mágica)
-- Resistencia a daño (cuerpo grueso, resistencia a no-magia probablemente)
+- [[Laberinto_Omniporal|Laberinto Omniporal]]

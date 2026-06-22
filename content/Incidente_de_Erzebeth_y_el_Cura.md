@@ -14,7 +14,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** sesión documentada (erzebetha escopetea al cura mexicano).
+**Ref.:** jornada documentada (erzebetha escopetea al cura mexicano).
 *Conexiones:* **[[Erzebeth]]** (ANQ1), **[[Patriarca]]**, **[[Plataforma_Tauro|Plataforma de Tauro]]** (futura guardianía de [[Erzebeth]]).
 **Nota:** El incidente marca un quiebre moral. [[Erzebeth]] invoca la autoridad del [[Patriarca]] antes de disparar — su lealtad está con la iglesia gnóstica, no con el catolicismo local.
 
@@ -28,4 +28,4 @@ aliases:
 
 El incidente marca un quiebre moral. [[Erzebeth]] invoca la autoridad del [[Patriarca]] antes de disparar — su lealtad está con la iglesia gnóstica, no con el catolicismo local.
 
-**Ref.:** sesión documentada (erzebetha escopetea al cura mexicano).
+**Ref.:** jornada documentada (erzebetha escopetea al cura mexicano).

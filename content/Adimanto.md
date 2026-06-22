@@ -24,7 +24,7 @@ Humano de facciones duras, nariz aguileña y fuerza animal manifiesta. Navegó d
 a **[[Torregrises]]** buscando instrucción espiritual en la **[[Sagrada_Orden|Sagrada Orden]]**. Comparte cautividad
 drow con **[[Arian]]** en pasajes subterráneos. Miembro del grupo de las "4 A" (**[[Arian]]**,
 **[[Amdriel]]**, **Adimanto**, **[[Ariadna_Genoveva|Ariadna]]**) bajo la tutela de **[[Dietrus]]** en **[[Tanastias]]**.
-Negocia con **Starco**, participa en rescate de reliquias de Delgrante. Mantiene robustez
+Negocia con **[[Starco]]**, participa en rescate de reliquias de [[Delgrante]]. Mantiene robustez
 notable incluso durante epidemias; combatiente de cuerpo a cuerpo febril y provocador.
 
 ## Notas

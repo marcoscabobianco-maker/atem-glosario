@@ -21,22 +21,22 @@ tags:
 
 # Beastmen (Niños de Deino)
 
-> *Hombres-bestia disciplinados de [[Lady_Deino]]. ~115 soldados + 40 civiles. Cohorte militar más profesional del L3.*
+> *Hombres-bestia disciplinados de [[Lady_Deino]]. ~115 soldados + 40 civiles. Cohorte militar más profesional de los Halls of Thoth.*
 
 ## Presentación
 
-Los **Beastmen** —*Niños de Deino*— son la **facción militar más disciplinada del [[Halls_of_Thoth_Nivel|Nivel 3 Halls of Thoth]]** del [[Mega_Dungeon_Arden_Vul]]. **Cohorte cooptada** de **~115 soldados beastmen + ~40 civiles**, gobernada por la "madre" **[[Lady_Deino]]** (3-158).
+Los **Beastmen** —*Niños de Deino*— son la **facción militar más disciplinada de los [[Halls_of_Thoth_Nivel|Halls of Thoth]]** del [[Mega_Dungeon_Arden_Vul]]. **Cohorte cooptada** de **~115 soldados beastmen + ~40 civiles**, gobernada por la "madre" **[[Lady_Deino]]**.
 
 ### Composición de las patrullas
 
 **Banda estándar**: 6 troopers + sergeant.
 
-| Tipo | HD | AC | HP | Equipamiento |
-|---|---|---|---|---|
-| **Beastman trooper** | 1+1 | 6 | 5-8 | Ring mail + shield + spear + short sword + short bow |
-| **Beastman sergeant** | 2+2 | 4 | 15 | Ring mail + shield + spear + war hammer |
+| Tipo | Temple | Equipamiento |
+|---|---|---|
+| **Beastman trooper** | Soldado raso, curtido | Cota de anillas + escudo + lanza + espada corta + arco corto |
+| **Beastman sergeant** | Veterano que dobla en aguante y blindaje a sus troopers | Cota de anillas + escudo + lanza + martillo de guerra |
 
-**Habilidad especial: tactics** — patrullan en formación coordinada, atacan por flanco.
+**Habilidad especial: tácticas** — patrullan en formación coordinada, atacan por flanco.
 
 ### Forma física
 
@@ -46,17 +46,17 @@ Los Beastmen tienen **diversas formas animales**:
 - **Hombres-cerdo**
 - Otros (sin enumerar exhaustivamente)
 
-**Probable explicación:** mezcla de **transformación mágica de Lady Deino** + **descendencia con animales-criatura del dungeon** + **rituales de la bruja**.
+**Probable explicación:** mezcla de **transformación mágica de [[Lady_Deino]]** + **descendencia con animales-criatura del dungeon** + **rituales de la bruja**.
 
 ### Comandantes
 
-- **Count Skleros** (3-151) — comandante beastman general, ~160 años, disciplinado, líder militar
-- **Count Trisko the Natty** (3-154) — comandante de la **Long Range Cavern Patrol** (LRCP)
-- **[[Lady_Deino]]** (3-158) — "madre" / bruja patrona
+- **[[Count_Skleros]]** — comandante beastman general, ~160 años, disciplinado, líder militar
+- **Count Trisko the Natty** — comandante de la **Long Range Cavern Patrol** (LRCP)
+- **[[Lady_Deino]]** — "madre" / bruja patrona
 
 ### Función social
 
-Los Beastmen **patrullan los Precincts Centrales del L3** (áreas 3-120 a 3-162) y **la Gran Caverna sur** (3-163 a 3-230 vía la LRCP). Funciones:
+Los Beastmen **patrullan los Precincts Centrales de los Halls of Thoth** y **la Gran Caverna sur** (vía la LRCP). Funciones:
 
 - **Mantener orden** en el centro del nivel
 - **Vigilar las periferias** (frescos thotianos limpiados de su lugar)
@@ -67,23 +67,23 @@ Los Beastmen **patrullan los Precincts Centrales del L3** (áreas 3-120 a 3-162)
 
 ### Construcción de su zona
 
-Los Beastmen han **limpiado las áreas al este del Great Hall (3-120)** de **los frescos thothianos**, dejando las paredes **desnudas**. Esta **iconoclasis pragmática** sugiere que **no comparten devoción** por Thoth — operan en un nivel funcional/político.
+Los Beastmen han **limpiado las áreas al este del Great Hall** de **los frescos thothianos**, dejando las paredes **desnudas**. Esta **iconoclasis pragmática** sugiere que **no comparten devoción** por Thoth — operan en un nivel funcional/político.
 
 ### Aliados y enemigos
 
 | Vínculo | Facción |
 |---|---|
-| **Cliente** | **[[Thegan_Whitemane|Whitemane]]** (Inn of the Lost L6) — recibe rastite lotus powder vía traders |
-| **Tensión** | **[[Halflings_Plumthorn|Halflings de Plumthorn]]** (L3 entry zone) — competencia territorial |
-| **Tensión** | **[[Culto_de_Set]]** (L3 oeste / L4) — vecinos rivales |
-| **Enemigo declarado** | **Skreel Lizardmen** (SL5) |
+| **Cliente** | **[[Thegan_Whitemane|Whitemane]]** ([[Troll_Lifts_Arena|Inn of the Lost]] Troll Lifts) — recibe rastite lotus powder vía traders |
+| **Tensión** | **[[Halflings_Plumthorn|Halflings de Plumthorn]]** (Halls of Thoth entry zone) — competencia territorial |
+| **Tensión** | **[[Culto_de_Set]]** (Halls of Thoth oeste / Forum de Set) — vecinos rivales |
+| **Enemigo declarado** | **Skreel Lizardmen** |
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Halls_of_Thoth_Nivel|L3 — Halls of Thoth]]
+- [[Halls_of_Thoth_Nivel|Halls of Thoth — Halls of Thoth]]
 - [[Lady_Deino]] — "madre"
-- **Count Skleros** — comandante
+- **[[Count_Skleros]]** — comandante
 - **Count Trisko the Natty** — LRCP comandante
 - [[Trocadero]] — antiguo aliado del nivel (mago loco)
 - [[Halflings_Plumthorn|Halflings de Plumthorn]] — rivales
@@ -92,6 +92,6 @@ Los Beastmen han **limpiado las áreas al este del Great Hall (3-120)** de **los
 
 ## Apariciones
 
-- **Sesiones 2-4** — Primer contacto con los Buscadores. Patrullas de banda
-- **Sesiones posteriores** — Presencia recurrente en el nivel
-- **Lord Tarmis / Trocadero** los movilizó contra el grupo en algún momento
+- **Jornadas 2-4** — Primer contacto con los [[Buscadores_de_Ardis_Vala|Buscadores]]. Patrullas de banda
+- **Jornadas posteriores** — Presencia recurrente en el nivel
+- **[[Trocadero|Lord Tarmis]] / [[Trocadero]]** los movilizó contra el grupo en algún momento

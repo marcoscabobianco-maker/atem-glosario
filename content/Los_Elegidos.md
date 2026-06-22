@@ -13,9 +13,9 @@ aliases:
 
 Grupo aventurero.
 
-*Miembros:* **Dragomir Cortés**, **Mazada**, **Andrei**, **Deimon**
+*Miembros:* **Dragomir Cortés**, **[[Mazada]]**, **[[Andrei]]**, **[[Deimon]]**
 
-*Nota:* Andrei ya tiene stub en Catálogo MC.
+*Nota:* [[Andrei]] ya tiene stub en Catálogo MC.
 
 ## Ver también
 

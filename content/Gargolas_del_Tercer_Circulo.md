@@ -15,7 +15,7 @@ aliases:
 
 ### el plano operativo
 
-Criaturas voladoras del tercer circulo. el archivo de transcripción las distorsiona como "cargolas," "garmonas," "gargoros." Grupo de 6+. Tienen motivaciones propias: trabajan para el Cancerbero u otro senor del circulo. Negocian con los compañeros: alas de [[Arian|Adam]] a cambio de escolta y paso seguro. Son "servientes crueles" con "deadly reputation". Pueden transportar personas en vuelo.
+Criaturas voladoras del tercer circulo. el archivo de transcripción las distorsiona como "cargolas," "garmonas," "gargoros." Grupo de 6+. Tienen motivaciones propias: trabajan para el [[Cancerbero_CDI|Cancerbero]] u otro senor del circulo. Negocian con los compañeros: alas de [[Arian|Adam]] a cambio de escolta y paso seguro. Son "servientes crueles" con "deadly reputation". Pueden transportar personas en vuelo.
 
 ### Notas
 

@@ -24,7 +24,7 @@ imagen: null
 
 # La Temporada de Inundaciones
 
-> *"En nuestra ciudad construida dentro de la caldera de un volcán inactivo, las lluvias de noviembre se convierten en amenazas constantes que inundan las casas de los más pobres."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"En nuestra ciudad construida dentro de la caldera de un volcán inactivo, las lluvias de noviembre se convierten en amenazas constantes que inundan las casas de los más pobres."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
@@ -46,9 +46,9 @@ imagen: null
 
 ## La operación de La Jabalina
 
-*La misión que [[Foggimer]] encabezó*: **búsqueda y recuperación de las varitas mágicas**. **El grupo viajó a la posada lejana El Mono Loco**, **localizó las varitas**, **enfrentó a los agentes que las custodiaban**, **recuperó los artefactos**. *Foggimer operó con la disciplina del clérigo* **que sigue las pistas hasta su origen**; *la operación cumplió*.
+*La misión que [[Foggimer]] encabezó*: **búsqueda y recuperación de las varitas mágicas**. **El grupo viajó a la posada lejana El Mono Loco**, **localizó las varitas**, **enfrentó a los agentes que las custodiaban**, **recuperó los artefactos**. *[[Fogimer|Foggimer]] operó con la disciplina del clérigo* **que sigue las pistas hasta su origen**; *la operación cumplió*.
 
-**Caldero se libró de una catástrofe natural** *tras la recuperación*. **Pero los hilos del misterio aún no revelan toda su enredada trama**: *la conspiración detrás del robo de las varitas* **expuso indicios que conducen hasta los salones nobles**, *especialmente a [[Lord_Valanthru|Valanthru]] y a [[Titti_Frame|Tittiframe]]*. **El grupo salió con doble botín**: **derrota de la conspiración inmediata** + **conocimiento de la red mayor**.
+**[[Caldero]] se libró de una catástrofe natural** *tras la recuperación*. **Pero los hilos del misterio aún no revelan toda su enredada trama**: *la conspiración detrás del robo de las varitas* **expuso indicios que conducen hasta los salones nobles**, *especialmente a [[Lord_Valanthru|Valanthru]] y a [[Titti_Frame|Tittiframe]]*. **El grupo salió con doble botín**: **derrota de la conspiración inmediata** + **conocimiento de la red mayor**.
 
 ---
 
@@ -66,5 +66,5 @@ imagen: null
 ## Apariciones
 
 - **Cada noviembre** — fenómeno estacional anual
-- **Noviembre 1824 AE** — robo de varitas, misión de La Jabalina, recuperación exitosa
-- **1824 AE — ciclo presente (post-misión)** — Caldero salvada, conspiración nobiliaria expuesta parcialmente
+- **Noviembre 1824 AE** — robo de varitas, misión de [[La_Jabalina]], recuperación exitosa
+- **1824 AE — ciclo presente (post-misión)** — [[Caldero]] salvada, conspiración nobiliaria expuesta parcialmente

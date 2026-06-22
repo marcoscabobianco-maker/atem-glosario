@@ -18,9 +18,9 @@ aliases:
 
 ## Presentación
 
-Figura histórica real. Jorge (Karađorđe) fue legendario líder revolucionario serbio (1768-1817). Fundador de dinastía serbia moderna. Lideró Primera Revuelta Serbio contra dominación otomana (1804-1817).
+Figura histórica real. Jorge ([[Black_George|Karađorđe]]) fue legendario líder revolucionario serbio (1768-1817). Fundador de dinastía serbia moderna. Lideró Primera Revuelta Serbio contra dominación otomana (1804-1817).
 
-**Historia real:**
+**[[Historia_real]]:**
 - Nacimiento: ~1768
 - Liderazgo: Primera Revuelta Serbio (1804-1817) contra imperio otomano
 - [[Muerte]]: ~1817 (asesinado por rival político Miloš Obrenović)
@@ -32,7 +32,7 @@ Figura histórica real. Jorge (Karađorđe) fue legendario líder revolucionario
 - Rol sugiere que figura histórica puede trascender tiempo lineal en ucronía
 
 **Implicación narrativa:**
-- Sugiere ciclos históricos: Serbia sigue luchando por libertad 110+ años después de Karađorđe
+- Sugiere ciclos históricos: Serbia sigue luchando por libertad 110+ años después de [[Black_George|Karađorđe]]
 - Revolucionarios contemporáneos ([[Sarajevo_1914_Ucronica|1914]]) parecen conectados a legado de Karađorđe
 - Posible fuerza temporal o espíritual que encarna revolución serbio indefinidamente
 

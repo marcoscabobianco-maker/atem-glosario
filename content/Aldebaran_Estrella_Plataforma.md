@@ -18,12 +18,12 @@ aliases:
 
 Estrella que "guiñó el ojo" a uno de los compañeros pero también "se llevó su sabiduría." Ubicada exactamente a 65.1 años-luz (Alpha Tauri). Mencionada como "plataforma que los persigue o acecha arriba de los cielos vacíos." Contiene un tesoro accesible mediante viaje astral.
 
-**Revelaciones de sesión:**
+**Revelaciones de jornada:**
 - El mapa estelar inscrito en la piel de la serpiente voladora muerta señala a Aldebarán como destino de un "tesoro astral"
 - Fue la estrella que durante un momento clave "le cortaron la cabeza con Ramón" (referencia a evento de otra campaña: la fecha donde le cortaron la cabeza a Clona)
 - A exactamente 65 [coordenadas]: dato verificable que señala como no inventado
 
-**Revelaciones de sesión:**
+**Revelaciones de jornada:**
 - Confirmada a 65.1 años-luz de distancia (dato astronómico real utilizado intencionalmente)
 - Origen de [[Zygomind]]: ente gargantuesco que habita en el [[Lago_de_Cali|Lago de Cali]], ubicado en Aldebarán
 - La torre del [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]] está alineada directamente con Aldebarán (ancla temporal estelar)
@@ -32,7 +32,7 @@ Estrella que "guiñó el ojo" a uno de los compañeros pero también "se llevó 
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] sesión posterior: múltiples referencias durante exploración y combate. el archivo: identificación de [[Zygomind]] como ente originario de Aldebarán, revelación del [[Lago_de_Cali|Lago de Cali]], alineación de la torre. [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]] (ver entrada).
+[[Paris_Ucronica|París Ucrónica]] jornada posterior: múltiples referencias durante exploración y combate. el archivo: identificación de [[Zygomind]] como ente originario de Aldebarán, revelación del [[Lago_de_Cali|Lago de Cali]], alineación de la torre. [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]] (ver entrada).
 
 ## Notas
 

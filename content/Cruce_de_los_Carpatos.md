@@ -40,7 +40,7 @@ imagen: Imagenes_Tier1/Cruce_de_los_Carpatos.png
 
 ## El paso
 
-Este cruce no tiene una sola ruta. **Es trayecto recurrente** de los ciclos antiterranos tardíos: quien va **desde Mitteleuropa hacia los Balcanes**, quien va **de Viena a Bucarest**, quien va **de París al Bósforo por tierra**, todos pasan por algún tramo de esta cordillera. *La cordillera, por su parte, es la misma; los viajeros cambian.*
+Este cruce no tiene una sola ruta. **Es trayecto recurrente** de los ciclos antiterranos tardíos: quien va **desde Mitteleuropa hacia los Balcanes**, quien va **de Viena a Bucarest**, quien va **de París al [[Bosforo_Ucronico|Bósforo]] por tierra**, todos pasan por algún tramo de esta cordillera. *La cordillera, por su parte, es la misma; los viajeros cambian.*
 
 **El [[Orient_Express|Orient Express]]** la cruza por túneles que los ingenieros del XIX abrieron con explosivos alquímicos. **El carruaje a caballos** la cruza por arriba, por caminos viejos que las nieves cierran tres meses al año. *El expreso es para los apurados. El carruaje es para los que quieren llegar siendo otros.*
 

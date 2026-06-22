@@ -20,29 +20,29 @@ tags:
 ---
 # Valerius Utrecht (y Roderick)
 
-> *Dos compañeros de figura del archivo en Arden Vul. Roderick murió cerca de las Puertas Oceánicas. Valerius llegó después, paladín inquisidor desertor de la Cicatriz del Sol.*
+> *Dos compañeros de figura del archivo en [[Ardis_Vala|Arden Vul]]. Roderick murió cerca de las [[Puertas]] Oceánicas. Valerius llegó después, paladín inquisidor desertor de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]].*
 
 ## Presentación
 
 **figura del archivo** —llamado también "Rodri" en algunas transcripciones por confusión con el personaje Roderick— jugó **dos compañeros sucesivos** en la campaña **[[Arden_Vul]]**:
 
-1. **Roderick** —Paladín, **el diplomático del grupo**— **muere cerca de las Puertas Oceánicas** en algún momento del arco mediano.
-2. **Valerius Utrecht** —Paladín Inquisidor Nivel 7—, el reemplazo, con un perfil completamente distinto y un arco moral propio.
+1. **Roderick** —Paladín, **el diplomático del grupo**— **muere cerca de las [[Puertas]] Oceánicas** en algún momento del arco mediano.
+2. **Valerius Utrecht** —Paladín Inquisidor del séptimo grado de su temple—, el reemplazo, con un perfil completamente distinto y un arco moral propio.
 
 ### Roderick: el diplomático
 
-**Roderick** fue **el diplomático del grupo**. Negoció con **Sir Caltis**, **liberó esclavos**, **cargó el huevo de RAJ-750** (la IA del módulo de armas del Beacon que después destruyó Ritornello). Rezó a **[[Jamalio|Jamalio]]** —dios del sol del panteón Andal— en el funeral de Bobelo/Gobello, lo que lo inscribe en la **tradición solar** que después definirá a Valerius. Su muerte cerca de las Puertas Oceánicas cierra su línea sin dejar la diplomacia resuelta —el grupo tendrá que continuar las negociaciones sin él—.
+**Roderick** fue **el diplomático del grupo**. Negoció con **Sir Caltis**, **liberó esclavos**, **cargó el huevo de [[RAJ-750]]** (la IA del módulo de armas del Beacon que después destruyó [[Ritornello]]). Rezó a **[[Jamalio|Jamalio]]** —dios del sol del panteón Andal— en el funeral de Bobelo/Gobello, lo que lo inscribe en la **tradición solar** que después definirá a Valerius. Su muerte cerca de las Puertas Oceánicas cierra su línea sin dejar la diplomacia resuelta —el grupo tendrá que continuar las negociaciones sin él—.
 
 ### Valerius Utrecht: el inquisidor desertor
 
-**Valerius Utrecht** es **escudero / varlet formado DENTRO de la Orden de la Cicatriz del Sol**. Su trayectoria es el arco moral más afilado del grupo:
+**Valerius Utrecht** es **escudero / varlet formado DENTRO de la Orden de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]**. Su trayectoria es el arco moral más afilado del grupo:
 
-1. **Formación en la Orden** —recibe entrenamiento dentro de los Caballeros de la Cicatriz del Sol, la organización fundada por Melok-Ri/[[Master_Malakita|Master Malakita]] en 1123 AEP—.
+1. **Formación en la Orden** —recibe entrenamiento dentro de los Caballeros de la Cicatriz del Sol, la organización fundada por [[Master_Malakita|Melok-Ri]]/[[Master_Malakita|Master Malakita]] en 1123 AEP—.
 2. **Presencia la corrupción** de la Orden —el liderazgo vampírico, los actos atroces, la perversión de la fe solar—.
 3. **Purifica su fe solar sin abandonarla** —decisión clave: Valerius **no abandona el sol**; abandona la Orden corrompida, pero mantiene la devoción solar pura—.
-4. **Deserta para unirse a los Buscadores** —el grupo de los compañeros—.
+4. **Deserta para unirse a los [[Buscadores_de_Ardis_Vala|Buscadores]]** —el grupo de los compañeros—.
 
-Su clase es **Paladín (Inquisidor) Nivel 7** —el inquisidor del kit, paladín especializado en cazar herejes y corruptos—. Aplicado al cazador de la propia Orden, el inquisidor que persigue a sus excompañeros.
+Su oficio es **Paladín Inquisidor, del séptimo grado de su temple** —paladín consagrado a cazar herejes y corruptos—. Aplicado al cazador de la propia Orden, el inquisidor que persigue a sus excompañeros.
 
 ### Eje moral del enfrentamiento final
 
@@ -52,21 +52,20 @@ Cuando **[[Alumine_Manwe_Finwe|Alúmine]] decapita a Malakita en la fase media d
 
 ## Vínculos
 
-- figura del archivo — jugador (llamado "Rodri" en archivos por confusión con Roderick)
 - [[Arden_Vul]] — campaña
 - [[Master_Malakita|Master Malakita / Melok-Ri]] — vampiro rudishva, cabeza que cae
 - [[Caballeros_Cicatriz_del_Sol]] — orden de la que Valerius desertó y a la que vuelve purificada
 - [[Roderick]] — su compañero anterior, muerto en las Puertas Oceánicas
 - **Sir Caltis** — figura con quien Roderick negoció
-- **RAJ-750** — IA del huevo que Roderick cargó
+- **[[RAJ-750]]** — IA del huevo que Roderick cargó
 - [[Jamalio]] — dios del sol del panteón Andal
 - **Puertas Oceánicas** — lugar de la muerte de Roderick
-- **Buscadores** — el grupo (compañeros)
+- **[[Buscadores_de_Ardis_Vala|Buscadores]]** — el grupo (compañeros)
 - [[Bayrum_Cristalia]], [[Alumine_Manwe_Finwe|Alúmine]], [[Caladan]] — compañeros
 
 ## Apariciones
 
-- Arden Vul 
-- Roderick — sesiones tempranas a mediano arco, muerte cerca de las Puertas Oceánicas
-- Valerius Utrecht — sesiones siguientes, eje moral del enfrentamiento final
+- [[Ardis_Vala|Arden Vul]] 
+- Roderick — jornadas tempranas a mediano arco, muerte cerca de las Puertas Oceánicas
+- Valerius Utrecht — jornadas siguientes, eje moral del enfrentamiento final
 - la fase media del ciclo primero (audio pendiente) — toma de la Orden

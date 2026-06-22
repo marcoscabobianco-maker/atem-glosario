@@ -20,4 +20,4 @@ aliases:
 ## Presentación
 
 **Ref.:** archivos 1a–9, resumen docx.
-**Línea trans-campaña:** Setting principal de la campaña Gary del Mundo Nuevo, jugada ~2024 [R]. Sistema: [[Lords_of_Creation_Sistema_TNW|]]. cronista: Pocopis.
+**Línea trans-campaña:** Setting principal de la campaña Gary del Mundo Nuevo, jugada ~2024 [R]. [[Lords_of_Creation_Sistema_TNW|Sistema]]: [[Lords_of_Creation_Sistema_TNW|]]. cronista: Pocopis.

@@ -30,11 +30,11 @@ imagen: Imagenes_Tier1/Plataforma_Escorpio.png
 
 > *"El aguijón no decide a quién pica: el aguijón ya está. La plataforma de Escorpio es lección sobre lo que el cuerpo del guardián tiene de propio antes de tenerlo de instrumento."*
 
-**Octava casa del zodiaco**, sigue a Libra en el ciclo. **Plataforma flotante de obsidiana negra** *tallada con el signo del escorpión*; **en su centro, una gran estatua de escorpión de obsidiana con aguijón levantado**. *Una figura menor se planta junto a la estatua*: **[[Jean-Baptiste_TNW|Jean-Baptiste, transformado]]**, *nuevo guardián*.
+**Octava casa del zodiaco**, sigue a Libra en el ciclo. **[[Aldebaran_Estrella_Plataforma|Plataforma]] flotante de obsidiana negra** *tallada con el signo del escorpión*; **en su centro, una gran estatua de escorpión de obsidiana con aguijón levantado**. *Una figura menor se planta junto a la estatua*: **[[Jean-Baptiste_TNW|Jean-Baptiste, transformado]]**, *nuevo guardián*.
 
 Su columna esencial es **la transformación por aguijón**: *el cuerpo que muta al asumir el cargo zodiacal*, *la operación cosmológica de la metamorfosis dolorosa*, *el polo serpentino-aguijoneador del orden de las plataformas*. **El extremo del aguijón con tono frío azul** *es signo de la transformación que el cargo impone*.
 
-**La doctrina rotativa de la [[Corrupcion_Dual|Corrupción Dual]]** —*"quien mata al guardián se convierte en guardián o es destruido"*— **opera plenamente en Escorpio**: *Jean-Baptiste asumió el cargo* **transformado** *al hacerlo*; **la transformación no es accidente, es condición del cargo**.
+**La doctrina rotativa de la [[Corrupcion_Dual|Corrupción Dual]]** —*"quien mata al guardián se convierte en guardián o es destruido"*— **opera plenamente en Escorpio**: *[[Jean-Baptiste_TNW|Jean-Baptiste]] asumió el cargo* **transformado** *al hacerlo*; **la transformación no es accidente, es condición del cargo**.
 
 *El sistema completo está en* [[Juego_de_las_Sombras_Plataformas_Zodiacales|el Juego de las Sombras]].
 
@@ -51,4 +51,4 @@ Su columna esencial es **la transformación por aguijón**: *el cuerpo que muta 
 ## Apariciones
 
 - **Cosmología continua** — octava casa, columna de transformación por aguijón
-- **Transformación de Jean-Baptiste** — asunción del cargo de guardián con metamorfosis
+- **Transformación de [[Jean-Baptiste_TNW|Jean-Baptiste]]** — asunción del cargo de guardián con metamorfosis

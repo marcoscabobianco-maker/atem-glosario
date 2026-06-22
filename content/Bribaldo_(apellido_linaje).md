@@ -1,37 +1,17 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/Bribaldo__apellido___linaje_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["Bribaldo", "linaje Bribaldo", "casa Bribaldo"]
 ---
 
 # Bribaldo (apellido / linaje)
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Bribaldo__apellido___linaje_retrato.png`
-> **Prompt sugerido:** Ilustración de Bribaldo (apellido / linaje). Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[Bribaldo__apellido___linaje_retrato.png]]
+Apellido que porta Yuvé, la espía de los Wordbreakers. Su etimología remite al ribaldo medieval —el bribón, el soldado pícaro sin honor de honor—, y esa resonancia no es accidental: el linaje Bribaldo en Vala encarna la tradición de los personajes que traicionan para sobrevivir, que cambian de bandera antes de que la bandera cambie de amo. El archivo lo clasifica como casa menor, sin asiento reconocido entre las siete casas mayores de Vala, pero con presencia operativa en [[Nesut_Biti]] y en los arcos de la Torre Ob Caligni.
 
+La forma Bribaldo es canónica. Las variantes que circulan en crónicas orales —Vihaldo, Vihonsuelo— son ecos del dictado, no nombres alternativos. El linaje no tiene familia conocida fuera de Yuvé; en ese sentido el apellido funciona más como marca de oficio que como árbol genealógico.
 
-**Acción:** Crear.
-
-## Capa juego
-
-Apellido o linaje asociado a **Yuvé** (filename `individual_juve_bribaldo_en_monte_purg`). Variantes ASR detectadas en intro_yuvé: *Bribaldo*, *Bribaldo* — Marcos dice "tu personaje venía por el lado de los vihaldos, de los vihonsuelos". La doble forma sugiere **dos linajes** o **un linaje con dos nombres**.
-
-Etimología: *Ribaldo / Ribald* — figura medieval del bribón, del soldado pícaro, del bufón sin honor (cf. *El nombre de la rosa*). En francés/italiano *ribald* es palabra recurrente. La elección del Master para una espía/ladrona es semánticamente cohesiva.
-
-Posible casa o gremio menor de Vala. No identificada como una de las siete casas mayores (Azul, Blanca, +5).
-
-## Ref.
-
-intro_yuvé_pj_guido_wordbreaker (3); rol_resuelto_interruptus_apoc_vala.m4a (4); rol_wordbreajer_torrw_ob_caligni_2 (2); side trek valle de la tempestad todes juntes (1); rol_vala_kardan_xairas_2_y_laerinto_qabalah (1).
-
-## Preguntas
-
-1. ¿"Bribaldo" o "Vihaldo" es la forma canónica? el primiero, Bribaldo
-2. ¿Es apellido, casa o gremio? es apllido, referencia a los personajes traicioneros del jugador que su nombre real es [anonimizado]
-3. ¿Yuvé Bribaldo tiene familia conocida en mesa? No lo recuerdo
-
+## Vínculos
+- Yuvé — única portadora documentada del apellido Bribaldo; espía de los Wordbreakers
+- Wordbreakers — banda donde el apellido circula en misión
+- [[Nesut_Biti|Nesut Biti]] — ciudad-estado donde Yuvé actúa bajo este nombre
+- [[Torre_Ob_Caligni_Caligni|Torre Ob Caligni]] — arco con menciones recurrentes del apellido

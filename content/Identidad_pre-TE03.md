@@ -16,4 +16,4 @@ Esta entrada es mencionada desde:
 
 ---
 
-*Si llegaste aquí buscando información sobre **Identidad Pre-TE03**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+*Si llegaste aquí buscando información sobre **Identidad [[Antes_del_Falso_Maestre|Pre-TE03]]**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

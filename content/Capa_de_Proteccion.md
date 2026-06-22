@@ -16,7 +16,7 @@ aliases:
 
 **Categoría**: Tesoro / Armadura mágica
 
-**Descripción**: Capa mágica de tesoro Plutón. AC +1 o equivalente (mecánica no especificada).
+**Descripción**: Capa mágica del tesoro de [[Pluton_CDI|Plutón]]. Desvía golpes que debían encontrar carne; el alcance exacto de su amparo no quedó asentado.
 **[[Posesion|Posesión]]**: No especificado.
 **Refs**:
 

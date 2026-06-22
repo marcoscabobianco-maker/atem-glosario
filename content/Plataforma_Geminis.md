@@ -32,7 +32,7 @@ imagen: Imagenes_Tier1/Plataforma_Geminis.png
 
 *El archivo no preserva todavía el guardián canónico de Géminis*. **La doctrina rotativa de la [[Corrupcion_Dual|Corrupción Dual]]** —*"quien mata al guardián se convierte en guardián o es destruido"*— **se aplica también aquí**, pero la sucesión específica está pendiente de documentación.
 
-*Lo que el archivo registra del signo*: **la dualidad geminiana** *opera como espejo*, *complementaria de la dualidad operativa de la Franja de la Disolución que cruza Aries*. **Lo que en Aries se enfrenta**, *en Géminis se refleja*. **Las dos casas comparten la doctrina dual**, *con distinta operación cosmológica*.
+*Lo que el archivo registra del signo*: **la dualidad geminiana** *opera como espejo*, *complementaria de la dualidad operativa de la [[Franja_de_la_Disolucion_TG|Franja de la Disolución]] que cruza Aries*. **Lo que en Aries se enfrenta**, *en Géminis se refleja*. **Las dos casas comparten la doctrina dual**, *con distinta operación cosmológica*.
 
 [*Géminis es la casa donde el archivero del Plata mira menos. No por desinterés: por respeto. La dualidad geminiana no se documenta plenamente porque documentarla parcialmente la rompe. —Glosa de [[Arkos]] el archivero del Plata.*]
 

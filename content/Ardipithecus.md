@@ -42,7 +42,7 @@ imagen: null
 
 ## La marca etíope
 
-El detalle paleontológico no es ornamento. **Ardipithecus ramidus —ancestro lejano del que la línea humana desciende sin acabar de saber cómo— fue desenterrado en [[Axum_MC|Etiopía]]**, en la región de Afar. El suelo que devolvió el fósil es **el mismo suelo donde [[Grazzt|Graz'zt]] reinó bajo el nombre [[GRDT|Geredet]] entre 200 y 230 d.C.**, donde fundó dominio en Shoa hacia 1900 A.D.A., y donde **[[Maleika_Maleyka]] lo disminuyó** aquella noche etíope cuya sentencia el archivo conserva sin pudor.
+El detalle paleontológico no es ornamento. **Ardipithecus ramidus —ancestro lejano del que la línea humana desciende sin acabar de saber cómo— fue desenterrado en [[Axum_MC|Etiopía]]**, en la región de Afar. El suelo que devolvió el fósil es **el mismo suelo donde [[Grazzt|Graz'zt]] reinó bajo el nombre [[GRDT|Geredet]] entre 200 y 230 d.C.**, donde fundó dominio en Shoa hacia 1900 [[Anno_Domini_Antiterra_ADA|A.D.A.]], y donde **[[Maleika_Maleyka]] lo disminuyó** aquella noche etíope cuya sentencia el archivo conserva sin pudor.
 
 **Tres cosas en el mismo suelo. Una sola cifra.** El fósil ancestral, el dios disminuido y el escondite proto-cosmológico **comparten geografía** porque **comparten sujeto**.
 
@@ -52,7 +52,7 @@ El detalle paleontológico no es ornamento. **Ardipithecus ramidus —ancestro l
 
 La cifra remata en el estandarte. **La bandera de Abisinia conserva, en su centro, un pentáculo de cinco puntas** —*estrella sobre disco, rayos cardinales*— que las heráldicas modernas leen como ornamento republicano y los teólogos del [[Decadiano]], **sin coordinar con los modernos**, leen como **sello del Proto-Guardián**.
 
-**Las cinco puntas son las cinco era**s que Graz'zt cruzó en aquella tierra: la era simiesca (Ardipithecus), la era axumita (GRDT), la era de la disminución (Maleika), la era del escondite (espada compañera), y la era que aún no se nombra. El pentáculo las **fija sobre disco** —porque la cosa no progresa lineal: vuelve—.
+**Las cinco puntas son las cinco era**s que [[Grazzt|Graz'zt]] cruzó en aquella tierra: la era simiesca (Ardipithecus), la era axumita (GRDT), la era de la disminución (Maleika), la era del escondite (espada compañera), y la era que aún no se nombra. El pentáculo las **fija sobre disco** —porque la cosa no progresa lineal: vuelve—.
 
 *Que el estandarte oficial de Abisinia lleve hoy esta firma sin saberlo es prueba de la regla mayor del cronista: las cifras cosmológicas son anteriores a quienes las ostentan. El soldado etíope que jura sobre el pentáculo no jura por la república. Jura, sin saber, por la matriz que el demonio dejó marcada en el suelo.*
 
@@ -74,7 +74,7 @@ Tres caras del mismo asunto cósmico, y el cronista las anota con la cautela que
 
 La cifra operativa de Ardipithecus es **el ave fénix**, no el dragón. Quien arde y resurge **eligió arder**.
 
-**Graz'zt fue disminuido en Antiterra etíope** —el asunto se cuenta en su entrada propia, con la sentencia que [[Maleika_Maleyka]] le devolvió aquella noche—. **Conservó el conocimiento. Perdió la fuerza.** La doctrina apresurada concluyó que el disminuido era un derrotado. *La doctrina apresurada se equivocó.*
+**[[Grazzt|Graz'zt]] fue disminuido en [[Antiterra]] etíope** —el asunto se cuenta en su entrada propia, con la sentencia que [[Maleika_Maleyka]] le devolvió aquella noche—. **Conservó el conocimiento. Perdió la fuerza.** La doctrina apresurada concluyó que el disminuido era un derrotado. *La doctrina apresurada se equivocó.*
 
 Mientras los archivos de Antiterra registraban su decadencia, **el príncipe demoníaco hacía otra cosa**: **escondía su forma proto en la matriz del valle de la flecha**, en la espada compañera de un paladín que **todavía no había nacido**, esperando el deseo que lo trajera de vuelta. *Esperó.*
 
@@ -84,7 +84,7 @@ Mientras los archivos de Antiterra registraban su decadencia, **el príncipe dem
 
 El deseo vino. **[[Valerius_Utrecht|Valerius]]**, paladín de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]], pidió **una espada afilada que sangrara ácido** —*el adjetivo que pidió era el de la espada de Graz'zt mismo, sin que él lo supiera del todo*—. El mediador del deseo fue **[[Labresu]]**, criatura demoníaca a la que un paladín no debería haber consultado.
 
-Labresu cumplió. La espada fue entregada. **El paladín la empuñó.** Por años.
+[[Labresu]] cumplió. La espada fue entregada. **El paladín la empuñó.** Por años.
 
 [*El paladín que pide al demonio recibe lo que el demonio quiso entregar, no lo que el paladín creyó pedir. La regla es vieja. El [[Decadiano]] la formula sin glosa. Valerius la conocía. La aplicó al revés. —Glosa del [[Arkos|archivero del Plata]], cuaderno cinco.*]
 
@@ -146,6 +146,6 @@ Y la regla cosmogónica que de allí se desprende:
 
 ## Apariciones
 
-- **Pre-corrida del ciclo Vala** — escondido en la espada de Valerius vía pacto con Labresu, esperando deseo y emergencia
+- **Pre-corrida del ciclo Vala** — escondido en la espada de Valerius vía pacto con [[Labresu]], esperando deseo y emergencia
 - **Disminución de Graz'zt en Antiterra etíope** — preludio cósmico: lo que parece derrota es escondite preparatorio; el mismo suelo donde Ardipithecus quedó fosilizado contiene también el sello pentacular del estandarte abisinio
-- **El regreso tras el Hiato** — emergencia en el círculo del Palacio del Prisma; crisálida negra; rata-cerebro como manifestación menor
+- **El regreso tras el Hiato** — emergencia en el círculo del [[Palacio_del_Prisma]]; crisálida negra; rata-cerebro como manifestación menor

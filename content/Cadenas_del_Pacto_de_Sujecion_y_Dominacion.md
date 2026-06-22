@@ -22,4 +22,4 @@ Cadenas mágicas creadas por ritual de las Cinco Naciones Iroquesas. Transforman
 
 ## Notas
 
-La dualidad cadenas de alianza vs. cadenas de sujeción es central al análisis temático de la Corona del Norte.
+La dualidad cadenas de alianza vs. cadenas de sujeción es central al análisis temático de la [[Corona_activacion_desconocida|Corona]] del Norte.

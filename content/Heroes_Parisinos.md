@@ -19,9 +19,8 @@ aliases:
 
 ## Presentación
 
-Grupo aventurero activo en París, 1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]] Su nombre de archivo
-proviene de su localización principal. Entre sus episodios documentados
-se cuenta la aparición de **Jacques el Destripateur** —posible
+Grupo aventurero activo en París, 1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]] Entre sus episodios documentados
+se cuenta la aparición de **[[Jacques_el_Destripateur]]** —posible
 transposición diegética del Jack el Destripador histórico al mundo
 de [[Antiterra_Demonia|Antiterra]], con carga sobrenatural adicional. El grupo opera en
 la ciudad durante el período posrevolucionario y de expansión
@@ -36,11 +35,11 @@ eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]
 ## Apariciones notables
 
 Sucesos de [[Antiterra_Demonia|Antiterra]] (referencia cronológica,
-1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]]). MC_LINEA_TEMPORAL.md — Tabla V.
+1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]]).
 
 ## Notas
 
-En Kanka Ucrónica, la quest 'Liberar Francia de la dominación diabla' define el marco de acción. [[Lord_Gaul|Lord Gaul]] es el antagonista. La [[Revuelta_de_los_Martillos|Revuelta de los Martillos]] (quest) y el Panfleto Revolucionario (object) son elementos de la resistencia. Socialistas Ucrónicos y Reguladores forman el campo revolucionario.
+La empresa de 'Liberar [[Francia]] de la dominación diabla' define el marco de acción. [[Lord_Gaul|Lord Gaul]] es el antagonista. La [[Revuelta_de_los_Martillos|Revuelta de los Martillos]] y el [[Panfleto_Revolucionario]] son elementos de la resistencia. Socialistas Ucrónicos y Reguladores forman el campo revolucionario.
 
 ## Ver también
 

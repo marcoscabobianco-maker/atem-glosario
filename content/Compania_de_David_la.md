@@ -32,7 +32,7 @@ débil pero contemplativo de [[David]] contrasta con vigor marcial de [[Dolores]
 
 ## Notas
 
-Grupo define regionalismo norteño de el cosmos compartido ([[York]] como centro político).
+Grupo define regionalismo norteño del cosmos compartido ([[York]] como centro político).
 Interacción con [[Rintrah]] a través de contactos en [[Torregrises]].
 
 ## Ver también

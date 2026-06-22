@@ -6,6 +6,7 @@ aliases:
  - "Recoser\" (Metáfora temporal)"
  - "Metáfora temporal"
  - "\"Destejer / Recoser\""
+ - "Destejer / Recoser"
 ---
 
 # "Destejer / Recoser" (Metáfora temporal)

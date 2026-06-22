@@ -22,7 +22,7 @@ imagen: null
 ---
 # Mitos Fundacionales de Caldero
 
-> *"Los mitos preceden a las crónicas. La crónica que no se asienta sobre mito propio no se sostiene: cae al primer compilado contradictorio. Caldero, en cambio, tiene mitos suficientes para sostener varios ciclos seguidos."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*, glosa introductoria.
+> *"Los mitos preceden a las crónicas. La crónica que no se asienta sobre mito propio no se sostiene: cae al primer compilado contradictorio. [[Caldero]], en cambio, tiene mitos suficientes para sostener varios ciclos seguidos."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*, glosa introductoria.
 
 ---
 
@@ -40,13 +40,13 @@ imagen: null
 
 - **[[Aguila_Asvila|El Águila Asvila]]** — figura solar del día y los ciclos visibles; opera el polo luminoso primigenio del mundo-gema.
 - **[[Serpiente_Luna_Auna|La Serpiente-Luna Auna]]** — figura nocturna de los ciclos ocultos y los flujos volcánicos del subsuelo; opuesto complementario del Águila.
-- **[[Fenix_Nido_Volcanico|El Fénix del Nido Volcánico]]** — figura del fuego renovador, ciclos de destrucción y renacimiento; opera bajo el cráter dormido de Caldero.
+- **[[Fenix_Nido_Volcanico|El Fénix del Nido Volcánico]]** — figura del fuego renovador, ciclos de destrucción y renacimiento; opera bajo el cráter dormido de [[Caldero]].
 - **[[Diosa_del_Mazo_de_Muchas_Cosas|La Diosa del Mazo de Muchas Cosas]]** — figura del azar cosmológico, polo lúdico del orden primigenio.
 
 ### Mitos de pactos y eventos
 
-- **[[Mito_de_los_Amantes_y_la_Serpiente_Lunar|Mito de los Amantes y la Serpiente Lunar]]** — Ishen y Nalía, cántico del espejo de plata, sellado del pacto Sol-Luna en la [[Capilla_de_la_Redencion|Capilla de la Redención]].
-- **Embajada de los Diablos con Pablo el Cronomante** — fragmento mítico del [[rito de Reconexión Sagrada](Capilla_Oscura.md), inmolación templaria, sellado de la grieta cosmológica.
+- **[[Mito_de_los_Amantes_y_la_Serpiente_Lunar|Mito de los Amantes y la Serpiente Lunar]]** — [[Mito_de_los_Amantes_y_la_Serpiente_Lunar|Ishen y Nalía]], cántico del espejo de plata, sellado del pacto [[Soluna|Sol-Luna]] en la [[Capilla_de_la_Redencion|Capilla de la Redención]].
+- **Embajada de los Diablos con [[Pablo_el_Cronomante]]** — fragmento mítico del [[rito de Reconexión Sagrada](Capilla_[[Reina_Oscura|Oscura]].md), inmolación templaria, sellado de la grieta cosmológica.
 
 ---
 
@@ -64,7 +64,7 @@ imagen: null
 
 ## La función estructural del corpus
 
-[*Sin los Mitos Fundacionales, Caldero sería ciudad sin profundidad temporal. La crónica del ciclo presente —La Jabalina, los Cageewrights, la Capilla Oscura, las torres altas— se asienta sobre el corpus mítico como un edificio sobre suelo firme. El cronista que ignora los mitos opera con archivo trunco; el doctrinario que sólo opera con mitos sin crónica opera con archivo abstracto. La doctrina del Plata es leer los dos juntos. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*Sin los Mitos Fundacionales, Caldero sería ciudad sin profundidad temporal. La crónica del ciclo presente —[[La_Jabalina]], los [[Cageewrights]], la [[Capilla_Oscura]], las torres altas— se asienta sobre el corpus mítico como un edificio sobre suelo firme. El cronista que ignora los mitos opera con archivo trunco; el doctrinario que sólo opera con mitos sin crónica opera con archivo abstracto. La doctrina del Plata es leer los dos juntos. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
@@ -73,8 +73,8 @@ imagen: null
 **El corpus se preserva en**:
 
 - **Transmisión oral popular** — el pueblo de Caldero conserva fragmentos en canciones, conjuros menores, rezos cotidianos.
-- **El compilado de Mascor Blancarba** — *fijación parcial en archivo legible*; **fuente primaria del ciclo presente**.
-- **Archivos privados de Casa Azul de Vala** — conservación cristalina de fragmentos doctrinales específicos.
+- **El compilado de [[Mascor_Blancarba]]** — *fijación parcial en archivo legible*; **fuente primaria del ciclo presente**.
+- **Archivos privados de [[Casa_Azul_de_Vala]]** — conservación cristalina de fragmentos doctrinales específicos.
 - **Documentación clandestina serpentina** — pliegos arcanos que el aparato decadiano metropolitano no reconoce.
 - **Glosas dispersas** —*en márgenes de manuscritos decadianos provinciales*, *en cuadernos operativos templarios*, *en notas del archivero del Plata*—.
 
@@ -99,5 +99,5 @@ imagen: null
 - **Era primigenia del mundo-gema** — origen mítico de las figuras y los pactos
 - **Siglos de transmisión oral** — corpus conservado en tradición popular pese a represiones eclesiales
 - **Período del Papa Borg** — represión parcial del corpus; conservación clandestina serpentina
-- **Diciembre 1824 AE** — fijación parcial en el compilado de Mascor Blancarba
+- **Diciembre 1824 AE** — fijación parcial en el compilado de [[Mascor_Blancarba]]
 - **1824 AE — ciclo presente** — corpus activo en triangulación entre fuentes; doctrina operativa de las tres lecturas

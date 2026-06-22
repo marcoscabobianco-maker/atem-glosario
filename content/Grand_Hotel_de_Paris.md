@@ -22,7 +22,7 @@ Establecimiento de lujo en París. Suite donde [[Philippe]] seduce a [[Moni_Vive
 
 ## Apariciones notables
 
-el archivo [1:15:48]: Grand Hotel suite interior detallado, seducción de [[Moni_Vivescu|Mony]], búsqueda de documentos, hallazgo de pergaminos perfumados, varita de roble tallada, pistola con carga eléctrica, bastón con efigie de lobo, correspondencia incriminatoria.
+el archivo: Grand Hotel suite interior detallado, seducción de [[Moni_Vivescu|Mony]], búsqueda de documentos, hallazgo de pergaminos perfumados, varita de roble tallada, pistola con carga eléctrica, bastón con efigie de lobo, correspondencia incriminatoria.
 
 ## Notas
 

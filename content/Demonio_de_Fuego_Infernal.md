@@ -12,24 +12,11 @@ aliases:
 
 ## Presentación
 
-**Primera aparición:** En la jornada del falso Maestre, segunda cámara del Laberinto tras el Dinosaurio
-**Descripción física:** Criatura ígnea humanoidea. Cuerpo en llamas permanentes. Armas/ataques incandescentes.
-**Comportamiento:** Combativo, desencadenado por presencia de grupo.
-**Mecánicas en combate:**
-- Vulnerabilidad a agua (apaga fuego, puede prender de nuevo)
-- Daño por fuego a contacto
-- Resistencia a daño no-mágico
-- Armas bendecidas penetran
+Guardián ígneo humanoideo que custodia la segunda cámara del [[Laberinto_Omniporal|Laberinto]] en la jornada del falso Maestre. Cuerpo en llamas permanentes; armas y ataques incandescentes. Combativo, se desencadena ante la presencia de intrusos. El agua lo neutraliza temporalmente, aunque puede reavivarse. Fue derrotado por [[Arsvan|Ärsvan]] y [[Michel|Michel]] con guadaña mágica bendecida.
 
-**[[Resolucion|Resolución]]:** Cortado por la mitad por [[Arsvan|Ärsvan]]/[[Reynaud|Reynaud]] con guadaña mágica bendecida. [[Muerte]] definitiva.
-
-**Notas teológicas:** Primero de los guardianes infernales. Uso del agua como "elemento de purificación" (eco de Bautismo cristiano) sugerido por grupo como táctico.
-
-**[[Vinculacion_narrativa|Vinculación narrativa]]:** Parte de guardia demoníaca del Laberinto. Posiblemente invocado/servil a [[Minotauro_Jefe_del_Laberinto|Minotauro]].
+**Notas teológicas:** Primero de los guardianes infernales del Laberinto. El agua actúa como elemento de purificación frente a su naturaleza ígnea — eco del bautismo cristiano. Posiblemente invocado/servil a [[Minotauro_Jefe_del_Laberinto|Minotauro]].
 
 ## Ver también
 
-- Comportamiento
-- [[Mecanicas_en_combate|Mecánicas en combate]]
-- [[Resolucion|Resolución]]
-- [[Vinculacion_narrativa|Vinculación narrativa]]
+- [[Laberinto_Omniporal]]
+- [[Minotauro_Jefe_del_Laberinto|Minotauro Jefe del Laberinto]]

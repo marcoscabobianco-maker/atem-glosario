@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-Ángel caído de la orden de [[Los_Vigilantes_Watchers|Los Vigilantes (Watchers)]], invocado por el grupo en el [[Oasis_de_Siwa|Oasis de Siwa]]. Identificado por Aby en fuentes del Libro de Enoc. Aby lo identifica con un cuervo en el arte sacro (posible conexión simbólica con cuervos de Kosovo y transformación de Corvino). La Orden Sagrada lo traicionó; teme que los compañeros hagan lo mismo. Invocación exitosa pero combate erupciona cuando el proceso se tuerce.
+Ángel caído de la orden de [[Los_Vigilantes_Watchers|Los Vigilantes (Watchers)]], invocado por el grupo en el [[Oasis_de_Siwa|Oasis de Siwa]]. Identificado por Aby en fuentes del Libro de Enoc. Aby lo identifica con un cuervo en el arte sacro (posible conexión simbólica con cuervos de Kosovo y transformación de [[Corvino]]). [[Sagrada_Orden|La Orden]] Sagrada lo traicionó; teme que los compañeros hagan lo mismo. Invocación exitosa pero combate erupciona cuando el proceso se tuerce.
 
 ## Apariciones notables
 

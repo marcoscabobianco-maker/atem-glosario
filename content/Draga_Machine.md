@@ -40,7 +40,7 @@ imagen: Imagenes_Tier1/Draga_Machine.png
 
 **Draga Machine es Reina consorte del [[Aleksandar_I_rey_Serbia|Sergio Aleksandar I]]**, *cuerpo construido por fuerzas prusianas como [[Inevitable]]* —**plano legal/mecánico del cosmos**—. **Su misión original**: *eliminar vampiros de "no-muerte trascendida" y proteger dinastías europeas de "contaminación" vampírica*. **Fue enviada específicamente a Serbia para ejecutar al [[Apis|Coronel Apis]]**.
 
-**Pero en Biarritz** —*villa balnearia atlántica donde los reyes europeos veraneaban*— **conoce al joven rey Aleksandar**. *Se enamora profundamente* —**del hombre y de la dinastía**—. **Decide vivir como humana dentro del mundo físico terrenal**, *contra su naturaleza de Inevitable*. **La transgresión cosmológica es deliberada**: **Draga elige ser persona en vez de máquina-ley**, *y paga el precio del desvío*.
+**Pero en [[Biarritz]]** —*villa balnearia atlántica donde los reyes europeos veraneaban*— **conoce al joven rey Aleksandar**. *Se enamora profundamente* —**del hombre y de la dinastía**—. **Decide vivir como humana dentro del mundo físico terrenal**, *contra su naturaleza de [[Inevitable]]*. **La transgresión cosmológica es deliberada**: **Draga elige ser persona en vez de máquina-ley**, *y paga el precio del desvío*.
 
 ---
 
@@ -48,7 +48,7 @@ imagen: Imagenes_Tier1/Draga_Machine.png
 
 **Su existencia se sostiene en paradoja explícita**:
 
-- **Como Inevitable, está "programada" para cumplir su misión** —*matar a Apis*—.
+- **Como [[Inevitable]], está "programada" para cumplir su misión** —*matar a Apis*—.
 - **Como ser capaz de amar, desea vivir con Aleksandar**.
 - **Una vez que la misión se cumple, ella debe ser "reabsorbida" por la Fuente Inevitable** —*pérdida de humanidad, retorno al estado de máquina-constructo*—.
 
@@ -70,13 +70,13 @@ imagen: Imagenes_Tier1/Draga_Machine.png
 
 *El resultado es catastrófico*: **Draga es outsider, no ser vivo terrenal susceptible a resurrección estándar**; **su cuerpo cibernético se desmorona**; **Swan y el cadáver de Draga son barridos juntos por el torbellino del Gate**; **ambos desaparecen, separándose del grupo**.
 
-**El Rey Aleksandar, presenciando todo, percibe el acto como asesinato o traición**: *"¡Traición! ¡Regicidio indirecto! ¡Conjura!"* **Ordena el arresto inmediato de Philip, Corvino y Aby**.
+**El Rey Aleksandar, presenciando todo, percibe el acto como asesinato o traición**: *"¡Traición! ¡Regicidio indirecto! ¡Conjura!"* **Ordena el arresto inmediato de [[Philippe|Philip]], [[Corvino]] y Aby**.
 
 ---
 
 ## La consecuencia política
 
-**La muerte de Draga, que tenía conexiones diplomáticas con Austria, Francia y la "maquinaria inevitable"** —*imperio prusiano-germánico*—, **desata caos colosal en los Balcanes**. *Su defunción es descrita públicamente como asesinato*; **la diplomacia europea se conmociona**; **el Rey queda sumido en desesperación**. **La negociación posterior para liberar al grupose basa en que acepten seguir desmantelando el Círculo de Serbia como forma de compensar la pérdida de la Reina**.
+**La muerte de Draga, que tenía conexiones diplomáticas con Austria, [[Francia]] y la "maquinaria inevitable"** —*imperio prusiano-germánico*—, **desata caos colosal en los Balcanes**. *Su defunción es descrita públicamente como asesinato*; **la diplomacia europea se conmociona**; **el Rey queda sumido en desesperación**. **La negociación posterior para liberar al grupose basa en que acepten seguir desmantelando el Círculo de Serbia como forma de compensar la pérdida de la Reina**.
 
 [*"Hay reinas que mueren con su reino; hay otras que mueren con dos reinos a la vez —el del trono y el de la Fuente Inevitable que las construyó. Draga fue de las segundas, y por eso su muerte costó más que un país: costó un cosmos." — Glosa atribuida al libro V del [[Decadiano]].*]
 
@@ -96,7 +96,7 @@ imagen: Imagenes_Tier1/Draga_Machine.png
 ## Apariciones
 
 - **Construcción como Inevitable en plano prusiano** — origen
-- **Biarritz — encuentro con Aleksandar** — desvío del destino
+- **[[Biarritz]] — encuentro con Aleksandar** — desvío del destino
 - **Reinado de Belgrado** — vida como reina humana
 - **Combate y muerte de Apis — episodio del Palacio Real** — reabsorción inminente
 - **Gate dimensional con Swan** — desaparición conjunta

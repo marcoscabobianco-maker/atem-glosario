@@ -2,7 +2,7 @@
 categoria: lugar
 tags:
  - "cdi"
- - "pnj"
+ - "figura"
  - "inferno"
  - "malebranche"
  - "diablo"

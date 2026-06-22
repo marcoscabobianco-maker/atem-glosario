@@ -15,7 +15,7 @@ tags:
 ---
 # Cabezas de Piedra
 
-> *Figuras receptoras americanas. Reciben a los Annunaki en su llegada al territorio.*
+> *Figuras receptoras americanas. Reciben a los [[Annunaki]] en su llegada al territorio.*
 
 ## Presentación
 
@@ -23,7 +23,7 @@ Las **Cabezas de Piedra** son **figuras receptoras americanas** del archivo cosm
 
 > *"Me imagino Cabezas de Piedra recibiéndolos."*
 
-(Refiriéndose a los Annunaki, en el contexto del cuadro americano que incluye también a [[Wichi-Lobos]] —Huitzilopochtli deformado por [[Pablo_de_Alejandria|Paul Claudel]]— y al [[Solar_Pitri]] hindú que opera en lo que hace las veces de América.)
+(Refiriéndose a los [[Annunaki]], en el contexto del cuadro americano que incluye también a [[Wichi-Lobos]] —Huitzilopochtli deformado por [[Pablo_de_Alejandria|Paul Claudel]]— y al [[Solar_Pitri]] hindú que opera en lo que hace las veces de América.)
 
 ### Referente probable: cabezas colosales olmecas
 

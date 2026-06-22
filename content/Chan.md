@@ -14,7 +14,7 @@ tags:
 ---
 # Chan
 
-> *Tullida mujer dragón. Brazo transformado en serpiente sentiente. Una de las cuatro miembros principales del grupo de Las Tullidas.*
+> *Tullida mujer dragón. Brazo transformado en serpiente sentiente. Una de las cuatro miembros principales del grupo de [[Las_Tullidas]].*
 
 ## Presentación
 
@@ -22,15 +22,15 @@ tags:
 
 ### La doble naturaleza
 
-La condición de **mujer dragón** la inscribe en la línea de las **mujeres-criatura** del setting del ciclo —junto a Amitlai como pantera/Bast/Akadi en el Calendario, junto a Maleika como tortuga marina en la liberación de Seth—. La forma humana es máscara; el dragón es lo que vive abajo, asoma cuando hace falta. Su brazo-serpiente es **manifestación localizada** de la dualidad: no se transforma entera para serpentear, parte del cuerpo serpentea siempre.
+La condición de **mujer dragón** la inscribe en la línea de las **mujeres-criatura** del setting del ciclo —junto a [[Amitlai]] como pantera/Bast/Akadi en el [[Calendario]], junto a Maleika como tortuga marina en la liberación de Seth—. La forma humana es máscara; el dragón es lo que vive abajo, asoma cuando hace falta. Su brazo-serpiente es **manifestación localizada** de la dualidad: no se transforma entera para serpentear, parte del cuerpo serpentea siempre.
 
 ### Arco
 
 Sigue el arco general de [[Las_Tullidas]]:
 - **Liberación** tras la victoria contra Papi Balor
-- **Biblioteca de los Espejos**, derrota de Moloch en Baator
-- **Toma de la [[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]]** —notable resonancia: una **mujer-serpiente** ocupando la **Taberna de la Serpiente Mundo**, paralelismo deliberado del archivo—
-- **Destrucción de la Taberna** por la Marcha de los Modrons
+- **Biblioteca de los Espejos**, derrota de Moloch en [[Baator]]
+- **Toma de la [[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]]** —notable resonancia: una **mujer-serpiente** ocupando la **[[Taberna_de_la_Serpiente_Mundo]]**, paralelismo deliberado del archivo—
+- **Destrucción de la [[La_Ballena_Blanca_Taberna|Taberna]]** por la [[Marcha_de_los_Modrones]]
 - **Última misión documentada**: enviada por [[Grazzt|Graz'zt]] a los Pozos de la Araña Demonio a recuperar el [[Amuleto_de_los_Planos]]
 
 ## Vínculos
@@ -48,5 +48,5 @@ Sigue el arco general de [[Las_Tullidas]]:
 
 ## Apariciones
 
-- Taller de Rol — narrativa primaria de Las Tullidas
-- Arco del Amuleto de los Planos / Supremos — agente recabadora
+- Taller de Rol — narrativa primaria de [[Las_Tullidas]]
+- Arco del [[Amuleto_de_los_Planos]] / Supremos — agente recabadora

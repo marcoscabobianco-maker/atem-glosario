@@ -22,4 +22,13 @@ aliases:
 
 ## Presentación
 
-Efecto mecánico de la campaña: drenaje cascada de habilidad que causa dilatación temporal (20 años en 2 días de envejecimiento). Mecánica de consecuencias que afecta los recursos del grupo. Vinculado al uso de las plataformas y al viaje temporal.
+Efecto mecánico de la campaña: drenaje cascada de habilidad que causa dilatación temporal (20 años en 2 días de envejecimiento). Mecánica de consecuencias que afecta los recursos del grupo. Vinculado al uso de las [[Columna_concepto|plataformas]] y al viaje temporal. Pertenece al ciclo de [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] en [[Antiterra|Antiterra]].
+
+## Vinculos
+
+- [[Columna_concepto|Las Columnas]] — las plataformas zodiacales cuyo uso desencadena este efecto de envejecimiento
+- [[Rio_Ucronos|El Río Ucronos]] — cauce del tiempo del mundo-gema; la dilatación temporal del Ripple Effect opera sobre su corriente
+- [[SUPRA_PADRE_Deidad_Temporal|Supra-Padre]] — deidad temporal que rige el costo cósmico del viaje; el "reloj del cosmos que se apropia" remite a su dominio
+- [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] — grupo que experimenta este efecto en la fase [[Antiterra]]
+- [[Antiterra|Antiterra]] — plano donde se registra el efecto; su física temporal anómala lo hace posible
+- [[Templarios_del_Tiempo|Templarios del Tiempo]] — paladines del equilibrio cronológico; el Ripple Effect es exactamente el tipo de ruptura que deben corregir

@@ -16,14 +16,14 @@ tags:
 ---
 # Hannok
 
-> *Compañero de Las Tullidas. Aparece también en el arco de Agatha en las Beastlands.*
+> *Compañero de [[Las_Tullidas]]. Aparece también en el arco de [[Agatha]] en las Beastlands.*
 
 ## Presentación
 
-**Hannok** —también escrito **Hanok** en algunas fuentes del archivo— es **compañero del grupo [[Las_Tullidas]]** y **personaje recurrente** del eje DR de la el cosmos compartido. Aparece en al menos dos arcos documentados:
+**Hannok** —también escrito **Hannok** en algunas fuentes del archivo— es **compañero del grupo [[Las_Tullidas]]** y **personaje recurrente** del eje DR del cosmos compartido. Aparece en al menos dos arcos documentados:
 
-- **Como compañero de Las Tullidas** —junto a la aliada [[Mina]]—. Función específica pendiente.
-- **En el arco de [[Agatha]] en las Beastlands** —según el Calendario merged.doc (línea ~492): *"Agatha parte a las Beastlands con su padre. Misión: recuperar felinos atrapados en Baator. Conoce a las Tullidas y a Hanok."* La mención es contemporánea de la fase Beastlands de Agatha (hija del [[Senor_de_los_Gatos_el_Unico|Señor de los Gatos]] y de Amitlai).
+- **Como compañero de [[Las_Tullidas]]** —junto a la aliada [[Mina]]—. Función específica pendiente.
+- **En el arco de [[Agatha]] en las Beastlands** —según el [[Calendario]] merged.doc (línea ~492): *"[[Agatha]] parte a las Beastlands con su padre. Misión: recuperar felinos atrapados en [[Baator]]. Conoce a las Tullidas y a Hannok."* La mención es contemporánea de la fase Beastlands de Agatha (hija del [[Senor_de_los_Gatos_el_Unico|Señor de los Gatos]] y de [[Amitlai]]).
 
 La recurrencia entre Las Tullidas y Agatha sugiere a Hannok como **figura puente** entre los dos arcos del Taller —ambos pasan por las Beastlands y/o por encargos de [[Grazzt|Graz'zt]] / cosmología planar—.
 
@@ -34,10 +34,10 @@ La recurrencia entre Las Tullidas y Agatha sugiere a Hannok como **figura puente
 - [[Mina]] — co-aliada / compañera del grupo
 - [[Agatha]] — la conoce en el arco Beastlands
 - **Beastlands** — escenario de su aparición con Agatha
-- **Baator** — plano de los felinos atrapados que Agatha rescata
+- **[[Baator]]** — plano de los felinos atrapados que Agatha rescata
 - [[Senor_de_los_Gatos_el_Unico|Señor de los Gatos]] — padre de Agatha
 
 ## Apariciones
 
 - Taller de Rol — mención como compañero de Las Tullidas
-- Calendario merged.doc l.~492 — encuentro con Agatha en las Beastlands
+- [[Calendario]] merged.doc l.~492 — encuentro con Agatha en las Beastlands

@@ -1,6 +1,7 @@
 ---
 aliases:
  - "Proteanos"
+ - "Proteano"
 en_construccion: true
 ---
 

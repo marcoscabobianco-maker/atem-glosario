@@ -29,7 +29,7 @@ Comparte cautividad subterránea con **[[Arian]]**. Afinidad mágica notable con
 
 ## Notas
 
-Existe una Ariadna distinta en el arco de [[Paris_Ucronica|París Ucrónica]] / Templarios del Tiempo (ver '[[Ariadna_Templarios|Ariadna (Templarios)]]') — personaje mítico ligado a [[Arian]]/[[Arsvan|Ärsvan]]. Confirmado por (15 mar 2026): son entidades diferentes.
+Existe una Ariadna distinta en el arco de [[Paris_Ucronica|París Ucrónica]] / [[Templarios_del_Tiempo]] (ver '[[Ariadna_Templarios|Ariadna (Templarios)]]') — personaje mítico ligado a [[Arian]]/[[Arsvan|Ärsvan]]. Confirmado por (15 mar 2026): son entidades diferentes.
 
 Su apostasía de [[Lolth]] marca punto de ruptura con cosmología oscura. Posición de
 liderazgo táctico dentro de cuarteto marca diferencia con [[Arian]] (liderazgo carismático

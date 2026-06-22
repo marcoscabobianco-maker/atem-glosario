@@ -16,6 +16,7 @@ tags:
  - dualidad
  - juego-de-las-sombras
  - prision-cosmica
+aa: "R.1 relevo por victoria ; C.6 la simetria que se contagia [A.D.A., TG, TNW]"
 ---
 # La Corrupción Dual
 
@@ -37,9 +38,9 @@ Por eso [[Gabriel_Guardian_de_Aries|Gabriel]] sigue en [[Plataforma_Aries|Aries]
 
 ## Casos documentados
 
-- **835 A.D.A.** — primer caso documentado en el archivo: relevo en el cuerpo de Mago, en Venecia. Es la entrada de **Tabla V** del [[Calendario_codice|Calendario]] de [[Amitlai]].
-- **1717-1784 A.D.A.** — [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] activaron y cerraron Aries, Piscis y Virgo (esta última, por [[Gideon]] al final). Cada cierre dejó guardianes nuevos cuyo registro se conserva fragmentariamente.
-- **1888 A.D.A.** — los [[Los_Reguladores|Reguladores]] reactivaron Aries con la guía declarada de Gabriel, abriendo la sucesión moderna.
+- **835 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** — primer caso documentado en el archivo: relevo en el cuerpo de Mago, en Venecia. Es la entrada de **Tabla V** del [[Calendario_codice|Calendario]] de [[Amitlai]].
+- **1717-1784 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** — [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] activaron y cerraron Aries, Piscis y Virgo (esta última, por [[Gideon]] al final). Cada cierre dejó guardianes nuevos cuyo registro se conserva fragmentariamente.
+- **1888 A.D.A.** — los [[Los_Reguladores|Reguladores]] reactivaron Aries con la guía declarada de [[Gabriel_Guardian_de_Aries|Gabriel]], abriendo la sucesión moderna.
 - **Continuidad** — el patrón se reitera en todos los grupos que participan del Juego de 1715 A.D.A. en adelante.
 
 ## La doctrina primigenia (1995)
@@ -53,19 +54,20 @@ La regla está **enunciada en mano del cronista** veintidós años antes de su u
 
 ## La alternativa que no funciona: el Sentinela
 
-[[GRDT]] propuso en algún momento una **modulación voluntaria** del sistema, que llamó **Sentinela**: *fusión coordinada de los doce guardianes, en vez de herencia por asesinato*. La propuesta fue reconocida como **inviable operativamente** —requeriría coordinar a veinticuatro entidades simultáneamente, doce guardianes vigentes más doce candidatos—. *El cronista anota la propuesta sin descartarla por completo: hay sistemas que sólo se modifican cuando todos sus operadores acuerdan, y ese acuerdo, en este sistema, es lo que el sistema mismo impide.*
+[[GRDT]] propuso en algún momento una **modulación voluntaria** del sistema, que llamó **[[Sentinela_concepto|Sentinela]]**: *fusión coordinada de los doce guardianes, en vez de herencia por asesinato*. La propuesta fue reconocida como **inviable operativamente** —requeriría coordinar a veinticuatro entidades simultáneamente, doce guardianes vigentes más doce candidatos—. *El cronista anota la propuesta sin descartarla por completo: hay sistemas que sólo se modifican cuando todos sus operadores acuerdan, y ese acuerdo, en este sistema, es lo que el sistema mismo impide.*
 
 ## Vínculos
 
 - [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] — sistema mayor que la regla sostiene
 - [[Plataforma_Aries]] — primera plataforma donde la regla se ejerce
 - [[Gabriel_Guardian_de_Aries|Gabriel]] — guardián vigente atrapado en la columna del carnero
-- [[Plataforma_Tauro]] — guardianía futura de Erzebeth
+- [[Plataforma_Tauro]] — guardianía futura de [[Erzebeth]]
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] — primer grupo moderno que activó la regla
 - [[Los_Reguladores]] — segundo grupo moderno
 - [[Calendario_codice|Calendario]] / [[Amitlai]] — registro del primer caso (835 A.D.A.)
 - [[Columna_concepto|Las Columnas]] — los ejes que las plataformas sostienen
 - [[GRDT]] — autor de la propuesta Sentinela
+- [[Sentinela_concepto|Sentinela]] — la fusión voluntaria propuesta como inversión de la regla
 - [[Tierras_del_Cristalizar]] — dimensión donde las plataformas se manifiestan
 
 ## Apariciones
@@ -73,5 +75,5 @@ La regla está **enunciada en mano del cronista** veintidós años antes de su u
 - **Doctrina primigenia 1995** — enunciada por el cronista antes de su primer caso documentado
 - **835 A.D.A.** — primer caso documentado (Venecia, cuerpo de Mago)
 - **1715 A.D.A. en adelante** — patrón continuo
-- **1717-1784, 1888** — activaciones modernas (Libertateurs, Reguladores)
-- **Ciclo presente** — Gabriel vigente en Aries; otros guardianes ocupando sus columnas correspondientes
+- **1717-1784, 1888** — activaciones modernas ([[Libertateurs]], Reguladores)
+- **Ciclo presente** — [[Gabriel_Guardian_de_Aries|Gabriel]] vigente en Aries; otros guardianes ocupando sus columnas correspondientes

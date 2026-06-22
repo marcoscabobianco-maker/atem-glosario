@@ -1,34 +1,22 @@
 ---
-tags: [NCR, UI, rosismo, 1838, ucronia, personaje, cross-CoronelCarmin, historico]
-meta: M
-image: _assets/NCR/Eldorio__UI___NCR_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags:
+ - "personaje"
+ - "ncr"
+ - "rosismo"
+ - "federal"
+ - "martir"
+aliases:
+ - "Eldorio"
 ---
 
-# Eldorio (UI / NCR)
+# Eldorio
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/NCR/Eldorio__UI___NCR_retrato.png`
-> **Prompt sugerido:** Ilustración de Eldorio (UI / NCR). Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Mártir fundacional del federalismo en las Plataformas Unidas. Eldorio fue fusilado por [[Gloveich]], el unitario, en un acto sin juicio que el bando federal nunca olvidó ni perdonó. Su muerte es el agravio que el Coronel Carmín invoca como piedra basal del régimen: la "lealtad herida" que justificó el afincamiento del Poder Federal en la década del 30 y que sigue resonando en 1838 como justificación de cada medida, cada decreto, cada movimiento de los masorqueros.
 
-![[Eldorio__UI___NCR_retrato.png]]
+Eldorio no gobierna ni habla en las sesiones de [[Torregrises]] porque lleva años muerto. Opera como nombre en la boca de Carmín, como bandera roja sobre el cadalso imaginario que el Restaurador levanta cada vez que necesita recordar al pueblo por qué el orden federal es la única alternativa al caos unitario. En la ucronía rosista, el mártir es más útil muerto que vivo: su sangre da al régimen una legitimidad que ningún decreto podría fabricar.
 
-
-## Capa juego
-
-Mártir fundacional del régimen federal de las Plataformas Unidas. Fusilado por **Gloveich** (= Lavalle ucrónico, ver entrada). Su muerte es el agravio que **Coronel Carmín** invoca como justificación del afincamiento del Poder Federal en la década del 30. Es la "lealtad herida" que ancla el régimen rosista de UI.
-
-**Ref.:** S4 ¶0040.
-
-## Contraste histórico [VERIFICAR]
-
-- Histórico: Dorrego (Manuel) era federal, gobernador de Buenos Aires, fusilado por Lavalle 13/XII/1828 sin juicio. Rosas explotó políticamente el martirologio durante toda su gestión.
-- UI: ubica el episodio en la "década del 30" (S4 ¶0040). Sea error de Marcos o reorganización ucrónica deliberada.
-- "Eldorio" como apodo: posiblemente TurboScribe escuchó "Don Dorrego" → "Eldorio". Verificar con Marcos.
-
-## Notas
-
-Pendiente Marcos: ¿se enuncia "Eldorio" en mesa o es distorsión de TurboScribe?
-
+## Vínculos
+- [[Torregrises]] — el cosmos troncal bajo cuyo nombre (Santa María de Torregrises) opera la capital rosista
+- [[Coronel_Carmin]] — el Restaurador que construyó su poder sobre el martirologio de Eldorio
+- [[Gloveich]] — el unitario que ejecutó a Eldorio y con eso lo convirtió en símbolo

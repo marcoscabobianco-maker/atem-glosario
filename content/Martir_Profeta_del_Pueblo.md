@@ -24,7 +24,7 @@ imagen: null
 ---
 # El mártir profeta del pueblo
 
-> *"Las tradiciones del pueblo de Caldero enseñaban que besar el centro de la estrella de obsidiana abriría la senda hacia un plano más profundo... Cuando los peregrinos irrumpieron en la plaza durante el ritual del Papa Borg, portando reliquias del mártir profeta, besaron el centro de la estrella."* — Mascor Blancarba, *Gacetilla de Caldero* (paráfrasis del compilado sobre la liberación de la Giganta).
+> *"Las tradiciones del pueblo de [[Caldero]] enseñaban que besar el centro de la estrella de obsidiana abriría la senda hacia un plano más profundo... Cuando los peregrinos irrumpieron en la plaza durante el ritual del Papa Borg, portando reliquias del mártir profeta, besaron el centro de la estrella."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]* (paráfrasis del compilado sobre la liberación de la Giganta).
 
 ---
 
@@ -43,7 +43,7 @@ imagen: null
 - **El orden natural del mundo-gema debe sostenerse contra el polo negativo papal**.
 - **La estrella de obsidiana de la Gran Plaza esconde un santuario primigenio** *cuya senda abre quien sabe besarla*.
 - **Las plataformas de los astros de Alfa Centauri operan bajo la Plaza** *en estado contenido por sello cosmológico*.
-- **La Giganta Antigua vela en el santuario** *esperando convocatoria profetizada*.
+- **[[Giganta_Antigua|La Giganta Antigua]] vela en el santuario** *esperando convocatoria profetizada*.
 
 *La doctrina del mártir* **operaba con conocimiento residual de las plataformas primigenias** *que el aparato decadiano del Papa Borg había sepultado del catecismo oficial*. **El pueblo conservaba el conocimiento como tradición popular**; *el mártir lo articuló con elocuencia que el aparato papal no podía tolerar*.
 
@@ -61,7 +61,7 @@ imagen: null
 
 ## La liberación de la Giganta
 
-**Los peregrinos profetizados** —*figuras del pueblo que conservaban el conocimiento doctrinal*— **irrumpieron en la Gran Plaza de Obsidiana durante el ritual de lichificación del Papa Borg**. **Portaban las reliquias del mártir**. **Besaron el centro de la estrella**. *Estallido de luz verde-azulada*. *El suelo cedió*. *Hallaron el santuario y el sello*. **Lo rompieron**.
+**Los peregrinos profetizados** —*figuras del pueblo que conservaban el conocimiento doctrinal*— **irrumpieron en la [[Gran_Plaza_de_Obsidiana]] durante el ritual de lichificación del Papa Borg**. **Portaban las reliquias del mártir**. **Besaron el centro de la estrella**. *Estallido de luz verde-azulada*. *El suelo cedió*. *Hallaron el santuario y el sello*. **Lo rompieron**.
 
 **La [[Giganta_Antigua]] emergió**. **Aplastó al Papa Borg**. **Desapareció en vapores volcánicos dejando estela de ceniza dorada**.
 
@@ -74,7 +74,7 @@ imagen: null
 *La doctrina cosmológica del polo luminoso primigenio* **conserva la operación del mártir como signo permanente**:
 
 - **Las reliquias** *(custodiadas por peregrinos del pueblo)* **permanecen como objetos sagrados menores** del culto popular post-Papa Borg.
-- **La doctrina del mártir** *(predicación restituida fragmentariamente)* **se enseña en barriadas de Ciudad Estrella** *bajo formato semi-clandestino*; **el aparato eclesial decadiano post-Papa Borg lo tolera con discreción**.
+- **La doctrina del mártir** *(predicación restituida fragmentariamente)* **se enseña en barriadas de [[Ciudad_Estrella]]** *bajo formato semi-clandestino*; **el aparato eclesial decadiano post-Papa Borg lo tolera con discreción**.
 - **El nombre sigue suprimido**, *no por continuación de la represión papal*, *sino por convención narrativa del cosmos extendido*: **algunas figuras operan más eficazmente sin nombre**. *El mártir es ejemplo*.
 
 ---

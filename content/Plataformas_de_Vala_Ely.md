@@ -30,13 +30,13 @@ imagen: null
 ---
 # Las Plataformas de Vala-Ely
 
-> *"Hay zonas del mundo-gema que ya no operan como antes. Las Plataformas son de esas: piedras que recuerdan haber sido pasarela, río que recuerda haber sido frontera, aire que recuerda haber tenido función. La memoria opera; la operación se ha cerrado."* — Mascor Blancarba, *Gacetilla de Caldero*, diciembre de 1824 AE.
+> *"Hay zonas del mundo-gema que ya no operan como antes. Las Plataformas son de esas: piedras que recuerdan haber sido pasarela, río que recuerda haber sido frontera, aire que recuerda haber tenido función. La memoria opera; la operación se ha cerrado."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*, diciembre de 1824 AE.
 
 ---
 
 ## El nodo cosmológico
 
-**Las Plataformas de Vala-Ely** —*"Vala-Ely"* en la grafía consolidada del compilado de Caldero, *"Islaires"* en la lengua de los primeros habitantes del mundo-gema, *"Elysian"* en los mitos más antiguos que sobreviven en cronistas heterodoxos— **son zona del [[Vala_Cristalis|mundo-gema Vala Cristalis]]** *tan antigua como los mitos mismos que la nombran*.
+**Las Plataformas de Vala-Ely** —*"Vala-Ely"* en la grafía consolidada del compilado de [[Caldero]], *"Islaires"* en la lengua de los primeros habitantes del mundo-gema, *"Elysian"* en los mitos más antiguos que sobreviven en cronistas heterodoxos— **son zona del [[Vala_Cristalis|mundo-gema Vala Cristalis]]** *tan antigua como los mitos mismos que la nombran*.
 
 *El topónimo es compuesto*: **Vala** *(nombre del mundo-gema entero, eco del velo cristalino mayor)* + **Ely** *(nombre alternativo del plano primigenio dentro del mundo-gema, vinculado al antiguo **Elysium**)*. **Las Plataformas son el cruce operativo** de ambos nombres: **infraestructura geográfico-cosmológica primordial** donde el mundo-gema y su plano interior se tocan, se intercambian, se mantienen abiertos a otros pliegues.
 
@@ -44,7 +44,7 @@ imagen: null
 
 ## La función operativa original
 
-**Durante siglos** —*según el bardo Mascor Blancarba, único cronista que el compilado de Caldero conserva con detalle sobre el tema*— **las Plataformas operaron como lugar de intercambio entre planos**. *Pasarela cosmológica*. **Quien sabía cruzarlas accedía a otros pliegues del cosmos extendido**: *otros reinos*, *otras geografías paralelas*, *otras manifestaciones del mundo-gema o de mundos vecinos*.
+**Durante siglos** —*según el bardo [[Mascor_Blancarba]], único cronista que el compilado de [[Caldero]] conserva con detalle sobre el tema*— **las Plataformas operaron como lugar de intercambio entre planos**. *Pasarela cosmológica*. **Quien sabía cruzarlas accedía a otros pliegues del cosmos extendido**: *otros reinos*, *otras geografías paralelas*, *otras manifestaciones del mundo-gema o de mundos vecinos*.
 
 *La función no era casual*: **las Plataformas constituían parte de la infraestructura mayor del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]]**, *la cosmología primigenia del cronista enunciada en C1 ROL (junio 1995)*. **Plataformas zodiacales del mundo-gema en pleno funcionamiento**, *anteriores a la fase de fragmentación o estancamiento posterior*.
 
@@ -69,14 +69,14 @@ imagen: null
 
 ## Las ciudades sobre las Plataformas
 
-**Las dos ciudades-cráter del mundo-gema** —*[[Caldero]] y [[Ciudad_Estrella]]*— **están construidas sobre las Plataformas**, *al menos en el sentido cosmológico de la palabra "sobre"*. **No es construcción visible**: las Plataformas no son piso material que se vea desde el suelo. **Es infraestructura subyacente**: *bajo Caldero* y *bajo Ciudad Estrella* las Plataformas siguen operando en su fase estancada, **alimentando residualmente** la energía mística que ambas ciudades aprovechan.
+**Las dos ciudades-cráter del mundo-gema** —*[[Caldero]] y [[Ciudad_Estrella]]*— **están construidas sobre las Plataformas**, *al menos en el sentido cosmológico de la palabra "sobre"*. **No es construcción visible**: las Plataformas no son piso material que se vea desde el suelo. **Es infraestructura subyacente**: *bajo Caldero* y *bajo [[Ciudad_Estrella]]* las Plataformas siguen operando en su fase estancada, **alimentando residualmente** la energía mística que ambas ciudades aprovechan.
 
 **Específicamente**:
 
-- **Caldero** está construida en cráter de volcán dormido. **El volcán mismo es manifestación geográfica local de una Plataforma primigenia** —*el [[Fenix_Nido_Volcanico|Nido del Fénix]] que el mito caldera honra*—.
-- **Ciudad Estrella** está construida sobre **plaza pétrea forma de estrella** —*la [[Gran_Plaza_de_Obsidiana|Gran Plaza de Obsidiana]]*— *que es manifestación geográfica local de otra Plataforma*. **Energía celestial fluye allí** porque la Plataforma debajo, aunque estancada, no está cerrada del todo.
+- **Caldero** está construida en cráter de volcán dormido. **El volcán mismo es manifestación geográfica local de una [[Aldebaran_Estrella_Plataforma|Plataforma]] primigenia** —*el [[Fenix_Nido_Volcanico|Nido del Fénix]] que el mito caldera honra*—.
+- **[[Ciudad_Estrella]]** está construida sobre **plaza pétrea forma de estrella** —*la [[Gran_Plaza_de_Obsidiana|Gran Plaza de Obsidiana]]*— *que es manifestación geográfica local de otra [[Aldebaran_Estrella_Plataforma|Plataforma]]*. **Energía celestial fluye allí** porque la Plataforma debajo, aunque estancada, no está cerrada del todo.
 
-**La Revolución Industrial Mágica de Ciudad Estrella** *opera, en parte, **extrayendo energía residual de las Plataformas estancadas***. *Las fundiciones encantadas, los prodigios mecánico-mágicos, las marcas Pristine y Goze, los cascos de teleportación* — **todos extraen** *del rescoldo cosmológico que las Plataformas dejan al estancarse*. *Es operación rentable a corto plazo*; **lo que produce a largo plazo** *si las Plataformas se agotan* **no se ha calculado**.
+**[[Revolucion_Industrial_Magica|La Revolución Industrial Mágica]] de Ciudad Estrella** *opera, en parte, **extrayendo energía residual de las Plataformas estancadas***. *Las fundiciones encantadas, los prodigios mecánico-mágicos, las marcas Pristine y Goze, los cascos de teleportación* — **todos extraen** *del rescoldo cosmológico que las Plataformas dejan al estancarse*. *Es operación rentable a corto plazo*; **lo que produce a largo plazo** *si las Plataformas se agotan* **no se ha calculado**.
 
 ---
 
@@ -99,13 +99,13 @@ imagen: null
 - **Elysium / Elysian** = nombre del estado cosmológico paradisíaco accedido vía las Plataformas
 - **Las Plataformas de Vala-Ely / Islaires** = infraestructura de acceso
 
-*La Casa Azul de Vala* **es** *el linaje custodio de esta infraestructura*. **Su nombre lo registra**: **Casa Azul de Vala**, *no Casa Azul de Ely*; **el linaje se identifica con el mundo-gema como totalidad**, *no con uno solo de los nombres*.
+*[[Casa_Azul_de_Vala|La Casa Azul]] de Vala* **es** *el linaje custodio de esta infraestructura*. **Su nombre lo registra**: **[[Casa_Azul_de_Vala]]**, *no Casa Azul de Ely*; **el linaje se identifica con el mundo-gema como totalidad**, *no con uno solo de los nombres*.
 
 ---
 
 ## Nota archivística sobre la grafía
 
-*El archivo conserva una nota crítica*: **algunas transcripciones orales antiguas registraron mal el nombre del mundo-gema**. *La grafía correcta es **Vala***. **Esta corrección se aplica a todas las menciones del mundo-gema** y de sus manifestaciones (Vala Cristalis, Plataformas de Vala-Ely, Casa Azul de Vala, etc.).
+*El archivo conserva una nota crítica*: **algunas transcripciones orales antiguas registraron mal el nombre del mundo-gema**. *La grafía correcta es **Vala***. **Esta corrección se aplica a todas las menciones del mundo-gema** y de sus manifestaciones ([[Vala_Cristalis]], Plataformas de Vala-Ely, Casa Azul de Vala, etc.).
 
 [*El cronista mayor enunció esta corrección con énfasis: no es asunto menor; es regla doctrinal. El mundo-gema es Vala. Los archivos provinciales que conservaban grafías corruptas deben ser corregidos en la próxima pasada de archivero. —Glosa de [[Arkos]] el archivero del Plata.*]
 
@@ -116,8 +116,8 @@ imagen: null
 **¿Pueden las Plataformas reactivarse?** *El archivo no resuelve*. **Tres hipótesis**:
 
 - **Reactivación natural**: el ciclo cosmológico, al completar su rotación, **devuelve a las Plataformas su función**. *Las columnas conceptuales recuperan energía rectora*. **El intercambio entre planos se reabre**.
-- **Reactivación forzada**: alguna operación cosmológica mayor (*matrimonio de las dos ciudades-cráter*, *cierre de los cuatro polos del papado Borg*, *ascenso completo de los avatares de la Línea Arian*) **dispara la reactivación**. **El cosmos extendido se reorganiza** en torno a las Plataformas reactivadas.
-- **Reactivación impedida**: el estancamiento es **permanente** dentro del ciclo presente del cosmos extendido. **Las Plataformas siguen operando residualmente** sin llegar a recuperar su función primigenia. **Vala Cristalis se mantiene** como mundo-gema cerrado a otros pliegues, *con las dos ciudades-cráter operando sobre energía estancada que eventualmente se agotará*.
+- **Reactivación forzada**: alguna operación cosmológica mayor (*matrimonio de las dos ciudades-cráter*, *cierre de los cuatro polos del papado Borg*, *ascenso completo de los avatares de la [[Linea_Arian_Avatares|Línea Arian]]*) **dispara la reactivación**. **El cosmos extendido se reorganiza** en torno a las Plataformas reactivadas.
+- **Reactivación impedida**: el estancamiento es **permanente** dentro del ciclo presente del cosmos extendido. **Las Plataformas siguen operando residualmente** sin llegar a recuperar su función primigenia. **[[Vala_Cristalis]] se mantiene** como mundo-gema cerrado a otros pliegues, *con las dos ciudades-cráter operando sobre energía estancada que eventualmente se agotará*.
 
 *La hipótesis operativa actual del cosmos*: **la tercera**. **El estancamiento es regla**; **la reactivación sería excepción**.
 

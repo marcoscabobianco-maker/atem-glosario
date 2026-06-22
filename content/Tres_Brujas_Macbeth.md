@@ -33,11 +33,11 @@ Las **Tres Brujas Macbeth** son **las habitantes del plano de brujas** —el cov
 
 ### El cantito a Sven
 
-Su intervención más recordada por la mesa es el **cantito que dirigieron a [[Sven]]**, el bárbaro Lost One de hacha sangrienta, cuando él entró al plano de brujas perdido junto al grupo bombero:
+Su intervención más recordada por la mesa es el **cantito que dirigieron a [[Sven]]**, el bárbaro [[Lost_Ones|Lost One]] de hacha sangrienta, cuando él entró al plano de brujas perdido junto al grupo bombero:
 
 > ***"Sven, no pierdas el tren, tren, tren"***
 
-La fórmula es corta, casi infantil en su métrica, y por eso eficaz: la repetición *tren, tren, tren* funciona como anzuelo persuasivo —del modo en que las brujas de Shakespeare engatusan a Macbeth con la profecía—. Lo que **querían que Sven hiciera** era preciso: **destruir todo con los compañeros**. La sugerencia apuntaba a usar la rabia del bárbaro contra su propia banda, completar la operación de las bombas, hacer estallar la catedral del Templo y Lugar de los Justos donde el grupo estaba siendo asaltado arriba.
+La fórmula es corta, casi infantil en su métrica, y por eso eficaz: la repetición *tren, tren, tren* funciona como anzuelo persuasivo —del modo en que las brujas de Shakespeare engatusan a Macbeth con la profecía—. Lo que **querían que Sven hiciera** era preciso: **destruir todo con los compañeros**. La sugerencia apuntaba a usar la rabia del bárbaro contra su propia banda, completar la operación de las bombas, hacer estallar la catedral del [[Templo_Lugar_de_los_Justos|Templo y Lugar de los Justos]] donde el grupo estaba siendo asaltado arriba.
 
 La tentación **casi entra**. El grupo aguanta. [[Arsvan|Ärsvan]] interviene y detiene. La trampa se desactiva. Pero la cercanía del desastre queda en el archivo como prueba operativa de las brujas: *"un pequeño error puede hacer que todo vuele por los aires"*.
 
@@ -55,5 +55,5 @@ La tentación **casi entra**. El grupo aguanta. [[Arsvan|Ärsvan]] interviene y 
 
 ## Apariciones
 
-- Inferno, primer nivel, episodio Catacumbas / Templo de los Justos — tentación a Sven, cantito
+- Inferno, primer nivel, episodio Catacumbas / [[Templo_Lugar_de_los_Justos|Templo de los Justos]] — tentación a Sven, cantito
 - Plano de Brujas — su dimensión propia, lugar donde el grupo bombero se pierde antes de entrar

@@ -21,7 +21,7 @@ epoca: "Edad de los Reinos Olvidados — Arian, Amdriel, Adimanto, Ariadna"
 
 Grupo de cuatro aprendices de la **[[Sagrada_Orden|Sagrada Orden]]** en **[[Tanastias]]**: **[[Arian]]**, **[[Amdriel]]**,
 **[[Adimanto]]**, **[[Ariadna_Genoveva|Ariadna]]**. Bajo tutela de **[[Dietrus]]**. Misión principal: rescate de
-reliquias de Delgrante. Conforman núcleo inicial de iniciación espiritual-mágica.
+reliquias de [[Delgrante]]. Conforman núcleo inicial de iniciación espiritual-mágica.
 Cada miembro aporta capacidades complementarias: liderazgo carismático ([[Arian]]), magia
 ([[Amdriel]], [[Ariadna_Genoveva|Ariadna]]), negociación y robustez ([[Adimanto]]).
 

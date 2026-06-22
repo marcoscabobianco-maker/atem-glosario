@@ -14,7 +14,7 @@ aliases:
 
 ## Presentación
 
-Entidad femenina envuelta en llamas verdes, parcialmente incorporéa/inmaterial. Aparece durante el combate en [[Constantinopla_Ucronica_1055_CE|Constantinopla]]. Su rol es ambiguo: el docx la presenta como parte del grupo atacante (mercaderes rojos), pero el archivos la describe como ferozmente protectora de [[Thomas_Cole|Thomas Cole]].
+[[Entidad]] femenina envuelta en llamas verdes, parcialmente incorporéa/inmaterial. Aparece durante el combate en [[Constantinopla_Ucronica_1055_CE|Constantinopla]]. Su rol es ambiguo: el docx la presenta como parte del grupo atacante (mercaderes rojos), pero el archivos la describe como ferozmente protectora de [[Thomas_Cole|Thomas Cole]].
 
 **Características:**
 - Llamas verdes que envuelven su forma

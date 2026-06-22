@@ -23,6 +23,6 @@ Si [[Marques_de_Sade_Hugo|Hugo]] está desdoblado, ¿es [[Arsvan|Ärsvan]] desti
 | [[Papeles_Planos_de_Region|Papeles]] del Santuario | No examinado | Recuperado | Aún no leído |
 | [[Portero_Capturador|Portero]] | Cautivo | Transportado a taberna | Cautivo en Ballena Blanca |
 | Reliquias | En Ur | Mencionadas por [[Marques_de_Sade_Hugo|Hugo]]/[[Patriarca]] | Bajo custodia patriarcal |
-| Anillo curación | No tenido | Identificado | [[Reynaud|Reynaud]] posee |
+| Anillo curación | No tenido | Identificado | [[Michel|Michel]] posee |
 | Casco [[Breath_of_Life|Breath of Life]] (Lirio) | Usado en la jornada de Hespérides | Ídem | Pregunta abierta sobre límites |
 | Sugestiones [[Michel|Michel]] | Activas | Activas | Activas (sin resolución) |

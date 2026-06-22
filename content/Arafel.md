@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-Compañero en [[La_Jabalina|La Jabalina]]. **Trae la Espada de Kas**. Posible variante de nombre: **Araspel**. Revela que cuando le ofrecen la espada femenina a Araspel, **aparece la presencia de [[Auro]]** — confirmación de que Arafel es vehículo de la entrada de Auro en la diégesis Caldero.
+Compañero en [[La_Jabalina|La Jabalina]]. **Trae la Espada de Kas**. Posible variante de nombre: **Arafel**. Revela que cuando le ofrecen la espada femenina a Arafel, **aparece la presencia de [[Auro]]** — confirmación de que Arafel es vehículo de la entrada de Auro en la diégesis [[Caldero]].
 
 ## Conexiones
 

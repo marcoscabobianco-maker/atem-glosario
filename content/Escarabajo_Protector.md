@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-Artefacto mágico en posesión de [[Philippe]] durante esta sesión. Otorga protección 12 veces contra efectos mágicos (incluidos efectos de muerte). Activado durante el combate contra el dragón psicopompo para proteger a [[Philippe]] de conjuros letales. Naturaleza: posiblemente de origen egipcio-ucrónico dada la iconografía del escarabajo.
+Artefacto mágico en posesión de [[Philippe]] durante esta jornada. Otorga protección 12 veces contra efectos mágicos (incluidos efectos de muerte). Activado durante el combate contra el dragón psicopompo para proteger a [[Philippe]] de conjuros letales. Naturaleza: posiblemente de origen egipcio-ucrónico dada la iconografía del escarabajo.
 
 ## Apariciones notables
 

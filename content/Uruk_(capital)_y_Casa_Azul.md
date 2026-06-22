@@ -1,50 +1,21 @@
 ---
-tags: [Vala, VALA, lugar]
-meta: M
-image: _assets/Vala/Uruk__capital__y_Casa_Azul_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "vala"]
+aliases: ["Uruk", "Casa Azul de Vala", "Urupla Azul", "Mugla Azul"]
 ---
 
-# Uruk (capital) y Casa Azul
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Uruk__capital__y_Casa_Azul_retrato.png`
-> **Prompt sugerido:** Ilustración de Uruk (capital) y Casa Azul. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+# Uruk y Casa Azul
 
-![[Uruk__capital__y_Casa_Azul_retrato.png]]
+Uruk es la capital del orbe Vala y el centro del sistema heptárquico: siete casas gobiernan las tierras de Vala en concierto, y la [[Casa_Azul_de_Vala|Casa Azul]] las preside. La Casa Azul desciende de Gilgamesh el inmortal y sostiene en su linaje el título de la corona. La ciudad se asienta sobre el Río del Sol, afluente del Río de la Luna, en la zona que los cronistas llaman San Mesopotamia: nombre que señala el origen mítico del lugar tanto como su condición de encrucijada.
 
+El rey actual, Baram I, fue apartado del ciclo ceremonial por el portento del meteorito que destruyó Tres Arroyos y transformó esa ciudad en Desastroyo. Un rey sustituto fue designado para cumplir los ritos en su lugar. El ciclo del año nuevo de Uruk es el eje del orden sagrado: el día cuatro, el rey recibe la expiación y desaparece; el día cinco, los dioses se congregan en la Isla del Medio, accesible solo a través de los barqueros de pies de pájaro; al mediodía de ese mismo día, el rey o su sustituto recibe a los representantes de las casas. El ciclo culmina en la hierogamia, unión ritual del rey y la sacerdotisa que garantiza la fertilidad del orbe, y en la lectura de la epopeya de la creación: la derrota de los dragones de Tiamat que funda la legitimidad de Uruk.
 
-**Acción:** Crear entrada combinada o dos entradas separadas (decidir Marcos).
+La Casa Blanca, asentada en las Torres Blancas del sur, es la segunda casa mayor del sistema. Retirada del gobierno activo, conserva su vinculación con la luna Listasint y con los Dragon Kings. Las cinco casas restantes del sistema heptárquico no están confirmadas por el archivo en el punto de cierre de esta consulta.
 
-## Capa juego
-
-**Uruk** es la capital del orbe Vala. Gobernada por la **Casa Azul** (también referenciada como *Urupla Azul* / *Mugla Azul* — variantes ASR). La Casa Azul desciende de **Gilgamesh el inmortal**. Posee "el gobierno y el concierto de las siete casas que hacen las tierras fabulosas de Bala/Vala".
-
-Geografía: ubicada en parte del **Río del Sol** (afluente del Río de la Luna), zona designada como **San Mesopotamia**. Esto es **geografía dual**: Uruk mítica + posible toponimia ucrónica patagónica/pampeana.
-
-Otras casas mencionadas o aludidas: **Casa Blanca** (Bahía Blanca, Torres Blancas en el sur — retirada del gobierno actual, vinculada a la Luna/Listasint y a los Dragon Kings), y otras 5 implícitas en el sistema heptárquico ("siete casas").
-
-**Rey actual:** Rey **Baram I**, ausente del ciclo ceremonial actual por haber sido designado un **rey sustituto** debido al portento del meteorito de Tres Arroyos. El sustituto es el eje del arco "rey mediodía y sust(ituto)".
-
-## Estructura ritual del año
-
-Ciclo ceremonial detectado:
-- **Año Nuevo** (ritual mayor, este año tono especial por el ciclo de 100 años).
-- Día 4: **expiación** (recato, cachetazos rituales al rey, el rey "desaparece").
-- Día 5: **parada de dioses** en la **Isla del Medio** (pabellón de colores de las casas; sólo accesible vía barqueros de pies de pájaro).
-- Día 5 mediodía: audiencia con el rey/sustituto.
-- Posteriormente: **himeneo / hierogamia** (matrimonio ritual entre rey y sacerdotisa para fertilidad colectiva); luego orgías generales.
-- Rituales agregados: invocación de los dioses, reactualización del mito de la derrota de los dragones de Tiamat, lectura de la epopeya de la creación.
-
-## Ref.
-
-rol_wordbreaker_huevo_negro_y_grr (18 Uruk, 26 Casa Azul); rol_wordbreaker_reunión_rey_mediodia_y_sust (18 CA, 9 Monte Hermoso); rol_vala_vuelta_a_uruk_2 (15 CA, 8 Babilonia); reintro_sven_cocinero_real_pj_rodri (8); rol_resuelto_interruptus_apoc_vala.m4a (5).
-
-## Preguntas
-
-1. ¿Las **siete casas** tienen nombres confirmados? Casa Azul, Casa Blanca son sólo dos.
-2. ¿"San Mesopotamia" es toponimia ucrónica intencional o ASR?
-3. ¿El **Rey Baram I** tiene historia previa (cuadernos)?
-4. ¿Quién es el rey sustituto (nombre)? ¿Es el Príncipe Debo o el "Rey de Mediodía"?
-
+## Vínculos
+- [[Calendario_ritual_del_Año_Nuevo_de_Uruk]] — estructura ceremonial que articula el año en Uruk
+- [[Casa_Blanca_Listasint_Dragon_Kings]] — segunda casa mayor; retirada pero opuesta en cosmología a la Casa Azul
+- Tiamat (ATEM Vala) — cuya derrota mítica funda la legitimidad de Uruk y la Casa Azul
+- [[Principe_Debo]] — candidato al rol de rey sustituto en el ciclo actual
+- Wordbreakers (grupo PC) — grupo que operó en Uruk durante el arco del rey sustituto
+- [[Geografia_pampeana_de_Vala]] — clave para leer la doble toponimia de San Mesopotamia y el Río del Sol

@@ -15,13 +15,13 @@ aliases:
 
 ## Presentación
 
-Facción de ferroviarias sindicalistas en [[Antiterra_Demonia|Antiterra]]. Basadas en socialismo utópico con inspiración en Saint-[[Simon_NPC_demoniaco|Simon]]. Mineras y trabajadoras de ferrocarriles. Estructura con líderes empresarios + trabajadores. Símbolo: sandalias rojas (conectadas a sandalias de [[Moni_Vivescu|Mony Vibescu]] confiscadas por [[Claude_Nauge|Claude Nauge]] para [[FORJA]]). Rol clave en [[Orient_Express|Orient Express]] y control de rutas ferroviarias transcontinentales.
+Facción de ferroviarias sindicalistas en [[Antiterra_Demonia|Antiterra]]. Basadas en socialismo utópico con inspiración en Saint-[[Simon_NPC_demoniaco|Simon]]. Mineras y trabajadoras de ferrocarriles. Estructura con líderes empresarios + trabajadores. Símbolo: sandalias rojas (conectadas a sandalias de [[Moni_Vivescu|Moni Vivescu]] confiscadas por [[Claude_Nauge|Claude Nauge]] para [[FORJA]]). Rol clave en [[Orient_Express|Orient Express]] y control de rutas ferroviarias transcontinentales.
 
 Líder conocida: **[[Estrella_de_la_Manana|Estrella de la Mañana]]** (ferroviaria, guerrera, aliada eventual).
 
 ## Apariciones notables
 
-el archivo (mención de palomas de hierro en contexto de Comunados, ferroviarias en [[Orient_Express|Orient Express]]), construcción del mundo sobre ferrocarril como eje político-económico de [[Antiterra_Demonia|Antiterra]].
+el archivo (mención de palomas de hierro en contexto de [[Comunados]], ferroviarias en [[Orient_Express|Orient Express]]), construcción del mundo sobre ferrocarril como eje político-económico de [[Antiterra_Demonia|Antiterra]].
 
 ## Ver también
 

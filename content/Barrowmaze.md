@@ -45,7 +45,7 @@ imagen: null
 
 Esa **zona franca** es precisamente lo que la convierte en **destino del norte**:
 
-- **Los [[Buscadores_de_Ardis_Vala|Buscadores]]**, tras su despojo en la cámara octagonal del Mega-Dungeon, **eligieron Helix al sur como destino** *con el plan declarado de "operar los túmulos"* y recuperar arcano fuera del monopolio Priscian.
+- **Los [[Buscadores_de_Ardis_Vala|Buscadores]]**, tras su despojo en la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], **eligieron Helix al sur como destino** *con el plan declarado de "operar los túmulos"* y recuperar arcano fuera del monopolio Priscian.
 - **El grupo del santuario de Helix** —el grupo encarcelado de la inquisición del Abad— **había sido enviado al Barrowmaze a recuperar la [[Tableta_del_Caos]]** antes del ciclo presente. *La misión seguía abierta al cierre*.
 - **El demonio [[Quasi_demonio_menor|Quasi]]** ofreció guiar al gemelo guardia tentado **al barro** —*donde habría diez mil monedas escondidas*— como parte del pacto.
 
@@ -53,7 +53,7 @@ Esa **zona franca** es precisamente lo que la convierte en **destino del norte**
 
 En la jornada del altar partido, **las hordas esqueléticas convocadas o liberadas por el [[Caballero_Oscuridad_Helix|Caballero de la Oscuridad]]** avanzaron sobre Helix por los caminos exteriores al campo. *El cronista no fija si las hordas estaban preconvocadas en algún túmulo específico o si emergieron a la superficie tras el pacto del caballero por la mañana*. **Lo que sí registra**: las hordas **no entraron al recinto consagrado de la [[Iglesia_Consagrada_Helix|iglesia]]** —*la consagración filtra los grandes muertos vivientes*—, **pero ocuparon los aledaños** y el cerco se sostuvo activo durante toda la jornada.
 
-*El barro, después de la jornada, queda doblemente cargado*: **reserva de tesoros, sí**; **pero también probable cantera de hordas esqueléticas residuales**. **El siguiente grupo que descienda a sus túmulos** —*sea el del santuario, sean los Buscadores del norte*— **encontrará la zona en estado de hostilidad activa**, *no de simple peligro pasivo*.
+*El barro, después de la jornada, queda doblemente cargado*: **reserva de tesoros, sí**; **pero también probable cantera de hordas esqueléticas residuales**. **El siguiente grupo que descienda a sus túmulos** —*sea el del santuario, sean los [[Buscadores_de_Ardis_Vala|Buscadores]] del norte*— **encontrará la zona en estado de hostilidad activa**, *no de simple peligro pasivo*.
 
 ## La onomástica diegética
 
@@ -76,6 +76,6 @@ En la jornada del altar partido, **las hordas esqueléticas convocadas o liberad
 ## Apariciones
 
 - **Tradición sepulcral antigua** — siglos de uso funerario; tesoros que han ido acumulándose
-- **Ciclo presente, encargado del Abad** — misión de recuperar la Tableta del Caos en alguno de los túmulos
+- **Ciclo presente, encargado del Abad** — misión de recuperar la [[Tableta_del_Caos]] en alguno de los túmulos
 - **Ciclo presente, jornada del altar partido** — rutas exteriores ocupadas por hordas esqueléticas
-- **Ciclo presente, destino del norte** — los Buscadores deciden marchar al sur para operar los túmulos
+- **Ciclo presente, destino del norte** — los [[Buscadores_de_Ardis_Vala|Buscadores]] deciden marchar al sur para operar los túmulos

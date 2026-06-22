@@ -21,23 +21,23 @@ imagen: null
 ---
 # Jzadirune
 
-> *"Esto apenas comienza."* — Ayrton, antes de cruzar las puertas de engranajes que llevan al enclave.
+> *"Esto apenas comienza."* — [[Ayrton_Auslander|Ayrton]], antes de cruzar las puertas de engranajes que llevan al enclave.
 
 ---
 
 ## El enclave bajo Caldero
 
-**Jzadirune** —*"el enclave gnómico"* en boca corriente— **es sub-estructura subterránea bajo [[Caldero]]**, *conectada con la [[Fortaleza_de_Malaquita]]* por **puertas de engranajes intrincadamente diseñadas**. *Habitada en otras eras por **comunidades gnómicas afines al [[El_Fabuloso|Fabuloso]]***, *al abrigo de ciertos créditos mágicos y torres de muerte*, **fue zona próspera del subsuelo de Caldero** en su época de plenitud.
+**Jzadirune** —*"el enclave gnómico"* en boca corriente— **es sub-estructura subterránea bajo [[Caldero]]**, *conectada con la [[Fortaleza_de_Malaquita]]* por **puertas de engranajes intrincadamente diseñadas**. *Habitada en otras eras por **comunidades gnómicas afines al [[El_Fabuloso|Fabuloso]]***, *al abrigo de ciertos créditos mágicos y torres de muerte*, **fue zona próspera del subsuelo de [[Caldero]]** en su época de plenitud.
 
-*Mascor Blancarba registra el dato con cuidado*: **"se asentaron prósperas comunidades gnómicas afines al Fabuloso, al abrigo de ciertos créditos mágicos y torres de muerte (una firma inseparable del ex-Boreal y Regulador)"**. *Pero esas historias han conocido su desvanecimiento y desgracia*. **El enclave hoy** *opera con presencia residual*: *abandonado o semi-poblado*, *con magia residual operativa pero sin estructura social plena*.
+*[[Mascor_Blancarba]] registra el dato con cuidado*: **"se asentaron prósperas comunidades gnómicas afines al Fabuloso, al abrigo de ciertos créditos mágicos y torres de muerte (una firma inseparable del ex-Boreal y Regulador)"**. *Pero esas historias han conocido su desvanecimiento y desgracia*. **El enclave hoy** *opera con presencia residual*: *abandonado o semi-poblado*, *con magia residual operativa pero sin estructura social plena*.
 
 ---
 
 ## El acceso y las llaves
 
-**Las puertas de engranajes que cierran Jzadirune** —*intrincadamente diseñadas como intimidantes, pero abrechas con las llaves apropiadas*— **se operan con llaves del chaleco que [[Keygan_Ghelve|Keygan Ghelve]] portaba**. *El gnomo cerrajero de la superficie* **tenía las llaves del enclave gnómico** *por linaje familiar o por adquisición clandestina*; *al ser ejecutado por Ayrton*, **las llaves pasaron al grupo**. **Cada giro de una llave resuena como un eco en la cámara**, *y con un último esfuerzo, las puertas se abren*, **revelando un camino más profundo hacia el enclave**.
+**Las puertas de engranajes que cierran Jzadirune** —*intrincadamente diseñadas como intimidantes, pero abrechas con las llaves apropiadas*— **se operan con llaves del chaleco que [[Keygan_Ghelve|Keygan Ghelve]] portaba**. *[[Keygan_Ghelve|El gnomo cerrajero]] de la superficie* **tenía las llaves del enclave gnómico** *por linaje familiar o por adquisición clandestina*; *al ser ejecutado por [[Ayrton_Auslander|Ayrton]]*, **las llaves pasaron al grupo**. **Cada giro de una llave resuena como un eco en la cámara**, *y con un último esfuerzo, las puertas se abren*, **revelando un camino más profundo hacia el enclave**.
 
-*El subgrupo Ayrton-Sila-Tony cruzó las puertas* **al final de la primera misión de La Jabalina**. *Ayrton miró hacia atrás, hacia las máscaras susurrantes, con una media sonrisa antes de desaparecer en la penumbra junto a sus compañeros*. **Lo que encontraron en Jzadirune** *propiamente —el interior pleno del enclave— el archivo del compilado de Mascor Blancarba no documenta plenamente*; **opera como anticipación abierta del próximo ciclo**.
+*El subgrupo Ayrton-Sila-Tony cruzó las puertas* **al final de la primera misión de [[La_Jabalina]]**. *Ayrton miró hacia atrás, hacia las máscaras susurrantes, con una media sonrisa antes de desaparecer en la penumbra junto a sus compañeros*. **Lo que encontraron en Jzadirune** *propiamente —el interior pleno del enclave— el archivo del compilado de [[Mascor_Blancarba]] no documenta plenamente*; **opera como anticipación abierta del próximo ciclo**.
 
 ---
 
@@ -69,7 +69,7 @@ imagen: null
 - **Accesible por las llaves del cerrajero** que el grupo recuperó.
 - **Habitado por presencias residuales** —*gnomos supervivientes, criaturas del subsuelo que penetraron tras el desvanecimiento, posiblemente operadores teósofos clandestinos*—.
 - **Con magia residual operativa** del antiguo amparo del Fabuloso.
-- **Potencial sitio de investigación cosmológica mayor** para La Jabalina en el próximo ciclo.
+- **Potencial sitio de investigación cosmológica mayor** para [[La_Jabalina]] en el próximo ciclo.
 
 *El cosmos extendido lo registra como **frontera cosmológica activa en pausa***: **no ha sido reclamado por ningún polo dominante**; *opera con presencia residual* **hasta que algún cuerpo cosmológico mayor lo reclame o lo restaure**.
 
@@ -90,6 +90,6 @@ imagen: null
 
 - **Era de plenitud gnómica** — comunidades afines al Fabuloso, créditos mágicos activos, torres de muerte operativas
 - **Desvanecimiento y desgracia** — caída del enclave por causas no plenamente documentadas
-- **Período Kazmojen** — la Fortaleza de Malaquita opera adyacente sin penetrar plenamente Jzadirune
+- **Período [[Kazmojen]]** — la [[Fortaleza_de_Malaquita]] opera adyacente sin penetrar plenamente Jzadirune
 - **Primera misión de La Jabalina** — apertura de las puertas de engranajes; cruce del subgrupo al penumbra
 - **1824 AE — ciclo presente** — enclave en estado de espera; próxima penetración anticipada

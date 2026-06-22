@@ -1,48 +1,17 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5213836]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Sebastian_Jacques_De_La_Tour_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Sébastien Jacques de la Tour"]
 ---
 
-# ATEM::SaintGermain::MMF::Sebastian Jacques De La Tour
+# Sebastian Jacques De La Tour
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Sebastian_Jacques_De_La_Tour_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Sebastian Jacques De La Tour. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Figura de perfil borroso en los registros del París de 1648, Sébastien Jacques de la Tour se mueve en los márgenes del mundo parlamentario y los barrios donde la Fronda tiene sus raíces más oscuras. Su nombre aparece en documentos del período con la intermitencia propia de quienes actúan en los pliegues de la crisis: no en los estrados ni en los salones del [[Palais-Royal]], sino en los espacios intermedios donde la información vale más que los edictos.
 
-![[ATEM__SaintGermain__MMF__Sebastian_Jacques_De_La_Tour_retrato.png]]
+Lo que se sabe de él es parco: frecuenta el entorno del barrio de Saint-Germain en los meses críticos del enfrentamiento entre el Parlamento y el cardenal [[Cardenal_Mazarino|Mazarino]], y su nombre aparece vinculado a asuntos que los notarios prefieren no detallar. Si es agente, intermediario o simplemente un superviviente con buen olfato para los tiempos revueltos, es algo que los archivos no dicen con claridad.
 
-
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5213836
-**kanka_url:** https://app.kanka.io/w/216093/entities/5213836
-**kanka_kind:** character
-**kanka_type:** NPC
-**familia:** (sin familia)
-**sexo:** (no especificado)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 4
-- **Sesiones donde aparece** (3/9):
-  - S4 — 1 hits
-  - S5 — 2 hits
-  - S7 — 1 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Cardenal_Mazarino]] — figura de poder que estructura el mundo político en que se mueve De la Tour
+- [[Quartier_de_Saint_Germain_de_Pres]] — barrio de operaciones durante la Fronda
+- [[Omer_Talon]] — contemporáneo del mismo entorno jurídico-político
+- [[Paris]] — escenario de sus apariciones durante el período 1648

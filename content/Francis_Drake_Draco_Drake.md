@@ -26,7 +26,7 @@ imagen: Imagenes_Tier1/Francis_Drake_Draco_Drake.png
 ![[Imagenes_Tier1/Francis_Drake_Draco_Drake.png]]
 <!-- /HEADER_IMG -->
 
-> *"Es poderoso. Por algo hizo de su país un mundo."* — Dragón Verde, glosa sobre Drake.
+> *"Es poderoso. Por algo hizo de su país un mundo."* — [[Sauro_Dragon|Dragón]] Verde, glosa sobre Drake.
 
 **De pie en su cubierta con catalejo al ojo derecho**: tricornio negro con calavera y tibias cruzadas al lado, **levita azul de bordados negros, pistola al cinto y sable al costado**, barba en punta, mirada fija en la nave lejana —**una nave a la que apunta y a la que persigue, según el calado del horizonte**—. El cronista anota que la postura **es de mucha lectura barroca** y poca pose: este hombre **ve cosas que su tripulación no ve**.
 
@@ -38,7 +38,7 @@ imagen: Imagenes_Tier1/Francis_Drake_Draco_Drake.png
 
 ---
 
-**El medallón melancólico** —objeto que después llegó al ciclo de [[Northern_Crown_NC|Northern Crown]] vía [[Lope_de_Vega|Lope de Vega]]— **abre, al portarse en circunstancia precisa, una puerta hacia el Infierno dantesco**. *Cuando se pregunta por Drake en presencia del medallón, la inscripción dantesca del umbral aparece como profecía recurrente*: **lasciate ogni speranza**, en sentido literal. Por eso el archivero del Plata anota que **Drake puede ser convocado desde la muerte**: figura cronoviajada, fijada en hito histórico, **reaparece cuando el portador acierta el día**.
+**El medallón melancólico** —objeto que después llegó al ciclo de [[Northern_Crown_NC|Northern Crown]] vía [[Lope_de_Vega|Lope de Vega]]— **abre, al portarse en circunstancia precisa, una puerta hacia el [[Infierno]] dantesco**. *Cuando se pregunta por Drake en presencia del medallón, la inscripción dantesca del umbral aparece como profecía recurrente*: **lasciate ogni speranza**, en sentido literal. Por eso el archivero del Plata anota que **Drake puede ser convocado desde la muerte**: figura cronoviajada, fijada en hito histórico, **reaparece cuando el portador acierta el día**.
 
 [*Hay héroes nacionales que el archivo akásico no acepta como héroes; éste es uno. Lo nacional admite la firma; lo akásico cuenta las tortugas. — Glosa atribuida al [[Pablo_de_Alejandria|Paulus]].*]
 
@@ -55,6 +55,6 @@ imagen: Imagenes_Tier1/Francis_Drake_Draco_Drake.png
 
 ## Apariciones
 
-- **1579 — desembarco en California; renombramiento como Nueva Albión** — episodio cronoviajado
-- **NC15 — mencionado por el Dragón** — primera entrada en el archivo NC
-- **NC16 — Farruco Arrastrado al Pozo** — referencia de Harrison Solar
+- **1579 — desembarco en [[California]]; renombramiento como Nueva Albión** — episodio cronoviajado
+- **NC15 — mencionado por el [[Sauro_Dragon|Dragón]]** — primera entrada en el archivo NC
+- **NC16 — [[Farruco_Arrastrado_al_Pozo_NC16|Farruco Arrastrado al Pozo]]** — referencia de [[Harrison_Solar]]

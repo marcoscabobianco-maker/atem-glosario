@@ -23,13 +23,13 @@ imagen: null
 
 # La Senda de Drakthar
 
-> *"Una misión donde se topan con oscuros, Drakthar y las fuerzas del Shadowfell. Teo pierde un brazo para salvar a un compañero, lo que forja definitivamente la unión de La Jabalina."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"Una misión donde se topan con oscuros, [[Drakthar]] y las fuerzas del [[Shadowfell]]. Teo pierde un brazo para salvar a un compañero, lo que forja definitivamente la unión de [[La_Jabalina]]."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
 ## La misión
 
-**La Senda de Drakthares la segunda misión mayor de [[La_Jabalina]]** *en el ciclo presente*, *cronológicamente entre el Bazar de la Vida y la Temporada de Inundaciones*. **Operación de descenso a los pasadizos de [[Yathrebu]]** *(geografía subterránea adyacente a Caldero)* **donde [[Drakthar]] —operador shadowfelliano— tenía base**. *Los pasadizos estaban infestados de **oscuros*** *(criaturas del Shadowfell)*.
+**La Senda de Drakthares la segunda misión mayor de [[La_Jabalina]]** *en el ciclo presente*, *cronológicamente entre el [[Bazar_de_la_Vida]] y la [[Temporada_de_Inundaciones]]*. **Operación de descenso a los pasadizos de [[Yathrebu]]** *(geografía subterránea adyacente a [[Caldero]])* **donde [[Drakthar]] —operador shadowfelliano— tenía base**. *Los pasadizos estaban infestados de **oscuros*** *(criaturas del [[Shadowfell]])*.
 
 ---
 
@@ -45,13 +45,13 @@ imagen: null
 
 ### 3. La exposición de la red mayor
 
-*Las pistas obtenidas* **revelaron que algunos nobles —y quizás algo aún más peligroso— se beneficiaban del caos** que Drakthar sembraba. **El grupo salió con derrota del operador + conocimiento de la red mayor** *(conspiración nobiliaria que continuaría manifestándose en la Temporada de Inundaciones y en la conspiración mayor del ciclo)*.
+*Las pistas obtenidas* **revelaron que algunos nobles —y quizás algo aún más peligroso— se beneficiaban del caos** que [[Drakthar]] sembraba. **El grupo salió con derrota del operador + conocimiento de la red mayor** *(conspiración nobiliaria que continuaría manifestándose en la [[Temporada_de_Inundaciones]] y en la conspiración mayor del ciclo)*.
 
 ---
 
 ## El cierre simbólico
 
-*Tras la derrota inicial de Drakthar*, **el grupo volvió bajo tierra** —*"levantando la perdiz" en la formulación de Mascor Blancarba*— **terminando con la jabalina estacionando su pecho en sucio ataúd**. *El cierre simbólico*: **la jabalina del grupo se hunde en el ataúd que cierra la operación**. **La misión completa**.
+*Tras la derrota inicial de Drakthar*, **el grupo volvió bajo tierra** —*"levantando la perdiz" en la formulación de [[Mascor_Blancarba]]*— **terminando con la jabalina estacionando su pecho en sucio ataúd**. *El cierre simbólico*: **la jabalina del grupo se hunde en el ataúd que cierra la operación**. **La misión completa**.
 
 ---
 
@@ -69,6 +69,6 @@ imagen: null
 
 ## Apariciones
 
-- **Pre-misión** — operación clandestina de Drakthar sembrando caos en Caldero
-- **Misión** — descenso a Yathrebu, combate con oscuros y Skulks, pérdida del brazo de Teo, decisión de Sila, derrota de Drakthar
+- **Pre-misión** — operación clandestina de Drakthar sembrando caos en [[Caldero]]
+- **Misión** — descenso a [[Yathrebu]], combate con oscuros y Skulks, pérdida del brazo de Teo, decisión de Sila, derrota de Drakthar
 - **Post-misión** — exposición parcial de la red nobiliaria, cierre simbólico con la jabalina en el ataúd

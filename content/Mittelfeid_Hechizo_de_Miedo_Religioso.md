@@ -10,15 +10,13 @@ aliases:
 
 ## Presentación
 
-**Invocador:** [[Reynaud|Reynaud]] 
-**Descripción:** Hechizo de encantamiento que causa miedo. Invocación: mostrar moneda de Judas (foco), recordar al objetivo el castigo de traidores en Infierno.
-**Tirada de salvación:** Will 
-**Duración:** 4 rounds (si falla save)
-**Efectos observados:** [[Michel|Michel]] falla salvación. Retrocede aterrada por 4 rounds. Compelida a alejarse de [[Reynaud|Reynaud]] (focal point del miedo).
-**Mecánica importante:** cronista establece que miedo < sugestión (miedo es más primario). Objetivo bajo sugestión anterior puede ser obligado a "retroceder" pero mantiene objetivo de sugestión.
+**Invocador:** [[Michel|Michel]] 
+**Descripción:** [[Idiotizacion_Hechizo|Hechizo]] de encantamiento que causa miedo. Invocación: mostrar moneda de Judas (foco), recordar al objetivo el castigo de traidores en [[Infierno]].
+**Resistencia:** la voluntad del que lo sufre 
+**Duración:** cuatro embates, si la voluntad cede
+**[[Efectos]] observados:** invocado sobre sí mismo, [[Michel|Michel]] no logra resistirlo. Retrocede aterrada durante cuatro embates. Compelida a alejarse de la moneda de Judas (focal point del miedo).
+**Nota del cronista:** el miedo es más primario que la sugestión. [[Objetivo]] bajo sugestión anterior puede ser obligado a "retroceder" pero mantiene objetivo de sugestión.
 
 ## Ver también
 
-- Tirada de salvación
-- Efectos observados
-- [[Mecanica_importante|Mecánica importante]]
+- [[Efectos]] observados

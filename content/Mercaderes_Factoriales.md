@@ -39,7 +39,7 @@ imagen: null
 | Tarifa | Imperial alta | Menor (contrabando) |
 | Rutas | Sancionadas, registradas | Clandestinas, rotadas |
 | Escolta | Cuerpo de guardia archonteo | Lealtad horizontal interna |
-| Archivo | Registrado en Fortaleza Azur | Oral, no documentado |
+| Archivo | Registrado en [[Fortaleza_Azur]] | Oral, no documentado |
 
 **Las dos facciones coexisten en el valle**: *los Factoriales operan el comercio "oficial"*, *la Hermandad el "clandestino tolerado"*. **El aparato imperial calcula que la coexistencia es más estable que el monopolio**; *cerrar la Hermandad obligaría a los Factoriales a bajar tarifas, lo cual reduciría los ingresos imperiales*. **El equilibrio se sostiene en margen tolerado**.
 
@@ -49,9 +49,9 @@ imagen: null
 
 **[[Theron_Glesteon]]** *(cabeza visible de la Casa Glesteon en el ciclo presente)* **opera como figura central del cuerpo Factorial**. *Otras casas del cuerpo*:
 
-- **Casa Glesteon** — *la mayor; rutas largas; depósitos en la Fortaleza Azur*.
+- **Casa Glesteon** — *la mayor; rutas largas; depósitos en la [[Fortaleza_Azur]]*.
 - **Casas menores no plenamente documentadas** — *cuerpos comerciales menores subordinados a Glesteon o aliados*.
-- **Casa Theron Glesteon en Ritornello** *(antigua sede que cayó con la operación del [[El_Huevo_de_Ritornelo|Huevo de Ritornelo]])* — **pérdida mayor del aparato Factorial**; **archivo comercial parcialmente recuperado**, *operaciones reorganizadas hacia Glastumville*.
+- **Casa [[Theron_Glesteon]] en [[Ritornello]]** *(antigua sede que cayó con la operación del [[El_Huevo_de_Ritornelo|Huevo de Ritornelo]])* — **pérdida mayor del aparato Factorial**; **archivo comercial parcialmente recuperado**, *operaciones reorganizadas hacia [[Glastumville]]*.
 
 ---
 
@@ -69,11 +69,11 @@ imagen: null
 
 ## La caída de Ritornello y la reorganización
 
-**La operación de [[Kerbog_Khan]] sobre [[Ritornello]]** *(cierre del ciclo primero del aparato Ardisvala)* **causó pérdida mayor a los Factoriales**: *la sede comercial antigua de Casa Glesteon en Ritornello se perdió*, *el archivo comercial se desconectó del cosmos común*, *figuras menores del cuerpo desaparecieron en la operación*. **Theron Glesteon reorganizó el aparato hacia Glastumville** *como sede única post-catástrofe*; **el aparato imperial central proporcionó subvención de reorganización** *para evitar el colapso del cuerpo Factorial*.
+**La operación de [[Kerbog_Khan]] sobre [[Ritornello]]** *(cierre del ciclo primero del aparato Ardisvala)* **causó pérdida mayor a los Factoriales**: *la sede comercial antigua de Casa Glesteon en [[Ritornello]] se perdió*, *el archivo comercial se desconectó del cosmos común*, *figuras menores del cuerpo desaparecieron en la operación*. **[[Theron_Glesteon]] reorganizó el aparato hacia [[Glastumville]]** *como sede única post-catástrofe*; **el aparato imperial central proporcionó subvención de reorganización** *para evitar el colapso del cuerpo Factorial*.
 
 *La doctrina interna post-Ritornello*: **vigilancia mayor de las rutas hacia el mega-dungeon**, **coordinación más estrecha con la Fortaleza Azur**, **alerta ante operación futura del Huevo de Ritornelo o aparato equivalente**.
 
-[*Los Mercaderes Factoriales son cuerpo donde el aparato imperial archonteo opera en su dimensión más cotidiana: el comercio. Mientras los Factoriales operen, el valle del Barrado Balacán es geografía imperial. Si cayeran, el valle se vuelve geografía mercante libre. La diferencia importa al aparato más que a los mercaderes. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*Los Mercaderes Factoriales son cuerpo donde el aparato imperial archonteo opera en su dimensión más cotidiana: el comercio. Mientras los Factoriales operen, el valle del Barrado [[Barrado_Balacan|Balacán]] es geografía imperial. Si cayeran, el valle se vuelve geografía mercante libre. La diferencia importa al aparato más que a los mercaderes. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 

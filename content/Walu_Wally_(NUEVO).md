@@ -1,35 +1,16 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, nueva-entidad]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Walu___Wally__NUEVO_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Walu", "Wally"]
 ---
 
-# ATEM::SaintGermain::MMF::Walu / Wally (NUEVO)
+# Walu / Wally
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Walu___Wally__NUEVO_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Walu / Wally (NUEVO). Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Nombre o apodo que circuló entre los que frecuentaban el entorno del [[Andromalius|demonio Andromalius]] en el París de 1648. La única huella que dejó en los registros es la pregunta de alguien que lo había conocido: *¿se acuerdan que decía Walu?* Una voz recordada, no una presencia documentada.
 
-![[ATEM__SaintGermain__MMF__Walu___Wally__NUEVO_retrato.png]]
+No consta en ningún registro parroquial, notarial ni policial bajo ese nombre. Si se trataba de un alias de la [[Cour_des_Miracles]] o de un apodo de taberna, el archivo no lo precisa. Lo que sí establece es que su nombre fue pronunciado en relación con los mismos círculos donde [[Andromalius]] se manifestó durante las jornadas de la [[Cour_des_Miracles|Corte de los Milagros]].
 
-
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**tipo entidad sugerida:** character
-**folder Kanka sugerida:** characters
-**sesiones donde aparece:** S6
-
-## Justificación
-
-Citado por el Master en ¶761 ('¿se acuerdan que decía Walu?'). Probable NPC referenciado en sesión fuera del corpus o jugador-personaje no registrado. CONFIRMAR con Marcos.
-
-## Propuesta ATEM
-
-- Esta entidad NO existe en el export de Kanka SG.
-- PROPUESTA: confirmar con Marcos si corresponde:
-  1. Crear nueva entidad en Kanka (con type apropiado).
-  2. Crear entrada ATEM espejo con kanka_url una vez creada.
-  3. O bien marcar como capa [R] (real-life) si es jugador, no PJ/NPC.
+## Vínculos
+- [[Andromalius]] — demonio en cuyo entorno fue mencionado Walu
+- [[Yankee_(NUEVO)]] — otro nombre de identidad incierta en el mismo corpus
+- [[Marsilio_Fountaine]] — figura de los mismos círculos en las jornadas donde aparece la mención

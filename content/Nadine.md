@@ -1,51 +1,16 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5198336]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Nadine_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Nadine"]
 ---
 
-# ATEM::SaintGermain::MMF::Nadine
+# Nadine
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Nadine_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Nadine. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Sobrina de [[Alphonse]]. Vive bajo el mismo techo que su tío y que [[Gerard]], en el ámbito doméstico que Alphonse administra desde las márgenes del comercio parisino de mediados de siglo. Nadine es descrita como sigilosa, de temperamento asustadizo y salud frágil: rasgos que quienes la conocen leen como señales de una existencia transcurrida en estado de alerta permanente.
 
-![[ATEM__SaintGermain__MMF__Nadine_retrato.png]]
+La amistad que Nadine forjó con [[Jeanne_Devossie]] es el vínculo afectivo más visible que el registro conserva de ella. Las dos jóvenes comparten tiempo en un París convulsionado por la Fronda, y esa proximidad sitúa a Nadine en el margen de los eventos que rodean a Jeanne sin que los testimonios la ubiquen en el centro de los mismos.
 
-
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5198336
-**kanka_url:** https://app.kanka.io/w/216093/entities/5198336
-**kanka_kind:** character
-**kanka_type:** PNJ
-**familia:** (sin familia)
-**sexo:** Femenino
-**título:** Sobrina de Alfonse
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 26
-- **Sesiones donde aparece** (5/9):
-  - S2 — 2 hits
-  - S3 — 8 hits
-  - S4 — 2 hits
-  - S6 — 2 hits
-  - S9 — 12 hits
-
-## Entry Kanka actual (resumen)
-
-> Vive con su tío Alfonse y Gerard. Sigilosa, asustadiza y de salud frágil. Ha forjado una amistad con Jeanne, con quien comparte su tiempo.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM espejo, citando kanka_url como fuente primaria.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Alphonse]] — tío, figura de tutela y cabeza del hogar compartido
+- [[Gerard]] — convive bajo el mismo techo
+- [[Jeanne_Devossie]] — amiga; vínculo central de su vida social en la ciudad

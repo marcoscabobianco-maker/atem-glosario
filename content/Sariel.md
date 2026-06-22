@@ -32,7 +32,7 @@ No es malvada sino facilitadora de conocimiento. Conflicto posterior: "Y ahora m
 
 **Conexión cosmológica:** Sangre vinculada a línajes MC (Leland). Posible que represente la dualidad ángel-demonio de la cosmología el Descenso.
 
-**Primeras apariciones:** sesiones tempranas
+**[[Primeras_apariciones]]:** jornadas tempranas
 
 ---
 
@@ -42,9 +42,9 @@ No es malvada sino facilitadora de conocimiento. Conflicto posterior: "Y ahora m
 
 **En la fase tardía del ciclo primero del Descenso**, Sariel **vuelve como demonio de hielo en la batalla final**. *La forma serpentina-angélica del Edén se ha endurecido*: **piel de cuarzo helado, cabello de niebla pálida, seis pares de cuernos**, **espada larga de frío puro**, **ojos ardiendo en azul frío** —*ya no facilitadora del conocimiento; ahora ejecutora de un combate último en caverna helada*—.
 
-**[[Sven]]/Juani la ejecuta en la ronda final**. *El golpe es directo*; **la espada de frío puro no alcanza a defender lo que era**. *El cronista anota la simetría*: **la serpiente del Edén que ofrecía el fruto cae a manos del avatar que el cosmos extendido ha preparado para cerrar el ciclo**.
+**[[Sven]] la ejecuta en la ronda final**. *El golpe es directo*; **la espada de frío puro no alcanza a defender lo que era**. *El cronista anota la simetría*: **la serpiente del Edén que ofrecía el fruto cae a manos del avatar que el cosmos extendido ha preparado para cerrar el ciclo**.
 
-**Confusión de identidad pre-muerte**: en las rondas previas al final, una pregunta del grupo —*"¿Sariel pasó al campeón de Bale?"*— *queda sin respuesta clara*. **El archivo conserva la duda**: ¿hubo migración angélica entre cuerpos? ¿La Sariel ejecutada era la Sariel original o una manifestación tardía? *El Decadiano no resuelve. El cronista del Coro del Descenso tampoco.*
+**Confusión de identidad pre-muerte**: en las rondas previas al final, una pregunta del grupo —*"¿Sariel pasó al campeón de Bale?"*— *queda sin respuesta clara*. **El archivo conserva la duda**: ¿hubo migración angélica entre cuerpos? ¿La Sariel ejecutada era la Sariel original o una manifestación tardía? *[[Decadiano|El Decadiano]] no resuelve. El cronista del [[Anti_Inferno|Coro del Descenso]] tampoco.*
 
 **Conexión con [[Muerte]]**: Sariel cae en la lista de las ejecuciones canónicas del cosmos extendido, junto a otras figuras del Inferno y del Descenso.
 

@@ -21,13 +21,13 @@ tags:
 
 # Bazaar de San Dragón
 
-> *Referencia cosmológica que invoca para situar el poder del Papa Alejandro Sixto. Vinculado al primer Manual of the Planes ( 1e, 1987). Catálogo de criaturas planares clásicas. Campaña activa.*
+> *Referencia cosmológica que invoca para situar el poder del [[Papa_Alejandro_Sixto]]. Vinculado al primer Manual of the Planes ( 1e, 1987). Catálogo de criaturas planares clásicas. Campaña activa.*
 
 ## Presentación
 
-El **Bazaar de San Dragón** —*"Banzar de San Dragón"* en dictado de — es **referencia cosmológica del setting del ciclo** vinculada al **primer Manual of the Planes (Jeff Grubb, 1e, 1987)**. lo invoca al hablar del **poder luminoso del [[Papa_Alejandro_Sixto]]**:
+El **Bazaar de San Dragón** —*"Bazaar de San Dragón"* en dictado de — es **referencia cosmológica del setting del ciclo** vinculada al **primer Manual of the Planes (Jeff Grubb, 1e, 1987)**. lo invoca al hablar del **poder luminoso del [[Papa_Alejandro_Sixto]]**:
 
-> *"Sobre todo pensando en el Banzar de San Dragón, es el primer Manual of the Planes, así que hay criaturas de ese estilo."* — , 2026-05-20 
+> *"Sobre todo pensando en el Bazaar de San Dragón, es el primer Manual of the Planes, así que hay criaturas de ese estilo."* — revelación del archivo 
 
 ### El primer Manual of the Planes (1987)
 
@@ -36,11 +36,11 @@ El **Manual of the Planes original** ( 1e) catalogó por primera vez los **Outer
 - **Devas** (Astral / Movanic / Monadic)
 - **Planetars**
 - **Solars**
-- **Maruts** —legalidad axial (cf. los Maruts del Palacio del Prisma)
-- **Modrons** —orden mecánica (cf. Marcha de los Modrones en el ciclo)
+- **[[Maruts]]** —legalidad axial (cf. los [[Maruts]] del [[Palacio_del_Prisma]])
+- **Modrons** —orden mecánica (cf. [[Marcha_de_los_Modrones]] en el ciclo)
 - **Slaad** —caos
-- **Demons** del Abismo
-- **Devils** de Baator
+- **Demons** del [[Abismo]]
+- **Devils** de [[Baator]]
 - **Daemons** (Yugoloths)
 - **Aasimars y Tieflings**
 
@@ -58,7 +58,7 @@ El Bazaar funciona como **mercado planar** —análogo a **Sigil** (la ciudad-ru
 
 - **Permite acceso al plano positivo** vía pactos eclesiales
 - **Distribuye Custodes** y criaturas afines al servicio del Papa
-- **Posible nodo trans-campaña** —cf. **múltiples Sigils** de la visión de del 2026-05-20
+- **Posible nodo trans-campaña** —cf. **múltiples Sigils** de la visión registrada por el archivo
 
 ## Vínculos
 
@@ -74,4 +74,4 @@ El Bazaar funciona como **mercado planar** —análogo a **Sigil** (la ciudad-ru
 ## Apariciones
 
 - **Referencia conceptual** del cronista al describir el poder del Papa
-- **Pendiente exploración directa** en sesiones futuras
+- **Pendiente exploración directa** en jornadas futuras

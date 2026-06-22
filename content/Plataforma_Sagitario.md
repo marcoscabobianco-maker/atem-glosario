@@ -29,7 +29,7 @@ imagen: Imagenes_Tier1/Plataforma_Sagitario.png
 
 > *"La flecha no apunta a lo que ve: apunta a lo que está más allá de la plataforma. El blanco invisible es la columna."*
 
-**Novena casa del zodiaco**, sigue a Escorpio en el ciclo. **Plataforma flotante de arenisca roja** *tallada con el signo del centauro arquero*. *Un guardián centáurico se planta en el centro*, **tensando su arco hacia un blanco invisible más allá del borde de la plataforma**. *Su armadura es de cuero y bronce*.
+**Novena casa del zodiaco**, sigue a Escorpio en el ciclo. **[[Aldebaran_Estrella_Plataforma|Plataforma]] flotante de arenisca roja** *tallada con el signo del centauro arquero*. *Un guardián centáurico se planta en el centro*, **tensando su arco hacia un blanco invisible más allá del borde de la plataforma**. *Su armadura es de cuero y bronce*.
 
 Su columna esencial es **la flecha hacia lo que excede el plano**: *lo que se apunta sin ver*, *el blanco que está más allá del marco*, *la operación cosmológica del impulso transversal*. **El tono rojo óxido de la piedra** *es signo del impulso direccional*: **Sagitario no acumula como Tauro ni mide como Libra**, *Sagitario lanza*.
 

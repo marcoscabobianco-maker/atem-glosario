@@ -14,7 +14,7 @@ aliases:
 
 ## Presentación
 
-Dinosauria, compañera animal de [[Iriscan]] que sucede o complementa a [[Moon_River|Moon River]]. Mencionada en secuencia de [[Monte_Analogo|Monte Análogo]]. Detalles mecánicos limitados en los archivos procesados.
+Dinosauria, compañera animal de [[Iriscan]] que sucede o complementa a [[Moon_River|Moon River]]. Mencionada en la secuencia de [[Monte_Analogo|Monte Análogo]].
 
 ## Apariciones notables
 
@@ -22,8 +22,4 @@ Dinosauria, compañera animal de [[Iriscan]] que sucede o complementa a [[Moon_R
 
 ## Notas
 
-Dato provisto por : [[Moon_River|Moon River]] → awaken Annunaki → inteligencia excesiva → luego [[Iriscan]] pasa a tener a Melody. Secuencia exacta de la transición pendiente de confirmación.
-
-### Apariciones
-
-[[Monte_Analogo|Monte Análogo]].
+[[Moon_River|Moon River]] fue despertada como [[Annunaki]] adquiriendo inteligencia excesiva; la transición llevó a [[Iriscan]] a tener a Melody como nueva compañera. Secuencia exacta de la transición pendiente de confirmación.

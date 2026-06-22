@@ -19,11 +19,11 @@ aliases:
 
 Grupo aventurero pendiente de documentación completa. Incluye al personaje
 **[[Lotario|Tailoor]]** — anagrama de **[[Oratiol]]** y **[[Lotario]]** (ver entradas), lo que
-lo vincula al mismo jugador que aparece en [[Les_Libertateurs_Pretty_Women|Pretty Women]] / [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]
+lo vincula a la misma mano que aparece en [[Les_Libertateurs_Pretty_Women|Pretty Women]] / [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]
 (como [[Oratiol]]) y en [[Los_Profundos|Los Profundos]] / [[Los_Reguladores|Los Reguladores]] (como [[Lotario]]). La
 cadena anagramática [[Oratiol]] → [[Lotario]] → [[Lotario|Tailoor]] es un caso documentado de
-un jugador que mantiene continuidad identitaria a través de distintos grupos
-y épocas de el cosmos compartido mediante transformaciones de nombre.
+una mano que mantiene continuidad identitaria a través de distintos grupos
+y épocas del cosmos compartido mediante transformaciones de nombre.
 
 *Miembros:* **[[Lotario|Tailoor]]** (confirmado). Resto del grupo pendiente de
 identificación.

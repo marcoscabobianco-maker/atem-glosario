@@ -25,7 +25,7 @@ imagen: null
 
 Bosque inglés a finales del XVIII. William Blake —grabador rabioso, místico de oficio doméstico— pone título a un poema que no terminará nunca: *Vala, or The Four Zoas*. Lo escribe en una libreta cosida a mano, lo corrige durante doce años, lo deja inconcluso. **No sabe que está dando nombre a un mundo que ya existe**. Tampoco sabe que algunos lectores futuros del poema —*lectores que él, por modestia o por cordura, no podía prever*— **van a recorrer ese mundo con cuerpo, con espada, con compañeros y con muertos**. Blake nombra. Otros entran.
 
-**Vala** es **mundo cosmológico independiente** —**ni Terra, ni Antiterra, ni Torregrises, ni los planos exteriores**—, con **continuidad propia** y **tres fases atestadas en archivo**:
+**Vala** es **mundo cosmológico independiente** —**ni Terra, ni [[Antiterra]], ni [[Torregrises]], ni los planos exteriores**—, con **continuidad propia** y **tres fases atestadas en archivo**:
 
 1. **[[Vala_Antigua]]** — fase primera. De sus sobrevivientes salieron los dioses-héroes que después conforman el panteón inicial del nuevo cosmos post-[[Los_Supremos|Triunvirato]]: **[[Tailoor]]**, **[[Antino|Antinoo]]**, **[[Sheridron|Shadydron]]**, **[[Jax]]** y **[[Garkhan]]**.
 
@@ -33,9 +33,9 @@ Bosque inglés a finales del XVIII. William Blake —grabador rabioso, místico 
 
 3. **[[Arden_Vul|Ardisvala]]** — fase actual, en curso. Centrada en el **[[Mega_Dungeon_Arden_Vul|mega-dungeon homónimo]]** y el valle del [[Barrado_Balacan|Barrado Balacán]]. Bajo el cierre del [[Hiato_15_Años_Ardis_Vala|hiato]], **el valle es ahora [[Valakhan_de_la_Bruma|Valakhan]]**, dominio brumoso de [[Caladan]]. El [[Papa_Alejandro_Sixto|Papa Alejandro VI]] gobierna desde el [[Palacio_del_Prisma|Palacio del Prisma]].
 
-El **nombre Vala**, importado del blakeano *Four Zoas*, **se reproduce fractalmente** en el archivo: aparece como continente —[[Albion]]—, como entidad femenina —**Vala/Enitharmon**, la virgen cosmológica—, como grupo —**[[Rintrah]]**, *"Rintrah roars"*—, como artefacto —**[[Vala_Cristalis]]**, la capa de cristalización del mundo-gema **[[Vala_Cristalis|Vala Cristalis]]**—. La doctrina interna sostiene que **estas multiplicaciones no son metáfora**: **Vala es estructuralmente repetitiva**. **Donde aparece el nombre, aparece la cosa.** Blake lo intuyó. El archivo lo confirma.
+El **nombre Vala**, importado del blakeano *Four Zoas*, **se reproduce fractalmente** en el archivo: aparece como continente —[[Albion]]—, como entidad femenina —**Vala/Enitharmon**, la virgen cosmológica—, como grupo —**[[Rintrah]]**, *"[[Rintrah]] roars"*—, como artefacto —**[[Vala_Cristalis]]**, la capa de cristalización del mundo-gema **[[Vala_Cristalis|Vala Cristalis]]**—. La doctrina interna sostiene que **estas multiplicaciones no son metáfora**: **Vala es estructuralmente repetitiva**. **Donde aparece el nombre, aparece la cosa.** Blake lo intuyó. El archivo lo confirma.
 
-**El parentesco con [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]]** —mundo-gema donde transcurre el ciclo de **[[La_Jabalina|Caldero / La Jabalina]]**— **es matriz compartida**: la Vala Cristalis es la capa que sostiene a Vala desde dentro. Quien camina por Vala con los pies, **camina por Vala con la mirada**. *La articulación operativa exacta entre los dos mundos sigue pendiente de profundización, y los doctrinarios menores que han intentado resolverla apresuradamente han producido cosmologías inestables.*
+**El parentesco con [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]]** —mundo-gema donde transcurre el ciclo de **[[La_Jabalina|Caldero / La Jabalina]]**— **es matriz compartida**: la [[Vala_Cristalis]] es la capa que sostiene a Vala desde dentro. Quien camina por Vala con los pies, **camina por Vala con la mirada**. *La articulación operativa exacta entre los dos mundos sigue pendiente de profundización, y los doctrinarios menores que han intentado resolverla apresuradamente han producido cosmologías inestables.*
 
 ---
 
@@ -45,7 +45,7 @@ El sufijo **Ardis** —que da nombre a la fase actual, **[[Arden_Vul|Ardisvala]]
 
 **Vala es lugar donde se decide.** Quien entra al valle, deja de tener elección sobre la geografía que lo va a tocar.
 
-[*El nombre reaparece, sin que sus habitantes se hayan leído entre sí, en la finca **[[Ardis_Hall|Ardis Hall]]** que **Vladimir Nabokov** atribuyó a los hermanos Ada y Van en *Ada or Ardor*. El cronista, que ha leído a Nabokov sin comentarlo, observa: **Ardis Hall fue paraíso perdido de Van y Ada en la Antiterra nabokoviana**; Ardisvala es valle del que tampoco se sale ileso. La coincidencia onomástica es indicio de afinidad cosmológica que el archivo todavía no termina de cifrar. —Glosa del [[Arkos|archivero del Plata]], cuaderno cinco.*]
+[*El nombre reaparece, sin que sus habitantes se hayan leído entre sí, en la finca **[[Ardis_Hall|Ardis Hall]]** que **Vladimir Nabokov** atribuyó a los hermanos Ada y Van en *Ada or Ardor*. El cronista, que ha leído a Nabokov sin comentarlo, observa: **[[Ardis_Hall]] fue paraíso perdido de Van y Ada en la Antiterra nabokoviana**; Ardisvala es valle del que tampoco se sale ileso. La coincidencia onomástica es indicio de afinidad cosmológica que el archivo todavía no termina de cifrar. —Glosa del [[Arkos|archivero del Plata]], cuaderno cinco.*]
 
 ---
 
@@ -60,7 +60,7 @@ Vala no aparece de la nada. La precede una cadena de destrucciones cuyo recordat
 
 Vala se asienta en los intersticios. **No participa de la cadena, la observa.** Algunos archivos sostienen que Vala es la matriz original de la que las otras se desprendieron; otros, que es el residuo en el que las otras desembocan. *Las dos hipótesis son compatibles si se aceptan los ciclos en círculo y no en línea*, lo cual el [[Decadiano]] no acepta sin protocolo.
 
-[*El [[Pablo_de_Alejandria|Pablo de Torregrises]] sostiene, en marginalia que no se conserva en su edición canónica, que Vala y Torregrises **no se cruzan jamás** porque **operan en niveles ontológicos distintos** —Vala es mundo de héroes mortales que devienen dioses, Torregrises es mundo de cosmología fija—. La distinción es elegante y probablemente inexacta. —Glosa del [[Arkos|archivero del Plata]], cuaderno tres.*]
+[*El [[Pablo_de_Alejandria|Pablo de Torregrises]] sostiene, en marginalia que no se conserva en su edición canónica, que Vala y [[Torregrises]] **no se cruzan jamás** porque **operan en niveles ontológicos distintos** —Vala es mundo de héroes mortales que devienen dioses, Torregrises es mundo de cosmología fija—. La distinción es elegante y probablemente inexacta. —Glosa del [[Arkos|archivero del Plata]], cuaderno tres.*]
 
 ## Vínculos
 
@@ -68,15 +68,15 @@ Vala se asienta en los intersticios. **No participa de la cadena, la observa.** 
 - [[Libro_de_Enoch|Libro de Enoc]] — fuente del topónimo *Ardis*, monte de los Vigilantes
 - [[Ardis_Hall]] — paraíso perdido de la Antiterra nabokoviana (Van y Ada en *Ada or Ardor*); afinidad cosmológica con Ardisvala
 - [[Angara_Andgara|Angara]] — primer cosmos que precedió la cadena
-- [[Antiterra_Demonia|Antiterra]] — mundo gemelo intermedio entre Angara y la Disolución
+- [[Antiterra_Demonia|Antiterra]] — mundo gemelo intermedio entre [[Angara_Andgara|Angara]] y la Disolución
 - [[Franja_de_Disolucion|Franja de la Disolución]] — destino post-Antiterra
 - [[Ucronica_NC_Northern_Crown|Ucronía]] — rama que ramifica el cierre
 - [[Vala_del_Medioevo]] — fase intermedia, medieval
 - [[Arden_Vul|Ardisvala]] — fase actual
 - [[Vala_Cristalis]] — artefacto cosmológico, capa de cristalización
 - [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]] — mundo-gema que comparte matriz
-- [[La_Jabalina|Caldero / La Jabalina]] — campaña dentro de Vala Cristalis
-- [[Tailoor]], [[Antino|Antinoo]], [[Sheridron|Shadydron]], [[Garkhan]], [[Jax]] — sobrevivientes deificados de Vala Antigua
+- [[La_Jabalina|Caldero / La Jabalina]] — campaña dentro de [[Vala_Cristalis]]
+- [[Tailoor]], [[Antino|Antinoo]], [[Sheridron|Shadydron]], [[Garkhan]], [[Jax]] — sobrevivientes deificados de [[Vala_Antigua]]
 - [[Los_Supremos|Triunvirato / Los Supremos]] — quienes establecieron el panteón con los sobrevivientes
 - [[Nexus]] — lugar del nacimiento de los nuevos dioses
 - [[Albion]], [[Rintrah]], [[Thel]] — figuras blakeanas paralelas
@@ -88,5 +88,5 @@ Vala se asienta en los intersticios. **No participa de la cadena, la observa.** 
 
 - **Fase Antigua** — corrida primera, supervivientes deificados
 - **Fase del Medioevo** — escasa documentación, continuidad inferida
-- **Fase Ardisvala** — en curso; mega-dungeon activo, hiato cerrado, Valakhan formado, Papa Alejandro VI gobernando
+- **Fase Ardisvala** — en curso; mega-dungeon activo, hiato cerrado, Valakhan formado, [[Papa_Alejandro_Sixto|Papa Alejandro VI]] gobernando
 - **Matriz literaria** — el nombre y la estructura vienen del blakeano *Four Zoas*; el mundo precede al poema

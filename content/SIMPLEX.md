@@ -1,8 +1,9 @@
 ---
-categoria: lugar
+categoria: personaje
 tags:
  - "cdi"
- - "cdi-cc2"
+ - "constructo"
+ - "orden"
 aliases:
  - "SIMPLEX"
 ---
@@ -15,9 +16,13 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Enemigo — Construcción mágica / Elemental
-**Primer aparición:** CC2_REPORTE –2560, –2031
-**Descripción:** Criatura de lógica/iteración. Combate indica iniciativa ~19. Vulnerable a contrahechizo. Presumiblemente construcción mágica (no criatura viva).
-**Detalles mecánicos:** Participa en combate multi-round. Posee defensa de contrahechizo.
-**Significancia:** Enemigo principal en encounter de CC2; tipo de criatura no visto en sesiones previas el Descenso.
-**Confianza:** MODERADA (pocos detalles; el archivo de transcripción puede haber distorsionado)
+Construcción mágica de lógica e iteración —mecanismo, no criatura viva—, surgida en las profundidades del [[Anti_Inferno|Descenso]]. Su naturaleza repetitiva y ordenada la emparenta con los [[Inevitable_Inevitables|Inevitables]] y demás constructos del orden, ecos lejanos de la cadencia de [[Mechanus|Mechanus]]; su origen exacto dentro del infierno permanece oscuro. El archivo la consigna como forma nueva, no vista en descensos anteriores: una iteración que el segundo círculo opone a quienes lo cruzan.
+
+## Vinculos
+
+- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña y geografía infernal donde aparece
+- [[Castillo_del_Prisma]] — fortaleza del segundo círculo, escenario de CC2
+- [[Torres_del_Castillo_del_Prisma]] — las torres de prueba donde opera
+- [[Inevitable_Inevitables|Inevitable / Inevitables]] — constructos de lógica y orden con los que comparte naturaleza iterativa
+- [[Mechanus]] — Plano de la Ley, fuente cosmológica de los seres de lógica pura
+- [[Modron]] — constructos geométricos del orden absoluto, tipo afín

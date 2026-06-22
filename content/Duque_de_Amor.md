@@ -8,16 +8,14 @@ aliases:
 
 ## Presentación
 
-**Fuente:** el archivo, [[Maristo]] (Orador 2)
-**Cita:** "¿Qué vas a hacer? ¿El Duque de Amor?"
-**Descripción:** Referencia a entidad demoniaca o comerciante infernal específico. Posibles identidades:
+Referencia a entidad demoniaca o comerciante infernal de identidad incierta. El nombre surge en boca de [[Maristo]]: "¿Qué vas a hacer? ¿El Duque de Amor?"
+
+Posibles identidades:
 1. Noble dantesco del círculo de Lujuria (círculo 2)
-2. Intermediario de Plutón o [[Hecate_Antagonista_Confirmada_S19|Hécate]] especializado en "tratos de poder"
-3. Metáfora: "Amor" = lealtad falsa, promesa incumplible
-**Tipo:** figura / Entidad demoniaca
-**Confianza:** BAJA (mención única, contexto corrupto)
-**Arco:** [[Maristo]] especula si es intermediario del comercio de el archivo
+2. Intermediario de [[Pluton_CDI|Plutón]] o Hécate especializado en "tratos de poder"
+3. Figura cuyo nombre "Amor" enmascara lealtad falsa y promesa incumplible
 
 ## Ver también
 
-- Arco
+- [[El_Negro_Entidad|Entidad demoniaca]]
+- [[Pluton_CDI|Plutón]]

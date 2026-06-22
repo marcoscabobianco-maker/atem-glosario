@@ -28,7 +28,7 @@ aliases:
 
 ### el plano operativo
 
-Guardián de la primera Plataforma perturbada por el grupo en los Profundos, correspondiente al signo zodiacal de Aries. Sacerdote de una "concepción maligna," adorador de la Reina de las Nieves (su rival acérrima, ubicada en el polo norte). Víctima de su propia naturaleza: no puede controlar la ira y la violencia (atributos de Aries). No debe ser matado: quien mata a un Guardián se convierte en Guardián o es destruido.
+Guardián de la primera [[Aldebaran_Estrella_Plataforma|Plataforma]] perturbada por el grupo en los Profundos, correspondiente al signo zodiacal de Aries. Sacerdote de una "concepción maligna," adorador de la Reina de las Nieves (su rival acérrima, ubicada en el polo norte). Víctima de su propia naturaleza: no puede controlar la ira y la violencia (atributos de Aries). No debe ser matado: quien mata a un Guardián se convierte en Guardián o es destruido.
 
 ### Notas
 

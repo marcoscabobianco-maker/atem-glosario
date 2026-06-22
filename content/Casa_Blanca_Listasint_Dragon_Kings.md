@@ -1,46 +1,18 @@
 ---
-tags: [Vala, VALA, lugar]
-meta: M
-image: _assets/Vala/Casa_Blanca___Listasint___Dragon_Kings_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: concepto
+tags: ["concepto", "vala"]
+aliases: ["Casa Blanca", "Listasint", "Dragon Kings", "Dreys"]
 ---
 
 # Casa Blanca / Listasint / Dragon Kings
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Casa_Blanca___Listasint___Dragon_Kings_retrato.png`
-> **Prompt sugerido:** Ilustración de Casa Blanca / Listasint / Dragon Kings. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[Casa_Blanca___Listasint___Dragon_Kings_retrato.png]]
+Entre las siete casas del orbe Vala, la Casa Blanca ocupa una posición singular: es la casa que eligió no gobernar. Su asiento está en la Bahía Blanca, con las Torres Blancas en el sur como marcador visible de su presencia, pero hace generaciones que la Casa Blanca retiró su intención de ser gobernante de este mundo. No fue derrotada ni expulsada — se apartó. Los archivos la describen como guardiana por vocación, dormida por decisión.
 
+Su dominio más propio no está en el mundo principal sino en Listasint, la Luna del orbe Vala. Listasint es un mundo aparte, más pequeño que el mundo bajo, de climas extremos — veranos largos, inviernos largos — y pertenece por herencia y por vínculo a la Casa Blanca. Desde Listasint, y bajo la tutela de la Casa, operan los jinetes de los Dragon Kings: criaturas dracónicas del lado luminoso de la cosmología, que en algún punto de la historia debieron enfrentarse a los Dreys, dragones infieles o de color malvado aliados a entes oscuros de la Luna. Ese enfrentamiento entre Dragon Kings buenos y Dreys es uno de los episodios fundacionales del mapa de poder actual — una guerra que no terminó, que solo cambió de forma.
 
-**Acción:** Crear (entrada compleja con tres conceptos vinculados).
+[[Nibiru]] es de linaje Casa Blanca. Los archivos marcan en él una posibilidad mesiánica explícita: el signo del que podría volver a ser gobernante de la Casa Blanca, en el mismo esquema de retorno que los ciclos de cien años de Uruk hacen posible. La comparación con Aragorn que los registros conservan no es decorativa — indica que [[Nibiru]] carga con un peso de restauración que la Casa Blanca, por sí sola y autoexiliada, no puede cumplir.
 
-## Capa juego
-
-**Casa Blanca:** Una de las siete casas del orbe Vala. Localización: **Bahía Blanca**, con las **Torres Blancas en el sur**. Estado: "se ha retirado su intención de ser gobernante de este mundo" — casa autoexiliada / dormida. Tipo: **casa guardiana** (no gobernante por elección).
-
-**Listasint:** Es la **Luna** del mundo VALA. Mundo aparte; clima dual extremo (veranos largos / inviernos largos); más pequeño que el mundo principal. **Pertenece a la Casa Blanca**.
-
-**Dragon Kings y Dreys:** División cosmológica. La Casa Blanca incluye **jinetes de Dragon King** (lado claro). Los **Dreys** son "dragones infieles" / "dragones de color malvados", aliados a "seres oscuros de la Luna". Los Dragon Kings buenos se enfrentaron a los Dreys.
-
-**Implicancia para Nibiru:** El PC Nibiru tiene linaje Casa Blanca y posible rol mesiánico ("el signo del que podría volver a ser gobernante de la Casa Blanca"). Comparación explícita del Master con Aragorn (LOTR).
-
-## Capa cosmogónica
-
-Estructura tripartita: mundo principal (Casa Azul/Uruk) ↔ luna Listasint (Casa Blanca) ↔ aliados oscuros (Dreys + entes lunares oscuros). Esquema dualista solar/lunar con eje de retirada-retorno típico del mesianismo.
-
-Referencia trans-campaña: posible eco del "**plano Akáshico**" donde opera Sheridan/Sheridrón en CDI (ver entrada existente). El motivo de "la luna como mundo aparte" tiene resonancia con el motivo "Holandés en la Luna" (entrada NC14 en universo) — verificar.
-
-## Ref.
-
-Nibiru Recalls Dragonkin (sesión completa); rol_vala_kardan_xairas_1 (2 Casa Blanca); rol_wordbreaker_reunión_rey_mediodia_y_sust (2 Casa Blanca, 1 Listasint).
-
-## Preguntas
-
-1. ¿Listasint = nombre confirmado o ASR? Suena a *Listasinth* / *Listasint*: griego "*lustas*" + sufijo, sin etimología clara.
-2. ¿Las **Torres Blancas en el sur** son edificio o ciudad?
-3. ¿Las siete casas tienen jerarquía cromática estable? Azul, Blanca, ¿qué más?
-4. ¿La conexión "lado oscuro de la Luna" tiene relación con el "**negrito / mundo de sombras**" del que Sheridan dice haber sido Master?
-
+## Vínculos
+- [[Nibiru]] — de linaje Casa Blanca; posible figura de retorno mesiánico
+- [[Uruk_(capital)_y_Casa_Azul|Uruk y Casa Azul]] — casa central del orbe, contrapunto de la Casa Blanca
+- [[Tiamat]] — cuya cosmología de dragones resuena con los Dreys

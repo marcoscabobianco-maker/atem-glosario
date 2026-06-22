@@ -11,7 +11,7 @@ aliases:
 
 ## Presentación
 
-**Ubicación:** Sector 34, Laberinto Omniporal, cerca de mesa circular
+**Ubicación:** Sector 34, [[Laberinto_Omniporal]], cerca de mesa circular
 **Descripción:** Recipiente/contenedor de criatura apocalíptica en encubación
 **Tamaño:** Pequeño-mediano (flotante en trípode)
 **Importancia:** Grupo debate si "empollado" (hatched). Posible catalizador de muerte del Tiempo.

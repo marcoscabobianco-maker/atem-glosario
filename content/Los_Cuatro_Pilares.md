@@ -11,7 +11,7 @@ aliases:
 
 ## Presentación
 
-Estructura fundamental del universo de rol compartido. Cuatro pilares que constituyen la el cosmos compartido:
+Estructura fundamental del universo de rol compartido. Cuatro pilares que constituyen el cosmos compartido:
 
 1. **[[Los_Profundos|Los Profundos]]** — Primer pilar
 2. **Reguladores [[La_Jabalina|Jabalina]]** — Segundo pilar (aparecen ayudando contra "legiones infernales")
@@ -26,11 +26,11 @@ Continuidad inter-campaña: personajes pueden conectar con otros pilares, perío
 
 ## Apariciones notables
 
-el comienzo del ciclo ( establece marco cosmológico de la el cosmos compartido).
+el comienzo del ciclo ( establece marco cosmológico del cosmos compartido).
 
 ## Notas
 
-Estructura permite narrativa colaborativa a escala épica. Cronología: hay orden real (cuándo se jugó en vida real) vs orden ficcional (cuándo acontece en la cronología del mundo). Ejemplo: Templarios jugada después de Libertadores pero acontece en siglo XII mientras Libertadores es siglo XVIII. Ver también **Reguladores [[La_Jabalina|Jabalina]]**, **Compañía de Ardis [[Vala_Cristalis|Vala]]**, **[[Los_Profundos|Los Profundos]]**, **[[Los_Supremos|Los Supremos]]**, **[[Ucronica_NC_Northern_Crown|Ucrónica NC]]**.
+Estructura permite narrativa colaborativa a escala épica. Cronología: hay orden real (cuándo se jugó en vida real) vs orden ficcional (cuándo acontece en la cronología del mundo). Ejemplo: [[Templarios]] jugada después de Libertadores pero acontece en siglo XII mientras Libertadores es siglo XVIII. Ver también **Reguladores [[La_Jabalina|Jabalina]]**, **Compañía de Ardis [[Vala_Cristalis|Vala]]**, **[[Los_Profundos|Los Profundos]]**, **[[Los_Supremos|Los Supremos]]**, **[[Ucronica_NC_Northern_Crown|Ucrónica NC]]**.
 
 ## Ver también
 

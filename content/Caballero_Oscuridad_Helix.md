@@ -48,8 +48,8 @@ Después de la bola de fuego, *el caballero no entró a saquear*. **Convocó —
 *Lo que el caballero firmó, con quién, a cambio de qué*, **el archivo no lo registra**. **Las hipótesis del archivero del Plata** son tres, no excluyentes:
 
 1. **Operación lateral de [[Caladan]]** desde su Castillo de la Pantera al norte. *Caladán es Darklord de [[Valakhan_de_la_Bruma|Valakhan]]; el cerco al sur podría ser extensión de su dominio brumoso*.
-2. **Antagonista nuevo**, no afiliado al doble polo Borg-Caldero ↔ Ardis Vala. *Un caballero oscuro autónomo cuyo dominio aún no se ha declarado*.
-3. **Avatar de un polo cosmológico** ya catalogado —*posiblemente vinculado al Anti-Inferno o a alguna manifestación del Decadiano negro*— **operando por delegación**.
+2. **Antagonista nuevo**, no afiliado al doble polo Borg-[[Caldero]] ↔ [[Ardis_Vala]]. *Un caballero oscuro autónomo cuyo dominio aún no se ha declarado*.
+3. **Avatar de un polo cosmológico** ya catalogado —*posiblemente vinculado al Anti-Inferno o a alguna manifestación del [[Decadiano]] negro*— **operando por delegación**.
 
 *Las tres lecturas se sostienen en parte por la indeterminación del cronista*. **El archivo prefiere no elegir**.
 
@@ -65,8 +65,8 @@ Cuando los pactados del demonio [[Quasi_demonio_menor|Quasi]] entraron al recint
 
 Este antagonista **deja abiertas tres puertas cosmológicas mayores**:
 
-1. **¿Es operación de Caladán?** Si lo es, el dominio brumoso del norte tiene **alcance al sur** —*y la triangulación cosmológica de Ardis Vala se extiende a Helix*—.
-2. **¿Es figura nueva?** Si lo es, el campo de polos del valle se complejiza: **un cuarto vértice oscuro** aparece junto a Caladán, Nerub Null y el Papa.
+1. **¿Es operación de Caladán?** Si lo es, el dominio brumoso del norte tiene **alcance al sur** —*y la triangulación cosmológica de [[Ardis_Vala]] se extiende a Helix*—.
+2. **¿Es figura nueva?** Si lo es, el campo de polos del valle se complejiza: **un cuarto vértice oscuro** aparece junto a Caladán, [[Nerub_Null]] y el Papa.
 3. **¿Cómo se aproximaría a los [[Buscadores_de_Ardis_Vala|Buscadores]]** cuando bajen al sur? *Pregunta sin respuesta al cierre del ciclo presente*.
 
 ---

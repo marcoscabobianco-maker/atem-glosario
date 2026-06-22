@@ -12,13 +12,13 @@ aliases:
 
 ## Presentación
 
-- **Componente activador:** Campana (objeto sagrado)
+- **Componente activador:** [[Campana]] (objeto sagrado)
 - **Radio efectivo:** 120 pies
-- **Efectos múltiples:**
- 1. Sanctidad + moral
- 2. Daño automático: 72 HP (mínimo) a Caótico/Malvado
- 3. Tirada salvación: CD 20 (mitad daño si pasa)
+- **[[Efectos]] múltiples:**
+ 1. Santidad + moral
+ 2. Castigo automático a todo ser caótico o malvado — pocos lo resisten entero
+ 3. Los de voluntad más firme sufren solo la mitad del castigo
  4. Expulsión planar (demonios)
- 5. [[Proteccion_Hechizo_de_Encantamiento|Protección]] contra mal (additional goodness aura)
-- **Duración:** No especificada (presumiblemente concentración)
-- **Mecánica:** Afecta múltiples blancos simultáneamente
+ 5. [[Proteccion_Hechizo_de_Encantamiento|Protección]] contra mal (aura de bondad adicional)
+- **Duración:** No especificada (presumiblemente mientras dura la concentración del oficiante)
+- **Alcance:** Golpea a múltiples blancos simultáneamente

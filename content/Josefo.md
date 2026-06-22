@@ -14,7 +14,7 @@ aliases:
 **Descripción:** Personaje menor, joven, hábil de palabra. "Pequeño judío" sugiere estatura reducida (posible enano o criatura pequeña). Viste como artesano, lleva herramientas de ladrón/picaporte.
 
 **Background:**
-- Hermano de otros que están en fortaleza de Masada (resistencia judía contra Romanos, histórico)
+- Hermano de otros que están en fortaleza de [[Masada]] (resistencia judía contra Romanos, histórico)
 - No cristiano, pero ofrece servicios (problematizado por su no-cristianismo)
 - Habla de "traición" de hermanos
 
@@ -25,7 +25,7 @@ aliases:
 
 **Asignación narrativa:** Trabaja bajo [[Arsvan|Ärsvan]] en red de espías/información.
 
-**Posible identidad de jugador:** Posible nuevo compañero (el o ) o figura recurrente.
+**Identidad:** posible nuevo compañero o figura recurrente; el archivo aún no la confirma.
 
 **Estado tras el reclutamiento:** Equipado, activo en el [[Temple_complejo_TE|Temple]], bajo comando de [[Arsvan|Ärsvan]].
 
@@ -34,4 +34,3 @@ aliases:
 - Background
 - [[Rol_en_campana|Rol en campaña]]
 - [[Asignacion_narrativa|Asignación narrativa]]
-- [[Posible_identidad_de_jugador|Posible identidad de jugador]]

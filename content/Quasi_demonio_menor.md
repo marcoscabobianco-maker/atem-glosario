@@ -50,9 +50,9 @@ Quasi escala el catálogo según resistencia. Las ofertas registradas en el cicl
 
 ## El pacto en la celda
 
-Quasi había atentado antes contra el compañero del grupo Novatos llamado **[[Dimitri]]** —*"El viejo demonio que también había atentado a Dimitri. ¿Te acordás? El chiquitito de los pactos"*—. Con Dimitri no logró cierre.
+Quasi había atentado antes contra el compañero del grupo [[Novatos_Ravenloft|Novatos]] llamado **[[Dimitri]]** —*"El viejo demonio que también había atentado a [[Dimitri_TNW|Dimitri]]. ¿Te acordás? El chiquitito de los pactos"*—. Con [[Dimitri_TNW|Dimitri]] no logró cierre.
 
-En el **ciclo presente**, con el grupo encarcelado en el monasterio de [[Helix]], **Quasi entró a la celda del brujo [[Silas_del_Umbral|Silas]]** y le presentó el pacto. **Silas tiró su tirada de tentación y sacó la peor**. *El cronista oral lo anotó como "es la puta madre, es la peor de todas"*. **El brujo cayó al pacto** por incapacidad de resistir, no por voluntad de ceder.
+En el **ciclo presente**, con el grupo encarcelado en el monasterio de [[Helix]], **Quasi entró a la celda del brujo [[Silas_del_Umbral|Silas]]** y le presentó el pacto. **La tentación puso a prueba el temple de Silas, y falló del peor modo**. *El cronista oral lo anotó como "es la puta madre, es la peor de todas"*. **El brujo cayó al pacto** por incapacidad de resistir, no por voluntad de ceder.
 
 A continuación Quasi **redobló sobre uno de los [[Gemelos_Inquisidores_Helix|guardias gemelos]]** —los enviados como inquisidores por el Abad—. El primero resistió inicialmente; **cedió cuando el demonio prometió guiarlo al *barro*** (los túmulos del [[Barrowmaze]]) **donde habría diez mil monedas escondidas**. El segundo gemelo lo siguió en arco paralelo.
 

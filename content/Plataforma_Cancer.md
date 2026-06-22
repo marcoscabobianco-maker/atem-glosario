@@ -28,7 +28,7 @@ imagen: Imagenes_Tier1/Plataforma_Cancer.png
 
 > *"El caparazón es casa portátil. Quien lo lleva no necesita techo. La plataforma de Cáncer es lección sobre lo que se carga."*
 
-**Cuarta casa del zodiaco**, sigue a Géminis en el ciclo. **Plataforma flotante de piedra oscura** *tallada con el signo del cangrejo*; **en su centro, una gran piscina de piedra con agua oscura** *en la que duerme un molusco gigante con forma de cangrejo*. *Alrededor de la piscina*, **arcos bajos de pequeños santuarios-guardián**. *Luz de luna azulada sobre el agua*.
+**Cuarta casa del zodiaco**, sigue a Géminis en el ciclo. **[[Aldebaran_Estrella_Plataforma|Plataforma]] flotante de piedra oscura** *tallada con el signo del cangrejo*; **en su centro, una gran piscina de piedra con agua oscura** *en la que duerme un molusco gigante con forma de cangrejo*. *Alrededor de la piscina*, **arcos bajos de pequeños santuarios-guardián**. *Luz de luna azulada sobre el agua*.
 
 Su columna esencial es **el caparazón y las aguas profundas**: *la casa portátil, el refugio que se lleva, la criatura que duerme en su propio mundo*. **Aguas profundas** opera como geografía cosmológica subyacente; *lo que duerme en Cáncer despierta en Piscis*.
 

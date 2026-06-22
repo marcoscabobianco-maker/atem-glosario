@@ -36,7 +36,7 @@ imagen: Imagenes_Tier1/Andre_Bar.png
 
 **André Bar es periodista y agitador conspirativo de inclinación revolucionaria socialista**. **Locutor del socialismo ruso y europeo**, *cita a Lenin con frecuencia*, *expresa opiniones sobre la democracia real y la opresión de los trabajadores bajo iglesia, aristocracia e industria*. **Sus artículos nunca se publicaron** —**censurados por los regímenes que cubrían**, **o perdidos en traslados que el archivero del Plata sospecha intencionales**—.
 
-**Viajó con [[Claude_Nauge|Claude Nauge]] a Berlín en misión de inteligencia** *donde se entrevistaron con la* **Rosa de Cobre** *(célula anarquista/revolucionaria que el archivo del Plata cataloga como una de las más operativas de la Belle Époque uchrónica)*. **La Rosa de Cobre** *opera bajo seudónimo colectivo*; **sus comunicados llegan firmados con sigilo de pétalos de cobre en relieve**.
+**Viajó con [[Claude_Nauge|Claude Nauge]] a Berlín en misión de inteligencia** *donde se entrevistaron con la* **[[Rosa_de_Cobre]]** *(célula anarquista/revolucionaria que el archivo del Plata cataloga como una de las más operativas de la Belle Époque uchrónica)*. **La [[Rosa_de_Cobre]]** *opera bajo seudónimo colectivo*; **sus comunicados llegan firmados con sigilo de pétalos de cobre en relieve**.
 
 ---
 
@@ -50,9 +50,9 @@ imagen: Imagenes_Tier1/Andre_Bar.png
 
 ## La mansión Petrovna y la dominación
 
-**Participa como aliado de los Time Bandits en la infiltración de la mansión**. *El plan inicial lo cuenta como apoyo civil*: **conocedor del terreno, traductor del rumano local, distractor potencial de la servidumbre**. **Pero el plan no contempla la fuerza hipnótica de [[Natalia_Petrovna|Natalia]]**.
+**Participa como aliado de los [[Time_Bandits]] en la infiltración de la mansión**. *El plan inicial lo cuenta como apoyo civil*: **conocedor del terreno, traductor del rumano local, distractor potencial de la servidumbre**. **Pero el plan no contempla la fuerza hipnótica de [[Natalia_Petrovna|Natalia]]**.
 
-**Durante el combate de medianoche, es hipnotizado y dominado por la vampiresa**. **Ataca a [[Claude_Nauge|Claude]] junto a Natalia mientras está bajo dominio vampírico**. **El archivero del Plata anota** —*con respeto editorial*— **que el ataque no fue voluntad propia**: *la dominación vampírica es completa cuando opera bien*, **y la de Natalia operaba bien**.
+**Durante el combate de medianoche, es hipnotizado y dominado por la vampiresa**. **Ataca a [[Claude_Nauge|Claude]] junto a [[Natalia]] mientras está bajo dominio vampírico**. **El archivero del Plata anota** —*con respeto editorial*— **que el ataque no fue voluntad propia**: *la dominación vampírica es completa cuando opera bien*, **y la de [[Natalia]] operaba bien**.
 
 **Queda inconsciente después del combate**. *Su status posterior es incierto*: **probablemente sobrevive al amanecer**, **pero el archivo no fija su trayectoria posterior**.
 
@@ -60,7 +60,7 @@ imagen: Imagenes_Tier1/Andre_Bar.png
 
 ## La función narrativa
 
-**André Bar es la figura del archivo del Plata que introduce los temas socialistas y revolucionarios en París Ucrónica**. *Su presencia marca la escalada de intriga política* **desde el centro parisino —donde la conjura es palaciega— hasta Bucarest —donde la conjura toma color obrero**—.
+**André Bar es la figura del archivo del Plata que introduce los temas socialistas y revolucionarios en [[Paris_Ucronica|París Ucrónica]]**. *Su presencia marca la escalada de intriga política* **desde el centro parisino —donde la conjura es palaciega— hasta Bucarest —donde la conjura toma color obrero**—.
 
 **Su dominio hipnótico por Natalia** —**el archivero anota la lección operativa**— *sugiere vulnerabilidad de humanos comunes ante poderes vampíricos de control mental*; **el grupo aprende, después del episodio, a no incluir civiles no entrenados en operaciones donde haya vampiros mayores presentes**.
 
@@ -81,8 +81,8 @@ imagen: Imagenes_Tier1/Andre_Bar.png
 
 ## Apariciones
 
-- **Berlín — Rosa de Cobre** — misión de inteligencia con Claude Nauge
-- **Bucarest — encubrimiento bajo Meteora** — actividad como periodista revolucionario
-- **Taberna del Carrusel — reunión con Time Bandits** — provisión de inteligencia
+- **Berlín — Rosa de Cobre** — misión de inteligencia con [[Claude_Nauge]]
+- **Bucarest — encubrimiento bajo [[Meteora]]** — actividad como periodista revolucionario
+- **[[Carrusel_de_la_Cerveza|Taberna del Carrusel]] — reunión con [[Time_Bandits]]** — provisión de inteligencia
 - **Mansión Petrovna — combate de medianoche** — dominio vampírico, ataque a Claude bajo trance
 - **Inconsciente tras combate — status incierto**

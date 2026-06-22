@@ -25,7 +25,7 @@ imagen: Imagenes_Tier1/Ginetes_de_la_Tormenta_Storm_Riders.png
 ![[Imagenes_Tier1/Ginetes_de_la_Tormenta_Storm_Riders.png]]
 <!-- /HEADER_IMG -->
 
-> *"Vientos de Tormenta traen nuevos misterios. Y los misterios, nuevos mundos."*
+> *"[[Vientos_de_Tormenta]] traen nuevos misterios. Y los misterios, nuevos mundos."*
 
 **Bajar del cielo**: tres jinetes en armadura completa montados sobre caballos fantasmales —**crines disueltas en cargas eléctricas, ojos luminosos, cascos rotos del aire**—. *Las lanzas son rayos*; los cascos de las cabalgaduras **no golpean el océano: lo encienden**. Bajo el galope, la mar revuelta, gris-acerada, sube en olas dentadas. **Truenan**.
 
@@ -37,7 +37,7 @@ imagen: Imagenes_Tier1/Ginetes_de_la_Tormenta_Storm_Riders.png
 
 ---
 
-**Los Vientos de Tormenta que el archivo del barco revol cita** —«*traen nuevos misterios, traen nuevos mundos*»— **son su lenguaje**. *Cuando un viajero los oye y entiende, los Jinetes admiten su paso*; cuando un viajero los oye y no entiende, los Jinetes lo dejan a la deriva. **No es premio ni castigo**: es **selección por escucha**.
+**Los [[Vientos_de_Tormenta]] que el archivo del barco revol cita** —«*traen nuevos misterios, traen nuevos mundos*»— **son su lenguaje**. *Cuando un viajero los oye y entiende, los Jinetes admiten su paso*; cuando un viajero los oye y no entiende, los Jinetes lo dejan a la deriva. **No es premio ni castigo**: es **selección por escucha**.
 
 [*Hay caballos que galopan agua y hay caballos que galopan rayo. Los del rayo son más jóvenes; los del agua, más viejos. Los que galopan rayo se cansan menos pero llegan a menos sitios. — Glosa coloquial atribuida al archivero del Plata.*]
 
@@ -50,5 +50,5 @@ imagen: Imagenes_Tier1/Ginetes_de_la_Tormenta_Storm_Riders.png
 
 ## Apariciones
 
-- **Travesía marítima de Los Profundos** — corredores eléctricos, avisos por rayo
+- **Travesía marítima de [[Los_Profundos]]** — corredores eléctricos, avisos por rayo
 - **Tormentas mayores continuas** — galope perceptible para quienes saben escuchar

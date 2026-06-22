@@ -17,4 +17,4 @@ Esta entrada es mencionada desde:
 
 ---
 
-*Si llegaste aquí buscando información sobre **El Etrusco Ancestro**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+*Si llegaste aquí buscando información sobre **[[El_Etrusco]] Ancestro**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

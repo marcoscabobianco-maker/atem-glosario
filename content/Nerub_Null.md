@@ -16,59 +16,58 @@ tags:
  - ardis-vala
  - mega-dungeon-ardis-vala
  - L09
- - 9-64
  - arcanum-forge
 ---
 
 # Nerub Null
 
-> *Archmage. Líder de los [[Priscians]] en Arden Vul. Redescubrió y reocupó el compound Sortiano en L9-58 a 9-64A. Restauró parcialmente la Arcanum Forge.*
+> *Archmage. Líder de los [[Priscians]] en [[Ardis_Vala|Arden Vul]]. Redescubrió y reocupó el compound Sortiano en el Suelo del Gran Abismo. Restauró parcialmente la [[Arcanum_Forge]].*
 
 ## Presentación
 
-**Nerub Null** es **archmage humano** y **líder de los [[Priscians]]** en el [[Mega_Dungeon_Arden_Vul]]. Reside en **L9-64**. Su descubrimiento del antiguo **compound Sortiano** en el [[L09_Floor_of_Great_Chasm|Nivel 9]] **hace algunas décadas** permitió a la orden secreta reocupar la base y comenzar a restaurar la **Arcanum Forge**.
+**Nerub Null** es **archmage humano** y **líder de los [[Priscians]]** en el [[Mega_Dungeon_Arden_Vul]]. Reside en **Suelo del Gran Abismo**. Su descubrimiento del antiguo **compound Sortiano** en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]] **hace algunas décadas** permitió a la orden secreta reocupar la base y comenzar a restaurar la **[[Arcanum_Forge]]**.
 
 ### Su orden
 
-Los **[[Priscians]]** se proclaman descendientes / herederos espirituales de los **[[Sortianos]]** (democracia mágica, derrotados en el Cisma Mágico arconteano). Nerub Null como archmage **dirige la operación oculta** desde el L9 — quinta del compound, defendido por:
+Los **[[Priscians]]** se proclaman descendientes / herederos espirituales de los **[[Sortianos]]** (democracia mágica, derrotados en el Cisma Mágico arconteano). Nerub Null como archmage **dirige la operación oculta** desde el Suelo del Gran Abismo — quinta del compound, defendido por:
 
-- **Illusion en 9-58** — oculta la entrada
+- **Espejismo sostenido** — oculta la entrada
 - **Sortian eyes** (new magic items) — teleportation system
 - **Defensas mágicas avanzadas**
 
 ### Su staff
 
-- **Jaracondus the Sprightly** (9-63) — segundo en mando
-- **Cenwulf the Unseen** (9-31) — 8th-level illusionist, leader de Priscian expeditionary team
-- **Vingalok** (9-48) — niravairi del Order of Planar Explorers
-- **Justinian** — Priscian war mage (figura repetido, 6th-level, aparece en encuentros aleatorios)
-- **Otros war mages y conversi** organizados en **Quintus** (núcleos de cinco)
+- **Jaracondus the Sprightly** — segundo en mando
+- **Cenwulf the Unseen** — ilusionista del octavo grado de su temple, líder del equipo expedicionario priscian
+- **Vingalok** — niravairi del Order of Planar Explorers
+- **Justinian** — Priscian war mage (figura repetida, del sexto grado de su temple; aparece sin aviso por los niveles)
+- **Otros war mages y conversi** organizados en **[[Priscians|Quintus]]** (núcleos de cinco)
 
 ### El proyecto: la Arcanum Forge
 
-La **Arcanum Forge** (9-60) es **artefacto sortiano histórico** —**forja capaz de producir Sortian equipment legendario** (Priscian chain mail, Priscian gladius +2, Sortian eyes, etc.)—. **Nerub Null la ha restaurado parcialmente**, pero **aún no domina todos sus secretos**.
+La **Arcanum Forge** es **artefacto sortiano histórico** —**forja capaz de producir Sortian equipment legendario** (Priscian chain mail, Priscian gladius, Sortian eyes, etc.)—. **Nerub Null la ha restaurado parcialmente**, pero **aún no domina todos sus secretos**.
 
 Producción actual:
-- **Priscian chain mail** (new magic items)
-- **Priscian gladius +2**
+- **Priscian chain mail**
+- **Priscian gladius**
 - **Sortian eyes** (teleport)
 - **Otros items de uso de la orden**
 
 Producción aspiracional (no lograda):
 - **Items legendarios sortianos** —desconocidos para los modernos—
 - **Reproducción del [[Arcanum]]** como sustancia
-- **Equipamiento de poder cósmico** (rango archmage / paladin epic)
+- **Equipamiento de poder cósmico** — del rango de los archimagos y los campeones míticos
 
 ### Sus poderes
 
-**Archmage nivel 15-18** probable:
-- **Wish** acceso
+**Archimago del más alto temple** probable:
+- Acceso al **Deseo** — el arte que dobla la realidad
 - **detención del tiempo**
-- **Disintegrate**
-- **Meteor Swarm**
-- **Spell book completo**
+- **Desintegración**
+- **Enjambre de Meteoros**
+- **Libro de hechizos completo**
 - **Sortian eyes** personal
-- **Anti-detect / sigilo extremo**
+- **Indetectable, de sigilo extremo**
 
 ### Relaciones
 
@@ -78,31 +77,31 @@ Producción aspiracional (no lograda):
 | **Rival** | **[[Kerbog_Khan]]** — competencia mágica |
 | **Histórico enemigo** | **[[Teosofos|Teósofos]]** — facción opuesta del Cisma |
 | **Posible vínculo** | **[[Prisco_Electe]]** — la orden toma su nombre |
-| **Posible alianza** | **[[Tsilliv]] / Kaliyani** — otra orden hechicera secreta |
+| **Posible alianza** | **[[Tsilliv]] / [[Kaliyani]]** — otra orden hechicera secreta |
 
-### Post-hiato (Reveal 2026-05-20)
+### Post-hiato (revelación del archivo)
 
 Con el **[[Vencimiento_Varumani]]** y la entrada en **Ravenloft**:
 
-- **Los Priscians ganan margen de operación** sin patrullas varumani
+- **Los [[Priscians]] ganan margen de operación** sin patrullas varumani
 - **Nerub Null puede ampliar Quintus** hacia los niveles superiores
-- **El Papa Alejandro Sixto** puede ser **rival ideológico** (centralización vs descentralización mágica)
-- **Posible recurso clave** para los Buscadores **si la espada compañera de Valerius / el paradigma Argus** requiere análisis arcano profundo
+- **El [[Papa_Alejandro_Sixto]]** puede ser **rival ideológico** (centralización vs descentralización mágica)
+- **Posible recurso clave** para los [[Buscadores_de_Ardis_Vala|Buscadores]] **si la espada compañera de Valerius / el paradigma Argus** requiere análisis arcano profundo
 
 ### La jornada del despojo en la cámara octagonal
 
-En el ciclo presente —*tras años de presencia oculta y operación lateral*— **Nerub Null operó por primera vez como adversario directo de los [[Buscadores_de_Ardis_Vala|Buscadores]]**. *Los Buscadores se negaron a permitir a los Priscianos acceso a la biblioteca del [[Palacio_del_Prisma|Palacio del Prisma]]*; **el archmago respondió con teleporte de partida Priscian a la cámara octagonal del Mega-Dungeon** mediante *sortian eyes*.
+En el ciclo presente —*tras años de presencia oculta y operación lateral*— **Nerub Null operó por primera vez como adversario directo de los [[Buscadores_de_Ardis_Vala|Buscadores]]**. *[[Buscadores_de_Ardis_Vala|Los Buscadores]] se negaron a permitir a los Priscianos acceso a la biblioteca del [[Palacio_del_Prisma|Palacio del Prisma]]*; **el archmago respondió con teleporte de partida Priscian a la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]** mediante *sortian eyes*.
 
-**El combate se decidió por degradación arcana, no por daño puro**. *Los Buscadores ganaron iniciativa con dos nueves dobles*; **los [[Cetro_de_Absorcion|cetros de absorción]] de los magos Priscian neutralizaron sus conjuros**. **El grupo cayó inconsciente**. **Los Priscianos confiscaron todos los objetos mágicos personales** —*"brisqueados los objetos"*— **dejando intactos oro, gemas, raciones, ropa y armas no mágicas**. *El gesto fue moderado, no exterminador*: los Buscadores fueron dejados vivos por decisión deliberada del archmago.
+**El combate se decidió por degradación arcana, no por daño puro**. *La fortuna dio dos veces la delantera a los Buscadores*; **los [[Cetro_de_Absorcion|cetros de absorción]] de los magos Priscian neutralizaron sus conjuros**. **El grupo cayó inconsciente**. **Los Priscianos confiscaron todos los objetos mágicos personales** —*"brisqueados los objetos"*— **dejando intactos oro, gemas, raciones, ropa y armas no mágicas**. *El gesto fue moderado, no exterminador*: los Buscadores fueron dejados vivos por decisión deliberada del archmago.
 
 *El acto inauguró el **[[Monopolio_Priscian_Magia_Legitima|Monopolio Priscian de la Magia Legítima]]*** como régimen operativo de facto sobre el arcano legítimo del valle. **El campo cosmológico se volvió triangular**: *polo luminoso (Papa) — polo oscuro (Caladán) — polo arcano (Nerub Null y los Priscianos)*. *La aparición directa de Nerub Null en persona*, sin embargo, **sigue pendiente**: en la cámara octagonal operó por descripción del archivo, **no por encarnación visible al grupo norte**.
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[L09_Floor_of_Great_Chasm|L9]] — su nivel
-- **Priscian Compound** (9-58 a 9-64A) — sede
-- **Arcanum Forge** (9-60) — proyecto central
+- [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]] — su nivel
+- **Priscian Compound** — sede
+- **Arcanum Forge** — proyecto central
 - [[Priscians]] — su orden
 - [[Sortianos]] — orden histórica de origen
 - **Jaracondus, Cenwulf, Vingalok, Justinian** — staff

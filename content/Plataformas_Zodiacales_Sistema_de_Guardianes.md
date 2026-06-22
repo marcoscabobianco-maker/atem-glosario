@@ -35,7 +35,7 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 
 ## La doctrina del sistema *(voz Paulus)*
 
-**Las Plataformas Zodiacales** son **concreciones de energía cosmológica** que **dividen el universo dual en doce facetas** —**BCN=12**, *Base Cósmico Numérica de doce*—. *Cada plataforma corresponde a un signo del zodíaco*; *cada signo opera con una* **columna esencial** —*eje abstracto constante en concepto y variable en estilo según el mundo de manifestación*—.
+**[[Juego_de_las_Sombras_Plataformas_Zodiacales|Las Plataformas Zodiacales]]** son **concreciones de energía cosmológica** que **dividen el universo dual en doce facetas** —**BCN=12**, *Base Cósmico Numérica de doce*—. *Cada plataforma corresponde a un signo del zodíaco*; *cada signo opera con una* **columna esencial** —*eje abstracto constante en concepto y variable en estilo según el mundo de manifestación*—.
 
 > *"La columna infinita es constante en cuanto concepto, pero no en cuanto estilo. (...) si por ejemplo la columna corresponde a la violencia, entonces esta podrá ser tratada de una forma sutil en el mundo onírico, de una forma de expresión en el mundo maya y de una forma mortal en un universo medieval fantástico. Todo esto estará referido y tendrá una importante relación con el principal habitante de la plataforma, el guardián."* — **C1 ROL**, hoja del 9 de junio de 1995 *(correcciones del 13 de julio de 1995 y del 21 de enero de 1996)*.
 
@@ -53,7 +53,7 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 
 ## El catálogo de las doce casas
 
-| # | Casa | Signo | Columna esencial | Guardián documentado |
+| # | Casa | Signo | [[Columna_concepto|Columna]] esencial | Guardián documentado |
 |---|---|---|---|---|
 | 1 | **[[Plataforma_Aries]]** | ♈ Aries | violencia, ira | [[Gabriel_Guardian_de_Aries|Gabriel]] |
 | 2 | **[[Plataforma_Tauro]]** | ♉ Tauro | fuerza estática, tierra | [[Erzebeth]] *(futura)* |
@@ -74,8 +74,8 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 
 *El sistema zodiacal opera en múltiples campañas del cosmos extendido*:
 
-- **[[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** *(1717-1784 A.D.A.)* — **enfrentan la Plataforma de Aries**, cerrando su pasaje con la independencia americana.
-- **[[Los_Reguladores]]** *(1888 A.D.A.)* — **vuelven a enfrentar Aries con la guía de Gabriel**; en abril del mismo año, **enfrentan Tauro** *(recibida por Jack Bull en Fort Clark)*.
+- **[[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** *(1717-1784 [[Anno_Domini_Antiterra_ADA|A.D.A.]])* — **enfrentan la [[Plataforma_Aries|Plataforma de Aries]]**, cerrando su pasaje con la independencia americana.
+- **[[Los_Reguladores]]** *(1888 [[Anno_Domini_Antiterra_ADA|A.D.A.]])* — **vuelven a enfrentar Aries con la guía de [[Gabriel_Guardian_de_Aries|Gabriel]]**; en abril del mismo año, **enfrentan Tauro** *(recibida por Jack Bull en Fort Clark)*.
 - **[[Juego_de_las_Sombras_Plataformas_Zodiacales|El Juego de las Sombras]]** — *concepto cosmológico mayor que enmarca las activaciones zodiacales*.
 - **[[Ardis_Vala]]** — *el mega-dungeon descendente* **opera con diez de las doce capas zodiacales superpuestas**: **Acuario es la superficie**, *abajo Piscis*, *más abajo Sagitario y Escorpio*, *en el fondo Aries de carneros y primeros abismos*.
 - **[[Atlantida_Alta_y_Baja|Atlántida]]** — **Piscis es la plataforma de acceso por aguas**: *quien sabe operar la plataforma desciende sin necesidad de túneles*.
@@ -86,11 +86,11 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 
 **El mega-dungeon de [[Ardis_Vala]]** *no es excavación de tierra*: **es apilamiento cristalino de plataformas zodiacales sucesivas**. *Diez capas atestadas en el archivo*:
 
-- **Capa I — Acuario** *(superficie, era presente)* — Gosterwick / Glastonbury, Buscadores activos
+- **Capa I — Acuario** *(superficie, era presente)* — [[Gosterwick]] / [[Glastonbury]], [[Buscadores_de_Ardis_Vala|Buscadores]] activos
 - **Capa II — Piscis** *(aguas que recuerdan)*
 - **Capa V — Sagitario** *(arco apócrifo)*
 - **Capa VI — Escorpio** *(rugosidad cáustica de la piedra)*
-- *...y otras capas que los Buscadores descenderán durante el ciclo presente*
+- *...y otras capas que los [[Buscadores_de_Ardis_Vala|Buscadores]] descenderán durante el ciclo presente*
 - **En el fondo — Aries** *(carneros, primeros abismos)*
 
 [*El cristal de Ardisvala demuestra que las plataformas zodiacales no son sólo "lugares" en el espacio cósmico: son **estratos del cristal cosmológico que un mundo arroja al asentarse**. Ardisvala es el caso documentado más extenso de la operación. — Glosa de [[Arkos]] el archivero del Plata.*]
@@ -103,7 +103,7 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 1. ¿Cuál es la columna esencial del signo?
 2. ¿Cuál es el guardián vigente?
 3. ¿Bajo qué doctrina opera la plataforma en el mundo de manifestación?
-4. ¿La Corrupción Dual está en condición de activarse?
+4. ¿[[Corrupcion_Dual|La Corrupción Dual]] está en condición de activarse?
 
 ---
 
@@ -127,7 +127,7 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 ### Campañas y eventos
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] · [[Los_Reguladores]] — grupos que enfrentaron plataformas
 - [[Ardis_Vala]] — mega-dungeon como apilamiento zodiacal
-- [[Atlantida_Alta_y_Baja|Atlántida]] — acceso via Plataforma de Piscis
+- [[Atlantida_Alta_y_Baja|Atlántida]] — acceso via [[Plataforma_Piscis|Plataforma de Piscis]]
 
 ### Fuentes
 - [[Eisagogika|Isagógica de Pablo]] — capa astrológica de la doctrina
@@ -138,7 +138,7 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 
 - **C1 ROL B (registro en Géminis)** — definición primigenia del sistema, BCN=12, columnas como ejes abstractos
 - **C1 ROL (registro en Géminis, con glosas tardías)** — doctrina del guardián como prisionero de su columna
-- **1717-1784 A.D.A.** — Les Libertateurs cierran su pasaje por Aries
-- **Marzo-Abril 1888 A.D.A.** — Los Reguladores enfrentan Aries y Tauro
+- **1717-1784 A.D.A.** — [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] cierran su pasaje por Aries
+- **Marzo-Abril 1888 A.D.A.** — [[Los_Reguladores]] enfrentan Aries y Tauro
 - **Mesa actual (2024-2026)** — los Buscadores descienden por el cristal de Ardisvala explorando las capas sucesivas
 - **Cosmología continua** — las doce plataformas siguen operando con guardianes en rotación

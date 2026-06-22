@@ -12,12 +12,9 @@ aliases:
 
 ## Presentación
 
-Anomalías temporales en el tejido de la realidad. Áreas donde el tiempo se "pliega" sobre sí mismo (metáfora: arrugas en ropa que "no se pueden planchar"). Efectos: eventos suceden o no suceden; personajes hacen comentarios sobre situaciones que en el mundo aún no ocurrieron o ya sucedieron hace tiempo (precognición/postcognición forzada). Suite "Forgot" es ejemplo: zona donde eventos se olvidan (pliegue temporal que borra memoria). Mecánica de cronomancia; posible conexión a viajes temporales.
+Anomalías temporales en el tejido de la realidad. Áreas donde el tiempo se "pliega" sobre sí mismo — metáfora de arrugas en ropa que no se pueden planchar. En estas zonas, eventos suceden o no suceden; los que las atraviesan hacen comentarios sobre situaciones que el mundo aún no ha vivido o que ya ocurrieron hace tiempo (precognición/postcognición forzada). La Suite "Forgot" es un ejemplo: zona donde los eventos se olvidan, pliegue temporal que borra la memoria.
 
-## Apariciones notables
+## Ver también
 
-[[Paris_Ucronica|París Ucrónica]] [00:02:08-00:03:10] — explica mecánica de "arrugas" vía Suite "Forgot."
-
-## Notas
-
-Worldbuilding de sobre cosmología temporal. Sugiere mundo donde tiempo es maleable, no lineal. Herramienta narrativa para justificar anomalías, precognición, líneas temporales alternativas.
+- [[Paris_Ucronica]]
+- [[Suite_Forgot]]

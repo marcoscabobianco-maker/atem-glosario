@@ -28,13 +28,13 @@ imagen: Imagenes_Tier1/Panfagonia.png
 
 ---
 
-**Es una Tierra Semi-Primaria** —de las que se adosan al Infierno como las cocheras se adosan a las casas grandes—. *Quien la cruza sabe que no está aún en el Infierno propiamente; quien la cruza dos veces sabe que tampoco está afuera*. Limita con [[Crapulia]] por una orilla; con el Tercer Círculo por la otra; al fondo, los humos del [[Infierno]] central marcan dirección.
+**Es una Tierra Semi-Primaria** —de las que se adosan al [[Infierno]] como las cocheras se adosan a las casas grandes—. *Quien la cruza sabe que no está aún en el [[Infierno]] propiamente; quien la cruza dos veces sabe que tampoco está afuera*. Limita con [[Crapulia]] por una orilla; con el Tercer Círculo por la otra; al fondo, los humos del [[Infierno]] central marcan dirección.
 
 **Su carácter es el banquete interrumpido**. *No hay hambre en Panfagonia: hay restos*. La gula que se castiga aquí es **la que aprende a comer sin compañía**, la que terminó la cena cuando ya nadie quedaba en la mesa. **La lluvia es sopa**; los charcos son **caldo frío**; las moscas no zumban porque ya conocen el orden de las cosas.
 
 ---
 
-**Por Panfagonia atravesó [[Anti_Inferno|la figura del segundo círculo]]** en su descenso solitario —descenso que el archivo el Descenso consigna pero no comenta, porque el silencio le sienta—. *Cada paso suyo levantaba moscas; cada paso siguiente las devolvía*. **Lo que vio Patience en Panfagonia, no lo contó al grupo a su regreso**: lo dejó para otra vida o para otra lengua, no se sabe.
+**Por Panfagonia atravesó [[Anti_Inferno|la figura del segundo círculo]]** en su descenso solitario —descenso que el archivo el Descenso consigna pero no comenta, porque el silencio le sienta—. *Cada paso suyo levantaba moscas; cada paso siguiente las devolvía*. **Lo que vio [[Anti_Inferno|Patience]] en Panfagonia, no lo contó al grupo a su regreso**: lo dejó para otra vida o para otra lengua, no se sabe.
 
 [*Los nombres que combinan **pan** y **fagia** abundan en los manuales de orientación infernal; éste es de los más exactos: no se come todo, se ha comido ya todo. — Glosa atribuida a [[Pablo_de_Alejandria|Paulus Alexandrinus]].*]
 
@@ -48,5 +48,5 @@ imagen: Imagenes_Tier1/Panfagonia.png
 
 ## Apariciones
 
-- **Descenso el Descenso** — Patience la atraviesa en solitario
+- **Descenso el Descenso** — [[Anti_Inferno|Patience]] la atraviesa en solitario
 - **Tiempo continuo del banquete sin fin** — paisaje persistente, sin habitantes

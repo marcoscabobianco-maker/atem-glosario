@@ -24,7 +24,7 @@ imagen: null
 ---
 # La Serpiente-Luna Auna
 
-> *"En oposición al Águila, la Serpiente-Luna representa la noche, los ciclos ocultos y los secretos de la existencia. Su forma alargada y curvilínea se observa en los diagramas de fases lunares y mareas. Según las leyendas, la Serpiente descansa en las entrañas de la tierra, controlando los flujos volcánicos y la energía oculta del subsuelo."* — Mascor Blancarba, *Apéndices & Delirios Varios*.
+> *"En oposición al Águila, la Serpiente-Luna representa la noche, los ciclos ocultos y los secretos de la existencia. Su forma alargada y curvilínea se observa en los diagramas de fases lunares y mareas. Según las leyendas, la Serpiente descansa en las entrañas de la tierra, controlando los flujos volcánicos y la energía oculta del subsuelo."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*.
 
 ---
 
@@ -58,7 +58,7 @@ imagen: null
 
 ## El mito de los Amantes
 
-**Un mito específico de la Serpiente-Luna**, *conservado en el compilado de Mascor Blancarba*: **el [[Mito_de_los_Amantes_y_la_Serpiente_Lunar|Mito de los Amantes y la Serpiente Lunar]]**. *Cuenta la historia de Ishen y Nalía*, *dos seres destinados a unirse para sellar un pacto entre la luz del Sol y el reflejo de la Luna*. **La Serpiente de la Medianoche** —*manifestación específica de Auna*— **reclamaba un tributo para permitir la unión**. *La novia, Nalía, ofreció un cántico que cedió simbólicamente un destello de su brillo diurno a la luna reflejada sobre un espejo de plata*. **La Serpiente quedó saciada**; **la unión se selló en la Capilla de la Redención**.
+**Un mito específico de la Serpiente-Luna**, *conservado en el compilado de [[Mascor_Blancarba]]*: **el [[Mito_de_los_Amantes_y_la_Serpiente_Lunar|Mito de los Amantes y la Serpiente Lunar]]**. *Cuenta la historia de [[Mito_de_los_Amantes_y_la_Serpiente_Lunar|Ishen y Nalía]]*, *dos seres destinados a unirse para sellar un pacto entre la luz del Sol y el reflejo de la Luna*. **La Serpiente de la Medianoche** —*manifestación específica de Auna*— **reclamaba un tributo para permitir la unión**. *La novia, Nalía, ofreció un cántico que cedió simbólicamente un destello de su brillo diurno a la luna reflejada sobre un espejo de plata*. **La Serpiente quedó saciada**; **la unión se selló en la Capilla de la Redención**.
 
 *El mito opera con doctrina*: **la Serpiente-Luna no es figura malvada**; **es figura exigente**. *Quien le ofrece tributo apropiado* **opera con su bendición**; *quien pretende eludirla* **opera contra el orden cosmológico**.
 
@@ -71,7 +71,7 @@ imagen: null
 - **Rituales nocturnos** *en santuarios subterráneos* *invocan su nombre*.
 - **Diagramas lunares y mareas** *se consultan* en astronomía aplicada arcana.
 - **Magos arcanos** *(especialmente sorcerer como [[Vitalis|Vitalis]] del Río Blackwater)* **operan bajo bendición indirecta de Auna** *cuando trabajan con flujos temporales o energías subterráneas*.
-- **El pueblo de Caldero** *conserva ofrendas modestas en cavernas accesibles* *como ritual cotidiano*.
+- **El pueblo de [[Caldero]]** *conserva ofrendas modestas en cavernas accesibles* *como ritual cotidiano*.
 - **El paladín-arlequín [[Arian|Adam]]** en el Foso *opera con resonancias serpentinas* *vía la doctrina del trasiego que la Serpiente representa*.
 
 ---
@@ -80,7 +80,7 @@ imagen: null
 
 - [[Mitos_Fundacionales_de_Caldero]] — mitología del compilado
 - [[Aguila_Asvila]] — figura mítica complementaria (día/sol)
-- [[Fenix_Nido_Volcanico]] — figura mítica del Nido, operación cosmológica paralela en Caldero
+- [[Fenix_Nido_Volcanico]] — figura mítica del Nido, operación cosmológica paralela en [[Caldero]]
 - [[Mito_de_los_Amantes_y_la_Serpiente_Lunar]] — mito específico
 - **Capilla de la Redención** — locus del sellado del pacto Ishen-Nalía
 - **Serpiente de la Medianoche** — manifestación específica de Auna
@@ -91,6 +91,6 @@ imagen: null
 ## Apariciones
 
 - **Era primigenia** — Serpiente-Luna como guardiana de los misterios; control de los flujos volcánicos del subsuelo
-- **Mito de los Amantes y la Serpiente Lunar** — pacto entre Sol y Luna sellado en Capilla de la Redención
+- **[[Mito_de_los_Amantes_y_la_Serpiente_Lunar]]** — pacto entre Sol y Luna sellado en Capilla de la Redención
 - **Siglos de operación ritual** — magos arcanos y teósofos clandestinos operando bajo su bendición
 - **1824 AE — ciclo presente** — presencia mítica continuada en rituales nocturnos y arcanos

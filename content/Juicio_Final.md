@@ -64,7 +64,7 @@ analytical_notes:
    note: "Mecanismo del retroceso temporal de 27 años pendiente catalogar — ¿se repite en otros eventos cosmogónicos?"
  - by: claude
    date: 2026-05-19
-   note: "Pendiente nota lateral: ¿qué sesiones se jugó? Edición de reglas. Jugadores presentes."
+   note: "Pendiente: anclar la jornada en la cronología del archivo."
 
 # === Cockpit Obsidian ===
 categoria: evento
@@ -82,11 +82,11 @@ epoca: "1375 DR — Edad de los Reinos Olvidados — derrota de Tiamat"
 
 # Juicio Final
 
-> Evento cosmogónico de 1375 DR. Minaya y Soluna vencen a Takhishis/Tiamat con la Lanza y la Gema de la Creación. El tiempo retrocede 27 años (1375 → 1348 DR).
+> [[Evento]] cosmogónico de 1375 DR. Minaya y [[Soluna]] vencen a Takhishis/Tiamat con la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]]. El tiempo retrocede 27 años (1375 → 1348 DR).
 
 ## Fuente primaria
 
-**Calendario merged.doc** ([[Calendario]] de [[Amitlai]], consolidación 2005-2018):
+**[[Calendario]] merged.doc** ([[Calendario]] de [[Amitlai]], consolidación 2005-2018):
 
 > *"**1375 DR Juicio Final. [[Minaya_MC|Minaya]] (27 años) y [[Soluna|Soluna]] vencen a Takhishis utilizando la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]]. Los dioses vuelven atrás en el tiempo hasta el 1348 DR. Aventureros sin par, recorrían la senda de los peligros para vencer a [[Tiamat_MC|Tiamat]]. Alquimia especial determinó la comunión del plateado... "* (par 199-203)
 
@@ -98,22 +98,22 @@ epoca: "1375 DR — Edad de los Reinos Olvidados — derrota de Tiamat"
 | **Antagonista** | [[Tiamat_MC|Tiamat]] / Takhishis (mismo ente — nomenclatura FR + Dragonlance) |
 | **Héroes** | [[Minaya_MC|Minaya]] (27 años), [[Soluna|Soluna]] |
 | **Artefactos** | Lanza con punta de rubí = [[Gema_de_la_Creacion|Gema de la Creación]] |
-| **Consecuencia** | Vuelta del tiempo: dioses retroceden 27 años a 1348 DR |
+| **[[Consecuencia]]** | Vuelta del tiempo: dioses retroceden 27 años a 1348 DR |
 | **Cierre** | Restauración del Cosmos, "un nuevo ciclo" (par 22) |
 
 ## El Primer Círculo
 
-El Calendario distingue **Primer Círculo** y **Segundo Círculo** como ciclos cosmogónicos superpuestos:
+El [[Calendario]] distingue **Primer Círculo** y **Segundo Círculo** como ciclos cosmogónicos superpuestos:
 
 > *"Históricas hay un primer ciclo y luego un segundo ciclo que se le superpone con cambios cada vez más insidiosos. Primer Círculo o Ciclo. Temporalidad de los Reinos Olvidados. DR (Dale Reckoning)."* (par 75)
 
-El Juicio Final de 1375 DR pertenece al **Primer Círculo**. La cronología que el Calendario llama "DR" se asocia a este círculo.
+[[El_Juicio_Final_campana|El Juicio Final]] de 1375 DR pertenece al **Primer Círculo**. La cronología que el Calendario llama "DR" se asocia a este círculo.
 
 ## Conexión con la Cadena de Reencarnación
 
 [[Clarisa]] muere en 1375 DR según MC_LINEA_TEMPORAL:
 
-> *"**1375 DR:** Juicio Final (Primer Círculo). Laveth trama su ascensión divina y mata a Clarisa."*
+> *"**1375 DR:** Juicio Final (Primer Círculo). [[Laveth]] trama su ascensión divina y mata a [[Clarisa]]."*
 
 Y en 1377 DR sale de prisión (contradicción aparente con muerte de 1375 — pendiente resolución).
 
@@ -123,15 +123,15 @@ Antes del Juicio Final, Tiamat había sellado a los dioses locales:
 
 > *"... fue sellada con su veneno de bruma, aquella niebla que compartía con el Erebo, Nun de los comienzos. Finalmente había conseguido Tiamat acallar al tumulto de los dioses. Apsu había sido vengado. Marduk tardaría en llegar. Para ella quedaba el monte de rubí... "* (Calendario par 104)
 
-El Juicio Final es la **respuesta heroica** a este sello: 1000 años después, [[Minaya_MC|Minaya]] y [[Soluna|Soluna]] usan el "rubí faltante" del propio monte de Tiamat (= [[Gema_de_la_Creacion|Gema de la Creación]]) para vencerla.
+[[El_Juicio_Final_campana|El Juicio Final]] es la **respuesta heroica** a este sello: 1000 años después, [[Minaya_MC|Minaya]] y [[Soluna|Soluna]] usan el "rubí faltante" del propio monte de Tiamat (= [[Gema_de_la_Creacion|Gema de la Creación]]) para vencerla.
 
 ## Nota lateral
 
-> Pendiente: confirmar en qué sesiones se jugó el Juicio Final, qué jugadores participaron, qué edición de reglas se usó ( 2ª, 3.5, otra). El Calendario refleja la consolidación narrativa pero no documenta la sesión asertórica.
+> Pendiente: anclar el Juicio Final en la cronología del archivo. El Calendario refleja la consolidación narrativa; el pormenor del registro queda en el estrato akáshico.
 
 ## Notas
 
-- "Takhishis" es la grafía del Calendario (variante de la Reina Oscura, Dragonlance). En el cosmos compartido se identifica con Tiamat (Reinos Olvidados / Mesopotamia).
+- "Takhishis" es la grafía del Calendario (variante de la [[Reina_Oscura]], Dragonlance). En el cosmos compartido se identifica con Tiamat (Reinos Olvidados / Mesopotamia).
 - El **retroceso temporal de 27 años** es un mecanismo cosmogónico que vuelve a aparecer en otros eventos (pendiente catalogar).
 - La fórmula *"Alquimia especial determinó la comunión del plateado"* sugiere un ritual alquímico que cierra el evento — pendiente expandir.
 

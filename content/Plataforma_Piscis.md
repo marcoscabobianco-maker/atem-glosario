@@ -3,6 +3,7 @@ título: "Plataforma de Piscis"
 slug: Plataforma_Piscis
 aliases:
  - Plataforma de Piscis
+ - Piscis
  - Piscis (Plataforma)
  - Piscis_Plataforma
  - Duodécima Casa Zodiacal
@@ -34,11 +35,11 @@ imagen: Imagenes_Tier1/Plataforma_Piscis.png
 
 **Es la doceava casa del zodiaco** —la última o la primera, según se entre o se salga del ciclo— y **administra las aguas del principio y las aguas del fin**. *De ella dependen las profecías del [[Apocalipsis_Temporal_1889|Apocalipsis]] y de ella nacen las novedades que llegan por mar*. Tiene **soberanía rotatoria**: en eras anteriores reinó el [[Cakravartin]] —cuando todavía era rey bajo las aguas y no sustituto—; en eras siguientes el [[Gran_Khan]] tomó parte del cetro.
 
-**Su ocupación física en Antiterra** —el cronista anota la rareza, porque las plataformas zodiacales se cartografían menos en planos terrestres— **se extiende desde la isla Antigua del Caribe hasta el Muro Prismático de Tartaria**. *Es franja oceánica, no isla*; **gobierna mareas, no tierras**. Su naturaleza es **ballenera, no cazadora**: las criaturas mayores de la profundidad la honran por respeto, no por miedo.
+**Su ocupación física en [[Antiterra]]** —el cronista anota la rareza, porque las plataformas zodiacales se cartografían menos en planos terrestres— **se extiende desde la isla Antigua del Caribe hasta el Muro Prismático de [[Tartaria]]**. *Es franja oceánica, no isla*; **gobierna mareas, no tierras**. Su naturaleza es **ballenera, no cazadora**: las criaturas mayores de la profundidad la honran por respeto, no por miedo.
 
 ---
 
-**El episodio fundacional de su flotación actual** lo conserva el archivo akásico bajo el rótulo **del Perdón Mutuo**. *El Cakravartin y el Gran Khan, enfrentados por las dos cabezas de un dragón doble cuya posesión decidía el uso de la [[Dual_Saenz_Premiado|Magia Dual]]*, **se perdonaron simultáneamente en el centro de la plataforma**. El Cakravartin permitió que el Gran Khan conservara una de las dos cabezas; **el cisma se canceló**, la magia dual quedó disponible para ambos, **la catástrofe de Venecia no se desató por ese hilo**. *La plataforma sigue suspendida porque ese acto continúa irradiando*; **si alguno revocara, caería**.
+**El episodio fundacional de su flotación actual** lo conserva el archivo akásico bajo el rótulo **del Perdón Mutuo**. *El [[Cakravartin]] y el [[Gran_Khan]], enfrentados por las dos cabezas de un dragón doble cuya posesión decidía el uso de la [[Dual_Saenz_Premiado|Magia Dual]]*, **se perdonaron simultáneamente en el centro de la plataforma**. El [[Cakravartin]] permitió que el [[Gran_Khan]] conservara una de las dos cabezas; **el cisma se canceló**, la magia dual quedó disponible para ambos, **la catástrofe de Venecia no se desató por ese hilo**. *La plataforma sigue suspendida porque ese acto continúa irradiando*; **si alguno revocara, caería**.
 
 [*Hay perdones que valen una sola vez y duran siempre; hay perdones que se repiten cada día y no duran ni la jornada. El de la plataforma de Piscis es del primer tipo. — Glosa atribuida al libro V del [[Decadiano]].*]
 
@@ -55,4 +56,4 @@ imagen: Imagenes_Tier1/Plataforma_Piscis.png
 
 - **Cosmología continua** — gobierna mareas, sueños y profecías del fin
 - **Acto del Perdón Mutuo** — Cakravartin y Gran Khan, centro del octógono
-- **Travesía de París Ucrónica** — referencia operativa en la cosmología del grupo
+- **Travesía de [[Paris_Ucronica|París Ucrónica]]** — referencia operativa en la cosmología del grupo

@@ -23,7 +23,7 @@ imagen: Imagenes_Tier1/Artefacto_Engranaje.png
 
 **En custodia, no en uso**: una figura coronada lo sostiene contra el pecho como reliquia mayor, dos asistentes flanquean —**uno en oro pulido**, **otro en plata vieja**—, y **arriba**, **una entidad cornuda con corona dentada vigila el acto** desde una arquitectura cósmica de gradas púrpura y oro. El engranaje es **dorado, complejo, vagamente zodiacal**; cada uno de sus dientes encaja con otro y, en el centro, **hay un círculo vacío que no parece esperar pieza**. *Quien sepa leer mecánica cosmogónica entenderá la sentencia. El resto se conforma con el ornamento.*
 
-Pieza cosmogónica robada por Graz'zt. Acto fundacional paralelo al robo de la Magia Dual por Pablo. "El Artefacto" es referencia recurrente sin definición canónica unificada.
+Pieza cosmogónica robada por [[Grazzt|Graz'zt]]. Acto fundacional paralelo al robo de la Magia Dual por Pablo. "El Artefacto" es referencia recurrente sin definición canónica unificada.
 
 ## Función cosmogónica — el otro robo prometeico
 
@@ -34,7 +34,7 @@ En la cosmogonía MC hay **dos robos paralelos** al panteón:
 | Magia Dual | [[Pablo_de_Alejandria|Pablo]] "como Prometeo" | [[Magia_dual|Magia Dual]] — fuego que quema dioses |
 | **Engranaje** | **[[Grazzt|Graz'zt]]** | **Artefacto Engranaje** |
 
-Ambos robos son **actos fundacionales** que rompen la jerarquía cósmica original y desencadenan los arcos de drenaje / reconstitución que dominan el cosmos compartido. La Constitución y la ficha actual de [[Magia_dual|Magia Dual]] mencionan este paralelismo: *"Acto fundacional de la cosmología MC, paralelo al robo del Engranaje por Graz'zt"*.
+Ambos robos son **actos fundacionales** que rompen la jerarquía cósmica original y desencadenan los arcos de drenaje / reconstitución que dominan el cosmos compartido. La Constitución y la ficha actual de [[Magia_dual|Magia Dual]] mencionan este paralelismo: *"Acto fundacional de la cosmología MC, paralelo al robo del Engranaje por [[Grazzt|Graz'zt]]"*.
 
 ## Estado documental — referencia sin definición unificada
 
@@ -51,8 +51,8 @@ Hay también fichas separadas como `[[Artefacto_el|Artefacto, el]]` que pueden o
 Posibilidades pendientes confirmar con :
 
 1. **Engranaje = pieza mecánica cosmogónica** (literal: un engranaje del universo robado).
-2. **Engranaje = nombre alegórico** de la *Vara del Infinito* o uno de sus componentes.
-3. **Engranaje = objeto distinto** propio del arco de Graz'zt (Antiterra / Reguladores).
+2. **Engranaje = nombre alegórico** de la *[[Vara_del_Infinito]]* o uno de sus componentes.
+3. **Engranaje = objeto distinto** propio del arco de Graz'zt ([[Antiterra]] / Reguladores).
 4. **Engranaje = sinónimo de "el Artefacto"** que aparece en y otros docs.
 
 ## Pendientes para 
@@ -65,7 +65,7 @@ Posibilidades pendientes confirmar con :
 
 ## Nota lateral
 
-> Pendiente: identificar sesiones donde se juega el robo del Engranaje. confirma rol cosmogónico, pero no hay todavía documentación de sesión asertórica.
+> Pendiente: identificar jornadas donde se juega el robo del Engranaje. confirma rol cosmogónico, pero no hay todavía documentación de jornada asertórica.
 
 ## Ver también
 

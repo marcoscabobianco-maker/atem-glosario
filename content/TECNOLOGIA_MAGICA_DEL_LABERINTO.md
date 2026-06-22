@@ -8,11 +8,11 @@ aliases:
 
 ## Presentación
 
-- **Warzone spell:** Manipulación de arquitectura, ruptura/camuflaje de paredes
+- **[[Warzone_spell]]:** Manipulación de arquitectura, ruptura/camuflaje de paredes
 - **Brumas mágicas:** Visión limitada a ~5 pies en ciertas zonas
-- **Puertas protegidas:** Mayor resistencia de lo normal (requieren Knock mejorado)
+- **[[Puertas_protegidas]]:** Mayor resistencia de lo normal (requieren Knock mejorado)
 - **Telas de araña:** [[Peligro]] adicional en pasajes no iluminados
-- **Desconcierto direccional:** Probabilidad 50% de tomar dirección opuesta a la pretendida
+- **[[Desconcierto_direccional]]:** Probabilidad 50% de tomar dirección opuesta a la pretendida
 - **Barras de fuerza mágica:** Jaula invisible que contiene al león
 
 **Ref.:** Líneas 250-260, 400-420
@@ -30,11 +30,11 @@ aliases:
 
 ### el plano operativo
 
-- **Warzone spell:** Manipulación de arquitectura, ruptura/camuflaje de paredes
+- **[[Warzone_spell]]:** Manipulación de arquitectura, ruptura/camuflaje de paredes
 - **Brumas mágicas:** Visión limitada a ~5 pies en ciertas zonas
-- **Puertas protegidas:** Mayor resistencia de lo normal (requieren Knock mejorado)
+- **[[Puertas_protegidas]]:** Mayor resistencia de lo normal (requieren Knock mejorado)
 - **Telas de araña:** [[Peligro]] adicional en pasajes no iluminados
-- **Desconcierto direccional:** Probabilidad 50% de tomar dirección opuesta a la pretendida
+- **[[Desconcierto_direccional]]:** Probabilidad 50% de tomar dirección opuesta a la pretendida
 - **Barras de fuerza mágica:** Jaula invisible que contiene al león
 
 **Ref.:** Líneas 250-260, 400-420

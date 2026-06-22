@@ -12,15 +12,14 @@ aliases:
 
 ## Presentación
 
-**Descripción:** Batalla prolongada (75 minutos de sesión, 4-5 rodadas de combate). Grupo vs. Templarios posesos, [[Sauro_Dragon|Sauro]], Emisarios. Victoria final.
-**Participación de compañeros:**
-- Lirio: Críticos devastadores, casi muere pero regenera, liderazgo
-- [[Arsvan|Ärsvan]]: Barrido múltiples enemigos, disipación mágica
-- [[Reynaud|Reynaud]]: Curación, transmutación, liderazgo espiritual
-- [[Michel|Michel]]: Múltiples sugestiones, rol reducido pero presente
+Batalla librada en el Santuario contra [[Templarios|Templarios]] posesos, [[Sauro_Dragon|Sauro]] y sus Emisarios. El grupo salió victorioso tras una lucha extenuante.
 
-**Significancia:** Primer combate de victimización total del grupo sobre poder enemigo externo. Confirmación de grupo como fuerza de combate capaz. Pero cansancio extremo indicado ("Estoy agotado").
+**Participación:**
+- [[Lirio|Lirio]]: golpes devastadores, liderazgo en el fragor
+- [[Arsvan|Ärsvan]]: barrido de múltiples enemigos, disipación mágica
+- [[Michel|Michel]]: curación, transmutación, sugestiones múltiples, liderazgo espiritual
 
 ## Ver también
 
-- [[Participacion_de_PJs|Participación de compañeros]]
+- [[Templarios|Templarios]]
+- [[Sauro_Dragon|Sauro]]

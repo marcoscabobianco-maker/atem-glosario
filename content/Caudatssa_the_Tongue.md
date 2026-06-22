@@ -14,75 +14,73 @@ tags:
  - ardis-vala
  - mega-dungeon-ardis-vala
  - L07
- - 7-79
  - upper-temple
  - heqeti-pequeño-equipo
 ---
 
 # Caudatssa the Tongue
 
-> *Tongue heqeti subordinado a [[Reepsiq]]. Líder del pequeño equipo heqeti en el Upper Temple del L7 (7-78 a 7-84). Restauración cautelosa del antiguo zigurat heqeti.*
+> *Tongue heqeti subordinado a [[Reepsiq]]. Líder del pequeño equipo heqeti en el Upper [[Temple_complejo_TE|Temple]] de la Corte del Thegn. Restauración cautelosa del antiguo zigurat heqeti.*
 
 ## Presentación
 
-**Caudatssa the Tongue** es la **Tongue (vocero / diplomática) heqeti** que **lidera el pequeño equipo de heqeti** restaurando el **Upper Temple** en el **[[Court_of_Troll_Thegn|Nivel 7]] del [[Mega_Dungeon_Arden_Vul]]**, áreas **7-78 a 7-84**. Su aposento es **7-79**.
+**Caudatssa the Tongue** es la **Tongue (vocero / diplomática) heqeti** que **lidera el pequeño equipo de heqeti** restaurando el **Upper [[Temple_complejo_TE|Temple]]** en la **[[Court_of_Troll_Thegn|Corte del Thegn]] del [[Mega_Dungeon_Arden_Vul]]**. Su aposento está **junto al altar del templo**.
 
 ### Jerarquía
 
-Caudatssa es **subordinada a [[Reepsiq]] (Great Tongue, L10-47)**. Pequeño equipo bajo su mando:
+Caudatssa es **subordinada a [[Reepsiq]] (Great Tongue, Ziggurat de Kauket)**. Pequeño equipo bajo su mando:
 
-- **Heqeti pilgrims** menores (residentes)
+- **[[Heqeti]] pilgrims** menores (residentes)
 - **Builders / weavers** ocasionales (mantenimiento del zigurat)
-- **Contacto regular con el Ziggurat principal (L10)** vía heqeti teleport well en 7-83
+- **Contacto regular con el Ziggurat principal** vía el heqeti teleport well del templo
 
 ### El Upper Temple
 
-El **Upper Temple** (7-78 a 7-84) es **zigurat menor de Kauket** —precursor del mayor en L10—. Tras la limpieza rudishva, **los heqeti han retornado recientemente** para reactivarlo:
+El **Upper Temple** es **zigurat menor de Kauket** —precursor del mayor en el Ziggurat de Kauket—. Tras la limpieza rudishva, **los heqeti han retornado recientemente** para reactivarlo:
 
-- **Hallow spell** sobre el área (CE +2 / no-CE -2)
+- **Consagración oscura** sobre el área — el suelo favorece a los fieles del polo oscuro y pesa sobre los ajenos
 - **Resonancia ancestral** con el zigurat mayor
 - **Posición geográfica precaria** — al lado del dominio varumani (pre-Vencimiento)
 - **Posible activación de funciones cultuales** —rituales menores a Kauket
 
 ### Su precaución
 
-**Caudatssa es circumspecta** — prefiere **operar en silencio** antes que provocar confrontación con los Varumani (pre-Vencimiento). Su agenda:
+**Caudatssa es circumspecta** — prefiere **operar en silencio** antes que provocar confrontación con los [[Varumani]] (pre-Vencimiento). Su agenda:
 
 - **Restaurar el Upper Temple** sin alertar a los enemigos
-- **Establecer cabeza de playa heqeti** en el L7
-- **Coordinar con Reepsiq** sobre el plan mayor (cuerno verde pálido + invocación Kauket)
+- **Establecer cabeza de playa heqeti** en la Corte del Thegn
+- **Coordinar con [[Reepsiq]]** sobre el plan mayor (cuerno verde pálido + invocación Kauket)
 - **Eventualmente expandir presencia heqeti** en niveles intermedios
 
-### Post-hiato (Reveal 2026-05-20)
+### Post-hiato (revelación del archivo)
 
 Con el **[[Vencimiento_Varumani]]**:
 
-- **Caudatssa puede ahora expandir activamente** el dominio heqeti en L7
+- **Caudatssa puede ahora expandir activamente** el dominio heqeti en la Corte del Thegn
 - **Sin opositor varumani**, la precaución original es innecesaria
-- **El Hallow spell del Upper Temple** puede ser **acentuado** —si quiere, puede convertirse en **mini-dominio dentro del Ravenloft mayor**
-- **Posible alianza** con [[Papa_Alejandro_Sixto]] —ambos buscan autoridad sobre los niveles intermedios; pero **Kauket vs. Mithra/Thoth** crea tensión teológica
+- **La consagración oscura del Upper Temple** puede ser **acentuada** —si quiere, puede convertirse en **mini-dominio dentro del Ravenloft mayor**
+- **Posible alianza** con [[Papa_Alejandro_Sixto]] —ambos buscan autoridad sobre los niveles intermedios; pero **Kauket vs. [[Mitra|Mithra]]/Thoth** crea tensión teológica
 
 ### Su poder
 
-**Heqeti weaver / cleric** nivel 7-9:
+**[[Heqeti]] weaver — sacerdotisa de Kauket de alto temple:**
 
-- , -4
-- **Toxic skin** (paralysis)
-- **Acid tongue** (1-6 acid damage)
-- **Psionic resistance**
-- **Immune** sleep, charm, hold, water/ice
+- **Piel tóxica** — el contacto paraliza
+- **Lengua ácida** — muerde como el vitriolo
+- **Mente blindada** a la intrusión psíquica
+- **Inmune** al sueño impuesto, al encanto y a la presa del agua y el hielo
 - **Hechizos clericales de Kauket** disponibles
-- **Footman's mace +1/+2**
-- **Possibly amulet of natural armor**
+- **Maza de armas encantada**
+- **Posible amuleto de piel-coraza**
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Court_of_Troll_Thegn|L7]] — su nivel
-- **Upper Temple (7-78 a 7-84)** — sede
+- [[Court_of_Troll_Thegn|Corte del Thegn]] — su nivel
+- **Upper Temple** — sede
 - [[Heqeti]] — su pueblo
 - [[Reepsiq]] — su superior (Great Tongue)
-- [[Ziggurat_de_Kauket|L10 Ziggurat]] — zigurat mayor
+- [[Ziggurat_de_Kauket|Ziggurat de Kauket Ziggurat]] — zigurat mayor
 - [[Kauket]] — divinidad patrona
 - [[Varumani]] (vencidos) — antiguo opositor regional
 - [[Papa_Alejandro_Sixto]] — autoridad post-hiato (alianza o conflicto)

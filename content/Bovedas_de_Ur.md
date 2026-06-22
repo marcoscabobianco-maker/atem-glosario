@@ -14,13 +14,13 @@ aliases:
 
 **Tipo:** Bóvedas mágicas extraplanares.
 
-**Descripción:** Sistema de 7 bóvedas replicantes, cada una con 8 Portales. Geometría mágica compleja. Guardias internos ("celadones"). Magia de preservación especial.
+**Descripción:** [[Lords_of_Creation_Sistema_TNW|Sistema]] de 7 bóvedas replicantes, cada una con 8 Portales. Geometría mágica compleja. Guardias internos ("celadones"). Magia de preservación especial.
 
 **Ubicación:** Plano de Ur (ubicación exacta desconocida, contacto vía gigantes).
 
 **Propósito:** Almacenamiento permanente de reliquias del [[Temple_complejo_TE|Temple]] (astilla de Veracruz, fragmento de madera con pentáculo, libro azul, huevo infernal, etc.).
 
-**Protocolo de acceso:** Restringido. Requiere conocimiento de Portal específico. Solo ciertos miembros autorizados pueden acceder.
+**[[Protocolo_de_acceso]]:** Restringido. Requiere conocimiento de Portal específico. Solo ciertos miembros autorizados pueden acceder.
 
 **Implicación narrativa:** Reliquias fuera del alcance del [[Temple_complejo_TE|Temple]] (seguridad máxima) pero también fuera de control directo del grupo.
 

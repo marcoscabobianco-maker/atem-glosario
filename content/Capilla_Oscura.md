@@ -31,15 +31,15 @@ imagen: null
 ---
 # La Capilla Oscura
 
-> *"Hay catedrales que arden por accidente, hay catedrales que caen por designio, y hay catedrales que se cierran sin caer. La Capilla Oscura es de las terceras: sus muros se conservan, pero la liturgia se ha vuelto eco. Quien entra escucha lo que ningún oficio actual canta."* — del *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de Narsileon.
+> *"Hay catedrales que arden por accidente, hay catedrales que caen por designio, y hay catedrales que se cierran sin caer. La Capilla Oscura es de las terceras: sus muros se conservan, pero la liturgia se ha vuelto eco. Quien entra escucha lo que ningún oficio actual canta."* — del *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de [[Narsileon]].
 
 ---
 
 ## La geografía
 
-**La Capilla Oscura** —*"Capilla Oculta"* en algunos registros apócrifos, *"Catedral Oscura"* en boca popular cuando se quiere resaltar su escala arquitectónica, *"Capilla del Cronomante"* entre los archiveros que conocen la operación de **Pablo el Cronomante***— **es estructura sagrada de Calderocuyas naves y cripta** *fueron consagradas en la fase de forja cosmológica de la ciudad*, *anterior al cómputo conocido*. **Hoy permanece como nodo prohibido en la historia de Caldero**, *testimonio de un choque entre fuerzas que trascienden la mera magia y se adentran en los misterios del tiempo y la voluntad de los seres infernales*.
+**La Capilla Oscura** —*"Capilla Oculta"* en algunos registros apócrifos, *"Catedral [[Reina_Oscura|Oscura]]"* en boca popular cuando se quiere resaltar su escala arquitectónica, *"Capilla del Cronomante"* entre los archiveros que conocen la operación de **[[Pablo_el_Cronomante]]***— **es estructura sagrada de Calderocuyas naves y cripta** *fueron consagradas en la fase de forja cosmológica de la ciudad*, *anterior al cómputo conocido*. **Hoy permanece como nodo prohibido en la historia de [[Caldero]]**, *testimonio de un choque entre fuerzas que trascienden la mera magia y se adentran en los misterios del tiempo y la voluntad de los seres infernales*.
 
-*Su sede física es subterránea o semi-subterránea*: **bajo el cráter del volcán dormido sobre el que Caldero se asienta**, *en sub-estructura que las redes habituales de túneles caldera no conectan directamente*. **La entrada principal** —*cuando se abre*— **conduce a nave abovedada con vitrales que conservan diagramas alquímicos**, *cripta inferior con altar pétreo*, *pasajes laterales hacia el corazón del volcán*. **Las noches de luna oscura**, *el lugar experimenta anomalías documentadas por cronistas que se han atrevido a las cercanías*: *susurros, símbolos arcanos grabados a fuego en la piedra, ecos de cánticos cuya lengua nadie ya entiende*.
+*Su sede física es subterránea o semi-subterránea*: **bajo el cráter del volcán dormido sobre el que [[Caldero]] se asienta**, *en sub-estructura que las redes habituales de túneles caldera no conectan directamente*. **La entrada principal** —*cuando se abre*— **conduce a nave abovedada con vitrales que conservan diagramas alquímicos**, *cripta inferior con altar pétreo*, *pasajes laterales hacia el corazón del volcán*. **Las noches de luna oscura**, *el lugar experimenta anomalías documentadas por cronistas que se han atrevido a las cercanías*: *susurros, símbolos arcanos grabados a fuego en la piedra, ecos de cánticos cuya lengua nadie ya entiende*.
 
 ---
 
@@ -57,7 +57,7 @@ En la época en que **Caldero comenzaba a forjar su fama de ciudad de convergenc
 
 ### El rito
 
-**La leyenda dice que, en la nave principal de la Capilla Oscura**, *los diablos, Pablo el Cronomante y un puñado de iniciados protagonizaron un rito de "Reconexión Sagrada"*: **un intento de anclar las líneas temporales a una sola verdad**. **El conflicto estalló** cuando *los Templarios encendieron grandes antorchas para consumar su ritual de purificación, alterando la atmósfera de la capilla y obligando a los embajadores infernales a retroceder a sus dominios*.
+**La leyenda dice que, en la nave principal de la Capilla Oscura**, *los diablos, [[Pablo_el_Cronomante]] y un puñado de iniciados protagonizaron un rito de "Reconexión Sagrada"*: **un intento de anclar las líneas temporales a una sola verdad**. **El conflicto estalló** cuando *los [[Templarios]] encendieron grandes antorchas para consumar su ritual de purificación, alterando la atmósfera de la capilla y obligando a los embajadores infernales a retroceder a sus dominios*.
 
 **Pablo, por su parte, se vio atrapado entre ambos bandos** y *terminó realizando un salto en el tiempo de emergencia, dejando tras de sí un eco resonante que, según los cronistas, aún se percibe en las criptas más profundas*. **La inmolación** —*si ocurrió plenamente*, *si fue un solo paladín o varios*— **se consumó en la cripta inferior**, *según los archivos templarios que conservan registro fragmentario*.
 
@@ -68,7 +68,7 @@ En la época en que **Caldero comenzaba a forjar su fama de ciudad de convergenc
 - **Los embajadores diabólicos retrocedieron**, *sin consolidar el pacto que pretendían*.
 - **La nave principal quedó parcialmente purificada** —*"lo purificó todo", según una versión*— *pero también marcada*: **en la penumbra de sus muros, el recuerdo de aquella reunión funesta aún pervive en forma de susurros y símbolos arcanos grabados a fuego en la piedra**.
 - **Hay quienes afirman** que *el embajador principal de los diablos logró sellar un pacto antes de escapar*, *lo cual explicaría las continuas anomalías que el lugar experimenta durante las noches de luna oscura*.
-- **Otros aseguran** que *el sacrificio de los Templarios lo purificó todo*, *y las anomalías son sólo ecos sin operación activa*.
+- **Otros aseguran** que *el sacrificio de los [[Templarios]] lo purificó todo*, *y las anomalías son sólo ecos sin operación activa*.
 
 *El archivo conserva las dos lecturas*. **El cronista no se pronuncia**.
 
@@ -76,21 +76,21 @@ En la época en que **Caldero comenzaba a forjar su fama de ciudad de convergenc
 
 ## El eco operativo con la destrucción de Notre Dame
 
-**La Capilla Oscura no opera aislada en el cosmos extendido**. *Es parte de un **patrón mayor**: **el ritual cosmológico de los Reguladores y Templarios del Tiempo** que sellan ciclos demoníacos mediante **inmolación de uno de los suyos**.
+**La Capilla Oscura no opera aislada en el cosmos extendido**. *Es parte de un **patrón mayor**: **el ritual cosmológico de los Reguladores y [[Templarios_del_Tiempo]]** que sellan ciclos demoníacos mediante **inmolación de uno de los suyos**.
 
 **Eco mayor**: la **[[Destruccion_de_Notre_Dame|destrucción de la Catedral de Notre Dame]]** en geografía parisina. *El paralelo es estructural*:
 
-| Aspecto | Capilla Oscura de Caldero | Notre Dame de París |
+| Aspecto | Capilla Oscura de Caldero | [[Catedral_de_Notre-Dame_PU|Notre Dame]] de París |
 |---|---|---|
-| **Agentes ejecutores** | Reguladores + Templarios del Tiempo | Time Bandits (en parte Reguladores también) + Ärsvan |
+| **Agentes ejecutores** | Reguladores + [[Templarios_del_Tiempo]] | [[Time_Bandits]] (en parte Reguladores también) + Ärsvan |
 | **Operador cronomántico** | Pablo el Cronomante atrapado en el rito | Ärsvan templario operando con la esfera |
-| **Inmolación cosmológica** | Sacrificio de uno de los Templarios para restaurar equilibrio cronológico | Ärsvan toca la esfera de obliteración por Ariadna |
+| **Inmolación cosmológica** | Sacrificio de uno de los Templarios para restaurar equilibrio cronológico | Ärsvan toca la esfera de obliteración por [[Ariadna]] |
 | **Polo doctrinal afectado** | Embajadores diabólicos infernales | Forma negra del Maestre desdoblado + presencia infernal residual |
 | **Resultado** | Capilla sellada como nodo prohibido; ecos perviven | Catedral destruida; Ärsvan al Anti-Inferno; París abierta |
 
-*La estructura* **es la misma operación cosmológica en dos geografías distintas**. **Los Reguladores y Templarios del Tiempo** *operan trans-geográficamente*; *cierran ciclos demoníacos donde el cosmos extendido los exige*; *aceptan inmolación de uno de los suyos como condición estructural del cierre*.
+*La estructura* **es la misma operación cosmológica en dos geografías distintas**. **[[Los_Reguladores]] y Templarios del Tiempo** *operan trans-geográficamente*; *cierran ciclos demoníacos donde el cosmos extendido los exige*; *aceptan inmolación de uno de los suyos como condición estructural del cierre*.
 
-[*El rito de Reconexión Sagrada de Caldero y la detonación de Notre Dame de París no son dos eventos distintos. Son el mismo evento cosmológico operando en dos pliegues geográficos. Quien aprende a leerlos en paralelo, aprende cómo el cosmos extendido se mantiene operativo cuando los polos negativos del cosmos intentan abrir grietas. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*El rito de Reconexión Sagrada de Caldero y la detonación de [[Catedral_de_Notre-Dame_PU|Notre Dame]] de París no son dos eventos distintos. Son el mismo evento cosmológico operando en dos pliegues geográficos. Quien aprende a leerlos en paralelo, aprende cómo el cosmos extendido se mantiene operativo cuando los polos negativos del cosmos intentan abrir grietas. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
@@ -119,9 +119,9 @@ En la época en que **Caldero comenzaba a forjar su fama de ciudad de convergenc
 
 **¿Por qué importa la Capilla Oscura, además de su valor histórico?**
 
-*El cronista decadiano enuncia la respuesta con sequedad*: **la Capilla Oscura es uno de los puntos donde el cosmos extendido **cose** una grieta cosmológica anterior**. *Sin el rito de Reconexión Sagrada que allí ocurrió*, **la presencia infernal residual del subsuelo volcánico de Caldero habría avanzado** —*posiblemente cooptando la Casa Azul de Vala en formación*, *posiblemente abriendo el cosmos a invasión diabólica plena*—.
+*El cronista decadiano enuncia la respuesta con sequedad*: **la Capilla Oscura es uno de los puntos donde el cosmos extendido **cose** una grieta cosmológica anterior**. *Sin el rito de Reconexión Sagrada que allí ocurrió*, **la presencia infernal residual del subsuelo volcánico de Caldero habría avanzado** —*posiblemente cooptando la [[Casa_Azul_de_Vala]] en formación*, *posiblemente abriendo el cosmos a invasión diabólica plena*—.
 
-*Lo que ocurrió en la Capilla* **estabilizó el polo negativo de Caldero** durante siglos. **Permitió que la ciudad creciera** como urbe mágico-industrial sin desplomarse en su propia grieta infernal. **Permitió que el Papa Borg de Caldero, doce años antes del compilado, fuera contenible** —*la Giganta Antigua pudo activarse, los peregrinos pudieron irrumpir, la Espada de Juicio pudo operar*— *porque la grieta mayor estaba sellada por el rito de la Capilla*. *Sin el rito anterior*, **el polo negativo habría tenido entradas múltiples**, *y la contención cosmológica habría fallado*.
+*Lo que ocurrió en la Capilla* **estabilizó el polo negativo de Caldero** durante siglos. **Permitió que la ciudad creciera** como urbe mágico-industrial sin desplomarse en su propia grieta infernal. **Permitió que el [[Papa_Borg_de_Caldero]], doce años antes del compilado, fuera contenible** —*la [[Giganta_Antigua]] pudo activarse, los peregrinos pudieron irrumpir, la [[Espada_de_Juicio]] pudo operar*— *porque la grieta mayor estaba sellada por el rito de la Capilla*. *Sin el rito anterior*, **el polo negativo habría tenido entradas múltiples**, *y la contención cosmológica habría fallado*.
 
 [*La Capilla Oscura es la columna invisible que sostuvo Caldero todos estos siglos. Que esté sellada y casi olvidada por el ciudadano corriente no es accidente; es eficacia: lo que opera sin ser visto opera mejor. —Glosa de [[Arkos]] el archivero del Plata.*]
 
@@ -129,9 +129,9 @@ En la época en que **Caldero comenzaba a forjar su fama de ciudad de convergenc
 
 ## La pregunta abierta del próximo ciclo
 
-¿Se reactivará la Capilla Oscura? *El archivo cosmológico anticipa la posibilidad*. **Los rumores apuntan a un grupo siniestro** —*que el compilado de Mascor Blancarba menciona sin nombrar*— **que opera con marcas y elegidos**, *con el número Trece como cifra relevante*, *con sacrificios planeados*. **Si el grupo siniestro es operación del polo negativo** que busca reabrir la grieta sellada por el rito de Reconexión Sagrada, **la Capilla Oscura volvería a operar como nodo activo**.
+¿Se reactivará la Capilla Oscura? *El archivo cosmológico anticipa la posibilidad*. **Los rumores apuntan a un grupo siniestro** —*que el compilado de [[Mascor_Blancarba]] menciona sin nombrar*— **que opera con marcas y elegidos**, *con el número Trece como cifra relevante*, *con sacrificios planeados*. **Si el grupo siniestro es operación del polo negativo** que busca reabrir la grieta sellada por el rito de Reconexión Sagrada, **la Capilla Oscura volvería a operar como nodo activo**.
 
-*La Jabalina —ocho aventureros que han ascendido socialmente con la promesa de proteger Caldero— es el cuerpo cosmológico cuya operación natural lo llevará tarde o temprano a la Capilla Oscura*. **Ningún miembro la ha penetrado todavía**. **El archivo anticipa que la penetración será evento mayor del próximo ciclo**.
+*[[La_Jabalina]] —ocho aventureros que han ascendido socialmente con la promesa de proteger Caldero— es el cuerpo cosmológico cuya operación natural lo llevará tarde o temprano a la Capilla Oscura*. **Ningún miembro la ha penetrado todavía**. **El archivo anticipa que la penetración será evento mayor del próximo ciclo**.
 
 ---
 
@@ -141,7 +141,7 @@ En la época en que **Caldero comenzaba a forjar su fama de ciudad de convergenc
 - [[Pablo_el_Cronomante]] — figura cronomántica atrapada en el rito
 - [[Pablo_de_Alejandria]] — consolidación cosmológica de la línea Pablo
 - [[Pablo_Viajero_Temporal_Primigenio]] — manifestación primigenia de la línea
-- [[Eisagogika]] — Isagógica de Pablo, infraestructura doctrinal
+- [[Eisagogika]] — [[Eisagogika|Isagógica]] de Pablo, infraestructura doctrinal
 - [[Los_Reguladores]] — brazo clandestino de la justicia temporal
 - [[Templarios_del_Tiempo]] — paladines del equilibrio cronológico
 - [[Destruccion_de_Notre_Dame]] — eco operativo en geografía parisina
@@ -152,7 +152,7 @@ En la época en que **Caldero comenzaba a forjar su fama de ciudad de convergenc
 - [[La_Jabalina]] — grupo cuya operación los llevará a penetrar la Capilla en el próximo ciclo
 - [[Giganta_Antigua]] — contención cosmológica del polo negativo en Caldero
 - **Embajada de los Diablos** — operación infernal sellada por el rito
-- **Mascor Blancarba** — cronista del compilado de Caldero que registra el mito de la Capilla
+- **[[Mascor_Blancarba]]** — cronista del compilado de Caldero que registra el mito de la Capilla
 
 ## Apariciones
 
@@ -160,8 +160,8 @@ En la época en que **Caldero comenzaba a forjar su fama de ciudad de convergenc
 - **Época de las convergencias mágicas tempranas** — atracción de la embajada diabólica
 - **Aparición de Pablo el Cronomante** — viajero del tiempo cuyas artes interesan a los diablos
 - **Rito de Reconexión Sagrada** — intervención de Reguladores y Templarios del Tiempo; inmolación cosmológica; sellado parcial
-- **Salto temporal de emergencia de Pablo** — eco resonante en las criptas
+- **[[Sarajevo_1914_Salto_Temporal|Salto temporal]] de emergencia de Pablo** — eco resonante en las criptas
 - **Siglos posteriores** — Capilla sellada como nodo prohibido; aparato eclesial caldera la observa sin penetrarla
-- **~1812 AE — Aplastamiento del Papa Borg de Caldero** — la contención cosmológica de la Giganta opera con éxito porque la grieta mayor ya estaba sellada por el rito de la Capilla
+- **~1812 AE — Aplastamiento del [[Papa_Borg_de_Caldero]]** — la contención cosmológica de la Giganta opera con éxito porque la grieta mayor ya estaba sellada por el rito de la Capilla
 - **1824 AE — Ciclo presente** — anomalías nocturnas continuadas; rumores de grupo siniestro con marcas y elegidos
-- **Próximo ciclo** — penetración anticipada por La Jabalina; posible reactivación de la Capilla como nodo activo
+- **Próximo ciclo** — penetración anticipada por [[La_Jabalina]]; posible reactivación de la Capilla como nodo activo

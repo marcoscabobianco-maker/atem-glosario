@@ -12,8 +12,8 @@ aliases:
 ## Presentación
 
 **Tabla de participantes:**
-- Asalto inicial al Temple: Guido presente, otros compañeros llegan en cadencia variable
-- Primera incursión al Laberinto Omniporal: [[Arsvan|Ärsvan]], [[Michel|Michel]], "Lirio" probable, +2 no confirmados
+- Asalto inicial al [[Temple_complejo_TE|Temple]]: Guido presente, otros compañeros llegan en cadencia variable
+- Primera incursión al [[Laberinto_Omniporal]]: [[Arsvan|Ärsvan]], [[Michel|Michel]], "Lirio" probable, +2 no confirmados
 
 **Dinámica del grupo:**
 - Coordinación: Lirio + [[Arsvan|Ärsvan]] dominan el rol ofensivo; [[Alexio]] + Reynó dan soporte; [[Michelle]] hace daño especial.

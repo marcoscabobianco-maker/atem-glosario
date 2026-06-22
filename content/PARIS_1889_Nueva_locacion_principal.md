@@ -1,10 +1,10 @@
 ---
 categoria: lugar
 aliases:
- - "PARÍS 1889 (Nueva locación principal)"
+ - "PARÍS 1889"
 ---
 
-# PARÍS 1889 (Nueva locación principal)
+# París 1889
 
 ## Presentación
 
@@ -23,9 +23,9 @@ aliases:
  - **Vías de tren:** Infraestructura industrial; no plenamente explorada
 
 **Estado demoníaco:**
- - "Ejército invisible" (Orador 5: "Los mapas")
+ - "Ejército invisible" ("Los mapas")
  - Persecución continua del grupo ("espiral descendente")
  - Tropas de diablos controlando ciudad
- - Conexión Baphomet: "Máquina de Bafometo" produciendo pasta/droga demoniaca
+ - Conexión [[Baphomet]]: "Máquina de Bafometo" produciendo pasta/droga demoniaca
 
 **Nota histórica:** Parecido estructural a [[Sigil]] (Planescape) — ciudad neutral/extraplanar pero aquí demoníaca controlada. Posible nexo futuro del ciclo troncal ("[[NEO-PARIS_Ciudad_de_los_Tiempos|Ciudad de los Tiempos]]").

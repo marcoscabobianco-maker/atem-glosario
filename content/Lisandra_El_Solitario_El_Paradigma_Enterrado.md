@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-- **Rol:** Entidad/Persona enterrada en tabernáculo; edad 17+22 años (conflicto)
+- **Rol:** [[Entidad]]/Persona enterrada en tabernáculo; edad 17+22 años (conflicto)
 - **Identidad:** Posible paralelismo con [[Maristo]]; "maestro y alumno, padre e hijo"
 - **Mención de:** Sepultura de Cosmos; símbolos relacionados a religión templaria
 - **Concepto:** "Sol Invicto" (representación cósmica)
@@ -26,4 +26,4 @@ aliases:
 
 ## Ver también
 
-- [[Mencion_de|Mención de]]
+- Mención de

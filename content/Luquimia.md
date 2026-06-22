@@ -15,7 +15,7 @@ tags:
 
 # Luquimia
 
-> *Tullida con ojos de medusa. Nativa de Limbo. Una de las cuatro miembros principales del grupo de Las Tullidas.*
+> *Tullida con ojos de medusa. Nativa de Limbo. Una de las cuatro miembros principales del grupo de [[Las_Tullidas]].*
 
 ## Presentación
 
@@ -23,16 +23,16 @@ tags:
 
 ### Nativa de Limbo
 
-Su origen es **[[Limbo]]** —el plano del caos puro de Planescape, donde la materia y la forma son maleables por voluntad—. Esto la convierte en **figura del caos** dentro del grupo, complemento de las otras tres (la mujer dragón Chan, la drow Liddha, la aristocrata Mónaco). En Limbo nada es estable; Luquimia trae esa inestabilidad al grupo como herencia natal.
+Su origen es **[[Limbo]]** —el plano del caos puro de Planescape, donde la materia y la forma son maleables por voluntad—. Esto la convierte en **figura del caos** dentro del grupo, complemento de las otras tres (la mujer dragón Chan, la drow [[Liddha]], la aristocrata [[Monaco|Mónaco]]). En Limbo nada es estable; Luquimia trae esa inestabilidad al grupo como herencia natal.
 
 ### Arco
 
 Sigue el arco general de [[Las_Tullidas]]:
 - **Liberación** tras la victoria en combate de arena contra Papi Balor
 - **Biblioteca de los Espejos** — uno de los viajes posteriores
-- **Derrota de Moloch en Baator** vía [[Escalera_Infinita]]
+- **Derrota de Moloch en [[Baator]]** vía [[Escalera_Infinita]]
 - **Toma de la [[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]]** como base operativa
-- **Destrucción de la Taberna** por la Marcha de los Modrons
+- **Destrucción de la [[La_Ballena_Blanca_Taberna|Taberna]]** por la [[Marcha_de_los_Modrones]]
 - **Última misión documentada**: enviada por [[Grazzt|Graz'zt]] a los Pozos de la Araña Demonio a recuperar el [[Amuleto_de_los_Planos]]
 - **Arco del [[Senor_del_Orden_Primos|Señor del Orden]]** — agente recabadora de información
 
@@ -45,11 +45,11 @@ Sigue el arco general de [[Las_Tullidas]]:
 - [[Hannok]] — compañero del grupo
 - Papi [[Balor]] — torturador / progenitor mágico
 - [[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]] — base operativa
-- [[Marcha_de_los_Modrons]] — destrucción de la Taberna
+- [[Marcha_de_los_Modrons]] — destrucción de la [[La_Ballena_Blanca_Taberna|Taberna]]
 - [[Grazzt|Graz'zt]] — empleador en la última misión documentada
 - [[Amuleto_de_los_Planos]] — objetivo de la última misión
 
 ## Apariciones
 
-- Taller de Rol — narrativa primaria de Las Tullidas
-- Arco del Amuleto de los Planos / Supremos — agente recabadora
+- Taller de Rol — narrativa primaria de [[Las_Tullidas]]
+- Arco del [[Amuleto_de_los_Planos]] / Supremos — agente recabadora

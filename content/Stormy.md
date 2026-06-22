@@ -20,7 +20,7 @@ aliases:
 
 Músico blusero, negro, afectado por hierbas y alcohol del sur. Toca blues en la audiencia con el [[Cakravartin]]: canción "Nacido bajo un signo malo". El [[Cakravartin]] frunce el ceño y amenaza con incendiar su guitarra vía [[Bronzo]].
 
-Muere en sesión. Después de su muerte, llega un nuevo compañero al grupo.
+Muere en jornada. Después de su muerte, llega un nuevo compañero al grupo.
 
 ## Notas
 

@@ -1,43 +1,20 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/El_Jardinero_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["El Jardinero"]
 ---
 
 # El Jardinero
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/El_Jardinero_retrato.png`
-> **Prompt sugerido:** Ilustración de El Jardinero. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[El_Jardinero_retrato.png]]
+Anciano de palacio cuya presencia recorre el arco final de Vala desde la [[Torre_Ob_Caligni_Caligni|Torre Ob Caligni]] hasta la reunión con el Rey en [[Uruk_(capital)_y_Casa_Azul|Uruk]]. No se le conoce nombre propio: el título es el único que los registros conservan. Quienes lo vieron señalaron en él las virtudes que hacen a un buen gobernante, aunque nunca gobernó — o al menos no en la forma reconocida por las ciudades. Su figura evoca el motivo del paraíso amurallado: el primer jardín y la primera ciudad como una sola cosa, el soberano que cuida en lugar de ordenar.
 
+El Jardinero reclutó a los [[Wordbreakers]] para una misión que él mismo describía con franqueza doble: eran sus elegidos, pero también su carne al matadero. Esa ambivalencia no era crueldad sino precisión: sabía que lo que necesitaba sólo podían darlo quienes estuvieran dispuestos a ser consumidos por ello. Su agencia, en todo lo que los archivos permiten reconstruir, fue benévola.
 
-**Acción:** Crear.
+Se lo asocia con historias anteriores que los registros ordinarios no conservaron — ciclos perdidos del mundo que él parecía recordar como propios. El cronista lo ha registrado como manifestación local del [[Cakravartin]]: el soberano cósmico en su forma más antigua y humilde, antes de que la rueda girara hasta hacerlo reconocible. Posiblemente padre del [[Principe_Debo]], aunque esa línea sucesoria nunca se declaró abiertamente.
 
-## Capa juego
-
-NPC. Anciano sabio del palacio (¿de Uruk?, ¿de Nesut Biti?). Texto del Master: "alguien que parecía tener las virtudes que hacen a un buen gobernante" — figura del rey-jardín, evocación explícita del **paraíso amurallado como primer jardín y primera ciudad**. Vinculado al motivo del **[[Chakravartin]]** ("estaba en el centro de la rueda", aunque "él no era todavía eso").
-
-Posible padre biológico del Príncipe Debo (línea sucesoria oculta — ver entrada Príncipe Debo).
-
-"Necesitaba realmente ayuda" — el Jardinero recluta a los Wordbreakers como sus elegidos / sacrificios / héroes ("carne al matadero pero también elegidos"). Recurrente en sesiones del arco final (torre Ob Caligni, vuelta a Uruk, reunión con el Rey).
-
-Asociado a "historias anteriores que se perdieron de los registros acállicos" corregir por "akashicos" — figura de eterno retorno, posible avatar de un ente trans-campaña.
-
-## Conexión trans-campaña — observación
-
-La figura del Jardinero como avatar latente del Chakravartin es consistente con la cosmología MC. La entrada `GLOSARIO_backup_20260507_001717_pre_chakravartin.md` en ATEM indica que Chakravartin ya está siendo desarrollado en el archivo (revisar la entrada actual antes de mergear). El Jardinero VALA podría ser la **forma local/temprana del Chakravartin** en el sustrato Bala, corregir por "Vala".
-
-## Ref. transcripts
-
-rol_wordbreaker_contra_ob_calignintorre (20); rol_wordbreaker_reunión_rey_mediodia_y_sust (20); reintro_sven_cocinero_real_pj_rodri (15); rol_vala_vuelta_a_uruk_2 (15).
-
-## Preguntas
-
-1. ¿El Jardinero tiene nombre propio en cuadernos o es solo título? no tiene
-2. ¿Es avatar local del Chakravartin o figura separada con resonancia? es el Cakravartin
-3. ¿Su agencia es benévola o instrumental? benévola
-
+## Vínculos
+- [[Cakravartin]] — identidad profunda del Jardinero; su forma en Vala antes de la rueda completa
+- [[Wordbreakers]] — el grupo que reclutó para el arco final
+- [[Torre_Ob_Caligni_Caligni|Torre Ob Caligni]] — uno de los escenarios de su acción
+- [[Uruk_(capital)_y_Casa_Azul|Uruk]] — ciudad a la que el arco final regresa bajo su guía
+- [[Principe_Debo]] — posible hijo en línea sucesoria oculta

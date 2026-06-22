@@ -19,4 +19,4 @@ París (modificaciones urbanas, 1850s). [[Time_Capsules|Time Capsules]] (excavac
 
 ## Notas
 
-Figura histórica de París moderna (posiblemente inspirada en Haussmann, aunque con nombre distinto). Su hija es [[Stella]] (nereida/Chica Calendario).
+Figura histórica de París moderna (posiblemente inspirada en Haussmann, aunque con nombre distinto). Su hija es [[Stella]] (nereida/Chica [[Calendario]]).

@@ -17,9 +17,9 @@ aliases:
 
 ## Presentación
 
-Interior del [[Faro-Monolito_El_Faro|Faro-Monolito]] de la [[Isla_de_la_Serpiente|Isla de la Serpiente]], explorado con más detalle en el archivo. Además de la sala del [[Circulo_Simultaneo|Círculo Simultáneo]] (piso superior, esta sesión y posteriores), el grupo descubre pisos inferiores con:
+Interior del [[Faro-Monolito_El_Faro|Faro-Monolito]] de la [[Isla_de_la_Serpiente|Isla de la Serpiente]], explorado con más detalle en el archivo. Además de la sala del [[Circulo_Simultaneo|Círculo Simultáneo]] (piso superior, esta jornada y posteriores), el grupo descubre pisos inferiores con:
 
-**Sala de control:**
+**[[Sala_de_control]]:**
 - Paneles grandes con tuberías y controles de estética sci-fi/dieselpunk
 - Maquinaria de comunicación (cristales, telegrafía mágica)
 - Cámaras de documentación
@@ -32,7 +32,7 @@ Interior del [[Faro-Monolito_El_Faro|Faro-Monolito]] de la [[Isla_de_la_Serpient
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] (exploración post-[[Sarajevo_1914_Ucronica|Sarajevo]]). Sesiones 7-8 (exterior, [[Circulo_Simultaneo|Círculo Simultáneo]]).
+[[Paris_Ucronica|París Ucrónica]] (exploración post-[[Sarajevo_1914_Ucronica|Sarajevo]]). Jornadas 7-8 (exterior, [[Circulo_Simultaneo|Círculo Simultáneo]]).
 
 ## Notas
 

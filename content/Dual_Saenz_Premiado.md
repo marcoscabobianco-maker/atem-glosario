@@ -6,7 +6,6 @@ tags:
  - "cheroqui"
  - "clérigo"
  - "milagros"
- - "juli"
 aliases:
  - "Dual / Sáenz Premiado"
  - "Dual"
@@ -21,7 +20,9 @@ aliases:
 
 ## Presentación
 
-Español andaluz devenido cheroqui adoptado. De niño realizó milagros (creación de agua, multiplicación de comida). Curó la ceguera de un líder cheroqui, se casó con su hija. Mujer es líder matrilineal del clan. ~40 años, "quartermaster" — provee comida/agua por milagros. Diplomático hábil (tiradas 26+), inicia el parley crucial con el Capitán del [[Flying_Dutchman_Holandes_Errante|Holandés Errante]] en [[Abordaje_del_Holandes_en_la_Luna_NC14|NC14]] — sin su intervención, el abordaje habría terminado en masacre. Porta estoque español y armadura de cuero multiplacas. Ofrece pipa de la paz y rosario al minotauro.
+> *No confundir con la [[Magia_dual|Magia Dual]] — el fuego cosmológico robado por Paulus al panteón. Dual es un compañero de la Corona del Norte que lleva ese nombre.*
+
+Español andaluz devenido cheroqui adoptado. De niño realizó milagros (creación de agua, multiplicación de comida). Curó la ceguera de un líder cheroqui, se casó con su hija. Mujer es líder matrilineal del clan. ~40 años, "quartermaster" — provee comida/agua por milagros. Diplomático hábil — de los que destraban negociaciones imposibles —, inicia el parley crucial con el Capitán del [[Flying_Dutchman_Holandes_Errante|Holandés Errante]] en [[Abordaje_del_Holandes_en_la_Luna_NC14|NC14]] — sin su intervención, el abordaje habría terminado en masacre. Porta estoque español y armadura de cuero multiplacas. Ofrece pipa de la paz y rosario al minotauro.
 *Apariciones:* [[Abordaje_del_Holandes_en_la_Luna_NC14|NC14]] (grupo principal)
 *Conexiones:* Capitán del Holandés, minotauros, [[Medawin_Medawaywin|Medawin]]
 

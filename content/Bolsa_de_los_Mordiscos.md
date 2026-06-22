@@ -11,10 +11,10 @@ aliases:
 
 ## Presentación
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.
 
 ### el plano operativo
 
 Recipiente mágico usado para preservar el cuerpo de [[Stormy]] tras su muerte. Permite conservación del cadáver en espera de posible resurrección.
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.

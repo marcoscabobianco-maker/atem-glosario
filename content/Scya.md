@@ -23,15 +23,15 @@ tags:
 ---
 # Scya
 
-> *El monstruo femenino entre lobos de la Galia Narbonensis. Maldición griega traída por los Inevitables sobre los atlantes. No es la Scilla del compañero.*
+> *El monstruo femenino entre lobos de la [[Galia_Narbonensis]]. [[Golden_Bones_Maldicion|Maldición]] griega traída por los Inevitables sobre los atlantes. No es la [[Scilla]] del compañero.*
 
 ## Presentación
 
-**Scya** es **el monstruo femenino del mito griego adaptado a la costa de la [[Galia_Narbonensis|Galia Narbonensis]]** —la mujer entre lobos que los Reguladores encontraron al desembarcar con los 300 atlantes en la costa francesa, post-21 de diciembre de 1889—. Su nombre **se escribe Scya** (sin Y al final, sin segunda L), **distinto de Scilla** —que es nombre de compañero 
+**Scya** es **el monstruo femenino del mito griego adaptado a la costa de la [[Galia_Narbonensis|Galia Narbonensis]]** —la mujer entre lobos que los Reguladores encontraron al desembarcar con los 300 atlantes en la costa francesa, post-21 de diciembre de 1889—. Su nombre **se escribe Scya** (sin Y al final, sin segunda L), **distinto de [[Scilla]]** —que es nombre de compañero 
 
 ### La maldición griega
 
-La aparición de Scya no es accidente del territorio: es **maldición desplegada**. Los **Inevitables** —espíritus mecánicos del orden cósmico— activaron la maldición griega sobre los descendientes de los atlantes en castigo por **lo que hace 9000 años los atlantes intentaron hacer cuando quisieron esclavizar el Mediterráneo**. *"Ya no son más como niños"*, decía un sacerdote egipcio en el *Timeo* de Platón —y los Inevitables vienen como representantes de aquella memoria griega vengativa—. Scya es la cara de esa maldición.
+La aparición de Scya no es accidente del territorio: es **maldición desplegada**. Los **Inevitables** —espíritus mecánicos del orden cósmico— activaron la maldición griega sobre los descendientes de los atlantes en castigo por **lo que hace 9000 años los atlantes intentaron hacer cuando quisieron esclavizar el [[Mediterraneo_Ucronico|Mediterráneo]]**. *"Ya no son más como niños"*, decía un sacerdote egipcio en el *Timeo* de Platón —y los Inevitables vienen como representantes de aquella memoria griega vengativa—. Scya es la cara de esa maldición.
 
 ### La forma: mujer acostada entre lobos
 
@@ -39,7 +39,7 @@ La fórmula exacta del archivo es **"una mujer acostada entre lobos"**. Scya se 
 
 ### La derrota y los estandartes de lobo
 
-Los Reguladores vencen a Scya. La derrota deja al grupo con **trofeo simbólico**: **los estandartes de lobo** ganados a la vencida —plantados después de la batalla como bandera de los héroes—. El lobo de la Galia, una vez vencida la maldición, cambia de bando: deja de ser emblema del territorio hostil y pasa a ser el de los recién llegados.
+[[Los_Reguladores]] vencen a Scya. La derrota deja al grupo con **trofeo simbólico**: **los estandartes de lobo** ganados a la vencida —plantados después de la batalla como bandera de los héroes—. El lobo de la Galia, una vez vencida la maldición, cambia de bando: deja de ser emblema del territorio hostil y pasa a ser el de los recién llegados.
 
 ## Vínculos
 
@@ -51,10 +51,10 @@ Los Reguladores vencen a Scya. La derrota deja al grupo con **trofeo simbólico*
 - **Lupus** — el lobo como emblema de la Galia
 - **Caribdis** — su par mitológico que aparece por detrás
 - **Atlantida** — los descendientes castigados por la maldición
-- *Timeo* de Platón — referencia clásica de la memoria egipcia sobre la Atlántida
+- *Timeo* de Platón — referencia clásica de la memoria egipcia sobre la [[Atlantida_Alta_y_Baja|Atlántida]]
 
 ## Apariciones
 
-- Post-21 diciembre 1889 — desembarco de los Reguladores y los 300 atlantes en la Galia Narbonensis
+- Post-21 diciembre 1889 — desembarco de los Reguladores y los 300 atlantes en la [[Galia_Narbonensis]]
 - Aparición de Scya como maldición de los Inevitables — derrota por los Reguladores
 - Estandartes de lobo ganados — usados después en la hilera de batallas hacia París

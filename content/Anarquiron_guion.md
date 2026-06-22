@@ -30,4 +30,4 @@ El guión cubre desde el rescate fallido de [[Miguelito]] (España, 1888 [[Anno_
 
 ## Notas
 
-Elaboración literaria con distancia irónica, no registro directo de sesión. Los nombres de personajes corresponden a los usados en mesa (confirmado). cronista de la época: el. toma la dirección recién en la época de [[Atlantida_Alta_y_Baja|Atlántida]] / [[Cakravartin]].
+Elaboración literaria con distancia irónica, no registro directo de jornada. Los nombres de personajes corresponden a los usados en mesa (confirmado). cronista de la época: el. toma la dirección recién en la época de [[Atlantida_Alta_y_Baja|Atlántida]] / [[Cakravartin]].

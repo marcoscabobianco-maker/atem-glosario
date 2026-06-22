@@ -38,22 +38,22 @@ El artefacto opera con la lógica **puerta-llave**: hay una puerta (Amuleto) y u
 
 ### La muerte del Señor del Orden
 
-El final del plan de Primos: *"fue muerto por en el Rex"* (Néorex / Graz'zt). El dios del orden cae **antes de ejecutar su plan**, dejando el Amuleto fuera de su alcance y a sus Modrons sin la dirección desordenada que iba a recibir. La Marcha de los Modrons continuó después por inercia.
+El final del plan de [[Senor_del_Orden_Primos|Primos]]: *"fue muerto por el Rex"* ([[Grazzt|Néorex]] / [[Grazzt|Graz'zt]]). El dios del orden cae **antes de ejecutar su plan**, dejando el Amuleto fuera de su alcance y a sus Modrons sin la dirección desordenada que iba a recibir. La [[Marcha_de_los_Modrones]] continuó después por inercia.
 
 ### Pendiente: ¿quién tiene el Amuleto?
 
-El destino actual del Amuleto **queda abierto**. Las Tullidas siguen siendo agentes activas (en distintos arcos), Graz'zt mantiene interés, la llave probablemente sigue en el abismo de la diosa de los dragones. El estatus exacto del artefacto al cierre del ciclo de Los Supremos: pendiente.
+El destino actual del Amuleto **queda abierto**. [[Las_Tullidas]] siguen siendo agentes activas (en distintos arcos), Graz'zt mantiene interés, la llave probablemente sigue en el abismo de la diosa de los dragones. El estatus exacto del artefacto al cierre del ciclo de [[Los_Supremos]]: pendiente.
 
 ## Vínculos
 
 - [[Las_Tullidas]] — agentes recabadoras de información, enviadas por Graz'zt a los Pozos de la Araña Demonio
-- [[Senor_del_Orden_Primos|Señor del Orden / Primos]] — organizador del plan, muerto por en el Rex antes de ejecutarlo
-- [[Mechanus]] — plano del orden donde Primos planea sacar a los Modrons
+- [[Senor_del_Orden_Primos|Señor del Orden / Primos]] — organizador del plan, muerto por el Rex antes de ejecutarlo
+- [[Mechanus]] — plano del orden donde [[Senor_del_Orden_Primos|Primos]] planea sacar a los Modrons
 - [[Marcha_de_los_Modrons]] — procesión que Primos quería redirigir
 - [[Arian]] — nombrado por el señor de la mano de plomo en el contexto del arco
 - **Señor de la Mano de Plomo** — dios protector enemigo de la dualidad
 - **Grieta Dual** — origen del problema del Amuleto (la llave cayó del otro lado)
-- **Abismo** — lugar donde está la llave
+- **[[Abismo]]** — lugar donde está la llave
 - **Diosa de los Dragones** — habitante del abismo (probable [[Avishai_draconicos_Tiamat|Tiamat]])
 - [[Grazzt|Graz'zt]] / Néorex — interesado en el Amuleto; mató al Señor del Orden
 - [[Pozos_de_la_Arana_Demonio|Pozos de la Araña Demonio]] — destino de la última misión documentada
@@ -65,6 +65,6 @@ El destino actual del Amuleto **queda abierto**. Las Tullidas siguen siendo agen
 - Grieta Dual primordial — origen del problema (llave arrojada al otro lado)
 - "Otras oportunidades" — búsquedas anteriores (no detalladas)
 - Arco del Señor del Orden — plan de redirigir a los Modrons
-- Las Tullidas como agentes — misión de información
+- [[Las_Tullidas]] como agentes — misión de información
 - Pozos de la Araña Demonio — destino de la última misión documentada
 - Mención en `Supremos.docx` como cabo abierto del Triunvirato

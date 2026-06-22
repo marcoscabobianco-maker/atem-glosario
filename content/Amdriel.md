@@ -22,7 +22,7 @@ epoca: "Edad de los Reinos Olvidados — una de las 4 A"
 
 Semielfo de temperamento teatral y dramático. Practicante de magia de dagas de luz,
 afinidad marcada con **[[Ariadna_Genoveva|Ariadna]]**. Miembro de las "4 A" bajo **[[Dietrus]]** en **[[Tanastias]]**.
-Participa en misión de rescate de reliquias de Delgrante como parte del equipo inicial
+Participa en misión de rescate de reliquias de [[Delgrante]] como parte del equipo inicial
 de iniciados de la **[[Sagrada_Orden|Sagrada Orden]]**.
 
 ## Notas

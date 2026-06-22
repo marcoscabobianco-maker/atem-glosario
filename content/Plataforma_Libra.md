@@ -29,7 +29,7 @@ imagen: Imagenes_Tier1/Plataforma_Libra.png
 
 > *"La balanza no juzga: pesa. La plataforma de Libra es lección de aritmética: lo que se inclina, se inclinó por una razón concreta y verificable."*
 
-**Séptima casa del zodiaco**, sigue a Virgo en el ciclo. **Plataforma flotante de piedra azul pulida** *tallada con el signo de la balanza*; **en su centro, una gran balanza colgante con dos platos vacíos**. *Una figura encapuchada se planta en uno de los platos*, **colocando un único peso pequeño**.
+**Séptima casa del zodiaco**, sigue a Virgo en el ciclo. **[[Aldebaran_Estrella_Plataforma|Plataforma]] flotante de piedra azul pulida** *tallada con el signo de la balanza*; **en su centro, una gran balanza colgante con dos platos vacíos**. *Una figura encapuchada se planta en uno de los platos*, **colocando un único peso pequeño**.
 
 Su columna esencial es **el equilibrio y el juicio aritmético**: *la balanza que pesa sin opinar*, *el platillo que se inclina por la razón concreta del peso*, *la operación cosmológica de la justicia matemática*. **La balanza con tonalidad plateada apagada** *opera con doctrina del polo intermedio*: **ni acumulación ni vacío**, *peso exacto*.
 

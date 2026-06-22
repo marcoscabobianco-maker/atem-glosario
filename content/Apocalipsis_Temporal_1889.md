@@ -46,7 +46,7 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 - **Viajeros dejan de poder reencarnar** — *los ciclos de reencarnación terminan*; *quien estaba en tránsito queda atrapado en el último cuerpo*.
 - **Personas vivas quedan congeladas en estado indefinido** — *"como cerámica"*, anota un cronista anónimo del lugar—; **no hay percepción de tiempo en ese estado**.
 - **Edificios solapados** con sus versiones pasada y futura — la lámina lo recoge.
-- **Relojes girando en ambos sentidos** — el reloj-cuerpo de Kronamon ya no administra.
+- **Relojes girando en ambos sentidos** — el reloj-cuerpo de [[Kronamon]] ya no administra.
 
 **La síntesis doctrinal**: **destrucción del continuum temporal**. *No es muerte de un dios*, **es muerte de la administración del Tiempo**; **el dios cae con el reloj porque era el reloj**.
 
@@ -57,13 +57,13 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 - **[[Kronamon]] / [[Chronomon]]** — *la cadena cronomántica del 1050-1120 desata la implosión*. **El reloj que el dios sostenía dejó de repartir**; *lo que cayó de un lado del vidrio faltaba del otro, y al final faltó del todo*.
 - **El Negro** — *fuerzas demoníacas que aprovechan la pérdida administrativa*.
 - **[[Huevo_Infernal]]** — *encubación de criatura apocalíptica como mecanismo del colapso*.
-- **Paradoja temporal creada por viajeros** — *los Cronoboys y los Time Bandits, al operar fuera de la administración legal del [[Palacio_del_Tiempo]], acumularon paradojas hasta el límite*.
+- **[[Paradoja]] temporal creada por viajeros** — *los [[Cronoboys]] y los [[Time_Bandits]], al operar fuera de la administración legal del [[Palacio_del_Tiempo]], acumularon paradojas hasta el límite*.
 
-**[[Reynaud|Reynaud]] sostiene** —*frase textual conservada por el archivero del Plata*—: **"Dios me abrazó. Nosotros somos indicados."** *Reynaud cree que existe efecto mariposa pero desconoce el factor causal original*; **la misión que el grupo aceptó es "desentrañar los sucesos que llevaron a la destrucción para poder modificarlos o evitarlos"**.
+**[[Michel|Michel]] sostiene** —*frase textual conservada por el archivero del Plata*—: **"Dios me abrazó. Nosotros somos indicados."** *[[Michel]] cree que existe efecto mariposa pero desconoce el factor causal original*; **la misión que el grupo aceptó es "desentrañar los sucesos que llevaron a la destrucción para poder modificarlos o evitarlos"**.
 
 ## La consecuencia
 
-**Tras la implosión, París renace como [[NEO-PARIS_Ciudad_de_los_Tiempos|NEO-PARÍS, Ciudad de los Tiempos]]**: *refundación sobre el sitio del colapso, fuera del tiempo lineal*, **con portales temporales que conectan distintas eras**. **El colapso no es fin absoluto**: *es transición*. **El dios del Tiempo cayó**; **el cosmos siguió contando**, **aunque ya no con la mano de Kronamon-Chronomon**.
+**Tras la implosión, París renace como [[NEO-PARIS_Ciudad_de_los_Tiempos|NEO-PARÍS, Ciudad de los Tiempos]]**: *refundación sobre el sitio del colapso, fuera del tiempo lineal*, **con portales temporales que conectan distintas eras**. **El colapso no es fin absoluto**: *es transición*. **El dios del Tiempo cayó**; **el cosmos siguió contando**, **aunque ya no con la mano de [[Kronamon]]-[[Chronomon]]**.
 
 [*"Hay apocalipsis que terminan el mundo; hay apocalipsis que sólo terminan la administración del mundo. El de 1889 fue del segundo tipo, y por eso costó más entender qué se había acabado." — Glosa del libro V del [[Decadiano]].*]
 
@@ -73,7 +73,7 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 - [[NEO-PARIS_Ciudad_de_los_Tiempos|NEO-PARIS]] — ciudad reconstruida tras la implosión
 - [[Chronomon]] / [[Kronamon]] — entidad cosmológica responsable / sacrificada
 - [[Cronomon_Heredeth|Cronomon Heredeth]] — forma titánica posterior
-- [[Reynaud|Reynaud]] — quien articula la misión grupal de prevención
+- [[Michel|Michel]] — quien articula la misión grupal de prevención
 - [[Cronoboys|Cronoputas]] — figuras que el archivo cataloga como acumulación de paradoja
 - [[Time_Bandits]] — grupo afectado por la cadena cronomántica
 - [[Huevo_Infernal]] — hipótesis del mecanismo
@@ -83,7 +83,7 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 
 - **25 de diciembre de 1889** — el colapso, Nochebuena tardía
 - **Hipótesis de cadena 1050 → 1120 → 1889** — ejecución de Kronamon como antecedente cronomántico
-- **Misión preventiva del grupo de [[Time_Bandits|Time Bandits]] y [[Reynaud|Reynaud]]** — operativa continuada
+- **Misión preventiva del grupo de [[Time_Bandits|Time Bandits]] y [[Michel|Michel]]** — operativa continuada
 - **Refundación como NEO-PARIS** — efecto secundario, ciudad nueva sobre el sitio del colapso
 
 ---
@@ -94,9 +94,9 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 
 **La tensión doctrinal**:
 
-- **Lectura canónica** *(Apocalipsis Temporal 1889 / colapso de Nochebuena)*: el dios del Tiempo cae, el solapamiento de versiones pasada/futura/presente de París Ucrónica precipita el fin. **El evento se consuma**.
+- **Lectura canónica** *(Apocalipsis Temporal 1889 / colapso de Nochebuena)*: el dios del Tiempo cae, el solapamiento de versiones pasada/futura/presente de [[Paris_Ucronica|París Ucrónica]] precipita el fin. **El evento se consuma**.
 - **Lectura inversa** *(noche del sacrificio de Ärsvan)*: el sacrificio opera como freno cosmológico. **El apocalipsis se detiene**, *el mundo se salva*, *la implicación es que el libre albedrío existe y el grupo puede modificar el destino prefigurado*.
 
-*El archivo conserva las dos lecturas como **palimpsesto declarado***: **una no anula a la otra**; *operan en niveles ontológicos distintos*. La doctrina decadiana sugiere que **el apocalipsis se consumó en la línea principal y se invirtió en una línea derivada del sacrificio de Ärsvan**; la doctrina del Coro del Descenso sugiere que **el sacrificio operó retroactivamente sobre la línea principal misma**. *Ninguna de las dos lecturas se cierra*.
+*El archivo conserva las dos lecturas como **palimpsesto declarado***: **una no anula a la otra**; *operan en niveles ontológicos distintos*. La doctrina decadiana sugiere que **el apocalipsis se consumó en la línea principal y se invirtió en una línea derivada del sacrificio de Ärsvan**; la doctrina del [[Anti_Inferno|Coro del Descenso]] sugiere que **el sacrificio operó retroactivamente sobre la línea principal misma**. *Ninguna de las dos lecturas se cierra*.
 
 **Para el lector que quiera operar con una sola versión**: la entrada `APOCALIPSIS_TEMPORAL_INVERTIDA` se ha consolidado aquí; la tensión queda interna al mismo texto, *no en fichas separadas que se contradicen sin diálogo*.

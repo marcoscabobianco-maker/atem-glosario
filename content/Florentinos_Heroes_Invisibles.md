@@ -12,6 +12,8 @@ aliases:
  - "Florentinos / Héroes Invisibles"
  - "Florentinos"
  - "Héroes Invisibles"
+ - "Florenzen"
+ - "FLORENZEN"
  - "La designación Héroes Invisibles es tentativa"
 imagen: Imagenes_Tier1/Florentinos_Heroes_Invisibles.png
 ---
@@ -23,7 +25,7 @@ imagen: Imagenes_Tier1/Florentinos_Heroes_Invisibles.png
 
 > *"Florencia ardía abajo, en el canal; ellos miraban desde la balconada con la calma de los que llevan siglos mirando arder lo que aman."*
 
-**Dos miembros del grupo en balconada gótica florentina**, el **Duomo de Santa María del Fiore** al fondo, **un dragón en el cielo**, **una hoguera sobre el canal** —*la noche en que la ciudad ardió por causas que las crónicas oficiales no acabaron de nombrar*—. La criatura agachada en el agua, hacia la derecha, **es lo que el archivo escrito calla**: ofrece interpretación al lector y, para los Florentinos, se conserva como signo de que **el Infierno había llegado al canal antes que ellos llegaran al balcón**.
+**Dos miembros del grupo en balconada gótica florentina**, el **Duomo de Santa María del Fiore** al fondo, **un dragón en el cielo**, **una hoguera sobre el canal** —*la noche en que la ciudad ardió por causas que las crónicas oficiales no acabaron de nombrar*—. La criatura agachada en el agua, hacia la derecha, **es lo que el archivo escrito calla**: ofrece interpretación al lector y, para los Florentinos, se conserva como signo de que **el [[Infierno]] había llegado al canal antes que ellos llegaran al balcón**.
 
 ## Presentación
 
@@ -33,9 +35,15 @@ documentadas en *Sucesos de [[Antiterra_Demonia|Antiterra]]*:
 
 La **Gesta de 1300 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** ("Gesta de [[Luca_CI|Luca]], Lucio, Fernandín, Niki,
 Varis y Alberich") está guiada por un Dante semiamnésico que los
-conduce al primer portal al Infierno. La lista de miembros —todos con
+conduce al primer portal al [[Infierno]]. La lista de miembros —todos con
 nombres italianos o germánicos— sugiere un encuadre florentino tardo
 medieval o renacentista temprano.
+
+El archivo conserva para este primer ciclo florentino el nombre de
+**Florenzen**. Su gesta culminó con la invasión del plano astral de los
+githyanki: Fernandín cayó; Alberich eligió quedarse en el astral —«es un
+buen día para morir», quedó registrado—; [[Luca_CI|Luca]] siguió camino
+hacia el ciclo de las [[Ciudades_Invisibles|Ciudades Invisibles]].
 
 La **Gesta de 1494–1520 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** ("[[Gran_Khan|Gran Khan]] / Milán") expande el
 alcance geográfico: en las estepas del [[Gran_Khan|Gran Khan]], emisarios descubren

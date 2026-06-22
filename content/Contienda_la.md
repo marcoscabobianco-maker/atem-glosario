@@ -71,7 +71,7 @@ Cinco voces hablaron por las cuatro voluntades. **La aritmética desajusta a pro
 
 **[[Cloeh]]** —por **Kosuth**—. Voz del cosmos sin sujeto, paradoja andante: representa lo que no se deja representar.
 
-**[[Tii_TiiMhut|Tii]]** —por **la Reina Oscura**—. Avatar humano del orden totalitario; viuda de negro que sabía la asamblea por dentro porque su madre cósmica ya había sido decapitada parcial en una ronda anterior. *Tii no estaba allí por accidente. Estaba por experiencia.*
+**[[Tii_TiiMhut|Tii]]** —por **la [[Reina_Oscura]]**—. Avatar humano del orden totalitario; viuda de negro que sabía la asamblea por dentro porque su madre cósmica ya había sido decapitada parcial en una ronda anterior. *Tii no estaba allí por accidente. Estaba por experiencia.*
 
 ---
 
@@ -83,9 +83,9 @@ Sobre las cuatro potencias y los cinco representantes, **tres jueces**. La parid
 
 **Sumo** —*el juez de las medidas*—. Voz de las equivalencias. Si una potencia gana, otra pierde lo equivalente; Sumo verifica.
 
-**[[Grazzt|Graz'zt]]** —*el juez tercero*—. **Aquí el cronista pide pausa.** La presencia de Graz'zt en el tribunal supra-divino es asunto que la doctrina apresurada explica como anomalía y la doctrina paciente como **trampa cosmológica desde la cabecera**.
+**[[Grazzt|Graz'zt]]** —*el juez tercero*—. **Aquí el cronista pide pausa.** La presencia de [[Grazzt|Graz'zt]] en el tribunal supra-divino es asunto que la doctrina apresurada explica como anomalía y la doctrina paciente como **trampa cosmológica desde la cabecera**.
 
-¿Cómo se hizo juez el príncipe del Abismo en un concilio supra-divino que debía dirimir el cosmos? **El archivo no lo dice.** Algunos sostienen que se infiltró; otros, que fue invitado por una de las potencias en calidad de contrapeso; otros, que el cargo le correspondía por antigüedad cosmogónica que las cuatro potencias no se habían atrevido a discutir. *El cronista, prudente, registra las tres hipótesis y no elige.*
+¿Cómo se hizo juez el príncipe del [[Abismo]] en un concilio supra-divino que debía dirimir el cosmos? **El archivo no lo dice.** Algunos sostienen que se infiltró; otros, que fue invitado por una de las potencias en calidad de contrapeso; otros, que el cargo le correspondía por antigüedad cosmogónica que las cuatro potencias no se habían atrevido a discutir. *El cronista, prudente, registra las tres hipótesis y no elige.*
 
 ---
 
@@ -93,11 +93,11 @@ Sobre las cuatro potencias y los cinco representantes, **tres jueces**. La parid
 
 Hubo una **impugnación**. Y la impugnación, *con la elegancia operativa con la que actúan los señores demoníacos cuando ocupan cargos institucionales*, fue **traición**.
 
-Graz'zt impugnó —*el archivo no especifica el procedimiento exacto; conserva el resultado*— y el procedimiento, en virtud de la impugnación, **descarriló**. Las cinco voces, los cuatro tronos, los dos jueces restantes quedaron a merced del descarrilamiento. **El cosmos perdió ritmo.**
+[[Grazzt|Graz'zt]] impugnó —*el archivo no especifica el procedimiento exacto; conserva el resultado*— y el procedimiento, en virtud de la impugnación, **descarriló**. Las cinco voces, los cuatro tronos, los dos jueces restantes quedaron a merced del descarrilamiento. **El cosmos perdió ritmo.**
 
 La consecuencia operativa: **los cinco representantes fueron obligados a vivir aventuras mil años en el pasado**. *No metafóricamente. Mil años contados.* El concilio se interrumpió; los representantes cayeron por la grieta cronomántica; el Multiuniverso entró en pausa que la doctrina decadiana posterior tradujo —*sin acertar del todo*— como *interregno mayor*.
 
-[*La traición de Graz'zt aquí es preludio de su disminución posterior en Antiterra etíope. La cosmología la lee así: el príncipe demoníaco traicionó porque sabía que la disminución venía. Quien se anticipa a la propia caída, gana terreno aunque pierda batalla. —Glosa del [[Arkos|archivero del Plata]], cuaderno cinco.*]
+[*La traición de Graz'zt aquí es preludio de su disminución posterior en [[Antiterra]] etíope. La cosmología la lee así: el príncipe demoníaco traicionó porque sabía que la disminución venía. Quien se anticipa a la propia caída, gana terreno aunque pierda batalla. —Glosa del [[Arkos|archivero del Plata]], cuaderno cinco.*]
 
 ---
 
@@ -105,7 +105,7 @@ La consecuencia operativa: **los cinco representantes fueron obligados a vivir a
 
 Mil años atrás, **los cinco representantes encontraron a un cronista joven**. Era —*el archivo lo confirma con la cautela del que sostiene una identidad cruzada*— **[[Pablo_de_Alejandria|Paulus]] en su forma primera**, el alejandrino que aún no había escrito la *Eisagogiká*, que aún no había muerto la primera vez, que aún no se había hecho cronista del archivo entero.
 
-Y lo encontraron en mal momento: **estaba siendo perseguido por su doble demoníaco**. *El doble se llamaría más tarde [[Marcos_el_Mago|Marcos el Mago]]; el doble después le robaría el Libro Azul; el doble después se haría lich en aquella misma Alejandría que el joven Paulus apenas estaba aprendiendo a habitar.* En aquel momento, el doble era todavía sólo amenaza: ya cargaba el cuerpo de letras que después firmaría sus crímenes.
+Y lo encontraron en mal momento: **estaba siendo perseguido por su doble demoníaco**. *El doble se llamaría más tarde [[Marcos_el_Mago|Marcos el Mago]]; el doble después le robaría el [[Libro_Azul]]; el doble después se haría lich en aquella misma Alejandría que el joven Paulus apenas estaba aprendiendo a habitar.* En aquel momento, el doble era todavía sólo amenaza: ya cargaba el cuerpo de letras que después firmaría sus crímenes.
 
 **Los cinco representantes lo socorrieron.** O acompañaron, según la sutileza con que el archivo distinga. Conocieron al cronista antes de que el cronista supiera que sería cronista. *La asimetría temporal del encuentro es asunto que Paulus mismo no termina de digerir.*
 
@@ -115,13 +115,13 @@ Y lo encontraron en mal momento: **estaba siendo perseguido por su doble demoní
 
 ## El abandono de Tii
 
-Durante el viaje al pasado, **Tii hizo lo que no estaba previsto**: **abandonó el culto a la Reina Oscura**.
+Durante el viaje al pasado, **Tii hizo lo que no estaba previsto**: **abandonó el culto a la [[Reina_Oscura]]**.
 
 La doctrina paciente interpreta el abandono como **conversión**: el avatar, al ver la cara joven de Paulus y la persecución del doble demoníaco, eligió otra ruta. La doctrina apresurada sostiene que fue **traición correspondida**: si Graz'zt traicionó al concilio, Tii traicionó a su madre.
 
 *Las dos cosas pueden ser ciertas. El archivo las anota juntas y no fuerza la conciliación.*
 
-Lo que Tii hizo después de abandonar el culto —tomar el poder en Egipto en 1401 D.R. con Ai como consorte, asesinar al Patriarca, operar como viuda en Waterdeep— **es asunto de su entrada**. La Contienda registra **el momento del abandono**, no sus consecuencias.
+Lo que Tii hizo después de abandonar el culto —tomar el poder en Egipto en 1401 D.R. con Ai como consorte, asesinar al [[Patriarca]], operar como viuda en [[Waterdeep]]— **es asunto de su entrada**. La Contienda registra **el momento del abandono**, no sus consecuencias.
 
 ---
 
@@ -133,7 +133,7 @@ Cuando los héroes terminaron sus aventuras milenarias y **regresaron al present
 
 La consecuencia: **el concilio nunca terminó** —se interrumpió por la traición del juez— y **los héroes nunca regresaron al concilio**. *Volvieron 16 años antes del punto donde habían sido enviados.* El multiuniverso quedó, así, con la asamblea **abierta sin clausurar**, el pleito **sin resolución oficial**, y los representantes **dispersos en un presente que no era el suyo**.
 
-[*Las líneas de la vida no son cronología. La cronología la imponen los relojeros mortales. La línea de la vida sigue otra geometría, y el desajuste de la Contienda es prueba de que la geometría no se domina con calendario. —Glosa del Decadiano, libro octavo.*]
+[*Las líneas de la vida no son cronología. La cronología la imponen los relojeros mortales. La línea de la vida sigue otra geometría, y el desajuste de la Contienda es prueba de que la geometría no se domina con calendario. —Glosa del [[Decadiano]], libro octavo.*]
 
 ---
 
@@ -143,9 +143,9 @@ La Contienda **no clausuró nada y dejó todo abierto**, que es como suelen term
 
 - **Mil años de tiranía de la Reina Oscura** se desplegaron en ese mismo período cronomántico abierto. Hasta que **[[Soluna|Soluna]] y [[Minaya_MC|Minaya]]** los cerraron en 1375 D.R.
 - **Graz'zt**, juez tránsfuga, **operó en libertad** durante siglos en el cosmos abierto. Su disminución en Antiterra etíope vino después; su escondite en la espada de Valerius, mucho después.
-- **Paulus joven** sobrevivió a la persecución del doble. La rivalidad con Marcos el Mago quedó **fijada para siempre** desde aquel encuentro asimétrico.
+- **Paulus joven** sobrevivió a la persecución del doble. La rivalidad con [[Marcos_el_Mago]] quedó **fijada para siempre** desde aquel encuentro asimétrico.
 - **Tii** se hizo carrera fuera de su madre cósmica.
-- **Maristo** —cuyo nombre llevaba la sentencia— **fue, en efecto, muerto**, pero por procedimiento distinto al que la Contienda preveía.
+- **[[Maristo]]** —cuyo nombre llevaba la sentencia— **fue, en efecto, muerto**, pero por procedimiento distinto al que la Contienda preveía.
 - **Los demás representantes** se reincorporaron a sus geografías con la marca del concilio que no se cerró.
 
 *El eje narrativo central de la primera década del cosmos compartido es éste: el concilio abierto, el juez traidor, el desajuste del regreso. Todo lo que vino después se acomodó sobre esa apertura.*
@@ -181,5 +181,5 @@ La Contienda **no clausuró nada y dejó todo abierto**, que es como suelen term
 - **Encuentro con el primer Paulus** — el cronista joven perseguido por su doble demoníaco; los representantes lo socorren
 - **Abandono del culto por Tii** — conversión o traición correspondida
 - **1353 D.R. — el regreso desajustado** — 16 años antes de la partida; el concilio nunca se cerró
-- **1375 D.R.** — Soluna y Minaya cierran la tiranía abierta por la traición
+- **1375 D.R.** — [[Soluna]] y Minaya cierran la tiranía abierta por la traición
 - **Ciclo presente** — la Contienda sigue siendo asamblea abierta sin clausura formal

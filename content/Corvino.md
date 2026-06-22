@@ -59,7 +59,7 @@ tags:
 
 ## Aves de París *(voz del cronista del Plata)*
 
-**Corvino conoce a las aves de París como un funcionario conoce los expedientes de su negociado**. *No sólo las palomas*: **gorriones de Notre Dame, cuervos del cementerio del Père-Lachaise, urracas del Bois de Boulogne, golondrinas que cruzan el Sena al amanecer**. *Cada especie opera función propia en su red*:
+**Corvino conoce a las aves de París como un funcionario conoce los expedientes de su negociado**. *No sólo las palomas*: **gorriones de [[Catedral_de_Notre-Dame_PU|Notre Dame]], cuervos del cementerio del Père-Lachaise, urracas del Bois de Boulogne, golondrinas que cruzan el Sena al amanecer**. *Cada especie opera función propia en su red*:
 
 - **Las palomas** —*la columna vertebral, el oficio principal*—.
 - **Los cuervos** —*la inteligencia mayor; saben distinguir quién es enemigo y quién traidor; portan los mensajes que ningún otro vehículo soportaría*—. *Corvino mismo es del oficio cuervo*: **el alias proviene de ahí**, *no de erudición latina*.
@@ -82,7 +82,7 @@ tags:
 - **[[Time_Bandits]]** — *clientes ocasionales del servicio de palomas de Corvino*, *especialmente durante el asalto del [[Orient_Express]] y los movimientos previos al [[Bucarest_Ucronica|Bucarest]]*.
 - **[[Estela_Nereida]]** — *contacto vía palomar para coordinar la salida de Niza tras la operación del chal*; **las palomas de Corvino llegaron a Niza antes que el yate**.
 - **[[Claude_Nauge]]** — *afín ideológicamente al oficio*; *un activista obrero entiende mejor que nadie por qué la comunicación paralela importa*.
-- **[[Iriarte]]** — *el Subprefecto del Tiempo tolera el oficio de Corvino con la mezcla de paciencia y vigilancia que reserva para lo que no puede ni controlar ni desmantelar*.
+- **[[Iriarte]]** — *el [[Iriarte|Subprefecto del Tiempo]] tolera el oficio de Corvino con la mezcla de paciencia y vigilancia que reserva para lo que no puede ni controlar ni desmantelar*.
 
 ---
 
@@ -99,7 +99,7 @@ tags:
 El cosmos extendido conserva un catálogo amplio de fichas de aves. Corvino opera en relación tangencial con varias:
 
 - **[[Las_Palomas_de_Hierro]]** / **[[Palomas_de_Hierro]]** — *palomas blindadas del aparato bizantino*; *cruce trans-campaña con la red de despacho parisina*
-- **[[Encuentro_con_Paloma_Mensajera]]** — *escena documentada de uso operativo de paloma de despacho*
+- **Encuentro con Paloma Mensajera** — *escena documentada de uso operativo de paloma de despacho*
 - **[[Club_des_Gorriones]]** — *club hermano por especie*; *los gorriones cubren ruido, las palomas portan mensaje*
 - **[[Senora_de_los_Cuervos]]** — *afinidad onomástica con el alias de Corvino, operación distinta; figura femenina autoritaria*
 - **[[Gorriones_Atlantes_Atlantean_Sparrows]]** — *especie trans-campaña con conexión cosmológica mayor*
@@ -111,8 +111,8 @@ El cosmos extendido conserva un catálogo amplio de fichas de aves. Corvino oper
 ## Apariciones
 
 - **Belle Époque uchrónica** — operación continua de los palomares de guerra
-- **Tránsito Orient Express** — contacto de palomas para coordinar persecuciones y escapes
-- **Niza, fin del arco Estela** — paloma de despacho llegó antes que el yate
+- **Tránsito [[Orient_Express]]** — contacto de palomas para coordinar persecuciones y escapes
+- **Niza, fin del arco [[Estela_Nereida|Estela]]** — paloma de despacho llegó antes que el yate
 - **Ciclo presente** — los clubes ornitófilos siguen operativos
 
 ## Vínculos

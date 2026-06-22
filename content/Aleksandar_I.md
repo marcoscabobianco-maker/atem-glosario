@@ -28,7 +28,7 @@ imagen: Imagenes_Tier1/Aleksandar_I.png
 ![[Imagenes_Tier1/Aleksandar_I.png]]
 <!-- /HEADER_IMG -->
 
-> *"De los reyes que el ciclo final de Antiterra produjo, Aleksandar fue de los que menos pidió y de los que más perdió. El cronista, que no es monárquico ni republicano sino astrólogo, lo cuenta como caso clínico."*
+> *"De los reyes que el ciclo final de [[Antiterra]] produjo, Aleksandar fue de los que menos pidió y de los que más perdió. El cronista, que no es monárquico ni republicano sino astrólogo, lo cuenta como caso clínico."*
 
 **El rey en uniforme militar de gala**, **fechas y lema en los cartouches** —*"Rođen: 16. Decembar 1876. Stupio na presto: 6. Marca 1889. Titula: Po Milosti Božjoj, Kralj Srbije. Dinastija: Karađorđević. Motto: 'Sa borbom za Krunu sa Otadžbinom'"*—; **junto a él, una mujer joven en hábito de luto**; **al lado**, *en cartel menor*, **Milan I**, el padre. Al fondo, **delegación civil** que el cronista no se aventura a identificar individualmente. **La mano**, *que en otras láminas se permite ambigüedades estéticas*, **acá ha trabajado como cronista heráldico**: nombres, fechas, motto, todo está consignado. *El archivero del Plata observa que en el cartouche de la derecha figura una nota personal —"U mladosti — u dužnosti — u slavu Srbije"— que la mano transcribió sin pedir permiso y que conviene leer despacio.*
 
@@ -38,7 +38,7 @@ imagen: Imagenes_Tier1/Aleksandar_I.png
 
 ## El matrimonio
 
-**Contrajo matrimonio con [[Draga_Machine|Draga Lunjewitza]]** en **1900 A.D.A.** —decisión que la corte serbia juzgó política y los serbios menudos juzgaron escándalo—. **Draga era diez años mayor**, **viuda**, **dama de la corte de Natalia**, **estéril según informes médicos** que la oposición utilizó con la frialdad con que la oposición utiliza esos informes. **La impopularidad del rey se duplicó.Aleksandar trató de mitigarla con nuevas constituciones liberales**; el gesto, a destiempo, **no atajó nada**.
+**Contrajo matrimonio con [[Draga_Machine|Draga Lunjewitza]]** en **1900 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** —decisión que la corte serbia juzgó política y los serbios menudos juzgaron escándalo—. **Draga era diez años mayor**, **viuda**, **dama de la corte de [[Natalia]]**, **estéril según informes médicos** que la oposición utilizó con la frialdad con que la oposición utiliza esos informes. **La impopularidad del rey se duplicó.Aleksandar trató de mitigarla con nuevas constituciones liberales**; el gesto, a destiempo, **no atajó nada**.
 
 ## La muerte de Draga
 
@@ -46,7 +46,7 @@ En el ciclo presente del archivo, **lo que define a Aleksandar no es su reinado 
 
 ## El pacto con los Time Bandits
 
-En este estado, **Aleksandar concedió** —*acto que ningún jurista serbio supo cómo defender después*— **pacto informal con un grupo de Time Bandits** que pasaban por Belgrado en el cumplimiento de un encargo lateral. **El pacto**: **liberación condicional** del grupo a cambio de **desbaratar el [[Circulo_de_la_Serpiente|Círculo de la Serpiente]]** —**la red ucrónica responsable del asesinato de Draga**—. **Ofreció setenta y cinco mil monedas de oro** como anticipo; **el grupo rechazó el oro**, **aceptó el pacto sin paga**, *gesto que el cronista atribuye en igual medida a la dignidad de los Time Bandits y a la pequeñez de la oferta en términos de la divisa del momento*. **Última aparición directa de Aleksandar** en el archivo: la sesión en que firmó el pacto.
+En este estado, **Aleksandar concedió** —*acto que ningún jurista serbio supo cómo defender después*— **pacto informal con un grupo de [[Time_Bandits]]** que pasaban por Belgrado en el cumplimiento de un encargo lateral. **El pacto**: **liberación condicional** del grupo a cambio de **desbaratar el [[Circulo_de_la_Serpiente|Círculo de la Serpiente]]** —**la red ucrónica responsable del asesinato de Draga**—. **Ofreció setenta y cinco mil monedas de oro** como anticipo; **el grupo rechazó el oro**, **aceptó el pacto sin paga**, *gesto que el cronista atribuye en igual medida a la dignidad de los [[Time_Bandits]] y a la pequeñez de la oferta en términos de la divisa del momento*. **Última aparición directa de Aleksandar** en el archivo: la jornada en que firmó el pacto.
 
 ## La sombra de Sarajevo
 
@@ -70,7 +70,7 @@ En este estado, **Aleksandar concedió** —*acto que ningún jurista serbio sup
 - **16 dic 1876** — nacimiento
 - **6 mar 1889** — coronación a los doce años, bajo regencia
 - **1893** — asunción plena del poder a los dieciocho
-- **1900 A.D.A.** — matrimonio con Draga
+- **1900 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** — matrimonio con Draga
 - **Crisis posterior** — asesinato de Draga, descenso a la desesperación
-- **Sesión del pacto** — concesión informal a los Time Bandits, última aparición directa
+- **Jornada del pacto** — concesión informal a los Time Bandits, última aparición directa
 - **1914 A.D.A.** — sombra heredada en el atentado de Sarajevo

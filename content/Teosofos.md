@@ -26,7 +26,7 @@ imagen: null
 ---
 # Teósofos — la facción del don sagrado
 
-> *"La chispa no se distribuye en el mercado. Se hereda en el atrio, junto al fuego del altar y la sangre del padre que enseñó a leer el nombre verdadero del dios. Quien no respeta esa transmisión, profana."* — Fragmento de la *Apologia ad Magos*, atribuida a un hierofante teósofo anónimo del Cisma; conservada en biblioteca privada de Glastumville.
+> *"La chispa no se distribuye en el mercado. Se hereda en el atrio, junto al fuego del altar y la sangre del padre que enseñó a leer el nombre verdadero del dios. Quien no respeta esa transmisión, profana."* — Fragmento de la *Apologia ad Magos*, atribuida a un hierofante teósofo anónimo del Cisma; conservada en biblioteca privada de [[Glastumville]].
 
 La lámina —*si alguna vez la facción tuvo lámina pública*— se perdió con la guerra civil. ha respondido que los archivos teósofos *no encargaron retratos colectivos por costumbre doctrinal*: la facción se entendía como **transmisión de sangre y atrio**, no como cuerpo iconográfico distinguible. *El cronista, que respeta las costumbres iconográficas de las facciones que las tienen, deja el cuadro en silencio.*
 
@@ -49,12 +49,12 @@ La fórmula contiene **dos cláusulas inseparables**:
 
 ## La victoria militar y el costo
 
-El **Cisma Mágico** —que el aparato imperial sitúa hacia el ~1900 AEP— derivó en **guerra civil prolongada**, conocida como **Guerra de los Sortianos y Teósofos** o, en algunos archivos provinciales, **Guerra Civil de Ardisvala**. La fractura fue **larga y devastadora**.
+El **Cisma Mágico** —que el aparato imperial sitúa hacia el ~1900 AEP— derivó en **guerra civil prolongada**, conocida como **Guerra de los [[Sortianos]] y Teósofos** o, en algunos archivos provinciales, **Guerra Civil de Ardisvala**. La fractura fue **larga y devastadora**.
 
 **Los Teósofos ganaron militarmente** la guerra hacia el **1775 AEP**:
 
 - **Líderes sortianos ejecutados o exiliados** —**[[Priscus_Pulcher]]** entre ellos, según una tradición; refugiado en las ruinas del valle, según otra—.
-- **Bases sortianas destruidas o capturadas** —*el compound del nivel 9 del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], hoy ocupado por los herederos [[Priscians]]*—.
+- **Bases sortianas destruidas o capturadas** —*el compound del [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], en el [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], hoy ocupado por los herederos [[Priscians]]*—.
 - **Restauración del clero hereditario** —el sacerdocio de Thoth se reorganizó **como casta cerrada**, conforme a la doctrina vencedora—.
 
 *Pero la victoria fue cara*. El cronista decadiano la clasifica, sin glosa, como **victoria pírrica del Imperio**:
@@ -65,7 +65,7 @@ El **Cisma Mágico** —que el aparato imperial sitúa hacia el ~1900 AEP— der
 - **Reocupación recién en el 2639 AEP** —*aproximadamente mil doscientos años después del cierre militar*—.
 - **Magia debilitada institucionalmente** —*el conservadurismo redujo el número de magos disponibles, los magos perdieron contacto con la base popular, el oficio se volvió oligárquico*—.
 
-[*Los Teósofos ganaron la batalla y perdieron el Imperio. La fórmula es del archivero del Plata; el Decadiano la suaviza pero no la corrige. —Glosa de [[Arkos]].*]
+[*Los Teósofos ganaron la batalla y perdieron el Imperio. La fórmula es del archivero del Plata; el [[Decadiano]] la suaviza pero no la corrige. —Glosa de [[Arkos]].*]
 
 ---
 
@@ -75,7 +75,7 @@ Siglos después de la victoria militar, el **emperador [[Drusus_V|Drusus V]]** �
 
 La concesión **es estructuralmente sortiana**. La doctrina teósofa **no la enfrentó abiertamente** —*los teósofos del 2400 AEP eran ya facción difusa, no cuerpo institucional capaz de oponerse a un decreto imperial*—. **Se replegó**: aceptó la apertura formal de la Orden y conservó **la transmisión cerrada en los círculos privados de las familias sacerdotales tradicionales**.
 
-Desde entonces, los Teósofos **dejaron de ser facción institucional reconocible**. **Se permearon**: en el **Collegium of Cinders** —academia mágica imperial—, en los **sacerdocios de [[Thoth]] y [[Set]]** sobrevivientes, en las **familias nobles antiguas** que conservan **ritual privado de atrio** sobre la chispa de sus hijos. *El cronista lo registra como "presencia difusa", fórmula que el Decadiano usa para las facciones cuyo cuerpo institucional desapareció pero cuya doctrina **persiste como costumbre privada**.*
+Desde entonces, los Teósofos **dejaron de ser facción institucional reconocible**. **Se permearon**: en el **Collegium of Cinders** —academia mágica imperial—, en los **sacerdocios de [[Thoth]] y [[Set]]** sobrevivientes, en las **familias nobles antiguas** que conservan **ritual privado de atrio** sobre la chispa de sus hijos. *El cronista lo registra como "presencia difusa", fórmula que el [[Decadiano]] usa para las facciones cuyo cuerpo institucional desapareció pero cuya doctrina **persiste como costumbre privada**.*
 
 ---
 
@@ -83,7 +83,7 @@ Desde entonces, los Teósofos **dejaron de ser facción institucional reconocibl
 
 En el ciclo presente, bajo el **[[Drusus_IX_El_Palido|Basileus Drusus IX]]** y el papado de **[[Papa_Alejandro_Sixto|Alejandro Sixto]]**, los Teósofos **encuentran convergencia inesperada** con la centralización eclesial.
 
-**El Papa Alejandro Sixto** representa:
+**El [[Papa_Alejandro_Sixto]]** representa:
 
 - **Autoridad doctrinal centralizada** —*sumo pontífice, custodes luminosos, juicio del regreso*—.
 - **Chispa autorizada por jerarquía sagrada** —*la luz dorada del plano positivo emana de cargo legítimo, no de talento abierto*—.
@@ -91,9 +91,9 @@ En el ciclo presente, bajo el **[[Drusus_IX_El_Palido|Basileus Drusus IX]]** y e
 
 La doctrina teósofa **se reconoce parcialmente** en ese aparato. *No idéntica*: los Teósofos creían en transmisión sacerdotal de atrio, no en autoridad papal centralizada. Pero **la estructura cerrada de la chispa** —*sólo legítima si pasa por cuerpo autorizado*— es **estructuralmente compatible**.
 
-*El archivo decadiano lo anota como posibilidad activa*: los Teósofos difusos del Imperio podrían **converger con el papado** como **brazo eclesial de autoridad mágica**, *en oposición a los Priscians-Sortianos* que insisten en la chispa abierta del L9.
+*El archivo decadiano lo anota como posibilidad activa*: los Teósofos difusos del Imperio podrían **converger con el papado** como **brazo eclesial de autoridad mágica**, *en oposición a los [[Priscians]]-[[Sortianos]]* que insisten en la chispa abierta del Suelo del Gran Abismo.
 
-[*La convergencia teósofa-papal sería "Inquisición Teósofa-Papal" contra los magos populares y los Buscadores. No la veo declarada todavía. La veo madurando en los pasillos. —Glosa de [[Arkos]].*]
+[*La convergencia teósofa-papal sería "Inquisición Teósofa-Papal" contra los magos populares y los [[Buscadores_de_Ardis_Vala|Buscadores]]. No la veo declarada todavía. La veo madurando en los pasillos. —Glosa de [[Arkos]].*]
 
 ---
 
@@ -101,11 +101,11 @@ La doctrina teósofa **se reconoce parcialmente** en ese aparato. *No idéntica*
 
 El **[[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]** conserva **cinco posibles bases de presencia teósofa**, *de las cuales el archivo registra disposición espacial pero no operatividad cierta*:
 
-- **L3 — Halls of Thoth** — culto público de Thoth, aún operativo en algunas áreas.
-- **L4 — Forum of Set** — el culto de Set, con relaciones complejas con el teosofismo: la doctrina teósofa **toleraba a Set** *como aspecto sombrío del orden*, no lo prohibía como la Ortodoxia posterior.
-- **L5 — Templo Secreto Olvidado de Thoth** (5-77 a 5-83) — posible enclave teósofo histórico, *hoy corrompido por **Oziman**, demonio tipo III que se hace pasar por avatar de Thoth*.
-- **L9 — Lich Syagria Aitón** (9-55) — posible archimago teósofo lichificado durante el Cisma; *no confirmado*.
-- **L2 — Library of Thoth** (2-72) — textos teósofos disponibles, *en proporción variable según las pasadas que la biblioteca ha sufrido*.
+- **[[Halls_of_Thoth_Nivel|Halls of Thoth]]** — culto público de Thoth, aún operativo en algunas áreas.
+- **[[Forum_de_Set|Forum of Set]]** — el culto de Set, con relaciones complejas con el teosofismo: la doctrina teósofa **toleraba a Set** *como aspecto sombrío del orden*, no lo prohibía como la Ortodoxia posterior.
+- **Templo Secreto Olvidado de Thoth** — posible enclave teósofo histórico, *hoy corrompido por **Oziman**, demonio tipo III que se hace pasar por avatar de Thoth*.
+- **Lich Syagria Aitón** — posible archimago teósofo lichificado durante el Cisma; *no confirmado*.
+- **[[Library_of_Thoth]]** — textos teósofos disponibles, *en proporción variable según las pasadas que la biblioteca ha sufrido*.
 
 *Las cinco bases son hipótesis del archivo decadiano sobre las geografías teósofas residuales*. **Ninguna está confirmada como operativa**.
 
@@ -135,10 +135,10 @@ El cronista decadiano cierra esta entrada con la fórmula que el archivo conserv
 - [[Drusus_IX_El_Palido|Basileus Drusus IX]] — autoridad imperial actual
 - [[Thoth]] — dios del clero original del Cisma
 - [[Set]] — dios cuya doctrina teósofa toleraba como aspecto sombrío
-- [[Iglesia_Imperial]] — Ortodoxia Decadiana en la que la facción se permeó
+- [[Iglesia_Imperial]] — [[Iglesia_Imperial|Ortodoxia Decadiana]] en la que la facción se permeó
 - [[Mega_Dungeon_Arden_Vul]] — espacio operativo subterráneo con cinco presencias hipotéticas
-- **Oziman** (L5-83) — demonio tipo III usurpando avatar de Thoth en lugar de culto teósofo
-- **Syagria Aitón** (L9-55) — posible lich archimago teósofo
+- **Oziman** — demonio tipo III usurpando avatar de Thoth en lugar de culto teósofo
+- **Syagria Aitón** — posible lich archimago teósofo
 - **Collegium of Cinders** — academia mágica imperial permeada
 
 ## Apariciones
@@ -146,7 +146,7 @@ El cronista decadiano cierra esta entrada con la fórmula que el archivo conserv
 - **~1900 AEP — Cisma Mágico** — fractura del clero de Thoth en Sortianos y Teósofos
 - **1775 AEP — Guerra de los Sortianos y Teósofos / Destrucción de Agoreon** — victoria militar teósofa, pírrica para el Imperio
 - **Siglos posteriores — Restauración del clero hereditario** — la doctrina teósofa opera como cuerpo institucional
-- **~2400 AEP — Reformas de Drusus V** — apertura de la Orden de Thoth; los Teósofos se repliegan a transmisión privada
+- **~2400 AEP — Reformas de [[Drusus_V]]** — apertura de la Orden de Thoth; los Teósofos se repliegan a transmisión privada
 - **~2639 AEP — Reocupación archontea de Irthuin** — la presencia teósofa continúa como permeación difusa
-- **Ciclo presente, ciclo primero del valle** — los Buscadores encuentran presencias teósofas residuales en los niveles del dungeon
-- **Post-Hiato — Convergencia papal hipotética** — el aparato teósofo difuso puede converger con la centralización del papado contra los Priscians-Sortianos
+- **Ciclo presente, ciclo primero del valle** — los [[Buscadores_de_Ardis_Vala|Buscadores]] encuentran presencias teósofas residuales en los niveles del dungeon
+- **Post-Hiato — Convergencia papal hipotética** — el aparato teósofo difuso puede converger con la centralización del papado contra los [[Priscians]]-Sortianos

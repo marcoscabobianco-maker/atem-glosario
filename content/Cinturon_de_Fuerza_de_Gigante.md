@@ -14,10 +14,10 @@ aliases:
 
 ## Presentación
 
-**Categoría**: Tesoro / Objeto mágico D&D 5e
+**Categoría**: Tesoro / Objeto mágico
 
-**Descripción**: Objeto mágico obtenido de Plutón. Otorga +4 a +7 bonus a Strength. Tipo gigante fuego (presumido).
-**Mecánica**: Amplifica capacidades combate de portador. Posiblemente solo usable por cierto personaje o con fuerza mínima.
+**Descripción**: Objeto mágico obtenido de [[Pluton_CDI|Plutón]]. Confiere al portador la fuerza de un gigante —de fuego, se presume—.
+**Naturaleza**: Amplifica el poder de combate del portador. Posiblemente solo responda a cierto compañero, o a manos ya fuertes.
 **[[Posesion|Posesión]]**: No especificado quién lo lleva (issue abierto).
 **Refs**:
 

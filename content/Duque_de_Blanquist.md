@@ -30,13 +30,13 @@ imagen: Imagenes_Tier1/Duque_de_Blanquist.png
 
 ---
 
-**El Duque convoca por escrito y no se presenta**. *Su invitación llegó al grupo en pleno tránsito del [[Palacio_del_Prisma|Castillo del Prisma]]* —llamado por otros archivos **Castillo del Apocalipsis**—, *un convite formal a las XXII horas, salón privado, Rue de Grenelle*. La caligrafía es impecable; el papel, costoso; el sello, **inequívoco y antiguo**.
+**El Duque convoca por escrito y no se presenta**. *Su invitación llegó al grupo en pleno tránsito del [[Palacio_del_Prisma|Castillo del Prisma]]* —llamado por otros archivos **[[Palacio_del_Prisma|Castillo del Apocalipsis]]**—, *un convite formal a las XXII horas, salón privado, Rue de Grenelle*. La caligrafía es impecable; el papel, costoso; el sello, **inequívoco y antiguo**.
 
 **El sello de los seis dedosno es metáfora**. *En el cosmos compartido, la mano con sexto dedo es marca de linaje demoníaco mayor* —[[Helter]] hijo de Elías es la encarnación última de ese linaje en el archivo del Plata, y la apertura del Descenso menciona al *maldito demonio de seis dedos* que violó la Catedral—. **Que el Duque firme con esa mano no es préstamo de heráldica**: es signatura.
 
 ---
 
-**Si el Duque es Helter mismo, o un agente, o una figura que el sexto dedo se hereda**, el archivo no lo confirma todavía. *La hipótesis más sobria —y por eso quizás la verdadera— es que el Duque sea un nombre social del propio Helter en la sociedad parisina de la Belle Époque*; el archivero del Plata se inclina por esa lectura. **Pendiente confirmación** —que la cronomancia, que es arte menos casto que la documentación, irá decantando con los meses—.
+**Si el Duque es [[Helter]] mismo, o un agente, o una figura que el sexto dedo se hereda**, el archivo no lo confirma todavía. *La hipótesis más sobria —y por eso quizás la verdadera— es que el Duque sea un nombre social del propio [[Helter]] en la sociedad parisina de la Belle Époque*; el archivero del Plata se inclina por esa lectura. **Pendiente confirmación** —que la cronomancia, que es arte menos casto que la documentación, irá decantando con los meses—.
 
 [*El que no aparece es siempre el más invitado. El que invita y no aparece es el que está, sentado al otro lado de la mesa, mirando todo. — Glosa atribuida a [[Pablo_de_Alejandria|Paulus]].*]
 

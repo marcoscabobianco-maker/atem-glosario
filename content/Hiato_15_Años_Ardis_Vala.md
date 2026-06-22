@@ -53,9 +53,9 @@ Durante el silencio, **el coro hizo su trabajo**. La lista, sin tabla técnica, 
 
 **[[Papa_Alejandro_Sixto|Sir Sixto]]**, perdido en los niveles bajos desde el cierre del ciclo primero, **emergió como [[Papa_Alejandro_Sixto|Papa Alejandro VI]]**. Lo que descendió como caballero subió como autoridad eclesial suprema, *con el porte sereno del que ha pactado con potencias que no se citan en concilio público*.
 
-**[[Ritornello]] cayó.** Una libélula con **huevo bomba** —*extracto del módulo arcano de los rudishva, posiblemente trabajo lateral de [[Kerbog_Khan]]*— se acercó a la ciudad imperial del valle del [[Barrado_Balacan|Barrado Balacán]] y la convirtió en **cenizas**. Los Buscadores tienen, en esta caída, **responsabilidad parcial**: entregaron, en el ciclo primero, el huevo a la facción que lo detonó. *El archivo lo anota sin glosa.*
+**[[Ritornello]] cayó.** Una libélula con **huevo bomba** —*extracto del módulo arcano de los rudishva, posiblemente trabajo lateral de [[Kerbog_Khan]]*— se acercó a la ciudad imperial del valle del [[Barrado_Balacan|Barrado Balacán]] y la convirtió en **cenizas**. [[Buscadores_de_Ardis_Vala|Los Buscadores]] tienen, en esta caída, **responsabilidad parcial**: entregaron, en el ciclo primero, el huevo a la facción que lo detonó. *El archivo lo anota sin glosa.*
 
-**Los [[Varumani]] fueron vencidos.[[Varboka]]** y su pueblo —señores del Nivel 7, operadores de los Troll Lifts del L6— **cayeron en algún punto del cierre del ciclo primero o del Hiato**, con consecuencias para el sub-dominio: los **Troll Lifts** dejaron de operar, la **Court of Troll Thegn** quedó vacante, las **operaciones mineras del L9** suspendidas o capturadas por otra mano.
+**Los [[Varumani]] fueron vencidos.[[Varboka]]** y su pueblo —señores de la [[Court_of_Troll_Thegn|Corte del Thegn]], operadores de los [[Troll_Lifts_Arena|Troll Lifts]]— **cayeron en algún punto del cierre del ciclo primero o del Hiato**, con consecuencias para el sub-dominio: los **[[Troll_Lifts_Arena|Troll Lifts]]** dejaron de operar, la **[[Court_of_Troll_Thegn]]** quedó vacante, las **operaciones mineras del Suelo del Gran Abismo** suspendidas o capturadas por otra mano.
 
 **Las brumas se cosieron al valle.** Lo que era valle se convirtió en **dominio**: **[[Valakhan_de_la_Bruma|Valakhan]]**, *brumas en los bordes, fiebre blanca en los pueblos*. La autoridad cosmológica que cose las brumas a los lugares —la que cose, no la que gobierna— **operó durante el silencio sin pedir permiso**.
 
@@ -67,17 +67,17 @@ Durante el silencio, **el coro hizo su trabajo**. La lista, sin tabla técnica, 
 
 Durante el Hiato emergieron figuras que el ciclo primero no había anotado todavía:
 
-- **[[Decio_Balmora]]** — Ranger de [[Valdemora]], ex-Lord de [[Ciudadela_Sin_Sol]], viudo de [[Bellaca|Lali]]. Quien guiaría a los Buscadores de regreso.
-- **[[Argus_PJ|Argus]]** — Barón de Ritornello, paradigma caído, montaraz tras la caída de su ciudad.
-- **[[Carad_de_Teyber]]** — Señor de Panteras, traidor de Decio, autoridad regional impuesta tras Ritornello.
-- **[[Bellaca|Lali]] corrompida** — reina vampírica del [[Arbol_Gulthias|Árbol Gulthias]] en el barranco de [[Stejara]]; pareja juvenil mortal de Caladan, ahora otra cosa.
-- **[[Mirela_Valka]]**, *Luminita*, *Dracos* — familia noble local, voces de Valdemora.
-- **Baba Iliana** — atadora de profecías en Estellara.
+- **[[Decio_Balmora]]** — Ranger de [[Valdemora]], ex-Lord de [[Ciudadela_Sin_Sol]], viudo de [[Bellaca|Lali]]. Quien guiaría a los [[Buscadores_de_Ardis_Vala|Buscadores]] de regreso.
+- **[[Argus_PJ|Argus]]** — Barón de [[Ritornello]], paradigma caído, montaraz tras la caída de su ciudad.
+- **[[Carad_de_Teyber]]** — [[Carad_de_Teyber|Señor de Panteras]], traidor de Decio, autoridad regional impuesta tras [[Ritornello]].
+- **[[Bellaca|Lali]] corrompida** — reina vampírica del [[Arbol_Gulthias|Árbol Gulthias]] en el barranco de [[Stejara]]; pareja juvenil mortal de [[Caladan]], ahora otra cosa.
+- **[[Mirela_Valka]]**, *Luminita*, *Dracos* — familia noble local, voces de [[Valdemora]].
+- **Baba Iliana** — atadora de profecías en [[Estellara]].
 
 Y, en una tinta separada que el cronista no termina de catalogar:
 
 - **[[Arkos]]** — clon alquímico de [[Arcoms_Cosmar|Arcoms Cosmar]], invocado en círculo durante el silencio mediante **[[Solucion_de_Plata_Mercurial|solución de plata mercurial]]** de pureza alta. *Nació en el Hiato.*
-- **[[Ardipithecus]]** — el proto-guardián que Graz'zt había escondido en la espada compañera de [[Valerius_Utrecht|Valerius]]. *Se asentó durante el silencio para emerger después.*
+- **[[Ardipithecus]]** — el proto-guardián que [[Grazzt|Graz'zt]] había escondido en la espada compañera de [[Valerius_Utrecht|Valerius]]. *Se asentó durante el silencio para emerger después.*
 
 **Dos cuerpos. Dos esperas distintas.** Una nace para escribir. Otra se prepara para emerger. *Esperó.*
 
@@ -85,7 +85,7 @@ Y, en una tinta separada que el cronista no termina de catalogar:
 
 ## El eco mecánico
 
-En uno de los **barrows exteriores del Barrowmaze**, hay **un cuarto con un portal oscuro**. Una de las posibilidades del portal es **envejecer al que cruza quince años**.
+En uno de los **barrows exteriores del [[Barrowmaze]]**, hay **un cuarto con un portal oscuro**. Una de las posibilidades del portal es **envejecer al que cruza quince años**.
 
 La cifra no es coincidencia. *Es signo geográfico*: el dominio recuerda en su piedra lo que pasó en su tiempo. **Quien entra por aquel portal sale del otro lado con la edad que el Hiato impuso al valle**, y entiende —*si tiene oído cosmológico*— **que la geografía es archivo de lo que no se escribió**.
 
@@ -125,7 +125,7 @@ Volvieron, pero no enteros. **Los quince años los habían tocado a todos**:
 - **[[Bayrum_Cristalia|Bayrum]]** — con el escudo y el hacha que Argus le legó.
 - **[[Sixto_Guido|Sixto Guido]]** — guerrero homónimo del Papa, con la coincidencia onomástica sin resolver.
 
-*Volvieron a un valle que ya no era el suyo. La disciplina de los que han visto cambiar mundos —que es la disciplina del que no se sorprende— les permitió empezar por bajar a Valdemora. No han parado de bajar desde entonces.*
+*Volvieron a un valle que ya no era el suyo. La disciplina de los que han visto cambiar mundos —que es la disciplina del que no se sorprende— les permitió empezar por bajar a [[Valdemora]]. No han parado de bajar desde entonces.*
 
 ---
 
@@ -141,7 +141,7 @@ Volvieron, pero no enteros. **Los quince años los habían tocado a todos**:
 - [[Caladan]] — vampirizado y asentado como darklord
 - [[Arkos]] — clon nacido durante el silencio
 - [[Ardipithecus]] — proto-guardián que se asentó en la espada de Valerius
-- [[Bellaca|Lali]] — corrompida en el Árbol Gulthias
+- [[Bellaca|Lali]] — corrompida en el [[Arbol_Gulthias|Árbol Gulthias]]
 - [[Arbol_Gulthias]], [[Stejara]] — geografía vampírica
 - [[Decio_Balmora]] — guía del regreso
 - [[Argus_PJ|Argus]] — paradigma caído del Hiato
@@ -155,6 +155,6 @@ Volvieron, pero no enteros. **Los quince años los habían tocado a todos**:
 
 - **Cierre del ciclo primero** — los Buscadores se retiran sin agotar el mega-dungeon
 - **Año primero del silencio** — caída de Ritornello por la libélula con huevo bomba
-- **Años intermedios del silencio** — Sir Sixto emerge como Papa Alejandro VI; los Varumani caen; las brumas cosen el valle; Caladan se asienta como darklord; Lali se corrompe; aparecen Decio, Argus, Carad de Teyber, Mirela Valka
-- **Tránsito sin testigo** — Arkos es invocado vía plata mercurial; Ardipithecus se asienta en la espada de Valerius
-- **Final del silencio — el regreso** — los Buscadores vuelven con Decio; Valdemora, Estellara, Ciudadela Sin Sol, decapitación de Lali, caída al pentagrama del Palacio del Prisma
+- **Años intermedios del silencio** — Sir Sixto emerge como [[Papa_Alejandro_Sixto|Papa Alejandro VI]]; los [[Varumani]] caen; las brumas cosen el valle; [[Caladan]] se asienta como darklord; Lali se corrompe; aparecen Decio, Argus, [[Carad_de_Teyber]], [[Mirela_Valka]]
+- **Tránsito sin testigo** — Arkos es invocado vía plata mercurial; [[Ardipithecus]] se asienta en la espada de Valerius
+- **Final del silencio — el regreso** — los Buscadores vuelven con Decio; Valdemora, [[Estellara]], [[Ciudadela_Sin_Sol]], decapitación de Lali, caída al pentagrama del [[Palacio_del_Prisma]]

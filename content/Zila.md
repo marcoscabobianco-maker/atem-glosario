@@ -13,13 +13,13 @@ tags:
 ---
 # Zila
 
-> *Entidad relacionada con Wichi-Lobos. Otro ser terrible del archivo.*
+> *[[Entidad]] relacionada con [[Wichi-Lobos]]. Otro ser terrible del archivo.*
 
 ## Presentación
 
 **Zila** es **una entidad del archivo cosmológico declarada explícitamente como relacionada con [[Wichi-Lobos]]** —*"la Wichi lobos es un ser así terrible, también relacionado con Zila"* (, 2026-05-20)—. El nombre aparece como anclaje del archivo sin desarrollo narrativo todavía documentado.
 
-La relación con Wichi-Lobos —Huitzilopochtli deformado por Paul Claudel, posible Annunaki— ubica a Zila en la **misma red cosmogónica del territorio americano** del nuevo cosmos post-[[Los_Supremos|Triunvirato]]. Detalles **pendientes de profundización**.
+La relación con [[Wichi-Lobos]] —Huitzilopochtli deformado por [[Pablo_de_Alejandria|Paul Claudel]], posible [[Annunaki]]— ubica a Zila en la **misma red cosmogónica del territorio americano** del nuevo cosmos post-[[Los_Supremos|Triunvirato]]. Detalles **pendientes de profundización**.
 
 ## Vínculos
 

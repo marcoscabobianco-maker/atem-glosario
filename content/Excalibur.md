@@ -28,7 +28,7 @@ portador accidental, "espada de la vergüenza"). Dualidad de portación marca in
 moral y poder: mismo arma en manos de redención ([[Dolores]]) vs. condenación ([[More]]).
 
 Artefacto de poder ancestral que conecta cosmología artúrica (rey legendario) con línea
-épica primaria de la el cosmos compartido.
+épica primaria del cosmos compartido.
 
 — par [[Lubina]]/Excalibur como dupla mal/poder en la narrativa de [[Torregrises]].
 

@@ -15,15 +15,13 @@ aliases:
 
 ## Presentación
 
-**Fuente:** el archivo, referencia a "Loba del Primer Nivel"
-**Contexto:** S12_HANDOFF introducía "Loba del Primer Nivel" como contacto de Plutón. el archivo confirma que ella es guía/intermediaria.
-**Cambio:** el archivo muestra a Loba en crisis, no en rol de contacto seguro.
-**Significado cosmológico:** "Primer Nivel" podría referirse a:
-1. Limbo (círculo 1)
-2. Estructura de jerarquía infernal de Plutón (su nivel más bajo de confianza)
-3. Acceso directo a Dis desde tierra (primer punto de entrada)
-**Confianza:** MODERADA (basado en contexto previo + el archivo)
+Umbral de la estructura infernal donde [[Loba_CDI|Loba]] actúa como guía e intermediaria de [[Pluton_CDI|Plutón]]. El "Primer Nivel" designa el estrato más accesible de la jerarquía infernal — antesala de [[Ciudad_de_Dis_CDI|Dis]] y primer punto de entrada al [[Infierno|Infierno]] desde el mundo de los vivos. En el esquema dantesco corresponde al [[Limbo|Limbo]]; en la jerarquía propia de [[Pluton_CDI|Plutón]], señala el nivel más bajo de su confianza interna.
 
-## Ver también
+## Vínculos
 
-- Cambio
+- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña y estructura narrativa donde se inscribe este nivel
+- [[Infierno|Infierno]] — cosmología que organiza los niveles infernales
+- [[Pluton_CDI|Plutón]] — señor cuya jerarquía interna define los "niveles" de acceso
+- [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — fortaleza infernal hacia la que el Primer Nivel es antesala
+- [[Limbo|Limbo]] — plano liminal que en el esquema dantesco precede a los círculos inferiores
+- [[Asmodeus|Asmodeus]] — archi-diablo soberano de los Nueve Infiernos (Planescape) cuya estructura cosmológica sustenta estos niveles

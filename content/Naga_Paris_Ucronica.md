@@ -38,7 +38,7 @@ imagen: Imagenes_Tier1/Naga_Paris_Ucronica.png
 
 ## Lo que son
 
-**Las nagas de París Ucrónica** son **criaturas femeninas serpentarias** que **habitan las aguas oscuras** de [[Antiterra_Demonia|Antiterra]] —**el Sena bajo el Pont Neuf en noches sin luna**, **las profundidades del Mar Negro junto a Constantinopla**, **el Mediterráneo entre Sicilia y Túnez en cierta franja que las cartas marinas señalan con un punto y los marineros con una señal de la cruz—. **No son una sola**; **son una raza**, **clasificable en linajes**: **la lunar**, **la del sueño**, **la de la sombra**, **la profunda**, **la del légamo**, **la del Mediterráneo**, **la cambiaformas**. *El cronista no las distingue todas con la precisión que el oficio pediría, porque ningún cronista que pretenda distinguirlas todas vuelve a la orilla.*
+**Las nagas de [[Paris_Ucronica|París Ucrónica]]** son **criaturas femeninas serpentarias** que **habitan las aguas oscuras** de [[Antiterra_Demonia|Antiterra]] —**el Sena bajo el Pont Neuf en noches sin luna**, **las profundidades del [[Mar_Negro_Ucronica|Mar Negro]] junto a Constantinopla**, **el [[Mediterraneo_Ucronico|Mediterráneo]] entre Sicilia y Túnez en cierta franja que las cartas marinas señalan con un punto y los marineros con una señal de la cruz—. **No son una sola**; **son una raza**, **clasificable en linajes**: **la lunar**, **la del sueño**, **la de la sombra**, **la profunda**, **la del légamo**, **la del [[Mediterraneo_Ucronico|Mediterráneo]]**, **la cambiaformas**. *El cronista no las distingue todas con la precisión que el oficio pediría, porque ningún cronista que pretenda distinguirlas todas vuelve a la orilla.*
 
 ## Su modo
 
@@ -63,6 +63,6 @@ imagen: Imagenes_Tier1/Naga_Paris_Ucronica.png
 ## Apariciones
 
 - **Anteriores al cómputo** — habitantes ancestrales del agua oscura
-- **Ciclo final de Antiterra** — ataques recurrentes a vapores del Sena
-- **Encuentro documentado** — confrontación con Time Bandits en sesión del Sena
+- **Ciclo final de [[Antiterra]]** — ataques recurrentes a vapores del Sena
+- **Encuentro documentado** — confrontación con [[Time_Bandits]] en jornada del Sena
 - **Tránsito mediterráneo** — tributo en marineros a la Ruta de la Seda, vigente

@@ -11,6 +11,7 @@ tags:
  - "compañía-david"
 aliases:
  - "More"
+aa: "P.3 pacto demoniaco con victima inocente ; O.4 portador doble: Excalibur ; F.4 segunda oportunidad condicionada [MC]"
 ---
 
 # More

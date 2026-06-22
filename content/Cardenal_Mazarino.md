@@ -1,54 +1,22 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5406923]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Cardenal_Mazarino_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Cardenal Mazarino", "Mazarino"]
 ---
 
-# ATEM::SaintGermain::MMF::Cardenal Mazarino
+# Cardenal Mazarino
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Cardenal_Mazarino_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Cardenal Mazarino. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Giulio Raimondo Mazzarino, cardenal de la Iglesia romana y primer ministro de [[Francia]] bajo la regencia de Ana de Austria. Italiano de origen, formado en la diplomacia pontificia, llegó al poder por la confianza que el Cardenal Richelieu depositó en él antes de morir. Desde entonces gobernó el reino en nombre del joven Luis XIV con una mezcla de habilidad negociadora, acumulación de riqueza y manejo de las facciones.
 
-![[ATEM__SaintGermain__MMF__Cardenal_Mazarino_retrato.png]]
+El año 1648 fue el más turbulento de su poder. El Parlamento de París, encabezado por voces como la de [[Omer_Talon|Omer Talon]], se negó a registrar los edictos fiscales de la corona y exigió garantías contra el arresto arbitrario. La ciudad se llenó de barricadas. La corte huyó al château de Saint-Germain-en-Laye en enero de 1649, dejando París en manos de los frondistas. Mazarino, odiado por los pafletos y las canciones populares que lo llamaban avaro y extranjero, se convirtió en el blanco de todas las quejas del reino.
 
+Su instrumento de orden en el terreno fue [[Francisco_de_Cominges|Francisco de Cominges]], Capitán Teniente de los Guardias. Desde el [[Palais-Royal|Palais-Royal]], donde residía junto a la familia real, coordinó los movimientos que intentaban contener la rebelión. El [[Pont-Neuf|Pont-Neuf]] fue escenario de proclamas; la [[Cour_des_Miracles|Cour des Miracles]], territorio que el poder cardinalicio no pisaba pero que siempre vigilaba.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5406923
-**kanka_url:** https://app.kanka.io/w/216093/entities/5406923
-**kanka_kind:** character
-**kanka_type:** NPC
-**familia:** (sin familia)
-**sexo:** (no especificado)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 149
-- **Sesiones donde aparece** (9/9):
-  - S1 — 9 hits
-  - S2 — 13 hits
-  - S3 — 19 hits
-  - S4 — 20 hits
-  - S5 — 10 hits
-  - S6 — 8 hits
-  - S7 — 4 hits
-  - S8 — 39 hits
-  - S9 — 27 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Palais-Royal]] — sede del poder cardinalicio en París durante la Fronda
+- [[Francisco_de_Cominges]] — Capitán Teniente a su servicio; su brazo ejecutor en campo
+- [[Omer_Talon]] — voz del Parlamento de París, principal opositor institucional de Mazarino
+- [[François_de_Vendôme]] — Duque de Beaufort, uno de los líderes de la Fronda nobiliaria y enemigo declarado
+- [[Pont-Neuf]] — punto neurálgico de la agitación popular en París
+- [[Cour_des_Miracles]] — submundo parisino que escapa al control directo de Mazarino
+- [[Francia]] — el reino cuya regencia sostiene y que la Fronda amenaza con desintegrar

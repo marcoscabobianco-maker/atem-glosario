@@ -12,6 +12,7 @@ aliases:
  - "TG"
  - "Barbarella"
  - "Barbarella TG"
+aa: "C.6 la sombra detectada ; J.4 perseguida por el aparato legal [TG]"
 ---
 
 # Barbarella

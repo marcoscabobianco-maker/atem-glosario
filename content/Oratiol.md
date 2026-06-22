@@ -10,7 +10,7 @@ tags:
  - "1715"
 aliases:
  - "Oratiol"
- - "épocas: Oratiol (Pretty Women / Les Libertateurs"
+aa: "P.2 pacto opaco ; A.1 amnesia electiva ; N.1 anagrama de continuidad ; E.1 cronista interno [MC, A.D.A.]"
 ---
 # Oratiol
 
@@ -42,17 +42,11 @@ de la gesta de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]], 1715-1784 [[A
 
 ## Notas
 
-En Kanka Ucrónica: memorias de [[Lotario]] detallan que Oratiol es [[Lotario]] renacido 200 años antes del inicio de la campaña original, en [[Antiterra_Demonia|Antiterra]]. Sin memoria, se asocia con nuevos compañeros en Praga. Recupera paulatinamente poderes divinos canalizando magia como la princesa [[Myeongwol]]. Robó divinidad a [[Barbatos]] tras derrotarlo en el Infierno.
+Las memorias de [[Lotario]] detallan que Oratiol es [[Lotario]] renacido 200 años antes del inicio de la campaña original, en [[Antiterra_Demonia|Antiterra]]. Sin memoria, se asocia con nuevos compañeros en Praga. Recupera paulatinamente poderes divinos canalizando magia como la princesa [[Myeongwol]]. Robó divinidad a [[Barbatos]] tras derrotarlo en el [[Infierno]].
 
 La naturaleza exacta del "pacto" que Oratiol acepta como
 precio de su participación es una de las preguntas abiertas de más
 peso narrativo para esta rama del archivo. Ver cruce con **[[Lotario]]**
 (anagrama) en [[Los_Profundos|Los Profundos]] / [[Los_Reguladores|Los Reguladores]].
 
-*Cross-ref Gary del Mundo Nuevo (1987):* en el Mundo Nuevo 9: la plataforma de Aries es referida como "templo del Ouroboros" — posible conexión etimológica Oratiol/Ouroboros (ambos contienen la idea de ciclo). Especulativo pero consistente con el patrón anagramático del jugador.
-
-### GARY_TNW_GLOSARIO_ADDITIONS.md
-
-## Presentación
-
-## Presentación
+*Cross-ref Gary del Mundo Nuevo (1987):* en el Mundo Nuevo 9: la plataforma de Aries es referida como "templo del Ouroboros" — posible conexión etimológica Oratiol/Ouroboros (ambos contienen la idea de ciclo). Especulativo pero consistente con el patrón anagramático.

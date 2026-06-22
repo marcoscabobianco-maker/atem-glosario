@@ -10,7 +10,7 @@ aliases:
  - Set egipcio (sincretismo archonteo)
 categoria_diegetica: entidad
 epoca: "deidad mayor del panteón imperial Archonteo; presencia continuada en doctrina sincrética"
-ubicacion_principal: "panteón imperial de Ardisvala; Forum de Set (nivel 4 del mega-dungeon); doctrina sincrética con figuras del polo oscuro"
+ubicacion_principal: "panteón imperial de Ardisvala; Forum de Set (mega-dungeon de Ardisvala); doctrina sincrética con figuras del polo oscuro"
 tags:
  - entidad
  - deidad
@@ -54,7 +54,7 @@ imagen: null
 
 ## El Forum de Set
 
-**El [[Forum_de_Set]]** —*nivel 4 del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]*— **es sede arquitectónica central del culto**. *Su estructura*: **gran sala hipostila con bajorrelieves de Set en operación cíclica**, *altar central con doctrina específica del polo oscuro*. **[[Marius_Urianius]]** *(figura sacerdotal mayor del culto)* **opera el aparato** *junto con figuras menores como Estefanía y Melisario*.
+**El [[Forum_de_Set]]** —*templo hipogeo del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]*— **es sede arquitectónica central del culto**. *Su estructura*: **gran sala hipostila con bajorrelieves de Set en operación cíclica**, *altar central con doctrina específica del polo oscuro*. **[[Marius_Urianius]]** *(figura sacerdotal mayor del culto)* **opera el aparato** *junto con figuras menores como Estefanía y Melisario*.
 
 *El [[Culto_de_Set]]* **es la facción del aparato cultual**; **el Forum es la geografía**; **Tod-Set es la deidad**. *Los tres operan en triángulo doctrinal*.
 
@@ -66,7 +66,7 @@ imagen: null
 
 - **Renovación violenta de instituciones decadentes** — *los aparatos que han caducado son destruidos por operación setiana*.
 - **Sancionamiento del cambio dinástico** — *cuando un linaje imperial cae, opera doctrina de Tod-Set*; **cuando un linaje sube, opera doctrina de Mitra**.
-- **Operación de las crisis cíclicas** — *las crisis imperiales mayores* (*el Gran Cisma Mágico*, *el Hiato de los Quince Años de Ardisvala*) **operan bajo doctrina setiana de destrucción liberadora**.
+- **Operación de las crisis cíclicas** — *las crisis imperiales mayores* (*el Gran Cisma Mágico*, *el [[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]] de Ardisvala*) **operan bajo doctrina setiana de destrucción liberadora**.
 - **Tolerancia con figuras del polo negativo cosmológico** — *Tod-Set opera en margen con figuras del Anti-Inferno, con doctrinas heterodoxas del polo dual*; **la doctrina decadiana ortodoxa tolera estos cruces con vigilancia**.
 
 [*Tod-Set es la deidad cuya operación demuestra que el Imperio Archonteo no se sostiene en la estabilidad sola: se sostiene también en la capacidad de renovación violenta. Quien lo olvida, ha olvidado por qué el aparato sigue operando después de mil años de crisis cíclicas. —Glosa de [[Arkos]] el archivero del Plata.*]
@@ -90,4 +90,4 @@ imagen: null
 - **Era imperial primigenia** — establecimiento del culto sincrético
 - **Reformas decadianas sucesivas** — codificación de la doctrina del polo oscuro
 - **Crisis cíclicas mayores** — operación setiana documentada
-- **Imperio actual (ciclo presente)** — culto activo en el Forum bajo Marius Urianius
+- **Imperio actual (ciclo presente)** — culto activo en el Forum bajo [[Marius_Urianius]]

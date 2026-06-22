@@ -1,35 +1,25 @@
 ---
-tags: [NCR, UI, rosismo, 1838, ucronia, PC]
-meta: M
-image: _assets/NCR/Mestizo_de_los_ojos_cambiantes__PC__UI_S1_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags:
+ - "personaje"
+ - "ncr"
+ - "rosismo"
+ - "frontera"
+ - "mestizo"
+ - "1838"
+aliases:
+ - "Mestizo de los ojos cambiantes"
+ - "el Mestizo"
 ---
 
-# Mestizo de los ojos cambiantes (PC, UI S1)
+# Mestizo de los ojos cambiantes
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/NCR/Mestizo_de_los_ojos_cambiantes__PC__UI_S1_retrato.png`
-> **Prompt sugerido:** Ilustración de Mestizo de los ojos cambiantes (PC, UI S1). Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+No tiene nombre en los registros: se lo conoce por lo que el ojo ve antes de que él hable. La mezcla de sangres le dio un color de piel que no encaja limpiamente en ningún padrón, y unos ojos que cambian de tono según el humor —fenómeno que los vecinos del fortín comentan en voz baja y que él no ha explicado nunca. Se cubre la mitad del rostro con un pollerón, usa las ropas de los hombres de campo, y necesita agua con una urgencia que va más allá de la sed ordinaria: una exigencia casi ritual, casi fisiológica, cuyo origen no queda claro.
 
-![[Mestizo_de_los_ojos_cambiantes__PC__UI_S1_retrato.png]]
+Su lugar en la frontera rosista es el del explorador nato: curioso, silencioso, capaz de investigar lo que otros prefieren no tocar. En él conviven el temple del hombre forjado en el entrenamiento duro —ese tipo de figura que la tropa llama, en su jerga, "un sacado", alguien elegido por el porte tanto como por la habilidad— y el instinto del que rastrea señales donde la mayoría ve paisaje vacío. No es indio, no es blanco: es la categoría intermedia que la pampa produce y que ni federales ni unitarios saben bien cómo nombrar.
 
+El ojo que cambia con el estado de ánimo lo marca como algo más que un hombre de frontera ordinario. En una tierra donde la leyenda y el hecho se rozan, esa señal no pasa inadvertida para quienes saben leer los signos.
 
-## Capa juego
-
-Personaje jugador en S1, sin nombre propio claro en transcript. Descrito en S1 ¶0843: "una mezcla de un color así mestizo, tiene un ojo de distinto color depende su humor, lo cual tampoco nos gusta mucho, lleva como si fuera... los pantalones que usan los machos, se tapa con un polerón solo los ojos, no le gusta el espíritu de cosas, no le puede faltar el agua, lo suficiente curiosa, pero le gusta investigar todo". El Master añade ¶0852: "también le interesa investigar un poquito de lo que se sienta".
-
-Combina rasgos de **bárbaro** (en sentido N&C: "elegido por su porte, por su entrenamiento, por ser un sacado", S1 ¶0068) e investigador. Probablemente background **Frontier** o **Tracker**. El indicio "no le puede faltar el agua" sugiere mecánica o trauma específicos (sed obsesiva, posible ritual).
-
-**Ref.:** S1 ¶0843-¶0852.
-
-## Capa [R] asertórica
-
-Jugador no identificado. Orador 5 en S1.
-
-## Notas
-
-- "Mestizo" como categoría operativa en UI: el hack mantiene del N&C original el cruce indio/colono pero lo desliza al mestizaje porteño/pampeano. En S1 ¶0068 el Master discute si "bárbaro = indio": "No precisamente. Hay todo el que sea elegido por su porte, por su entrenamiento, por ser un sacado, incluso los granaderos, que al final podía estar como el negro Falucho". La categoría "bárbaro" se amplía explícitamente a granaderos y a "el negro Falucho", referente histórico del granadero rioplatense en Callao 1824.
-- El ojo cambiante según el humor es marca **mítica/fantástica** insertada en un PC supuestamente realista. Si el PC continuara aparecería como portador de signos sobrenaturales — coherente con la cláusula del Master en S1 ¶0030-¶0034: "el juego sin modificación es mucho más fantástico... acá entre comillas más realista, aunque se crean las leyendas".
-
+## Vínculos
+- [[Torregrises]] — el cosmos troncal bajo cuyo nombre (Santa María de [[Torregrises]]) opera la capital rosista
+- [[Martin_Segovia]] — baqueano que guió a la partida en la que este personaje participó

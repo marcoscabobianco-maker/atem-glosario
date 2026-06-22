@@ -11,7 +11,7 @@ aliases:
  - "Bala (gema)"
 ---
 
-# Bala
+# Vala
 
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->
@@ -21,13 +21,13 @@ aliases:
 
 **Gema (rubí)** que contiene el mundo primario [[Eilidh]]. Creada como arca de salvación durante la [[Franja_de_la_Disolucion_TG|Franja de Disolución]]. Alberga ~1.200.000 almas evacuadas desde [[Antiterra_Demonia|Antiterra]] mediante magia dual.
 
-La **Génesis de Bala** es documento aparte. El mundo dentro de Bala es [[Eilidh]].
+La **Génesis de Vala** es documento aparte. El mundo dentro de Vala es [[Eilidh]].
 
 ## Conexiones
 
-- [[Eilidh]] (el plano primario contenido en Bala)
+- [[Eilidh]] (el plano primario contenido en Vala)
 - [[Franja_de_la_Disolucion_TG|Franja de Disolución]] (origen de la gema)
-- [[Cosmarca]] (pronuncia el número 1.200.000 — almas en Bala)
+- [[Cosmarca]] (pronuncia el número 1.200.000 — almas en Vala)
 
 ## Ver también
 

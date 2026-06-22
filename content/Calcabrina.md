@@ -2,7 +2,7 @@
 categoria: lugar
 tags:
  - "cdi"
- - "pnj"
+ - "figura"
  - "inferno"
  - "malebranche"
  - "diablo"
@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-Malebranche del segundo círculo, muerto por el grupo durante esta sesión. Su muerte deja a [[Torchavento]] en una posición vulnerable. Calcabrina aparece en el Inferno de Dante como uno de los doce demonios del Canto XXI.
+Malebranche del segundo círculo, muerto por el grupo durante esta jornada. Su muerte deja a [[Torchavento]] en una posición vulnerable. Calcabrina aparece en el Inferno de Dante como uno de los doce demonios del Canto XXI.
 
 ## Apariciones notables
 

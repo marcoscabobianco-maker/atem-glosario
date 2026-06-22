@@ -11,4 +11,4 @@ aliases:
 
 ## Presentación
 
-Raza. Benjamin (Walter Benjamin, 1892-1940), filósofo alemán; en Kanka muere frontera germana (suicidio por deportación). [[Iriart]], familia [[DreyFab]] ("el Fabuloso").
+Raza. Benjamin (Walter Benjamin, 1892-1940), filósofo alemán; muere en la frontera germana (suicidio por deportación). [[Iriart]], familia [[DreyFab]] ("el Fabuloso").

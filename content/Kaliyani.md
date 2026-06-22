@@ -13,7 +13,7 @@ tags:
  - subrace
  - ardis-vala
  - mega-dungeon-ardis-vala
- - SL09
+ - Kaliyani Pits
  - tsilliv
  - consorcio-doce
  - heqeti-renegada
@@ -22,24 +22,24 @@ tags:
 ---
 # Kaliyani (Consorcio Doce)
 
-> *Sub-raza heqeti renegada. Cuatro ojos. El Consorcio Doce dirigido por Tsilliv. Enemigo ancestral de los Varumani. Acaban de reaparecer.*
+> *Sub-raza heqeti renegada. Cuatro ojos. [[Tsilliv|El Consorcio Doce]] dirigido por Tsilliv. Enemigo ancestral de los [[Varumani]]. Acaban de reaparecer.*
 
 ## Presentación
 
-Los **Kaliyani** son una **sub-raza de los [[Heqeti]] renegada** —separados del culto a Kauket hace milenios—. Habitantes principales del **[[Mega_Dungeon_Arden_Vul]]** en el **Sub-Nivel 9 — Kaliyani Pits** (SL9). **Seres reptilianos con cuatro ojos**, descritos en archivos el archivo como tales.
+Los **Kaliyani** son una **sub-raza de los [[Heqeti]] renegada** —separados del culto a Kauket hace milenios—. Habitantes principales del **[[Mega_Dungeon_Arden_Vul]]** en las **Kaliyani Pits**, bajo el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]]. **Seres reptilianos con cuatro ojos**, descritos en archivos el archivo como tales.
 
 ### Estructura social: el Consorcio Doce
 
-Los Kaliyani de Arden Vul se organizan en el **Consorcio Doce** —doce líderes hechiceros— bajo el comando de:
+Los Kaliyani de [[Ardis_Vala|Arden Vul]] se organizan en el **Consorcio Doce** —doce líderes hechiceros— bajo el comando de:
 
 - **[[Tsilliv]]** ★ — líder del Consorcio Doce
 - **Otros 11 hechiceros** — no nombrados individualmente
 
 ### Reaparición reciente
 
-**Recientemente** los varumani **descubrieron** a un kaliyani scout team enviado por **Rivvep** (9-118) a explorar el chasm floor. **Lo mataron**. **[[Varboka]] First Thegn declaró bounty público: 100 gp por colmillo kaliyani**.
+**Recientemente** los varumani **descubrieron** a un kaliyani scout team enviado por **Rivvep** a explorar el chasm floor. **Lo mataron**. **[[Varboka]] [[Varboka|First Thegn]] declaró bounty público: 100 gp por colmillo kaliyani**.
 
-**Rivvep, kaliyani sorcerer**, lidera la **exploration team** desde SL9 hacia L9 (Silent Canyon, áreas 9-118 a 9-126).
+**Rivvep, kaliyani sorcerer**, lidera la **exploration team** desde Kaliyani Pits hacia Suelo del Gran Abismo (el Silent Canyon).
 
 ### Aliados y enemigos
 
@@ -48,7 +48,7 @@ Los Kaliyani de Arden Vul se organizan en el **Consorcio Doce** —doce líderes
 | **Enemigo ancestral (A)** | **[[Varumani]]** — bounty activo, conflicto declarado |
 | **Posible relación tensa** | **[[Heqeti]]** — son sub-raza renegada del mismo origen |
 | **Posible rival** | **[[Caballeros_Cicatriz_del_Sol|Sun-Scarred Knights]]** — los Sun-Scarred conocen su existencia |
-| **Negociación** | **Acuerdo 75%** con los Buscadores en el archivo — ¿qué fue exactamente? Pendiente |
+| **Negociación** | **Acuerdo 75%** con los [[Buscadores_de_Ardis_Vala|Buscadores]] en el archivo — ¿qué fue exactamente? Pendiente |
 
 ### Capacidades
 
@@ -63,15 +63,15 @@ Los Kaliyani de Arden Vul se organizan en el **Consorcio Doce** —doce líderes
 
 ### Función narrativa
 
-Los Kaliyani son **la facción "alienígena sorpresa"** del L9. Aparecen **silenciosamente, reactivamente, con poder mágico significativo**. Su **Consorcio Doce** es **organización oligárquica** —no monárquica como los Varumani, ni teocrática como los Heqeti—.
+Los Kaliyani son **la facción "alienígena sorpresa"** del Suelo del Gran Abismo. Aparecen **silenciosamente, reactivamente, con poder mágico significativo**. Su **Consorcio Doce** es **organización oligárquica** —no monárquica como los [[Varumani]], ni teocrática como los [[Heqeti]]—.
 
 **Posible conexión cosmológica:** si los Kaliyani son **heqeti renegados**, **se separaron por razón teológica** —rechazando a Kauket—. Esto los hace **potencial aliado** para los compañeros que **busquen impedir** la invocación de Kauket.
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- **SL9 — Kaliyani Pits** — su sede
-- [[L09_Floor_of_Great_Chasm|L9]] — exploration team activa
+- **Kaliyani Pits** — su sede
+- [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]] — exploration team activa
 - [[Heqeti]] — raza madre
 - [[Tsilliv]] — líder del Consorcio Doce
 - **Rivvep** — kaliyani sorcerer, líder exploration team
@@ -82,5 +82,5 @@ Los Kaliyani son **la facción "alienígena sorpresa"** del L9. Aparecen **silen
 
 ## Apariciones
 
-- **el archivo** — Acuerdo del 75% con los Buscadores (detalles a aclarar con )
+- **el archivo** — Acuerdo del 75% con los [[Buscadores_de_Ardis_Vala|Buscadores]] (detalles a aclarar con )
 - **Pendiente**: encuentro directo con el Consorcio Doce / Tsilliv

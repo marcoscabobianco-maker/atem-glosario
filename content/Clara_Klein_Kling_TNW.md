@@ -17,7 +17,7 @@ aliases:
 
 > *"En la sala de control la decisión se firma con una palanca. La palanca no sabe a quién mata."*
 
-La lámina la fija **en sala de control de los años setenta**: **pantsuit gris formal**, **cabello rubio recogido**, **gafas**. Detrás, **mapa de Gary, Indiana** con **iconos de bomba marcados**. Sobre el escritorio, **detonador armado** bajo su mano, **taza "Kling Global Solutions"**, **libro con su nombre grabado**. *Sudor en la frente: la enfermedad inexplicable que el archivo registra sin diagnóstico.*
+La lámina la fija **en sala de control de los años setenta**: **pantsuit gris formal**, **cabello rubio recogido**, **gafas**. Detrás, **mapa de [[Gary_Indiana_TNW|Gary, Indiana]]** con **iconos de bomba marcados**. Sobre el escritorio, **detonador armado** bajo su mano, **taza "Kling Global Solutions"**, **libro con su nombre grabado**. *Sudor en la frente: la enfermedad inexplicable que el archivo registra sin diagnóstico.*
 
 ## Presentación
 

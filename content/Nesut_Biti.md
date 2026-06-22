@@ -1,43 +1,22 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/Nesut_Biti_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "vala"]
+aliases: ["Nesut Biti", "Nesut"]
 ---
 
 # Nesut Biti
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Nesut_Biti_retrato.png`
-> **Prompt sugerido:** Ilustración de Nesut Biti. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[Nesut_Biti_retrato.png]]
+Nesut Biti es una provincia del orbe Vala: territorio rico pero no capital, cuya prosperidad descansa sobre acantilados de mármol, bosques de viveros y un templo mayor consagrado a Nesu-Ishtar. Su nombre encierra la doble corona —el alto y el bajo— en un sincretismo que el orbe Vala hereda de los grandes reinos del este. [[Barrado_Balacan|El territorio]] se articula en dos aldeas gemelas a ambos lados del río, imagen especular de una misma comunidad dividida por el agua.
 
+El gobierno nominal lo ejerce un Gobernador de nobleza provincial, cuya autoridad palidece frente a la capital Uruk. Pero las figuras de peso real en Nesut Biti son otras: la sacerdotisa [[Jalrua_Ishtarensis]] del templo de Nesu, y la [[Capitana_Andreas|Capitana Andreas]], autoridad militar de la zona. Fue el Gobernador quien encomendó a Yuvé la desactivación de un símbolo-trampa oculto en la cripta del templo, misión que marcó el primer contacto del grupo con este territorio.
 
-**Acción:** Crear.
+Nesut Biti es también el escenario del largo arco contra el [[El_Devorador|Devorador]]: el lugar es asediado, regresado y disputado a lo largo de varias jornadas hasta el cierre del arco. En sus bóvedas subterráneas reposa en animación suspendida [[Talia_Cristalia]], custodiada por el silencio del templo. El Gobernador —cuyo nombre el archivo no ha conservado— terminará destruido por un meteorito: el arka meteoron que borrará su poder de la tierra.
 
-## Capa juego
-
-Localización. Tipo: territorio/zona con templo principal de **Nesu/Ishtar**, **acantilados de mármol**, **bosques de viveros**. Mencionado por el Master en intro_yuvé como "territorio que no es una ciudad principal, pero que es muy rico". Provincia del orbe Vala, gobernada por un **Gobernador** local cuyo poder es "nobleza de provincia" frente a la capital Uruk.
-
-Etimología: "Nesut Biti" remite al título egipcio *nswt-bjtj* (rey del alto y bajo Egipto). En VALA Marcos opera con sincretismo mesopotámico-egipcio (Nesu, Set, Toth, Mitra aparecen en el corpus Ardis Vala paralelo).
-
-Eventos clave en el corpus VALA:
-- **Templo de Nesu** (sacerdotisa **Jalrua Ishtarensis**). Sitio de reposo de [[Talia Cristalia]] en animación suspendida.
-- Existe un **símbolo-trampa** en la cripta del templo — desactivado por Yuvé contra paga del Gobernador.
-- Sheridan **engaña al Gobernador** (sesión homónima).
-- Arco "**contra el Devorador y Nesut**" — el lugar es centro de un arco antagónico extenso. Filename `retorno a Nesut1` indica regreso post-arco.
-
-Variante ASR detectada: *Nesut bity*, *Nesut Biti* (estable).
-
-## Ref.
-
-individual_sheridan_engaña_gibernador_nesut_bity; individual_gharkhan_con_luigi_vampq (Nesut Biti aparece 1); retorno a Nesut1; contra_el_devorador_y_nesut_revisitado_2 (es la sesión troncal); rol_fin_de_arco_contra_el_devorador_nesut; intro_yuvé (referencia inicial).
-
-## Preguntas
-
-1. ¿Nesut es el nombre del territorio y Nesut Biti la forma extendida, o son cosas distintas? sí, pero se habla de aldeas gemelas, de uno y otro lado del río
-2. ¿Geografía pampeana subyacente? "Acantilados de mármol" remite a Mar del Plata/Miramar.sí
-3. ¿Quién es el Gobernador (nombre)? no recuerdo pero más importantes son la sacerdotisa y la capitana como figuras de autoridad, recuerdo un gobernador en Tres Arroyos que luego será destruida por meteorito arka meteoron
-
+## Vínculos
+- [[Jalrua_Ishtarensis]] — sacerdotisa del templo de Nesu; figura de autoridad real en Nesut Biti
+- [[Capitana_Andreas]] — autoridad militar de la provincia
+- Yuvé — primer contacto de los Wordbreakers con el territorio; desactivó la trampa del templo
+- [[Sheridan]] — engañó al Gobernador en una misión individual
+- [[Talia_Cristalia]] — reposa en animación suspendida en las bóvedas del templo
+- [[El_Devorador]] — antagonista central del arco extendido ambientado aquí
+- [[Persuader]] — agente del Gobernador, activo durante todo el arco

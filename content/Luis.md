@@ -23,4 +23,4 @@ compañero incorporado en NC10. Acusado por el Capitán del [[Wander]] de "ayuda
 
 ## Notas
 
-Las visiones del ritual psicotrópico de [[Farruco_Arrastrado_al_Pozo_NC16|NC16]] revelan su pasado: niño rezando ante vitrales de los Jinetes del Apocalipsis. ¿Conexión con los Jinetes de [[Paris_Ucronica|París Ucrónica]]?
+Las visiones del ritual psicotrópico de [[Farruco_Arrastrado_al_Pozo_NC16|NC16]] revelan su pasado: niño rezando ante vitrales de los [[Jinetes_del_Apocalipsis]]. ¿Conexión con los Jinetes de [[Paris_Ucronica|París Ucrónica]]?

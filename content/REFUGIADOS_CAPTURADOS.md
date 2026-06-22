@@ -15,7 +15,7 @@ aliases:
 - Algunas reconocen a rescatadores (conexión previa no aclarada)
 - Total: ~varios decenas (estimado)
 
-**Rol narrativo:** Objetivo de rescate, justificación moral para incursión en laberinto. Post-combate con Cíclope, Lirio/[[Reynaud|Reynaud]] les ordena seguir el hilo a la salida.
+**Rol narrativo:** [[Objetivo]] de rescate, justificación moral para incursión en laberinto. Post-combate con Cíclope, Lirio/[[Michel|Michel]] les ordena seguir el hilo a la salida.
 
 **Ref.:** Líneas 290-310, 550-560
 

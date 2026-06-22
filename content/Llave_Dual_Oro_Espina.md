@@ -23,7 +23,7 @@ tags:
 
 # Llave Dual (oro y espina)
 
-> *"La llave de oro y espina". Artefacto de afinación moral. Posesión de Alumine. Conecta con el Circuito de Medianoche / Obsidian Gates. Una llave que el demonio negoció con la espada en el regreso tras el Hiato.*
+> *"La llave de oro y espina". Artefacto de afinación moral. Posesión de Alumine. Conecta con el Circuito de Medianoche / [[Obsidian_Gates_Midnight_Road|Obsidian Gates]]. Una llave que el demonio negoció con la espada en el regreso tras el Hiato.*
 
 ## Presentación
 
@@ -38,14 +38,14 @@ La **Llave Dual de Oro y Espina** es un **artefacto de "afinación moral"** que 
 
 ### Su conexión con el Circuito de Medianoche
 
-**[[Obsidian_Gates_Midnight_Road|Obsidian Gates / Midnight Road]]** (Nivel 5) — **donde Alumine sospecha que la llave opera**. **El circuito de medianoche** es el **broad corridor rudishva que conecta sitios importantes** (5-91), incluyendo:
+**[[Obsidian_Gates_Midnight_Road|Obsidian Gates / Midnight Road]]** — **donde Alumine sospecha que la llave opera**. **El circuito de medianoche** es el **broad corridor rudishva que conecta sitios importantes**, incluyendo:
 
-- Cloister + transportation hub (5-92, 5-94)
-- Rudishva forge (5-89)
-- Lair varuda (5-111)
-- Armory (5-118)
-- Troll pits (5-131)
-- Great Pillar (5-138)
+- Cloister + transportation hub
+- [[Rudishva]] forge
+- Lair varuda
+- Armory
+- Troll pits
+- Great Pillar
 
 **Posible función**: la Llave **abre alguna sección secreta del Midnight Road** o **activa algún mecanismo rudishva** que requiere afinación moral.
 
@@ -65,26 +65,26 @@ En **el regreso tras el Hiato**, en el círculo de invocaciones que [[Valerius_U
 
 - **Material doble**: oro + espina cristalizada
 - **Función**: requiere **portador moralmente afinado** —alineamiento específico o **pureza ritual**
-- **Uso**: abre puertas / mecanismos en el Midnight Road (L5)
-- **Riesgo**: portador no afinado **sufre daño** (espina), **drains XP/HP**, o **cambio de alineamiento forzado**
+- **Uso**: abre puertas / mecanismos en el Midnight Road
+- **Riesgo**: portador no afinado **sufre la espina**: drena vigor y memoria, o **tuerce el alma por la fuerza**
 - **Posible artefacto bouncer**: detecta intenciones y bloquea uso indebido
 
 ### Alumine como portador
 
 [[Alumine|Alumine Manwe Finwe]] (compañero) — **Rockseer Elf bladesinger** —**decapitó al Maestro Malakita** en la fase media del ciclo primero. **Posesión de la llave dual** se alinea con su **rol moral** del grupo: **eje purificador**, **discernimiento entre bien y mal**.
 
-### Post-hiato (Reveal 2026-05-20)
+### Post-hiato (revelación del archivo)
 
 Con la entrada en **Ravenloft**:
 
 - **La llave puede haberse activado / desactivado** por las nuevas mecánicas cosmológicas
-- **El Papa Alejandro Sixto** puede **convocar la llave** si Alumine **falla un powers check** o **cede su afinación moral**
-- **Posible uso** en sesiones siguientes para abrir alguna prisión / acceder a un secreto crítico del Midnight Road
+- **El [[Papa_Alejandro_Sixto]]** puede **convocar la llave** si Alumine **falla un powers check** o **cede su afinación moral**
+- **Posible uso** en jornadas siguientes para abrir alguna prisión / acceder a un secreto crítico del Midnight Road
 
 ## Vínculos
 
 - [[Alumine]] — portador
-- [[Obsidian_Gates_Midnight_Road|L5 Midnight Road]] — locus de uso
+- [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana Midnight Road]] — locus de uso
 - [[Rudishva]] — origen tecnológico probable
 - [[Valerius_Utrecht]] — testigo de la oferta demoníaca
 - [[Argus_PJ]] — paradigma caído presente en el regreso tras el Hiato
@@ -95,6 +95,6 @@ Con la entrada en **Ravenloft**:
 
 ## Apariciones
 
-- **Posesión de Alumine** — múltiples sesiones
+- **Posesión de Alumine** — múltiples jornadas
 - **el regreso tras el Hiato**: oferta demoníaca de "la llave del Circuito de Medianoche"
-- **Pendiente**: uso explícito en alguna sesión
+- **Pendiente**: uso explícito en alguna jornada

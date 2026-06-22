@@ -25,7 +25,7 @@ tags:
 ![[Imagenes_Tier1/Philippe.png]]
 <!-- /HEADER_IMG -->
 
-> *El relojero del Primer Reloj. El que cargó la Enmienda de Kronamon y aprendió a usar el matrimonio como arma.*
+> *El relojero del Primer Reloj. El que cargó la [[Enmienda_de_Kronamon]] y aprendió a usar el matrimonio como arma.*
 
 ## Presentación
 
@@ -35,11 +35,11 @@ Y entonces vino la **caída**. Doce años antes del Philippe que conocemos, **Pa
 
 Ahí empezó lo otro. Una **figura titánica** se le apareció en sueños. Le enseñó a potenciar las capacidades de los seres vivos —no a sanar, no a herir, sino a **amplificar**: hacer que el caballo corra más, que el aliado vea más lejos, que el corazón del enemigo lata por un instante con miedo—. Philippe creció con esa enseñanza secreta, sin saber del todo de quién venía.
 
-Lo que la figura le preparaba se reveló cuando heredó **El Primer Reloj** —legendario, canalizador del poder de **Kronamon**, el dios del tiempo—. Con el reloj llegó la **Enmienda de Kronamon**: una *quest* que pesa más que cualquier juramento. Corregir un ascenso astral sesgado, deshacer lo que se había hecho mal en el flujo del tiempo, devolverle al cosmos algo que se le había quitado.
+Lo que la figura le preparaba se reveló cuando heredó **[[El_Primer_Reloj]]** —legendario, canalizador del poder de **[[Kronamon]]**, el dios del tiempo—. Con el reloj llegó la **[[Enmienda_de_Kronamon]]**: una *quest* que pesa más que cualquier juramento. Corregir un ascenso astral sesgado, deshacer lo que se había hecho mal en el flujo del tiempo, devolverle al cosmos algo que se le había quitado.
 
 Su arma no es la espada. Es **el matrimonio político**, el anillo vinculante, la diplomacia. Por amor se mete en disputas que no son suyas —Mony, Bucarest, Sarajevo—. Por amor financia huidas. Por amor intenta dormir cien años en las **Cuevas de Éfeso**, esperando despertar en otro siglo donde el dolor no le pese tanto. Lo despiertan a medias.
 
-Es el más joven del grupo Time Bandits. También el más herido desde antes del comienzo.
+Es el más joven del grupo [[Time_Bandits]]. También el más herido desde antes del comienzo.
 
 ## Vínculos
 
@@ -54,8 +54,8 @@ Es el más joven del grupo Time Bandits. También el más herido desde antes del
 
 ## Apariciones
 
-- París Ucrónica ~1901 — primer encuentro en la taberna Montparnasse
-- Bucarest — viaje en Orient Express, conspiración del Príncipe
+- [[Paris_Ucronica|París Ucrónica]] ~1901 — primer encuentro en la taberna Montparnasse
+- Bucarest — viaje en [[Orient_Express]], conspiración del Príncipe
 - Sarajevo 1914 — uso de rollo de teleportación
-- Constantinopla 1055 — búsqueda de respuestas sobre Kronamon
+- [[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]] — búsqueda de respuestas sobre [[Kronamon]]
 - Cuevas de Éfeso — intento fallido de letargo

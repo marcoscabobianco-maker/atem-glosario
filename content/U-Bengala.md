@@ -18,4 +18,4 @@ Artefacto viaje temporal. Usa astros como referencia. Viaje instantáneo más r�
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]]: lanzamiento por [[Thomas_Cole|Thomas Cole]] desde yate en naufragio de Mar de Mármara, provoca salto temporal de 1901 a 1055 ([[Constantinopla_Ucronica_1055_CE|Constantinopla]]). sesión posterior: componente crítico para ritual sucrónico, integración con bola de cristal de [[Moni_Vivescu|Moni]]. sesión posterior: uso continuo para navegación temporal entre épocas (1055, [[Batalla_de_Kosovo_1389|1389]], siglos posteriores).
+[[Paris_Ucronica|París Ucrónica]]: lanzamiento por [[Thomas_Cole|Thomas Cole]] desde yate en naufragio de Mar de Mármara, provoca salto temporal de 1901 a 1055 ([[Constantinopla_Ucronica_1055_CE|Constantinopla]]). jornada posterior: componente crítico para ritual sucrónico, integración con bola de cristal de [[Moni_Vivescu|Moni]]. jornada posterior: uso continuo para navegación temporal entre épocas (1055, [[Batalla_de_Kosovo_1389|1389]], siglos posteriores).

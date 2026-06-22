@@ -28,4 +28,4 @@ Cosmogonía Gris (1 mención — chispa que despierta parcialmente a [[Avishai_d
 
 ## Notas
 
-Ejemplo del sincretismo D&D-setting propio que caracteriza a [[Torregrises]].
+Ejemplo del sincretismo entre la tradición planar heredada y el mundo propio que caracteriza a [[Torregrises]].

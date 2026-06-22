@@ -24,7 +24,7 @@ imagen: null
 ---
 # Eusebia Phokas
 
-> *"La tesmóteta es la figura que la mano del Basileus nombra cuando el alcaide es lo bastante hábil para sospechar que su propio control administrativo es insuficiente, y lo bastante prudente para aceptar la supervisión. Quien rechaza a su tesmóteta, pierde la patente de alcaidía. Quien la abraza, mantiene la patente y pierde la sombra. Es siempre una transacción."* — del *Decadiano*, libro XII, sobre las jurisdicciones administrativas del aparato imperial.
+> *"La tesmóteta es la figura que la mano del Basileus nombra cuando el alcaide es lo bastante hábil para sospechar que su propio control administrativo es insuficiente, y lo bastante prudente para aceptar la supervisión. Quien rechaza a su tesmóteta, pierde la patente de alcaidía. Quien la abraza, mantiene la patente y pierde la sombra. Es siempre una transacción."* — del *[[Decadiano]]*, libro XII, sobre las jurisdicciones administrativas del aparato imperial.
 
 La lámina —*la tesmóteta sentada ante el libro mayor de su oficina*— **no se ha consignado todavía**. ha respondido que prefiere esperar a que el libro mayor esté abierto sobre la mesa, *y no cerrado en el estante*; *en el primer caso, la figura se reconoce; en el segundo, sólo se reconoce el cargo*. El cronista respeta la distinción.
 
@@ -32,21 +32,21 @@ La lámina —*la tesmóteta sentada ante el libro mayor de su oficina*— **no 
 
 ## El cargo
 
-**Eusebia Phokas** es **tesmóteta imperial** —*thesmothetes archonteus*, *"administradora de las leyes y los registros"*— de la **[[Fortaleza_Azur|Fortaleza Azur]]** y, *por extensión jurisdiccional*, **de la villa de [[Glastumville]] entera**. **Asignada por la cancillería de Narsileon hacia el 2986 AEP**, *poco después de la consolidación de la alcaidía de [[Sir_Glastum]]*.
+**Eusebia Phokas** es **tesmóteta imperial** —*thesmothetes archonteus*, *"administradora de las leyes y los registros"*— de la **[[Fortaleza_Azur|Fortaleza Azur]]** y, *por extensión jurisdiccional*, **de la villa de [[Glastumville]] entera**. **Asignada por la cancillería de [[Narsileon]] hacia el 2986 AEP**, *poco después de la consolidación de la alcaidía de [[Sir_Glastum]]*.
 
 El **tesmóteta** —*figura administrativa imperial menor pero estructuralmente clave*— **lleva los libros oficiales** de la jurisdicción: *registro de población, censo de mercaderes, cuentas del diezmo del dungeon, libros de patente, archivo de pleitos menores, correspondencia con la cancillería superior*. **No tiene mando militar**. **No oficia liturgia**. **No firma sentencias mayores**. **Pero sin tesmóteta, el aparato imperial no opera**: *la alcaidía queda como cargo personal sin sustento institucional*.
 
-El nombramiento de un tesmóteta a la alcaidía de Glastum **fue señal cancilleresca**: **el aparato imperial reconocía a Sir Glastum como autoridad legítima** —*alcaide extraoficial pero confirmado*— **siempre que aceptara supervisión administrativa formal**. *Sir Glastum aceptó*. *El aparato envió a Eusebia*.
+El nombramiento de un tesmóteta a la alcaidía de [[Sir_Glastum|Glastum]] **fue señal cancilleresca**: **el aparato imperial reconocía a [[Sir_Glastum]] como autoridad legítima** —*alcaide extraoficial pero confirmado*— **siempre que aceptara supervisión administrativa formal**. *Sir Glastum aceptó*. *El aparato envió a Eusebia*.
 
 ---
 
 ## La casa Phokas
 
-**Eusebia pertenece a la casa Phokas** —*linaje aristocrático imperial de antigüedad media*, *con orígenes en los exarcatos de Narsileon*, **vinculada por matrimonios laterales a algunas familias mayores del aparato cancilleresco**—. *La casa Phokas no es de las más antiguas* —*no se remonta al Pacto, ni a la Reconquista de Bellatrix*— *pero es de las más sólidas*: **ha producido tesmótetas, exarcas menores, sacerdotes ortodoxos de jerarquía intermedia** durante varias generaciones.
+**Eusebia pertenece a la casa Phokas** —*linaje aristocrático imperial de antigüedad media*, *con orígenes en los exarcatos de [[Narsileon]]*, **vinculada por matrimonios laterales a algunas familias mayores del aparato cancilleresco**—. *La casa Phokas no es de las más antiguas* —*no se remonta al Pacto, ni a la Reconquista de Bellatrix*— *pero es de las más sólidas*: **ha producido tesmótetas, exarcas menores, sacerdotes ortodoxos de jerarquía intermedia** durante varias generaciones.
 
-*Eusebia es la tercera Phokas en cargo tesmotético de la generación actual*. **Una hermana mayor sirve en Arcturos**; *un primo, en provincia oriental cuyo nombre el archivo del valle no precisa*. La familia opera **como red administrativa**: *cuando un Phokas necesita información de otra región del Imperio, la red interna la suministra antes de que la cancillería oficial la procese*.
+*Eusebia es la tercera Phokas en cargo tesmotético de la generación actual*. **Una hermana mayor sirve en [[Arcturos]]**; *un primo, en provincia oriental cuyo nombre el archivo del valle no precisa*. La familia opera **como red administrativa**: *cuando un Phokas necesita información de otra región del Imperio, la red interna la suministra antes de que la cancillería oficial la procese*.
 
-[*La red Phokas es uno de los aparatos paralelos al aparato oficial del Imperio. Opera bien. La cancillería de Drusus IX la tolera porque la red Phokas no compite con el aparato — lo lubrica. —Glosa de [[Arkos]].*]
+[*La red Phokas es uno de los aparatos paralelos al aparato oficial del Imperio. Opera bien. La cancillería de [[Drusus_IX_El_Palido|Drusus IX]] la tolera porque la red Phokas no compite con el aparato — lo lubrica. —Glosa de [[Arkos]].*]
 
 ---
 
@@ -67,7 +67,7 @@ El nombramiento de un tesmóteta a la alcaidía de Glastum **fue señal cancille
 
 ## El templo y la fe
 
-Eusebia profesa la **[[Iglesia_Imperial|Ortodoxia Decadiana]]** —*familia Phokas tradicionalmente ortodoxa, sin desviaciones reconocidas hacia los Doce*—. Asiste **al oficio decadía** en la capilla improvisada de la Fortaleza Azur que el alcaide habilitó para **[[Mitra]]**.
+Eusebia profesa la **[[Iglesia_Imperial|Ortodoxia Decadiana]]** —*familia Phokas tradicionalmente ortodoxa, sin desviaciones reconocidas hacia los Doce*—. Asiste **al oficio decadía** en la capilla improvisada de la [[Fortaleza_Azur]] que el alcaide habilitó para **[[Mitra]]**.
 
 *Su devoción es discreta*, *no fervorosa*. **No discute teología**. **No pregunta** sobre el **santuario clandestino a Thoth** que algunos magos del séquito del alcaide mantienen en cámara lateral. *La fórmula tesmotética en estos casos es:* **"lo que no entra en mis libros, no existe en mi jurisdicción"**. **El santuario no entra en sus libros**. *Por lo tanto*, en lo administrativo, **no existe**.
 
@@ -82,7 +82,7 @@ El día tesmotético de Eusebia, *en formato que el archivo conserva por inferen
 - **Tarde**: correspondencia. *Cartas a la cancillería de Narsileon*, *misivas privadas a la red familiar Phokas*, *recepción de pliegos del exarca*.
 - **Noche**: trabajo de archivo. *Catalogación, traducción de pliegos en lenguas menores, corrección de censos del trimestre*.
 
-*Su despacho está en el ala norte de la Fortaleza Azur*, *con ventana baja sobre Glastumville*. *La ventana le da panorama parcial de la villa* —*calle del mercado, posada principal, talleres de la cofradía, capilla de Mitra*—; **no le da panorama de la villa al margen** —*callejuelas de la Hermandad Benévola, tabernas de aventureros, sitios donde el censo no llega*—. *La asimetría arquitectónica es deliberada*: **la tesmotetia ve lo que la cancillería necesita ver; no ve lo que la villa necesita ocultar**.
+*Su despacho está en el ala norte de la [[Fortaleza_Azur]]*, *con ventana baja sobre [[Glastumville]]*. *La ventana le da panorama parcial de la villa* —*calle del mercado, posada principal, talleres de la cofradía, capilla de Mitra*—; **no le da panorama de la villa al margen** —*callejuelas de la Hermandad Benévola, tabernas de aventureros, sitios donde el censo no llega*—. *La asimetría arquitectónica es deliberada*: **la tesmotetia ve lo que la cancillería necesita ver; no ve lo que la villa necesita ocultar**.
 
 ---
 
@@ -105,7 +105,7 @@ El archivo decadiano **no preserva información personal extensa** sobre Eusebia
 
 - **Sobrevivió en la Fortaleza Azur** si la fortaleza siguió en pie durante el cierre del valle al dominio brumoso. *Habría seguido oficiando administración tesmotética bajo el alcaide Glastum, si Glastum también sobrevivió*.
 - **Se replegó a Narsileon** si la Fortaleza cayó o se aisló *cuando las brumas de Valakhan se cosieron al valle*. *Habría continuado servicio Phokas en la metrópolis*.
-- **Operó clandestinamente en Glastumville** como **funcionaria de un alcaide depuesto**, *bajo autoridad informal de la villa frente al dominio brumoso*. *Hipótesis minoritaria, sostenida por pliegos rurales del ciclo presente*.
+- **Operó clandestinamente en [[Glastumville]]** como **funcionaria de un alcaide depuesto**, *bajo autoridad informal de la villa frente al dominio brumoso*. *Hipótesis minoritaria, sostenida por pliegos rurales del ciclo presente*.
 
 *El archivo no resuelve*. **La tesmóteta es, en el ciclo presente, figura cuyo destino se ignora**.
 
@@ -121,7 +121,7 @@ El archivo decadiano **no preserva información personal extensa** sobre Eusebia
 - [[Mercaderes_Factoriales]] — cofradía con la que mantiene relación cordial formal
 - [[Hermandad_Benevola]] — clandestinos a quienes "no entran en mis libros"
 - [[Drusus_IX_El_Palido|Basileus Drusus IX]] — autoridad imperial superior remota
-- [[Iglesia_Imperial]] — Ortodoxia Decadiana de los Diez
+- [[Iglesia_Imperial]] — [[Iglesia_Imperial|Ortodoxia Decadiana]] de los Diez
 - [[Mitra]] — dios oficiado en la capilla de la Fortaleza
 - [[Thoth]] — dios del santuario clandestino que la tesmóteta "no ve"
 - **Casa Phokas** — linaje aristocrático imperial
@@ -134,5 +134,5 @@ El archivo decadiano **no preserva información personal extensa** sobre Eusebia
 - **~2986 AEP — Asignación a Glastumville** — la cancillería de Narsileon nombra a la tesmóteta tras la consolidación de la alcaidía
 - **Establecimiento del acuerdo táctico con Sir Glastum** — sociedad asimétrica con beneficio mutuo
 - **Administración cotidiana del ciclo previo al Hiato** — libros, correspondencia, relación con cofradías y mercaderes
-- **Hiato de los Quince Años** — paradero objeto de pregunta abierta
+- **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — paradero objeto de pregunta abierta
 - **Ciclo presente** — sin confirmación de supervivencia ni de oficio continuado

@@ -24,12 +24,12 @@ aliases:
 - **Habilidades:**
  - Blasfemia (conjuro; 40 pies de radio)
  - Disipar Magia (intento fallido contra [[Patriarca]])
- - Ataque múltiple (3 ataques/round)
+ - Ataque múltiple — tres golpes por embate
  - Vuelo
-- **Daño recibido en la jornada de la campana templaria:**
- - Forbiddence de campana: ~72 HP (mínimo)
- - Daño adicional de combate: sin cuantificar exactamente
+- **Castigo recibido en la jornada de la campana templaria:**
+ - El Forbiddence de la campana lo quemó hasta el hueso
+ - Heridas adicionales de combate, sin cuenta exacta
  - Estado: "Muy dañado" pero **ESCAPA a zona 5**
 - **Estado final:** Vivo; en fuga; ubicación: Zona 5
 - **Importancia:** Antagonista secundario aún activo; potencial reencuentro en zona 5
-- **Conexión el Descenso:** Presagia "condenación [[Arsvan|Ärsvan]] al Infierno" (criatura infernal remanente?)
+- **Conexión el Descenso:** Presagia "condenación [[Arsvan|Ärsvan]] al [[Infierno]]" (criatura infernal remanente?)

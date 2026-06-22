@@ -19,7 +19,7 @@ tags:
 ---
 # Bayrum Quar'amon Cristalia
 
-> *Hijo de mercader de pimienta del Río Ucronos. Parte drow. Sacerdote de Thoth y hechicero. Sortiano sin declaración formal.*
+> *Hijo de mercader de pimienta del Río [[Rio_Ucronos|Ucronos]]. Parte drow. Sacerdote de Thoth y hechicero. Sortiano sin declaración formal.*
 
 ## Presentación
 
@@ -27,11 +27,11 @@ tags:
 
 ### Origen y línea
 
-**Hijo de un mercader de pimienta del [[Rio_Oukronos|Río Ucronos]]**. El detalle no es decorativo: el río ucronos atraviesa la cosmología del setting, asociado con el flujo del tiempo y con elementos arcanos del archivo (Eilidh, vestigios cristalinos). Ser **hijo de mercader del río ucronos** lo inscribe en la **línea económica trans-tiempo** del setting. La **pimienta** —especia preciosa en la economía pre-industrial— marca su clase social: comercio de especias, contacto con rutas largas, dinero líquido.
+**Hijo de un mercader de pimienta del [[Rio_Ucronos|Río Ucronos]]**. El detalle no es decorativo: el río ucronos atraviesa la cosmología del setting, asociado con el flujo del tiempo y con elementos arcanos del archivo ([[Eilidh]], vestigios cristalinos). Ser **hijo de mercader del río ucronos** lo inscribe en la **línea económica trans-tiempo** del setting. La **pimienta** —especia preciosa en la economía pre-industrial— marca su clase social: comercio de especias, contacto con rutas largas, dinero líquido.
 
-### Clase: Scrivener Nivel 7
+### Oficio: Scrivener, séptimo grado de su temple
 
-**Scrivener** —escriba/sacerdote, en el contexto Arden Vul **sacerdote de Thoth con poderes de hechicero**—. Nivel 7. Es **híbrido clérigo/mago**: el cuadro de hechizos confirmado lo muestra usando **Haste** y **Mirror Image** (arcanos) junto a **Remove Curse** (clerical). La doble corriente arcana/divina es estructural del personaje, no recurso eventual. La función social: **el grupo lo conoce por función ("el sacerdote de Thoth") más que por nombre**.
+**Scrivener** —escriba/sacerdote, en el contexto [[Ardis_Vala|Arden Vul]] **sacerdote de Thoth con poderes de hechicero**—. Es **híbrido clérigo/mago**: los registros lo muestran usando **Haste** y **Mirror Image** (arcanos) junto a **Remove Curse** (clerical). La doble corriente arcana/divina es estructural del personaje, no recurso eventual. La función social: **el grupo lo conoce por función ("el sacerdote de Thoth") más que por nombre**.
 
 ### Política: Sortiano sin declaración
 
@@ -39,14 +39,14 @@ Su inclinación es **[[Sortianos|Sortiana]] (democracia mágica)** —la facció
 
 ### Rol en la campaña
 
-Junto con **[[Alumine_Manwe_Finwe|Alúmine]]** y **[[Caladan]]**, Bayrum forma parte del **núcleo arcano del grupo**. Su función táctica: **soporte mágico** (Haste para el grupo, Mirror Image para protegerse, Remove Curse para limpiar a los compañeros). Su función narrativa: **vínculo con Thoth** —el dios de la magia, escritura y mediación—. En el conflicto Sortianos/Teósofos, Bayrum se inscribe del lado democrático sin firmar.
+Junto con **[[Alumine_Manwe_Finwe|Alúmine]]** y **[[Caladan]]**, Bayrum forma parte del **núcleo arcano del grupo**. Su función táctica: **soporte mágico** (Haste para el grupo, Mirror Image para protegerse, Remove Curse para limpiar a los compañeros). Su función narrativa: **vínculo con Thoth** —el dios de la magia, escritura y mediación—. En el conflicto [[Sortianos]]/Teósofos, Bayrum se inscribe del lado democrático sin firmar.
 
 ## Vínculos
 
 - [[Arden_Vul]] — campaña
 - [[Thoth]] — dios al que sirve
 - [[Sortianos]] — facción a la que se inscribe ideológicamente
-- [[Rio_Oukronos|Río Ucronos]] — origen geográfico-familiar
+- [[Rio_Ucronos|Río Ucronos]] — origen geográfico-familiar
 - [[Alumine_Manwe_Finwe|Alúmine]], [[Caladan]] — núcleo arcano del grupo
 - **Pimienta** — comercio familiar
 - **Scrivener** — clase
@@ -54,6 +54,6 @@ Junto con **[[Alumine_Manwe_Finwe|Alúmine]]** y **[[Caladan]]**, Bayrum forma p
 
 ## Apariciones
 
-- Arden Vul —, parte del núcleo del grupo
-- Sesiones siguientes — activo
+- [[Ardis_Vala|Arden Vul]] —, parte del núcleo del grupo
+- Jornadas siguientes — activo
 - Reporte de personajes: `REPORTE_PERSONAJES_VALERIUS_BAYRUM_ALUMINE.md`

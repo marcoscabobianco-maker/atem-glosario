@@ -11,21 +11,11 @@ aliases:
 
 ## Presentación
 
-**Entidad:** [[Hecate_Antagonista_Confirmada_S19|Hécate]], reina usurpadora de Dis
-**Código:** "Cacahuate" (explicación no dada en archivos)
-**Rol:** Antagonista principal de círculo 6. Usurpó poder de Plutón. Posee [[Piedra_del_Apocalipsis|Piedra del Apocalipsis]]. Invitó a grupo a Biblioteca (trampa probable).
+**[[Hecate|Hécate]]**, reina usurpadora de Dis: el grupo la designa operativamente como "Cacahuate". Antagonista principal del sexto círculo. Usurpó el poder de [[Pluton_CDI|Plutón]] y posee la [[Piedra_del_Apocalipsis|Piedra del Apocalipsis]]. Invitó al grupo a la Biblioteca — trampa probable.
 
-**Menciones en el archivo:**
--: "La llamamos cacahuate"
-- ¶[[Apocalypse_World_Campana_Pandemia_TNW_2087|2087]]: "Acordate que le llamamos Cacahuate, culiado. Yo vengo una tercera noche"
--: "No estás más con Écate. Sí"
-
-**Relación con grupo:** Antagonista hostil. Grupo planea revolución (con Plutón) para derrocarla.
-
-**Confianza:** FIRME — identidad confirmada como [[Hecate_Antagonista_Confirmada_S19|Hécate]], alias operativo aceptado.
+El grupo planea una revolución aliada con [[Pluton_CDI|Plutón]] para derrocarla.
 
 ## Ver también
 
-- [[Entidad|Entidad]]
-- Código
-- Menciones en el archivo
+- [[Pluton_CDI|Plutón]]
+- [[Piedra_del_Apocalipsis|Piedra del Apocalipsis]]

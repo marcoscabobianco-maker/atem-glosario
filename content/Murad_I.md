@@ -18,7 +18,7 @@ Sultán otomano que comanda las fuerzas invasoras en la [[Batalla_de_Kosovo_1389
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] sesión posterior (Kosovo, antagonista otomano).
+[[Paris_Ucronica|París Ucrónica]] jornada posterior (Kosovo, antagonista otomano).
 
 ## Notas
 

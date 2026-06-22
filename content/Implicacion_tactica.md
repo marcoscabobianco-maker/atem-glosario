@@ -11,4 +11,4 @@ referenciado_por: 2
 Esta entrada es mencionada desde:
 
 - [[Ley_del_Equilibrio_Constante]]
-- [[Mecanica_Tiempo_Stop_Reloj]]
+- Mecanica Tiempo Stop Reloj

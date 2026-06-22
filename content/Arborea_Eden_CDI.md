@@ -28,13 +28,13 @@ imagen: null
 ---
 # Arbórea — el Edén del Foso
 
-> *"Cuando el alma baja al Foso recuerda Arbórea. No sabe que la recuerda. La paloma que se le posa en el hombro al cruzar el portal viene de Arbórea, aunque el portal no lo sepa. Quien quiera entender el descenso, empiece por entender el jardín que precedió al fango."* — del *Coro del Descenso*, libro III.
+> *"Cuando el alma baja al Foso recuerda Arbórea. No sabe que la recuerda. La paloma que se le posa en el hombro al cruzar el portal viene de Arbórea, aunque el portal no lo sepa. Quien quiera entender el descenso, empiece por entender el jardín que precedió al fango."* — del *[[Anti_Inferno|Coro del Descenso]]*, libro III.
 
 ---
 
 ## La geografía primordial
 
-**Arbórea** —*nombre que el archivo del Coro del Descenso conserva en lengua común del Foso*; *"Edén"*, *"Paraíso"*, *"Jardín"* en otras lenguas litúrgicas— **es ubicación cosmológica primordial**. **Geografía anterior al portal del [[Templo_Lugar_de_los_Justos|Templo y Lugar de los Justos]]**; *territorio del que* **el alma del descendiente desciende sin recordar haber estado** *pero del que*, **al bajar al Foso, recibe ecos visuales que el archivo decadiano del Coro registra con cuidado**.
+**Arbórea** —*nombre que el archivo del [[Anti_Inferno|Coro del Descenso]] conserva en lengua común del Foso*; *"Edén"*, *"Paraíso"*, *"Jardín"* en otras lenguas litúrgicas— **es ubicación cosmológica primordial**. **Geografía anterior al portal del [[Templo_Lugar_de_los_Justos|Templo y Lugar de los Justos]]**; *territorio del que* **el alma del descendiente desciende sin recordar haber estado** *pero del que*, **al bajar al Foso, recibe ecos visuales que el archivo decadiano del Coro registra con cuidado**.
 
 *La geografía es jardín exuberante*:
 
@@ -51,7 +51,7 @@ El archivo cosmológico del Coro del Descenso registra **tres figuras** habitant
 
 - **[[Arian|Adam]] / [[Arian]]** — *figura del primer aliento*, **desnudo**, **sin poderes**. *La identidad doble se conserva* porque **el alma que opera como Adam en Arbórea opera como [[Arian]] en geografías posteriores**: *el vínculo cosmológico es activo*, *la doble nominación es signo de la operación trans-cosmológica*.
 - **[[Sariel]]** — *serpiente/ángel*, **figura ambigua que el Coro del Descenso registra sin pronunciarse sobre su alineamiento doctrinal**. *Algunos cronistas la leen como ángel caído tempranamente; otros como serpiente con función protectora ambigua; otros como entidad cuya naturaleza es exactamente doble desde el origen*. **El archivo conserva las tres lecturas**.
-- **Eva / [[Swedenborg|Swedenborg]]** — *figura creada de costilla*. **La doble nominación Eva/Swedenborg es vínculo cosmológico mayor**: *el alma que opera como Eva en Arbórea opera como Swedenborg en el Foso y en otras geografías del universo extendido*. **La condición de "creada de costilla"** *registra la condición ontológica*: *Eva proviene de Adam por separación*; *la separación inscribe el dualismo primordial del que toda cosmología posterior derivará*.
+- **Eva / [[Swedenborg|Swedenborg]]** — *figura creada de costilla*. **La doble nominación Eva/[[Swedenborg]] es vínculo cosmológico mayor**: *el alma que opera como Eva en Arbórea opera como [[Swedenborg]] en el Foso y en otras geografías del universo extendido*. **La condición de "creada de costilla"** *registra la condición ontológica*: *Eva proviene de Adam por separación*; *la separación inscribe el dualismo primordial del que toda cosmología posterior derivará*.
 
 ---
 
@@ -71,7 +71,7 @@ El cántico del Coro del Descenso conserva el verso central de la cosmología Ar
 
 **Arbórea fue abandonada**. *El Coro del Descenso registra el evento como **Expulsión**, *con mayúscula litúrgica*. **Adam y Eva fueron expulsados al fango**, *que la doctrina identifica con [[Antiterra_Demonia|Antiterra]]* —*geografía del fango primordial, parte mayor del universo extendido*—. **La expulsión no fue acto de castigo simple**: *fue **inscripción cosmológica del dualismo**, *transferencia del alma del jardín al fango*, *del paraíso sin muerte al territorio donde la muerte opera*.
 
-**Sariel —serpiente/ángel— permaneció en Arbórea** *según una versión*, o **descendió con Adam y Eva** *según otra*. *El archivo conserva las dos*; **la diferencia entre las dos lecturas es teológica mayor**: *si Sariel permaneció, Arbórea conserva guardián propio*; *si descendió, Arbórea queda sin guardia y la cosmología posterior opera con la serpiente acompañando a los expulsados*.
+**[[Sariel]] —serpiente/ángel— permaneció en Arbórea** *según una versión*, o **descendió con Adam y Eva** *según otra*. *El archivo conserva las dos*; **la diferencia entre las dos lecturas es teológica mayor**: *si [[Sariel]] permaneció, Arbórea conserva guardián propio*; *si descendió, Arbórea queda sin guardia y la cosmología posterior opera con la serpiente acompañando a los expulsados*.
 
 ---
 
@@ -104,7 +104,7 @@ En el ciclo presente del archivo, **Arbórea conserva estatuto ambiguo**:
 
 ¿Por qué importa Arbórea, *si está sellada*?
 
-**Importa porque el descenso al Foso es viaje en geografía cuya estructura supone la Expulsión**. *Quien baja al Inferno desciende porque el alma descendió ya una vez del jardín al fango*. **El primer descenso es el descenso primordial**: *de Arbórea a Antiterra*. **El descenso al Foso es eco del primer descenso**: *de Antiterra a los círculos*.
+**Importa porque el descenso al Foso es viaje en geografía cuya estructura supone la Expulsión**. *Quien baja al Inferno desciende porque el alma descendió ya una vez del jardín al fango*. **El primer descenso es el descenso primordial**: *de Arbórea a [[Antiterra]]*. **El descenso al Foso es eco del primer descenso**: *de Antiterra a los círculos*.
 
 *La doctrina del Coro del Descenso lo formula así*:
 

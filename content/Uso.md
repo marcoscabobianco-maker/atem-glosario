@@ -12,7 +12,7 @@ en_construccion: true
 
 Esta entrada es mencionada desde:
 
-- [[Mecanica_Tiempo_Stop_Reloj]]
+- Mecanica Tiempo Stop Reloj
 
 ---
 

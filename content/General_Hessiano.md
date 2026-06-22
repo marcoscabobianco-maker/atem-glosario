@@ -30,23 +30,23 @@ imagen: Imagenes_Tier1/General_Hessiano.png
 
 > *"La cabeza la conserva. Lo que perdió fue otra cosa."*
 
-**General semi-undead**, **hessiano** —al modo *Sleepy Hollow* pero con la cabeza aún puesta sobre los hombros—. Vino en la **campaña de Washington** del lado de los **británicos diabólicos** que la versión de Antiterra de Inglaterra despliega cuando trata de masticar más imperio del que puede tragar: en ese reino, Inglaterra ha sumado además el **Virreinato de Francia** a su corona, y los hessianos —mercenarios alemanes en la historia terrestre, **también bastante diabólicos** en Antiterra— marchan bajo bandera doble.
+**General semi-undead**, **hessiano** —al modo *Sleepy Hollow* pero con la cabeza aún puesta sobre los hombros—. Vino en la **campaña de Washington** del lado de los **británicos diabólicos** que la versión de [[Antiterra]] de Inglaterra despliega cuando trata de masticar más imperio del que puede tragar: en ese reino, Inglaterra ha sumado además el **Virreinato de [[Francia]]** a su corona, y los hessianos —mercenarios alemanes en la historia terrestre, **también bastante diabólicos** en Antiterra— marchan bajo bandera doble.
 
-Aparece como **compañero "de visita"** —se incorpora puntualmente al ciclo en la fase **NY 1784**—. Su naturaleza semi-undead invierte la función que la historia terrestre le asignaría: en Antiterra, este general se inclina **contra la Corona** que lo despachó, o al menos del lado de la independencia, sin que el archivo termine de explicar por qué.
+Aparece como **compañero "de visita"** —se incorpora puntualmente al ciclo en la fase **NY 1784**—. Su naturaleza semi-undead invierte la función que la historia terrestre le asignaría: en Antiterra, este general se inclina **contra la [[Corona_activacion_desconocida|Corona]]** que lo despachó, o al menos del lado de la independencia, sin que el archivo termine de explicar por qué.
 
 ## La continuidad hasta 1917
 
-**No se queda en 1784**. La línea hessiana —diabólica, alemana, marcial— **persiste por más de un siglo** y reaparece en los arcos de la **Revolución Rusa de 1917**, donde el cosmos compartido la cruza con material eslavo: *en aquella reaparición, asoma incluso [[Baba_Yaga]] —la bruja del bosque— y el General Hessiano marcha bajo otro cielo*. La consigna de los hessianos diabólicos sobrevive a la guerra que los trajo.
+**No se queda en 1784**. La línea hessiana —diabólica, alemana, marcial— **persiste por más de un siglo** y reaparece en los arcos de la **Revolución Rusa de 1917**, dondel cosmos compartido la cruza con material eslavo: *en aquella reaparición, asoma incluso [[Baba_Yaga]] —la bruja del bosque— y el General Hessiano marcha bajo otro cielo*. La consigna de los hessianos diabólicos sobrevive a la guerra que los trajo.
 
 ## Vínculos
 
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] — ciclo donde aparece de visita
 - [[Baba_Yaga]] — figura del arco ruso 1917
-- [[Antiterra_Demonia|Antiterra]] — mundo donde Inglaterra suma el Virreinato de Francia
+- [[Antiterra_Demonia|Antiterra]] — mundo donde Inglaterra suma el Virreinato de [[Francia]]
 - [[Akala]]
 
 ## Apariciones
 
-- **NY 1784 — Revolución Americana versión Antiterra** — incorporación de visita al ciclo Libertateurs
+- **NY 1784 — Revolución Americana versión Antiterra** — incorporación de visita al ciclo [[Libertateurs]]
 - **1784 → 1917** — línea hessiana persistente
-- **1917 — arcos de la Revolución Rusa** — reaparición con material eslavo, encuentro con Baba Yaga
+- **1917 — arcos de la Revolución Rusa** — reaparición con material eslavo, encuentro con [[Baba_Yaga]]

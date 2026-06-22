@@ -16,7 +16,7 @@ Natalija Keşco (1859-1941 histórico). Nacida en Florencia, hija de coronel rus
 
 ## Apariciones notables
 
-Serbia (corte real). París (exilio). Kanka character 773624.
+Serbia (corte real). París (exilio).
 
 ## Notas
 

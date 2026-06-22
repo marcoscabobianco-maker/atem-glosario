@@ -24,7 +24,7 @@ tags:
 
 ## Presentación
 
-**Melvino Calvino**, también conocido como **El Pingüinoide** o **Sirpe**, es **compañero del grupo** en la campaña **[[Arden_Vul]]**. Es **el personaje más ligado a lo espacial/extraplanar del grupo** —el lado sci-fi que el setting Arden Vul admite a través de los **rudishva** y el **Beacon**—.
+**Melvino Calvino**, también conocido como **El Pingüinoide** o **Sirpe**, es **compañero del grupo** en la campaña **[[Arden_Vul]]**. Es **el personaje más ligado a lo espacial/extraplanar del grupo** —el lado sci-fi que el setting [[Ardis_Vala|Arden Vul]] admite a través de los **rudishva** y el **Beacon**—.
 
 ### Aspecto y equipamiento
 
@@ -48,20 +48,20 @@ En el grupo, Melvino aporta:
 - **Combate a distancia** con blaster y lanzacohetes
 - **Reconocimiento** con la percepción de movimiento a 100 m
 - **Comunicación** entre el grupo y otros puntos del dungeon
-- **Conocimiento técnico** —probable handler de la tecnología rudishva que el grupo encuentra (armadura de Malakita con granadas, IA RAJ-750, etc.)—
+- **Conocimiento técnico** —probable handler de la tecnología rudishva que el grupo encuentra (armadura de Malakita con granadas, IA [[RAJ-750]], etc.)—
 
 ## Vínculos
 
 - [[Arden_Vul]] — campaña
 - **Spelljammer** — setting de origen probable
-- **Rudishva** — raza alienígena del Beacon (posible conexión)
-- **Beacon / Faro Brillante** — nave alienígena de ~3.000 años
-- **RAJ-750** — IA del módulo de armas del Beacon (manejada por el grupo)
+- **[[Rudishva]]** — raza alienígena del Beacon (posible conexión)
+- **[[Beacon_Faro_Brillante|Beacon / Faro Brillante]]** — nave alienígena de ~3.000 años
+- **[[RAJ-750]]** — IA del módulo de armas del Beacon (manejada por el grupo)
 - **Armadura de Malakita** — tecnología rudishva con granadas (posible handler)
 - [[Bayrum_Cristalia]], [[Alumine_Manwe_Finwe|Alúmine]], [[Caladan]], [[Valerius_Utrecht]], [[Sixto_Guido|Sixto]] — compañeros
 
 ## Apariciones
 
-- Arden Vul 
-- **el archivo** — primera aparición documentada en archivos (junto a Caladan emergiendo del sarcófago y el Druida)
-- Sesiones siguientes — equipamiento tecnológico desplegado
+- [[Ardis_Vala|Arden Vul]] 
+- **el archivo** — primera aparición documentada en archivos (junto a [[Caladan]] emergiendo del sarcófago y el Druida)
+- Jornadas siguientes — equipamiento tecnológico desplegado

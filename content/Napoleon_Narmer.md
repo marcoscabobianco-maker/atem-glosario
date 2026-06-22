@@ -11,4 +11,12 @@ aliases:
 
 ## Presentación
 
-Guardián (sin entry text extenso en Kanka).
+Guardián.
+
+## Vinculos
+
+- [[Paris_Ucronica]] — contexto de campaña donde actúa como guardián
+- [[Antiterra_Demonia]] — mundo en el que se enmarca [[Paris_Ucronica|París Ucrónica]]
+- [[Lord_Gaul]] — virrey administrativo de [[Paris_Ucronica|París Ucrónica]]; posible autoridad sobre guardianes
+- [[Cour_des_Miracles]] — zona de París Ucrónica asociada a figuras protectoras y marginales
+- [[Bastilla_uchronica]] — estructura de poder y vigilancia en la ciudad ucrónica

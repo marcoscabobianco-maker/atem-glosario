@@ -34,7 +34,7 @@ imagen: Imagenes_Tier1/Sarajevo_1914_Ucronica.png
 
 ## La fecha cardinal
 
-**El 28 de junio no es fecha cualquiera**. *Es Día de San Vito —Vidovdan en serbio, fiesta de Sveti Vito, santo de la visión y de la danza—*; **es el aniversario exacto del 28 de junio de 1389**, **batalla de [[Batalla_de_Kosovo_1389|Kosovo Polje]]**, **muerte del Príncipe Lázaro de Serbia y caída de la Serbia medieval bajo los turcos**. *Quinientos veinticinco años exactos entre las dos fechas*; **una espera cronomántica que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] renueva cada siglos**.
+**El 28 de junio no es fecha cualquiera**. *Es Día de San Vito —Vidovdan en serbio, fiesta de Sveti Vito, santo de la visión y de la danza—*; **es el aniversario exacto del 28 de junio de 1389**, **batalla de [[Batalla_de_Kosovo_1389|Kosovo Polje]]**, **muerte del Príncipe [[Lazaro_Principe_de_Serbia|Lázaro]] de Serbia y caída de la Serbia medieval bajo los turcos**. *Quinientos veinticinco años exactos entre las dos fechas*; **una espera cronomántica que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] renueva cada siglos**.
 
 [[Moni_Vivescu|Mony Vivescu]] lo advirtió por **bola de cristal** —el archivo lo conserva—: *"28 de junio es Vidovdan. Y los días que llevan nombre de santo cobran lo que se les promete."*
 
@@ -48,7 +48,7 @@ imagen: Imagenes_Tier1/Sarajevo_1914_Ucronica.png
 2. **El carruaje del Archiduque es redirigido** por seguridad imperial; *el chofer recibe instrucciones nuevas*.
 3. **El chofer da giro equivocado al llegar al Puente Latino** —giro que la historia común no consigue explicar y que la cronomancia atribuye a influencia sutil—.
 4. **Claude —operando como [[Cvjetko_Popovic]] bajo compulsión—** está posicionado en la esquina exacta. *No es Gavrilo en este episodio*: es el cuerpo del compañero del grupo, **proyectado allí por el [[Circulo_Simultaneo|Círculo Simultáneo]] como [[Guardias_Ucronicos|Guardia Ucrónico]] bajo amnesia parcial**.
-5. **Dos tiros, mortales**. *El Archiduque Franz Ferdinand muere casi en el acto*.
+5. **Dos tiros, mortales**. *[[Archiduque_Francisco_Fernando_de_Austria|El Archiduque]] [[Archiduque_Francisco_Fernando_de_Austria|Franz Ferdinand]] muere casi en el acto*.
 6. **La duquesa Sophie, herida mortal**, **rechaza la resurrección que se le ofrece**: *"Déjenme ir. Nos encontraremos en el pasado."* —**parlamento que el archivero del Plata anota como cifra mayor del cierre**—.
 7. **Claude intenta curación con escrituras antiguas y aura necromántica**; *Sophie desaparece o muere, según la lectura del archivo*.
 8. **Claude le besa la mano, le cierra los ojos, desaparece en la muchedumbre**.
@@ -59,13 +59,13 @@ imagen: Imagenes_Tier1/Sarajevo_1914_Ucronica.png
 
 **Los [[Time_Bandits]] no eligen estar en Sarajevo**: **son proyectados allí por fuerzas temporales superiores como [[Guardias_Ucronicos]]**. *Compulsión mágica con amnesia parcial*; **cada uno cumple un rol que el operativo central asigna sin discusión**:
 
-- **Claude / Popović** — ejecutor del disparo. *Retiene tras el episodio setenta y cinco años de Popović en su psiquismo*; **la esquizofrenia que resulta es permanente** y *acompaña su biografía hasta el cierre*.
+- **Claude / [[Cvjetko_Popovic|Popović]]** — ejecutor del disparo. *Retiene tras el episodio setenta y cinco años de [[Cvjetko_Popovic|Popović]] en su psiquismo*; **la esquizofrenia que resulta es permanente** y *acompaña su biografía hasta el cierre*.
 - **[[Corvino|Corvino]]** — escapa por alas de cuervo —conjuración de quinto nivel—. *Sale de Sarajevo en pleno día con la prensa pisándole el rastro*.
 - **[[Swan]]** — vigilancia arcana con Ojo Astral a más de trescientos pies. *Ve la escena desde arriba, no participa con cuerpo*.
 - **[[Philippe]]** — parte con rollo de teleportación **antes del disparo** para contactar a [[Moni_Vivescu|Mony]] en otra ciudad; *se le adelanta al evento*.
 - **[[Aby_Warburgo|Aby]]** — opera la cobertura cronomántica desde la distancia.
 
-**El arresto y el interrogatorio de Claudecomponen el cierre del primer capítulo narrativo del arco París Ucrónica**. *La historia común retendría a Gavrilo Princip; la cronomancia retiene a Claude*. **Las dos versiones coexisten sin canceler una a la otra**.
+**El arresto y el interrogatorio de Claudecomponen el cierre del primer capítulo narrativo del arco [[Paris_Ucronica|París Ucrónica]]**. *La historia común retendría a [[Gavrilo_Princip]]; la cronomancia retiene a Claude*. **Las dos versiones coexisten sin canceler una a la otra**.
 
 ---
 
@@ -95,5 +95,5 @@ imagen: Imagenes_Tier1/Sarajevo_1914_Ucronica.png
 
 - **28 de junio de 1914 — Puente Latino** — la escena consumada
 - **Días previos — preparación del operativo cronomántico** — proyección del grupo
-- **Primer capítulo del arco París Ucrónica** — cierre del bloque narrativo
+- **Primer capítulo del arco [[Paris_Ucronica|París Ucrónica]]** — cierre del bloque narrativo
 - **Eco continuado en la biografía de Claude** — setenta y cinco años de Popović, esquizofrenia permanente

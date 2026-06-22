@@ -18,12 +18,12 @@ aliases:
 
 ## Presentación
 
-Estructura antigua con ruinas romanas/etruscas, ubicada en [[Paris_Ucronica|París Ucrónica]] cerca de Montparnasse. Excavaciones arqueológicas en curso (iniciadas ~1 mes antes de el archivo, sin avances rápidos). Ascensores que descienden a ruinas. Descubrimiento de molusco fosilizado (Concha de Venus, era geológica anterior). Anfiteatro extraño con figuras escultóricas. Derrumbe en parte baja (posible efecto de grandes explosiones hace 12 años — "fuera de fase"). [[Leyenda]] local: fundación de París por héroe troyano París (escapado de Troya, portador de gorro frigio). Ruinas romanas y etrusco-tempranas. Seguridad en zona ( de madera y metal como andamios, altas temperaturas subterráneas). Excavaciones son "secreto a voces" (obreros y gente se entera pero hay seguridad).
+Estructura antigua con ruinas romanas/etruscas, ubicada en [[Paris_Ucronica|París Ucrónica]] cerca de Montparnasse. Excavaciones arqueológicas en curso (iniciadas aproximadamente un mes antes). Ascensores que descienden a ruinas. Descubrimiento de molusco fosilizado ([[Concha_de_Venus]], era geológica anterior). Anfiteatro extraño con figuras escultóricas. Derrumbe en parte baja (posible efecto de grandes explosiones hace doce años — "fuera de fase"). [[Leyenda]] local: fundación de París por el héroe troyano París (escapado de Troya, portador de gorro frigio). Ruinas romanas y etrusco-tempranas. Seguridad en zona (andamios de madera y metal, altas temperaturas subterráneas). Las excavaciones son "secreto a voces": obreros y transeúntes se enteran, pero la vigilancia persiste.
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] [00:06:16-00:20:53] — descripción de ubicación y arqueología. Sesiones posteriores: viaje a catacumbas, investigación de antepasado etrusco del vicecónsul.
+[[Paris_Ucronica|París Ucrónica]] — descripción de ubicación y arqueología. Viaje posterior a catacumbas, investigación del antepasado etrusco del vicecónsul.
 
 ## Notas
 
-Ubicación DISTINTA de "El [[Panteon_el|Panteón]]" (grupo de héroes). Nexo arqueológico-temporal. [[Leyenda]] de París = herencia troyana (conexión a mitología clásica + ucronía). Explosiones hace 12 años = evento de 1901 o relacionado.
+Ubicación DISTINTA de "El [[Panteon_el|Panteón]]" (grupo de héroes). Nexo arqueológico-temporal. [[Leyenda]] de París = herencia troyana (conexión a mitología clásica y ucronía). Explosiones de hace doce años = evento de 1901 o relacionado.

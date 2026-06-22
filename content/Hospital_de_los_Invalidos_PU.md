@@ -60,6 +60,6 @@ A esta sala llegaron, durante los meses del último ciclo antiterrano, **heridos
 
 ## Apariciones
 
-- **Tras el acto frente a Notre Dame** — heridos que el time stop no había detenido se recobraron aquí
+- **Tras el acto frente a [[Catedral_de_Notre-Dame_PU|Notre Dame]]** — heridos que el time stop no había detenido se recobraron aquí
 - **Días posteriores al Torneo de la Torre** — internaciones varias
 - **Cualquier semana de la última era ucrónica** — la sala estuvo abierta sin pausa

@@ -42,7 +42,7 @@ El archivo del Plata anota la diferencia con orden masónico común: **la masone
 
 ## La estructura humana
 
-**[[Apis]] —coronel Dragutin Dimitrijević en la historia común— dirige la sección operativa**. *En el archivo cronomántico, Apis aparece **vampirizado tras su iniciación**: amplificación demoníaca de un poder ya considerable*. **[[Black_George]]** —tocayo cronomántico del Karađorđe del XVIII— **comanda la mesa de planificación de Sarajevo en 1914**. *Estos dos no son los únicos*; **la cofradía mantiene células en Belgrado, Sarajevo, París, Estambul, Bucarest**.
+**[[Apis]] —coronel Dragutin Dimitrijević en la historia común— dirige la sección operativa**. *En el archivo cronomántico, Apis aparece **vampirizado tras su iniciación**: amplificación demoníaca de un poder ya considerable*. **[[Black_George]]** —tocayo cronomántico del [[Black_George|Karađorđe]] del XVIII— **comanda la mesa de planificación de Sarajevo en 1914**. *Estos dos no son los únicos*; **la cofradía mantiene células en Belgrado, Sarajevo, París, Estambul, Bucarest**.
 
 **Sirve nominalmente a la casa Obrenović —o conspira contra ella, según el archivo y según el siglo—**; el archivero del Plata anota que **ambas funciones son compatibles con la cofradía**: *el régimen serbio se beneficia y se daña por mano de los mismos*, **operación clásica de organización paramilitar que opera tras el trono y a veces sobre el trono**.
 
@@ -50,7 +50,7 @@ El archivo del Plata anota la diferencia con orden masónico común: **la masone
 
 ## La función narrativa
 
-**En [[Paris_Ucronica|París Ucrónica]] la Mano Negra no aparece como villano de primera línea**: **opera como trasfondo conspirativo continuo**. *El Círculo de la Serpiente, el regicidio de mayo de 1903, el atentado de Sarajevo de 1914, las desapariciones del Belgrado uchrónico*, **todos los hilos pasan por su mesa**.
+**En [[Paris_Ucronica|París Ucrónica]] la Mano Negra no aparece como villano de primera línea**: **opera como trasfondo conspirativo continuo**. *[[Circulo_de_la_Serpiente|El Círculo de la Serpiente]], el regicidio de mayo de 1903, el atentado de Sarajevo de 1914, las desapariciones del Belgrado uchrónico*, **todos los hilos pasan por su mesa**.
 
 Su fusión con **vampirismo** —*[[Apis]] vampirizado*— **y con el [[Circulo_de_la_Serpiente|Círculo de la Serpiente]]** sugiere lo que el archivero anota con sequedad: *"La historia común se encuentra contaminada por fuerzas sobrenaturales. La Mano Negra no contamina la historia; **opera en el punto exacto donde la historia ya estaba contaminada, y aprovecha**."*
 
@@ -60,7 +60,7 @@ Su fusión con **vampirismo** —*[[Apis]] vampirizado*— **y con el [[Circulo_
 
 ## La fecha cardinal
 
-**28 de junio**. *San Vito en serbio, Vidovdan, fiesta de la visión y de la danza*. **La Mano Negra reserva esa fecha para sus actos mayores**: **1389 — caída del Príncipe Lázaro en [[Batalla_de_Kosovo_1389|Kosovo Polje]]**; **1914 — atentado del Puente Latino**; **fechas anteriores y posteriores que el archivo todavía no ha terminado de catalogar**.
+**28 de junio**. *San Vito en serbio, Vidovdan, fiesta de la visión y de la danza*. **La Mano Negra reserva esa fecha para sus actos mayores**: **1389 — caída del Príncipe [[Lazaro_Principe_de_Serbia|Lázaro]] en [[Batalla_de_Kosovo_1389|Kosovo Polje]]**; **1914 — atentado del Puente Latino**; **fechas anteriores y posteriores que el archivo todavía no ha terminado de catalogar**.
 
 *Quinientos veinticinco años exactos entre las dos fechas mayores documentadas*; **una espera larga que la cofradía pudo sostener porque su lealtad no es a un hombre ni a un régimen**, **sino a la fecha misma**.
 
@@ -85,7 +85,7 @@ Su fusión con **vampirismo** —*[[Apis]] vampirizado*— **y con el [[Circulo_
 
 ## Apariciones
 
-- **1389 — Kosovo Polje** — antecedente cronomántico del pacto fundacional
+- **1389 — [[Batalla_de_Kosovo_1389|Kosovo Polje]]** — antecedente cronomántico del pacto fundacional
 - **1901–1917 — período histórico documentado en la historia común** — célula activa
 - **1903 — Regicidio de Mayo (Belgrado uchrónico)** — operación mayor previa
 - **28 de junio de 1914 — Sarajevo** — atentado del Puente Latino

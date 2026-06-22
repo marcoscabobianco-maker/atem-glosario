@@ -37,7 +37,7 @@ imagen: Imagenes_Tier1/Lamentacion_de_los_que_no_tienen_fe.png
 
 ---
 
-**La visión de [[Corvino|Corvino]]** —que el archivo conserva del tránsito por París Ucrónica— **la rastreó hacia atrás hasta un Ragnarok frustrado**: *fue usada para matar a [[Odin|Odín]] en un Ragnarok que los Vanir traicionaron antes del cierre*. **Odín no fue lamentado**: cayó como descreído de la nueva era, **y el motivo se cumplió en el otro sentido**. Por eso —insiste Corvino— **la hoja no se entrega sin causa**: el [[Jinete_de_la_Guerra]] la recibió a cambio de la [[Bengala_Sucronica]], y ese intercambio cierra un círculo cuyo número exacto el archivo todavía no fija.
+**La visión de [[Corvino|Corvino]]** —que el archivo conserva del tránsito por [[Paris_Ucronica|París Ucrónica]]— **la rastreó hacia atrás hasta un Ragnarok frustrado**: *fue usada para matar a [[Odin|Odín]] en un Ragnarok que los Vanir traicionaron antes del cierre*. **Odín no fue lamentado**: cayó como descreído de la nueva era, **y el motivo se cumplió en el otro sentido**. Por eso —insiste [[Corvino]]— **la hoja no se entrega sin causa**: el [[Jinete_de_la_Guerra]] la recibió a cambio de la [[Bengala_Sucronica]], y ese intercambio cierra un círculo cuyo número exacto el archivo todavía no fija.
 
 [*Una espada cuya leyenda crece de masacre en masacre no es espada: es contabilidad. Hay armas que cuentan; ésta lleva el libro. — Glosa atribuida al libro V del [[Decadiano]].*]
 
@@ -55,5 +55,5 @@ imagen: Imagenes_Tier1/Lamentacion_de_los_que_no_tienen_fe.png
 
 - **Ragnarok frustrado — antigüedad nórdica** — muerte de Odín en clave de traición vanir
 - **Béziers, 1209** — masacre cátara, inscripción inicial del filo
-- **Tránsito por París Ucrónica** — entrega al Jinete de la Guerra a cambio de la Bengala
+- **Tránsito por [[Paris_Ucronica|París Ucrónica]]** — entrega al Jinete de la Guerra a cambio de la Bengala
 - **Reapariciones templarias laterales** — el motivo persiste como objeto plural

@@ -11,7 +11,12 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Objeto / Mecánica
-**Primer aparición:** CC2_REPORTE
-**Descripción:** Entidad/objeto que "no hace nada". Rol específico desconocido; posible error el archivo de transcripción o término técnico infernal.
-**Confianza:** BAJA (mención única, contexto vago)
+[[Entidad]] u objeto asociado al segundo círculo del [[Anti_Inferno|Descenso]], en el tramo del [[Castillo_del_Prisma]]. Su naturaleza y función permanecen oscuras.
+
+## Vínculos
+
+- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña en la que aparece; el Foso como geografía de referencia
+- [[Castillo_del_Prisma]] — fortaleza del segundo círculo donde se desarrolla la travesía
+- [[Torres_del_Castillo_del_Prisma]] — las torres de prueba del Castillo del Prisma, contexto inmediato
+- [[Tempestari]] — criatura del segundo círculo activa en el mismo tramo
+- [[Minos_Inferno]] — juez del segundo círculo, umbral del área

@@ -9,13 +9,12 @@ aliases:
 
 ## Presentación
 
-**Tipo:** figura antagonista, humanoide, posible sacerdote/capitán del santuario
-**Descripción:** Guardián del santuario templario. Hechizado o poseído. Participa en combate final. Capturado vivo por grupo.
-**Rol en combate:** Casting mágico, conjuros de nivel 4. Intenta defensa del santuario. Muere o incapacitado pero es revivido/capturado vivo para interrogatorio.
-**Significancia:** Candidato para exorcismo en la operación al Temple. Fuente de información sobre santuario, enemigos, Flamenco, [[Marques_de_Sade_Hugo|Hugo]], facción interna.
-**[[Misterio_abierto|Misterio abierto]]:** ¿Poseído por demonio o solo hechizado? ¿Voluntario o cautivo? ¿Conexión a Flamenco?
+Guardián del [[Temple_complejo_TE|Temple]]. Hechizado o poseído, participa en la defensa final del santuario. Capturado vivo por el grupo, se convierte en candidato para exorcismo y en fuente de información sobre el santuario, sus enemigos, [[Flamenco]] y [[Marques_de_Sade_Hugo|Hugo]].
 
-## Ver también
+[[Misterio]] persistente: si está poseído por un demonio o simplemente hechizado; si actúa por voluntad propia o como cautivo; y cuál es su conexión con [[Flamenco]].
 
-- [[Rol_en_combate|Rol en combate]]
-- [[Misterio_abierto|Misterio abierto]]
+## Vínculos
+
+- [[Temple_complejo_TE|Temple]] — santuario que custodia
+- [[Flamenco]] — figura con quien podría tener vínculo
+- [[Marques_de_Sade_Hugo|Hugo]] — señor o cómplice al que sirve

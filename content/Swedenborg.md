@@ -6,6 +6,7 @@ aliases:
  - la guía sin rostro
  - la portadora de la Lámpara
  - Talia Cristalia (identidad oculta)
+ - Talia Cristalia Esposa
 categoria_diegetica: personaje
 epoca: "figura guía a través de los círculos del descenso; identidad anterior y posterior abre y cierra el arco"
 ubicacion_principal: "Anti-Inferno (campaña conductora); apariciones puntuales en Dante's Inferno"
@@ -30,7 +31,7 @@ imagen: Imagenes_Tier1/Swedenborg.png
 
 > *"Avanza quien lleva luz; se quema quien la mira."*
 
-Mujer en armadura cerrada, **rostro oculto bajo el yelmo**, portando la **Lámpara de la Esperanza** —fuego que no se apaga aunque cruce los círculos—. Su nombre en el archivo, **Swedenborg**, no es accidente: porta la cifra del teósofo sueco del XVIII (1688–1772) cuya cosmología organiza la entrada de [[Albion|Albión]] en este Glosario. **William Blake escribió sobre y contra ella** —*El Matrimonio del Cielo y el Infierno* es, en parte, la disputa de Blake con la doctrina del Swedenborg histórico—; el archivero del Plata anota la doble referencia sin resolverla: la guía de los círculos lleva el nombre del que dijo haber visto el cielo y el infierno, y el contrabajo de Blake suena debajo.
+Mujer en armadura cerrada, **rostro oculto bajo el yelmo**, portando la **Lámpara de la Esperanza** —fuego que no se apaga aunque cruce los círculos—. Su nombre en el archivo, **Swedenborg**, no es accidente: porta la cifra del teósofo sueco del XVIII (1688–1772) cuya cosmología organiza la entrada de [[Albion|Albión]] en este Glosario. **William Blake escribió sobre y contra ella** —*El Matrimonio del Cielo y el [[Infierno]]* es, en parte, la disputa de Blake con la doctrina del Swedenborg histórico—; el archivero del Plata anota la doble referencia sin resolverla: la guía de los círculos lleva el nombre del que dijo haber visto el cielo y el infierno, y el contrabajo de Blake suena debajo.
 
 ## La función
 
@@ -46,13 +47,19 @@ La armadura **no se quita**. Quien la viste no muestra rostro; la razón no se c
 
 En combate **recuerda "la feliz violencia de los dioses nórdicos"** —eco que la vincula con [[Sven]] y los rituales del norte—. *El acento es paradójico*: la guía silenciosa del descenso evoca la jovialidad bélica de un mundo que el descenso desmiente.
 
+## El tercer círculo
+
+En el tramo del Descenso que cruza el **[[Tercer_Circulo_Gula|tercer círculo]]** —el de la gula—, Sweden vuelve a ser la que abre camino: **señala la [[Estigia_pantano|Laguna Estigia]] como destino** y alza un **escudo radiante** —espejo de acero— en amparo de los que avanzan. Pero el círculo cobra peaje incluso a la portadora de la Lámpara: **se empantana**, y los intentos de rescate fracasan uno tras otro; una ventisca la vence y la deja exhausta; **[[Beboto_Behemoth_del_Tercer_Circulo|Beboto]]**, el behemoth del pantano, llega a morderla.
+
+El episodio que cierra el tramo es de otro orden: una **escena de lujuria con [[Sven]]**. *"Se saca un poco la ropa de atrás"*, consigna el archivo; **"mujer de cuervo"** —el cuervo que la acompaña vuelve como figura—; queda *presa de una lujuria extraña*. Allí se confirma además que **es nórdica**, lo que el eco de combate ya insinuaba. Las **[[Gargolas_del_Tercer_Circulo|gárgolas del tercer círculo]]** leen la escena como pertenencia al **segundo círculo** —el de los lujuriosos— y se la llevan de vuelta allí, junto con Sven.
+
 ## La identidad oculta (revelación Caldero)
 
 [*Lo que sigue es revelación de la campaña [[Caldero]] de 2025; quien lee este Glosario fuera de orden, lea bajo su cuenta.*]
 
-**Swedenborg es [[Thalia_Cristalia|Talia Cristalia]]** —tercer miembro de la tríada **[[Lotario]] – [[Oratiol|Oratiol Taylor]] – Talia Cristalia**—. La armadura cerrada es su disfraz: la esposa y guía cruza los círculos del Infierno con el rostro velado antes de devolverse a su forma propia. **De su unión con [[Lotario]]/[[Oratiol|Taylor]] nace [[Vitalis]]** —el hijo que en La Jabalina cierra un arco trans-campaña que el archivo recoge con atención—.
+**Swedenborg es [[Thalia_Cristalia|Talia Cristalia]]** —tercer miembro de la tríada **[[Lotario]] – [[Oratiol|Oratiol Taylor]] – [[Thalia_Cristalia|Talia Cristalia]]**—. La armadura cerrada es su disfraz: la esposa y guía cruza los círculos del [[Infierno]] con el rostro velado antes de devolverse a su forma propia. **De su unión con [[Lotario]]/[[Oratiol|Taylor]] nace [[Vitalis]]** —el hijo que en [[La_Jabalina]] cierra un arco trans-campaña que el archivo recoge con atención—.
 
-*Que la guía sin rostro del Anti-Inferno sea la madre de Vitalis, y que el padre sea el mismo encarnado en tres formas, es la cifra inversa del Swedenborg histórico: aquel hizo metafísica del matrimonio; ésta lo hace materia.*
+*Que la guía sin rostro del Anti-Inferno sea la madre de [[Vitalis]], y que el padre sea el mismo encarnado en tres formas, es la cifra inversa del Swedenborg histórico: aquel hizo metafísica del matrimonio; ésta lo hace materia.*
 
 [*El cronista anota la simetría sin glosarla. — Anot. de Paulus.*]
 
@@ -72,7 +79,8 @@ En combate **recuerda "la feliz violencia de los dioses nórdicos"** —eco que 
 
 ## Apariciones
 
-- **el Descenso sesiones 4–5** — backstory revelado: pacto con el Lich del Libro, hacha-serpiente, cuervo
-- **el Descenso sesión final** — parte con la facción descendente: *"vámonos... tenemos una misión y es llegar al fondo del infierno"*
+- **el Descenso jornadas 4–5** — backstory revelado: pacto con el Lich del Libro, hacha-serpiente, cuervo
+- **el Descenso jornada 6** — el tercer círculo: guía hacia la Laguna Estigia, el pantano, la escena de lujuria con Sven; las gárgolas la devuelven al segundo círculo
+- **el Descenso jornada final** — parte con la facción descendente: *"vámonos... tenemos una misión y es llegar al fondo del infierno"*
 - **Anti-Inferno (campaña activa)** — rol conductor, despliegue mayor del personaje
-- **Caldero / Vala antigua 2025** — revelación: Swedenborg = Talia Cristalia, madre de Vitalis
+- **[[Caldero]] / Vala antigua 2025** — revelación: Swedenborg = [[Thalia_Cristalia|Talia Cristalia]], madre de [[Vitalis]]

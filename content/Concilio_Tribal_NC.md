@@ -31,13 +31,13 @@ imagen: Imagenes_Tier1/Concilio_Tribal_NC.png
 
 ---
 
-**El Concilio Tribal de la noche NC es figura mayor de la fase media del ciclo de Northern Crown**. *No es asamblea pública: es mesa de decisión*. **Las tres tribus principales del bosque del este norteamericano** —*el archivero del Plata no fija sus nombres porque las tribus mismas no fijan los suyos en presencia de extranjeros*— **se reunieron alrededor de un fuego único** *para decidir si recibir al grupo, expulsarlo, o aliarse con él contra los Casacas Rojas del Holandés Errante*.
+**El Concilio Tribal de la noche NC es figura mayor de la fase media del ciclo de Northern Crown**. *No es asamblea pública: es mesa de decisión*. **Las tres tribus principales del bosque del este norteamericano** —*el archivero del Plata no fija sus nombres porque las tribus mismas no fijan los suyos en presencia de extranjeros*— **se reunieron alrededor de un fuego único** *para decidir si recibir al grupo, expulsarlo, o aliarse con él contra los Casacas Rojas del [[Flying_Dutchman_Holandes_Errante|Holandés Errante]]*.
 
 **El humo elige antes que la palabra**. *El sahumerio sube derecho cuando el espíritu lo aprueba, se curva cuando lo niega*: el concilio observa la columna **más que oír al orador**. **El orador habla bajo, sin gesticular, sin escena**; **el orador es portador, no protagonista**.
 
 ---
 
-**La figura blanca que se aproxima** —enviado del grupo, **acaso un Patience o un compañero suyo**— **no se sienta sin permiso**, **no toma del cuenco sin que se le ofrezca**, **no enciende su propia pipa**. *Las reglas del concilio son sabidas; el extranjero las cumple por economía si no por respeto*. **El concilio admite, evalúa**; *la decisión se demorará una noche entera*. **El humo dirá**.
+**La figura blanca que se aproxima** —enviado del grupo, **acaso un [[Anti_Inferno|Patience]] o un compañero suyo**— **no se sienta sin permiso**, **no toma del cuenco sin que se le ofrezca**, **no enciende su propia pipa**. *Las reglas del concilio son sabidas; el extranjero las cumple por economía si no por respeto*. **El concilio admite, evalúa**; *la decisión se demorará una noche entera*. **El humo dirá**.
 
 [*Hay decisiones que se toman en mesa de roble; hay otras que se toman alrededor del fuego. Las del fuego se cumplen siempre; las del roble, casi nunca. — Glosa atribuida al libro V del [[Decadiano]].*]
 

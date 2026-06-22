@@ -19,7 +19,7 @@ Casa de [[Moni_Vivescu|Mony]] Vivescu en París. Escena inicial de infiltración
 
 ## Apariciones notables
 
-el archivo [0:15:32]: Casa de [[Moni_Vivescu|Mony]], operación inicial de infiltración, hallazgo de conexiones con [[La_Serpiente|La Serpiente]]. Posible escena de ataque/daño temporal (víctimas con "robo de años").
+el archivo: Casa de [[Moni_Vivescu|Mony]], operación inicial de infiltración, hallazgo de conexiones con [[La_Serpiente|La Serpiente]]. Posible escena de ataque/daño temporal (víctimas con "robo de años").
 
 ## Notas
 

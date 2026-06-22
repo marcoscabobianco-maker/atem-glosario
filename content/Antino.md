@@ -18,7 +18,7 @@ tags:
 ---
 # Antino
 
-> *Dios de la magia, las estrellas y el cielo. Sobreviviente de Vala Antigua. También llamado Antinoo.*
+> *Dios de la magia, las estrellas y el cielo. Sobreviviente de [[Vala_Antigua]]. También llamado Antinoo.*
 
 ## Presentación
 
@@ -30,7 +30,7 @@ Su atributo principal es **el poder que las estrellas traen**. Quien practica la
 
 ### Sobreviviente de Vala Antigua
 
-La biografía cósmica de Antino lo precede al Triunvirato. **Antino —en su forma Antinoo— es uno de los sobrevivientes del mundo [[Vala_Antigua|Vala Antigua]]** —el mundo previo al cierre cósmico, jugado aproximadamente en 2019, base de lo que sucede después en [[Vala_del_Medioevo|Vala del Medioevo]] y [[Arden_Vul]]—. Junto con [[Tailoor]], [[Sheridron|Shadydron]], [[Jax]] y [[Garkhan]], Antinoo atravesó el colapso de Vala Antigua y emergió en el nuevo cosmos del Triunvirato.
+La biografía cósmica de Antino lo precede al Triunvirato. **Antino —en su forma Antinoo— es uno de los sobrevivientes del mundo [[Vala_Antigua|Vala Antigua]]** —el mundo previo al cierre cósmico, jugado aproximadamente en 2019, base de lo que sucede después en [[Vala_del_Medioevo|Vala del Medioevo]] y [[Arden_Vul]]—. Junto con [[Tailoor]], [[Sheridron|Shadydron]], [[Jax]] y [[Garkhan]], Antinoo atravesó el colapso de [[Vala_Antigua]] y emergió en el nuevo cosmos del Triunvirato.
 
 Su rango de magia y estrellas en el panteón inicial probablemente refleja **función o clase que el personaje original tuvo en Vala Antigua**: hechicero, astrólogo, mago erudito. La transición de héroe a deidad sigue la lógica que el documento canónico declara: *"como marvel hizo con los panteones clásicos. Se puede encontrar a Thor, quien fue adorado como un dios en la antigüedad pero realmente es un ser MUY poderoso que a ojos de simples mortales, era un dios."*
 

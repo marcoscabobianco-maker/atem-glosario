@@ -4,7 +4,7 @@ aliases:
 redirect: Hannok
 ---
 
-# Hanok
+# Hannok
 
 > Esta referencia se resuelve canónicamente como [[Hannok]].
 

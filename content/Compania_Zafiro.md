@@ -44,7 +44,7 @@ Al día siguiente, los habitantes de [[Helix]] **vieron a lo lejos el humo del f
 
 ## Después del fuerte
 
-Tras el asalto, **las hordas esqueléticas que el Caballero de la Oscuridad había convocado** —*o que se desperezaron donde estaban tras el pacto que el caballero firmó por la mañana*— **avanzaron sobre la comarca**. *Los soldados sobrevivientes de la Compañía Zafiro corrieron a refugiarse en la aldea*. **No portaban autoridad para reorganizar la defensa**; *la asumió el [[Vicario_Otar]] desde el santuario consagrado*.
+Tras el asalto, **las hordas esqueléticas que el [[Caballero_Oscuridad_Helix|Caballero de la Oscuridad]] había convocado** —*o que se desperezaron donde estaban tras el pacto que el caballero firmó por la mañana*— **avanzaron sobre la comarca**. *Los soldados sobrevivientes de la Compañía Zafiro corrieron a refugiarse en la aldea*. **No portaban autoridad para reorganizar la defensa**; *la asumió el [[Vicario_Otar]] desde el santuario consagrado*.
 
 *El cronista del Plata anota sin glosa*: la caída de la Compañía Zafiro **transfirió la jurisdicción operativa del sur al vicario** —**no por decreto, por vacío**—. **Cuando el brazo armado del lugar cae**, **el brazo litúrgico ocupa el espacio**. *Esa transferencia explica buena parte de la firmeza con que Otar dispuso después la ejecución del altar*.
 
@@ -68,5 +68,5 @@ Tras el asalto, **las hordas esqueléticas que el Caballero de la Oscuridad hab�
 ## Apariciones
 
 - **Antes del cerco** — unidad militar activa, custodia del fuerte
-- **La jornada del altar partido** — fuerte arrasado por bola de fuego del Caballero de la Oscuridad; sobrevivientes huyen a Helix
+- **La jornada del altar partido** — fuerte arrasado por bola de fuego del [[Caballero_Oscuridad_Helix|Caballero de la Oscuridad]]; sobrevivientes huyen a Helix
 - **Después** — la compañía deja de operar como cuerpo; sus restos se dispersan; la jurisdicción del sur queda en manos del vicario

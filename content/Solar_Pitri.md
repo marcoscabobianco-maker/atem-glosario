@@ -24,7 +24,7 @@ tags:
 
 > *"Al mismo tiempo, la situación es de un Solar Pitri, criatura de la mitología hindú, en lo que hace las veces de América."*
 
-Su llegada al territorio americano del Multiverso configura una **América pluri-mitológica**: junto con la red **sumeria-Annunaki** (que incluye a [[Wichi-Lobos]] deformación de Huitzilopochtli), las **Cabezas de Piedra** receptoras (probables cabezas colosales olmecas), y la matriz **mexica** original que Paul Claudel se burlaba, los **Solar Pitri hindúes** completan el cuadrado: cuatro mitologías diferentes —mexica, sumeria, olmeca, hindú— **operan en el mismo territorio americano**. La América del nuevo cosmos es nodo donde las tradiciones se solapan.
+Su llegada al territorio americano del Multiverso configura una **América pluri-mitológica**: junto con la red **sumeria-[[Annunaki]]** (que incluye a [[Wichi-Lobos]] deformación de Huitzilopochtli), las **[[Cabezas_de_Piedra]]** receptoras (probables cabezas colosales olmecas), y la matriz **mexica** original que [[Pablo_de_Alejandria|Paul Claudel]] se burlaba, los **Solar Pitri hindúes** completan el cuadrado: cuatro mitologías diferentes —mexica, sumeria, olmeca, hindú— **operan en el mismo territorio americano**. La América del nuevo cosmos es nodo donde las tradiciones se solapan.
 
 ### Los Pitris en la mitología hindú
 
@@ -36,15 +36,15 @@ Lo que el Solar Pitri **hace** en América no está cerrado en el archivo. Posib
 
 - **Patrón solar paralelo** a Huitzilopochtli (el sol mexica) y a Pelor (el sol europeo). Solar Pitri sería el **tercer sol del cuadro americano**, importado desde el sur asiático.
 - **Cuerpo ancestral** —los pitris son antepasados— que opera como **memoria de los muertos de América**.
-- **Cuadro de paralelo a la red Annunaki** —si los Annunaki son creadores sumerios, los Solar Pitris son **ancestros hindúes** ocupando función comparable—.
+- **Cuadro de paralelo a la red [[Annunaki]]** —si los Annunaki son creadores sumerios, los Solar Pitris son **ancestros hindúes** ocupando función comparable—.
 
-La fórmula *"hace las veces de América"* sugiere **suplencia simbólica**: el Solar Pitri **ocupa el lugar** que un dios solar local debería ocupar pero no ocupa. Hipótesis: el territorio americano del nuevo cosmos quedó sin dios solar propio (Huitzilopochtli/Wichi-Lobos pasó al campo Annunaki), y el Solar Pitri lo reemplaza por importación.
+La fórmula *"hace las veces de América"* sugiere **suplencia simbólica**: el Solar Pitri **ocupa el lugar** que un dios solar local debería ocupar pero no ocupa. Hipótesis: el territorio americano del nuevo cosmos quedó sin dios solar propio (Huitzilopochtli/[[Wichi-Lobos]] pasó al campo Annunaki), y el Solar Pitri lo reemplaza por importación.
 
 ## Vínculos
 
-- [[Wichi-Lobos]] — Huitzilopochtli deformado por Paul Claudel, otra entidad del cuadro americano
+- [[Wichi-Lobos]] — Huitzilopochtli deformado por [[Pablo_de_Alejandria|Paul Claudel]], otra entidad del cuadro americano
 - [[Annunaki]] — red cosmogónica con la que comparte territorio
-- **Cabezas de Piedra** — figuras receptoras americanas (probables cabezas colosales olmecas)
+- **[[Cabezas_de_Piedra]]** — figuras receptoras americanas (probables cabezas colosales olmecas)
 - [[Los_Supremos]] — escenario cosmológico post-Triunvirato
 - **Mitología hindú** — tradición de origen (Pitris ancestrales)
 - **Agnishvattas** — equivalente sánscrito de los Solar Pitris

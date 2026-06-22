@@ -48,4 +48,4 @@ imagen: Imagenes_Tier1/Corazon_de_Plomo_Alquimia_de_Transmutacion_TNW.png
 ## Apariciones
 
 - **Doctrina continua** — repetida en talleres y manuales desde Alejandría
-- **Ciclo el Mundo Nuevo** — aplicación moderna en cuevas bajo Gary, Indiana
+- **Ciclo el Mundo Nuevo** — aplicación moderna en cuevas bajo [[Gary_Indiana_TNW|Gary, Indiana]]

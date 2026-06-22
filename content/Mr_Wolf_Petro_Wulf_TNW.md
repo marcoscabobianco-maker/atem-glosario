@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** 5d ("Mr. Wolf, mirá"), 5d (18 menciones), 6 (Wolf), 7a ("Petro Wulf"). **[[C73_p93|C73 p.93]]:** notas de cronista sobre su origen temporal y la Gema lobuna.
+**Ref.:** 5d ("Mr. Wolf, mirá"), 5d (18 menciones), 6 (Wolf), 7a ("Petro Wulf"). **[[C73_p93|C73 p.93]]:** notas de cronista sobre su origen temporal y la [[Gema_lobuna]].
 **Nota:** "Mr. Wolf" / "Petro Wulf" — grafía el archivo de transcripción variable. Referencia intertextual: Mr. Wolf = Harvey Keitel en *Pulp Fiction* (Tarantino).
 
 ## Ver también

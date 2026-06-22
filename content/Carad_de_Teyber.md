@@ -23,7 +23,7 @@ tags:
 
 **Carad de Teyber** —*Carad el Maldito*— es el actual **señor del territorio** que rodea [[Valdemora]] y la [[Ciudadela_Sin_Sol]], en el **[[Barrado_Balacan|Barrado Balacán]]** (antes Ardisvala). Antiguo compañero de [[Decio_Balmora]] que **lo traicionó tras la caída de [[Ritornello]]** hace 15 años. Conocido coloquialmente como *Señor de Panteras* por su comitiva de grandes felinos.
 
-Carad emerge como **el nuevo orden de facto** en el valle después de la desaparición de Ritornello: con la nobleza arrasada y los caminos imperiales rotos, llenó el vacío de poder. Su gobierno está marcado por la corrupción —no solo política sino lo que en el regreso tras el Hiato los Buscadores empiezan a sospechar como **corrupción de naturaleza más profunda**— y por el silencio cómplice de los vecinos que prefieren no nombrarlo.
+Carad emerge como **el nuevo orden de facto** en el valle después de la desaparición de [[Ritornello]]: con la nobleza arrasada y los caminos imperiales rotos, llenó el vacío de poder. Su gobierno está marcado por la corrupción —no solo política sino lo que en el regreso tras el Hiato los [[Buscadores_de_Ardis_Vala|Buscadores]] empiezan a sospechar como **corrupción de naturaleza más profunda**— y por el silencio cómplice de los vecinos que prefieren no nombrarlo.
 
 ### Apariciones canónicas
 

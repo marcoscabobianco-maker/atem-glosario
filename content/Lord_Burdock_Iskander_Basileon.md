@@ -25,17 +25,17 @@ imagen: null
 ---
 # Lord Burdock
 
-> *"El arconte que delega es figura sin sombra: en el suelo del feudo cae la sombra del barón delegado, no la suya. Es nobleza por inscripción, no por presencia. El archivo la registra; el valle no la ve."* — del *Decadiano*, libro VII, sobre las arcontías nominales del Imperio.
+> *"El arconte que delega es figura sin sombra: en el suelo del feudo cae la sombra del barón delegado, no la suya. Es nobleza por inscripción, no por presencia. El archivo la registra; el valle no la ve."* — del *[[Decadiano]]*, libro VII, sobre las arcontías nominales del Imperio.
 
 ---
 
 ## El nombre y el cargo
 
-**Lord Burdock** es designación toponímica —*Lord del Valle de Burdock*— para **Iskander Basileon**, **arconte nominal** de aquel valle desde hace unas tres décadas. *Arconte nominal*: la fórmula imperial es deliberada. **Iskander recibió la investidura, no el ejercicio.** El ejercicio —*la presencia diaria, el oficio en frontera, la firma cotidiana de las patentes*— quedó en cascada delegativa: del arconte a los **hijos**, *en pinza paralela*.
+**Lord Burdock** es designación toponímica —*Lord del [[Valle_de_Burdock]]*— para **Iskander Basileon**, **arconte nominal** de aquel valle desde hace unas tres décadas. *Arconte nominal*: la fórmula imperial es deliberada. **Iskander recibió la investidura, no el ejercicio.** El ejercicio —*la presencia diaria, el oficio en frontera, la firma cotidiana de las patentes*— quedó en cascada delegativa: del arconte a los **hijos**, *en pinza paralela*.
 
 El cronista decadiano lo enuncia con la frialdad que corresponde a las cuestiones arcónticas:
 
-> *"Lord Burdock (Iskander Basileon, medio hermano de Juliana) fue investido como arconte nominal del Valle de Burdock hace algunas décadas, aunque en la práctica delegó mucho en sus hijos, entre ellos Lady Alexia (análogo de Glastum) y Lord Argus."*
+> *"Lord Burdock (Iskander Basileon, medio hermano de Juliana) fue investido como arconte nominal del [[Valle_de_Burdock]] hace algunas décadas, aunque en la práctica delegó mucho en sus hijos, entre ellos [[Lady_Alexia_Basileon|Lady Alexia]] (análogo de [[Sir_Glastum|Glastum]]) y [[Argus_PJ|Lord Argus]]."*
 
 *"Algunas décadas."* La fórmula no precisa. El archivero del Plata, *con la guasa que le distingue*, sospecha que la imprecisión es deliberada: **un arconte sin ejercicio no necesita fechar el inicio de su no-ejercicio**.
 
@@ -43,7 +43,7 @@ El cronista decadiano lo enuncia con la frialdad que corresponde a las cuestione
 
 ## La sangre imperial: medio hermano de Juliana
 
-La columna invisible del cargo es ésta. **Iskander Basileon es medio hermano** de **[[Juliana_X_Bellatrix|Juliana X Bellatrix]]**, la emperatriz histórica que **condujo la Reconquista Archontea** hace trescientos cincuenta y cuatro años por la cuenta del *Decadiano*. *Medio hermano*: comparten padre, no madre, *o comparten madre, no padre* —el archivo, sobre ese detalle, conserva la elegancia muda de los que no insisten cuando la pregunta es íntima—.
+La columna invisible del cargo es ésta. **Iskander Basileon es medio hermano** de **[[Juliana_X_Bellatrix|Juliana X Bellatrix]]**, la emperatriz histórica que **condujo la Reconquista Archontea** hace trescientos cincuenta y cuatro años por la cuenta del *[[Decadiano]]*. *Medio hermano*: comparten padre, no madre, *o comparten madre, no padre* —el archivo, sobre ese detalle, conserva la elegancia muda de los que no insisten cuando la pregunta es íntima—.
 
 Lo que la filiación significa es **estructura, no épica**: la casa Basileon entra al cuadro imperial **por sangre de emperatriz**, aunque la emperatriz haya cerrado su arco hace tres siglos y medio. El **[[Drusus_IX_El_Palido|Basileus Drusus IX]]**, en su gobierno presente, **conserva la cortesía de fechar las cartas dirigidas a Burdock con la antigua fórmula**: *"Al primo del trono, salud."* La fórmula no es metáfora, *es contabilidad de sangre*.
 
@@ -55,11 +55,11 @@ Los **tres hijos** del arconte se reparten el valle según la disposición que e
 
 | Hijo | Posición | Sede |
 |---|---|---|
-| **[[Lady_Alexia_Basileon|Lady Alexia]]** | Hija legítima mayor — *la Dama Verde* | Análoga al asentamiento de Glastum, en geografía paralela |
+| **[[Lady_Alexia_Basileon|Lady Alexia]]** | Hija legítima mayor — *la Dama Verde* | Análoga al asentamiento de [[Sir_Glastum|Glastum]], en geografía paralela |
 | **[[Argus_PJ|Lord Argus]]** | Hijo legítimo segundo — **Barón** de **[[Ritornello]]** | Castillo gris de la planicie |
 | **[[Sir_Glastum]]** | **Hijo extraoficial** — alcaide de la **[[Fortaleza_Azur|Fortaleza Azur]]** | Lo alto de la cascada de Ardisvala, **[[Glastumville]]** al pie |
 
-*El patrón es legible en cuanto se enuncia*: el padre puso al hijo legítimo en la baronía formal, al hijo extraoficial en la alcaidía paralela, y a la hija mayor en la sede principal del valle. **La pinza frontera** —Argus en Ritornello, Glastum en Glastumville— **se sostiene por su propia fricción interna**, mientras Alexia gobierna el centro político del valle desde Burdock. *Burdock, el arconte, no necesita estar presente: la geometría que dispuso opera sola.*
+*El patrón es legible en cuanto se enuncia*: el padre puso al hijo legítimo en la baronía formal, al hijo extraoficial en la alcaidía paralela, y a la hija mayor en la sede principal del valle. **La pinza frontera** —Argus en [[Ritornello]], Glastum en [[Glastumville]]— **se sostiene por su propia fricción interna**, mientras Alexia gobierna el centro político del valle desde Burdock. *Burdock, el arconte, no necesita estar presente: la geometría que dispuso opera sola.*
 
 [*El archivero del Plata, que ha leído algunas cartas privadas del arconte —no preguntemos cómo—, sostiene que la asimetría no era pereza, sino realismo: Burdock sabía que un valle frontera con un mega-dungeon respirando debajo no se gobierna desde la sala del arconte. Se gobierna desde los puestos de avanzada, y se gobierna mejor si las dos avanzadas se vigilan entre sí. —Glosa de [[Arkos]].*]
 
@@ -67,7 +67,7 @@ Los **tres hijos** del arconte se reparten el valle según la disposición que e
 
 ## La ausencia escénica
 
-El archivo decadiano **no registra a Burdock en escena del valle frontero**. No aparece en los pliegos circulados desde Ritornello, no figura en los censos de Glastumville, no concede audiencia en la Fortaleza Azur. **Su presencia es estructural, no escénica**:
+El archivo decadiano **no registra a Burdock en escena del valle frontero**. No aparece en los pliegos circulados desde [[Ritornello]], no figura en los censos de [[Glastumville]], no concede audiencia en la [[Fortaleza_Azur]]. **Su presencia es estructural, no escénica**:
 
 - Su **firma** sostiene el rango baronial de Argus.
 - Su **silencio** sostiene la alcaidía extraoficial de Glastum.
@@ -100,7 +100,7 @@ El estilo tiene su lógica imperial: *un arconte nominal no se equivoca en front
 
 - [[Argus_PJ|Lord Argus]] — hijo legítimo, Barón de Ritornello
 - [[Lady_Alexia_Basileon|Lady Alexia]] — hija legítima mayor
-- [[Sir_Glastum]] — hijo extraoficial, alcaide de la Fortaleza Azur
+- [[Sir_Glastum]] — hijo extraoficial, alcaide de la [[Fortaleza_Azur]]
 - [[Juliana_X_Bellatrix]] — medio hermana, emperatriz histórica
 - [[Drusus_IX_El_Palido|Basileus Drusus IX]] — autoridad imperial actual; fechador cortés de las cartas al primo del trono
 - [[Valle_de_Burdock]] — su feudo arcóntico

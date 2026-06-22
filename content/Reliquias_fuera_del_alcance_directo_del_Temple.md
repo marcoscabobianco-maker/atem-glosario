@@ -16,4 +16,4 @@ Esta entrada es mencionada desde:
 
 ---
 
-*Si llegaste aquí buscando información sobre **Reliquias Fuera Del Alcance Directo Del Temple**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+*Si llegaste aquí buscando información sobre **Reliquias Fuera Del Alcance Directo Del [[Temple_complejo_TE|Temple]]**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

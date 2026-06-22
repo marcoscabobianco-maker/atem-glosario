@@ -16,7 +16,7 @@ aliases:
 
 ## Presentación
 
-Figura mística asociada al campo de batalla de Kosovo Polje. [[Swan]] la ve en la bola de cristal (con casco, cuervos, oscureciendo el cielo). Al final de el regreso tras el Hiato se menciona una "Virgen guerrera" y un observador "desde París." Posible conexión con la Morrígan (mitología celta), la Diosa de las Estrellas (la fase tardía del ciclo primero), o el [[Rey_Amarillo_King_in_Yellow|Rey Amarillo]].
+Figura mística asociada al campo de batalla de [[Batalla_de_Kosovo_1389|Kosovo Polje]]. [[Swan]] la ve en la bola de cristal (con casco, cuervos, oscureciendo el cielo). Al final de el regreso tras el Hiato se menciona una "Virgen guerrera" y un observador "desde París." Posible conexión con la Morrígan (mitología celta), la Diosa de las Estrellas (la fase tardía del ciclo primero), o el [[Rey_Amarillo_King_in_Yellow|Rey Amarillo]].
 
 ## Apariciones notables
 

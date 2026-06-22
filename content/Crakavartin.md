@@ -1,6 +1,6 @@
 ---
-título: "Crakavartin — redirect (variante Whisper)"
-slug: Crakavartin
+título: "Cakravartin — redirect (variante Whisper)"
+slug: Cakravartin
 estado: redirect
 target: "[[Cakravartin]]"
 aliases:
@@ -10,6 +10,6 @@ tags:
  - whisper-variant
 ---
 
-# Crakavartin
+# Cakravartin
 
 → Consolidado en **[[Cakravartin]]**. *Variante de grafía (con/sin r interna) del original sánscrito Cakravartin. Mismo Aqua Lord / Señor de la Rueda Cósmica.*

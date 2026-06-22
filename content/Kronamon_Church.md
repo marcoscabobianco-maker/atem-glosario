@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-Secta religiosa especializada en viaje temporal. Requiere preparación espiritual para viajes seguros. Sistema de creencias sobre sincronía y destino. Posible rival o aliada de autoridades seculares ([[Prefectos_del_Tiempo|Prefectos del Tiempo]]). [[Philippe]] conectado a poder de [[Kronamon]] a través de [[El_Primer_Reloj|EL PRIMER RELOJ]].
+Secta religiosa especializada en viaje temporal. Requiere preparación espiritual para viajes seguros. [[Lords_of_Creation_Sistema_TNW|Sistema]] de creencias sobre sincronía y destino. Posible rival o aliada de autoridades seculares ([[Prefectos_del_Tiempo|Prefectos del Tiempo]]). [[Philippe]] conectado a poder de [[Kronamon]] a través de [[El_Primer_Reloj|EL PRIMER RELOJ]].
 
 ## Apariciones notables
 

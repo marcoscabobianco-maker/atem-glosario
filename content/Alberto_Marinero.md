@@ -17,8 +17,8 @@ Marinero superviviente del naufragio del yate de [[Meteora]] en el Mar de Márma
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]]: mencionado en recapitulación de sesión.
+[[Paris_Ucronica|París Ucrónica]]: mencionado en recapitulación de jornada.
 
 ## Notas
 
-Ver también **[[Meteora]]**, **Naufragio del Mar de Mármara**, **Bengala Sucrónica**.
+Ver también **[[Meteora]]**, **Naufragio del Mar de Mármara**, **[[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica]]**.

@@ -1,6 +1,6 @@
 ---
-título: "CRONOMON HEREDETH Titan Negro — redirect"
-slug: CRONOMON_HEREDETH_Titan_Negro
+título: "Kronamon HEREDETH Titan Negro — redirect"
+slug: Kronamon_HEREDETH_Titan_Negro
 estado: redirect
 target: "[[Cronomon_Heredeth]]"
 aliases:
@@ -10,6 +10,6 @@ tags:
  - filename-normalizado
 ---
 
-# CRONOMON HEREDETH Titan Negro
+# Kronamon HEREDETH Titan Negro
 
 → Consolidado en **[[Cronomon_Heredeth]]**. *Filename normalizado de MAYÚSCULAS a Title Case.*

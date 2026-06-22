@@ -15,7 +15,7 @@ aliases:
 **Historia:**
 - Portada por caballero oscuro en la jornada del falso Maestre
 - Dejada en bóveda de [[Temple_complejo_TE|Temple]]
-- **Robada en la noche siguiente, durante el descanso del grupo en el Temple** (responsable desconocido)
+- **Robada en la noche siguiente, durante el descanso del grupo en el [[Temple_complejo_TE|Temple]]** (responsable desconocido)
 
 **[[Propiedades]] mágicas:**
 - Viscosidad sobrenatural
@@ -27,5 +27,5 @@ aliases:
 
 ## Ver también
 
-- Robada en la noche del Temple
-- Propiedades mágicas
+- Robada en la noche del [[Temple_complejo_TE|Temple]]
+- [[Propiedades]] mágicas

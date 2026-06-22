@@ -45,12 +45,12 @@ Lo que la guía no te explica —*porque las guías de viaje no explican lo que 
 
 **Segunda**: **Ardisvala es la fase actual del mundo [[Vala|Vala]]** —antes vino [[Vala_Antigua|Vala Antigua]] (donde los héroes pasaron a dioses), después vino [[Vala_del_Medioevo|Vala del Medioevo]] (apenas documentada), ahora viene esto. *El nombre es blakeano*: **Vala, or The Four Zoas**. **El sufijo Ardis** viene del *Libro de los Vigilantes*: **lugar de la flecha**.
 
-**Tercera** —y esta es la que el archivo viene tardando en cerrar—: **Ardis Vala y Ardis Vala son dos caras del mismo evento cósmico**, *no entidades opuestas*. **La flecha (Ardis) cae sobre el par Vala/Vala simultáneamente**: **Vala** (el mundo blakeano de tres fases), y **Vala** (el mundo-gema donde se refugiaron millón doscientas mil almas antes de la colisión Terra-Antiterra). **La [[Vala_Cristalis]]** —*la capa que protege la gema*— **es lo que las articula**. *Por eso Ardis Vala y Ardis Vala se confunden con razón*: **son la misma flecha vista desde dos lados del cristal**. *Mirada desde fuera, el blakeano; mirada desde dentro, el mundo-gema*. **No son entidades opuestas: son el evento de la flecha sobre el par**.
+**Tercera** —y esta es la que el archivo viene tardando en cerrar—: **Ardis Vala y Ardis Vala son dos caras del mismo evento cósmico**, *no entidades opuestas*. **La flecha (Ardis) cae sobre el par Vala/Vala simultáneamente**: **Vala** (el mundo blakeano de tres fases), y **Vala** (el mundo-gema donde se refugiaron millón doscientas mil almas antes de la colisión Terra-[[Antiterra]]). **La [[Vala_Cristalis]]** —*la capa que protege la gema*— **es lo que las articula**. *Por eso Ardis Vala y Ardis Vala se confunden con razón*: **son la misma flecha vista desde dos lados del cristal**. *Mirada desde fuera, el blakeano; mirada desde dentro, el mundo-gema*. **No son entidades opuestas: son el evento de la flecha sobre el par**.
 
-> **Nota etimológica** *(precisada por el cronista 2026-05-22)*:
-> — **Ardis** = *"lugar de la flecha"* en griego etíope del **Libro 1 de Enoc / Libro de los Vigilantes**: monte donde los Vigilantes descendieron a tomar mujer y enseñar artes prohibidas. **Eco simultáneo en Nabokov**: *Ardis Hall*, paraíso perdido de Van y Ada en *Ada or Ardor*. **Una sola palabra, dos referencias literales**.
+> **Nota etimológica** *(precisada por el cronista)*:
+> — **Ardis** = *"lugar de la flecha"* en griego etíope del **Libro 1 de Enoc / Libro de los Vigilantes**: monte donde los Vigilantes descendieron a tomar mujer y enseñar artes prohibidas. **Eco simultáneo en Nabokov**: *[[Ardis_Hall]]*, paraíso perdido de Van y Ada en *Ada or Ardor*. **Una sola palabra, dos referencias literales**. El [[Rerum_divinarum_et_humanarum]] conserva la escena con su cifra exacta: *"eran **doscientos** los que bajaron a Ardis en [[Antiterra_Demonia|Antiterra]] — la cima del monte Hermón, al que llamaron así porque en él **juraron y se comprometieron bajo anatema**"*.
 > — **Vala** = *Vala, or The Four Zoas* de William Blake (poema inacabado, libreta cosida a mano, doce años de corrección). **Da nombre al mundo trans-fases**.
-> — **Ardis Vala y Ardis Vala son dos caras del mismo evento**: la flecha (Ardis) cae sobre **el par Vala/Vala** simultáneamente. **Vala** = mundo blakeano de tres fases; **Vala** = mundo-gema de Caldero. *Se ven separados porque Vala y Vala son mundos hermanos*, pero **la flecha es una sola**. *Se confunden con razón*.
+> — **Ardis Vala y Ardis Vala son dos caras del mismo evento**: la flecha (Ardis) cae sobre **el par Vala/Vala** simultáneamente. **Vala** = mundo blakeano de tres fases; **Vala** = mundo-gema de [[Caldero]]. *Se ven separados porque Vala y Vala son mundos hermanos*, pero **la flecha es una sola**. *Se confunden con razón*.
 > — *Advertencia operativa*: **en transcripciones de dictado a Wispr (y herramientas afines)**, las variantes **"Ardis Vala"** o **"Arden Bull"** suelen ser **errores de transcripción del audio donde el cronista dijo "Ardis Vala"**. *Caso ambiguo*: chequear contra contexto antes de tratar como entidad distinta.
 
 Las tres lecturas son una sola, si uno aprende a leerlas sin apuro. **Pero el apuro existe**, anota el cronista, *y por eso los doctrinarios suelen elegir una y pelearse con las otras dos*.
@@ -109,7 +109,7 @@ La capa de Virgo es la de la **virgen del templo** —la que custodia, la que li
 
 Bajemos al **nivel sexto del dungeon**, donde la arena que llaman Ludus aún huele a sangre vieja: **[[Lord_Carcalus]]** preside el combate; el león de piedra que corona la puerta del coliseo no es ornamento, **es alegoría operativa**. Quien entra en la arena bajo el ojo del león entra a la era de Leo. **Quien gana, sube por la cuerda al cielo de la capa**; *quien pierde, se queda como argamasa cáustica entre los adoquines de la capa siguiente*.
 
-La doctrina del Decadiano —que en este punto, conviene admitirlo, **se inclina más al estilo épico que a la sobriedad académica**— sostiene que los gladiadores caídos en Ludus **no mueren del todo**: pasan a ser nervio del cristal. **Por eso esta capa late más fuerte que las otras**.
+La doctrina del [[Decadiano]] —que en este punto, conviene admitirlo, **se inclina más al estilo épico que a la sobriedad académica**— sostiene que los gladiadores caídos en Ludus **no mueren del todo**: pasan a ser nervio del cristal. **Por eso esta capa late más fuerte que las otras**.
 
 ---
 
@@ -131,13 +131,13 @@ Bajo cada capa zodiacal corre **una red de sub-niveles** que el archivo no organ
 
 ## El presente bajo niebla — Valakhan *(voz Paulus, cierre)*
 
-Sobre todo este cristal —sobre las diez capas zodiacales, sobre los sub-niveles, sobre los Buscadores que descienden y los gladiadores que caen y la flecha que regresa por sus pasos— **cayó la bruma de [[Valakhan_de_la_Bruma|Valakhan]]**.
+Sobre todo este cristal —sobre las diez capas zodiacales, sobre los sub-niveles, sobre los [[Buscadores_de_Ardis_Vala|Buscadores]] que descienden y los gladiadores que caen y la flecha que regresa por sus pasos— **cayó la bruma de [[Valakhan_de_la_Bruma|Valakhan]]**.
 
 Quince años de silencio. *El [[Hiato_15_Años_Ardis_Vala|Hiato]]*. **[[Caladan]] gobierna desde el castillo de la colina**; **[[Papa_Alejandro_Sixto|el Papa Alejandro Sixto]] gobierna desde el [[Palacio_del_Prisma|Palacio del Prisma]] bajo el suelo**; **[[Ritornello]] arrasada hace quince años por la libélula bomba de [[Kerbog_Khan|Kerbog]]**; **la fiebre blanca aclara la piel de los habitantes** sin matarlos del todo.
 
 El cristal sigue abajo, intacto. **Las capas siguen cumpliendo su oficio sin testigo**. *La bruma de arriba no las apaga; las disimula*.
 
-Cuando los Buscadores regresen —si regresan, dice el archivo, *sin terminar de comprometerse con la hipótesis*— encontrarán las diez capas iguales. **Y encontrarán también la sospecha**: que **Valakhan no es la bruma sobre Ardisvala**, sino **una capa más** —la **decimoprimera**, la que se está asentando ahora—, y que **el cristal, lejos de detenerse, está creciendo hacia arriba**.
+Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] regresen —si regresan, dice el archivo, *sin terminar de comprometerse con la hipótesis*— encontrarán las diez capas iguales. **Y encontrarán también la sospecha**: que **Valakhan no es la bruma sobre Ardisvala**, sino **una capa más** —la **decimoprimera**, la que se está asentando ahora—, y que **el cristal, lejos de detenerse, está creciendo hacia arriba**.
 
 *Eso, si es exacto, cambia la lectura entera. Pero el cronista, por temperamento, no se afilia a la hipótesis. La registra.*
 
@@ -145,26 +145,26 @@ Cuando los Buscadores regresen —si regresan, dice el archivo, *sin terminar de
 
 ## La campaña operativa — los diez niveles del Mega-Dungeon
 
-**Lo que los Buscadores tienen entre manos** —*lo que la mesa actual corre entre 2024 y 2026, base mecánica AD&D 2da edición + ACKS Imperial Imprint para clases homebrew*— **es la cartografía descendente de Ardisvala como mega-dungeon**. *La superficie del setting es [[Gosterwick]] / [[Glastonbury]]*, **al pie de la Gran Cascada**, **con dos estatuas colosales (una arrodillada con espada y yelmo corintio, otra encapuchada)**, *ruinas de la ciudad antigua arriba*.
+**Lo que los Buscadores tienen entre manos** —*lo que la crónica presente recorre en su ciclo más reciente*— **es la cartografía descendente de Ardisvala como mega-dungeon**. *La superficie del setting es [[Gosterwick]] / [[Glastonbury]]*, **al pie de la Gran Cascada**, **con dos estatuas colosales (una arrodillada con espada y yelmo corintio, otra encapuchada)**, *ruinas de la ciudad antigua arriba*.
 
 Bajo y dentro de esas ruinas, **diez niveles principales**:
 
 | Nivel | Nombre | Notas operativas |
 |---|---|---|
-| 0 | Gosterwick / Glastonbury + Ruinas | Superficie, cascadas, estatuas |
+| 0 | [[Gosterwick]] / [[Glastonbury]] + Ruinas | Superficie, cascadas, estatuas |
 | 1 | The Basement | Poco explorado |
-| 2 | Howling Caves / Well of Light | Cuevas, Pozo de Luz |
-| 3 | Halls of Thoth / Bosque Fúngico | [[Lord_Parmes]], Copanegra |
-| 4 | Forum of Set | [[Marius_Urianius]], Sanzorotita Estefanía |
-| 5 | Obsidian Gates / Midnight Road | Puertas de Obsidiana |
-| 6 | Troll Lifts / Arena (Ludus) | [[Lord_Carcalus]], Posada de los Perdidos |
-| 7 | Court of Troll Thegn / [[Barumani]] | Trolls vikingos, Varboka, Ashoka |
+| 2 | [[L02_Howling_Caves_Well_of_Light|Howling Caves]] / [[L02_Howling_Caves_Well_of_Light|Well of Light]] | Cuevas, Pozo de Luz |
+| 3 | [[Halls_of_Thoth_Nivel|Halls of Thoth]] / Bosque Fúngico | [[Lord_Parmes]], Copanegra |
+| 4 | [[Forum_de_Set|Forum of Set]] | [[Marius_Urianius]], Sanzorotita Estefanía |
+| 5 | [[Obsidian_Gates_Midnight_Road|Obsidian Gates]] / [[Obsidian_Gates_Midnight_Road|Midnight Road]] | Puertas de Obsidiana |
+| 6 | [[Troll_Lifts_Arena|Troll Lifts]] / Arena (Ludus) | [[Lord_Carcalus]], [[Troll_Lifts_Arena|Posada de los Perdidos]] |
+| 7 | [[Court_of_Troll_Thegn]] / [[Barumani]] | Trolls vikingos, [[Varboka]], Ashoka |
 | 8 | Nether Reaches | No explorado |
-| 9 | Floor of Great Chasm | No explorado |
-| 10 | Ziggurat of Kauket | No explorado |
+| 9 | [[L09_Floor_of_Great_Chasm|Floor of Great Chasm]] | No explorado |
+| 10 | [[Ziggurat_de_Kauket]] | No explorado |
 | Sub-10A/B | **[[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]** | **Tomada por los Buscadores en la fase media del ciclo primero** |
 
-**Más quince sub-levels** —Tumbas de Luz, Cuevas de Lagartomanes, Talleres de [[Kerbog_Khan]], Cámaras Perdidas de Arden, etc.—. *El sub-10A/B es el sector tomado por la mesa*.
+**Más quince sub-niveles** —Tumbas de Luz, Cuevas de Lagartomanes, Talleres de [[Kerbog_Khan]], Cámaras Perdidas de Arden, etc.—. *El Hold y la Ciudadela de la Cicatriz del Sol son el sector tomado por los [[Buscadores_de_Ardis_Vala|Buscadores]]*.
 
 **La regla doctrinal central de la mesa** —*declarada explícitamente*— **es**: ***"el tiempo se vuelve espacio"***. **Cada nivel es capa temporal además de espacial**. *Es por eso que la lectura cosmológica del cristal y la lectura operativa del dungeon coinciden*: **los niveles del dungeon son las capas zodiacales, simplemente vistas desde adentro del cristal en vez de desde el cristal cortado**.
 
@@ -174,29 +174,29 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 
 | Facción | Estado al cierre del ciclo primero |
 |---|---|
-| **[[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** | **Liderados por los Buscadores** tras eliminar a [[Master_Malakita|Malakita]] y a [[Masracht_Prism_Keep|Masracht]] en Sub-Levels 10A-10B |
+| **[[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** | **Liderados por los Buscadores** tras eliminar a [[Master_Malakita|Malakita]] y a [[Masracht_Prism_Keep|Masracht]] en su Hold y su Ciudadela |
 | **[[Culto_de_Set|Culto de Set]]** | Enemigos tras el saqueo del templo. [[Marius_Urianius]], Estefanía, Melisario |
-| **[[Sortianos]]** (Priscos) | Aliados ideológicos. **[[Prisco_Electe]] como figura fundacional** |
+| **[[Sortianos]]** ([[Sortianos|Priscos]]) | Aliados ideológicos. **[[Prisco_Electe]] como figura fundacional** |
 | **[[Teosofos]]** | Opuestos. No confrontados directamente |
 | **[[Valumani]]** | Embajadores piel azul-blanca, intermediarios |
 | **[[Caliyanis]]** | Reptilianos de cuatro ojos. *Acuerdo 75% por deuda* |
 | **[[Deino_Bella_Penelope|Deino y sus Condes]]** | Hechicera transformadora. Comercio activo |
-| **[[Barumani|Trolls Barumani]]** | Gigantes vikingos del Nivel 7. Diplomacia en curso |
-| **[[Lord_Carcalus]]** | Maestro de la Arena del Nivel 6. Neutral |
+| **[[Barumani|Trolls Barumani]]** | Gigantes vikingos de la [[Court_of_Troll_Thegn|Corte del Thegn]]. Diplomacia en curso |
+| **[[Lord_Carcalus]]** | Maestro de la [[Troll_Lifts_Arena|Arena]]. Neutral |
 
 ---
 
 ## Los grandes arcos narrativos
 
-1. **La Deuda del Collar** — *treinta mil monedas de oro al Foro de Set*.
+1. **La Deuda del Collar** — *treinta mil monedas de oro al [[Forum_de_Set|Foro de Set]]*.
 2. **La Búsqueda de Sir Sixto** — *el padre homónimo del compañero Guido, "perdido en el nivel de abajo"*; resuelto al emerger Sir Sixto como **[[Papa_Alejandro_Sixto|Papa Alejandro VI]]**.
-3. **El Cisma Mágico** — Sortianos democráticos vs Teósofos elitistas.
+3. **El Cisma Mágico** — [[Sortianos]] democráticos vs Teósofos elitistas.
 4. **El Conflicto con Set** — enemigos del culto tras el robo de los rubíes.
 5. **La Diplomacia Subterránea** — navegación faccional, propuesta de Feria.
-6. **El Misterio Tecnológico** — los **[[Rudishva]]**, el **[[Beacon]]** (nave alienígena de ~3000 años).
+6. **El [[Misterio]] Tecnológico** — los **[[Rudishva]]**, el **[[Beacon]]** (nave alienígena de ~3000 años).
 7. **"El Tiempo se Vuelve Espacio"** — doctrina del dungeon-cristal.
-8. **La Redención de la Orden** — Caladan vampirizado por Malakita; los Buscadores eliminan a Malakita y al Masracht del Prism Keep (padre del Arian/Caladan), toman la Orden.
-9. **La Bomba / Huevo / Destrucción de [[Ritornello]]** — RAJ-750 IA, los trolls la usan para destruir Ritornello, "fecha fatídica" de 18 días activa al cierre del ciclo primero.
+8. **La Redención de la Orden** — [[Caladan]] vampirizado por Malakita; los Buscadores eliminan a Malakita y al [[Masracht_Prism_Keep|Masracht del Prism Keep]] (padre del Arian/[[Caladan]]), toman la Orden.
+9. **La Bomba / Huevo / Destrucción de [[Ritornello]]** — [[RAJ-750]] IA, los trolls la usan para destruir [[Ritornello]], "fecha fatídica" de 18 días activa al cierre del ciclo primero.
 10. **Las Nieblas / Ravenloft** — escalada de nieblas, convergencia con el Demiplane of Dread, formación de Valakhan.
 
 ---
@@ -206,17 +206,17 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 **Tras los quince años de silencio**, **el Hiato se cierra y los Buscadores regresan**. *El elenco se renueva*:
 
 - **[[Caladan]]** (continuación de [[Arian]], treinta años de línea) — *emerge del sarcófago de Tuliarios como bodhisattva del 25º sol*.
-- **[[Bayrum_Cristalia]]**, **[[Alumine_Manwe_Finwe]]** (Rockseer Elf), **[[Melvino_Calvino]]**, **[[Valerius_Utrecht]]** (paladín de la espada compañera donde Ardipithecus se ocultaba), **[[El_Druida_Rodrigo|el Druida]]**, **[[Sixto_Guido|Sixto]]**.
+- **[[Bayrum_Cristalia]]**, **[[Alumine_Manwe_Finwe]]** (Rockseer Elf), **[[Melvino_Calvino]]**, **[[Valerius_Utrecht]]** (paladín de la espada compañera donde [[Ardipithecus]] se ocultaba), **[[El_Druida_Rodrigo|el Druida]]**, **[[Sixto_Guido|Sixto]]**.
 - *Nuevos compañeros incorporados en el regreso tras el Hiato*:
- - **[[Decio_Balmora]]** — Ranger/Montaraz de Valdemora, ex-señor de la [[Ciudadela_Sin_Sol]] caída en grieta hace 15 años. Esposa Lali perdida. Tipo Trancos.
- - **[[Argus_PJ]]** — Guerrero curtido, georgiano del Cáucaso. Cruz tatuada, sandalias, manuscritos de Thoth. **Revela ser paradigma caído / Ardipithecus / ancestro primigenio** —*figura del abismo previo a la diferencia entre hombres y demonios*—. Su espada es **inteligente, demoníaca, compañera**, *pide sangre y transpira ácido*.
+ - **[[Decio_Balmora]]** — Ranger/Montaraz de [[Valdemora]], ex-señor de la [[Ciudadela_Sin_Sol]] caída en grieta hace 15 años. Esposa Lali perdida. Tipo Trancos.
+ - **[[Argus_PJ]]** — Guerrero curtido, georgiano del Cáucaso. Cruz tatuada, sandalias, manuscritos de Thoth. **Revela ser paradigma caído / [[Ardipithecus]] / ancestro primigenio** —*figura del abismo previo a la diferencia entre hombres y demonios*—. Su espada es **inteligente, demoníaca, compañera**, *pide sangre y transpira ácido*.
 
 ### Episodios mayores del regreso
 
-- **El traidor [[Carad_de_Teyber|Carad de Teyber "el maldito"]]** — *Señor de panteras*— **entregó a los pibes** de Mirela Valka. *El grupo lo enfrenta, le cortan el brazo, queda en el suelo*.
+- **El traidor [[Carad_de_Teyber|Carad de Teyber "el maldito"]]** — *Señor de panteras*— **entregó a los pibes** de [[Mirela_Valka]]. *El grupo lo enfrenta, le cortan el brazo, queda en el suelo*.
 - **Lali corrompida en pozo** — esposa muerta de Decio, ex-pareja de Caladan. *Decapitada. Decía*: **"No estuviste, entonces yo tengo un nuevo señor"** —Carad la había corrompido tras la grieta—.
-- **Trampa del Pentagrama Prismático** — los Buscadores son teletransportados a una sala con **estrella de cinco puntas, tres colores (rojo / amarillo / azul)**. *Es el [[Palacio_del_Prisma]] / Donjon prismático*. **Prisión arcana**. *Rojo es leve (20 HP), amarillo requiere viento, azul requiere password, posibilidad de petrificación*.
-- **El bibliotecario del Papa Alejandro** — *figura con libro, capa descamada como de dragón azul*; **habla latín vulgar**; funciona como **heraldo del Papa Alejandro = [[Pablo_de_Alejandria|Pablo de Alejandría]]**. *Detecta que hay un demonio entre los compañeros —el círculo "nunca se equivoca"*—. Apunta al Caladan vampirizado. Menciona a los **[[Custodes_Oculis_Solis|Custodes Oculis Solis]]** —*sacerdotes de Thoth con cabeza de garza*—.
+- **Trampa del Pentagrama Prismático** — los Buscadores son teletransportados a una sala con **estrella de cinco puntas, tres colores (rojo / amarillo / azul)**. *Es el [[Palacio_del_Prisma]] / Donjon prismático*. **Prisión arcana**. *Rojo castiga apenas, amarillo requiere viento, azul requiere una contraseña; hay riesgo de petrificación*.
+- **El bibliotecario del [[Papa_Alejandro_Sixto|Papa Alejandro]]** — *figura con libro, capa descamada como de dragón azul*; **habla latín vulgar**; funciona como **heraldo del [[Papa_Alejandro_Sixto|Papa Alejandro]] = [[Pablo_de_Alejandria|Pablo de Alejandría]]**. *Detecta que hay un demonio entre los compañeros —el círculo "nunca se equivoca"*—. Apunta al Caladan vampirizado. Menciona a los **[[Custodes_Oculis_Solis|Custodes Oculis Solis]]** —*sacerdotes de Thoth con cabeza de garza*—.
 - **Muerte de [[Numa_Pompidio]]** — *primer druida del grupo, anteriormente convertido en vampiro en pruebas de torre*, **muere en el templo de Thoth** cuando un dragón lo "frió" durante una procesión de celestiales/asimars (cabezas de garza). **Argus llega después y se queda con manuscritos**.
 
 ### Lugares introducidos en el regreso
@@ -224,14 +224,14 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 - **[[Valdemora]]** — aldea de Decio, 400 habitantes, bastión post-cenizas.
 - **[[Ciudadela_Sin_Sol]]** — castillo de Decio caído en grieta.
 - **[[Estellara]]** — posada de los aliados de Decio.
-- **[[Ritornello]]** — la ciudad principal **arrasada por el huevo bomba** (RAJ-750), hace quince años, *"lo de las cenizas"* con cuatro mil desvanecidos.
+- **[[Ritornello]]** — la ciudad principal **arrasada por el huevo bomba** ([[RAJ-750]]), hace quince años, *"lo de las cenizas"* con cuatro mil desvanecidos.
 - **[[Mirela_Valka]]** — noble local, ex-enamorada de Decio (perdió frente a Lali), madre de Luminita y Dracos.
 
 ---
 
 ## Caldero como antecedente
 
-**Ardisvala es secuela narrativa de [[La_Jabalina|Caldero / La Jabalina]]**. *Los compañeros de Caldero dejaron el mundo-gema [[Vala_Cristalis|Vala Cristalis]] y **emergen en el setting Vala / Ardisvala***. **La Vala Cristalis sigue siendo capa cosmológica activa**; *el mundo-gema interior continúa como referencia*. Ardisvala opera **arriba o afuera** del mundo-gema, con la geografía propia del setting Vala.
+**Ardisvala es secuela narrativa de [[La_Jabalina|Caldero / La Jabalina]]**. *Los compañeros de [[Caldero]] dejaron el mundo-gema [[Vala_Cristalis|Vala Cristalis]] y **emergen en el setting Vala / Ardisvala***. **La [[Vala_Cristalis]] sigue siendo capa cosmológica activa**; *el mundo-gema interior continúa como referencia*. Ardisvala opera **arriba o afuera** del mundo-gema, con la geografía propia del setting Vala.
 
 ---
 
@@ -250,7 +250,7 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 - [[Palacio_del_Prisma]] — sede eclesial bajo tierra
 - [[Ritornello]] — ciudad imperial del valle arrasada antes del cierre
 - [[Buscadores_de_Ardis_Vala]] — el grupo que desciende
-- [[Caballeros_Cicatriz_del_Sol]] — orden establecida en sub-niveles 10A-B
+- [[Caballeros_Cicatriz_del_Sol]] — orden establecida en su Hold y su Ciudadela, en lo más hondo del dungeon
 - [[Lord_Parmes]] · [[Lord_Carcalus]] · [[Barumani]] · [[Marius_Urianius]] — figuras de niveles activos
 - [[Beacon]] · [[Rudishva]] — nave alienígena, residentes pre-imperiales
 - [[Gran_Cisma_Magico]] — guerra civil que la deshizo
@@ -266,7 +266,7 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 - **Gran Cisma Mágico** — caída por guerra civil
 - **Hundimiento del cristal** — cristalización en diez capas zodiacales (Acuario superficial, Aries en el fondo)
 - **Beacon caído hace 3000 años** — sub-nivel pre-imperial
-- **Año 2993 después del Pacto de Enoc** — fecha de juego canónica del ciclo primero
+- **Año 2993 después del [[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc]]** — fecha de juego canónica del ciclo primero
 - **Ciclo primero — descenso de los Buscadores** — mapeo de los diez niveles
-- **Hiato de los Quince Años** — silencio y formación de Valakhan
+- **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — silencio y formación de Valakhan
 - **Ciclo presente — bruma sobre la cristalería** — Caladan arriba, Papa abajo, fiebre blanca, sospecha de la decimoprimera capa

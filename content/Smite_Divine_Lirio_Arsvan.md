@@ -1,14 +1,9 @@
 ---
-categoria: lugar
+redirect_to: Castigo_Divino_Lirio_Arsvan
 aliases:
- - "Smite Divine (Lirio + Ärsvan)"
+ - Smite_Divine_Lirio_Arsvan
 ---
 
-# Smite Divine (Lirio + Ärsvan)
+# → [[Castigo_Divino_Lirio_Arsvan]]
 
-## Presentación
-
-- **Lirio (Bendición):** +2 ataque, +2 tiradas salvación (grupo, 1 minuto)
-- **[[Arsvan|Ärsvan]] (Smite personal):** Daño adicional fuego; efecto carga de lanza
-- **Daño total [[Arsvan|Ärsvan]] final:** 36 HP (suficiente muerte instantánea [[Marques_de_Sade_Hugo|Hugo]])
-- **Costo:** Punto de fervor (recurso limitado)
+*Esta entrada ha sido renombrada. Ver [[Castigo_Divino_Lirio_Arsvan]].*

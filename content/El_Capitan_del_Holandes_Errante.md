@@ -48,11 +48,11 @@ imagen: Imagenes_Tier1/El_Capitan_del_Holandes_Errante.png
 - [[Anti_Inferno|la figura del segundo círculo]] — el grupo viajero a bordo en NC07a
 - [[Edward]] — interrogador durante NC08
 - [[Cronotravel]] — la posibilidad que revela en su negociación
-- [[Capitan_el_Coruna|Capitán el Coruña]] — distinto, no confundir (del Wander)
+- [[Capitan_el_Coruna|Capitán el Coruña]] — distinto, no confundir (del [[Wander]])
 - [[Akala]]
 
 ## Apariciones
 
-- **NC07a — ritual de Patience** — primera presencia documentada del Capitán
-- **NC08 — interrogatorio de Edward** — el grupo lo confronta
+- **NC07a — ritual de [[Anti_Inferno|Patience]]** — primera presencia documentada del Capitán
+- **NC08 — interrogatorio de [[Edward]]** — el grupo lo confronta
 - **NC14 — abordaje del Holandés en la Luna** — negociación pacífica; cesión de las Cadenas

@@ -1,5 +1,5 @@
 ---
-categoria: faccion
+categoria: facción
 tags:
  - "faccion"
  - "sigil"
@@ -25,7 +25,7 @@ El **Harmonium** (apodo despectivo: "Hardheads") es una de las **quince faccione
 
 > Fuente externa: *Planescape Campaign Setting* (TSR, 1994), *Factols' Manifesto* (TSR, 1995).
 
-## Acepción en la el cosmos compartido
+## Acepción en el cosmos compartido
 
 El Harmonium aparece en el cosmos compartido como **facción funcional en Sigil** cuando los compañeros interactúan con la ciudad. Referenciado desde [[Sigil]].md.
 
@@ -37,12 +37,12 @@ El Harmonium aparece en el cosmos compartido como **facción funcional en Sigil*
 
 El Harmonium opera como:
 - **Filtro narrativo**: pone fricción a compañeros que entran a Sigil con misiones "irregulares" (la mayoría).
-- **Representación de orden**: contraste con facciones más caóticas (Anarchists, Doomguard, etc.).
+- **Representación de orden**: contraste con facciones más caóticas (Anarchists, [[Doomguard]], etc.).
 - **Conexión Arcadia**: enlace planar a Arcadia, plano de orden benévolo.
 
 ## Recontextualización MC
 
-El Harmonium entra a el cosmos compartido **sin reescritura** del canon Planescape — es importación operativa. lo usa cuando necesita un cuerpo policial planar reconocible.
+El Harmonium entra al cosmos compartido **sin reescritura** del canon Planescape — es importación operativa. lo usa cuando necesita un cuerpo policial planar reconocible.
 
 - ¿Algún compañero ha sido detenido / juzgado por el Harmonium?
 - ¿Algún compañero ha sido miembro del Harmonium?
@@ -50,11 +50,11 @@ El Harmonium entra a el cosmos compartido **sin reescritura** del canon Planesca
 
 ## Nota lateral
 
-> Importación canónica de Planescape. Apariciones específicas en sesiones MC pendientes de catalogar.
+> Importación canónica de Planescape. Apariciones específicas en el ciclo pendientes de catalogar.
 
 ## Ver también
 
 - [[Sigil]] (su ciudad)
 - [[Dama_del_Dolor|Dama del Dolor]] (regente, autoridad superior)
 - [[Sigil_Ciudad_de_las_Puertas_contexto_Reguladores|Sigil — contexto Reguladores]]
-- Otras facciones Sigil (pendiente crear: Anarchists, Doomguard, etc.)
+- Otras facciones Sigil (pendiente crear: Anarchists, [[Doomguard]], etc.)

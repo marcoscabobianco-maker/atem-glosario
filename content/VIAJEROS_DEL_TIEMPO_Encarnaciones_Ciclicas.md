@@ -20,9 +20,9 @@ aliases:
 
 **Implicación crítica:** Si Tiempo muere (fin del Tiempo), ciclos TERMINAN. Viajeros ya no pueden reencarnar. Quedan congelados en "cerámica" (estado indefinido, no-vida).
 
-**Ejemplos confirmados:** [[Pablo_de_Alejandria|Pablo]], El Negro (presumiblemente), [[Alexio]] (sospecha de [[Reynaud|Reynaud]], no confirmado)
+**Ejemplos confirmados:** [[Pablo_de_Alejandria|Pablo]], El Negro (presumiblemente), [[Alexio]] (sospecha de [[Michel|Michel]], no confirmado)
 
 ## Ver también
 
 - [[Implicacion_critica|Implicación crítica]]
-- [[Ejemplos_confirmados|Ejemplos confirmados]]
+- Ejemplos confirmados

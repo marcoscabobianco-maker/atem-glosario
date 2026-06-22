@@ -21,7 +21,7 @@ epoca: "Edad de los Imperios — siglo III-IV d.C."
 ## Presentación
 
 Ciudad de condición múltiple temporal y espacial: fue, es y será el
-hogar de [[Pablo_de_Alejandria|Pablo]] el Maestro Alterador. Como ciudad cosmopolita del
+hogar de [[Pablo_de_Alejandria|Pablo]] el [[Pablo_de_Alejandria|Maestro Alterador]]. Como ciudad cosmopolita del
 primario Tierra alberga a egipcios, judíos y griegos. Aparece tanto en
 [[Angara_Andgara|Andgara]] como en la Tierra, siempre cerca del Nilo y el Delta.
 

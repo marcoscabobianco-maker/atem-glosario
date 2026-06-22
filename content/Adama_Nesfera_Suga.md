@@ -2,7 +2,7 @@
 título: "Adama Nesfera Suga — redirect"
 slug: Adama_Nesfera_Suga
 estado: redirect
-target: "[[Suga]]"
+target: "[[Adama_Nesfera]]"
 aliases:
  - Adama Nesfera Suga
 tags:
@@ -12,4 +12,4 @@ tags:
 
 # Adama Nesfera Suga
 
-→ Consolidado en **[[Suga]]**. *Variante de alias confuso. Misma figura (apodo de mesa del avatar arlequín).*
+→ Consolidado en **[[Adama_Nesfera]]**. *Anfitriona de la Taberna 12 de Isidora (Ciudades Invisibles). Homónima del apodo [[Suga]] del descenso por el Inferno: figuras distintas.*

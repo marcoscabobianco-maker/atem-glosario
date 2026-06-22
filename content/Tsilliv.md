@@ -13,49 +13,49 @@ tags:
  - hechicero
  - ardis-vala
  - mega-dungeon-ardis-vala
- - SL09
+ - Kaliyani Pits
  - consorcio-doce
  - heqeti-renegada
  - reptiliano-cuatro-ojos
 ---
 # Tsilliv
 
-> *Líder del Consorcio Doce de los [[Kaliyani]]. Hechicero reptiliano de cuatro ojos. Reside en SL9 Kaliyani Pits. Acaba de reabrir conflicto con los Varumani al ser descubiertos sus scouts.*
+> *Líder del [[Kaliyani|Consorcio Doce]] de los [[Kaliyani]]. Hechicero reptiliano de cuatro ojos. Reside en las las [[Kaliyani]] Pits. Acaba de reabrir conflicto con los [[Varumani]] al ser descubiertos sus scouts.*
 
 ## Presentación
 
-**Tsilliv** es el **líder del Consorcio Doce** —el cuerpo de gobierno oligárquico de los **[[Kaliyani]]**, sub-raza heqeti renegada—. Reside en **SL9 Kaliyani Pits** del [[Mega_Dungeon_Arden_Vul]]. **Hechicero reptiliano de cuatro ojos**.
+**Tsilliv** es el **líder del Consorcio Doce** —el cuerpo de gobierno oligárquico de los **[[Kaliyani]]**, sub-raza heqeti renegada—. Reside en **Kaliyani Pits Kaliyani Pits** del [[Mega_Dungeon_Arden_Vul]]. **Hechicero reptiliano de cuatro ojos**.
 
 ### El Consorcio Doce
 
-Bajo Tsilliv, los Kaliyani de Arden Vul se organizan en una **oligarquía de 12 líderes**:
+Bajo Tsilliv, los Kaliyani de [[Ardis_Vala|Arden Vul]] se organizan en una **oligarquía de 12 líderes**:
 
 - **Tsilliv** — líder supremo (titular)
 - **11 hechiceros adicionales** — formando el resto del Consorcio (no nombrados individualmente)
 
 **Estructura oligárquica** distingue a los Kaliyani de:
-- **Heqeti** (teocracia bajo el Great Tongue)
-- **Varumani** (monarquía feudal bajo el First Thegn)
-- **Papa Alejandro Sixto** (papado eclesial centralizado)
+- **[[Heqeti]]** (teocracia bajo el Great Tongue)
+- **[[Varumani]]** (monarquía feudal bajo el [[Varboka|First Thegn]])
+- **[[Papa_Alejandro_Sixto]]** (papado eclesial centralizado)
 
 Los Kaliyani prefieren **consenso de pares hechiceros** sobre **autoridad única**.
 
 ### El conflicto con los Varumani
 
-**Antes del Vencimiento de los Varumani**, Tsilliv envió un **scout team kaliyani** a explorar el chasm floor del L9, liderado por **Rivvep** (kaliyani sorcerer, área 9-118). **Una partida de caza varumani los descubrió y mató al scout**. **[[Varboka]] declaró bounty de 100 gp por colmillo kaliyani**.
+**Antes del Vencimiento de los Varumani**, Tsilliv envió un **scout team kaliyani** a explorar el chasm floor del Suelo del Gran Abismo, liderado por **Rivvep** (kaliyani sorcerer). **Una partida de caza varumani los descubrió y mató al scout**. **[[Varboka]] declaró recompensa de cien piezas de oro por colmillo kaliyani**.
 
 **Tsilliv estaba preparando expedición de represalia** cuando los Varumani fueron derrotados.
 
-### Post-hiato (Reveal 2026-05-20)
+### Post-hiato (revelación del archivo)
 
 Con el **[[Vencimiento_Varumani]]**:
 
-- **Bounty de Varboka es irrelevante** — los Varumani depuestos
+- **Bounty de [[Varboka]] es irrelevante** — los Varumani depuestos
 - **El Consorcio Doce puede expandir territorio** sin oposición varumani
-- **Rivvep y otros scouts** pueden moverse libremente por el L9
-- **Posible alianza con [[Reepsiq]] (Heqeti)** — pero histórica enemistad (Kaliyani = renegados de Kauket) impide unión total
+- **Rivvep y otros scouts** pueden moverse libremente por el Suelo del Gran Abismo
+- **Posible alianza con [[Reepsiq]] ([[Heqeti]])** — pero histórica enemistad (Kaliyani = renegados de Kauket) impide unión total
 - **Posible enemistad con [[Papa_Alejandro_Sixto]]** — si el Papa busca centralizar dominio, los Kaliyani son alternativa oligárquica
-- **Posible alianza con los Buscadores** — si los Kaliyani **rechazan a Kauket**, podrían ser aliados contra la invocación demoníaca
+- **Posible alianza con los [[Buscadores_de_Ardis_Vala|Buscadores]]** — si los Kaliyani **rechazan a Kauket**, podrían ser aliados contra la invocación demoníaca
 
 ### Aspecto
 
@@ -72,20 +72,20 @@ Con el **[[Vencimiento_Varumani]]**:
 
 | Vínculo | Facción |
 |---|---|
-| **Sub-líder** | **Rivvep** — scout team en L9-118 |
+| **Sub-líder** | **Rivvep** — scout team en el Suelo del Gran Abismo |
 | **Enemigo histórico** | **[[Heqeti]] / [[Reepsiq]]** — culto a Kauket del que renegaron |
 | **Enemigo deceased** | **[[Varumani]] / [[Varboka]]** — bounty hunters |
 | **Rival ideológico** | **[[Papa_Alejandro_Sixto]]** — autocracia vs oligarquía |
-| **Posible aliado táctico** | **[[Priscians]] / Nerub Null** — orden hechicera secreta |
-| **Posible alianza con compañeros** | Buscadores que **rechacen invocación Kauket** |
+| **Posible aliado táctico** | **[[Priscians]] / [[Nerub_Null]]** — orden hechicera secreta |
+| **Posible alianza con compañeros** | [[Buscadores_de_Ardis_Vala|Buscadores]] que **rechacen invocación Kauket** |
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
 - [[Kaliyani]] — su pueblo
-- **SL9 — Kaliyani Pits** — sede
+- **Kaliyani Pits** — sede
 - **Consorcio Doce** — gobierno oligárquico
-- **Rivvep** — scout team líder (L9-118)
+- **Rivvep** — scout team líder
 - [[Heqeti]] / [[Reepsiq]] — raza madre, enemigo religioso
 - [[Kauket]] — divinidad rechazada
 - [[Varumani]] / [[Varboka]] — enemigos depuestos
@@ -95,5 +95,5 @@ Con el **[[Vencimiento_Varumani]]**:
 
 ## Apariciones
 
-- **el archivo** — "Acuerdo del 75% con los Caliyanis" mencionado por los Buscadores. Detalles a confirmar
+- **el archivo** — "Acuerdo del 75% con los [[Caliyanis]]" mencionado por los Buscadores. Detalles a confirmar
 - **Pendiente**: encuentro directo

@@ -23,11 +23,11 @@ tags:
 
 # Barrado Balacán
 
-> *Territorio actual donde está Ardisvala. Antes "Balacán", ahora "Barrado Balacán" post-hiato. Está dentro del dominio Valakhan de la Bruma. Hogar de Valdemora, Estellara, Ciudadela Sin Sol, Ritornello (en ruinas).*
+> *Territorio actual donde está Ardisvala. Antes "Balacán", ahora "Barrado Balacán" post-hiato. Está dentro del dominio [[Valakhan_de_la_Bruma]]. Hogar de [[Valdemora]], [[Estellara]], [[Ciudadela_Sin_Sol]], [[Ritornello]] (en ruinas).*
 
 ## Presentación
 
-**Barrado Balacán** —*Balacán* en pre-hiato— es el **territorio actual** donde se ubica el valle de **[[Ardis_Vala]]** y el **[[Mega_Dungeon_Arden_Vul|mega-dungeon]]**. Confirmado por en el regreso tras el Hiato:
+**Barrado Balacán** —*Balacán* en pre-hiato— es el **territorio actual** donde se ubica el valle de **[[Ardis_Vala]]** y el **[[Mega_Dungeon_Arden_Vul|mega-dungeon]]**. Confirmado por el archivo en el regreso tras el Hiato:
 
 > *"En Balacán, ahora es Barrado Balacán. Pero antes lo conocían por Ardisvala."* (el regreso tras el Hiato)
 
@@ -45,9 +45,9 @@ tags:
 
 | Lugar | Tipo |
 |---|---|
-| **[[Valdemora]]** | Aldea, ~400 hab. (Decio Balmora) |
+| **[[Valdemora]]** | Aldea, ~400 hab. ([[Decio_Balmora]]) |
 | **[[Estellara]] / [[Stejara]]** | Pueblo / posada (mismo lugar dos lenguas) |
-| **[[Ciudadela_Sin_Sol]]** | Castillo Balmora hundido en grieta |
+| **[[Ciudadela_Sin_Sol]]** | [[Ciudadela_Sin_Sol|Castillo Balmora]] hundido en grieta |
 | **[[Ritornello]]** | Ciudad arrasada (ruina) |
 | **Gran Cascada / Cascada** | Frontera geográfica |
 | **[[Mega_Dungeon_Arden_Vul|Mega-dungeon Arden Vul]]** | Subsuelo |
@@ -55,13 +55,13 @@ tags:
 
 ### Habitantes
 
-- **Decio Balmora** (Ranger Montaraz de Valdemora)
-- **Mirela Valka** (noble local, madre de Cesare/Lucrecia Borgia locales)
-- **Carad de Teyber** (señor regional traidor)
+- **[[Decio_Balmora]]** (Ranger Montaraz de [[Valdemora]])
+- **[[Mirela_Valka]]** (noble local, madre de Cesare/Lucrecia Borgia locales)
+- **[[Carad_de_Teyber]]** (señor regional traidor)
 - **Estorrisco** (contacto local)
 - **Baba Iliana** (atadora de profecías)
-- **Fierro** (habitante de Estellara)
-- **Refugiados** de Ritornello
+- **Fierro** (habitante de [[Estellara]])
+- **Refugiados** de [[Ritornello]]
 
 ### Gobierno post-hiato
 
@@ -69,7 +69,7 @@ tags:
 |---|---|
 | **Eclesial cósmico** | **[[Papa_Alejandro_Sixto|Papa Alejandro VI]]** (Castillo del Prisma) |
 | **Cosmológico (darklord)** | **[[Caladan]]** (señor del dominio Valakhan) |
-| **Regional terrenal** | **[[Carad_de_Teyber]]** (Señor de Panteras) |
+| **Regional terrenal** | **[[Carad_de_Teyber]]** ([[Carad_de_Teyber|Señor de Panteras]]) |
 | **Local noble** | **[[Mirela_Valka]]** (Valdemora) |
 | **Local mística** | **Baba Iliana** (profecías) |
 
@@ -81,8 +81,8 @@ tags:
 - [[Valdemora]], [[Estellara]], [[Stejara]], [[Ciudadela_Sin_Sol]], [[Ritornello]] — lugares
 - [[Decio_Balmora]], [[Mirela_Valka]], [[Carad_de_Teyber]] — habitantes notables
 - [[Papa_Alejandro_Sixto]], [[Caladan]] — autoridades cósmicas
-- [[Sunless_Citadel]] — módulo dungeon (cross-Novatos)
-- [[Novatos_Ravenloft_ACKS]] — campaña paralela cruzada
+- [[Ciudadela_Hundida]] — módulo dungeon (cross-[[Novatos_Ravenloft|Novatos]])
+- [[Novatos_Ravenloft]] — campaña paralela cruzada
 - [[Hiato_15_Años_Ardis_Vala]] — período de renombre
 - [[Arden_Vul|Ardis Vala (campaña)]]
 

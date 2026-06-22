@@ -11,13 +11,11 @@ aliases:
 ## Presentación
 
 **Invocador:** [[Alexio]] 
-**Descripción:** Hechizo de curación de clase Champion. Curativo de corta duración.
-**Tirada de salvación:** No aplica (es curativo, no dañino)
-**Efectos observados:** Cura [[Reynaud|Reynaud]] cuando inconsciente. Tiradas reportadas: "2d8+" algo, daño no-letal no considerado.
-**Diferenciación:** No es "healing" estándar sino "fervor" de champion (posible mecánica de "furor sagrado").
+**Descripción:** [[Idiotizacion_Hechizo|Hechizo]] de curación propio de los campeones. Curativo de corta duración.
+**Resistencia:** no aplica (es curativo, no dañino)
+**[[Efectos]] observados:** Cura a [[Michel|Michel]] cuando está inconsciente; el vigor vuelve de golpe.
+**Diferenciación:** No es curación corriente sino "fervor" de campeón — un furor sagrado.
 
 ## Ver también
 
-- Tirada de salvación
-- Efectos observados
-- Diferenciación
+- [[Efectos]] observados

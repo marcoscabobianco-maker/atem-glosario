@@ -20,4 +20,4 @@ Torreón de basalto oscuro en el fondo del [[Valle_de_la_Serpiente_Amarilla|Vall
 
 ## Notas
 
-Ver también **[[Valle_de_la_Serpiente_Amarilla|Valle de la Serpiente Amarilla]]**, **Olaus Wormius**.
+Ver también **[[Valle_de_la_Serpiente_Amarilla|Valle de la Serpiente Amarilla]]**, **[[Olaus_Wormius_aka_Theodorus|Olaus Wormius]]**.

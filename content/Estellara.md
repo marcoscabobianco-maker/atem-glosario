@@ -23,19 +23,19 @@ tags:
 
 ### figuras locales
 
-- **Fierro** — habitante de Estellara, con quien los Buscadores conversan
+- **Fierro** — habitante de Estellara, con quien los [[Buscadores_de_Ardis_Vala|Buscadores]] conversan
 - **Baba Iliana** — *"atadora de hombros y de profecías"*. Adivina / hechicera popular que **lee destinos**. Búsqueda activa de músicos para una banda perdida "hace medio siglo"
 - Otros parroquianos no nombrados
 
 ### Su función narrativa
 
-Estellara es el **lugar de información**: cuando los Buscadores llegan a Valdemora, **Estellara es la siguiente parada** para recoger contexto del valle. Allí conocen:
+Estellara es el **lugar de información**: cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] llegan a [[Valdemora]], **Estellara es la siguiente parada** para recoger contexto del valle. Allí conocen:
 - El estado actual del territorio (gobierno corrupto de [[Carad_de_Teyber]])
-- La existencia de **Mirela Valka** como noble local de Valdemora
+- La existencia de **[[Mirela_Valka]]** como noble local de [[Valdemora]]
 - Las profecías de **Baba Iliana** que cruzan los destinos de los compañeros
-- Pistas sobre la desaparición de los hijos de Mirela
+- Pistas sobre la desaparición de los hijos de [[Mirela_Valka|Mirela]]
 
-La **Baba Iliana** parece ser un eco de un tipo de bruja-vidente eslavo (Baba = abuela / matriarca). Su línea sobre los músicos perdidos hace medio siglo introduce un **gancho secundario** para sesiones futuras.
+La **Baba Iliana** parece ser un eco de un tipo de bruja-vidente eslavo (Baba = abuela / matriarca). Su línea sobre los músicos perdidos hace medio siglo introduce un **gancho secundario** para jornadas futuras.
 
 ## Vínculos
 

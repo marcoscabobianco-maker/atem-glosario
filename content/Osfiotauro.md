@@ -16,10 +16,10 @@ aliases:
 
 ## Presentación
 
-Criatura toro-serpiente (bull-serpent hybrid) encontrada en el [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]] durante esta sesión. Extremadamente peligrosa: mata o deja críticamente herido a [[Philippe]] (lo aplasta/"quiebra"). Liberada deliberadamente por las criaturas de la torre contra el grupo. La derrota del osfiotauro otorga "Ascensión Mítica" (catasterismo) — transformación o elevación espiritual/cósmica del héroe que lo vence.
+Criatura toro-serpiente (bull-serpent hybrid) encontrada en el [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]] durante esta jornada. Extremadamente peligrosa: mata o deja críticamente herido a [[Philippe]] (lo aplasta/"quiebra"). Liberada deliberadamente por las criaturas de la torre contra el grupo. La derrota del osfiotauro otorga "[[Ascension_Mitica_Catasterismo|Ascensión Mítica]]" (catasterismo) — transformación o elevación espiritual/cósmica del héroe que lo vence.
 
 **Combate en el archivo:**
-- [[Corvino|Corvino]]: combate aéreo con alas de cuervo, Vampire Touch crítico (50 HP recuperados)
+- [[Corvino|Corvino]]: combate aéreo con alas de cuervo; su Toque Vampírico dio de lleno y le devolvió fuerzas robadas al monstruo
 - [[Swan]]: Handle Animal natural 20, guía al osfiotauro hacia portal estelar
 - [[Aby_Warburgo|Aby Warburgo]]: ilusión con rostro de Claude para engañar a la criatura
 - [[Philippe]]: recibe ataque devastador, 2 Hero Points usados, muere o queda al borde de la muerte

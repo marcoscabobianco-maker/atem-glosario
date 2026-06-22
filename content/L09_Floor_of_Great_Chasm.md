@@ -1,11 +1,10 @@
 ---
-título: "Floor of Great Chasm (Nivel 9)"
+título: "Floor of Great Chasm"
 slug: L09_Floor_of_Great_Chasm
 categoria: lugar
 aliases:
  - L09 Floor of Great Chasm
  - Floor of Great Chasm
- - Nivel 9
  - Suelo del Gran Abismo
  - Bosque Fúngico Inferior
 tags:
@@ -20,67 +19,65 @@ tags:
  - nerub-null
  - priscians
  - rudishva-bastion
- - 56-paginas
- - 95-areas-clave
 ---
 
-# Floor of Great Chasm (Nivel 9)
+# Floor of Great Chasm
 
-> *El suelo del Gran Abismo. Bosques de hongos colosales bifurcados por waterfalls. Walid ogre magi. Sekhmet vengeance aspect. Nerub Null y los Priscians. Heqeti Old Father. 56 páginas, 95 áreas clave.*
+> *El suelo del Gran [[Abismo]]. Bosques de hongos colosales bifurcados por waterfalls. Walid ogre magi. [[Sekhmet]] vengeance aspect. [[Nerub_Null]] y los [[Priscians]]. [[Heqeti]] Old Father.*
 
 ## Presentación
 
-El **Nivel 9 — Floor of Great Chasm** es el **suelo de la caverna colosal central** del [[Mega_Dungeon_Arden_Vul]]. **Sin techo en la mitad oeste** (acceso vertical desde múltiples niveles); **techo de 50' en la mitad este**. **Bosques de hongos colosales** bifurcados por la **lake** formada por las dos waterfalls que caen desde niveles superiores (9-66, 9-67). **Rimpled Run** —río subterráneo— exits al norte (9-127, 9-141).
+El **Floor of Great Chasm** —*Suelo del Gran Abismo*— es el **suelo de la caverna colosal central** del [[Mega_Dungeon_Arden_Vul]]. **Sin techo en la mitad oeste** (acceso vertical desde múltiples niveles); **techo de 50' en la mitad este**. **Bosques de hongos colosales** bifurcados por la **lake** formada por las dos waterfalls que caen desde niveles superiores. **Rimpled Run** —río subterráneo— exits al norte.
 
 ### Seis regiones
 
 | Región | Áreas | Habitante / Notas |
 |---|---|---|
-| **1. The Floor of the Chasm** | 9-1 a 9-12, 9-16, 9-49-51, 9-65-67, 9-70-76, 9-83-87, 9-98, 9-108 | Quicklings (9-4), ogre magi (Walid en 9-70), aroksachaul (9-50) |
-| **2. Silver Mine** | 9-19 a 9-27 | **Varumani silver mining** bajo **Prayaska true varumani** (9-22). Mine boss skim |
-| **3. Priscian Compound** | 9-58 a 9-64A | **[[Priscians]]** (descendientes auto-proclamados de Sortianos). **Nerub Null archmage** (9-64) líder |
-| **4. Rudishva Bastion** | 9-89 a 9-97 | **Antiguo command post rudishva + Bridge Crew del Beacon residencia**. **2,800 años secreto**. Transit shaft 9-91 |
-| **5. Lost Reliquary of Sekhmet** | (~9-100-107) | **Tablet of Sekhmet** custodiada por **Celsus Torquatius vengeance aspect** (9-104) |
-| **6. Silent Canyon** | 9-109 a 9-126 | **Heqeti settlement antiquísimo + heqeti old ones undead** + **Old Father** (9-126) |
+| **1. The Floor of the Chasm** | el suelo abierto | Quicklings, ogre magi (Walid), aroksachaul |
+| **2. Silver Mine** | la mina | **[[Varumani]] silver mining** bajo **Prayaska true varumani**; el capataz retiene su parte |
+| **3. Priscian Compound** | el compound oculto | **[[Priscians]]** (descendientes auto-proclamados de [[Sortianos]]). **[[Nerub_Null]] archmage** líder |
+| **4. [[Rudishva]] Bastion** | el bastión | **Antiguo command post rudishva + Bridge Crew del Beacon residencia**. **2.800 años secreto**. Pozo de tránsito |
+| **5. Lost Reliquary of [[Sekhmet]]** | el relicario | **Tablet of Sekhmet** custodiada por **Celsus Torquatius vengeance aspect** |
+| **6. Silent Canyon** | el cañón silencioso | **[[Heqeti]] settlement antiquísimo + heqeti old ones undead** + **Old Father** |
 
 ### figuras centrales
 
-- **Rí Mear** (9-14) — lord of quicklings
-- **Prayaska** (9-22) — true varumani mine boss
-- **Cenwulf the Unseen** (9-31) — 8th-level illusionist, líder Priscian expedition
-- **Vingalok** (9-48) — niravairi del Order of Planar Explorers
-- **Syagria Aitón** (9-55) — **lich**
-- **Jaracondus the Sprightly** (9-63) — segundo Priscian en Arden Vul
-- **Nerub Null** (9-64) — **archmage**, líder Priscian
-- **Walid** (9-70) — chief ogre magi
-- **Celsus Torquatius** (9-104) — **vengeance aspect de Sekhmet**
-- **Rivvep** (9-118) — **kaliyani sorcerer**, líder exploration team
+- **Rí Mear** — lord of quicklings
+- **Prayaska** — true varumani mine boss
+- **Cenwulf the Unseen** — ilusionista del octavo grado de su temple, líder de la expedición priscian
+- **Vingalok** — niravairi del Order of Planar Explorers
+- **Syagria Aitón** — **lich**
+- **Jaracondus the Sprightly** — segundo Priscian en [[Ardis_Vala|Arden Vul]]
+- **Nerub Null** — **archmage**, líder Priscian
+- **Walid** — chief ogre magi
+- **Celsus Torquatius** — **vengeance aspect de Sekhmet**
+- **Rivvep** — **kaliyani sorcerer**, líder exploration team
 
 ### Construcción
 
-- **Heqeti**: 9-31-48, 9-76-82, 9-108-126 (Silent Canyon)
-- **Rudishva**: 9-29-30, 9-88-97 (Bastion)
-- **Archontean**: 9-58-64, 9-98, 9-100-107
+- **Heqeti**: el Silent Canyon y sus aproximaciones
+- **[[Rudishva]]**: el Bastion y el Great Pillar
+- **[[Archontean]]**: el compound y el relicario
 
 ### Accesos / salidas
 
-- **Great Chasm**: 9-1 — sube L2-L8
-- **A L5**: 9-35 → 5-52B; 9-30 Great Pillar; 9-91 transit shaft
-- **A L6**: 9-30 Great Pillar; 9-91 transit; 9-39 → 6-112A
-- **A L7**: 9-30 Great Pillar; 9-91 transit; **9-2 Dread Risers** → 7-2; 9-27 → 7-52
-- **A L10**: 9-141 river → 10-31; 9-82 → 10-1 (**ruta principal a Ziggurat**)
+- **Great Chasm**: sube hasta los pisos altos
+- **A Puertas de Obsidiana**: el Great Pillar y el pozo de tránsito
+- **A Troll Lifts**: el Great Pillar y el pozo de tránsito
+- **A Corte del Thegn**: el Great Pillar, el pozo de tránsito y los **Dread Risers**
+- **A Ziggurat de Kauket**: el río y el corredor oeste (**ruta principal**)
 
 ### Aliados / enemigos importantes
 
-- **Los heqeti han ocupado** el **forward post** (9-76 a 9-82) que conduce a L10. **Alerta de aquí dispara la defensa del Ziggurat**.
-- **Los kaliyani han enviado expedición** desde SL9 (Rivvep en 9-118)
+- **Los heqeti han ocupado** el **forward post** que conduce a Ziggurat de Kauket. **Alerta de aquí dispara la defensa del Ziggurat**.
+- **Los kaliyani han enviado expedición** desde Kaliyani Pits (Rivvep)
 - **Los varumani extraen plata** y comen hongos
-- **Los Priscians han reocupado** Sortian compound (9-58-64)
+- **Los [[Priscians]] han reocupado** Sortian compound
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Ziggurat_de_Kauket|L10]] — destino arriba/abajo del nivel
+- [[Ziggurat_de_Kauket|Ziggurat de Kauket]] — destino arriba/abajo del nivel
 - [[Heqeti]] — forward post + Silent Canyon
 - [[Rudishva]] — Bastion + Bridge Crew Beacon
 - [[Beacon_Faro_Brillante]] — Bridge Crew here
@@ -98,4 +95,4 @@ El **Nivel 9 — Floor of Great Chasm** es el **suelo de la caverna colosal cent
 ## Apariciones
 
 - **Pendiente** — visita exhaustiva
-- Probablemente referenciado en sesiones del Great Chasm
+- Probablemente referenciado en jornadas del Great Chasm

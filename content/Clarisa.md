@@ -84,10 +84,10 @@ tags:
 ## Presentación
 
 Hija de **[[Arcoms_Cosmar|Arcoms Cosmar]]** y **[[Nasim]]**. Nace en 1354 DR en **[[Brightwater_Arborea|Brightwater Arborea]]**.
-Pertenece a la generación intermedia de el cosmos compartido (junto con Arcoms, [[Coyote]], [[Minaya_MC|Minaya]],
-[[Elisteo]], [[Moran_Atias|Moran Atias]]). Heredera del oficio de su padre: así como Arcoms fue Maestro
-Bibliotecario en el concilio de Myth Drannor, Clarisa toma la posta como bibliotecaria
-y asume la escritura del **Calendario**, continuando la labor narrativa de **[[Amitlai]]**.
+Pertenece a la generación intermedia del cosmos compartido (junto con [[Arcoms_Cosmar|Arcoms]], [[Coyote]], [[Minaya_MC|Minaya]],
+[[Elisteo]], [[Moran_Atias|Moran Atias]]). Heredera del oficio de su padre: así como [[Arcoms_Cosmar|Arcoms]] fue Maestro
+Bibliotecario en el concilio de [[Myth_Drannor]], Clarisa toma la posta como bibliotecaria
+y asume la escritura del **[[Calendario]]**, continuando la labor narrativa de **[[Amitlai]]**.
 
 La entrada de Arcoms refiere a "su hija" tres veces sin nombrarla: el amor por ella
 lo llevó a unirse a la red de bienhechores; al descubrir cuán traumada estaba, le
@@ -97,7 +97,7 @@ su corazón artificial, y el demonio **[[Kaxathros]]** completó su destrucción
 **Cronología en MC_LINEA_TEMPORAL:**
 
 - **1354 DR:** Nace en [[Brightwater_Arborea|Brightwater Arborea]]. Hija de Arcoms y [[Nasim]].
-- **1375 DR:** Juicio Final (Primer Círculo). **Laveth** trama su ascensión divina y mata a Clarisa. [Nota: la línea temporal no especifica si es muerte definitiva.]
+- **1375 DR:** [[Juicio_Final|Juicio Final (Primer Círculo)]]. **[[Laveth]]** trama su ascensión divina y mata a Clarisa. [Nota: la línea temporal no especifica si es muerte definitiva.]
 - **1377 DR:** Clarisa sale de prisión. [Contradicción aparente con la muerte de 1375 — pendiente de resolución: ¿resurrección? ¿muerte no definitiva? ¿homonimia?]
 
 **Homonimia (resuelta):** La línea temporal registra tres "Clarisa" distintas:
@@ -108,16 +108,16 @@ independiente, no es hija de Arcoms; (II) madre de **[[Elisteo]]** junto con **[
 (I), (II), (III) en la línea temporal debe mantenerse para distinguirlas. Los
 eventos de 1375 y 1377 DR corresponden a Clarisa (III).
 
-**Enfrentamiento Clarisa vs. [[Amitlai]]:** Ambos personajes fueron jugados por la misma
-jugadora, **figura del archivo**. Ambas coinciden cronológicamente en 1375 DR (Juicio
+**Enfrentamiento Clarisa vs. [[Amitlai]]:** Ambos personajes nacieron de la misma
+mano, **figura del archivo**. Ambas coinciden cronológicamente en 1375 DR (Juicio
 Final, Primer Círculo) y 1377 DR (Falso Secuestro de [[Amitlai]] / Clarisa sale de
-prisión). El enfrentamiento entre los dos personajes de la misma jugadora es un dato
-confirmado por (el archivo mar 2026). Circunstancias exactas y otros personajes
+prisión). El enfrentamiento entre los dos personajes de la misma mano es un dato
+confirmado por el archivo. Circunstancias exactas y otros personajes
 presentes: pendiente de minería en cuadernos C21, C25 y fuentes MC.
 
 *Grafía canónica:* **Clarisa** (con una sola S). Se han encontrado variantes
 "Clarissa" (MC_LINEA_TEMPORAL, C50 p.42) y "Clarisa" (INDICE C21, C25, C50 p.167).
-Unificado por directiva de (el archivo mar 2026).
+Unificado por directiva del archivo.
 
 ## Apariciones notables
 
@@ -146,5 +146,4 @@ desprotegida.
 
 ## Presentación
 
-Agregar a Notas:
 > **El pez globo:** archivo oral de dic 2010 pregunta por "el pez globo... cómo era la historia?" asociada a [[Clarisa]]. Respuesta documentada: "lo del pez globo no estaba escrito. Lo extraeré de mis cuadernos luego." Este episodio es material oral/vivido que solo existe en los cuadernos manuscritos. Pendiente de minería en cuadernos.

@@ -16,13 +16,13 @@ aliases:
 
 ## Presentación
 
-Mujer/entidad que lleva cantos y ofrece garras del río océano. Presente en la asamblea de el archivo. ¿[[Cakravartin|Crakavartín]]/Aqualord? ¿Relación con la [[Atlantida_Alta_y_Baja|Atlántida]]? Facción del agua como contrapeso al fuego.
+Mujer/entidad que lleva cantos y ofrece garras del río océano. Presente en la asamblea de el archivo. ¿[[Cakravartin|Cakravartin]]/Aqualord? ¿Relación con la [[Atlantida_Alta_y_Baja|Atlántida]]? Facción del agua como contrapeso al fuego.
 
 ## Apariciones notables
 
 [[Paris_Ucronica|París Ucrónica]] (asamblea de [[Kumal_Armenia_Libre|Kumal]]).
 
-*Nota (R62):* Podría ser el Señor del Agua o referirse a plataformas relacionadas con Chakravartin (Cacrabartin). Entidades/conceptos conectados en el dominio acuático/oceánico de la cosmología.
+*Nota (R62):* Podría ser el Señor del Agua o referirse a plataformas relacionadas con [[Cakravartin]] (Cacrabartin). Entidades/conceptos conectados en el dominio acuático/oceánico de la cosmología.
 
 ## Notas
 

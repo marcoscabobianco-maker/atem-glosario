@@ -8,7 +8,7 @@ aliases:
 
 ## Presentación
 
-**Concepto:** Sistema de almacenamiento mágico de 7 bóvedas, cada una con 8 Portales.
+**Concepto:** [[Lords_of_Creation_Sistema_TNW|Sistema]] de almacenamiento mágico de 7 bóvedas, cada una con 8 Portales.
 
 **Función:**
 - Replicación de espacio (¿cada bóveda contiene copias mágicas?)
@@ -19,8 +19,8 @@ aliases:
 **[[Proteccion_Hechizo_de_Encantamiento|Protección]]:**
 - Guardias internos (celadones)
 - Magia especial de preservación
-- Protocolo de acceso restringido
+- [[Protocolo_de_acceso]] restringido
 
 ## Ver también
 
-- Protección
+- [[Proteccion_Hechizo_de_Encantamiento|Protección]]

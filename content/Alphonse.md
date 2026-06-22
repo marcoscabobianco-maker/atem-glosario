@@ -1,48 +1,17 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5191384]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Alphonse_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Alphonse"]
 ---
 
-# ATEM::SaintGermain::MMF::Alphonse
+# Alphonse
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Alphonse_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Alphonse. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Proveedor de materiales difíciles de encontrar en el París de 1648: aquellos que un estudioso de lo oculto no puede comprar en las boticas ni encargar al librero sin levantar sospechas. [[Marsilio_Fountaine|Marsilio Fountaine]] trató con él antes de que los caminos de los suyos se cruzaran con los de [[Madeline_Boulet|Madeline Boulet]] y [[Jeanne_Devossie|Jeanne Devossie]].
 
-![[ATEM__SaintGermain__MMF__Alphonse_retrato.png]]
+No es un maestro ni un iniciado: es el hombre que sabe dónde conseguir lo que se necesita y a qué precio. En el subsuelo comercial de una ciudad en ebullición, ese oficio tiene su propio peso. Apareció en los momentos en que la trama necesitó provisiones de naturaleza peculiar, y desapareció cuando ya no hacía falta.
 
-
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5191384
-**kanka_url:** https://app.kanka.io/w/216093/entities/5191384
-**kanka_kind:** character
-**kanka_type:** (vacío)
-**familia:** (sin familia)
-**sexo:** (no especificado)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 8
-- **Sesiones donde aparece** (3/9):
-  - S3 — 4 hits
-  - S7 — 2 hits
-  - S9 — 2 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Marsilio_Fountaine]] — su cliente; Marsilio le compró materiales para sus estudios ocultistas
+- [[Madeline_Boulet]] — figura del mismo grupo que Marsilio cuando los caminos convergen
+- [[Jeanne_Devossie]] — también referenciada en el episodio que involucra a Alphonse
+- [[Francia]] — París, 1648; el mercado negro de lo sobrenatural

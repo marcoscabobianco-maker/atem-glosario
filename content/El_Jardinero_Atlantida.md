@@ -24,7 +24,7 @@ imagen: Imagenes_Tier1/El_Jardinero_Atlantida.png
 ![[Imagenes_Tier1/El_Jardinero_Atlantida.png]]
 <!-- /HEADER_IMG -->
 
-> *"El Jardín de Atlántida no es lugar, sino Memoria. Quien riega con Atención, devuelve el Mundo a su Forma."*
+> *"El Jardín de [[Atlantida_Alta_y_Baja|Atlántida]] no es lugar, sino Memoria. Quien riega con Atención, devuelve el Mundo a su Forma."*
 
 **En posición de loto sobre el centro del jardín**, regadera en una mano —en la otra mano, abierta, **palma vuelta hacia el rosal**—. *Túnica larga de pliegues, barba de patriarca egipcio, corona solar al fondo*. Bajo sus pies, **un papiro extendido en piedra** con el lema en mayúsculas griegas: **ONTO HELI** (Ὄντο Ἡλί). A los costados, dos cartelas: **EL JARDINERO DE ATLÁNTIDA** y **Ὁ ΚΗΠΟΥΡΟΣ ΤΗΣ ΑΤΛΑΝΤΙΔΟΣ** — los dos nombres, el latino y el griego, **dispuestos como si fueran el mismo nombre en dos lados del mismo umbral**.
 
@@ -52,5 +52,5 @@ imagen: Imagenes_Tier1/El_Jardinero_Atlantida.png
 ## Apariciones
 
 - **Edades atlantes** — fundación del jardín; primeros visitantes
-- **Encarnaciones anteriores de Los Profundos** — bajo las aguas, junto al Cakravartin original
+- **Encarnaciones anteriores de [[Los_Profundos]]** — bajo las aguas, junto al [[Cakravartin]] original
 - **Tiempo akásico continuo** — sigue regando; sigue recibiendo

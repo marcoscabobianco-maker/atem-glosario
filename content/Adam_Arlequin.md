@@ -5,6 +5,9 @@ estado: redirect
 target: "[[Arian]]"
 aliases:
  - Adam Arlequin
+ - Adam Arlequín
+ - Adam (Arlequín)
+ - Adán
 tags:
  - redirect
  - consolidacion-cluster-inferno

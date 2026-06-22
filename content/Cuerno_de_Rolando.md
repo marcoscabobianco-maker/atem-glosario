@@ -15,7 +15,7 @@ aliases:
 - **Descripción:** Artefacto anteriormente ofrecido por [[Rolando_Capitan_de_Caballeros|Rolando]] (posible referencia a Olifant de leyenda)
 - **Función:** Desconocida (presumiblemente señal/llamado mágico?)
 - **Status en el reencuentro de la incursión astral:** Retomado en negociación. El grupo lo recibe de los Caballeros.
-- **Procedencia:** De época Carlomagno (VIII-IX)
+- **Procedencia:** De época [[Carlos_Rey_Carlos_Carlomagno|Carlomagno]] (VIII-IX)
 
 ## Ver también
 

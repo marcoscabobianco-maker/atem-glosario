@@ -1,50 +1,19 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5095846]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Omer_Talon_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Omer Talón"]
 ---
 
-# ATEM::SaintGermain::MMF::Omer Talon
+# Omer Talon
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Omer_Talon_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Omer Talon. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Abogado y magistrado, Omer Talon ocupa el cargo de avocat général ante el Parlamento de París en los años convulsos de la Regencia. Nacido en el oficio —viene de una larga estirpe de hombres de leyes—, comenzó su carrera en Poitiers antes de ascender a la arena política de la capital. Su voz es tenida por la más elocuente del Palacio de Justicia: argumenta con precisión de escolástico y fervor de predicador, sin que ninguno de los dos registros le resulte ajeno.
 
-![[ATEM__SaintGermain__MMF__Omer_Talon_retrato.png]]
+Su posición en la Fronda es la del moderado incómodo para todos: defiende la prerrogativa del Parlamento de registrar los edictos reales y limitar el poder de la [[Corona_activacion_desconocida|Corona]], pero no comulga con la agitación de los príncipes ni con el tumulto de las barricadas. El 15 de enero de 1648, en respuesta a la invocación del lit de justice por el cardenal [[Cardenal_Mazarino|Mazarino]], Talon pronuncia ante la corte un discurso que sacude los muros del [[Palais-Royal]]: arremete contra la práctica de gobernar sembrando el terror, compara la [[Francia]] del momento con los despotismos de los medos y los persas, y afirma que el Parlamento es el único dique que queda entre el pueblo y la arbitrariedad del fisco. Se dice que la reina regente [[Ana_de_Austria|Ana de Austria]], presente en la sala, no pudo contener las lágrimas.
 
+Talon no es un agitador ni un demagogo: es el hombre que pone en latín jurídico lo que la calle grita en argot. Su influencia sobre el curso de la Fronda parlamentaria es la del que da nombre a los agravios y los viste de legalidad.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5095846
-**kanka_url:** https://app.kanka.io/w/216093/entities/5095846
-**kanka_kind:** character
-**kanka_type:** NPC
-**familia:** (sin familia)
-**sexo:** Male
-**título:** Juez
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 13
-- **Sesiones donde aparece** (4/9):
-  - S3 — 9 hits
-  - S4 — 1 hits
-  - S5 — 1 hits
-  - S9 — 2 hits
-
-## Entry Kanka actual (resumen)
-
-> Talon es conocido como el juez más elocuente de su época. Abogado de toda la vida y parlamentario, comenzó su carrera en Poitiers, pero desde entonces ha escalado la escalera de la ambición y se ha trasladado a la política parisina. Omer aboga por la moderación de los poderes del monarca y la preservación de los derechos del Parlamento para equilibrar la autoridad real. El 15 de enero, su discurso en respuesta a la invocación del lit de justice hace llorar a la Reina Ana cuando arremete contra la realeza por no "sembrar el terror en todas partes" y compara a Francia con los reinos de los medos y los persas.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM espejo, citando kanka_url como fuente primaria.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Cardenal_Mazarino]] — poder contra el que el Parlamento esgrime sus fueros; eje de la tensión que Talon articula en palabras
+- [[Paris]] — sede del Parlamento de París, locus de toda la carrera de Talon
+- [[Quartier_de_Saint_Germain_de_Pres]] — barrio donde convergen las figuras de la Fronda y los personajes de la campaña
+- [[Sebastian_Jacques_De_La_Tour]] — figura del mismo entorno parlamentario y temporal

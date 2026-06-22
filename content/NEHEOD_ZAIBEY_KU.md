@@ -14,9 +14,4 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Ubicación — Templo infernal
-**Primer aparición:** CC2_REPORTE –4102
-**Descripción:** Templo ubicado en el sexto nivel del Infierno (región [[Hecate_Antagonista_Confirmada_S19|Hécate]]/[[Dite_Ciudad_infernal|Dite]]), bajo catacumbas. Contiene jaula con cautivos. Nombre aparentemente dantesco o cosmológico; no presente en sesiones el Descenso esta sesión y posteriores.
-**Detalles mecánicos:** Estructura de dos niveles (superior del templo, jaula subterránea). Enemigos presentes: Simplex, Doble Iterador, posiblemente [[Hecate_Antagonista_Confirmada_S19|Hécate]]. Salida vía teleport/plano shift forzado.
-**Significancia:** Centro de CC2, likely side quest para liberación de cautivos.
-**Confianza:** FUERTE (ubicación consistente, mecánica clara)
+Templo infernal ubicado en el sexto nivel del [[Infierno]] (región de Hécate / [[Dite_Ciudad_infernal|Dite]]), bajo catacumbas. El nombre evoca resonancias dantescas y cosmológicas. Contiene una jaula subterránea donde se mantienen cautivos. Las figuras presentes —entre ellas el Simplex y el [[Doble_Iterador]]— custodian el lugar; la propia Hécate podría morar en sus profundidades.

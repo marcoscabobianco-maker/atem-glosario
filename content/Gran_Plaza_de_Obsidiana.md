@@ -24,7 +24,7 @@ imagen: null
 ---
 # La Gran Plaza de Obsidiana
 
-> *"Una planicie pétrea con forma de estrella, venerada por los ciudadanos como foco de energía celestial."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"Una planicie pétrea con forma de estrella, venerada por los ciudadanos como foco de energía celestial."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
@@ -32,15 +32,15 @@ imagen: null
 
 **La Gran Plaza de Obsidiana** —*"la planicie estrella"* en boca corriente, *"el foco de energía celestial"* en pliegos ortodoxos eclesiales— **es plaza fundacional de [[Ciudad_Estrella]]**, *centro geográfico y cosmológico* **de la capital del mundo-gema [[Vala_Cristalis]]**. *Forma del piso pétreo*: **estrella** *(de cinco o seis puntas según la lectura del archivo)*, **tallada en obsidiana negra masiva** *que se extiende cubriendo el centro de la urbe*.
 
-*Cosmológicamente*: **es manifestación geográfica de una [[Plataformas_de_Vala_Ely|Plataforma primigenia]]** *del mundo-gema*. **Foco de energía celestial** *porque la Plataforma debajo, aunque estancada, no está cerrada del todo*; *la energía residual fluye visiblemente* **en la forma estelar del piso**, *en los reflejos del cristal cuando la luz lunar la toca*, *en la sensación cosmológica que el visitante experimenta al pisarla*.
+*Cosmológicamente*: **es manifestación geográfica de una [[Plataformas_de_Vala_Ely|Plataforma primigenia]]** *del mundo-gema*. **Foco de energía celestial** *porque la [[Aldebaran_Estrella_Plataforma|Plataforma]] debajo, aunque estancada, no está cerrada del todo*; *la energía residual fluye visiblemente* **en la forma estelar del piso**, *en los reflejos del cristal cuando la luz lunar la toca*, *en la sensación cosmológica que el visitante experimenta al pisarla*.
 
 ---
 
 ## La función cosmológica del besamiento
 
-**Las tradiciones del pueblo de Caldero (y de Ciudad Estrella) enseñaban**: **besar el centro de la estrella abriría la senda hacia un plano más profundo**, *una especie de prueba mágica al estilo de las primigenias plataformas de los astros de Alfa Centauri*. *La doctrina popular* **conservaba conocimiento residual de la función primigenia de la Plataforma**: **pasarela cosmológica de intercambio entre planos**.
+**Las tradiciones del pueblo de [[Caldero]] (y de [[Ciudad_Estrella]]) enseñaban**: **besar el centro de la estrella abriría la senda hacia un plano más profundo**, *una especie de prueba mágica al estilo de las primigenias plataformas de los astros de Alfa Centauri*. *La doctrina popular* **conservaba conocimiento residual de la función primigenia de la [[Aldebaran_Estrella_Plataforma|Plataforma]]**: **pasarela cosmológica de intercambio entre planos**.
 
-*El besamiento operaba como ritual*: **labios sobre el centro de la estrella + intención profetizada = apertura del descenso al plano más profundo**. **No era operación cotidiana**: **se realizaba sólo en momentos cosmológicos específicos** *(devoción mayor, profecía cumplida, ritual de cambio dinástico)*. **Los Papas Borg sucesivos** *habían prohibido o desalentado el besamiento* **para mantener cerrada la Plataforma** *(que de operar plenamente podría reactivar a la Giganta Antigua apresada debajo)*.
+*El besamiento operaba como ritual*: **labios sobre el centro de la estrella + intención profetizada = apertura del descenso al plano más profundo**. **No era operación cotidiana**: **se realizaba sólo en momentos cosmológicos específicos** *(devoción mayor, profecía cumplida, ritual de cambio dinástico)*. **[[Papas_Borg|Los Papas Borg]] sucesivos** *habían prohibido o desalentado el besamiento* **para mantener cerrada la Plataforma** *(que de operar plenamente podría reactivar a la [[Giganta_Antigua]] apresada debajo)*.
 
 ---
 
@@ -78,7 +78,7 @@ imagen: null
 - **Espacio civil**: **mercados ceremoniales**, **proclamaciones imperiales**, **reuniones del culto post-papado**, *paso cotidiano de ciudadanos*.
 - **Espacio cosmológico**: **el centro de la estrella sigue siendo foco de energía celestial**, *con la Plataforma respirando debajo*. **Cualquier operación cosmológica mayor en Ciudad Estrellaopera con resonancia en la Plaza**.
 
-*Los rumores sobre los laboratorios sellados en las Torres Gemelas de Titti Frame* **podrían operar con energía extraída residualmente de la Plataforma bajo la Plaza**. *Si el polo negativo gesta nuevo papado industrial-mágico*, **la Plaza** *podría volver a ser locus de ritual mayor*, *aunque en estética distinta a la del Papa Borg clásico*.
+*Los rumores sobre los laboratorios sellados en las [[Torres_Gemelas]] de [[Titti_Frame]]* **podrían operar con energía extraída residualmente de la Plataforma bajo la Plaza**. *Si el polo negativo gesta nuevo papado industrial-mágico*, **la Plaza** *podría volver a ser locus de ritual mayor*, *aunque en estética distinta a la del Papa Borg clásico*.
 
 ---
 

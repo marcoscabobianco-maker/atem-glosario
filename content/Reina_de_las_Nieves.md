@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.
 **Nota:** Ya mencionada en GLOSARIO l.8259 en contexto NC/[[Baraquiel]]. Esta es la primera aparición contextualizada en [[Antiterra_Demonia|Antiterra]].
 
 ### el plano operativo
@@ -26,4 +26,4 @@ Guardiana rival acérrima de [[Gabriel_Guardian_de_Aries|Gabriel]], ubicada en e
 
 Ya mencionada en GLOSARIO l.8259 en contexto NC/[[Baraquiel]]. Esta es la primera aparición contextualizada en [[Antiterra_Demonia|Antiterra]].
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.

@@ -18,4 +18,4 @@ aliases:
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] sesión posterior: [[Constantinopla_Ucronica_1055_CE|Constantinopla]] 1055, construcción de cápsulas temporales con [[Claude_Nauge|Claude Nauge]], [[Thomas_Cole|Thomas Cole]], Olaus Wormius, incorporación de [[U-Reloj]] y [[U-Bengala]]. sesión posterior: búsqueda y recuperación de componentes en [[Alejandria|Alejandría]], Efeso, sincronización temporal. sesión posterior: instalación final de cápsulas en diversos monumentos históricos como legado revolucionario.
+[[Paris_Ucronica|París Ucrónica]] jornada posterior: [[Constantinopla_Ucronica_1055_CE|Constantinopla]] 1055, construcción de cápsulas temporales con [[Claude_Nauge|Claude Nauge]], [[Thomas_Cole|Thomas Cole]], [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]], incorporación de [[U-Reloj]] y [[U-Bengala]]. jornada posterior: búsqueda y recuperación de componentes en [[Alejandria|Alejandría]], Efeso, sincronización temporal. jornada posterior: instalación final de cápsulas en diversos monumentos históricos como legado revolucionario.

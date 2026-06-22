@@ -14,7 +14,7 @@ aliases:
 
 ## Presentación
 
-**Hipótesis:** El Negro es encarnación del demonio capuchado (zona 5 [[Temple_complejo_TE|Temple]]). La forma poseída revelada en el Laberinto Omniporal es [[El_Explorador_de_Gotland_Oratiol_manifestacion|manifestación]] del mismo demonio.
+**Hipótesis:** El Negro es encarnación del demonio capuchado (zona 5 [[Temple_complejo_TE|Temple]]). La forma poseída revelada en el [[Laberinto_Omniporal]] es [[El_Explorador_de_Gotland_Oratiol_manifestacion|manifestación]] del mismo demonio.
 **Evidencia:**
 - Ambos no identificados completamente
 - Ambos presentes en [[Temple_complejo_TE|Temple]]/Laberinto tras la jornada de la campana

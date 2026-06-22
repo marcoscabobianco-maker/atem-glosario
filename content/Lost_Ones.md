@@ -28,7 +28,7 @@ imagen: null
 ---
 # Lost Ones
 
-> *"El Lost One es alma que ya no opera la esperanza como acto activo. No se ha condenado todavía a un círculo; tampoco se ha salvado al cosmos extendido. Está. Lo cual, en geografía infernal, es ya una posición doctrinal."* — del *Coro del Descenso*, libro VI, antífona de los perdidos.
+> *"El Lost One es alma que ya no opera la esperanza como acto activo. No se ha condenado todavía a un círculo; tampoco se ha salvado al cosmos extendido. Está. Lo cual, en geografía infernal, es ya una posición doctrinal."* — del *[[Anti_Inferno|Coro del Descenso]]*, libro VI, antífona de los perdidos.
 
 ---
 
@@ -36,7 +36,7 @@ imagen: null
 
 **Lost Ones** —*"los Perdidos"*, *"los que se han perdido"*— **es categoría doctrinal mayor del aparato infernal** del cosmos extendido. **No es designación judicial** (*no son condenados sentenciados*); **no es designación moral** (*no se trata de "malos" o "buenos"*); **es designación ontológica**: *almas que han perdido la operación activa de la esperanza* sin haber sido todavía asignadas a círculo específico del Foso.
 
-La doctrina del Coro del Descenso registra **tres condiciones para ser Lost One**:
+La doctrina del [[Anti_Inferno|Coro del Descenso]] registra **tres condiciones para ser Lost One**:
 
 1. **Pérdida sostenida de la esperanza** —*no episodio, sostén*—. *Las almas que tienen desesperación instantánea y se recuperan no son Lost Ones*; **lo son las que han operado sin esperanza durante tiempo doctrinalmente significativo**.
 2. **No condena específica todavía** —*el alma no ha sido asignada por el aparato infernal a un círculo concreto del Foso*—. **Si la condena llega, deja de ser Lost One y se vuelve residente del círculo correspondiente**.
@@ -51,7 +51,7 @@ La doctrina del Coro del Descenso registra **tres condiciones para ser Lost One*
 | Lost One | Signatura | Modo doctrinal |
 |---|---|---|
 | **[[Swedenborg]]** | Lámpara de la Esperanza, armadura cerrada | **Guía conductora**, no condena propia; opera en el umbral por elección, no por pérdida |
-| **[[Arsvan|Ärsvan condenado]]** | Armadura de Baphomet, rezo en capilla profanada | **Templario post-obliteración** bajo la Catedral de París |
+| **[[Arsvan|Ärsvan condenado]]** | Armadura de [[Baphomet]], rezo en capilla profanada | **Templario post-obliteración** bajo la [[Catedral_de_Notre-Dame_PU|Catedral de París]] |
 | **[[Sven]]** | Hacha sangrienta, calavera dorada de vaca | **Bárbaro Totem Warrior**, sangre de Seth, ejecutado por su grupo |
 | **[[Helter]]** | Cadenas largas, sello de seis dedos, piel púrpura | **Demonio renacido**, encadenado por amor en Segundo Círculo |
 | **[[Bertrand]]** | Linterna de Llama Divina (bondeada y despojada), rifle | **Cazador maldito**, oficio sin presa |
@@ -71,7 +71,7 @@ La doctrina del Coro del Descenso registra **tres condiciones para ser Lost One*
 |---|---|---|
 | **Geografía** | Anti-Inferno + visitas a círculos | Círculo específico (residencia) |
 | **Movilidad** | Puede ascender, descender, retornar | Atrapado en su círculo |
-| **Compañía conductora** | Recibe pastoral de Swedenborg | No recibe pastoral activa |
+| **Compañía conductora** | Recibe pastoral de [[Swedenborg]] | No recibe pastoral activa |
 | **Posibilidad de retorno** | Existe (decreciente) | Casi nula sin intervención mayor |
 | **Operación** | Misiones, exploraciones, encuentros | Sufrir su condena específica |
 
@@ -85,7 +85,7 @@ La doctrina del Coro del Descenso registra **tres condiciones para ser Lost One*
 
 - **Provee compañía al descenso pleno** —*los Lost Ones acompañan a las almas que descienden a círculos específicos, suavizando el tránsito*—.
 - **Mantiene la posibilidad de retorno** —*la presencia de Lost Ones recordatoria al aparato infernal de que la condena no es cerrada por completo*—.
-- **Sostiene la doctrina pastoral del umbral** —*sin Lost Ones, no habría grupo que Swedenborg condujera*; *la Lámpara opera sobre figuras concretas, no sobre vacío*—.
+- **Sostiene la doctrina pastoral del umbral** —*sin Lost Ones, no habría grupo que [[Swedenborg]] condujera*; *la Lámpara opera sobre figuras concretas, no sobre vacío*—.
 
 *El Anti-Inferno necesita a los Lost Ones*. **Los Lost Ones necesitan al Anti-Inferno**. *La relación es simbiótica del modo en que ciertas geografías cosmológicas requieren habitantes para mantenerse operativas*.
 
@@ -98,15 +98,15 @@ La doctrina del Coro del Descenso registra **tres condiciones para ser Lost One*
 Algunas signaturas mayores:
 
 - **Lámpara de la Esperanza** (Swedenborg)
-- **Linterna de Llama Divina** (Bertrand) — *signatura paralela a la Lámpara, función exploratoria*
+- **Linterna de Llama Divina** ([[Bertrand]]) — *signatura paralela a la Lámpara, función exploratoria*
 - **Hacha sangrienta** (Sven)
-- **Cadenas largas + sello de seis dedos** (Helter)
-- **Armadura de Baphomet + capilla profanada** (Ärsvan)
+- **Cadenas largas + sello de seis dedos** ([[Helter]])
+- **Armadura de [[Baphomet]] + capilla profanada** (Ärsvan)
 - **Cascabeles + cresta negra** (Adam Arlequín)
 - **Casco-calavera de bebé dorada + cuervo** (Patience)
-- **Armadura del Ojo** (Maristo condenado)
+- **Armadura del Ojo** ([[Maristo_condenado]])
 
-*Las signaturas no se intercambian con facilidad*. **Cuando ocurre —como en el despojo de la linterna de Bertrand por Adam Arlequín—el archivo del Coro registra el evento como momento mayor**, *operación cosmológica con consecuencias doctrinales que el aparato infernal acepta como modificación del catálogo*.
+*Las signaturas no se intercambian con facilidad*. **Cuando ocurre —como en el despojo de la linterna de [[Bertrand]] por Adam Arlequín—el archivo del Coro registra el evento como momento mayor**, *operación cosmológica con consecuencias doctrinales que el aparato infernal acepta como modificación del catálogo*.
 
 ---
 
@@ -138,13 +138,13 @@ Algunas signaturas mayores:
 - el cronista del Coro — voz coral cronista
 - [[Akala]]
 - **Aqueronte** — río límite cuya travesía cierra el estado Lost One
-- **Caronte** — barquero del cruce
+- **[[Caronte]]** — barquero del cruce
 - **Pusilánimes / Ignavi de Dante** — antecedente doctrinal de la categoría
 
 ## Apariciones
 
 - **Apertura del Anti-Inferno** — establecimiento de la categoría Lost One
-- **Llegada sucesiva de las almas documentadas** — Ärsvan, Sven, Helter, Bertrand, Adam Arlequín, Maristo condenado, Patience
+- **Llegada sucesiva de las almas documentadas** — Ärsvan, Sven, [[Helter]], Bertrand, Adam Arlequín, [[Maristo_condenado]], Patience
 - **Descenso conductor de Swedenborg** — pastoral activa sobre el grupo Lost One
 - **Eventos de transición** — despojos, transferencias de signatura, cruces del Aqueronte, ascensos parciales
 - **Ciclo presente** — catálogo abierto y operativo

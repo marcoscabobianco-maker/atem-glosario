@@ -28,7 +28,7 @@ imagen: Imagenes_Tier1/Oscuridad_Templaria.png
 
 > *"De los templarios disueltos no se hereda fortuna; se hereda bosque."* — atribuido a Paulus, marginal sin fecha.
 
-**Donde la Orden del Temple penitencia su disolución sin acabar de redimirla**: bosque retorcido, **cuerpos colgando entre ramas espinosas**, **catedral gótica diminuta al fondo** como recuerdo de la institución que ya no protege a nadie. Tres figuras al centro: **a la izquierda, un caballero arrodillado con halo solar tras la cabeza** —*la insignia que conservó después del Temple*—; **al centro, un mártir armado postrado en oración** —*cabeza inclinada, manos juntas, armadura herida*—; **a la derecha, una figura encapuchada con linterna encendida** —*el guía o el verdugo, no se distingue desde la distancia del cronista*—.
+**Donde la Orden del [[Temple_complejo_TE|Temple]] penitencia su disolución sin acabar de redimirla**: bosque retorcido, **cuerpos colgando entre ramas espinosas**, **catedral gótica diminuta al fondo** como recuerdo de la institución que ya no protege a nadie. Tres figuras al centro: **a la izquierda, un caballero arrodillado con halo solar tras la cabeza** —*la insignia que conservó después del [[Temple_complejo_TE|Temple]]*—; **al centro, un mártir armado postrado en oración** —*cabeza inclinada, manos juntas, armadura herida*—; **a la derecha, una figura encapuchada con linterna encendida** —*el guía o el verdugo, no se distingue desde la distancia del cronista*—.
 
 La oscuridad no es ausencia de luz. Es **doctrina**: lo que la Orden no pudo confesar en concilio público lo confiesa aquí, en bosque, donde los confesores son los árboles y los testigos los ahorcados. **Quien entra a este pliegue no sale igual.** El paladín suele perder su carisma; el clérigo, su don; el villano, en cambio, **prospera**.
 
@@ -46,5 +46,5 @@ Toca varias regiones: la **cripta del Temple en París** la roza; la **bóveda r
 ## Apariciones
 
 - **Post-disolución de la Orden del Temple** — el bosque emerge donde el Concilio dejó deudas sin cobrar
-- **Cripta del Temple, París** — manifestación arquitectónica del pliegue
+- **[[Cripta_del_Temple]], París** — manifestación arquitectónica del pliegue
 - **Templo de Thoth, primer Druida Rodrigo** — vampirización en el umbral del bosque

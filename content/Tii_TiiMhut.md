@@ -53,9 +53,9 @@ Tramaba desde la sombra. *El cronista, que no estuvo, pero que ha leído los arc
 
 ## El intento con Coyote
 
-El acto de Waterdeep que el archivo conserva con más detalle: **el casamiento con [[Coyote]]**.
+El acto de [[Waterdeep]] que el archivo conserva con más detalle: **el casamiento con [[Coyote]]**.
 
-Tii se acercó a Coyote —*el general del vacío, hueco de ser, ya entonces marcado*— con la intención de **unirse a él en matrimonio formal**. La doctrina pacientes interpreta el gesto como **intento de redención**: la madre cósmica busca cuerpo estable, masculino, capaz de sostenerla; Coyote, cuya orfandad ontológica es notoria, ofrecía cuerpo disponible.
+Tii se acercó a [[Coyote]] —*el general del vacío, hueco de ser, ya entonces marcado*— con la intención de **unirse a él en matrimonio formal**. La doctrina pacientes interpreta el gesto como **intento de redención**: la madre cósmica busca cuerpo estable, masculino, capaz de sostenerla; [[Coyote]], cuya orfandad ontológica es notoria, ofrecía cuerpo disponible.
 
 **La ceremonia fue interrumpida.** Dos figuras entraron: **el Señor de la Mortaja** —*caballero abismal cuyo nombre el archivo prefiere no transcribir*— y **la dama Zara**, conocida en otros archivos. Lo que dijeron no se conserva textual; lo que hicieron sí: **la unión no se consumó**.
 
@@ -75,7 +75,7 @@ La sentencia no admite glosa. No la pide.
 
 ## La corte egipcia y el segundo matrimonio
 
-Hacia el **1401 D.R.**, Tii **abandonó el culto a la Reina Oscura** —*es decir, dejó de serle servidora externa para serlo plena desde dentro*— y **tomó el poder en Egipto** con un consorte llamado **Ai**. Segundo matrimonio formal del avatar, sin Señor de la Mortaja ni dama Zara para interrumpirlo esta vez.
+Hacia el **1401 D.R.**, Tii **abandonó el culto a la [[Reina_Oscura]]** —*es decir, dejó de serle servidora externa para serlo plena desde dentro*— y **tomó el poder en Egipto** con un consorte llamado **Ai**. Segundo matrimonio formal del avatar, sin Señor de la Mortaja ni dama Zara para interrumpirlo esta vez.
 
 **Egipto se acomodó.** En los cuadernos de aquella corte —arco protagonizado por [[Amitlai]], minado por la política matrimonial— **Tii figura como "Reina Madre" antagonista**, con presencia tutelar más que operativa. *El veneno de la corte es el veneno de la madre.*
 
@@ -85,7 +85,7 @@ Hacia el **1401 D.R.**, Tii **abandonó el culto a la Reina Oscura** —*es deci
 
 En un episodio cuyo escenario es el pasado de **[[Angara_Andgara|Andgara]]** —descenso temporal que algunos archivos consideran arriesgado y otros inevitable—, **un grupo de compañeros confrontó a Tii en su propio terreno cosmológico** y **la obligó a huir**. La huida fue real; el descenso al terreno propio, comprado caro.
 
-*El cronista anota la regla operativa: a la Reina Oscura no se la enfrenta en su tiempo. Se la espera en el de uno.*
+*El cronista anota la regla operativa: a la [[Reina_Oscura]] no se la enfrenta en su tiempo. Se la espera en el de uno.*
 
 ---
 
@@ -106,7 +106,7 @@ Conviene cerrar con la cifra. **Tii no es Tiamat entera.** Pero conserva:
 ## Vínculos
 
 - [[Tiamat_MC|La Reina Oscura]] — la entidad mayor de la que Tii es avatar
-- [[Coyote]] — consorte fallido en Waterdeep
+- [[Coyote]] — consorte fallido en [[Waterdeep]]
 - [[Waterdeep]] — sede de la fase comercial-viuda
 - [[Patriarca_Heirmano|El Patriarca]] — víctima textual del avatar
 - [[Grazzt|Graz'zt]] — planes documentados conjuntos en algunos archivos
@@ -122,7 +122,7 @@ Conviene cerrar con la cifra. **Tii no es Tiamat entera.** Pero conserva:
 - **Waterdeep, período comercial** — viuda de negro; operaciones desde la sombra
 - **Ceremonia interrumpida con Coyote** — Señor de la Mortaja y dama Zara intervienen
 - **Vampirización de Coyote** — Tii lo "desea lejos"
-- **Cuadernos de la corte egipcia** — "Reina Madre" antagonista; política matrimonial; arco de Amitlai
+- **Cuadernos de la corte egipcia** — "Reina Madre" antagonista; política matrimonial; arco de [[Amitlai]]
 - **1401 D.R.** — toma de Egipto con Ai como consorte
 - **Descenso de los compañeros al pasado de Andgara** — confrontación; huida del avatar
-- **Asesinato del Patriarca** — fecha sin precisar, fórmula conservada textual
+- **Asesinato del [[Patriarca]]** — fecha sin precisar, fórmula conservada textual

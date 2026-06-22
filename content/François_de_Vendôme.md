@@ -1,47 +1,17 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5475103]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__François_de_Vendôme_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["François de Vendôme", "Duc de Beaufort", "Duque de Beaufort"]
 ---
 
-# ATEM::SaintGermain::MMF::François de Vendôme
+# François de Vendôme
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__François_de_Vendôme_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::François de Vendôme. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Duc de Beaufort. Nieto de Enrique IV por línea bastarda, François de Vendôme es uno de los grandes nombres del bando frondista en 1648: aristócrata de linaje real, popular entre el pueblo bajo de París, llamado "el rey de los mercados" por su facilidad para granjearse la adhesión de los comerciantes y las capas más llanas de la ciudad.
 
-![[ATEM__SaintGermain__MMF__François_de_Vendôme_retrato.png]]
+Su oposición al [[Cardenal_Mazarino]] no es solo política sino de temperamento: donde Mazarino teje redes en silencio, Vendôme actúa a la vista de todos. En el [[Palais-Royal]] y en las calles de [[Paris]] su nombre circula como contrapeso al poder cardinalicio. Su aparición en los sucesos de 1648 marca uno de los momentos en que la tensión entre corona y parlamento se vuelve insostenible.
 
-
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5475103
-**kanka_url:** https://app.kanka.io/w/216093/entities/5475103
-**kanka_kind:** character
-**kanka_type:** PNJ
-**familia:** (sin familia)
-**sexo:** Masculino
-**título:** Duc de Beaufort
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 1
-- **Sesiones donde aparece** (1/9):
-  - S9 — 1 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Cardenal_Mazarino]] — antagonista político; encarna el poder que Vendôme busca desplazar
+- [[Palais-Royal]] — centro de la corte en París; escenario de la intriga en torno a su figura
+- [[Paris]] — ciudad donde su popularidad lo convierte en fuerza política real
+- [[Francia]] — nación cuya crisis de la Fronda lo lanza al primer plano

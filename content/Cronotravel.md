@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-Sistema de viajes por el tiempo habitualizado en [[Antiterra_Demonia|Antiterra]]. El tiempo es una mercancía que se puede prestar, gastar, ahorrar. Requiere "cambio de ropa" apropiado para la época de destino. Envejecimiento acelerado como consecuencia mecánica. Paris funciona como "punto de cruce de tiempos" donde múltiples épocas convergen.
+[[Lords_of_Creation_Sistema_TNW|Sistema]] de viajes por el tiempo habitualizado en [[Antiterra_Demonia|Antiterra]]. El tiempo es una mercancía que se puede prestar, gastar, ahorrar. Requiere "cambio de ropa" apropiado para la época de destino. Envejecimiento acelerado como consecuencia mecánica. Paris funciona como "punto de cruce de tiempos" donde múltiples épocas convergen.
 
 [[Cronotravel_Cronomancia|Cronomancia]]/Cronomón = magia especializada de tiempos. Relojes con propiedades temporales, campos eléctricos en estructuras, tecnomancia (fusión de tecnología y magia).
 

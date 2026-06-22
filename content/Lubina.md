@@ -21,7 +21,7 @@ aliases:
 [[Sucubo_Taurina|Súcubo]], practicante de magia oscura y seducción. Controladora de **[[More]]** (guerrero
 endemoniado, portador de [[Excalibur]]) en campaña de **[[Compania_de_David|Compañía de David]]** ([[York]]).
 Victimaria de **[[Shen]]** (rastreador de grupo [[David]]). Fue forzada a huir ante [[El_Explorador_de_Gotland_Oratiol_manifestacion|manifestación]]
-de luz de Lugh. Personaje jugador del período Dark Ages de el cosmos compartido, documentado en.
+de luz de Lugh. Compañera del período de las Eras Oscuras del cosmos compartido.
 
 a Lubina como **"Primera Enemiga"** (título), no a la altura de las aprendices.
 C13 (2001): mención similar. C17 líneas 328-330 (oct 2003): "Una villana que

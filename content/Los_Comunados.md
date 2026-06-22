@@ -17,7 +17,7 @@ aliases:
 Concepto político y meta-juego sobre ideologías revolucionarias en [[Antiterra_Demonia|Antiterra]]. Discusión en el archivo sobre posicionamientos entre anarquismo, socialismo utópico y marxismo-comunismo. Marco establecido por (cronista historiador): "la legalidad no es simplemente el orden imperante" sino que existe "legalidad en la insurrección" también. La insurrección como FIN, no medio.
 
 Tres corrientes principales discutidas:
-1. **Anarquismo** — Contra gobierno unitario, libre asociación, no estructurado
+1. **[[Anarquismo]]** — Contra gobierno unitario, libre asociación, no estructurado
 2. **Socialismo Utópico** — Reformas posibles, cooperativas, crítica marxista posterior
 3. **Marxismo/Comunismo** — Dictadura del proletariado, revolución violenta, estado científico
 
@@ -25,7 +25,7 @@ Posicionamiento de personajes (ej. [[Claude_Nauge|Claude Nauge]]): anarquista au
 
 ## Apariciones notables
 
-el archivo [0:00:49-0:08:00] (meta-conversación sobre filosofías políticas, anarquismo vs socialismo, rol del trabajador revolucionario vs ideólogo). establece que la insurrección es FIN no medio, que existe legalidad en actos revolucionarios.
+el archivo (meta-conversación sobre filosofías políticas, anarquismo vs socialismo, rol del trabajador revolucionario vs ideólogo). establece que la insurrección es FIN no medio, que existe legalidad en actos revolucionarios.
 
 ## Notas
 

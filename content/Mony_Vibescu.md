@@ -1,5 +1,5 @@
 ---
-título: "Mony Vibescu — redirect (variante Whisper)"
+título: "Moni Vivescu — redirect (variante Whisper)"
 slug: Mony_Vibescu
 estado: redirect
 target: "[[Moni_Vivescu]]"
@@ -10,6 +10,6 @@ tags:
  - whisper-variant
 ---
 
-# Mony Vibescu
+# Moni Vivescu
 
 → Consolidado en **[[Moni_Vivescu]]**. *Variante Whisper (v/b, i/y confusión). Mismo personaje: el Príncipe Vivescu de París Ucrónica.*

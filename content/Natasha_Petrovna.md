@@ -4,7 +4,7 @@ aliases:
 redirect: Natalia_Petrovna_Natasha
 ---
 
-# Natasha Petrovna
+# Natalia Petrovna
 
 > Esta referencia se resuelve canónicamente como [[Natalia_Petrovna_Natasha]].
 

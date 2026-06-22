@@ -29,7 +29,7 @@ imagen: null
 
 ## El locus de la renovación *(voz del Decadiano)*
 
-**Monte Ennio** —*"el Monte de Ennio"* en grafía decadiana formal, *"Mons Ennii"* en latín litúrgico antiguo del aparato eclesial, *"el locus de la renovación"* en boca de los Buscadores que estudian el aparato imperial— **es geografía sagrada del Imperio Archonteo**, *locus de la renovación dinástica continuada*. **Su cumbre** *(no documentada plenamente en archivo accesible — altura precisa pendiente)* **alberga monumentos imperiales sucesivos**, *cada uno de los emperadores archonteos mayores los visitaron en peregrinación de entronización*.
+**Monte Ennio** —*"el Monte de Ennio"* en grafía decadiana formal, *"Mons Ennii"* en latín litúrgico antiguo del aparato eclesial, *"el locus de la renovación"* en boca de los [[Buscadores_de_Ardis_Vala|Buscadores]] que estudian el aparato imperial— **es geografía sagrada del Imperio Archonteo**, *locus de la renovación dinástica continuada*. **Su cumbre** *(no documentada plenamente en archivo accesible — altura precisa pendiente)* **alberga monumentos imperiales sucesivos**, *cada uno de los emperadores archonteos mayores los visitaron en peregrinación de entronización*.
 
 *La doctrina interna del aparato*: **cada Drusus que sube al Monte renueva el [[Pacto_de_Elias_Elias_Ennio|Pacto de Elías-Ennio]]** —*pacto fundacional cosmológico que el aparato decadiano sostiene como condición de continuidad imperial*—. **El acto de subir** *no es ceremonia ornamental*; **es operación cosmológica**. **Quien no sube**, **opera con autoridad mermada**; *los emperadores que omitieron la peregrinación* **vieron sus reinados breves o turbulentos**.
 
@@ -41,10 +41,10 @@ imagen: null
 
 - **Estelas con la firma de [[Drusus_V]]** *(período de apertura de la Orden de Thoth)*: **bajorrelieves de la apertura ritual** + **inscripciones que el archivo decadiano traduce parcialmente**.
 - **Monumentos de emperadores intermedios** *(Drusus VI, VII, VIII — fichas pendientes de documentación)*: *cuerpos arquitectónicos menores que registran la continuidad dinástica*.
-- **Estela de entronización de [[Drusus_IX_El_Palido|Drusus IX]]** *(reinado actual)*: *el aparato del ciclo presente la consagró en la entronización*.
-- **Santuario central del Pacto de Elías-Ennio**: *altar mayor donde la renovación del pacto se ejecuta*.
+- **[[Estela_Nereida|Estela]] de entronización de [[Drusus_IX_El_Palido|Drusus IX]]** *(reinado actual)*: *el aparato del ciclo presente la consagró en la entronización*.
+- **Santuario central del [[Pacto_de_Elias_Elias_Ennio|Pacto de Elías]]-Ennio**: *altar mayor donde la renovación del pacto se ejecuta*.
 
-*La operación de las peregrinaciones*: **el emperador asciende con cuerpo restringido** *(no séquito masivo; cuerpo selecto del aparato eclesial mayor + Cuerpo de Custodes Oculis Solis)*; **renueva el pacto en el altar central**; **deja monumento de su paso** *(estela, bajorrelieve, ofrenda mayor)*; **desciende con autoridad consagrada**.
+*La operación de las peregrinaciones*: **el emperador asciende con cuerpo restringido** *(no séquito masivo; cuerpo selecto del aparato eclesial mayor + Cuerpo de [[Custodes_Oculis_Solis]])*; **renueva el pacto en el altar central**; **deja monumento de su paso** *(estela, bajorrelieve, ofrenda mayor)*; **desciende con autoridad consagrada**.
 
 ---
 
@@ -63,7 +63,7 @@ imagen: null
 
 ## La peregrinación como operación viva
 
-**En el ciclo presente** —*reinado de Drusus IX*— **el Monte Ennio sigue operando como locus activo**: **Drusus IX peregrinó allí en su entronización**, **figuras del aparato eclesial visitan el santuario en fechas litúrgicas mayores**, **los Sortianos consideran el Monte como lugar de testimonio histórico**, **los Teósofos lo consideran como locus doctrinal**. *Ninguna facción del aparato decadiano metropolitano cuestiona el rol del Monte*; **la doctrina opera con consenso amplio**.
+**En el ciclo presente** —*reinado de [[Drusus_IX_El_Palido|Drusus IX]]*— **el Monte Ennio sigue operando como locus activo**: **[[Drusus_IX_El_Palido|Drusus IX]] peregrinó allí en su entronización**, **figuras del aparato eclesial visitan el santuario en fechas litúrgicas mayores**, **los [[Sortianos]] consideran el Monte como lugar de testimonio histórico**, **los Teósofos lo consideran como locus doctrinal**. *Ninguna facción del aparato decadiano metropolitano cuestiona el rol del Monte*; **la doctrina opera con consenso amplio**.
 
 ---
 

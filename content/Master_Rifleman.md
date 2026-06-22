@@ -10,10 +10,10 @@ aliases:
 
 ## Presentación
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.
 
 ### el plano operativo
 
 Funcionario de aduana/estación de tren en [[Baton_Rouge_Antiterra|Baton Rouge]]. Lentes sin patilla. Emocionalmente afectado por muerte reciente de su amigo (estibador que fue internado en hospicio, juzgado expeditivamente y ejecutado).
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.

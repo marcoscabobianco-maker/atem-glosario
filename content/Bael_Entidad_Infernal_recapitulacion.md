@@ -22,4 +22,4 @@ aliases:
 ## Ver también
 
 - Contrato
-- [[Mencion_extensa|Mención extensa]]
+- Mención extensa

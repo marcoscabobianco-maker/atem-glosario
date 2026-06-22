@@ -1,51 +1,20 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, lugar, kanka-5171643]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Cour_des_Miracles_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Cour des Miracles", "Corte de los Milagros"]
 ---
 
-# ATEM::SaintGermain::MMF::Cour des Miracles
+# Cour des Miracles
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Cour_des_Miracles_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Cour des Miracles. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+La Cour des Miracles es el gran secreto a voces de Paris: un laberinto de callejones y patios sin nombre donde los mendigos, los tullidos de alquiler y los proscritos de toda especie se retiran cada noche a quitarse sus llagas postizas y sus muletas de teatro. El milagro del titulo es ese: entran cojos y ciegos, y al amparo de la oscuridad recobran el paso y la vista. El resto de la ciudad finge no saber donde esta.
 
-![[ATEM__SaintGermain__MMF__Cour_des_Miracles_retrato.png]]
+En 1648, con la Fronda convirtiendo Paris en una ciudad de rumores y barricadas, la Corte de los Milagros cobra una dimension nueva. Los mendigos y los marginados son informadores irremplazables: lo saben todo porque estan en todas partes y nadie los mira. El [[Rey_de_los_Mendigos]] — titulo que se gana, no se hereda — administra esa inteligencia como una moneda de cambio con quienes saben negociar fuera de los protocolos del [[Palais-Royal]]. [[Madeline_Boulet]], [[Jeanne_Devossie]] y otros que frecuentan los bordes de la ciudad han cruzado mas de una vez el umbral invisible que separa la Paris respetable de este territorio paralelo.
 
-
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5171643
-**kanka_url:** https://app.kanka.io/w/216093/entities/5171643
-**kanka_kind:** location
-**kanka_type:** (vacío)
-**parent_location:** Paris (kanka 5095891)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 19
-- **Sesiones donde aparece** (7/9):
-  - S2 — 6 hits
-  - S3 — 6 hits
-  - S4 — 1 hits
-  - S5 — 1 hits
-  - S6 — 1 hits
-  - S8 — 3 hits
-  - S9 — 1 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Paris]] — ciudad contenedora; la Corte es el reverso subterraneo de la capital
+- Rey de los Mendigos (Corte de los Milagros) (NUEVO) — figura que gobierna la Corte y administra su informacion
+- [[Quartier_de_Saint_Germain_de_Pres]] — barrio aristocratico en contraste geografico y social con la Corte
+- [[Pont-Neuf]] — eje urbano de Paris que conecta la ciudad respetable con sus margenes
+- [[Madeline_Boulet]] — personaje que frecuenta los limites entre mundos sociales
+- [[Jeanne_Devossie]] — personaje con movimiento entre los espacios formales e informales de Paris
+- [[Francia]] — marco; la Fronda convierte los margenes urbanos en espacio de tension politica

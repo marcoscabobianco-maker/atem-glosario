@@ -46,5 +46,5 @@ La paradoja es estructural: para el Triunvirato, que está fuera del Tiempo, *ll
 
 ## Apariciones
 
-- Post-Triunvirato — aparición declarada en las actas de Los Supremos
+- Post-Triunvirato — aparición declarada en las actas de [[Los_Supremos]]
 - 500 años después (o antes) — ventana temporal ambigua

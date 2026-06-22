@@ -22,9 +22,9 @@ imagen: Imagenes_Tier1/Kairos_Homo_Magus.png
 ![[Imagenes_Tier1/Kairos_Homo_Magus.png]]
 <!-- /HEADER_IMG -->
 
-> *"Kairos no es tiempo; es el instante en que el tiempo se permite ser usado. Quien lo aprende, lo usa raras veces."*
+> *"[[Kairos]] no es tiempo; es el instante en que el tiempo se permite ser usado. Quien lo aprende, lo usa raras veces."*
 
-La lámina lo fija **levitando sobre el Mediterráneo**: **magus barbado en túnicas de antigüedad tardía**, treinta y pico, rostro alerta. **Eleva ambas manos** y a su alrededor **cuatro compañeros flotan** —*telequinesis sostenida*—. Bajo ellos, el **mar y costas mediterráneas**. **Sigilo de Kairos** brillando en su pecho —*el instante justo, dios menor del oportunismo divino*—.
+La lámina lo fija **levitando sobre el [[Mediterraneo_Ucronico|Mediterráneo]]**: **magus barbado en túnicas de antigüedad tardía**, treinta y pico, rostro alerta. **Eleva ambas manos** y a su alrededor **cuatro compañeros flotan** —*telequinesis sostenida*—. Bajo ellos, el **mar y costas mediterráneas**. **Sigilo de [[Kairos]]** brillando en su pecho —*el instante justo, dios menor del oportunismo divino*—.
 
 ## Vínculos
 

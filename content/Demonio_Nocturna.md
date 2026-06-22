@@ -16,13 +16,13 @@ Figura femenina demoníaca que aparece durante la guardia nocturna del grupo. De
 
 **Revelaciones clave:**
 - Conoce a [[Swan]] y sugiere que ya es o será su aliado
-- Menciona el **Laberinto de Marfil** como lugar clave
-- Su padre "dejó el Laberinto de Marfil" sacrificando lo que más deseaba
+- Menciona el **[[Laberinto_de_Marfil]]** como lugar clave
+- Su padre "dejó el [[Laberinto_de_Marfil]]" sacrificando lo que más deseaba
 - "Quien porta el manto de la memoria es mi hermano en el futuro"
 - "La historia que nos contamos no es como nos la contaron"
 - Advierte sobre peligros futuros y cuestiona en quién confiar
 
-**Conexión especulativa:** La referencia a un padre que dejó el Laberinto de Marfil y a un hermano "que porta el manto de la memoria" conecta temáticamente con la Orden del Laberinto de Marfil (ver [[Arsvan|Ärsvan]]) y con [[Pablo_de_Alejandria|Pablo de Alejandría]] "Señor de la Historia." Si el "hermano en el futuro" es [[Pablo_de_Alejandria|Pablo]], esta demonio sería hermana de [[Pablo_de_Alejandria|Pablo]] y su padre sería un miembro de la Orden. Requiere confirmación de.
+**Conexión especulativa:** La referencia a un padre que dejó el Laberinto de Marfil y a un hermano "que porta el manto de la memoria" conecta temáticamente con la Orden del Laberinto de Marfil (ver [[Arsvan|Ärsvan]]) y con [[Pablo_de_Alejandria|Pablo de Alejandría]] "[[Pablo_de_Alejandria|Señor de la Historia]]." Si el "hermano en el futuro" es [[Pablo_de_Alejandria|Pablo]], esta demonio sería hermana de [[Pablo_de_Alejandria|Pablo]] y su padre sería un miembro de la Orden. Requiere confirmación de.
 
 ## Apariciones notables
 
@@ -30,7 +30,7 @@ Figura femenina demoníaca que aparece durante la guardia nocturna del grupo. De
 
 ## Notas
 
-Ver también **Laberinto de Marfil / Orden del Laberinto de Marfil**, **[[Pablo_de_Alejandria|Pablo de Alejandría]] / Señor de la Historia**, **[[Arsvan|Ärsvan]]**.
+Ver también **Laberinto de Marfil / Orden del Laberinto de Marfil**, **[[Pablo_de_Alejandria|Pablo de Alejandría]] / [[Pablo_de_Alejandria|Señor de la Historia]]**, **[[Arsvan|Ärsvan]]**.
 
 ## Ver también
 

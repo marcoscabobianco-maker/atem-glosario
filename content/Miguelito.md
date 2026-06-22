@@ -49,4 +49,4 @@ imagen: Imagenes_Tier1/Miguelito.png
 ## Apariciones
 
 - **España, 1888 — víspera del traslado** — en celda, encadenado, esperando el fusilamiento
-- **Ciclo de Los Profundos — rescate fallido** — incidente detonador del arco entero
+- **Ciclo de [[Los_Profundos]] — rescate fallido** — incidente detonador del arco entero

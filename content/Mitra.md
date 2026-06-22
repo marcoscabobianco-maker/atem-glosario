@@ -30,7 +30,7 @@ imagen: null
 
 **Mitra** —*"Mithras"* en grafía latina antigua, *"Mithra"* en la persa primigenia, *"Mitra"* en la fórmula canónica del archivo— **es deidad del panteón imperial Archonteo**, *funcionalmente ligado a [[Jamalio]] como par solar*. **Su jurisdicción cosmológica**: **Sol, juramento, redención**. *Donde el sol ilumina, opera la palabra empeñada*; *donde la palabra se rompe*, **Mitra retira la luz**.
 
-*La doctrina sincrética del panteón Archonteo* lo coloca junto a las otras deidades imperiales de cuño egipcio-cosmopolita: [[Thoth]] (sabiduría escriba), [[Tod_Set|Set]] (caos cíclico), [[Bastet]] (hogar), [[Sekhmet]] (guerra solar vengativa), [[Ra]] (sol pleno), [[Anubis]] (psicopompo). **Mitra opera como pareja solar de Jamalio** en la doble función luminosa: *Jamalio el resplandor*, *Mitra el juramento*; **la luz que ve y la luz que recuerda**.
+*La doctrina sincrética del panteón Archonteo* lo coloca junto a las otras deidades imperiales de cuño egipcio-cosmopolita: [[Thoth]] (sabiduría escriba), [[Tod_Set|Set]] (caos cíclico), [[Bastet]] (hogar), [[Sekhmet]] (guerra solar vengativa), [[Ra]] (sol pleno), [[Anubis]] (psicopompo). **Mitra opera como pareja solar de [[Jamalio]]** en la doble función luminosa: *[[Jamalio]] el resplandor*, *Mitra el juramento*; **la luz que ve y la luz que recuerda**.
 
 ---
 
@@ -65,4 +65,4 @@ imagen: null
 
 - **Era imperial primigenia** — establecimiento del culto mitráico junto al panteón Archonteo
 - **Reformas decadianas sucesivas** — codificación de la doctrina del juramento
-- **Imperio actual (2993 AEP, ciclo presente)** — culto activo, juramentos rituales operando bajo Drusus IX
+- **Imperio actual (2993 AEP, ciclo presente)** — culto activo, juramentos rituales operando bajo [[Drusus_IX_El_Palido|Drusus IX]]

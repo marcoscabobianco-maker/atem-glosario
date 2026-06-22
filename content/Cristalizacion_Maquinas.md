@@ -23,13 +23,13 @@ tags:
 
 # Cristalización de las Máquinas
 
-> *Evento durante el hiato. Las armaduras góticas rudishva y la tecnología de las naves quedaron cristalizadas. [[Kerbog_Khan]] sobrevivió pero refugiado. Mecánica cosmológica completa: campaña activa.*
+> *[[Evento]] durante el hiato. Las armaduras góticas rudishva y la tecnología de las naves quedaron cristalizadas. [[Kerbog_Khan]] sobrevivió pero refugiado. Mecánica cosmológica completa: campaña activa.*
 
 ## Presentación
 
 La **Cristalización de las Máquinas** —*"el debacle de las máquinas"* en el habla de — es un **evento cosmológico** del **[[Hiato_15_Años_Ardis_Vala|hiato de 15 años]]** que **destruyó masivamente la tecnología rudishva** en el dominio de [[Arden_Vul|Ardis Vala]].
 
-### Mecánica confirmada (Reveal 2026-05-20 )
+### Mecánica confirmada (revelación del archivo)
 
 ****:
 
@@ -44,8 +44,8 @@ La **Cristalización de las Máquinas** —*"el debacle de las máquinas"* en el
 - **[[Kerbog_Khan]]** — sobrevivió pero **quedó debilitado** (su tech personal también afectada)
 
 **Extensión activa**:
-- **Cualquier tecnología que los Buscadores traigan** y que **no encaje con el nivel diegético del dominio** se degradará en semanas
-- **Las IAs rudishva (RAJ-750, AKL-600)** sobreviven porque están integradas al sistema cosmológico (transformación a semilla del árbol de armas, ver [[RAJ-750]])
+- **Cualquier tecnología que los [[Buscadores_de_Ardis_Vala|Buscadores]] traigan** y que **no encaje con el nivel diegético del dominio** se degradará en semanas
+- **Las IAs rudishva ([[RAJ-750]], [[Akala|AKL-600]])** sobreviven porque están integradas al sistema cosmológico (transformación a semilla del árbol de armas, ver [[RAJ-750]])
 
 ### Lo que queda por revelar (campaña activa)
 
@@ -63,7 +63,7 @@ En **el regreso tras el Hiato**, [[Alumine]] aparece con **"armadura semicristal
 
 ### Conexión con la petrificación en el regreso tras el Hiato
 
-**En el regreso tras el Hiato, la espada de Valerius —espada compañera demoníaca— se petrifica al cruzar las barreras prismáticas del Palacio del Prisma**:
+**En el regreso tras el Hiato, la espada de Valerius —espada compañera demoníaca— se petrifica al cruzar las barreras prismáticas del [[Palacio_del_Prisma]]**:
 
 > *"La espada se va hacia afuera y se petrifica la mitad. (... ) Tiene seis y se vuelve."*
 
@@ -73,10 +73,10 @@ En **el regreso tras el Hiato**, [[Alumine]] aparece con **"armadura semicristal
 
 **Pendiente confirmar con **:
 
-- **¿Caladan sufrió cristalización?** —su transformación feral post-hiato (ojos rojos, garras felinas) sugiere otra dirección de corrupción
-- **¿Bayrum, Valerius, Sixto, Melvino Calvino, Druida Rodrigo** llevaban tech rudishva al momento de la cristalización?
-- **¿La Pluma de Thoth** y otros artefactos del culto siguen activos?
-- **¿Cuánto del Beacon sobrevivió** —Engine Room en L7-143, Bridge Crew en L9-89 a 9-97?
+- **¿[[Caladan]] sufrió cristalización?** —su transformación feral post-hiato (ojos rojos, garras felinas) sugiere otra dirección de corrupción
+- **¿Bayrum, Valerius, Sixto, [[Melvino_Calvino]], Druida Rodrigo** llevaban tech rudishva al momento de la cristalización?
+- **¿La [[Pluma_de_Thoth]]** y otros artefactos del culto siguen activos?
+- **¿Cuánto del Beacon sobrevivió** —Engine Room en la Corte del Thegn, Bridge Crew en el Suelo del Gran Abismo?
 
 ## Vínculos
 
@@ -92,7 +92,7 @@ En **el regreso tras el Hiato**, [[Alumine]] aparece con **"armadura semicristal
 - [[Alumine]] — armadura semicristalizada en el regreso tras el Hiato (rastro residual)
 - [[Valerius_Utrecht]] — espada petrificada en el regreso tras el Hiato (manifestación local)
 - [[Palacio_del_Prisma]] — barreras prismáticas como cristalización ritualizada
-- [[Novatos_Ravenloft_ACKS]] — campaña paralela donde Kerbog Khan se refugió
+- [[Novatos_Ravenloft]] — campaña paralela donde [[Kerbog_Khan]] se refugió
 - [[Custodes_Oculis_Solis]] — posibles ejecutores del castigo cosmológico
 - [[Papa_Alejandro_Sixto]] — autoridad emergente cuya elevación coincide con el evento
 - [[Arden_Vul|Ardis Vala (campaña)]]
@@ -101,5 +101,5 @@ En **el regreso tras el Hiato**, [[Alumine]] aparece con **"armadura semicristal
 
 - **Durante el hiato 15 años**: evento principal
 - **el regreso tras el Hiato**: rastros residuales (armadura Alumine semicristalizada, espada Valerius petrificada)
-- **Novatos Ravenloft**: refugio de Kerbog Khan como Elfo Troll
+- **[[Novatos_Ravenloft|Novatos Ravenloft]]**: refugio de [[Kerbog_Khan]] como Elfo Troll
 - **Pendiente exploración directa**

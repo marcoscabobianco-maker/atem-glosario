@@ -16,18 +16,8 @@ aliases:
 
 ## Presentación
 
-**Ubicación:** Sexto círculo (Dis), arena de combate público
-**Descripción:** Arena tipo romana con espejos negros a los costados. Espejos permiten audiencia en vivo de combate. Asientos elevados o galerías.
-
-**Función:** Prueba o espectáculo público. Grupo participa en combate masivo.
-
-**Audiencia:** Población de Dis presencia. Aplausos al final ("Un aplauso para el asalto").
-
-**Mecánica narrativa:** Coliseo con espejos = teatro cosmológico, audiencia celestial/infernal observa.
-
-**Confianza:** FUERTE — ubicación clara, combate detallado.
+Arena de combate pública en el sexto círculo, Dis. De factura romana, con espejos negros a los costados que permiten a la población de Dis presenciar los combates en vivo desde galerías elevadas. Teatro cosmológico donde lo infernal se exhibe ante sus propios habitantes.
 
 ## Ver también
 
-- Audiencia
-- [[Mecanica_narrativa|Mecánica narrativa]]
+- [[Audiencia|Audiencia]]

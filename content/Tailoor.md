@@ -25,7 +25,7 @@ tags:
 ---
 # Tailoor
 
-> *Dios del amor, del juego y de los pactos. La libertad es su camino. Sobreviviente de Vala Antigua. Tercer avatar del padre triple, anagrama de Lotario y Oratiol. Pareja cosmológica de Thalia Cristalia, padre de Vitalis.*
+> *Dios del amor, del juego y de los pactos. La libertad es su camino. Sobreviviente de [[Vala_Antigua]]. Tercer avatar del padre triple, anagrama de [[Lotario]] y [[Oratiol]]. Pareja cosmológica de [[Thalia_Cristalia]], padre de [[Vitalis]].*
 
 ---
 
@@ -33,9 +33,9 @@ tags:
 
 **Tailoor** —*"Taylor" en forma fonética cotidiana del cosmos extendido*— **es el tercer avatar del padre triple del cosmos extendido**. **Los tres nombres del padre son anagrama mutuo**: *las mismas siete letras* —*L, O, O, T, A, R, I*— *recombinadas en distinta secuencia*:
 
-- **[[Lotario]]** = **L-O-T-A-R-I-O** *(primer avatar, Antiterra ~1888-1890 A.D.A., godling pelirrojo de Gotland, Los Profundos y Reguladores)*
-- **[[Oratiol]]** = **O-R-A-T-I-O-L** *(segundo avatar, Libertateurs ~200 años atrás de Lotario, reencarnación anagramática tras el sacrificio de divinidad en Lotaringia)*
-- **Tailoor** = **T-A-I-L-O-O-R** *(tercer avatar, post-Triunvirato, deidad de Nesut-Bity, sobreviviente de Vala Antigua)*
+- **[[Lotario]]** = **L-O-T-A-R-I-O** *(primer avatar, [[Antiterra]] ~1888-1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]], godling pelirrojo de Gotland, [[Los_Profundos]] y Reguladores)*
+- **[[Oratiol]]** = **O-R-A-T-I-O-L** *(segundo avatar, [[Libertateurs]] ~200 años atrás de [[Lotario]], reencarnación anagramática tras el sacrificio de divinidad en Lotaringia)*
+- **Tailoor** = **T-A-I-L-O-O-R** *(tercer avatar, post-Triunvirato, deidad de Nesut-Bity, sobreviviente de [[Vala_Antigua]])*
 
 **El anagrama es operación onomástica deliberada del cronista mayor del cosmos extendido**: **señala que las tres manifestaciones temporales son la misma alma reordenada en distinta secuencia**. *La grafía cotidiana "Taylor"* **es contracción fonética** *que el habla común usa*; **en el archivo cosmológico mayor, la forma canónica anagramática es "Tailoor"**.
 
@@ -50,7 +50,7 @@ tags:
 *Tres campos doctrinales*:
 
 - **Amor** — *vínculo voluntario entre voluntades*; *especialmente fértil*; *santificable mediante invocación*.
-- **Juego** — *operación libre sin obligación previa*; *eco directo de la Diosa del Mazo de Muchas Cosas que fundó Caldero jugando*.
+- **Juego** — *operación libre sin obligación previa*; *eco directo de la [[Diosa_del_Mazo_de_Muchas_Cosas]] que fundó [[Caldero]] jugando*.
 - **Pactos** — *acuerdos voluntarios entre partes*; *operación cosmológica del polo intermedio*.
 
 *Tailoor opera con doctrina del polo positivo intermedio*: **no opera obligación forzada** (*ese sería polo negativo*); **opera obligación voluntaria asumida** *(ese es polo positivo libre)*.
@@ -67,9 +67,9 @@ tags:
 
 ## La pareja con Thalia Cristalia y el hijo Vitalis
 
-**Tailoor es pareja cosmológica de [[Thalia_Cristalia]]**, *la paladina cristalina de la [[Casa_Azul_de_Vala|Casa Azul de Vala]]*. **De la unión nace [[Vitalis]]** —*portador cosmológico de las dos sangres*: **cristalina materna + anagramática paterna**—. *Vitalis carga, en su sangre, la operación cosmológica de las dos líneas mayores del cosmos extendido*.
+**Tailoor es pareja cosmológica de [[Thalia_Cristalia]]**, *la paladina cristalina de la [[Casa_Azul_de_Vala|Casa Azul de Vala]]*. **De la unión nace [[Vitalis]]** —*portador cosmológico de las dos sangres*: **cristalina materna + anagramática paterna**—. *[[Vitalis]] carga, en su sangre, la operación cosmológica de las dos líneas mayores del cosmos extendido*.
 
-*Vitalis fue abandonado en el [[Rio_Ucronos|Río Oukronos]] como mensajero olvidado de la Edad Media* —*acto que Tailoor permitió o ejecutó*, *operando con doctrina de **pacto** que es propia de su jurisdicción*: **el abandono no fue cruel**; *fue **disposición cosmológica de un mensaje que aún no había sido leído***. **Cuando el cosmos extendido lo requirió**, *Vitalis fue extraído del cauce* y **comenzó su trayectoria** *que culmina en el ciclo presente como [[Vitalis|Hechicero del Río Blackwater]] incorporado a La Jabalina*.
+*Vitalis fue abandonado en el [[Rio_Ucronos|Río Oukronos]] como mensajero olvidado de la Edad Media* —*acto que Tailoor permitió o ejecutó*, *operando con doctrina de **pacto** que es propia de su jurisdicción*: **el abandono no fue cruel**; *fue **disposición cosmológica de un mensaje que aún no había sido leído***. **Cuando el cosmos extendido lo requirió**, *Vitalis fue extraído del cauce* y **comenzó su trayectoria** *que culmina en el ciclo presente como [[Vitalis|Hechicero del Río Blackwater]] incorporado a [[La_Jabalina]]*.
 
 ---
 
@@ -78,7 +78,7 @@ tags:
 - [[Lotario]] — primer avatar del padre triple, anagrama
 - [[Oratiol]] — segundo avatar del padre triple, anagrama
 - [[Thalia_Cristalia]] — pareja cosmológica, madre de Vitalis
-- [[Vitalis]] — hijo, mensajero olvidado del Río Oukronos
+- [[Vitalis]] — hijo, mensajero olvidado del Río [[Rio_Ucronos|Oukronos]]
 - [[Vala_Antigua]] — mundo de origen
 - [[Vala_del_Medioevo]] — secuela narrativa
 - [[Arden_Vul]] — fase posterior del setting Vala
@@ -86,7 +86,7 @@ tags:
 - [[Los_Supremos]] / Triunvirato — panteón del que es parte
 - [[Nexus]] — lugar del nacimiento de los dioses
 - [[Juve]], [[Garkhan]], [[Shakes]], [[Auro]] — otras deidades del panteón inicial
-- [[Casa_Azul_de_Vala]] — linaje al que se vincula vía Thalia
+- [[Casa_Azul_de_Vala]] — linaje al que se vincula vía [[Thalia_Cristalia|Thalia]]
 - [[Rio_Ucronos]] — cauce donde fue abandonado Vitalis como mensajero
 
 ## Apariciones
@@ -95,5 +95,5 @@ tags:
 - **Post-Triunvirato** — adoración como deidad del panteón inicial; tercer avatar del padre triple
 - **Microcampaña edad de bronce** — figura adorada por las civilizaciones nacientes
 - **Unión con Thalia Cristalia** — pareja cosmológica de la rama cristalina
-- **Nacimiento de Vitalis** — abandonado en el Río Oukronos como mensajero olvidado
-- **1824 AE — ciclo presente** — deidad operativa en Nesut-Bity; padre d[[Vitalis|el [[Vitalis|Hechicero del Río Blackwater]]]] de Caldero
+- **Nacimiento de Vitalis** — abandonado en el Río [[Rio_Oukronos|Oukronos]] como mensajero olvidado
+- **1824 AE — ciclo presente** — deidad operativa en Nesut-Bity; padre d[[Vitalis|el [[Vitalis|Hechicero del Río Blackwater]]]] de [[Caldero]]

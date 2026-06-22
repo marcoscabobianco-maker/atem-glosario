@@ -1,5 +1,5 @@
 ---
-título: "Bengala Sucrónica / Bengala Crónica"
+título: "Bengala Sucrónica / Bengala Sucrónica"
 slug: Bengala_Sucronica_Bengala_Cronica
 aliases:
  - Bengala Sucrónica
@@ -19,7 +19,7 @@ tags:
  - templario
 imagen: Imagenes_Tier1/Bengala_Sucronica_Bengala_Cronica.png
 ---
-# Bengala Sucrónica / Bengala Crónica
+# Bengala Sucrónica / Bengala Sucrónica
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bengala_Sucronica_Bengala_Cronica.png]]
@@ -33,7 +33,7 @@ imagen: Imagenes_Tier1/Bengala_Sucronica_Bengala_Cronica.png
 
 **La Bengala Sucrónica no es bengala de batalla**: *es bengala de llamado*. **Quien la dispara convoca**; lo que convoca **depende del nombre que el tirador piense en el momento del disparo**. La cifra del oficio —que el archivero del Plata anota como dato técnico no menor— es **que sólo responde el espectro que el tirador conoce**. **No llama a desconocidos**; **no convoca al azar**. **Convoca al que el disparador ya tenía atrasado**.
 
-**El segundo nombre, Bengala Crónica**, *funciona como variante en archivos posteriores*: cuando el tirador no piensa nombre sino simplemente **piensa duda**, la Bengala llama a quien la duda exige. **El archivo del Plata sospecha que ambos nombres son uno solo en lengua distinta**: Crónica desde la cronomancia académica, Sucrónica desde el habla popular del oficio.
+**El segundo nombre, Bengala Sucrónica**, *funciona como variante en archivos posteriores*: cuando el tirador no piensa nombre sino simplemente **piensa duda**, la Bengala llama a quien la duda exige. **El archivo del Plata sospecha que ambos nombres son uno solo en lengua distinta**: Crónica desde la cronomancia académica, Sucrónica desde el habla popular del oficio.
 
 ---
 

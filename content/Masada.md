@@ -21,11 +21,11 @@ tags:
 ---
 # Masada
 
-> *La fortaleza famosa por los mártires judíos contra Roma. La que también existe en la época de las cruzadas. Desde acá viene el ballestazo que decapita a Kronamon.*
+> *La fortaleza famosa por los mártires judíos contra Roma. La que también existe en la época de las cruzadas. Desde acá viene el ballestazo que decapita a [[Kronamon]].*
 
 ## Presentación
 
-**Masada** es **una fortaleza histórica del archivo MC** que opera con doble peso cronológico —el de la antigüedad romana y el de las cruzadas medievales—. Su geografía es la real: **una meseta de roca aislada en el desierto de Judea, al borde occidental del Mar Muerto**, fortificada por Herodes el Grande en el siglo I a.C. La altura inaccesible y los muros perimetrales la hicieron uno de los puntos defensivos más temibles del Levante.
+**Masada** es **una fortaleza histórica del archivo MC** que opera con doble peso cronológico —el de la antigüedad romana y el de las cruzadas medievales—. Su geografía es la real: **una meseta de roca aislada en el desierto de Judea, al borde occidental del [[Mar_Muerto]]**, fortificada por Herodes el Grande en el siglo I a.C. La altura inaccesible y los muros perimetrales la hicieron uno de los puntos defensivos más temibles del Levante.
 
 ### La gesta romana: los mártires de 73-74 d.C.
 
@@ -37,9 +37,9 @@ Lo que el archivo MC añade a Masada es **su segunda vida en la época de las cr
 
 ### El ballestazo desde Masada que decapita a Kronamon
 
-El acto más cargado del archivo sobre Masada es la **decapitación de [[Kronamon]] en 1120**. lo declaró textualmente (2026-05-20): *"el ballestazo vino desde Masada... Todo parece indicar que fue alguna forma de [[Grazzt|Graz'zt]] quien decapitó a Kronamon en su forma de verdugo u ángel del abismo."* La línea es directa: desde Masada **se disparó la ballesta que decapitó al hijo de Pablo**. El tirador fue **Graz'zt en faceta verdugo / ángel del abismo** —una de las máscaras del demonio mayor adaptada al momento operativo—.
+El acto más cargado del archivo sobre Masada es la **decapitación de [[Kronamon]] en 1120**. lo declaró textualmente (2026-05-20): *"el ballestazo vino desde Masada... Todo parece indicar que fue alguna forma de [[Grazzt|Graz'zt]] quien decapitó a [[Kronamon]] en su forma de verdugo u ángel del abismo."* La línea es directa: desde Masada **se disparó la ballesta que decapitó al hijo de Pablo**. El tirador fue **[[Grazzt|Graz'zt]] en faceta verdugo / ángel del abismo** —una de las máscaras del demonio mayor adaptada al momento operativo—.
 
-La elección de Masada como punto de disparo no es geográfica solamente: es **simbólica**. La fortaleza de los mártires judíos contra Roma sirve, mil años después, como **plataforma de ejecución del dios del tiempo**. La memoria de la muerte voluntaria en Masada se transforma en sede de la muerte forzada de Kronamon. Graz'zt elige el lugar con la precisión del demonio que conoce los símbolos.
+La elección de Masada como punto de disparo no es geográfica solamente: es **simbólica**. La fortaleza de los mártires judíos contra Roma sirve, mil años después, como **plataforma de ejecución del dios del tiempo**. La memoria de la muerte voluntaria en Masada se transforma en sede de la muerte forzada de Kronamon. [[Grazzt|Graz'zt]] elige el lugar con la precisión del demonio que conoce los símbolos.
 
 ## Vínculos
 

@@ -5,7 +5,6 @@ tags:
  - "artefacto"
  - "inferno"
  - "loot"
- - "truesight"
 aliases:
  - "Ojo de Minos / Eye of Minos"
  - "Ojo de Minos"
@@ -19,7 +18,7 @@ aliases:
 
 ## Presentación
 
-Artefacto obtenido como botín tras derrotar a [[Minos_Inferno|Minos]] en el Descenso el archivo. Otorga Truesight 120ft + Frightful Gaze. Botín de cierre de el archivo.
+Artefacto obtenido como botín tras derrotar a [[Minos_Inferno|Minos]] en el Descenso el archivo. Otorga la vista verdadera —nada ilusorio la engaña, y alcanza lejos— y una mirada que aterra. Botín de cierre de el archivo.
 
 ## Apariciones notables
 

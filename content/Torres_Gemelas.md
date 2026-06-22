@@ -21,7 +21,7 @@ imagen: null
 ---
 # Torres Gemelas
 
-> *"Dos torres que se miran. La una corrige a la otra; la otra niega a la una. Entre ambas hay un pabellón, y en el pabellón ocurre lo que las dos torres no admiten por separado."* — del *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de Narsileon.
+> *"Dos torres que se miran. La una corrige a la otra; la otra niega a la una. Entre ambas hay un pabellón, y en el pabellón ocurre lo que las dos torres no admiten por separado."* — del *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de [[Narsileon]].
 
 ---
 
@@ -29,7 +29,7 @@ imagen: null
 
 **Dos torres pareadas**, **idénticas en altura y trazado** —*siete niveles cada una, cubierta de pizarra oscura, vitrales en cada piso impar*—. **El pabellón de recibimiento se asienta entre las dos**, *al nivel del suelo*: **galería abierta**, **jardines simétricos**, **fuente central con figura de plata mate** *que el aparato decadiano no termina de catalogar*. **El conjunto opera con doctrina especular**: *cuanto sucede en una torre tiene reflejo en la otra*, *cuanto se acepta en una se discute en la otra*.
 
-*La doctrina de la familia Frame Rhivadi*: **la doble torre representa el doble registro de la casa** —*pública y privada, ortodoxa y heterodoxa, doctrinal y operativa*—. **Quien visita conoce el pabellón**; **quien penetra alguna torre conoce un lado del doble registro**; **quien las cruza ambas** *(operación que muy pocos han ejecutado)* **conoce el aparato completo**.
+*La doctrina de la familia [[Casa_Frame_Rhivadi|Frame Rhivadi]]*: **la doble torre representa el doble registro de la casa** —*pública y privada, ortodoxa y heterodoxa, doctrinal y operativa*—. **Quien visita conoce el pabellón**; **quien penetra alguna torre conoce un lado del doble registro**; **quien las cruza ambas** *(operación que muy pocos han ejecutado)* **conoce el aparato completo**.
 
 ---
 
@@ -46,9 +46,9 @@ imagen: null
 
 ## La matiné de la fiesta *(voz Mascor Blancarba, voz directa del compilado)*
 
-**El evento que el compilado documenta con detalle**: **la matiné de Titti Frame** en el pabellón. *Recepción matinal*. **Buscaba un detalle único** que realzara la nueva faceta de anfitriona. **Contrató al hechicero del tiempo** —*joven carismático con linaje Casa Azul de Vala*, *que el archivo identifica como [[Vitalis]]*— **para atender el pabellón de recibimiento como simple barman**, *aunque la intención real era observarlo de cerca*.
+**El evento que el compilado documenta con detalle**: **la matiné de [[Titti_Frame]]** en el pabellón. *Recepción matinal*. **Buscaba un detalle único** que realzara la nueva faceta de anfitriona. **Contrató al hechicero del tiempo** —*joven carismático con linaje [[Casa_Azul_de_Vala]]*, *que el archivo identifica como [[Vitalis]]*— **para atender el pabellón de recibimiento como simple barman**, *aunque la intención real era observarlo de cerca*.
 
-**La alta sociedad de Caldero —y algún invitado de la Ciudad Estrella— degustó licores exóticos** que el hechicero mezclaba: *espumas con diminutos hielos efímeros*, *retazos de otros tiempos en las copas*, *destellos del futuro susurrados a oídos curiosos*. **El espectáculo cautivó a varios asistentes**, *entre ellos los aventureros que después serían los otros siete de [[La_Jabalina]]*.
+**La alta sociedad de [[Caldero]] —y algún invitado de la [[Ciudad_Estrella]]— degustó licores exóticos** que el hechicero mezclaba: *espumas con diminutos hielos efímeros*, *retazos de otros tiempos en las copas*, *destellos del futuro susurrados a oídos curiosos*. **El espectáculo cautivó a varios asistentes**, *entre ellos los aventureros que después serían los otros siete de [[La_Jabalina]]*.
 
 **Al fin de la matiné**, *cuando el ambiente festivo se mezcló con alboroto*, **el hechicero se unió al grupo** *que reclamaba trato más equitativo para el pueblo*. **Llevaban bolsa de contención**: *novelas eróticas de colección de la torre norte*, *cuadros de ancestros de la familia*, *candelabros de plata del pabellón*. **Aquello fue la gota que colmó el vaso**.
 
@@ -60,25 +60,25 @@ imagen: null
 
 **El proyecto más significativo** que la Casa opera *(o que la dama de la Casa opera)*: **brazos mecánicos para guerreros mutilados**. **El taller** *—si existe en la torre sur, como sospecha el archivo del Plata—* **operaría con tecnología cuya procedencia es misterio**:
 
-- **¿Importación desde Ciudad Estrella vía Miles Corp?**
+- **¿Importación desde [[Ciudad_Estrella]] vía [[Miles_Corp]]?**
 - **¿Pacto con entidad cosmológica menor del polo negativo intermedio?**
 - **¿Coordinación con [[Lord_Valanthru]] desde la [[Torre_de_Obsidiana]]**, *accediendo a tecnología que opera en marco más amplio*?
 - **¿Tecnología propia gestada en las Torres Gemelas desde fase industrial-mágica anterior?**
 
 *Las hipótesis no se excluyen*; **pueden operar en sinergia**.
 
-[*Las Torres Gemelas no son arquitectura: son aparato. Aparato que opera con el doble registro de la dama, con el taller sospechado, con la matiné como vitrina, con el silencio interno como liturgia. El grupo La Jabalina conoce el pabellón. Aún no conoce las torres por dentro. Habrá ciclos. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*Las Torres Gemelas no son arquitectura: son aparato. Aparato que opera con el doble registro de la dama, con el taller sospechado, con la matiné como vitrina, con el silencio interno como liturgia. El grupo [[La_Jabalina]] conoce el pabellón. Aún no conoce las torres por dentro. Habrá ciclos. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
 ## La operación cosmológica
 
-**Las Torres Gemelas operan como nodo paralelo de la Torre de Obsidiana**:
+**Las Torres Gemelas operan como nodo paralelo de la [[Torre_de_Obsidiana]]**:
 
-- **Coordinación con Valanthru** *vía visitas formales y correspondencia*.
+- **Coordinación con [[Lord_Valanthru|Valanthru]]** *vía visitas formales y correspondencia*.
 - **Vínculo con la profecía [[Cageewrights]]**: **brazos mecánicos como vehículo de las marcas zodiacales** *en guerreros que reciben prótesis ritual*. *El brazo no sería sólo prótesis: sería marca encarnada*.
 - **Operación industrial-mágica complementaria** *que prepara el cuerpo arquitectónico del próximo Papa Borg en clave técnico-arcana*.
-- **Vigilancia social del aparato Caldero**: *quién visita, quién se aleja, quién acepta brazo y quién no*.
+- **Vigilancia social del aparato [[Caldero]]**: *quién visita, quién se aleja, quién acepta brazo y quién no*.
 
 ---
 
@@ -99,8 +99,8 @@ imagen: null
 ## Apariciones
 
 - **Construcción en fase noble alta de Caldero** — doble torre con pabellón intermedio
-- **Consolidación de la familia Frame Rhivadi como aparato social y operativo** — doble registro instalado
+- **Consolidación de la familia [[Casa_Frame_Rhivadi|Frame Rhivadi]] como aparato social y operativo** — doble registro instalado
 - **Matiné con hechicero del tiempo** — observación de aventureros, saqueo o reclamo, expulsión
-- **Telegrama de despido a Vitalis** — al día siguiente
+- **Telegrama de despido a [[Vitalis]]** — al día siguiente
 - **Proyecto de brazos mecánicos** — oferta pendiente para guerreros mutilados, taller sospechado en torre sur
-- **1824 AE — ciclo presente** — sede activa, doble registro sostenido, operación cosmológica paralela a la Torre de Obsidiana
+- **1824 AE — ciclo presente** — sede activa, doble registro sostenido, operación cosmológica paralela a la [[Torre_de_Obsidiana]]

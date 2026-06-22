@@ -24,4 +24,4 @@ Seres míticos mencionados en los guantes de [[Sequoia]] (NC05), referenciados c
 
 ## Notas
 
-No aparecen explícitamente en archivos — posiblemente contactados en sesión no grabada o cierre narrativo post-campaña. ¿Entidades conocidas en el GLOSARIO de el cosmos compartido?
+No aparecen explícitamente en archivos — posiblemente contactados en jornada no grabada o cierre narrativo post-campaña. ¿Entidades conocidas en el GLOSARIO del cosmos compartido?

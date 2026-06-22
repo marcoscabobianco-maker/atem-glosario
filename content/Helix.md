@@ -43,7 +43,7 @@ La pequeña hermandad eclesial del santuario **opera con discreción de masoner�
 
 ## Bajo cerco
 
-En el ciclo presente —*cuando las nieblas de Valakhan se asentaron sobre el valle entero*— Helix quedó **expuesta por su posición sur**: lejos del Palacio del Prisma, lejos de los Buscadores que descienden al Mega-Dungeon, **vulnerable a lo que sube desde los túmulos**.
+En el ciclo presente —*cuando las nieblas de Valakhan se asentaron sobre el valle entero*— Helix quedó **expuesta por su posición sur**: lejos del [[Palacio_del_Prisma]], lejos de los [[Buscadores_de_Ardis_Vala|Buscadores]] que descienden al [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], **vulnerable a lo que sube desde los túmulos**.
 
 En **la jornada del altar partido** —*así la registra el cronista local*— la aldea sufrió:
 
@@ -61,7 +61,7 @@ Tras la jornada, *la aldea permaneció bajo cerco activo*. **Algunos del pueblo*
 
 El ataque rechazado *"gracias a la luz de la iglesia"* (*según el dictado distante con que se anotició a las mesas del norte*) **dejó la aldea visible para los grupos del valle**. **Los [[Buscadores_de_Ardis_Vala|Buscadores]]** —tras su despojo en la cámara octagonal— **eligieron Helix como destino al sur**, atraídos por la promesa de **los túmulos del [[Barrowmaze]]** como reserva de arcano fuera del [[Monopolio_Priscian_Magia_Legitima|monopolio Priscian]].
 
-*El cronista anota sin afilar la lectura*: la aldea de seiscientas almas **se ha convertido en nodo trans-cosmológico** —punto donde convergen el polo divino (iglesia consagrada, vicario), el polo oscuro (Caballero de la Oscuridad, hordas esqueléticas) y el polo arcano (los Buscadores buscando reposo del despojo)—. *Helix no estaba preparada para tanto.* **Tampoco lo estuvieron las aldeas que en otras eras fueron, sin saberlo, capitales de algo.**
+*El cronista anota sin afilar la lectura*: la aldea de seiscientas almas **se ha convertido en nodo trans-cosmológico** —punto donde convergen el polo divino (iglesia consagrada, vicario), el polo oscuro ([[Caballero_Oscuridad_Helix|Caballero de la Oscuridad]], hordas esqueléticas) y el polo arcano (los [[Buscadores_de_Ardis_Vala|Buscadores]] buscando reposo del despojo)—. *Helix no estaba preparada para tanto.* **Tampoco lo estuvieron las aldeas que en otras eras fueron, sin saberlo, capitales de algo.**
 
 ---
 

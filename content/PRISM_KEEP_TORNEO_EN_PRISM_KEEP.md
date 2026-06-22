@@ -12,12 +12,7 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Ubicación/Evento — Anterior campaña
-**Primer aparición:** S21_REPORTE
-**Descripción:** Torneo ocurrido en campaña (no el Descenso). "El primer torneo en Prism Keep." Mismo torneo posteriormente jugado en el Descenso ("el mismo torneo que después jugamos en... ").
-**Campaña:** (anterior al Descenso)
-**Significancia:** Muestra recurrencia de locations/themes entre campañas.
-**Confianza:** FUERTE (explicit cross-campaign reference)
+Fortaleza donde se celebró el primer gran torneo del que hay registro en el archivo. El mismo torneo fue disputado luego en el [[Anti_Inferno|Descenso]], mostrando cómo localizaciones y eventos fundacionales se repiten a través de los ciclos de campaña.
 
 ## Ver también
 

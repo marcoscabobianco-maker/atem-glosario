@@ -22,7 +22,7 @@ aliases:
 
 - [[SOGOL]] (Fase 5)
 - Hawkwoman
-- Mythic Actions discutidos en sesión
+- Mythic Actions discutidos en jornada
 
 ## Ver también
 

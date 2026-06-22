@@ -17,11 +17,11 @@ tags:
 ---
 # Omnivor
 
-> *El devorador. Devoró a los hijos de Mahakala, el Señor del tiempo.*
+> *El devorador. Devoró a los hijos de [[Mahakala]], el Señor del tiempo.*
 
 ## Presentación
 
-**Omnivor** es **el devorador** del arco de **[[Lords_of_Creation|]]** —la entidad antagonista que **devoró a los hijos de [[Mahakala]], el Señor del tiempo—**. La fórmula del archivo es seca: *"Mahakala, el Señor del tiempo. Pobres sus hijos, pasto de Omnivor."*
+**Omnivor** es **el devorador** del arco de **[[Lords_of_Creation|]]** —la entidad antagonista que **devoró a los hijos de [[Mahakala]], el Señor del tiempo—**. La fórmula del archivo es seca: *"[[Mahakala]], el Señor del tiempo. Pobres sus hijos, pasto de Omnivor."*
 
 El nombre lo dice: **omnívoro absoluto**, lo que come de todo y no se detiene ante nada. Que devore a los hijos de una de las potencias mayores del cosmos —el Señor del tiempo— marca su escala: no es criatura local, es **fuerza cósmica de la consumición**.
 

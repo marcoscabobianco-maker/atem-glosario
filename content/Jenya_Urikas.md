@@ -20,15 +20,15 @@ imagen: null
 
 # Jenya Urikas
 
-> *"Allí, la sacerdotisa Jenya Urikas convocó a un grupo de aventureros, entre ellos Lukas, un paladín de la Ciudad de Estrella, y Foggimer, un clérigo de aspecto rudo, junto con otros aliados de diversas procedencias. En una reunión solemne, la sacerdotisa les habló de una profecía que vinculaba la adivinación producida con su 'maza de seis puntas' con los eventos recientes. También se encuentran Scylla y Antonio."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"Allí, la sacerdotisa Jenya Urikas convocó a un grupo de aventureros, entre ellos Lukas, un paladín de la Ciudad de Estrella, y [[Fogimer|Foggimer]], un clérigo de aspecto rudo, junto con otros aliados de diversas procedencias. En una reunión solemne, la sacerdotisa les habló de una profecía que vinculaba la adivinación producida con su 'maza de seis puntas' con los eventos recientes. También se encuentran [[Scylla]] y [[Antonio]]."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
 ## La convocante
 
-**Jenya Urikas** es **sacerdotisa del [[Templo_de_San_Cutberto|Templo de San Cutberto]]** en Caldero. **Convocante original de [[La_Jabalina]]**: *en reunión solemne en el templo*, **convocó a Lukas, Foggimer, Scylla, Antonio y otros aliados de diversas procedencias** *para formar el grupo de aventureros* que enfrentaría las amenazas crecientes de la ciudad.
+**Jenya Urikas** es **sacerdotisa del [[Templo_de_San_Cutberto|Templo de San Cutberto]]** en [[Caldero]]. **Convocante original de [[La_Jabalina]]**: *en reunión solemne en el templo*, **convocó a Lukas, [[Fogimer|Foggimer]], [[Scylla]], [[Antonio]] y otros aliados de diversas procedencias** *para formar el grupo de aventureros* que enfrentaría las amenazas crecientes de la ciudad.
 
-*La autoridad de Jenya en Caldero* **opera con doble registro**: **autoridad eclesial sostenida** (*sacerdotisa principal del Templo, voz doctrinal pública*) **+ autoridad adivinatoria oculta** (*opera con su **"maza de seis puntas"** para producir adivinaciones que el aparato decadiano ortodoxo no admite plenamente pero tolera*). **El grupo La Jabalina se sostiene en gran parte sobre la confianza que Jenya les transmitió en la reunión convocante**.
+*La autoridad de Jenya en [[Caldero]]* **opera con doble registro**: **autoridad eclesial sostenida** (*sacerdotisa principal del Templo, voz doctrinal pública*) **+ autoridad adivinatoria oculta** (*opera con su **"maza de seis puntas"** para producir adivinaciones que el aparato decadiano ortodoxo no admite plenamente pero tolera*). **El grupo [[La_Jabalina]] se sostiene en gran parte sobre la confianza que Jenya les transmitió en la reunión convocante**.
 
 ---
 
@@ -36,15 +36,15 @@ imagen: null
 
 **El instrumento adivinatorio de Jenya**: **una maza de seis puntas** *que opera con doctrina ritual específica*. **No es arma de combate ortodoxa**; **es** *instrumento de adivinación* **cuyas seis puntas representan ejes cosmológicos**: *seis direcciones, seis polos, seis fases del ciclo, según la doctrina interpretativa que Jenya aplique*.
 
-*La adivinación que produjo*: **vinculaba eventos recientes** *con profecía mayor del cosmos extendido*. **Los eventos recientes referidos**: **desapariciones de niños, conspiraciones nobiliarias, posibles rituales del polo negativo**. *La profecía mayor*: **probablemente vinculada con la [[Cageewrights]]** *y con la grieta cosmológica que la Capilla Oscura selló en el primigenio*.
+*La adivinación que produjo*: **vinculaba eventos recientes** *con profecía mayor del cosmos extendido*. **Los eventos recientes referidos**: **desapariciones de niños, conspiraciones nobiliarias, posibles rituales del polo negativo**. *La profecía mayor*: **probablemente vinculada con la [[Cageewrights]]** *y con la grieta cosmológica que la [[Capilla_Oscura]] selló en el primigenio*.
 
-**El número Trece de los Cageewrights** *podría operar con la maza de seis puntas* en doctrina interpretativa específica: **seis + seis + uno = 13** *(las seis puntas + las seis sombras de las puntas + la marca central que el cosmos extendido reserva)*. **La doctrina no se ha articulado plenamente**; *Jenya opera con cautela*, **revelando lo necesario sin abrir plenamente el aparato adivinatorio**.
+**El número Trece de los [[Cageewrights]]** *podría operar con la maza de seis puntas* en doctrina interpretativa específica: **seis + seis + uno = 13** *(las seis puntas + las seis sombras de las puntas + la marca central que el cosmos extendido reserva)*. **La doctrina no se ha articulado plenamente**; *Jenya opera con cautela*, **revelando lo necesario sin abrir plenamente el aparato adivinatorio**.
 
 ---
 
 ## La operación del Templo
 
-**El [[Templo_de_San_Cutberto]] bajo Jenya** *opera con doctrina decadiana ortodoxa pública* **pero con adivinación ritual privada que el aparato metropolitano no autorizaría plenamente**. *El equilibrio*: **Jenya cumple la liturgia pública** *sin desviaciones visibles*; **opera la adivinación de la maza** *en sesiones reservadas con interlocutores confiables como La Jabalina*.
+**El [[Templo_de_San_Cutberto]] bajo Jenya** *opera con doctrina decadiana ortodoxa pública* **pero con adivinación ritual privada que el aparato metropolitano no autorizaría plenamente**. *El equilibrio*: **Jenya cumple la liturgia pública** *sin desviaciones visibles*; **opera la adivinación de la maza** *en jornadas reservadas con interlocutores confiables como [[La_Jabalina]]*.
 
 *El Templo apoya operativamente a La Jabalina*:
 
@@ -64,7 +64,7 @@ imagen: null
 - [[Lukas]] / [[Foggimer]] / [[Scylla|Sila]] — convocados en la reunión inicial
 - [[Cageewrights]] — profecía con la que su adivinación opera
 - **Maza de seis puntas** — instrumento ritual
-- [[Iglesia_Imperial]] — Ortodoxia Decadiana metropolitana de la que dependía
+- [[Iglesia_Imperial]] — [[Iglesia_Imperial|Ortodoxia Decadiana]] metropolitana de la que dependía
 - [[Caldero]] — ciudad de oficio
 
 ## Apariciones

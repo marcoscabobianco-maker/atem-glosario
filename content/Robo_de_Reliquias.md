@@ -13,11 +13,11 @@ aliases:
 
 ## Presentación
 
-**Evento:** Segunda noche tras el retorno a [[Temple_complejo_TE|Temple]]. Entrada no autorizada en cripta de reliquias.
+**[[Evento]]:** Segunda noche tras el retorno a [[Temple_complejo_TE|Temple]]. Entrada no autorizada en cripta de reliquias.
 
-**Atacante:** Criatura infraplanar no identificada (posible Flamenco, posible entidad demoníaca diferente).
+**Atacante:** Criatura infraplanar no identificada (posible [[Flamenco]], posible entidad demoníaca diferente).
 
-**Objetivo:** [[Armadura_del_Flamenco|Armadura del Flamenco]] (¿y otras reliquias?).
+**[[Objetivo]]:** [[Armadura_del_Flamenco|Armadura del Flamenco]] (¿y otras reliquias?).
 
 **Resultado:** Armadura robada. [[Caballero_Decapitador|Caballero Decapitador]] debilitado. [[Arsvan|Ärsvan]] intenta persecución aérea (falla en hechizo Fly).
 
@@ -27,4 +27,4 @@ aliases:
 
 - [[Evento|Evento]]
 - Atacante
-- Objetivo
+- [[Objetivo]]

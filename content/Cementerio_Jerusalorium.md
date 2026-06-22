@@ -22,7 +22,7 @@ imagen: Imagenes_Tier1/Cementerio_Jerusalorium.png
 ![[Imagenes_Tier1/Cementerio_Jerusalorium.png]]
 <!-- /HEADER_IMG -->
 
-> *"Hay cementerios donde se entierra. Hay cementerios donde se espera. Jerusalorium es de los segundos."*
+> *"Hay cementerios donde se entierra. Hay cementerios donde se espera. [[Jerusalorium]] es de los segundos."*
 
 La lámina lo fija al atardecer: **camposanto amurallado**, **tumbas bajas alineadas con la cruz templaria labrada en cada lápida**, **pequeña capilla con cruz en el frontón**, **estandarte templario colgando del muro** —*cruz blanca sobre fondo claro*—. En primer plano, **tumba abierta a medio cavar**, **monje-templario con hábito blanco rezando junto al pozo**, *cabeza inclinada, manos juntas*. Al fondo, **la silueta de Jerusalén con la Cúpula dorada** —*la cifra mahometana cerca pero no dentro del recinto*—.
 

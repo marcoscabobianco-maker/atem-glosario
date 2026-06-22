@@ -11,7 +11,7 @@ aliases:
 ## Presentación
 
 - **Configuración:** Múltiples habitaciones, "cuartito paralelo" (donde [[Ariadna_Genoveva|Ariadna]] colocada)
-- **Guardia:** Puertas con guardias (cruces azules, trancas)
+- **Guardia:** [[Puertas]] con guardias (cruces azules, trancas)
 - **Layout:** Habitación principal (negociaciones), antesala (investigación), pasadizo (servicio?)
 - **Construcción:** Aparentemente dentro Laberinto pero separado de sector central
 

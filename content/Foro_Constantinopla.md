@@ -57,4 +57,4 @@ imagen: Imagenes_Tier1/Foro_Constantinopla.png
 
 ## Apariciones
 
-- **Constantinopla 1055** — plaza activa; tránsito de mercaderes, agentes y viajeros foráneos
+- **[[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]** — plaza activa; tránsito de mercaderes, agentes y viajeros foráneos

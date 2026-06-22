@@ -32,7 +32,7 @@ imagen: Imagenes_Tier1/Bloom.png
 
 **Paladín negro**, **liberador**. Viene **de lejos** —de la campaña de **[[Los_Boreales]]**— y trae todavía puesta la **armadura de placas** del medievo, anacronismo deliberado que el cosmos compartido tolera por mérito propio: *en la víspera de la Guerra Civil norteamericana, una figura de orden caballeresco precede el oficio que la historia confiaría a otros*.
 
-Su arco de mesa lo lleva de **[[Los_Boreales|los Boreales]]** al ciclo de **[[Los_Reguladores|los Reguladores]] —donde regula— y de allí a [[Les_Libertateurs_Pretty_Women|los Libertateurs]] —donde libera—**. *La rima de los dos oficios no es casual*: regular y liberar son, en Antiterra, dos formas de la misma vocación.
+Su arco de mesa lo lleva de **[[Los_Boreales|los Boreales]]** al ciclo de **[[Los_Reguladores|los Reguladores]] —donde regula— y de allí a [[Les_Libertateurs_Pretty_Women|los Libertateurs]] —donde libera—**. *La rima de los dos oficios no es casual*: regular y liberar son, en [[Antiterra]], dos formas de la misma vocación.
 
 ## Vínculos
 
@@ -46,5 +46,5 @@ Su arco de mesa lo lleva de **[[Los_Boreales|los Boreales]]** al ciclo de **[[Lo
 
 - **Boreales** — origen
 - **Reguladores** — fase intermedia
-- **Libertateurs** — fase culminante
+- **[[Libertateurs]]** — fase culminante
 - **Anacronismo persistente** — la armadura de placas que no se quita

@@ -39,7 +39,7 @@ Cumple el rol de **eje del mundo** para toda la cosmología de planos exteriores
 
 ## Las facciones
 
-Quince son las grandes, según los registros más antiguos —el archivero del Plata advierte que la cifra varía con el siglo, y que algunas se han disuelto y otras todavía no han nacido—. Cada una sostiene una **doctrina total** sobre la naturaleza del cosmos, y cada una la impone a sus miembros con un rigor que en la Tierra reservaríamos a las órdenes monásticas. La que más concierne a estas crónicas es **el [[Harmonium]]** —la **policía orden-platónica** de la ciudad, dura y razonable en partes iguales—, en la que los héroes del ciclo MC **se enrolaron casi sin querer**, llevados más por las circunstancias que por la doctrina. *Que se haya enrolado un hombre cualquiera en el Harmonium sin entender bien lo que el Harmonium pide es —según los cronistas que llevan estadística— la forma habitual de pertenecer a él.*
+Quince son las grandes, según los registros más antiguos —el archivero del Plata advierte que la cifra varía con el siglo, y que algunas se han disuelto y otras todavía no han nacido—. Cada una sostiene una **doctrina total** sobre la naturaleza del cosmos, y cada una la impone a sus miembros con un rigor que en la Tierra reservaríamos a las órdenes monásticas. La que más concierne a estas crónicas es **el [[Harmonium]]** —la **policía orden-platónica** de la ciudad, dura y razonable en partes iguales—, en la que los héroes del ciclo MC **se enrolaron casi sin querer**, llevados más por las circunstancias que por la doctrina. *Que se haya enrolado un hombre cualquiera en el [[Harmonium]] sin entender bien lo que el [[Harmonium]] pide es —según los cronistas que llevan estadística— la forma habitual de pertenecer a él.*
 
 ## La Dama del Dolor
 
@@ -69,4 +69,4 @@ El cronista, por temperamento y por estado, **se inclina por la versión única*
 ## Apariciones
 
 - Continuamente, desde antes del cómputo. Ningún cronista ha registrado su fundación; ningún ciclo ha registrado su caída.
-- Episodios mayores en el cosmos compartido: enrolamiento de los héroes en el Harmonium; tránsitos de Reguladores antes del ciclo final de Antiterra; eco de la profanación de la Dama, sufrido a distancia.
+- Episodios mayores en el cosmos compartido: enrolamiento de los héroes en el Harmonium; tránsitos de Reguladores antes del ciclo final de [[Antiterra]]; eco de la profanación de la Dama, sufrido a distancia.

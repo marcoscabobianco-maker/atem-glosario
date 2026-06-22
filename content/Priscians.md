@@ -23,48 +23,48 @@ tags:
 
 # Priscians
 
-> *Orden secreta de hechiceros descendientes —o auto-proclamados— de los Sortianos. Han reocupado el viejo compound Sortian en L9. Arcanum forge restaurada. Nerub Null archmage.*
+> *Orden secreta de hechiceros descendientes —o auto-proclamados— de los [[Sortianos]]. Han reocupado el viejo compound Sortian en el Suelo del Gran Abismo. [[Arcanum]] forge restaurada. [[Nerub_Null]] archmage.*
 
 ## Presentación
 
-Los **Priscians** son una **orden secreta de hechiceros** activa en el [[Mega_Dungeon_Arden_Vul]] como **descendientes auto-proclamados de los [[Sortianos]]** —la facción derrotada del **Cisma Mágico arconteano** (Sortianos vs. Teósofos)—. Operan **presencia oculta** en múltiples niveles, **base principal en [[L09_Floor_of_Great_Chasm|L9 — Priscian Compound]]** (9-58 a 9-64A).
+Los **Priscians** son una **orden secreta de hechiceros** activa en el [[Mega_Dungeon_Arden_Vul]] como **descendientes auto-proclamados de los [[Sortianos]]** —la facción derrotada del **Cisma Mágico arconteano** ([[Sortianos]] vs. Teósofos)—. Operan **presencia oculta** en múltiples niveles, **base principal en [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo — Priscian Compound]]**.
 
 ### Composición
 
 Cada **expedición Priscian** se llama **Quintus** (literalmente "el quinto" — núcleo de cinco). Compuesta por:
 
-- **War mages** — magic-users de combate, gladio +2 priscian
+- **War mages** — hechiceros de combate, gladio priscian encantado
 - **Conversi** — guerreros conversos al uso ritual (fighters)
-- **Justinian** — war mage (figura repetido, 6th-level)
+- **Justinian** — war mage (figura repetida, del sexto grado de su temple)
 - **Otros nombrados**
 
 ### Liderazgo
 
-- **[[Nerub_Null]]** (9-64) — **archmage**, **líder de los Priscians en Arden Vul** ★
-- **Jaracondus the Sprightly** (9-63) — segundo en el dungeon
-- **Cenwulf the Unseen** (9-31) — 8th-level illusionist, leader de Priscian expeditionary team
-- **Vingalok** (9-48) — niravairi del Order of Planar Explorers
+- **[[Nerub_Null]]** — **archmage**, **líder de los Priscians en [[Ardis_Vala|Arden Vul]]** ★
+- **Jaracondus the Sprightly** — segundo en el dungeon
+- **Cenwulf the Unseen** — ilusionista del octavo grado de su temple, líder del equipo expedicionario priscian
+- **Vingalok** — niravairi del Order of Planar Explorers
 
 ### Su agenda
 
-1. **Reclamar la herencia Sortiana** — reocuparon el viejo compound (9-58 a 9-64A) hace **algunas décadas**
-2. **Restaurar la Arcanum Forge** (9-60) — la han **restaurado parcialmente** y comienzan a producir **Sortian equipment legendario**
-3. **Permanecer ocultos** — el compound se mantiene secreto vía **illusion** en 9-58 + **Sortian teleportation system** (Sortian eyes, new magic items)
+1. **Reclamar la herencia Sortiana** — reocuparon el viejo compound hace **algunas décadas**
+2. **Restaurar la [[Arcanum_Forge]]** — la han **restaurado parcialmente** y comienzan a producir **Sortian equipment legendario**
+3. **Permanecer ocultos** — el compound se mantiene secreto vía **espejismo sostenido** sobre la entrada + **el sistema sortiano de teletransporte** (los Sortian eyes)
 
 ### Aliados / enemigos
 
 | Vínculo | Facción |
 |---|---|
 | **Rivales (A)** | **[[Kerbog_Khan]]** — competencia mágica |
-| **Posible alianza histórica** | **Cinna Minux** (L7 vampire) — vampiro recibe **charmed informants** que podrían incluir Priscians |
+| **Posible alianza histórica** | **[[Cinna_Minux]]** (Corte del Thegn vampire) — vampiro recibe **charmed informants** que podrían incluir Priscians |
 | **Otros** | Indeterminado — orden secreta por definición |
 
 ### Equipamiento característico
 
-- **Priscian chain mail** (new magic items)
-- **Priscian gladius +2** (new magic items)
+- **Priscian chain mail** — cota forjada por la orden
+- **Priscian gladius** — gladio encantado de la orden
 - **Sortian eyes** — teleportation system
-- **Hechizos avanzados** (Quintus core de 5-7 magicos)
+- **Hechizos avanzados** (el núcleo del Quintus: de cinco a siete magos)
 
 ### Función narrativa
 
@@ -74,15 +74,15 @@ Los Priscians son **la facción "intelectual / arcana secreta"** del dungeon. **
 
 ### La jornada del despojo
 
-En el ciclo presente, **la orden inauguró operativamente el [[Monopolio_Priscian_Magia_Legitima|Monopolio Priscian de la Magia Legítima]]** mediante la primera **derrota arcana directa de los [[Buscadores_de_Ardis_Vala|Buscadores]] en la cámara octagonal del Mega-Dungeon**. *Cuando los Buscadores se negaron a permitir acceso a la biblioteca del [[Palacio_del_Prisma|Palacio del Prisma]]*, **la partida Priscian dirigida por Nerub Null teleportó al lugar mediante sortian eyes**, **operó con [[Cetro_de_Absorcion|cetros de absorción]] como instrumentos cardinales**, **derrotó al grupo norte**, y **confiscó todos sus objetos mágicos personales** dejando intactos oro, gemas, raciones y suministros.
+En el ciclo presente, **la orden inauguró operativamente el [[Monopolio_Priscian_Magia_Legitima|Monopolio Priscian de la Magia Legítima]]** mediante la primera **derrota arcana directa de los [[Buscadores_de_Ardis_Vala|Buscadores]] en la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]**. *Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] se negaron a permitir acceso a la biblioteca del [[Palacio_del_Prisma|Palacio del Prisma]]*, **la partida Priscian dirigida por [[Nerub_Null]] teleportó al lugar mediante sortian eyes**, **operó con [[Cetro_de_Absorcion|cetros de absorción]] como instrumentos cardinales**, **derrotó al grupo norte**, y **confiscó todos sus objetos mágicos personales** dejando intactos oro, gemas, raciones y suministros.
 
-*El gesto fue ostensiblemente moderado*: **los Buscadores quedaron inconscientes pero vivos**, "*les cayeron bien*". **La doctrina de la chispa abierta operó así su propia ironía**: lo que [[Priscus_Pulcher]] predicaba como apertura universal **se ejecuta hoy como custodia hermética de quien sobrevivió al silencio**. *La victoria póstuma de Pulcher se vuelve operativa contra los herederos doctrinales que se acercaron sin la inscripción adecuada*.
+*El gesto fue ostensiblemente moderado*: **los [[Buscadores_de_Ardis_Vala|Buscadores]] quedaron inconscientes pero vivos**, "*les cayeron bien*". **La doctrina de la chispa abierta operó así su propia ironía**: lo que [[Priscus_Pulcher]] predicaba como apertura universal **se ejecuta hoy como custodia hermética de quien sobrevivió al silencio**. *La victoria póstuma de Pulcher se vuelve operativa contra los herederos doctrinales que se acercaron sin la inscripción adecuada*.
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[L09_Floor_of_Great_Chasm|L9 — Floor of Great Chasm]]
-- [[Halls_of_Thoth_Nivel|L3]] — presencia oculta (Quintus exploratory teams)
+- [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo — Floor of Great Chasm]]
+- [[Halls_of_Thoth_Nivel|Halls of Thoth]] — presencia oculta (Quintus exploratory teams)
 - [[Sortianos]] — orden histórica de la que se auto-proclaman descendientes
 - [[Teosofos|Teósofos]] — rivales históricos (Cisma Mágico)
 - **Nerub Null** — archmage

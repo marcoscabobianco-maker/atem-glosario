@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-Ubicación planar. Escenario de "Memorias de [[Amitlai]]" — narrativa de importancia cosmológica
+Ubicación planar. [[Escenario]] de "Memorias de [[Amitlai]]" — narrativa de importancia cosmológica
 en el ciclo. Centro de diplomacia inter-planar con presencia de factols (autoridades de planos
 exteriores) y embajadas de diablos. Sitio de negociación y poder político del multiverso.
 

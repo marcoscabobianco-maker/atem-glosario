@@ -12,11 +12,11 @@ aliases:
 
 ## Presentación
 
-**Concepto:** Hechizo de reversión de muerte.
+**Concepto:** [[Idiotizacion_Hechizo|Hechizo]] de reversión de muerte.
 
-**Descripción:** Capacidad de devolver la vida a muerto (similar a Resurrect en D&D/).
+**Descripción:** Capacidad de devolver la vida al muerto — el arte mayor de la resurrección.
 
-**Aplicación tras la caída de Alexio:**
+**Aplicación tras la caída de [[Alexio_Anacronismo|Alexio]]:**
 - Mencionado por [[Marques_de_Sade_Hugo|Hugo]] como posible reversión de muerte de [[Alexio]]
 - Requiere "línea directa a poder divino"
 - Casco del Irlandés ([[Alexio]]) posiblemente tiene propiedad de auto-activación
@@ -24,5 +24,5 @@ aliases:
 
 ## Ver también
 
-- Aplicación tras la caída de Alexio
+- Aplicación tras la caída de [[Alexio_Anacronismo|Alexio]]
 - Implicación narrativa

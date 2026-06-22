@@ -17,8 +17,8 @@ aliases:
 
 ## Presentación
 
-**Ref.:** 1a ¶ (aparece 8 veces), 1b –991 ("Chantal. S.H. Chantal"), 2d veces, 5d veces. **[[C73_p24|C73 p.24]]:** "Chantal, el personaje de , la chicana, se mira al espejo y se ve cadavérica. Había recibido un disparo del personaje de , Kendal."
-**Línea trans-campaña:** compañero del grupo. (detalles asertóricos en el Akashic). Chantal y [[Sasha_TNW|Sasha]] son personajes distintos. Ambas son rangers/wilderness pero personajes separados.
+**[[C73_p24|C73 p.24]]:** "Chantal, la chicana, se mira al espejo y se ve cadavérica. Había recibido un disparo de Kendal."
+Compañera del grupo. Chantal y [[Sasha_TNW|Sasha]] son personajes distintos. Ambas son rangers/wilderness pero personajes separados.
 
 ## Ver también
 

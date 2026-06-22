@@ -22,8 +22,8 @@ aliases:
 
 Cuarto de dungeon descrito en C47 p.12 (27 nov 2012). Centro de la
 descripción: una mesa con libro abierto y mantel rojo, un atril/tripode
-dorado con florero y una vela de invocación (alineamiento Caótico Malvado
-— notación de 2ª ed. en el cuaderno: "Cáutico Malvada").
+dorado con florero y una vela de invocación consagrada al mal caótico
+(el cuaderno la asienta con su vieja notación: "Cáutico Malvada").
 Libros con lomos y páginas doradas al fondo. Entre un globo terráqueo
 y uno astral: dos armas de asta y dos rollos de mapas inmensos. Una de
 las lanzas tiene la punta larga y filosa en uno de sus lados — esa es

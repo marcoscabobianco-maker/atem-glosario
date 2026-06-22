@@ -12,6 +12,7 @@ aliases:
  - "Golden Bones (Maldición)"
  - "Maldición"
  - "Golden Bones"
+aa: "P.10 pacto que protege pero ata ; M.5 cuerpo-archivo ; D.5 llave arbitraria de portal [NC]"
 ---
 
 # Golden Bones (Maldición)

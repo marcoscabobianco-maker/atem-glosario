@@ -12,7 +12,7 @@ aliases:
 
 ## Presentación
 
-Entidad de rango superior en jerarquía de [[Inevitable|Inevitables]]. Su función es ejecutar reabsorción y reprogramación de [[Inevitable|Inevitables]] que han desviado de su misión original. Aparece en forma de materialización dimensional (Gate portal) cuando [[Draga_Machine|Draga Machine]] cumple su misión de eliminar a [[Apis]] en [[Belgrado_Ucronica|Belgrado]].
+[[Entidad]] de rango superior en jerarquía de [[Inevitable|Inevitables]]. Su función es ejecutar reabsorción y reprogramación de [[Inevitable|Inevitables]] que han desviado de su misión original. Aparece en forma de materialización dimensional (Gate portal) cuando [[Draga_Machine|Draga Machine]] cumple su misión de eliminar a [[Apis]] en [[Belgrado_Ucronica|Belgrado]].
 
 **Descripción:**
 Descrito vagamente como "presto a arrastrar a [[Draga_Machine|Draga]] para reprogramarla." Representa fuerza impersonal, inexorable, de ley cósmica. No ofrece alternativas ni negocia; su aparición es convocatoria automática y obligatoria.
@@ -22,7 +22,7 @@ Cuando Marshall aparece para reabsorber a [[Draga_Machine|Draga]], [[Swan]] lanz
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] [04:18:00+]: aparición en Gate dimensional durante muerte de [[Apis]]; arrebatamiento de [[Draga_Machine|Draga]]; desaparición conjunta de [[Draga_Machine|Draga]] y [[Swan]].
+[[Paris_Ucronica|París Ucrónica]]: aparición en Gate dimensional durante muerte de [[Apis]]; arrebatamiento de [[Draga_Machine|Draga]]; desaparición conjunta de [[Draga_Machine|Draga]] y [[Swan]].
 
 ## Notas
 

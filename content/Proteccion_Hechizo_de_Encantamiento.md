@@ -11,8 +11,8 @@ aliases:
 ## Presentación
 
 **Invocador:** Múltiples ([[Arsvan|Ärsvan]], [[Alexio]])
-**Descripción:** Hechizo defensivo estándar. Duración 1 minuto/nivel = ~10 minutos en combate.
-**Efectos:** Bonus defensivo, posiblemente resistencia mágica
+**Descripción:** [[Idiotizacion_Hechizo|Hechizo]] defensivo estándar. Duración 1 minuto/nivel = ~10 minutos en combate.
+**[[Efectos]]:** Bonus defensivo, posiblemente resistencia mágica
 
 ## Ver también
 

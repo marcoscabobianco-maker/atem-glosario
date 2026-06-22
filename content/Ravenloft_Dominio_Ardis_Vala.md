@@ -15,11 +15,11 @@ tags:
 
 # Ravenloft (Dominio de Ardis Vala) — REDIRECT
 
-> *Esta entrada redirige a **[[Valakhan_de_la_Bruma]]**, nombre canónico del dominio Ravenloft sobre Ardis Vala.*
+> *Esta entrada redirige a **[[Valakhan_de_la_Bruma]]**, nombre canónico del dominio Ravenloft sobre [[Ardis_Vala]].*
 
 ## Redirige a
 
-**[[Valakhan_de_la_Bruma]]** — dominio Ravenloft sobre Ardis Vala, con [[Caladan]] como señor del dominio y la fiebre blanca como marca cosmológica.
+**[[Valakhan_de_la_Bruma]]** — dominio Ravenloft sobre [[Ardis_Vala]], con [[Caladan]] como señor del dominio y la fiebre blanca como marca cosmológica.
 
 ---
 

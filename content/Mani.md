@@ -29,7 +29,7 @@ Su padre pertenecía a los eclesiates gnósticos (subsecta ebionita). Cronologí
 
 Cinco elementos maniqueos: humo, tinieblas, fuego, agua, viento. Jerarquía: *electi* (vegetarianismo, ayuno, castidad estrictos) y *auditori*. San fue maniqueo antes de su conversión.
 
-La historia de transmisión del conocimiento maniqueo según Sócrates de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] involucra a Escitianos (sarraceno, esposo de egipcia), su discípulo Buddas/Terobinthos (poseído por un Daimón que lo arrojó de un precipicio — paralelo con Arcoms/), y Cubricus (niño que tomó el nombre de Mani). Tres discípulos: Thomas (enviado a Egipto), Addas (a Escitia), Hermas (se quedó con él).
+La historia de transmisión del conocimiento maniqueo según Sócrates de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] involucra a Escitianos (sarraceno, esposo de egipcia), su discípulo Buddas/Terobinthos (poseído por un Daimón que lo arrojó de un precipicio — paralelo con [[Arcoms_Cosmar|Arcoms]]/), y Cubricus (niño que tomó el nombre de Mani). Tres discípulos: Thomas (enviado a Egipto), Addas (a Escitia), Hermas (se quedó con él).
 
 Reencarnaciones del culto: Prisciliano obispo de Ávila (370, entregado a justicia civil en 385, decía ser discípulo de "Marco el Egipcio"), los paulicianos (s. VII, organizados militarmente, deportados a Bulgaria).
 
@@ -39,7 +39,7 @@ Reencarnaciones del culto: Prisciliano obispo de Ávila (370, entregado a justic
 
 ## Notas
 
-El paralelo Buddas/Daimón → precipicio y Arcoms/ es señalado explícitamente en el documento ("Parecido al final de , digo Arcoms").
+El paralelo Buddas/Daimón → precipicio y [[Arcoms_Cosmar|Arcoms]]/ es señalado explícitamente en el documento ("Parecido al final de , digo Arcoms").
 
 ## Ver también
 

@@ -29,7 +29,7 @@ imagen: Imagenes_Tier1/Tormenta_25_TG.png
 
 > *"Todas las calles son ríos. Todos los ríos son hielo. Todo el hielo es el cierre."*
 
-**En el instante posterior al diluvio**: *Torregrises entera bajo el oleaje sólido del agua-furia que ya se está congelando*, **torres apiladas, fortalezas, escalinatas, mansiones reducidas a siluetas grises**; **al fondo, una sola torre todavía erguida** —**el Piso 25, donde Federico observa desde el alfeizar**—. *Sobre el cielo nuboso revuelto*, **dos rostros barbados se asoman como caras divinas**: **los dioses que la Tormenta envió, observan su obra cerrada**. *En el cuadrante superior izquierdo*: **TORMENTA 25 — SEDE DE LAS TORMENTAS**. *En el cuadrante inferior central*: **CAMELOT — SITIO Y CONGELADO POR LA IRA DEL CIELO**.
+**En el instante posterior al diluvio**: *[[Torregrises]] entera bajo el oleaje sólido del agua-furia que ya se está congelando*, **torres apiladas, fortalezas, escalinatas, mansiones reducidas a siluetas grises**; **al fondo, una sola torre todavía erguida** —**el Piso 25, donde [[Federico_TG|Federico]] observa desde el alfeizar**—. *Sobre el cielo nuboso revuelto*, **dos rostros barbados se asoman como caras divinas**: **los dioses que la Tormenta envió, observan su obra cerrada**. *En el cuadrante superior izquierdo*: **TORMENTA 25 — SEDE DE LAS TORMENTAS**. *En el cuadrante inferior central*: **CAMELOT — SITIO Y CONGELADO POR LA IRA DEL CIELO**.
 
 ---
 
@@ -43,7 +43,7 @@ imagen: Imagenes_Tier1/Tormenta_25_TG.png
 
 ## El mecanismo
 
-**Federico —el cronista que vive en la cúspide— describe el mecanismo con la sequedad del historiador bendito**:
+**[[Federico_TG|Federico]] —el cronista que vive en la cúspide— describe el mecanismo con la sequedad del historiador bendito**:
 
 *"Todas las calles son ríos cubiertos de agua de furia de frío de hielo."*
 
@@ -53,7 +53,7 @@ imagen: Imagenes_Tier1/Tormenta_25_TG.png
 
 ## La profecía de los sacerdotes
 
-**El archivo del Plata conserva una profecía mayor** —*citada en la Cosmogonía Gris de Torregrises*—: **"Llegará el día en que las aguas treparán las laderas. Las laderas no fueron hechas para retener agua. La ciudad fue."** *La frase admitía interpretación benigna —agua que sube por las laderas y se queda en las calles, como inundación común—*; **la Tormenta 25 cumple su lectura literal**: **las aguas trepan, se quedan, se congelan, no bajan más**.
+**El archivo del Plata conserva una profecía mayor** —*citada en la Cosmogonía Gris de [[Torregrises]]*—: **"Llegará el día en que las aguas treparán las laderas. Las laderas no fueron hechas para retener agua. La ciudad fue."** *La frase admitía interpretación benigna —agua que sube por las laderas y se queda en las calles, como inundación común—*; **la Tormenta 25 cumple su lectura literal**: **las aguas trepan, se quedan, se congelan, no bajan más**.
 
 **El motivo bíblico-nórdico del diluvio combinado con congelamiento** —*Génesis y Ragnarok cosidos en una sola escena*— **cierra el ciclo cosmogónico de Torregrises sin admitir restauración futura**: **lo congelado no se descongela en este orden de cosas**. *Si Torregrises volviera*, **sería otra ciudad sobre otro suelo, con otro número de soles y otro día 25**.
 
@@ -80,6 +80,6 @@ imagen: Imagenes_Tier1/Tormenta_25_TG.png
 
 ## Apariciones
 
-- **Pablo y Miranda Edición Final** — capítulo "Tormenta 25" (pp. 134-149)
+- **Pablo y [[Miranda_TG|Miranda]] Edición Final** — capítulo "Tormenta 25" (pp. 134-149)
 - **Cosmogonía Gris** — profecía de los sacerdotes como antecedente
 - **Cierre del ciclo cosmogónico de Torregrises** — evento sin restauración

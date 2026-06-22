@@ -84,13 +84,13 @@ tags:
 
 > **Esta entrada se refiere al DOCUMENTO Calendario** —la cronología consolidada que [[Amitlai]] y [[Clarisa]] escriben dentro del juego—.
 >
-> **No confundir con [[Estela_Nereida|Estela como "Chica Calendario 1902"]]**, modelo de litografía Belle Époque que circuló por París uchrónico en portada del *Imprimerie Verneau & Cie*. La nereida del chal y el documento son cosas distintas: el documento, sin embargo, registra muchas apariciones de Estela y otras figuras del archivo.
+> **No confundir con [[Estela_Nereida|Estela como "Chica Calendario 1902"]]**, modelo de litografía Belle Époque que circuló por París uchrónico en portada del *Imprimerie Verneau & Cie*. La nereida del chal y el documento son cosas distintas: el documento, sin embargo, registra muchas apariciones de [[Estela_Nereida|Estela]] y otras figuras del archivo.
 
-> Cronología consolidada de la el cosmos compartido, escrita en situación lúdica por [[Amitlai]] (compañero-cronista) y heredada por [[Clarisa]]. Fuente lúdica primaria del archivo.
+> Cronología consolidada del cosmos compartido, escrita en situación lúdica por [[Amitlai]] (compañero-cronista) y heredada por [[Clarisa]]. Fuente lúdica primaria del archivo.
 
 ## Fuente primaria
 
-**Calendario merged.doc** — documento físico en `G:\Mi unidad\02_ROL_Y_MEGACAMPAÑA\ATEM\meta\fuentes\MC\`. Encabezado original: *"Cronología desde el punto de vista de [[Amitlai]]"*. Construido por entre 2005 y 2018 como narración interna del compañero Amitlai.
+**Calendario merged.doc** — documento físico en `G:\Mi unidad\02_ROL_Y_MEGACAMPAÑA\ATEM\meta\fuentes\MC\`. Encabezado original: *"Cronología desde el punto de vista de [[Amitlai]]"*. Construido por entre 2005 y 2018 como narración interna del compañero [[Amitlai]].
 
 > *"Calendario ciclo"* — versión paralela en `01_ACADEMIA/Académicas/Cronicas y Relatos/Calendario ciclo.gdoc` (Google Doc).
 
@@ -108,14 +108,14 @@ El Calendario es la **fuente lúdica primaria** de para consolidar la cronologí
 | Grabaciones | Registro asertórico directo | mayor antigüedad |
 | Mitologizaciones posteriores | Palimpsesto válido SI declara | mayor antigüedad |
 
-A diferencia de un documento meta, el Calendario está escrito **desde dentro del juego** — Amitlai (compañero) narra los eventos cósmicos en primera persona, lo que lo hace "fuente lúdica" y no mera consolidación interpretativa.
+A diferencia de un documento meta, el Calendario está escrito **desde dentro del juego** — [[Amitlai]] (compañero) narra los eventos cósmicos en primera persona, lo que lo hace "fuente lúdica" y no mera consolidación interpretativa.
 
 ## Sucesión en la escritura
 
 El Calendario es **trabajo de cronistas**, herencia entre compañeros:
 
-1. **[[Amitlai]]** — cronista original. Período de escritura coincide con la cronología que cubre (Reinos Olvidados → Antiterra). Frase recurrente: *"Cronología desde el punto de vista de Amitlai"*.
-2. **[[Clarisa]]** — heredera, asume la escritura tras la muerte/sucesión de Amitlai. *"Heredera del oficio de su padre [[Arcoms_Cosmar|Arcoms Cosmar]]: así como Arcoms fue Maestro Bibliotecario en el concilio de Myth Drannor, Clarisa toma la posta como bibliotecaria y asume la escritura del Calendario, continuando la labor narrativa de Amitlai"* (ver [[Clarisa]]).
+1. **[[Amitlai]]** — cronista original. Período de escritura coincide con la cronología que cubre (Reinos Olvidados → [[Antiterra]]). Frase recurrente: *"Cronología desde el punto de vista de Amitlai"*.
+2. **[[Clarisa]]** — heredera, asume la escritura tras la muerte/sucesión de Amitlai. *"Heredera del oficio de su padre [[Arcoms_Cosmar|Arcoms Cosmar]]: así como [[Arcoms_Cosmar|Arcoms]] fue Maestro Bibliotecario en el concilio de [[Myth_Drannor]], [[Clarisa]] toma la posta como bibliotecaria y asume la escritura del Calendario, continuando la labor narrativa de Amitlai"* (ver [[Clarisa]]).
 
 Ambos compañeros jugados por **figura del archivo** — ver figura del archivo para la conexión asertórica.
 
@@ -129,7 +129,7 @@ Eventos cosmogónicos canónicos extraídos del Calendario merged:
 
 ### Juicio Final — 1375 DR
 
-> *"1375 DR Juicio Final. [[Minaya_MC|Minaya]] (27 años) y [[Soluna|Soluna]] vencen a Takhishis utilizando la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]]. Los dioses vuelven atrás en el tiempo hasta el 1348 DR."* (par 200)
+> *"1375 DR [[Juicio_Final]]. [[Minaya_MC|Minaya]] (27 años) y [[Soluna|Soluna]] vencen a Takhishis utilizando la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]]. Los dioses vuelven atrás en el tiempo hasta el 1348 DR."* (par 200)
 
 ### Danza del Conocimiento — 1368 DR
 
@@ -141,11 +141,11 @@ Eventos cosmogónicos canónicos extraídos del Calendario merged:
 
 ### Coyote llega a los Reinos Olvidados — 1348 DR
 
-> *"1348 DR Coyote llega a los Reinos Olvidados. Conoce a Tii y a Zara, la drow. Ella y Coyote engendran a Minaya. Arribo de Coyote, agente de Tiamat, a una posada de Mirabar... "* (par 121)
+> *"1348 DR [[Coyote]] llega a los Reinos Olvidados. Conoce a Tii y a Zara, la drow. Ella y [[Coyote]] engendran a Minaya. Arribo de Coyote, agente de Tiamat, a una posada de Mirabar... "* (par 121)
 
 ### Nacimiento de Elisteo — 1349 DR
 
-> *"1349 DR Nace Elisteo, hijo de Clarissa (II) y [[Minaya_MC|Minaya]], en el Primario conocido como Andgara o La Tierra. Ella no lo nombra. Su nombre lo recibe de sus padres adoptivos."* (par 281)
+> *"1349 DR Nace [[Elisteo]], hijo de [[Clarisa|Clarissa]] (II) y [[Minaya_MC|Minaya]], en el Primario conocido como Andgara o La Tierra. Ella no lo nombra. Su nombre lo recibe de sus padres adoptivos."* (par 281)
 
 (Más en el Calendario merged.doc — pendiente mineria sistemática para extracción de todos los eventos.)
 
@@ -162,7 +162,7 @@ Eventos cosmogónicos canónicos extraídos del Calendario merged:
 
 - [[Amitlai]] (cronista original)
 - [[Clarisa]] (heredera de la escritura)
-- figura del archivo (jugadora de ambos)
+- una misma mano detrás de ambos
 - MC Línea Temporal (consolidación derivada — pendiente sincronización)
 - [[Gema_de_la_Creacion|Gema de la Creación]] (artefacto cuyo recorrido el Calendario documenta)
 - [[Magia_dual|Magia Dual]] (concepto cosmológico inicial)

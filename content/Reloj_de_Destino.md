@@ -8,13 +8,13 @@ aliases:
 
 ## Presentación
 
-**[[Propietario]]:** [[Reynaud|Reynaud]] (presumiblemente aún en posesión cuando capturado)
+**[[Propietario]]:** [[Michel|Michel]] (presumiblemente aún en posesión cuando capturado)
 **Poderes:**
  - **detención del tiempo:** Detiene tiempo de manera local. Uso 1x/month
  - **True Resurrection:** Resurrección verdadera. Pendiente activación. Uso 1x/month
  - **Wielder:** Cambio portador. Uso 1x/month
 
-**Mecánica limitación:** Portador nuevo requiere precaución. "Use Magic Device" puede sortear restricciones (como hizo [[Reynaud|Reynaud]] antes).
+**Mecánica limitación:** Portador nuevo requiere precaución. "Use Magic Device" puede sortear restricciones (como hizo [[Michel|Michel]] antes).
 
 **Riesgo:** Doble portador activa contingencias desconocidas. "Hay un True Resurrection pendiente sobre vosotros" sugiere deuda cósmica.
 

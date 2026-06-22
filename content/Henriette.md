@@ -18,4 +18,4 @@ Miembro de las [[Palomas_de_Hierro|Palomas de Hierro]]. Amiga de [[Claude_Nauge|
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] sesión posterior: contacto de [[Claude_Nauge|Claude Nauge]] en [[Palomas_de_Hierro|Palomas de Hierro]], receptora de sandalias rojas de [[Moni_Vivescu|Mony]] (confiscadas para [[FORJA]]), financiamiento de alimentación de niños abandonados.
+[[Paris_Ucronica|París Ucrónica]] jornada posterior: contacto de [[Claude_Nauge|Claude Nauge]] en [[Palomas_de_Hierro|Palomas de Hierro]], receptora de sandalias rojas de [[Moni_Vivescu|Mony]] (confiscadas para [[FORJA]]), financiamiento de alimentación de niños abandonados.

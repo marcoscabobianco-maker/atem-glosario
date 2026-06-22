@@ -10,21 +10,22 @@ tags:
 ---
 # Scilla
 
-> *compañero No es Scya, el monstruo femenino de Galia Narbonensis.*
+> *Compañero del cosmos. No es Scya, el monstruo femenino de [[Galia_Narbonensis]].*
 
 ## Presentación
 
-**Scilla** es **un Personaje del archivo ** —el mismo jugador de [[Elias|Elías Magíster]], [[Helter]], Lirio (TE), Krisina (Libertateurs) y otros—. lo señaló específicamente como uno de los compañeros de Guido al pedir la distinción frente al monstruo Scya: *"Scilla, el Personaje de Guido"* (2026-05-20).
+**Scilla** es **un compañero del archivo** —la misma mano que encarnó a [[Elias|Elías Magíster]], [[Helter]], Lirio (TE), [[Krisina]] ([[Libertateurs]]) y otros—. El archivo lo distingue específicamente frente al monstruo Scya: son entidades separadas.
 
-El nombre comparte cuasi-grafía con **[[Scya]]** —el monstruo femenino de la Galia Narbonensis derrotado por los Reguladores—. **No son la misma entidad**: Scilla es compañero; Scya es figura criatura.
+El nombre comparte cuasi-grafía con **[[Scya]]** —el monstruo femenino de la [[Galia_Narbonensis]] derrotado por los Reguladores—. **No son la misma entidad**: Scilla es compañero; Scya es figura criatura.
+
+Tampoco debe confundirse con **[[Scylla|Sila / Scylla]]** —el Monje de las Sombras de [[La_Jabalina]] (ciclo de [[Caldero]], 1824 AE)—: tercera entidad de grafía vecina, de otro grupo y otra época. El archivo conserva las tres separadas.
 
 ## Vínculos
 
-- figura del archivo — su jugador
-- [[Elias]], [[Helter]] — otros compañeros del mismo jugador
-- **Lirio**, **Krisina** — otros compañeros del jugador (sin entrada propia confirmada)
+- [[Elias]], [[Helter]] — otros compañeros de la misma mano
+- **Lirio**, **[[Krisina]]** — otros compañeros de la misma mano (sin entrada propia confirmada)
 - [[Scya]] — el monstruo distinto (no confundir)
 
 ## Apariciones
 
-- el cosmos compartido — compañero del cuadro de figura del archivo (campañas y arcos específicos pendientes)
+- el cosmos compartido — compañero del cuadro (ciclos y arcos específicos pendientes)

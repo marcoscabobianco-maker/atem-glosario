@@ -29,15 +29,15 @@ imagen: null
 
 **Torre única**, **piedra obsidiana brillante** cortada en placas grandes que el reflejo del sol vuelve espejo oscuro a determinadas horas. **Cinco niveles** *(planta baja, tres pisos residenciales, mirador superior)*, **escalera helicoidal interna**, **jardín cerrado en el perímetro** con plantas de hojas oscuras *que el jardinero cambia cada estación*.
 
-*La piedra de obsidiana no es local de Caldero*: **fue importada**, *posiblemente desde Ciudad Estrella o desde alguno de los gremios industrial-mágicos asociados*. **La obra es de fase industrial-mágica intermedia** —*ni primigenia ni reciente del ciclo presente*—, **con detalles arquitectónicos** *que el archivo decadiano provincial no termina de catalogar*: **filigranas en hierro forjado, vitrales menores con diagramas alquímicos discretos, sótano blindado**.
+*La piedra de obsidiana no es local de [[Caldero]]*: **fue importada**, *posiblemente desde [[Ciudad_Estrella]] o desde alguno de los gremios industrial-mágicos asociados*. **La obra es de fase industrial-mágica intermedia** —*ni primigenia ni reciente del ciclo presente*—, **con detalles arquitectónicos** *que el archivo decadiano provincial no termina de catalogar*: **filigranas en hierro forjado, vitrales menores con diagramas alquímicos discretos, sótano blindado**.
 
 ---
 
 ## El dron hechicero *(voz Mascor Blancarba)*
 
-**El perímetro de la torre lo vigila un dron hechicero**. *Constructo aéreo de tamaño menor*, **opera con sortilegio de detección continua**. **Ayrton Auslander intentó infiltrarse** durante el ciclo presente —*el ladrón del grupo La Jabalina, de los mejores en Caldero en oficio de penetración nocturna*— **y el dron lo descubrió a tiempo**. *Ayrton tuvo que retirarse*, **sin tomar nada, sin dejar rastro mayor**, **con la lección clara**: **a Valanthru no se entra por arriba ni por afuera**.
+**El perímetro de la torre lo vigila un dron hechicero**. *Constructo aéreo de tamaño menor*, **opera con sortilegio de detección continua**. **[[Ayrton_Auslander]] intentó infiltrarse** durante el ciclo presente —*el ladrón del grupo [[La_Jabalina]], de los mejores en [[Caldero]] en oficio de penetración nocturna*— **y el dron lo descubrió a tiempo**. *[[Ayrton_Auslander|Ayrton]] tuvo que retirarse*, **sin tomar nada, sin dejar rastro mayor**, **con la lección clara**: **a [[Lord_Valanthru|Valanthru]] no se entra por arriba ni por afuera**.
 
-*El dron* **no es tecnología local de Caldero**: **proviene del cruce industrial-mágico** que vincula a **[[Lord_Valanthru]] con [[Miles_Corp]]** y otros gremios de Ciudad Estrella. *Si lo que opera dentro de la torre es del nivel del dron que opera afuera*, **el interior es geografía técnicamente impenetrable** *para el grupo en su estado actual*.
+*El dron* **no es tecnología local de Caldero**: **proviene del cruce industrial-mágico** que vincula a **[[Lord_Valanthru]] con [[Miles_Corp]]** y otros gremios de [[Ciudad_Estrella]]. *Si lo que opera dentro de la torre es del nivel del dron que opera afuera*, **el interior es geografía técnicamente impenetrable** *para el grupo en su estado actual*.
 
 ---
 
@@ -46,7 +46,7 @@ imagen: null
 *El archivo conserva descripciones parciales* —*reconstruidas a partir de relatos de sirvientes, de comerciantes que entregaron suministros, de visitantes nobles que cumplieron protocolo formal*—:
 
 - **Planta baja**: vestíbulo de recepción con piso de mármol negro, escalera al primer piso, puerta sellada al sótano.
-- **Primer piso**: salón formal *(donde Valanthru recibe visitas oficiales)*, biblioteca menor.
+- **Primer piso**: salón formal *(donde [[Lord_Valanthru|Valanthru]] recibe visitas oficiales)*, biblioteca menor.
 - **Segundo piso**: habitaciones privadas del señor, oficina cerrada con llave doble, *aposento del niño adoptado*.
 - **Tercer piso**: aposentos de servicio, taller arcano *(sospechado; no confirmado)*, sala con vitrina de objetos ceremoniales.
 - **Mirador superior**: balcón circular con vista al cráter de Caldero, observatorio de plataformas zodiacales nocturnas.
@@ -55,9 +55,9 @@ imagen: null
 
 ## El niño adoptado
 
-**En el segundo piso** —*aposento privado contiguo a la oficina del señor*— **reside el niño que [[Lord_Valanthru]] adoptó tras el rescate del [[Bazar_de_la_Vida]]**. *El nombre del niño no se ha preservado en el archivo*. **Mascor Blancarba lo refiere simplemente como "el niño elegido adoptado"**, *o como* **"el huérfano de Valanthru"**.
+**En el segundo piso** —*aposento privado contiguo a la oficina del señor*— **reside el niño que [[Lord_Valanthru]] adoptó tras el rescate del [[Bazar_de_la_Vida]]**. *El nombre del niño no se ha preservado en el archivo*. **[[Mascor_Blancarba]] lo refiere simplemente como "el niño elegido adoptado"**, *o como* **"el huérfano de Valanthru"**.
 
-[*La Jabalina sospecha que el niño está vivo y consciente, pero confinado. Las visitas externas no se permiten. Las pocas veces que se lo ha visto desde la plaza —asomado al balcón del segundo piso por unos segundos— el niño no llama, no saluda, no protesta. Está. Eso, en una torre como esta, ya dice demasiado. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*[[La_Jabalina]] sospecha que el niño está vivo y consciente, pero confinado. Las visitas externas no se permiten. Las pocas veces que se lo ha visto desde la plaza —asomado al balcón del segundo piso por unos segundos— el niño no llama, no saluda, no protesta. Está. Eso, en una torre como esta, ya dice demasiado. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
@@ -92,7 +92,7 @@ imagen: null
 
 - **Construcción en fase industrial-mágica intermedia** — importación de obsidiana, perímetro con dron hechicero
 - **Establecimiento de Valanthru como habitante** — consolidación de la red noble corrupta
-- **Adopción del niño elegido** — tras el rescate del Bazar de la Vida
+- **Adopción del niño elegido** — tras el rescate del [[Bazar_de_la_Vida]]
 - **Infiltración fallida de Ayrton** — descubierto por dron hechicero
 - **1824 AE — ciclo presente** — torre activa, niño confinado, operación clandestina sostenida
 - **Próximo ciclo (anticipado)** — penetración prevista por La Jabalina, posible activación ritual del observatorio

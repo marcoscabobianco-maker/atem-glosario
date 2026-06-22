@@ -1,52 +1,20 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, lugar, kanka-5151801]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Francia_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Francia"]
 ---
 
-# ATEM::SaintGermain::MMF::Francia
+# Francia
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Francia_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Francia. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+El reino de Francia en 1648 es un cuerpo político en tensión: la minoría de edad de Luis XIV deja el gobierno efectivo en manos del [[Cardenal_Mazarino]], ministro de origen italiano que concentra el poder y la animadversión de buena parte de la nobleza y el Parlamento. La Fronda —la revuelta que estalla ese año comenzando por los magistrados parlamentarios— recorre el reino de norte a sur, convirtiendo cada provincia, cada ciudad y cada feudo en un tablero donde se dirimen lealtades.
 
-![[ATEM__SaintGermain__MMF__Francia_retrato.png]]
+París es la capital y el centro del conflicto; pero Francia se extiende también hacia el sur en provincias como Provenza, en condados como Foix, en feudos señoriales donde el poder del rey llega amortiguado y el poder de Mazarino se vive como usurpación. [[Barrado_Balacan|El territorio]] que atraviesan los sucesos de la campaña de Saint-Germain es, en todos sus planos, el cuerpo de este reino convulsionado.
 
+La corona, la iglesia, el Parlamento, la nobleza de espada y la plebe de las ciudades negocian su posición en el interior de este espacio compartido. Sobre ese fondo se recortan las acciones de figuras como [[Omer_Talon]], el Duque de Beaufort y la familia Felón.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5151801
-**kanka_url:** https://app.kanka.io/w/216093/entities/5151801
-**kanka_kind:** location
-**kanka_type:** (vacío)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 124
-- **Sesiones donde aparece** (9/9):
-  - S1 — 15 hits
-  - S2 — 9 hits
-  - S3 — 6 hits
-  - S4 — 10 hits
-  - S5 — 36 hits
-  - S6 — 12 hits
-  - S7 — 5 hits
-  - S8 — 25 hits
-  - S9 — 6 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Paris]] — capital del reino; escenario principal de la Fronda
+- [[Provence]] — provincia meridional, territorio del reino
+- [[Foix]] — condado pirenaico bajo soberanía francesa
+- [[Cardenal_Mazarino]] — primer ministro de facto, eje político de la Francia de 1648
+- [[Paris_Ucronica]] — resonancia ucrónica del mismo espacio geográfico

@@ -24,11 +24,11 @@ tags:
 ---
 # El Huevo de Ritornello
 
-> *Artefacto rudishva de destrucción masiva extraído del módulo de armas. Arrasó Ritornello hace 15 años en "lo de las cenizas". Los Buscadores tienen responsabilidad parcial por haberlo entregado.*
+> *Artefacto rudishva de destrucción masiva extraído del módulo de armas. Arrasó [[Ritornello]] hace 15 años en "lo de las cenizas". [[Buscadores_de_Ardis_Vala|Los Buscadores]] tienen responsabilidad parcial por haberlo entregado.*
 
 ## Presentación
 
-**El Huevo de Ritornello** —también llamado **El Huevo Bomba**, **El Huevo Rudishva**, o simplemente **"el huevo"**— es un **artefacto rudishva de destrucción masiva** extraído del **módulo de armas** custodiado por **[[RAJ-750]]** en el **Lock Cavern** (L6-27) del [[Mega_Dungeon_Arden_Vul]].
+**El Huevo de [[Ritornello]]** —también llamado **El Huevo Bomba**, **El Huevo Rudishva**, o simplemente **"el huevo"**— es un **artefacto rudishva de destrucción masiva** extraído del **módulo de armas** custodiado por **[[RAJ-750]]** en el **Lock Cavern** del [[Mega_Dungeon_Arden_Vul]].
 
 Es **el dispositivo que destruyó la ciudad de [[Ritornello]] hace 15 años** —el evento conocido como ***"lo de las cenizas"***—.
 
@@ -46,30 +46,30 @@ Es **el dispositivo que destruyó la ciudad de [[Ritornello]] hace 15 años** �
 
 #### En el dungeon (pre-corrida original)
 
-- **Custodia original**: módulo de armas rudishva, **L6-27 Lock Cavern**, bajo [[RAJ-750]] (IA insana)
-- **Posible posesión secundaria**: **[[Psalor_Ki]]** (L5-74) **lo guardó en algún momento** —*"hizo un lazo con una Marguerite y en un momento incluso guardó el huevo"*— posible **manipulación experimental rudishva**
+- **Custodia original**: módulo de armas rudishva, **Troll Lifts Lock Cavern**, bajo [[RAJ-750]] (IA insana)
+- **Posible posesión secundaria**: **[[Psalor_Ki]]** **lo guardó en algún momento** —*"hizo un lazo con una Marguerite y en un momento incluso guardó el huevo"*— posible **manipulación experimental rudishva**
 
 #### Negociación con los Buscadores (corrida original)
 
-- **Los Buscadores accedieron al huevo** en algún punto entre esta sesión y posteriores(archivos faltantes para detalle)
-- **Lo entregaron a los [[Varumani]]** —*"como parte de alianzas estratégicas, para tener un banque en la guerra contra los Caballeros de la Cicatriz del Sol"*—
-- **Los Varumani lo custodiaron** —pero no lo detonaron por su voluntad—
+- **[[Buscadores_de_Ardis_Vala|Los Buscadores]] accedieron al huevo** en algún punto entre esta jornada y posteriores(archivos faltantes para detalle)
+- **Lo entregaron a los [[Varumani]]** —*"como parte de alianzas estratégicas, para tener un banque en la guerra contra los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]"*—
+- **Los [[Varumani]] lo custodiaron** —pero no lo detonaron por su voluntad—
 
-#### Detonación sobre Ritornello (Reveal 2026-05-20 )
+#### Detonación sobre Ritornello (revelación del archivo)
 
-**Quien lo detonó**: **[[Kerbog_Khan]]** —el inventor de autómatas que opera desde SL12—. Mecánica confirmada:
+**Quien lo detonó**: **[[Kerbog_Khan]]** —el inventor de autómatas que opera desde Workshops de Kerbog Khan—. Mecánica confirmada:
 
-- **Kerbog Khan envió una libélula voladora** —**dragonfly automaton** armado de su línea— **a buscar el huevo en posesión Varumani**
+- **[[Kerbog_Khan]] envió una libélula voladora** —**dragonfly automaton** armado de su línea— **a buscar el huevo en posesión [[Varumani]]**
 - **La libélula portó / activó el huevo** sobre Ritornello
-- **Kerbog Khan operó desde la sombra** porque **no quería ser buscado**:
- - Por el **[[Archontean|Imperio Arconteano]]**
+- **[[Kerbog_Khan]] operó desde la sombra** porque **no quería ser buscado**:
+ - Por el **[[Archontean|Imperio Archontean]]**
  - Por las **distintas escuelas de magia** ([[Sortianos]] / [[Priscians]] / [[Teosofos|Teósofos]])
 
 ### Castigo cósmico a los Varumani
 
 Los **Varumani** —que **tenían el huevo y participaron de la violencia**— **fueron destruidos como castigo** ante la **violación masiva contra la humanidad**. El [[Vencimiento_Varumani|Vencimiento de los Varumani]] **es consecuencia ética/cósmica** del evento, no derrota militar simple.
 
-**Kerbog Khan, operador detrás, sobrevivió** —pero sufrió la **[[Cristalizacion_Maquinas|cristalización de las máquinas]]** posterior, dañando su tecnología y forzándolo al refugio en [[Novatos_Ravenloft_ACKS|Ravenloft]] como "el Elfo Troll".
+**Kerbog Khan, operador detrás, sobrevivió** —pero sufrió la **[[Cristalizacion_Maquinas|cristalización de las máquinas]]** posterior, dañando su tecnología y forzándolo al refugio en [[Novatos_Ravenloft|Ravenloft]] como "el Elfo Troll".
 
 ### Conexión con la cosmología
 
@@ -86,18 +86,18 @@ Los **Varumani** —que **tenían el huevo y participaron de la violencia**— *
 
 ** documenta**: los Buscadores tienen **responsabilidad parcial directa**. Habiendo entregado el huevo a la facción que lo detonó, **no son inocentes**. **Esto es ancla narrativa**:
 
-- **Caladan**, **Bayrum**, **Alumine**, **Sixto**, **Valerius/Roderick**, **Melvino Calvino**, **El Druida Rodrigo** — todos cargan el peso de Ritornello
-- **Decio Balmora** (el regreso tras el Hiato) — perdió a [[Bellaca|Lali]] presumiblemente en Ritornello. **Su llegada al grupo es confrontación moral implícita**.
+- **[[Caladan]]**, **Bayrum**, **Alumine**, **Sixto**, **Valerius/[[Valerius_Utrecht|Roderick]]**, **[[Melvino_Calvino]]**, **[[El_Druida_Rodrigo]]** — todos cargan el peso de Ritornello
+- **[[Decio_Balmora]]** (el regreso tras el Hiato) — perdió a [[Bellaca|Lali]] presumiblemente en Ritornello. **Su llegada al grupo es confrontación moral implícita**.
 
 ### Estado actual
 
 - **El huevo se consumió** en Ritornello —**dispositivo único**
-- **Pero el módulo de armas tiene otros** —**RAJ-750 puede dispensar más huevos** si:
- - **El darklord (Papa Alejandro Sixto)** lo solicita
+- **Pero el módulo de armas tiene otros** —**[[RAJ-750]] puede dispensar más huevos** si:
+ - **El darklord ([[Papa_Alejandro_Sixto]])** lo solicita
  - **Algún PC manipula los códigos rudishva** correctamente
- - **AKL-600** sirve como puente
+ - **[[Akala|AKL-600]]** sirve como puente
 
-**Si los heqeti acceden al módulo de armas vía Buscadores manipulados**, pueden **detonar Arden Vul completo** o invocar a Kauket con consecuencias catastróficas.
+**Si los heqeti acceden al módulo de armas vía Buscadores manipulados**, pueden **detonar [[Ardis_Vala|Arden Vul]] completo** o invocar a Kauket con consecuencias catastróficas.
 
 ## Vínculos
 
@@ -117,6 +117,6 @@ Los **Varumani** —que **tenían el huevo y participaron de la violencia**— *
 ## Apariciones
 
 - **Pre-corrida**: custodia rudishva
-- **Corrida original** (esta sesión y posterioresestimado): negociación y entrega por los Buscadores
+- **Corrida original** (esta jornada y posterioresestimado): negociación y entrega por los Buscadores
 - **Hace 15 años (hiato)**: detonación sobre Ritornello
 - **el regreso tras el Hiato**: presencia como trasfondo cargado

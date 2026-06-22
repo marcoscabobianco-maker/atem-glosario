@@ -15,10 +15,10 @@ aliases:
 
 ## Presentación
 
-Entidades constructoras/reguladoras de leyes cósmicas en [[Antiterra_Demonia|Antiterra]]. Seres de "plano legal" (no-vivos, mecánicos o constructo) cuya función es mantener el orden universal mediante ejecución de mandatos/misiones previamente programadas. Operan desde la "Fuente Inevitable," dimensión paralela donde se almacenan y reasignan. Los Inevitables prusianos/germánicos parecen ser aliados o agentes de imperios austro-alemanes.
+Entidades constructoras/reguladoras de leyes cósmicas en [[Antiterra_Demonia|Antiterra]]. Seres de "plano legal" (no-vivos, mecánicos o constructo) cuya función es mantener el orden universal mediante ejecución de mandatos/misiones previamente programadas. Operan desde la "Fuente [[Inevitable]]," dimensión paralela donde se almacenan y reasignan. Los Inevitables prusianos/germánicos parecen ser aliados o agentes de imperios austro-alemanes.
 
 **Características:**
-- Casi inmortales: si mueren en plano físico, regresan a Fuente Inevitable (reabsorción automática).
+- Casi inmortales: si mueren en plano físico, regresan a Fuente [[Inevitable]] (reabsorción automática).
 - Cuerpos físicos: pueden ser cibernéticos, maquinales, o (como [[Draga_Machine|Draga Machine]]) parecer humanoides pero contener componentes mecánicos.
 - Misiones inalterables: programados para cumplir objetivos específicos. Desviación de misión es transgresión cósmica.
 - [[Marshall_Inevitable|Marshall Inevitable]]: entidad de rango superior que ejecuta reabsorción de Inevitable "desviado."
@@ -28,7 +28,7 @@ Entidades constructoras/reguladoras de leyes cósmicas en [[Antiterra_Demonia|An
 - [[Draga_Machine|Draga Machine]] es Inevitable "desviada": enviada para matar [[Apis]], pero se enamoró de Aleksandar y abdicó su misión.
 - Con muerte de [[Apis]], [[Draga_Machine|Draga]] cumple misión "involuntariamente" y es convocada para reabsorción.
 - [[Marshall_Inevitable|Marshall Inevitable]] aparece en Gate dimensional; [[Swan]] intenta salvar a [[Draga_Machine|Draga]] pero fracasa (Inevitable no es susceptible a resurrección estándar).
-- Consecuencia: desaparición de [[Swan]] en portal junto a [[Draga_Machine|Draga]], separación de [[Time_Bandits|Time Bandits]].
+- [[Consecuencia]]: desaparición de [[Swan]] en portal junto a [[Draga_Machine|Draga]], separación de [[Time_Bandits|Time Bandits]].
 
 **Cosmología conexa:**
 - Los Inevitables sugieren existencia de "mecanismo cósmico" que regula universo-multiverso.
@@ -37,7 +37,7 @@ Entidades constructoras/reguladoras de leyes cósmicas en [[Antiterra_Demonia|An
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] sesión posterior: contrato en tren a [[Belgrado_Ucronica|Belgrado]], confesión de [[Draga_Machine|Draga]] en corte, aparición de Marshall durante muerte de [[Apis]], desaparición de [[Swan]]. el archivo: referencia a "Fuente Inevitable," ausencia de [[Swan]].
+[[Paris_Ucronica|París Ucrónica]] jornada posterior: contrato en tren a [[Belgrado_Ucronica|Belgrado]], confesión de [[Draga_Machine|Draga]] en corte, aparición de Marshall durante muerte de [[Apis]], desaparición de [[Swan]]. el archivo: referencia a "Fuente Inevitable," ausencia de [[Swan]].
 
 ## Notas
 

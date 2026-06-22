@@ -1,20 +1,16 @@
 ---
+título: "Amonio Sacas (stub MC) — redirect"
+slug: Amonio_Sacas_stub_MC
+estado: redirect
+target: "[[Amonio_Sacas]]"
 aliases:
  - "Amonio Sacas stub"
  - "Amonio_Sacas_stub_MC"
-en_construccion: true
+tags:
+ - redirect
+ - alias-retrocompatible
 ---
 
-# Amonio Sacas Stub MC
+# Amonio Sacas (stub MC)
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
-
-## Referencias entrantes
-
-Esta entrada es mencionada desde:
-
-- [[Plotino]]
-
----
-
-*Si llegaste aquí buscando información sobre **Amonio Sacas Stub MC**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+→ Consolidado en **[[Amonio_Sacas]]**. *Placeholder en construcción promovido a ficha plena.*

@@ -20,13 +20,13 @@ imagen: null
 
 # Rulfo
 
-> *"En un oscuro callejón que conecta con la Avenida del Magma, encontraron a Rulfo, el guardián, siendo brutalmente golpeado por un grupo conocido como la Compañía de la Risa."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"En un oscuro callejón que conecta con la Avenida del Magma, encontraron a Rulfo, el guardián, siendo brutalmente golpeado por un grupo conocido como la Compañía de la Risa."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
 ## El guardián
 
-**Rulfo** es **guardián del Orfanato de la Calle de la Linterna** en Caldero. *Su oficio cotidiano*: **proteger a los huérfanos**, **mantener el espacio físico del orfanato**, **coordinar con la anciana halfling [[Gretchyn_Tashykk]]** *que opera la administración interior*. *Hombre común* —*no aventurero, no clérigo, no figura noble*— **que cumple oficio con disciplina simple**.
+**Rulfo** es **guardián del [[Orfanato_de_la_Calle_de_la_Linterna]]** en [[Caldero]]. *Su oficio cotidiano*: **proteger a los huérfanos**, **mantener el espacio físico del orfanato**, **coordinar con la anciana halfling [[Gretchyn_Tashykk]]** *que opera la administración interior*. *Hombre común* —*no aventurero, no clérigo, no figura noble*— **que cumple oficio con disciplina simple**.
 
 **Cuando los huérfanos de la Calle de la Linterna empezaron a desaparecer** —*víctimas de la red de trata operada por [[Keygan_Ghelve]] y [[Kazmojen]]*—, **Rulfo investigó por su cuenta**. *Sin medios mayores*; *sin formación militar*; *con la sola disciplina del guardián que reconoce su responsabilidad*.
 
@@ -34,19 +34,19 @@ imagen: null
 
 ## El ataque en el callejón
 
-**La Compañía de la Risa lo interceptó** en un **oscuro callejón que conecta con la Avenida del Magma**. **Los sicarios con caras pintadas mitad blanca mitad negra lo torturaban sin piedad** *cuando La Jabalina pasó cerca*. *El relato del compilado*:
+**[[Compania_de_la_Risa|La Compañía de la Risa]] lo interceptó** en un **oscuro callejón que conecta con la Avenida del Magma**. **Los sicarios con caras pintadas mitad blanca mitad negra lo torturaban sin piedad** *cuando [[La_Jabalina]] pasó cerca*. *El relato del compilado*:
 
-**Fue entonces cuando Ayrton Auslander, el ladrón del grupo, de rostro famélico y mirada despiadada, se acercó al último rufián en pie tras el hechizo de sueño lanzado por el mago del grupo, y le susurró "a casa"**. **El hombre, aterrado por el tono de Ayrton, huyó rápidamente**, *dejando a Rulfo herido y maltratado en el suelo*. *Los aventureros no dudaron en acudir en su ayuda*.
+**Fue entonces cuando [[Ayrton_Auslander]], el ladrón del grupo, de rostro famélico y mirada despiadada, se acercó al último rufián en pie tras el hechizo de sueño lanzado por el mago del grupo, y le susurró "a casa"**. **El hombre, aterrado por el tono de [[Ayrton_Auslander|Ayrton]], huyó rápidamente**, *dejando a Rulfo herido y maltratado en el suelo*. *Los aventureros no dudaron en acudir en su ayuda*.
 
-**Cargando a Rulfo**, *los aventureros llegaron al imponente edificio del orfanato*. **Lukas y Foggimer cargaron**; *Foggimer aplicó conjuro de sanación menor en el camino*.
+**Cargando a Rulfo**, *los aventureros llegaron al imponente edificio del orfanato*. **Lukas y [[Fogimer|Foggimer]] cargaron**; *[[Fogimer|Foggimer]] aplicó conjuro de sanación menor en el camino*.
 
 ---
 
 ## La operación post-rescate
 
-*Tras la sanación inicial*, **Rulfo sobrevivió**. *Permaneció en el orfanato*, *recuperándose*, *mientras La Jabalina continuaba la operación de rescate de los niños desaparecidos*. **Su misión inicial** —*"investigar la causa de las desapariciones de dos varones y dos niñas"*— **quedó cumplida por el grupo** *en su lugar*.
+*Tras la sanación inicial*, **Rulfo sobrevivió**. *Permaneció en el orfanato*, *recuperándose*, *mientras [[La_Jabalina]] continuaba la operación de rescate de los niños desaparecidos*. **Su misión inicial** —*"investigar la causa de las desapariciones de dos varones y dos niñas"*— **quedó cumplida por el grupo** *en su lugar*.
 
-**El vínculo de Rulfo con La Jabalina** *se sostiene en el ciclo presente*: **opera como informante operativo del grupo** *sobre el orfanato y sobre los niños rescatados*; **coordina con Gretchyn la atención de los huérfanos**; **apoya la ONG que Teo fundó** *desde su recuperación*.
+**El vínculo de Rulfo con La Jabalina** *se sostiene en el ciclo presente*: **opera como informante operativo del grupo** *sobre el orfanato y sobre los niños rescatados*; **coordina con [[Gretchyn_Tashykk|Gretchyn]] la atención de los huérfanos**; **apoya la ONG que Teo fundó** *desde su recuperación*.
 
 ---
 
@@ -60,7 +60,7 @@ imagen: null
 
 ## Vínculos
 
-- **Orfanato de la Calle de la Linterna** — institución que guarda
+- **[[Orfanato_de_la_Calle_de_la_Linterna]]** — institución que guarda
 - [[Gretchyn_Tashykk]] — encargada coadministradora del orfanato
 - [[Jaromir]] — niño huérfano bajo su cuidado
 - [[Compania_de_la_Risa]] — atacantes en el callejón

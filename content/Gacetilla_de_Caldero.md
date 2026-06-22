@@ -22,13 +22,13 @@ imagen: null
 ---
 # Gacetilla de Caldero
 
-> *"Mi nombre es Mascor Blancarba, y hace más de un año dejé mi hogar en la Ciudad Estrella... comencé a crear gacetas sobre los principales implicados en los dolores de parto de una nueva sociedad."* — [[Mascor_Blancarba]], introducción autobiográfica al compilado.
+> *"Mi nombre es [[Mascor_Blancarba]], y hace más de un año dejé mi hogar en la [[Ciudad_Estrella]]... comencé a crear gacetas sobre los principales implicados en los dolores de parto de una nueva sociedad."* — [[Mascor_Blancarba]], introducción autobiográfica al compilado.
 
 ---
 
 ## El compilado
 
-**La Gacetilla de Caldero** es **compilado del bardo itinerante [[Mascor_Blancarba]]**, *finalizado en diciembre de 1824 AE durante su estancia documentada en Caldero*. **Fuente primaria del archivo cosmológico** sobre el ciclo presente de la ciudad volcánica y su contraparte hermana Ciudad Estrella.
+**La Gacetilla de Caldero** es **compilado del bardo itinerante [[Mascor_Blancarba]]**, *finalizado en diciembre de 1824 AE durante su estancia documentada en [[Caldero]]*. **Fuente primaria del archivo cosmológico** sobre el ciclo presente de la ciudad volcánica y su contraparte hermana [[Ciudad_Estrella]].
 
 *Tono general*: **periodístico-cronista con cuidado pluricultural, humor sin desprecio, voz propia sin abrumar**. El bardo opera con la doctrina explícita del **"por un bardo que no se hace cargo"** —*gesto irónico de signatura* que registra con cuidado pero no pretende exhaustividad—.
 
@@ -43,7 +43,7 @@ imagen: null
 - **Primera misión: [[Bazar_de_la_Vida]]** — descenso a la [[Fortaleza_de_Malaquita]], combate con [[Kazmojen]], liberación de los huérfanos.
 - **[[Senda_de_Drakthar]]** — descenso a [[Yathrebu]], combate con oscuros, pérdida del brazo de [[Teo_Paladin_Sin_Brazo|Teo]].
 - **[[Temporada_de_Inundaciones]]** — tercera misión mayor.
-- **Antagonistas de Caldero** — perfiles de [[Lord_Valanthru]], [[Titti_Frame]], [[Compania_de_la_Risa]], red Cageewrights.
+- **Antagonistas de [[Caldero]]** — perfiles de [[Lord_Valanthru]], [[Titti_Frame]], [[Compania_de_la_Risa]], red [[Cageewrights]].
 - **Caminos Recorridos** — operación general del grupo.
 
 ### 2. Crónica de un Visitante Curioso
@@ -100,7 +100,7 @@ imagen: null
 - **Ciudad Estrella** — copias en gremios de cronistas y bibliotecas privadas.
 - **Archivos del Plata** — copias glosadas marginalmente por [[Arkos]] el archivero.
 - **Aparato eclesial decadiano provincial** — copia oficial *(con observaciones doctrinales mínimas, tolerada por la moderación del bardo)*.
-- **Casa Azul de Vala** — copia en archivos privados *(por interés en los apéndices míticos)*.
+- **[[Casa_Azul_de_Vala]]** — copia en archivos privados *(por interés en los apéndices míticos)*.
 
 *Ninguna copia es enteramente idéntica al original*; **las glosas marginales varían**. **La operación archivística del cosmos extendido** *es de triangulación entre copias*.
 
@@ -113,7 +113,7 @@ imagen: null
 - [[Ciudad_Estrella]] — origen del bardo
 - [[La_Jabalina]] — grupo cuyas operaciones registra
 - [[Mitos_Fundacionales_de_Caldero]] — apéndice mítico
-- **Crónica de un Visitante Curioso** — sub-obra autobiográfica dentro del compilado
+- **[[Crónica_de_un_Visitante_Curioso]]** — sub-obra autobiográfica dentro del compilado
 - [[Bazar_de_la_Vida]] · [[Senda_de_Drakthar]] · [[Temporada_de_Inundaciones]] — misiones registradas
 - [[Lord_Valanthru]] · [[Titti_Frame]] · [[Compania_de_la_Risa]] · [[Cageewrights]] — antagonistas perfilados
 - [[Arkos]] — archivero del Plata que glosa marginalmente
@@ -125,5 +125,5 @@ imagen: null
 - **Más de un año previo a diciembre 1824** — el bardo deja Ciudad Estrella, inicia itinerancia
 - **Estancia documentada en Caldero (1824 AE)** — compilado redactado
 - **Diciembre 1824 AE** — Gacetilla finalizada
-- **Período posterior** — copias dispersas en Ciudad Estrella, archivos del Plata, aparato decadiano, archivos privados Casa Azul
+- **Período posterior** — copias dispersas en Ciudad Estrella, archivos del Plata, aparato decadiano, archivos privados [[Casa_Azul_de_Vala|Casa Azul]]
 - **1824 AE — ciclo presente** — fuente primaria activa del archivo cosmológico

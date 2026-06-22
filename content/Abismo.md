@@ -27,11 +27,11 @@ torturadas del lugar.
 
 ## Apariciones notables
 
-Kanka Ucrónica (location, tipo 'Infierno'). Texto describe extensión de polvo, lagos de hierro fundido, forúnculos de metal como fortalezas, tenores rojos en planicies de portales. [[Broken_Reach|Broken Reach]] como sector de acceso al reino de [[Axum]].
+Extensión de polvo, lagos de hierro fundido, forúnculos de metal como fortalezas, tenores rojos en planicies de portales. [[Broken_Reach|Broken Reach]] como sector de acceso al reino de [[Axum]].
 
 ## Notas
 
-Ver también **[[Grazzt|Graz'zt]]**, **Artefacto**, **Azzagrat**.
+Ver también **[[Grazzt|Graz'zt]]**, **Artefacto**, **[[Azzagrat]]**.
 
 ## Links externos
 

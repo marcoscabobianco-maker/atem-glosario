@@ -18,11 +18,11 @@ aliases:
 ## Presentación
 
 Primer nombre del grupo que eventualmente sería **[[Rintrah]]**. Progresión nominal:
-Señores de [[York]] → Curiales → **Mal Necesario** → **[[Rintrah]]**. Marca identidad
+Señores de [[York]] → [[Curiales]] → **[[Mal_Necesario_el|Mal Necesario]]** → **[[Rintrah]]**. Marca identidad
 originaria en contexto político de **[[York]]** y liderazgo regional.
 
 ## Ver también
 
 - [[Rintrah|Rintrah]]
-- [[Mal_Necesario|Mal Necesario]]
+- [[Mal_Necesario_el|Mal Necesario]]
 - [[York|York]]

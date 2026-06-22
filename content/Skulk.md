@@ -21,13 +21,13 @@ imagen: null
 
 # El Skulk
 
-> *"El ataque fue instantáneo. Un Skulk, invisible hasta entonces, saltó desde las sombras del piso superior, moviéndose con rapidez y letalidad hacia Scylla."* — Mascor Blancarba.
+> *"El ataque fue instantáneo. Un Skulk, invisible hasta entonces, saltó desde las sombras del piso superior, moviéndose con rapidez y letalidad hacia [[Scylla]]."* — [[Mascor_Blancarba]].
 
 ---
 
 ## El acechante
 
-**El Skulk** —*"Skulk"* en lengua del Shadowfell y en doctrina cosmológica del cosmos extendido— **es criatura del [[Shadowfell|plano del Shadowfell]]** *que opera con invisibilidad sostenida* y *letalidad concentrada en ataques breves*. **Su nombre proviene del verbo inglés** *to skulk*, **"merodear ocultamente"**: **el Skulk no caza con fuerza bruta**; **caza con paciencia y oportunidad**.
+**El Skulk** —*"Skulk"* en lengua del [[Shadowfell]] y en doctrina cosmológica del cosmos extendido— **es criatura del [[Shadowfell|plano del Shadowfell]]** *que opera con invisibilidad sostenida* y *letalidad concentrada en ataques breves*. **Su nombre proviene del verbo inglés** *to skulk*, **"merodear ocultamente"**: **el Skulk no caza con fuerza bruta**; **caza con paciencia y oportunidad**.
 
 *Estilo operativo*:
 
@@ -35,15 +35,15 @@ imagen: null
 - **Salto desde sombras altas** *(piso superior, cornisas, rincones oscuros)*.
 - **Movimiento rápido y letal** *hacia objetivo único*.
 - **Si es alcanzado**: **chillido desgarrador** *antes de desplomarse*.
-- **Post-derrota**: **cuerpo se desvanece lentamente**, *como si el Shadowfell lo reclamara de vuelta*.
+- **Post-derrota**: **cuerpo se desvanece lentamente**, *como si el [[Shadowfell]] lo reclamara de vuelta*.
 
 ---
 
 ## El ataque a Sila
 
-**Durante el descenso del subgrupo a la Fortaleza de Malaquita**: **Sila fue atacado por un Skulk** *saltado desde las sombras del piso superior de la cerrajería*. *Con reflejos entrenados*, **el monje giró justo a tiempo para desviar un golpe mortal**, **pero el Skulk era implacable**.
+**Durante el descenso del subgrupo a la [[Fortaleza_de_Malaquita]]**: **Sila fue atacado por un Skulk** *saltado desde las sombras del piso superior de la cerrajería*. *Con reflejos entrenados*, **el monje giró justo a tiempo para desviar un golpe mortal**, **pero el Skulk era implacable**.
 
-*Desde abajo, **Ayrton reaccionó con velocidad**, lanzándose con su daga hacia el enemigo*. **La hoja se hundió profundamente en el bajo vientre de la criatura**, *quien emitió un chillido desgarrador antes de desplomarse*. **Tony, que había bajado corriendo al escuchar el ruido, vio el cuerpo del Skulk desvanecerse lentamente**, *como si el Shadowfell lo reclamara de vuelta*.
+*Desde abajo, **[[Ayrton_Auslander|Ayrton]] reaccionó con velocidad**, lanzándose con su daga hacia el enemigo*. **La hoja se hundió profundamente en el bajo vientre de la criatura**, *quien emitió un chillido desgarrador antes de desplomarse*. **Tony, que había bajado corriendo al escuchar el ruido, vio el cuerpo del Skulk desvanecerse lentamente**, *como si el Shadowfell lo reclamara de vuelta*.
 
 *"No estamos solos aquí"*, **dijo Tony, ajustando su chaleco y observando el reloj**. **"Este lugar está vigilado por más que trampas mecánicas."**
 
@@ -53,7 +53,7 @@ imagen: null
 
 *Curiosidad cosmológica notable*: **Sila tiene lazo con el Shadowfell**, **el plano del que provienen los Skulks**. *El paralelismo cosmológico* **opera con doctrina específica del polo negativo intermedio**: *Sila es operador shadowfelliano que ha elegido al grupo*; *los Skulks son operadores shadowfellianos que operan plenamente bajo el polo negativo*. **Cuando un Skulk ataca a Sila**, *opera el conflicto interno del propio Sila externalizado*: **el polo del que proviene el lazo trata de reclamar al monje**.
 
-[*El Skulk que saltó sobre Sila no era casualidad. Era el Shadowfell intentando recuperar a su operador descarriado. Sila resistió con disciplina; Ayrton terminó la operación con daga. Pero la doctrina se conserva: cada vez que Sila opera contra el polo negativo, el polo negativo opera contra Sila. El equilibrio no es estable. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*El Skulk que saltó sobre Sila no era casualidad. Era el Shadowfell intentando recuperar a su operador descarriado. Sila resistió con disciplina; [[Ayrton_Auslander|Ayrton]] terminó la operación con daga. Pero la doctrina se conserva: cada vez que Sila opera contra el polo negativo, el polo negativo opera contra Sila. El equilibrio no es estable. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
@@ -81,7 +81,7 @@ imagen: null
 
 ## Apariciones
 
-- **Período de operación de Drakthar** — Skulks como agentes de incursión clandestina
-- **Primera misión de La Jabalina (Fortaleza de Malaquita)** — ataque a Sila, derrotado por Ayrton, desvanecimiento documentado
-- **Misión de la Senda de Drakthar** — posibles encuentros adicionales no documentados en detalle
+- **Período de operación de [[Drakthar]]** — Skulks como agentes de incursión clandestina
+- **Primera misión de [[La_Jabalina]] ([[Fortaleza_de_Malaquita]])** — ataque a Sila, derrotado por Ayrton, desvanecimiento documentado
+- **Misión de la [[Senda_de_Drakthar]]** — posibles encuentros adicionales no documentados en detalle
 - **1824 AE — ciclo presente** — criaturas activas en sub-estructuras shadowfellianas del subsuelo

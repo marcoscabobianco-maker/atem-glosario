@@ -39,7 +39,7 @@ imagen: Imagenes_Tier1/Joseph_Horne.png
 
 ---
 
-**De Joseph Horne quedó en archivo más amplio una referencia singular**: en uno de sus tratados de juventud, **mencionó una región mitológica llamada [[Crapulia]]** —*tierra de vicios donde los pecadores vagaban*—, citada como advertencia retórica. **Patience lo recordaría años después** cuando atravesara, sin saberlo, los márgenes infernales de los que su padre hablaba. *La culpa que el obispo sembró floreció en su hijo como vocación de redención*; **la falsa profecía que Patience asumió fue, en parte, intento de cumplir la advertencia paterna y darle motivo retroactivo**.
+**De Joseph Horne quedó en archivo más amplio una referencia singular**: en uno de sus tratados de juventud, **mencionó una región mitológica llamada [[Crapulia]]** —*tierra de vicios donde los pecadores vagaban*—, citada como advertencia retórica. **[[Anti_Inferno|Patience]] lo recordaría años después** cuando atravesara, sin saberlo, los márgenes infernales de los que su padre hablaba. *La culpa que el obispo sembró floreció en su hijo como vocación de redención*; **la falsa profecía que [[Anti_Inferno|Patience]] asumió fue, en parte, intento de cumplir la advertencia paterna y darle motivo retroactivo**.
 
 [*Hay padres que rechazan a sus hijos por error; hay padres que los rechazan por doctrina. Los primeros, a veces, vuelven. Los segundos no vuelven nunca. — Glosa coloquial atribuida al archivero del Plata.*]
 

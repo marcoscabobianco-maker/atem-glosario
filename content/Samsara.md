@@ -61,7 +61,7 @@ Samsara es autora del poema **"Los Sinsabores de Samsara"** —conservado en el 
 
 ### Rol Mamba 1
 
-En la línea del **Rol Mamba 1** —las sesiones que la mesa corrió en el **Museo de Arte Moderno de Buenos Aires**, cruce de **Mediterráneum** con la posibilidad de revisitar el infierno— **Samsara aparece nuevamente** como antigua habitante del mundo. Es uno de los rostros del Taller que la mesa volvió a ver años después, ya con su peso de embarazo dragónico y de cautiverio en el agua dorada.
+En la línea del **Rol Mamba 1** —las jornadas que el ciclo corrió en el **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]**, cruce de **Mediterráneum** con la posibilidad de revisitar el infierno— **Samsara aparece nuevamente** como antigua habitante del mundo. Es uno de los rostros del Taller que la mesa volvió a ver años después, ya con su peso de embarazo dragónico y de cautiverio en el agua dorada.
 
 ## Vínculos
 
@@ -70,12 +70,12 @@ En la línea del **Rol Mamba 1** —las sesiones que la mesa corrió en el **Mus
 - [[Equis]] — espía egipcio del grupo, su compañero de expedición
 - **Shagrath, Sigla, Archiemonde, Berian, Tsuki** — los otros del grupo
 - **Bajo Egipto / Delta del Nilo** — escenario de la montaña invertida
-- **Dragón blanco** — el padre de la semilla oscura que carga
+- **[[Sauro_Dragon|Dragón]] blanco** — el padre de la semilla oscura que carga
 - [[Grazzt|Graz'zt]] / **Neorex** — su captor
-- [[Zamora]] — agente de Graz'zt que la interrogó
+- [[Zamora]] — agente de [[Grazzt|Graz'zt]] que la interrogó
 - **Capa de la antigua amante de Neorex** — objeto encontrado en la montaña
 - [[Templo_Lugar_de_los_Justos]] — escenario donde la línea Rol Mamba 1 culmina
-- [[Arcoms_Cosmar|Marcos el Mago]] — figura conexa de Rol Mamba 1 (barco arácnido, robo del Libro Azul)
+- [[Arcoms_Cosmar|Marcos el Mago]] — figura conexa de Rol Mamba 1 (barco arácnido, robo del [[Libro_Azul]])
 - **Taller de Rol** (compilado 2007) — fuente primaria del personaje
 - *Los Sinsabores de Samsara* — su poema
 
@@ -83,6 +83,6 @@ En la línea del **Rol Mamba 1** —las sesiones que la mesa corrió en el **Mus
 
 - Babilonia, templo de Ishtar — su origen
 - Bajo Egipto / Delta del Nilo — expedición a la montaña invertida
-- Captura por las fuerzas de Graz'zt — interrogatorio en incubador de agua dorada
+- Captura por las fuerzas de [[Grazzt|Graz'zt]] — interrogatorio en incubador de agua dorada
 - Rol Mamba 1 (Museo de Arte Moderno BsAs) — reaparición
 - Taller de Rol — fuente narrativa primaria (líneas 316, 330-406, poema 372-406)

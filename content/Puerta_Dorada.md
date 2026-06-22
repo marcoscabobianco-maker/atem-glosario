@@ -58,4 +58,4 @@ El resto del tiempo, **permanece cerrada**. Las cadenas se ven; el bronce dorado
 
 ## Apariciones
 
-- **Constantinopla 1055** — todavía custodiada, todavía dorada, todavía cerrada
+- **[[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]** — todavía custodiada, todavía dorada, todavía cerrada

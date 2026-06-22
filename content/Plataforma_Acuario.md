@@ -29,7 +29,7 @@ imagen: Imagenes_Tier1/Plataforma_Acuario.png
 
 > *"El agua que se vierte al vacío no se pierde: pasa al otro lado. La plataforma de Acuario enseña que el don que cae fuera del marco vuelve por el contorno."*
 
-**Undécima casa del zodiaco**, sigue a Capricornio en el ciclo. **Plataforma flotante de piedra opalescente pálida** *tallada con el signo del aguador*. *Una figura encapuchada se planta en el borde de la plataforma*, **vertiendo agua desde una gran urna en una cascada que desciende fuera de la plataforma hacia el vacío sin fondo**.
+**Undécima casa del zodiaco**, sigue a Capricornio en el ciclo. **[[Aldebaran_Estrella_Plataforma|Plataforma]] flotante de piedra opalescente pálida** *tallada con el signo del aguador*. *Una figura encapuchada se planta en el borde de la plataforma*, **vertiendo agua desde una gran urna en una cascada que desciende fuera de la plataforma hacia el vacío sin fondo**.
 
 Su columna esencial es **el don que sale del marco**: *el agua que se vierte al vacío*, *la operación cosmológica del derrame deliberado*, *el aguador que no acumula*. **El tono azul apagado del agua que cae** *es signo del don desinteresado*: **Acuario opera con doctrina del polo positivo libre**, *donde lo que se da no se exige a cambio*.
 

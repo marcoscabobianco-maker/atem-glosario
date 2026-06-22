@@ -30,7 +30,7 @@ de [[Torregrises]]. Preserva y transmite saber antiguo.
 ## Notas
 
 Liderazgo fundador de [[Sagrada_Orden|Sagrada Orden]] marcado por pedagogía contemplativa.
-Su creación de la piedra llave es artefacto importante en misión de Delgrante.
+Su creación de la piedra llave es artefacto importante en misión de [[Delgrante]].
 
 ## Ver también
 

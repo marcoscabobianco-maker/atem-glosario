@@ -8,7 +8,7 @@ aliases:
 
 ## Presentación
 
-**Concepto:** [[Reynaud|Reynaud]] usa "moneda de Judas" como foco de nigromancia/miedo. Traidor por excelencia → poder sobre traición.
+**Concepto:** [[Michel|Michel]] usa "moneda de Judas" como foco de nigromancia/miedo. Traidor por excelencia → poder sobre traición.
 
 **[[Teologia|Teología]]:** Asociación de Judas (30 monedas de plata como pago de traición) con poder demoníaco. Nigromancia "justa" invocando castigo de traidor.
 

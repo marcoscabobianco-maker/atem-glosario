@@ -29,11 +29,11 @@ imagen: Imagenes_Tier1/Guardia_Varega_Ucronica.png
 
 > *"Tres hachas en la puerta del Palacio. Eso bastó por dos siglos."*
 
-[[Akala|La mano]] los se conservó en el ángulo correcto: tres varegos formados frente a la puerta cerrada del **Gran Palacio**, **cota de malla larga**, **cascos cónicos con nariguera**, **hachas de doble filo a la altura del pecho**, **escudo redondo apoyado en el suelo**, **relicarios con cruces ortodoxas atornillados al peto**. Detrás —*y este es el detalle que el visitante distraído no advierte*— la silueta de la **Hagia Sophia** y los porteadores cruzando una plaza menor del distrito imperial. La escena es de **media mañana en el bucle**: alguno de los porteadores podría ser de 1050, alguno de 1055, ninguno se distingue del otro. Los varegos miran de frente y **no se mueven**.
+[[Akala|La mano]] los se conservó en el ángulo correcto: tres varegos formados frente a la puerta cerrada del **Gran Palacio**, **cota de malla larga**, **cascos cónicos con nariguera**, **hachas de doble filo a la altura del pecho**, **escudo redondo apoyado en el suelo**, **relicarios con cruces ortodoxas atornillados al peto**. Detrás —*y este es el detalle que el visitante distraído no advierte*— la silueta de la **[[Hagia_Sophia]]** y los porteadores cruzando una plaza menor del distrito imperial. La escena es de **media mañana en el bucle**: alguno de los porteadores podría ser de 1050, alguno de 1055, ninguno se distingue del otro. Los varegos miran de frente y **no se mueven**.
 
-**La Guardia Varega Ucrónica** es **la guardia de élite del Imperio Romano de Oriente** en el bucle de la **[[Constantinopla_Ucronica_1055_CE|Constantinopla del lustro]]**. Fundada por **Constantino I** con cuerpos nórdicos —escandinavos, suecos, vikingos del Mar Báltico— **transportados al sur en obligación contractual**, la Guardia adquirió pronto **estatus de cuerpo de élite imperial cerrado** y **función custodial sobre el Gran Palacio**. En 1055 del bucle sirven a la coemperatriz **[[Teodora]]**; en 1050 servían a su predecesor; **la disciplina no se interrumpe entre los dos años porque la disciplina no admite interrupción**.
+**La Guardia Varega Ucrónica** es **la guardia de élite del [[Imperio_Romano]] de Oriente** en el bucle de la **[[Constantinopla_Ucronica_1055_CE|Constantinopla del lustro]]**. Fundada por **Constantino I** con cuerpos nórdicos —escandinavos, suecos, vikingos del Mar Báltico— **transportados al sur en obligación contractual**, la Guardia adquirió pronto **estatus de cuerpo de élite imperial cerrado** y **función custodial sobre el Gran Palacio**. En 1055 del bucle sirven a la coemperatriz **[[Teodora]]**; en 1050 servían a su predecesor; **la disciplina no se interrumpe entre los dos años porque la disciplina no admite interrupción**.
 
-**Lo que distingue a la versión ucrónica** —y conviene mencionarlo, porque sin esto la Guardia sería sólo histórica— son **los varegos mejorados**. **Algunos miembros**, no todos, **son constructos** —*figuras humanoides reforzadas alquímicamente con extremidades adicionales*—. Los visitantes que se han cruzado con ellos en pasillos del Palacio reportan, con consistencia: **cuatro brazos**, **dos hachas simultáneas**, **velocidad anómala para el peso del torso**. **No son mayoría**. **Son los suficientes para que el rumor de su existencia mantenga a raya** a quienes no deberían acercarse al Palacio. *La proporción exacta es asunto del Patriarca de la corte; ni siquiera Teodora la sabe.*
+**Lo que distingue a la versión ucrónica** —y conviene mencionarlo, porque sin esto la Guardia sería sólo histórica— son **los varegos mejorados**. **Algunos miembros**, no todos, **son constructos** —*figuras humanoides reforzadas alquímicamente con extremidades adicionales*—. Los visitantes que se han cruzado con ellos en pasillos del Palacio reportan, con consistencia: **cuatro brazos**, **dos hachas simultáneas**, **velocidad anómala para el peso del torso**. **No son mayoría**. **Son los suficientes para que el rumor de su existencia mantenga a raya** a quienes no deberían acercarse al Palacio. *La proporción exacta es asunto del [[Patriarca]] de la corte; ni siquiera [[Teodora]] la sabe.*
 
 [*La doctrina sincrética de la Guardia mezcla cristianismo ortodoxo —cruces, relicarios, iconos de santos— con residuos del culto a [[Odin|Odín]] que los varegos no abjuraron al cruzar al sur. El [[Decadiano]], cuando se ocupa de ellos, los tolera. La sutileza de tolerar no es teológica: es práctica. —Anot. del [[Arkos|archivero del Plata]] al margen de un manual militar bizantino.*]
 
@@ -49,7 +49,7 @@ imagen: Imagenes_Tier1/Guardia_Varega_Ucronica.png
 - [[Corvino|Corvino]] — refundador de 1051
 - [[13va_Legion|13ª Legión]] — herederos modernos
 - [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] — residente del bucle en el mismo período
-- [[Time_Bandits]] — visitantes del bucle integrados con la Guardia en sesiones tardías
+- [[Time_Bandits]] — visitantes del bucle integrados con la Guardia en jornadas tardías
 - [[Arkos|Archivero del Plata]] — glosador de su doctrina
 - [[Libro_Azul]] — copiado tres años después de la refundación
 
@@ -57,5 +57,5 @@ imagen: Imagenes_Tier1/Guardia_Varega_Ucronica.png
 
 - **Fundación constantiniana** — origen histórico
 - **Bucle 1050–1055** — custodia del Gran Palacio en ambas fechas a la vez
-- **1051** — refundación como Nueva Guardia Varangiana por Corvino
-- **Sesiones 10–15 del ciclo presente** — integración con los Time Bandits, escenarios del Palacio
+- **1051** — refundación como Nueva Guardia Varangiana por [[Corvino]]
+- **Jornadas 10–15 del ciclo presente** — integración con los [[Time_Bandits]], escenarios del Palacio

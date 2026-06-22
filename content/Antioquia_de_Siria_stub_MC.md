@@ -1,24 +1,38 @@
 ---
+categoria: lugar
+tags:
+ - "lugar"
+ - "siria"
+ - "orontes"
+ - "seleucida"
+ - "octogono-dorado"
+ - "dafne"
 aliases:
+ - "Antioquía de Siria"
+ - "Antioquia de Siria"
+ - "Antioquía"
  - "Antioquia de Siria stub"
  - "Antioquia_de_Siria_stub_MC"
-en_construccion: true
 ---
 
-# Antioquia De Siria Stub MC
+# Antioquía de Siria
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Antioquia_de_Siria_stub_MC.png]]
 <!-- /HEADER_IMG -->
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
+## Presentación
 
-## Referencias entrantes
+Fundada por Seleuco I Nicátor hacia el 300 a.C., a veinticinco kilómetros de la desembocadura del Orontes. Su posición la hizo vía de acceso del [[Mediterraneo_Ucronico|Mediterráneo]] al interior de Asia: por sus puertas pasaba cuanto iba del mar hacia las tierras profundas del continente.
 
-Esta entrada es mencionada desde:
+La ciudad se ordena en torno a una avenida principal flanqueada de pórticos, al pie del monte Silipos. Una isla del río alberga el hipódromo, termas, templos y el palacio imperial; allí se alza también el Octógono Dorado, que Constantino mandó construir. Aguas arriba se extiende Dafne, barrio residencial de puentes y jardines, con el santuario de Apolo y el templo de Zeus.
 
-- [[Plotino]]
+En su historia se registra un refugiado ilustre: [[Plotino]] buscó amparo en Antioquía tras la derrota de Gordiano (244).
 
----
+*Fuente primaria:* Documento Skronamon (línea 23, localidad F).
 
-*Si llegaste aquí buscando información sobre **Antioquia De Siria Stub MC**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+## Vínculos
+
+- [[Plotino]] — se refugió en Antioquía tras la derrota de Gordiano (244).
+- [[Pablo_de_Alejandria|Pablo de Alejandría]] — contexto geográfico del mismo registro.
+- [[Zenobia_de_Palmyra|Zenobia de Palmyra]] — la conquista siria pasó por estas tierras.

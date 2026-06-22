@@ -18,7 +18,7 @@ El archivo conserva lo que el cosmos extendido sostuvo en un determinado tiempo 
 
 ## Las cuatro categorías platónicas del archivo
 
-El archivo conoce cuatro modos. *Los nombres provienen del Decadiano libro de los Oficios; la doctrina opera trans-campaña*.
+El archivo conoce cuatro modos. *Los nombres provienen del [[Decadiano]] libro de los Oficios; la doctrina opera trans-campaña*.
 
 ### Los guardianes
 
@@ -30,7 +30,7 @@ Las figuras del umbral, los que cuidan que las puertas se abran sólo a quien la
 
 ### Los reyes filósofos
 
-Las voces mayores que el archivo cita: **las que han pensado el cosmos hasta el punto de que la cosmología las cita de vuelta**. *No son personajes operativos*: son *autoridades doctrinales*. **El Decadiano, Paulus de Alejandría, Mascor Blancarba** operan en esta categoría —*aunque también son escribas, también son citados*—.
+Las voces mayores que el archivo cita: **las que han pensado el cosmos hasta el punto de que la cosmología las cita de vuelta**. *No son personajes operativos*: son *autoridades doctrinales*. **[[Decadiano|El Decadiano]], Paulus de Alejandría, [[Mascor_Blancarba]]** operan en esta categoría —*aunque también son escribas, también son citados*—.
 
 ### Los escribas
 
@@ -46,9 +46,9 @@ El archivo se construye **por capas, en oficio de varias manos sucesivas**.
 
 **La capa segunda** es la transcripción: *copia primera del cuaderno*, *operada por escriba con disciplina de no enmendar*. La transcripción puede expandir lo abreviado del original, pero *no puede inventar lo que el original no nombra*.
 
-**La capa tercera** es el [[Calendario]]: *consolidación cronológica del cosmos compartido*, **escrita en situación lúdica por [[Amitlai]] (compañero-cronista) y heredada por [[Clarisa]]**. *Fuente lúdica primaria del archivo*. Lo que figura en el Calendario opera con autoridad mayor que las mitologizaciones posteriores; *opera con autoridad menor que el cuaderno físico*.
+**La capa tercera** es el [[Calendario]]: *consolidación cronológica del cosmos compartido*, **escrita en situación lúdica por [[Amitlai]] (compañero-cronista) y heredada por [[Clarisa]]**. *Fuente lúdica primaria del archivo*. Lo que figura en el [[Calendario]] opera con autoridad mayor que las mitologizaciones posteriores; *opera con autoridad menor que el cuaderno físico*.
 
-**La capa cuarta** es el glosario —*esta página y las que siguen*—: **entradas curadas por categoría, voz, cruces, vínculos**. Es la capa que el lector navega. *Cuando el glosario se contradice con el Calendario, el Calendario gana*; *cuando el Calendario se contradice con el cuaderno, el cuaderno gana*.
+**La capa cuarta** es el glosario —*esta página y las que siguen*—: **entradas curadas por categoría, voz, cruces, vínculos**. Es la capa que el lector navega. *Cuando el glosario se contradice con el [[Calendario]], el Calendario gana*; *cuando el Calendario se contradice con el cuaderno, el cuaderno gana*.
 
 **La capa quinta** es la glosa lateral del cronista del Plata: *acotaciones marginales que cierran las entradas con observaciones que ni el Calendario ni el cuaderno alcanzan a contener*. *Es voz operativa, no fuente*.
 
@@ -70,18 +70,28 @@ El archivo se construye **por capas, en oficio de varias manos sucesivas**.
 - **[[Pablo_de_Alejandria|Paulus Alexandrinus]]** — voz nabokoviana, cosmología profunda
 - **[[Arkos]] archivero del Plata** — glosa lateral, argentinismos, ironía
 - **El Decadiano** — voz eclesial fría, doctrinal
-- **Mascor Blancarba** — bardo cronista del Caldero
-- **Cronista del Coro del Descenso** — testimonio del Foso
-- **Federico Rey de las Tormentas** — operístico, profético (Torregrises)
+- **[[Mascor_Blancarba]]** — bardo cronista del [[Caldero]]
+- **Cronista del [[Anti_Inferno|Coro del Descenso]]** — testimonio del Foso
+- **[[Federico_TG|Federico]] [[Federico_TG|Rey de las Tormentas]]** — operístico, profético ([[Torregrises]])
+
+---
+
+## El recorrido del Juego
+
+Quien entra por primera vez no necesita un mapa: necesita **un camino**. El archivo lo tiene, reconstruido de la obra perdida que lo teorizaba desde adentro:
+
+> **[[Las_Dieciseis_Posiciones|⟐ Las Dieciséis Posiciones del Juego — fragmentos del Ludus Umbrarum]]**
+
+Dieciséis posiciones recorre toda gesta del cosmos extendido — de la **Convocatoria** que nunca es libre al **Depósito** que sobrevive al fuego y la **Transmigración** que no deja terminar nada. Cada posición abre las puertas de las entradas que la encarnan, a través de todos los teatros: del tercer milenio fantástico al París de 1901, del Descenso por los círculos al Atlántico Sur de 1966. *Es la primera página del índice: el arco mismo como camino de lectura.*
 
 ---
 
 ## Entradas mayores
 
 ### Cosmología
-- [[Los_Supremos]] — Triunvirato: Arian, Elías, Innombrable
+- [[Los_Supremos]] — Triunvirato: Arian, Elías, [[Innombrable]]
 - [[Arian]] — Primer Mediodía, espadas encendidas
-- [[Innombrable|El Innombrable]] — Piedra del Apocalipsis, firma del comienzo del tiempo
+- [[Innombrable|El Innombrable]] — [[Piedra_del_Apocalipsis]], firma del comienzo del tiempo
 - [[Akala]] — la amanuense oculta del Faro
 - [[Lotario]] — padre triple anagramático
 - [[Vala_Cristalis]] — mundo-gema, plataformas zodiacales
@@ -99,15 +109,15 @@ El archivo se construye **por capas, en oficio de varias manos sucesivas**.
 ### Personajes
 - [[Pablo_de_Alejandria]] — Paulus, cronista mayor
 - [[Arkos]] — archivero del Plata, escriba
-- [[La_Jabalina]] — compañía Caldero
-- [[Papa_Alejandro_Sixto]] — papa luminoso de Ardis Vala
+- [[La_Jabalina]] — compañía [[Caldero]]
+- [[Papa_Alejandro_Sixto]] — papa luminoso de [[Ardis_Vala]]
 - [[Vitalis]] — hechicero del Río Blackwater
-- [[Estela_Nereida]] — la nereida, "Chica Calendario 1902"
+- [[Estela_Nereida]] — la nereida, "[[Estela_Nereida|Chica Calendario 1902]]"
 
 ### Fuentes diegéticas (cuadernos)
 - [[Calendario]] — fuente lúdica primaria
 - [[Paris_de_los_Pasajes]] — cuaderno parisino del cronista
-- [[Eisagogika]] — la Isagógica de Pablo, libro azul que conjuga el archivo
+- [[Eisagogika]] — la [[Eisagogika|Isagógica]] de Pablo, libro azul que conjuga el archivo
 
 ### Cronología
 - [[Cronica_del_Archivo]] — **línea del tiempo diegética**, escrita por [[Akala]] amanuense. Trece eras platónicas, eventos ordenados con wikilinks a cada ficha.

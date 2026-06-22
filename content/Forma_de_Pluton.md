@@ -11,20 +11,16 @@ aliases:
 
 ## Presentación
 
-**Fuente:** (Orador 1)
-**Cita:** "¿Viste cómo los hombres lobos tienen varias formas? Una de ellas es híbrida. Una es más humanoide... parece como más wolverine."
-**Descripción:** Plutón se manifiesta en múltiples formas:
-1. **Forma lobo:** Lobo blanco gigantesco, "tirado en el suelo, blandito"
+[[Pluton_CDI|Plutón]] se manifiesta en múltiples formas, signo de su naturaleza polimórfica:
+
+1. **[[Forma_lobo]]:** Lobo blanco gigantesco
 2. **Forma híbrida:** Lobo + humanoide, intermedia
-3. **Forma humanoide:** Más cercana a aspecto human, pero demoniaco
-**Tipo:** Habilidad shapeshifter de Plutón
-**Confianza:** MODERADA (descripción clara, pero fragmentada)
-**Cambio desde el archivo:** S12_HANDOFF describía a Plutón como "cuarto nivel" sin especificar forma. el archivo confirma polimorfismo deliberado.
-**Conexión cosmológica:** Lobo blanco = símbolo de poder infernal, serpiente clavada = vinculación mágica o castigo
+3. **[[Forma_humanoide]]:** Más cercana a aspecto humano, pero demoníaca
+
+**Conexión cosmológica:** El lobo blanco es símbolo de su poder infernal; la serpiente clavada indica vinculación mágica o castigo.
 
 ## Ver también
 
+- [[Pluton_CDI|Plutón]]
 - [[Forma_lobo|Forma lobo]]
-- [[Forma_hibrida|Forma híbrida]]
 - [[Forma_humanoide|Forma humanoide]]
-- Cambio desde el archivo

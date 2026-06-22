@@ -54,15 +54,15 @@ imagen: Imagenes_Tier1/Belgrado_Ucronica.png
 
 ## Acto I — El tren y el contrato Inevitable
 
-**En el viaje ferroviario nocturno hacia Belgrado**, *un agente germano (austro-prusiano) irrumpe en el vagón y presenta contrato mágico —tarjeta perforada de las que la maquinaria Inevitable usa—*. **Promesa**: *suma inmensa si el grupo* **(1) destruye al "capitán vampiro" Apis**, **o (2) entrega a la reina Draga Machine para "reprogramación" Inevitable**.
+**En el viaje ferroviario nocturno hacia Belgrado**, *un agente germano (austro-prusiano) irrumpe en el vagón y presenta contrato mágico —tarjeta perforada de las que la maquinaria [[Inevitable]] usa—*. **Promesa**: *suma inmensa si el grupo* **(1) destruye al "capitán vampiro" Apis**, **o (2) entrega a la reina [[Draga_Machine]] para "reprogramación" [[Inevitable]]**.
 
-*El grupo desconfía pero considera*; **Corvino y Philip rechazan o firman sólo para ganar tiempo**; **el agente sugiere que los Inevitables están detrás de Draga Machine**. **El tren llega a la ciudad con el contrato sin resolver y la oferta en el aire**.
+*El grupo desconfía pero considera*; **[[Corvino]] y [[Philippe|Philip]] rechazan o firman sólo para ganar tiempo**; **el agente sugiere que los Inevitables están detrás de [[Draga_Machine]]**. **El tren llega a la ciudad con el contrato sin resolver y la oferta en el aire**.
 
 ---
 
 ## Acto II — La corte y la confesión de Draga
 
-**El Rey Aleksandar y Draga reciben al grupo en salón de palacio**. *El monarca aparece joven e inexperto*; **Draga, en cambio, exhibe refinamiento semimaquinal —postura erguida, voz precisa, gesto medido**—; *los Time Bandits comprenden, antes de que ella hable, que algo del fondo no encaja*.
+**El Rey Aleksandar y Draga reciben al grupo en salón de palacio**. *El monarca aparece joven e inexperto*; **Draga, en cambio, exhibe refinamiento semimaquinal —postura erguida, voz precisa, gesto medido**—; *los [[Time_Bandits]] comprenden, antes de que ella hable, que algo del fondo no encaja*.
 
 **Allí Draga confiesa su paradoja**: **es un Inevitable desviado de su misión**; **fue enviada a eliminar a Apis** —*ser de no-muerte trascendida que rompe leyes cósmicas*—; **se enamoró de Aleksandar y decidió vivir como humana**.
 
@@ -74,7 +74,7 @@ imagen: Imagenes_Tier1/Belgrado_Ucronica.png
 
 ## Acto III — El descenso y la tragedia
 
-**El grupo (Corvino, Philip, [[Swan]], [[Aby_Warburgo|Aby]]) convence al Rey de que deben "rematar" a Apis**. *Descenso por los subterráneos profundos del palacio*; **encuentran al vampiro recluido tras muros reforzados y barreras mágicas**. **Al abrir las compuertas, Apis desata su furia**: *espada drena-niveles, sombras incorpóreas de los propios personajes, transformaciones entre forma corpórea y gaseosa entre celda y ataúd*.
+**El grupo ([[Corvino]], [[Philippe|Philip]], [[Swan]], [[Aby_Warburgo|Aby]]) convence al Rey de que deben "rematar" a Apis**. *Descenso por los subterráneos profundos del palacio*; **encuentran al vampiro recluido tras muros reforzados y barreras mágicas**. **Al abrir las compuertas, Apis desata su furia**: *espada drena-niveles, sombras incorpóreas de los propios personajes, transformaciones entre forma corpórea y gaseosa entre celda y ataúd*.
 
 *El combate hiere gravemente a Swan y a Philip*; **Corvino es herido múltiples veces**; **Aby conjura apoyo**; **Swan invoca tigre conjurado y dispara balas benditas**; **Apis se repliega forzado a forma gaseosa hacia el ataúd**. *El grupo ejecuta protocolo vampírico*: **estacas en el corazón, decapitación**.
 

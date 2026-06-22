@@ -8,11 +8,7 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Artefacto mágico con auto-regeneración
-**Descripción:** Casco de Lirio con hechizo/poder encantado "[[Breath_of_Life|Breath of Life]]." Automáticamente regenera HP si Lirio cae bajo cero (tira instantáneamente 5d8+modificador, se levanta con HP nuevo).
-**Función en la jornada de Tiro y Hespérides:** Lirio es gravemente herido (~casi muere). Casco activa, lo regenera 5 HP+, se levanta y continúa combate.
-**Significancia:** Recurso de supervivencia crítico. Pero plantea pregunta: ¿Es limitado o infinito?
+Artefacto mágico portado por [[Lirio|Lirio]]: un casco encantado con el poder "[[Breath_of_Life|Breath of Life]]", que lo regenera automáticamente cuando cae herido de gravedad. En la jornada de Tiro y Hespérides, el casco se activó y Lirio pudo continuar en pie.
 
 ## Ver también
 
-- Función en la jornada de Tiro y Hespérides

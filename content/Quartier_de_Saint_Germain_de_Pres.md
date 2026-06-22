@@ -1,48 +1,21 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, lugar, kanka-5420570]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Quartier_de_Saint_Germain_de_Pres_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Quartier de Saint-Germain-des-Prés", "Saint-Germain-des-Prés", "Faubourg Saint-Germain"]
 ---
 
-# ATEM::SaintGermain::MMF::Quartier de Saint Germain de Pres
+# Quartier de Saint-Germain-des-Prés
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Quartier_de_Saint_Germain_de_Pres_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Quartier de Saint Germain de Pres. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Barrio de la orilla izquierda del Sena, al sur del Louvre y del [[Palais-Royal]], anclado en torno a la abadía benedictina que le da nombre. En 1648 es un territorio de transición entre el París intramural y los arrabales que se extienden hacia el sur: hay conventos, colegios universitarios, imprentas, posadas para viajeros del Midi y casas nobiliarias que prefieren la distancia discreta del faubourg a la promiscuidad de las calles centrales.
 
-![[ATEM__SaintGermain__MMF__Quartier_de_Saint_Germain_de_Pres_retrato.png]]
+Durante la Fronda parlamentaria, el barrio adquiere una ambigüedad característica. La cercanía a la abadía le otorga cierta inmunidad simbólica, pero sus callejuelas acogen a refugiados de las barricadas, a predicadores itinerantes y a negociadores informales que van y vienen entre los dos mundos —el de los magistrados del Parlamento y el de los oficiales del Cardenal. La posada de Saint-Pierre, el puente de Tuileries al alcance de un paseo, la sombra de la [[Cour_des_Miracles]] al norte: el barrio es, ante todo, un espacio de paso y de primera noche.
 
+Quienes llegaron por vez primera a París en el invierno de 1648-1649 encontraron aquí un punto de orientación antes de aventurarse más adentro de la ciudad sitiada.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5420570
-**kanka_url:** https://app.kanka.io/w/216093/entities/5420570
-**kanka_kind:** location
-**kanka_type:** (vacío)
-**parent_location:** Paris (kanka 5095891)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 9
-- **Sesiones donde aparece** (4/9):
-  - S1 — 4 hits
-  - S2 — 2 hits
-  - S3 — 2 hits
-  - S4 — 1 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Paris]] — capital en la que se inscribe el barrio, orilla izquierda del Sena
+- [[Pont-Neuf]] — eje de tránsito hacia la orilla derecha
+- [[Pont_de_Thuileries]] — cruce secundario que completa el acceso fluvial del barrio
+- [[St_Pierre_Inn]] — posada del barrio, punto de escala y primer contacto
+- [[Cour_des_Miracles]] — espacio marginal próximo, polo de tensión social
+- [[Palais-Royal]] — sede del poder regente, contrapunto nobiliario al faubourg popular

@@ -1,50 +1,20 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5406832]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Gastón_Felón_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Gastón Felón"]
 ---
 
-# ATEM::SaintGermain::MMF::Gastón Felón
+# Gastón Felón
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Gastón_Felón_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Gastón Felón. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Miembro de la familia [[Felón]], señores de [[Château_de_Chambois]]. Gastón es el hermano sobre el que cayó la peor suerte de ese linaje enredado en pactos que exceden la comprensión humana: fue poseído por [[Andromalius]], el Conde del abismo que examina los tesoros robados y descubre a los ladrones. Que un demonio de esa naturaleza eligiera a Gastón dice algo sobre la familia y algo sobre él.
 
-![[ATEM__SaintGermain__MMF__Gastón_Felón_retrato.png]]
+Desde esa posesión, Gastón deja de pertecerse. Sus apariciones en los registros de 1648 son las de un hombre que actúa desde un interior que ya no es suyo: los gestos, las palabras, la violencia cuando llega — todo filtrado por una voluntad ajena. Su hermano [[Martín_Felón]] comparte el arco de esa maldición familiar, aunque por vías distintas.
 
+El caso de los Felón representa el flanco más oscuro de los sucesos que se desplegaron en torno al [[Château_de_Chambois]] en los años de la Fronda: una casa noble que abrió puertas que no debería haber abierto.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5406832
-**kanka_url:** https://app.kanka.io/w/216093/entities/5406832
-**kanka_kind:** character
-**kanka_type:** NPC
-**familia:** Felón
-**sexo:** (no especificado)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 35
-- **Sesiones donde aparece** (5/9):
-  - S5 — 6 hits
-  - S6 — 7 hits
-  - S7 — 5 hits
-  - S8 — 14 hits
-  - S9 — 3 hits
-
-## Entry Kanka actual (resumen)
-
-> Uno de los hermanos [family:5406826], quien fue poseído por un demonio, [character:5406833]
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM espejo, citando kanka_url como fuente primaria.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Felón]] — su familia; linaje vinculado a pactos con entidades infernales
+- [[Andromalius]] — Earl demoníaco que lo posee; entidad de la tradición goética
+- [[Martín_Felón]] — hermano; partícipe del mismo arco demoníaco familiar
+- [[Château_de_Chambois]] — feudo de los Felón; escenario de los sucesos sobrenaturales
+- [[Murmur]] — Duque demoníaco activo en la campaña; marco infernal en el que opera [[Andromalius]]

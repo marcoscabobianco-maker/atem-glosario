@@ -42,7 +42,7 @@ imagen: Imagenes_Tier1/Innombrable.png
 
 *Su pieza cosmológica*: **la [[Piedra_del_Apocalipsis]]**, *eternamente ligada a él*, **invocable atravesando cualquier barrera y distancia**.
 
-*Su acción fundacional*: **firmar la primera acta del Triunvirato con la Vara del Infinito** — el decreto que **fija el cero del calendario nuevo**. *Nada existe antes de su firma*. **La magia cronomántica no puede llegar atrás del momento que el Innombrable decretó como comienzo del tiempo nuevo**.
+*Su acción fundacional*: **firmar la primera acta del Triunvirato con la [[Vara_del_Infinito]]** — el decreto que **fija el cero del calendario nuevo**. *Nada existe antes de su firma*. **La magia cronomántica no puede llegar atrás del momento que el Innombrable decretó como comienzo del tiempo nuevo**.
 
 ---
 
@@ -70,9 +70,9 @@ imagen: Imagenes_Tier1/Innombrable.png
 
 ## El semiplano cristalizado *(voz del cronista del Caldero)*
 
-**El Innombrable es arquitecto del semiplano donde el triunfo del Triunvirato se cristaliza**: **el trono cristalizado que es detención de una explosión**, *escenario del cierre cosmológico*. **El semiplano es su pieza arquitectónica**, *complementaria de su pieza cosmológica (la Piedra del Apocalipsis)*.
+**El Innombrable es arquitecto del semiplano donde el triunfo del Triunvirato se cristaliza**: **el trono cristalizado que es detención de una explosión**, *escenario del cierre cosmológico*. **El semiplano es su pieza arquitectónica**, *complementaria de su pieza cosmológica (la [[Piedra_del_Apocalipsis]])*.
 
-*La cristalización seca* —doctrina específica del cierre cósmico— **opera por su mano**. **Lo que se cristaliza ya no cambia**; **lo que ya no cambia opera fuera del tiempo**. *El Triunvirato fuera del Tiempo se sostiene en el semiplano del Innombrable*.
+*La cristalización seca* —doctrina específica del cierre cósmico— **opera por su mano**. **Lo que se cristaliza ya no cambia**; **lo que ya no cambia opera fuera del tiempo**. *[[Los_Supremos|El Triunvirato]] fuera del Tiempo se sostiene en el semiplano del Innombrable*.
 
 ---
 
@@ -99,17 +99,17 @@ imagen: Imagenes_Tier1/Innombrable.png
 - [[Kronamon]] — consciencia que reside en el Yunque
 - [[Anti_Inferno|la figura del segundo círculo]] — manifestación cosmológica paralela en Dante's Inferno
 - [[Anti_Inferno]] — campaña donde la figura paralela opera
-- [[Paris_Ucronica]] — geografía donde la línea Corvino adyacente opera
+- [[Paris_Ucronica]] — geografía donde la línea [[Corvino]] adyacente opera
 - **Tribunal por fuera del universo** — instancia que cristalizó la versión triádica de la Vara
 - **Semiplano cristalizado** — pieza arquitectónica de su autoría
 
 ## Apariciones
 
 - **Campañas tempranas del archivo** — rival recurrente de Arian
-- **Yunque del Tiempo** — prisión original junto a Elías el Hijo
+- **[[Corazon_de_Pablo_Yunque_del_Tiempo|Yunque del Tiempo]]** — prisión original junto a Elías el Hijo
 - **Tríada con Elías y Arian** — sustitución de los designios de Pablo
 - **Tribunal por fuera del universo** — cristalización triádica de la Vara
-- **Los Supremos** — Triunvirato del cierre cósmico
+- **[[Los_Supremos]]** — Triunvirato del cierre cósmico
 - **Acción del comienzo del tiempo** — firma fundacional en las actas
 - **Semiplano cristalizado** — escenario del cierre
 - **Anti-Inferno (campaña Dante)** — manifestación paralela como la figura del segundo círculo

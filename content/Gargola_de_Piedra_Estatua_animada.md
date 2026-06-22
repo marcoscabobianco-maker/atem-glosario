@@ -14,29 +14,14 @@ aliases:
 
 ## Presentación
 
-**Primera aparición:** Jornada del falso Maestre — Descripción visual; ataca poco después en la cámara final
-**Descripción física:** Escultura/estatua de piedra. Forma de demonio/perro-gárgola. Cuernos. Alas plegadas. Ojos brillantes (posiblemente de piedra animada). Garras de piedra. Capaz de soltarse de pedestal.
-**Forma secundaria (post-combate):** Gárgola de tamaño "más grande" (según cronista línea 679), descripta como "dragónica y escamosa" con "olor a azufre". Posiblemente polimórfica o hay dos gárgolas.
+Estatua de piedra en forma de demonio-perro gárgola: cuernos, alas plegadas, ojos brillantes, garras de piedra capaces de soltarse del pedestal. Cobra vida como guardiana animada en la cámara final de la Jornada del falso Maestre.
 
-**Ataques observados:**
-- Lanzamiento de ácido (tirada Reflex ; daño 2d6+extras)
-- Garrazos (2 ataques simultáneos, ~16 daño c/u)
-- Mordeduras (menos frecuentes)
-- Movimiento: vuelo (alas, aunque plegadas inicialmente)
+**Forma secundaria:** Gárgola de mayor tamaño, descripta como "dragónica y escamosa" con olor a azufre. Posiblemente polimórfica, o dos gárgolas distintas.
 
-**Estadísticas de combate:**
-- HP: ~50+ (sobrevive múltiples golpes críticos)
-- Defensa: resistencia a daño no-mágico; ácido rebota parcialmente
-- Vulnerabilidad: aparentemente ninguna clara
+**Capacidades:** Lanza ácido, arremete con garras y mordedura, y vuela una vez desplegadas las alas. Resistente al daño ordinario.
 
-**[[Resolucion|Resolución]]:** Lirio ("Lirio es muy bueno pegando pero muy malo defendiéndose") ejecuta múltiples saques finales. Desaparece o cae después de daño acumulativo. Posiblemente destruida al final de la jornada del falso Maestre.
-
-**Notas arquitectónicas:** Estatua primero, luego guardiana animada. Sugiere magia de animación tipo "Animate Object". Guarda el pedestal/madera central.
-
-**[[Vinculacion_narrativa|Vinculación narrativa]]:** Tercera criatura demoníaca del Laberinto. Parte de sistema defensivo concéntrico (demonio fuego → [[Minotauro_Jefe_del_Laberinto|Minotauro]] → Gárgola).
+**Rol arquitectónico:** Estatua primero, guardiana animada después. Guarda el pedestal central del Laberinto. Tercera criatura demoníaca del sistema defensivo concéntrico: demonio de fuego → [[Minotauro_Jefe_del_Laberinto|Minotauro]] → Gárgola.
 
 ## Ver también
 
-- [[Ataques_observados|Ataques observados]]
-- [[Resolucion|Resolución]]
-- [[Vinculacion_narrativa|Vinculación narrativa]]
+- [[Minotauro_Jefe_del_Laberinto|Minotauro Jefe del Laberinto]]

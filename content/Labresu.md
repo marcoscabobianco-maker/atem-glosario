@@ -32,22 +32,22 @@ tags:
 
 ### El pacto
 
-** (2026-05-20 )**:
+**Revelación del archivo**:
 
-> *"La espada afilada, sangrante de ácido, que había obtenido con un deseo o pedido a un labresu, el paladín que está tan en duda por sus fallos de poderes oscuros y por su ética, que permitió que entrara en este mundo. O mejor dicho, que este mundo cayera a Ravenloft de la mano de Caladan, alguien en quien confió y que terminó siendo la devastación con la fiebre blanca de todo este pueblo."*
+> *"La espada afilada, sangrante de ácido, que había obtenido con un deseo o pedido a un labresu, el paladín que está tan en duda por sus fallos de poderes oscuros y por su ética, que permitió que entrara en este mundo. O mejor dicho, que este mundo cayera a Ravenloft de la mano de [[Caladan]], alguien en quien confió y que terminó siendo la devastación con la fiebre blanca de todo este pueblo."*
 
 **Mecánica del deseo**:
 
 1. **Valerius pidió un deseo** a Labresu
 2. Labresu ofreció **dos artefactos**:
  - La **espada compañera afilada, sangrante de ácido** (que **portaría a [[Ardipithecus|Graz'zt como ardipitecus]]** escondido dentro)
- - La **[[Llave_Dual_Oro_Espina|llave del Circuito de Medianoche]]** (Obsidian Gates / Midnight Road L5)
+ - La **[[Llave_Dual_Oro_Espina|llave del Circuito de Medianoche]]** ([[Obsidian_Gates_Midnight_Road|Obsidian Gates]] / [[Obsidian_Gates_Midnight_Road|Midnight Road]] Puertas de Obsidiana)
 3. Valerius **aceptó** —sea por necesidad táctica o por brecha ética—
 4. **Consecuencias cósmicas**:
  - **Fallos de poderes oscuros del paladín** (su paladinaje compromised)
  - **Conflicto ético creciente**
  - **Confianza ciega en [[Caladan]]** (vampirizado, futuro señor del dominio)
- - **Caída de Ardis Vala a Ravenloft** vía Caladan
+ - **Caída de [[Ardis_Vala]] a Ravenloft** vía [[Caladan]]
  - **Fiebre blanca devasta el pueblo**
 
 ### Identidad del Labresu
@@ -59,25 +59,25 @@ tags:
 - **Wish-granting outsider** específico custom 
 - Variante regional de **larva / lemur** abismales
 
-**A verificar grafía y stats exactos con en sesiones siguientes**. Por ahora, **Labresu = entidad demoníaca otorgadora de deseos** con preferencia por contratos con paladines en momento de debilidad.
+**A verificar grafía con el archivo en jornadas siguientes**. Por ahora, **Labresu = entidad demoníaca otorgadora de deseos** con preferencia por contratos con paladines en momento de debilidad.
 
 ### Conexión con Graz'zt / Ardipithecus
 
 La **espada que Labresu entregóportaba dentro a [[Ardipithecus|Graz'zt como proto intensísimo guardián]]** —escondido como **clon de Arian** + entidad mayor—. Esto significa:
 
-- **Labresu actuó como mensajero / intermediario** de fuerzas abismales mayores (Graz'zt)
+- **Labresu actuó como mensajero / intermediario** de fuerzas abismales mayores ([[Grazzt|Graz'zt]])
 - **El "deseo" era trampa**: Valerius recibió ítems de poder a cambio de **abrir vía al abismo**
-- **Graz'zt durmió en la espada** hasta su despertar en el regreso tras el Hiato (Ardipithecus emergente del incidente con la espada de Valerius)
+- **[[Grazzt|Graz'zt]] durmió en la espada** hasta su despertar en el regreso tras el Hiato ([[Ardipithecus]] emergente del incidente con la espada de Valerius)
 
 ### Función narrativa
 
 Labresu es **el demonio menor de la trampa cosmológica mayor**. Mecánicamente equivalente a:
 
-- **Devils contractuales** (Baatezu) ofreciendo poder con costo de alma
+- **Devils contractuales** ([[Baatezu]]) ofreciendo poder con costo de alma
 - **Ginsey** (deseo) con costo cósmico
 - **Dybbuk / Possessor** que entra vía pacto
 
-Su **función estructural**: **disparar el arco trágico de Valerius** desde paladín íntegro hacia paladín en duda con poderes oscuros. **Su intervención es el "pecado original" del retorno post-hiato** —junto a la entrega del huevo bomba por los Buscadores—.
+Su **función estructural**: **disparar el arco trágico de Valerius** desde paladín íntegro hacia paladín en duda con poderes oscuros. **Su intervención es el "pecado original" del retorno post-hiato** —junto a la entrega del huevo bomba por los [[Buscadores_de_Ardis_Vala|Buscadores]]—.
 
 ## Vínculos
 
@@ -93,6 +93,6 @@ Su **función estructural**: **disparar el arco trágico de Valerius** desde pal
 
 ## Apariciones
 
-- **Corrida original Ardis Vala**: pacto con Valerius (sesión específica pendiente)
-- **el regreso tras el Hiato**: el demonio que ofreció *"la espada y la llave del Circuito de Medianoche"* en el círculo de invocación de la Ciudadela Sin Sol —**puede ser Labresu mismo** o su mensajero
+- **Corrida original [[Ardis_Vala]]**: pacto con Valerius (jornada específica pendiente)
+- **el regreso tras el Hiato**: el demonio que ofreció *"la espada y la llave del Circuito de Medianoche"* en el círculo de invocación de la [[Ciudadela_Sin_Sol]] —**puede ser Labresu mismo** o su mensajero
 - **Pendiente desarrollo**

@@ -93,7 +93,7 @@ imagen: null
 
 - **Agregador** — recolección horizontal, sin intención selectiva, nivel inconsciente. *Donde las cosas se acumulan solas*.
 - **Montaje** — operación editorial activa, produce narrativa y comunicación. *Donde el cronista interviene*.
-- **Archivo** — marco relacional que sostiene memorias respecto a tema o condición histórica. *Donde el cosmos compartido se hace cuerpo*.
+- **Archivo** — marco relacional que sostiene memorias respecto a tema o condición histórica. *Dondel cosmos compartido se hace cuerpo*.
 
 **La metodología es arqueológica, no metafórica**: *"transformaciones N (Natural) y C (Cultural)"* **es terminología de Renfrew y Bahn**, **manual estándar de arqueología que el cronista enseña en la facultad** (Elementos de Prehistoria y Arqueología Americana, UBA FFyL). **El cuaderno es un sitio**; *cada capa de tinta es un horizonte*; **las referencias cruzadas son vínculos entre contextos primarios y secundarios**.
 
@@ -103,9 +103,9 @@ imagen: null
 
 ## El Stimmung del archivo
 
-**El cronista anota en rosa**, *al margen del 14-11*: **"Stimmung"** — *palabra alemana que reúne ambiente, ánimo, afinación*. **No la traduce porque no se traduce sin pérdida**.
+**El cronista anota en rosa**, *al margen del 14-11*: **"[[Stimmung]]"** — *palabra alemana que reúne ambiente, ánimo, afinación*. **No la traduce porque no se traduce sin pérdida**.
 
-**Lo que el archivero del Plata recoge de la anotación**: **el archivo de ATEM tiene Stimmung**. *No es enumeración de hechos*; **es ambiente afinado**. La voz del cronista, las capas palimpsésticas, las anotaciones marginales, **operan todos en clave de Stimmung**: lo que se busca cuando se lee no es información, **es afinación**.
+**Lo que el archivero del Plata recoge de la anotación**: **el archivo de ATEM tiene [[Stimmung]]**. *No es enumeración de hechos*; **es ambiente afinado**. La voz del cronista, las capas palimpsésticas, las anotaciones marginales, **operan todos en clave de Stimmung**: lo que se busca cuando se lee no es información, **es afinación**.
 
 ---
 
@@ -113,7 +113,7 @@ imagen: null
 
 **El archivero del Plata cataloga las decantaciones**:
 
-- **Clinamen** → teoría doctrinal de la creación narrativa, capas palimpsésticas operativas.
+- **[[Clinamen]]** → teoría doctrinal de la creación narrativa, capas palimpsésticas operativas.
 - **Six memes** (de las six memos) → doctrina del archivo lúdico, Homo Ludens.
 - **Agregador / Montaje / Archivo** → diagrama fundacional metodológico de ATEM.
 - **El tiempo como curador** → inversión de la perspectiva sobre el depósito temporal.
@@ -128,7 +128,7 @@ imagen: null
 
 ## Vínculos
 
-- [[Paris_de_los_Pasajes]] — cuaderno hermano, París 2010-2011, donde nacieron Cronoputas y Caronte del Sena
+- [[Paris_de_los_Pasajes]] — cuaderno hermano, París 2010-2011, donde nacieron Cronoputas y [[Caronte]] del Sena
 - [[Pablo_de_Alejandria|Paulus Alexandrinus]] — el cronista trans-temporal
 - [[Italo_Calvino_R|Italo Calvino]] — autor de *Six memos*, lectura matriz
 - [[Lucrecio_R|Lucrecio]] — autor de *De Rerum Natura*, fuente del clinamen

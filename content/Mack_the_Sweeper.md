@@ -11,4 +11,4 @@ aliases:
 
 ## Presentación
 
-Boxeador de El Leprechaun. Derrotó a [[Claude_Nauge|Claude Nauge]] en combate improvisado.
+Boxeador de [[El_Leprechaun]]. Derrotó a [[Claude_Nauge|Claude Nauge]] en combate improvisado.

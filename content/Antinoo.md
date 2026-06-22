@@ -1,40 +1,19 @@
 ---
-tags: [Vala, VALA, ambiguo]
-meta: M
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["Antinoo"]
 ---
 
-> [!resolved] Resolución
-> Marcos decidió 2026-05-29: **Antinoo** es la forma canónica única. Las variantes ASR `Antino` (187 hits) y `Antigno` (5 hits) corresponden al mismo referente, con resonancia clásica (Antínoo, favorito de Adriano). Entrada movida fuera de _AMBIGUOS.
-
 # Antinoo
-**Acción:** Crear. **Marcar como AMBIGUO.** El corpus presenta dos formas que no pueden separarse sin contexto manuscrito:
 
-- **Antinoo**: 187 menciones distribuidas en 23 transcripts (forma predominante).
-- **Antinoo**: 5 menciones en 2 transcripts (forma minoritaria).
+Guerrero de los Wordbreakers cuya presencia atraviesa los arcos más oscuros de la campaña de Vala: la persecución del [[Bogeyman]] y el enfrentamiento contra el Devorador. Su nombre carga el eco del favorito de Adriano, joven de belleza fatal; en Vala, ese eco se reformula como el del compañero que regresa del umbral. [[Nancon]] lo llevó casi muerto tras una detonación; que sobreviviera marcó el temple del grupo.
 
-Hipótesis A: ambas son el mismo nombre, *Antinoo* / *Antignos* (forma griega tipo Antígonos), distorsionada por ASR a *Antinoo*.
+Su recurrencia en las crónicas —más de ciento ochenta menciones repartidas en jornadas de combate y huida— lo sitúa como uno de los pivotes operativos de la banda. No es el más prominente en la cadena de mando, pero su ausencia o caída reorienta cada escena donde aparece. En el arco de la Torre Ob Caligni volvería a demostrar esa misma tenacidad.
 
-Hipótesis B: dos referentes distintos. *Antinoo* podría ser toponimia ("el lugar llamado Antinoo" — coherente con frase "se lo llevó a Antinoo" donde Antinoo puede ser destino, no persona). *Antinoo* podría ser NPC distinto.
-
-## Capa juego (mejor reconstrucción posible)
-
-Frase en `individual gharkan`: *"Nancon se lo llevó a Antinoo casi muerto"*. Lectura plausible: Antinoo = lugar al que se llevó al herido. Pero también podría leerse como Antinoo = persona herida llevada por Nancon a otro lugar. Sin coma de aposición desambiguadora.
-
-Recurrencia masiva de "Antinoo" en sesiones de combate / arco Bogeyman / arco Devorador sugiere referente operativo central, probablemente personaje (NPC aliado, patrón, contacto). 
-
-## Ref.
-
-rol_resuelto_interruptus_apoc_vala.m4a (31 Antinoo); perseguidos_por_bogeyman (21); contra_el_devorador_y_nesut_revisitado_2 (18); rol claro 2 (15); rol_wordbreajer_torre_ob_caligni_3_final (14); rol_wordbreaker_contra_ob_calignintorre (12); individual gharkan (4 Antinoo + ¿Antinoo?).
-
-## Preguntas críticas para Marcos
-
-1. **¿Antinoo y Antinoo son lo mismo o no?** sí
-2. Si son lo mismo: ¿forma canónica? Antinoo
-3. Si son distintos: ¿caracterizar cada uno? no
-4. ¿Antinoo/Antinoo es PJ, NPC, lugar, gremio? es Pj de Amadeo Srabstein
-
-## Nota archivística
-
-187 menciones sin entrada conceptual en ATEM constituyen un **agujero de archivo significativo**. Prioridad alta para resolución manuscrita.
-
+## Vínculos
+- Wordbreakers — banda a la que pertenece
+- [[Nancon|Nancon]] — compañero que lo rescató casi muerto
+- [[Bogeyman|Bogeyman]] — antagonista del arco de la persecución
+- [[El_Devorador|El Devorador]] — potencia mayor del arco siguiente
+- [[Midori|Midori]] — compañera de party en la huida
+- [[Taylor_(ATEM_Vala)|Taylor]] — compañero presente en ambos arcos

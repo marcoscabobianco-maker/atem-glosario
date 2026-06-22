@@ -15,17 +15,13 @@ aliases:
 
 ## Presentación
 
-**Ubicación:** Sexto círculo (Dis), uno de cuatro distritos (el del estandarte de la biblioteca)
-**Descripción:** Vastísima librería de textos blasfemos, libros hechos de hierro con cuñas clavadas (no convencionales). Estantes de 40-50 metros. Bibliotecarios cielos, deformados, algunos angelicales.
+Vasta librería de textos blasfemos ubicada en el sexto círculo de Dis, en el distrito señalado por el estandarte de la biblioteca. Sus libros están hechos de hierro con cuñas clavadas — objetos que parecen concebidos para ser destruidos o para no ser comprendidos. Los estantes alcanzan 40-50 metros de altura; cosas flotan en el aire.
 
-**Atmósfera:** Lugar de extrañamiento. "Libros parecen estar hechos para ser destruidos o para no ser comprendidos." Cosas flotando. Protocolo de no-mirada (como celebridades, no miran a ojos).
+Los bibliotecarios son seres deformados, algunos de aspecto angelical, que practican un protocolo de no-mirada: no miran a los ojos, como celebridades que ignoran al público. El lugar transmite una sensación de extrañamiento profundo.
 
-**Función narrativa:** Base de operaciones de grupo en el archivo. Ubicación de búsqueda de [[Gran_Grimonio|Gran Grimonio]].
-
-**Puertas:** Puertas principales de Biblioteca conectan a puerta gate iron de Dis (abierta, luego cerrada tras entrada).
-
-**Confianza:** FUERTE — ubicación clara, descripción detallada.
+Sus puertas principales conectan con la puerta de hierro de Dis. Aquí se buscó el [[Gran_Grimonio|Gran Grimonio]].
 
 ## Ver también
 
-- [[Puertas|Puertas]]
+- [[Gran_Grimonio]]
+- [[Primer_Nivel_del_Infierno]]

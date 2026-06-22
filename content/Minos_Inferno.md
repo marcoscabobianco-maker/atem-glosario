@@ -2,9 +2,8 @@
 categoria: lugar
 tags:
  - "cdi"
- - "pnj"
+ - "figura"
  - "inferno"
- - "boss"
  - "juez"
  - "segundo-círculo"
 aliases:
@@ -20,12 +19,12 @@ aliases:
 
 ## Presentación
 
-Juez infernal del segundo círculo del Infierno de Dante, boss del Descenso el archivo. Juzga las almas con su cola: el número de vueltas indica el círculo de destino. En el combate, usa Legendary Actions, Teluric Strike, Fling y Frightful Presence. Derrotado por los compañeros; cae del precipicio junto a [[Helter]] (quien sobrevive vía Slow Fall).
+Juez infernal del segundo círculo del [[Infierno]] de Dante, antagonista mayor del Descenso. Juzga las almas con su cola: el número de vueltas indica el círculo de destino. En el combate actúa más veces de lo que el ojo sigue: golpe telúrico, lanzamiento de cuerpos, presencia que aterra. Derrotado por los compañeros; cae del precipicio junto a [[Helter]] (quien sobrevive cayendo leve como pluma).
 
 ## Apariciones notables
 
-el Descenso el archivo sección 9 (cola/queue de almas, burocracia), sección 10 (combate boss, –5400).
+el Descenso el archivo sección 9 (cola/queue de almas, burocracia), sección 10 (el combate contra el juez, –5400).
 
 ## Notas
 
-DISTINTO del Minos mitológico general. Esta es la versión homebrew D&D 5e de, con mecánicas propias.
+DISTINTO del Minos mitológico general. Esta es la versión propia del ciclo, con leyes propias.

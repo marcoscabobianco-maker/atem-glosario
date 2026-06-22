@@ -21,7 +21,7 @@ imagen: null
 ---
 # Drakthar
 
-> *"Algunos nobles —y quizás algo aún más peligroso— se beneficiaban del caos que Drakthar sembraba."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"Algunos nobles —y quizás algo aún más peligroso— se beneficiaban del caos que Drakthar sembraba."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
@@ -29,13 +29,13 @@ imagen: null
 
 **Draktharera operador clandestino del [[Shadowfell|Shadowfell]]** activo en torno a [[Caldero]]. *Su oficio*: **sembrar caos en la ciudad** *mediante manifestaciones de oscuros (criaturas de la sombra)*, *incursiones de Skulks*, *operaciones de cobertura cosmológica que el polo negativo intermedio facilitaba*.
 
-**No operaba solo**: **algunos nobles de Caldero** *—y quizás algo aún más peligroso*— **se beneficiaban del caos que Drakthar sembraba**. *Las víctimas del caos eran las barriadas inferiores*; *los beneficios eran de las torres altas*. **La asimetría no era accidente**: **Drakthar operaba con red de patronazgo en la sociedad caldera**, *donde la conspiración nobiliaria (Valanthru, Titti Frame, otros) aprovechaba el caos para consolidar control*.
+**No operaba solo**: **algunos nobles de [[Caldero]]** *—y quizás algo aún más peligroso*— **se beneficiaban del caos que Drakthar sembraba**. *Las víctimas del caos eran las barriadas inferiores*; *los beneficios eran de las torres altas*. **La asimetría no era accidente**: **Drakthar operaba con red de patronazgo en la sociedad caldera**, *donde la conspiración nobiliaria ([[Lord_Valanthru|Valanthru]], [[Titti_Frame]], otros) aprovechaba el caos para consolidar control*.
 
 ---
 
 ## La Senda de Drakthar
 
-**La misión que [[La_Jabalina]] emprendió** —*la Senda de Drakthar*— **fue operación de descenso a los pasadizos de [[Yathrebu]]**, **enclave subterráneo bajo Caldero o adyacente al territorio caldera donde Drakthar tenía base**. *Los pasadizos estaban infestados de oscuros*, **criaturas del Shadowfell** *que el operador comandaba o convocaba*.
+**La misión que [[La_Jabalina]] emprendió** —*la [[Senda_de_Drakthar]]*— **fue operación de descenso a los pasadizos de [[Yathrebu]]**, **enclave subterráneo bajo [[Caldero]] o adyacente al territorio caldera donde Drakthar tenía base**. *Los pasadizos estaban infestados de oscuros*, **criaturas del [[Shadowfell]]** *que el operador comandaba o convocaba*.
 
 **Durante la misión**:
 
@@ -47,15 +47,15 @@ imagen: null
 
 ## La red de corrupción expuesta
 
-*Las pistas obtenidas en la operación* **revelaron una red de corrupción que se extiende, como sospechaban, hasta las torres nobles**. *La Senda de Drakthar* **no fue sólo derrota de un operador clandestino del Shadowfell**; *fue **revelación cosmológica*** *de que el caos en Caldero* **no es accidental**: **es orquestado**, *con beneficiarios identificables en la sociedad alta*. **La Jabalina salió de Yathrebu con doble botín**: **la derrota del operador + el conocimiento de la red mayor**.
+*Las pistas obtenidas en la operación* **revelaron una red de corrupción que se extiende, como sospechaban, hasta las torres nobles**. *[[Senda_de_Drakthar|La Senda de Drakthar]]* **no fue sólo derrota de un operador clandestino del [[Shadowfell]]**; *fue **revelación cosmológica*** *de que el caos en Caldero* **no es accidental**: **es orquestado**, *con beneficiarios identificables en la sociedad alta*. **[[La_Jabalina]] salió de [[Yathrebu]] con doble botín**: **la derrota del operador + el conocimiento de la red mayor**.
 
-[*Drakthar era operador menor de una red mayor. Su derrota no termina el problema; lo abre. Lo que el cosmos extendido le mostró al grupo en su descenso es que la profecía Cageewrights opera con muchas manos. Una mano se neutralizó; las otras siguen activas. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*Drakthar era operador menor de una red mayor. Su derrota no termina el problema; lo abre. Lo que el cosmos extendido le mostró al grupo en su descenso es que la profecía [[Cageewrights]] opera con muchas manos. Una mano se neutralizó; las otras siguen activas. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
 ## La adoptación posterior
 
-**Después de la derrota de Drakthar**, *La Jabalina volvió bajo tierra en una segunda incursión a Yathrebu* —*"levantando la perdiz" en la formulación de Mascor Blancarba*— **terminando con la jabalina estacionando su pecho en sucio ataúd**. *La frase es ambigua*: **podría referirse al cierre simbólico del arco** (*la jabalina-arma del grupo se hunde en el ataúd que cierra la operación*), *o a un cierre literal* **donde el grupo enterró simbólicamente a Drakthar** *con la jabalina como arma ritual*.
+**Después de la derrota de Drakthar**, *[[La_Jabalina]] volvió bajo tierra en una segunda incursión a [[Yathrebu]]* —*"levantando la perdiz" en la formulación de [[Mascor_Blancarba]]*— **terminando con la jabalina estacionando su pecho en sucio ataúd**. *La frase es ambigua*: **podría referirse al cierre simbólico del arco** (*la jabalina-arma del grupo se hunde en el ataúd que cierra la operación*), *o a un cierre literal* **donde el grupo enterró simbólicamente a Drakthar** *con la jabalina como arma ritual*.
 
 *El archivo no resuelve la ambigüedad plenamente*. **Pero la operación se cerró**.
 

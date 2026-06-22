@@ -1,45 +1,19 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, lugar, kanka-5406925]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Foix_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Foix"]
 ---
 
-# ATEM::SaintGermain::MMF::Foix
+# Foix
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Foix_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Foix. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Ciudad y condado pirenaico al sur de [[Francia]], territorio de frontera entre el mundo occitano y la monarquía borbónica que el [[Cardenal_Mazarino]] administra desde París. En 1648, Foix pertenece a ese conjunto de plazas meridionales cuya lealtad a la corona es más nominal que efectiva: la distancia geográfica y la memoria de una autonomía anterior convierten a estas tierras en zonas de tránsito, contrabando y refugio para quienes huyen de las consecuencias de la Fronda.
 
-![[ATEM__SaintGermain__MMF__Foix_retrato.png]]
+El condado aparece en la trama de la campaña de Saint-Germain concentrado en un único período de agitación, lo que indica que su relevancia es episódica pero intensa: algo ocurre en Foix —o a través de Foix— que conecta el sur remoto con los sucesos que se desarrollan simultáneamente en Provenza, en el entorno del [[Feudo_de_Don_Guifré]].
 
+Su posición en el borde del reino lo convierte en un lugar donde las certezas del norte se disuelven y emergen otras lealtades, más antiguas o más oscuras.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5406925
-**kanka_url:** https://app.kanka.io/w/216093/entities/5406925
-**kanka_kind:** location
-**kanka_type:** (vacío)
-**parent_location:** Francia (kanka 5151801)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 12
-- **Sesiones donde aparece** (1/9):
-  - S5 — 12 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Francia]] — reino soberano del que Foix es condado subordinado
+- [[Feudo_de_Don_Guifré]] — dominio señorial contiguo en la franja pirenaica
+- [[Cardenal_Mazarino]] — poder central que proyecta su autoridad sobre las provincias meridionales
+- [[Carcassone]] — plaza fuerte vecina en el sur occitano

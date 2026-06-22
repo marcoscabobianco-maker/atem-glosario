@@ -22,15 +22,15 @@ tags:
 
 # Pluma de Thoth
 
-> *Pluma ritual sagrada de Thoth. Graba conocimiento en quien la blande. Bayrum la usó en el ritual de muerte de Numa Pompidio (el regreso tras el Hiato retrospección).*
+> *Pluma ritual sagrada de Thoth. Graba conocimiento en quien la blande. Bayrum la usó en el ritual de muerte de [[Numa_Pompidio]] (el regreso tras el Hiato retrospección).*
 
 ## Presentación
 
-La **Pluma de Thoth** —*Pen of Thoth*, **pluma mítrica del conocimiento**— es un **artefacto sagrado del culto de Thoth** que apareció en el ritual de muerte de **[[Numa_Pompidio]]** —el primer druida del grupo Buscadores—.
+La **Pluma de Thoth** —*Pen of Thoth*, **pluma mítrica del conocimiento**— es un **artefacto sagrado del culto de Thoth** que apareció en el ritual de muerte de **[[Numa_Pompidio]]** —el primer druida del grupo [[Buscadores_de_Ardis_Vala|Buscadores]]—.
 
 ### El ritual
 
-En la **muerte de Numa Pompidio** (descrita retrospectivamente en el regreso tras el Hiato), **[[Bayrum_Cristalia|Bayrum]]** —Scrivener / sacerdote de Thoth— **escribió con la pluma un álbum / texto ritual** asociado al druida moribundo:
+En la **muerte de [[Numa_Pompidio]]** (descrita retrospectivamente en el regreso tras el Hiato), **[[Bayrum_Cristalia|Bayrum]]** —Scrivener / sacerdote de Thoth— **escribió con la pluma un álbum / texto ritual** asociado al druida moribundo:
 
 > *"Hicimos un ritual de Thoth. Se empezó el álbum. Y vos escribiste con la pluma."*
 
@@ -38,7 +38,7 @@ En la **muerte de Numa Pompidio** (descrita retrospectivamente en el regreso tra
 
 > *"Fue tan fuerte eso que bueno, se te quedó ese conocimiento. En el futuro vos podrías saber cómo decir esas palabras."*
 
-Bayrum **adquirió conocimiento críptico** —**palabras mítricas, conjuros sortianos, alguna verdad cosmológica**— por **haber empuñado la pluma durante el ritual**. **Marcador de compañero** activable en sesiones futuras.
+Bayrum **adquirió conocimiento críptico** —**palabras mítricas, conjuros sortianos, alguna verdad cosmológica**— por **haber empuñado la pluma durante el ritual**. **Marcador de compañero** activable en jornadas futuras.
 
 ### Su naturaleza
 
@@ -61,8 +61,8 @@ La Pluma de Thoth probablemente combina:
 La pluma puede ser **artefacto preexistente** del culto de Thoth (módulo de Barton) o **creación cosmológica** durante el ritual ( invocó la imagen).
 
 **Posibles ubicaciones del origen**:
-- **L2 Library of Thoth** (2-72) — posible custodia
-- **L3 Templo público de Thoth** —donde Numa Pompidio fue inmolado
+- **Cuevas Aullantes [[Library_of_Thoth]]** — posible custodia
+- **Halls of Thoth Templo público de Thoth** —donde Numa Pompidio fue inmolado
 - **Don de Thoth a un sacerdote** —ritualmente invocada
 
 ## Vínculos
@@ -71,7 +71,7 @@ La pluma puede ser **artefacto preexistente** del culto de Thoth (módulo de Bar
 - [[Bayrum_Cristalia]] — usuario en el regreso tras el Hiato retrospección
 - [[Numa_Pompidio]] — druida muerto en el ritual
 - [[Caladan]] — acompañante del ritual
-- [[Halls_of_Thoth_Nivel|L3]] — sede ritual probable
+- [[Halls_of_Thoth_Nivel|Halls of Thoth]] — sede ritual probable
 - [[Library_of_Thoth]] — posible custodia
 - [[Custodes_Oculis_Solis]] — orden sacerdotal de Thoth (procesión celestial presente)
 - [[Mega_Dungeon_Arden_Vul]]
@@ -80,4 +80,4 @@ La pluma puede ser **artefacto preexistente** del culto de Thoth (módulo de Bar
 ## Apariciones
 
 - **el regreso tras el Hiato retrospección** — ritual de muerte de Numa Pompidio
-- **Pendiente**: posible reuso en sesiones siguientes con Bayrum como portador del conocimiento
+- **Pendiente**: posible reuso en jornadas siguientes con Bayrum como portador del conocimiento

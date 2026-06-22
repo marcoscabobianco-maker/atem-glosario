@@ -29,7 +29,7 @@ Funciona como antagonista del grupo anarquista durante el viaje: quiere viajar s
 
 ## Notas
 
-Nombre propio no dado en el guión. ¿Relacionada con la Princesa Kimchi de la entrada de [[Lotario]]/Kanka? Poco probable por cronología (Kimchi es de Corea, esta es de linaje élfico occidental), pero verificar. El contenido del cofre no se revela en el material disponible.
+Nombre propio no dado en el guión. ¿Relacionada con la [[Kimchi_Princess|Princesa Kimchi]] de la entrada de [[Lotario]]? Poco probable por cronología ([[Kimchi_Princess|Kimchi]] es de Corea, esta es de linaje élfico occidental), pero verificar. El contenido del cofre no se revela en el material disponible.
 
 ## Links externos
 

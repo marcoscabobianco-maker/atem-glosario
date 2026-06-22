@@ -16,7 +16,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.
 **Nota:** GLOSARIO ya tiene referencia a "El Guerrero" pero en otro contexto. Verificar si es el mismo.
 
 ### el plano operativo
@@ -27,4 +27,4 @@ Locomotora a vapor que recorre la ruta del "Camino del Guerrero" por el norte de
 
 GLOSARIO ya tiene referencia a "El Guerrero" pero en otro contexto. Verificar si es el mismo.
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.

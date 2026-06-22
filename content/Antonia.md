@@ -21,7 +21,7 @@ Evolución en el guión: empieza como bárbara perdida en la meseta madrileña y
 
 ## Notas
 
-Antonia y **[[Maleika_Maleyka]]** son personajes distintos de jugadoras distintas. Antonia es anterior; [[Maleika_Maleyka]] aparece después en la fase Profundos/Reguladores.
+Antonia y **[[Maleika_Maleyka]]** son personajes distintos, de manos distintas. Antonia es anterior; [[Maleika_Maleyka]] aparece después en la fase Profundos/Reguladores.
 
 ## Ver también
 

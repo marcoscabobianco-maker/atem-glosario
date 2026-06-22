@@ -9,11 +9,11 @@ aliases:
 ## Presentación
 
 **Rareza:** Moderada-Alta
-**Portador actual:** [[Reynaud|Reynaud]] (asignado durante la operación al Temple)
-**Descripción:** Anillo que aumenta +2 a todos los hechizos/efectos de curación dependientes de nivel de mago. Ejemplo: Cure Wounds (max 8+5) con anillo = max 10+7. Efectivamente aumenta techo de curación en ~20-30%.
-**Mecanismo:** Pasivo; no requiere activación, se aplica automáticamente
-**Valor estratégico:** ALTO para grupo — aumenta sustancialmente capacidad de sanación [[Reynaud|Reynaud]]
-**Nota:** Presagia que [[Reynaud|Reynaud]] será principal curador/médico del grupo.
+**Portador actual:** [[Michel|Michel]] (asignado durante la operación al [[Temple_complejo_TE|Temple]])
+**Descripción:** Anillo que ahonda toda curación obrada por su portador: las heridas cierran más de lo que el arte solo alcanzaría.
+**Naturaleza:** Obra solo; no exige gesto ni palabra
+**Valor estratégico:** ALTO para grupo — aumenta sustancialmente capacidad de sanación [[Michel|Michel]]
+**Nota:** Presagia que [[Michel|Michel]] será principal curador/médico del grupo.
 
 ## Ver también
 

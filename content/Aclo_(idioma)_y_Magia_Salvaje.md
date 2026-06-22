@@ -1,34 +1,18 @@
 ---
-tags: [Vala, VALA, concepto]
-meta: M
-nexus_status: APPROVED
+categoria: concepto
+tags: ["concepto", "vala"]
+aliases: ["Aclo", "Magia Salvaje"]
 ---
 
 # Aclo (idioma) y Magia Salvaje
-**Acción:** Crear.
 
-## Capa juego
+El aclo es la lengua del más allá del velo — una lengua no de los vivos sino de aquello que aguarda al otro lado del umbral. Solo [[Nancon]] la habla, y únicamente cuando el furor lo consume por completo: en el arrebato de combate, su voz abandona todo idioma conocido y desciende a ese registro arcano que los estudiosos del orbe Vala no han podido codificar ni transcribir. El aclo no se aprende; se hereda de algo más antiguo que cualquier linaje.
 
-**Aclo:** "Idioma del más allá del velo". Lengua que **Nancon** habla **únicamente durante el rage**. Es el medio por el que canaliza su magia oracular en combate. Referente literario evidente: Aklo, lengua mítica de la tradición Machen → Lovecraft (en *The White People*, en *The Dunwich Horror*). En Lovecraft, el aklo es el lenguaje secreto que vehicula la verdad cósmica innombrable.
+A través del aclo, [[Nancon]] canaliza una magia que los archivos llaman salvaje: oráculos pronunciados en pleno frenesí, visiones entregadas en el mismo instante en que el cuerpo golpea. Esta fusión de trance profético y violencia ritual es inusual incluso en Vala, donde lo visionario y lo guerrero suelen habitar cuerpos separados. En Nancon, coexisten sin resolverse — y esa tensión es, precisamente, la fuente del poder.
 
-**Magia salvaje:** Habilidad de Nancon que le permite "castear conjuros de oráculo en rage". Implica fusión de clases ACKS (bárbaro + oráculo). Reskin posible: **Oracle Berserker** homebrew. Conectado con el "joven niño del vacío" — figura de inocencia que retorna como soporte de la magia.
+El aclo conecta a Nancon con "Aquel que está más allá del umbral" — una entidad o presencia sin nombre confirmado en los registros — y con el pináculo de sombras, locus donde la salida del origen de todo se hace visible. Este mismo umbral tiene ecos en el mundo de sombras que [[Sheridan]] conoce de primera mano, lo que sugiere que Nancon no habla una lengua inventada: habla la lengua de un mundo que ya existía antes de que Vala tuviera historia.
 
-## Capa cosmológica
-
-El aclo conecta a Nancon con:
-- "Aquel que está más allá del umbral" (¿el emisario de [[Nyarlathotep]]?, ¿una entidad propia?).
-- El "pináculo de sombras" — locus que el Master describe como punto donde la "salida de donde vino todo" se hace visible.
-- El **mundo de sombras / negrito** del que Sheridan fue Master previamente.
-
-Si el aclo conecta con un mundo de sombras donde Sheridan fue Master, entonces Nancon es **emisario de un mundo en el que otro jugador fue creador**. Capa [R] potente para narrativización.
-
-## Ref.
-
-individual gharkan (1); rol_vala_intro_de_belial_previo_fin_laberinto_ur_draxa (descripción del mecanismo: aclo + Atrox + niño del vacío).
-
-## Preguntas
-
-1. ¿Hay reglas de mesa específicas para el aclo (qué pueden y no pueden hablar los PJs en rage)?
-2. ¿"Joven niño del vacío" y "Atrox" son dos aspectos del mismo personaje o entidades separadas que cohabitan Nancon?
-3. ¿La referencia a Aklo (Lovecraft) es declarada en mesa o lectura archivística posterior?
-
+## Vínculos
+- [[Nancon]] — portador único del aclo; lo habla en estado de frenesí
+- [[Atrox]] — el otro modo de Nancon, calculador; alterna con el "joven niño del vacío"
+- [[Sheridan]] — conoce el mundo de sombras al que el aclo parece conectar

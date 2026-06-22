@@ -22,13 +22,13 @@ imagen: null
 
 # Gretchyn Tashykk
 
-> *"Anciana halfling arrugada como una pasa. Aunque desconfió inicialmente de ellos, al ver el estado de Rulfo y reconocer a los aventureros como enviados del templo, les permitió la entrada, aunque seguía cautelosa."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"Anciana halfling arrugada como una pasa. Aunque desconfió inicialmente de ellos, al ver el estado de Rulfo y reconocer a los aventureros como enviados del templo, les permitió la entrada, aunque seguía cautelosa."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
 ## La encargada
 
-**Gretchyn Tashykk** es **anciana halfling** —*"arrugada como una pasa"*, en la descripción de Mascor Blancarba— **encargada operativa del [[Orfanato_de_la_Calle_de_la_Linterna|Orfanato de la Calle de la Linterna]]** en Caldero. *Coadministra con [[Rulfo]]*, *el guardián*; *mientras Rulfo opera la seguridad y los espacios físicos*, **Gretchyn opera la administración interior**: **comida, ropa, cuidado de los pequeños, registros del orfanato**.
+**Gretchyn Tashykk** es **anciana halfling** —*"arrugada como una pasa"*, en la descripción de [[Mascor_Blancarba]]— **encargada operativa del [[Orfanato_de_la_Calle_de_la_Linterna|Orfanato de la Calle de la Linterna]]** en [[Caldero]]. *Coadministra con [[Rulfo]]*, *el guardián*; *mientras Rulfo opera la seguridad y los espacios físicos*, **Gretchyn opera la administración interior**: **comida, ropa, cuidado de los pequeños, registros del orfanato**.
 
 *Su estatura halfling* y *su edad avanzada* **no operan contra ella**: **disciplina cuidadosa**, **conocimiento del oficio**, **memoria institucional larga**. **El orfanato funciona** *por la operación conjunta de Rulfo + Gretchyn*; *cuando Rulfo cayó víctima del ataque de la Compañía de la Risa*, **Gretchyn sostuvo el orfanato sola** hasta que el guardián volvió recuperado.
 
@@ -36,15 +36,15 @@ imagen: null
 
 ## La cautela inicial
 
-**Cuando La Jabalina llegó al orfanato cargando a Rulfo**: **Gretchyn desconfió inicialmente**. *Una anciana halfling sola con niños* **no abre la puerta sin precaución**. *Al ver el estado de Rulfo* —*herido, maltratado*— *y al **reconocer a los aventureros como enviados del Templo** —*la convocatoria de [[Jenya_Urikas|Jenya Urikas]] había llegado a ella vía el aparato eclesial*—, **les permitió la entrada**. **Pero siguió cautelosa**: *sus ojos arrugados* **observaban cada movimiento del grupo**, *sus preguntas eran precisas*, *no permitió que los aventureros se acercaran a los niños sin supervisión*.
+**Cuando [[La_Jabalina]] llegó al orfanato cargando a Rulfo**: **Gretchyn desconfió inicialmente**. *Una anciana halfling sola con niños* **no abre la puerta sin precaución**. *Al ver el estado de Rulfo* —*herido, maltratado*— *y al **reconocer a los aventureros como enviados del Templo** —*la convocatoria de [[Jenya_Urikas|Jenya Urikas]] había llegado a ella vía el aparato eclesial*—, **les permitió la entrada**. **Pero siguió cautelosa**: *sus ojos arrugados* **observaban cada movimiento del grupo**, *sus preguntas eran precisas*, *no permitió que los aventureros se acercaran a los niños sin supervisión*.
 
-*La cautela operó en favor de los niños*: **Gretchyn protegió a los huérfanos sobrevivientes** *de la sobreestimulación que un grupo armado de aventureros podía provocar*. **Los niños estaban claramente asustados**, *entre ellos un niño llamado **[[Jaromir]]*** *que parecía ser clave*; **Gretchyn permitió interrogación con cuidado** y **accedió a regañadientes a que el grupo se llevara a Jaromir** tras la insistencia de los aventureros.
+*La cautela operó en favor de los niños*: **Gretchyn protegió a los huérfanos sobrevivientes** *de la sobreestimulación que un grupo armado de aventureros podía provocar*. **Los niños estaban claramente asustados**, *entre ellos un niño llamado **[[Jaromir]]*** *que parecía ser clave*; **Gretchyn permitió interrogación con cuidado** y **accedió a regañadientes a que el grupo se llevara a [[Jaromir]]** tras la insistencia de los aventureros.
 
 ---
 
 ## La recepción en la salida
 
-**Tras el rescate de los cuatro huérfanos del Bazar de la Vida**: *cuando el sol comenzó a asomarse tímidamente por las grietas del mundo superior*, *los dos subgrupos decidieron que era hora de abandonar la fortaleza*. **El ascensor los llevó lentamente a la superficie**. *Cuando finalmente emergieron al aire fresco, el contraste fue casi abrumador*.
+**Tras el rescate de los cuatro huérfanos del [[Bazar_de_la_Vida]]**: *cuando el sol comenzó a asomarse tímidamente por las grietas del mundo superior*, *los dos subgrupos decidieron que era hora de abandonar la fortaleza*. **El ascensor los llevó lentamente a la superficie**. *Cuando finalmente emergieron al aire fresco, el contraste fue casi abrumador*.
 
 **Allí Gretchyn Tashykk los recibió con lágrimas en los ojos**. *La cautela inicial se había transformado en gratitud*; *los aventureros, aunque exhaustos, se tomaron un momento para mirar el amanecer juntos*, **compartiendo un silencio cargado de significado**.
 
@@ -60,7 +60,7 @@ imagen: null
 
 ## Vínculos
 
-- **Orfanato de la Calle de la Linterna** — institución que coadministra
+- **[[Orfanato_de_la_Calle_de_la_Linterna]]** — institución que coadministra
 - [[Rulfo]] — guardián, su coadministrador
 - [[Jaromir]] — niño huérfano clave
 - [[Jenya_Urikas]] — sacerdotisa cuya convocatoria de aventureros llegó al orfanato
@@ -70,8 +70,8 @@ imagen: null
 
 ## Apariciones
 
-- **Período pre-La Jabalina** — coadministradora con Rulfo, oficio rutinario
+- **Período pre-[[La_Jabalina]]** — coadministradora con Rulfo, oficio rutinario
 - **Llegada de Rulfo herido** — cautela inicial, reconocimiento de los aventureros como enviados del Templo
-- **Interrogación de Jaromir** — supervisión cautelosa
+- **Interrogación de [[Jaromir]]** — supervisión cautelosa
 - **Recepción de los aventureros con niños rescatados** — lágrimas, café con leche
 - **1824 AE — ciclo presente** — anciana halfling continúa operando el orfanato

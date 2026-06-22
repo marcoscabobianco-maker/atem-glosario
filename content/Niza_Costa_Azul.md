@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-Puerto costero francés en la Costa Azul (Côte d'Azur), [[Mediterraneo_Ucronico|Mediterráneo]]. Punto estratégico de encuentro entre [[Time_Bandits|Time Bandits]] y agentes del [[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]] después del escape en [[Orient_Express|Orient Express]]. Escenario de el archivo (transición de fuga terrestre a navegación marítima).
+Puerto costero francés en la Costa Azul (Côte d'Azur), [[Mediterraneo_Ucronico|Mediterráneo]]. Punto estratégico de encuentro entre [[Time_Bandits|Time Bandits]] y agentes del [[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]] después del escape en [[Orient_Express|Orient Express]]. [[Escenario]] de el archivo (transición de fuga terrestre a navegación marítima).
 
 **Función narrativa:**
 - Punto de desembarque: grupo abandona tierra (Suiza/carreteras seguras) y sube a yate de [[Meteora]].
@@ -28,7 +28,7 @@ Puerto costero francés en la Costa Azul (Côte d'Azur), [[Mediterraneo_Ucronico
 - Zona donde confluyen rutas comerciales internacionales.
 - Discreción disponible para operaciones clandestinas (contratación de embarcaciones, cambio de documentos).
 
-**Presencia de Ministerio:**
+**[[Presencia_de_Ministerio]]:**
 [[Meteora]] opera desde base provisional en Niza, coordina recepción del grupo, facilita equipamiento y papeles. Sugiere que Ministerio mantiene redes en ciudades costeras para operaciones marítimas y transporte internacional de agentes.
 
 ## Apariciones notables

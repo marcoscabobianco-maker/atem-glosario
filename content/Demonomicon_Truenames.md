@@ -31,5 +31,5 @@ La lámina lo fija como **gran grimorio encuadernado** sobre mesa de piedra, **a
 ## Vínculos
 
 - [[Grazzt|Graz'zt / Grast]] — demonio cuyos Verdaderos Nombres registra
-- [[Eagwulf_Iggwilf]] — archimaga que utilizó los Truenames para sellar a Grast en Iron Mountain
+- [[Eagwulf_Iggwilf]] — archimaga que utilizó los Truenames para sellar a Grast en [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]]
 - [[Gary_TNW]] — escenario del eclipse del 14 de abril donde los Truenames operaron

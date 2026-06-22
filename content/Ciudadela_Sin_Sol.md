@@ -28,17 +28,17 @@ La **Ciudadela Sin Sol** es la **antigua sede del Lord [[Decio_Balmora]]** —el
 
 Durante el **desastre de [[Ritornello]]** hace 15 años —*"lo de las cenizas"*—, la estructura del valle se quebró: una **grieta horrenda** se abrió, y el castillo de Decio **se hundió 20-30-40 metros**. No fue destruido del todo: quedó en **escombros parcialmente accesibles**, una ruina vertical en el risco. Otras estructuras del valle también se vieron afectadas.
 
-### Cross-campaña con Novatos Ravenloft (Reveal 2026-05-20 )
+### Cross-campaña con Novatos Ravenloft
 
-**La Ciudadela Sin Sol de Ardis Vala = adaptación local del módulo [[Sunless_Citadel|]]** (Bruce R. Cordell, D&D 3e 2000) que también usa en [[Novatos_Ravenloft_ACKS|Novatos Ravenloft]]. Es **literalmente el mismo escenario diegético**:
+**La Ciudadela Sin Sol de [[Ardis_Vala]] = el mismo escenario que la [[Ciudadela_Hundida|Ciudadela hundida]]** que recorren los [[Novatos_Ravenloft|Novatos Ravenloft]]. Es **literalmente el mismo escenario diegético**:
 
-- **Stejara/Estellara/Valdemora** = pueblo natal del descenso
-- **Mirela Vălcan/Valka** = madre de los hijos perdidos (figura cross-campaña)
-- **Barranco profundo con vaho dulzón** = entrada al dungeon (en Ardis Vala, también el risco hundido de la Ciudadela)
-- **30 años desde el arma** ≈ **15 años desde Ritornello** (Ardis Vala) — discrepancia cronológica pendiente
+- **[[Stejara]]/[[Estellara]]/[[Valdemora]]** = pueblo natal del descenso
+- **[[Mirela_Valka|Mirela]] Vălcan/Valka** = madre de los hijos perdidos (figura cross-campaña)
+- **Barranco profundo con vaho dulzón** = entrada al dungeon (en [[Ardis_Vala]], también el risco hundido de la Ciudadela)
+- **30 años desde el arma** ≈ **15 años desde [[Ritornello]]** (Ardis Vala) — discrepancia cronológica pendiente
 - **Las uniones de carbono se deshicieron** —daño orgánico masivo, [[Cristalizacion_Maquinas|cristalización]] técnica acompañó—
 
-**Habitación 12** del adaptado contenía a **[[Kerbog_Khan|Kerbog Khan]] (el "Elfo Troll") en un sarcófago** — **rescatado por los compañeros Novatos en su el archivo**. **Echo narrativo paralelo al sarcófago de [[Caladan]]** en el archivo Ardis Vala.
+**Habitación 12** contenía a **[[Kerbog_Khan|Kerbog Khan]] (el "Elfo Troll") en un sarcófago** — **rescatado por los compañeros [[Novatos_Ravenloft|Novatos]] en su jornada**. **Echo narrativo paralelo al sarcófago de [[Caladan]]** en el archivo Ardis Vala.
 
 Lo que era **Castillo Balmora** —residencia noble menor, posiblemente con torre y patio— pasó a llamarse **Ciudadela Sin Sol** por su nueva condición: hundido bajo el horizonte, en sombra perpetua, **inaccesible al sol** desde abajo del risco.
 
@@ -52,11 +52,11 @@ Lo que era **Castillo Balmora** —residencia noble menor, posiblemente con torr
 
 ### Función estratégica en el regreso tras el Hiato
 
-Cuando Luminita y Dracos (hijos de [[Mirela_Valka]]) desaparecen, los Buscadores y Decio bajan **a través de la Ciudadela hundida** para perseguirlos. La estructura funciona como **entrada de descenso vertical** del antiguo castillo a las profundidades. Allí encuentran:
+Cuando Luminita y Dracos (hijos de [[Mirela_Valka]]) desaparecen, los [[Buscadores_de_Ardis_Vala|Buscadores]] y Decio bajan **a través de la Ciudadela hundida** para perseguirlos. La estructura funciona como **entrada de descenso vertical** del antiguo castillo a las profundidades. Allí encuentran:
 - Reina cobold y un dragoncillo menor (pasaje libre con perlas)
-- El pozo / la florescencia que llama a Caladan con la voz de Lali
+- El pozo / la florescencia que llama a [[Caladan]] con la voz de Lali
 - La cripta corrupta de Lali con baronesa sangrienta y látigos infernales
-- El túnel que lleva al cuarto del montaraz (Argus) y de ahí al pentagrama → Palacio del Prisma
+- El túnel que lleva al cuarto del montaraz (Argus) y de ahí al pentagrama → [[Palacio_del_Prisma]]
 
 ## Vínculos
 

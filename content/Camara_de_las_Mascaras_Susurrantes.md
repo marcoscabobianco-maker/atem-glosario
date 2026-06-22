@@ -38,10 +38,10 @@ imagen: null
 
 **Las máscaras talladas en las paredesoperan con función ritual o protectora antigua**. *Su origen no se preserva con detalle*: podrían ser:
 
-- **Decoración de antigua era enana** *cuando Zenith Splintershield comandaba la Fortaleza*.
+- **Decoración de antigua era enana** *cuando [[Zenith_Splintershield]] comandaba la Fortaleza*.
 - **Operación de Pesos** del polo negativo intermedio que *vigila al que penetra la sub-estructura sagrada*.
-- **Restos de culto teósofo clandestino** *que operó en el subsuelo antes del establecimiento de la red de Kazmojen*.
-- **Cosmología propia del lugar** *vinculada con la Plataforma primigenia que respira bajo Caldero*.
+- **Restos de culto teósofo clandestino** *que operó en el subsuelo antes del establecimiento de la red de [[Kazmojen]]*.
+- **Cosmología propia del lugar** *vinculada con la [[Aldebaran_Estrella_Plataforma|Plataforma]] primigenia que respira bajo [[Caldero]]*.
 
 *Los rostros tallados* **no son humanos plenamente**: *algunos tienen rasgos de bestia*, *otros geométricos abstractos*, *otros con expresiones que el cuerpo humano no puede sostener fácilmente*. **La impresión que dejan en el visitantees de presencia colectiva**, *no de figura individual*: **la cámara opera como cuerpo único** *cuyas voces emergen como susurros simultáneos no sincronizados*.
 
@@ -49,11 +49,11 @@ imagen: null
 
 ## El descanso del subgrupo
 
-**Durante la primera misión de La Jabalina**, *el subgrupo Ayrton-Sila-Tony descansó en la Cámara* **tras horas de tensión, exploración y enfrentamientos**. *El cansancio pesaba sobre ellos como una segunda piel*. **Habían decidido descansar allí, bajo las vigilantes máscaras de piedra, talladas con expresiones inquietantes que parecían murmurar entre sí, aunque el sonido jamás llegaba a ser más que un susurro ininteligible**.
+**Durante la primera misión de [[La_Jabalina]]**, *el subgrupo [[Ayrton_Auslander|Ayrton]]-Sila-Tony descansó en la Cámara* **tras horas de tensión, exploración y enfrentamientos**. *El cansancio pesaba sobre ellos como una segunda piel*. **Habían decidido descansar allí, bajo las vigilantes máscaras de piedra, talladas con expresiones inquietantes que parecían murmurar entre sí, aunque el sonido jamás llegaba a ser más que un susurro ininteligible**.
 
 *Habían evitado activar más trampas*, **habían dejado de lado la codicia por los tesoros ocultos** y, *por una vez*, **buscaban solo recuperar fuerzas**. *Pero el descanso era frágil*; **Sila percibió ruido**: **un leve chirrido metálico resonó desde el pasillo**.
 
-**Sila fue el primero en alzar la cabeza**, *sus sentidos entrenados captando el eco de un movimiento deliberado*. **Ayrton se incorporó rápidamente, su daga en mano**, *mientras Tony Malatesta ajustaba los pliegues de su túnica*, *preparándose para lo que fuera*.
+**Sila fue el primero en alzar la cabeza**, *sus sentidos entrenados captando el eco de un movimiento deliberado*. **[[Ayrton_Auslander|Ayrton]] se incorporó rápidamente, su daga en mano**, *mientras [[Tony_Malatesta]] ajustaba los pliegues de su túnica*, *preparándose para lo que fuera*.
 
 *"¿Otra trampa?"*, **murmuró Sila**, *avanzando con cautela hacia la fuente del ruido*.
 
@@ -65,15 +65,15 @@ imagen: null
 
 **Lo que distinguió a Sila de Ayrton y Tony en la Cámara**: **la afectación visible**. *Ayrton operó con pragmatismo*; **Tony se concentró en el reloj de la Torre Eiffel que había traído consigo**. **Sila, sin embargo, parecía más afectado**: *"Están... advirtiéndonos de algo"*, **dijo, su voz apenas audible**. *Sus ojos recorrían las máscaras con una mezcla de fascinación y temor*.
 
-*El lazo de Sila con el Shadowfell le permite oír los susurros como mensaje*, **no como ambiente**. **Lo que las máscaras advertían** *no se ha precisado*; **el grupo no se quedó suficiente tiempo para descubrirlo**. *Anticipación abierta para próximas operaciones*.
+*El lazo de Sila con el [[Shadowfell]] le permite oír los susurros como mensaje*, **no como ambiente**. **Lo que las máscaras advertían** *no se ha precisado*; **el grupo no se quedó suficiente tiempo para descubrirlo**. *Anticipación abierta para próximas operaciones*.
 
 ---
 
 ## El estatuto cosmológico
 
-**La Cámara opera como locus de vigilancia cosmológica antigua** en el subsuelo de Caldero. **No es trampa hostil** *—no ataca al que entra*; **es** *advertidor*. **Lo que las máscaras advierten** *podría referirse a*:
+**La Cámara opera como locus de vigilancia cosmológica antigua** en el subsuelo de [[Caldero]]. **No es trampa hostil** *—no ataca al que entra*; **es** *advertidor*. **Lo que las máscaras advierten** *podría referirse a*:
 
-- **Los Cageewrights y la profecía de las marcas** *(si las máscaras conservan memoria ritual de operaciones anteriores)*.
+- **[[Cageewrights|Los Cageewrights]] y la profecía de las marcas** *(si las máscaras conservan memoria ritual de operaciones anteriores)*.
 - **La reactivación posible de la [[Capilla_Oscura]]** *(si las máscaras vigilan la grieta cosmológica que el rito de Reconexión Sagrada selló)*.
 - **El peligro que el polo negativo gesta en las torres altas** *(si las máscaras operan con conciencia trans-geográfica)*.
 - **Algo que aún no se ha articulado plenamente** *en el archivo*.
@@ -96,7 +96,7 @@ imagen: null
 ## Apariciones
 
 - **Era antigua** — establecimiento de las máscaras talladas; función ritual original no preservada
-- **Período Zenith Splintershield** — la Cámara operativa bajo el defensor enano
+- **Período [[Zenith_Splintershield]]** — la Cámara operativa bajo el defensor enano
 - **Siglos posteriores** — abandono parcial; susurros continuos sostenidos
-- **Primera misión de La Jabalina** — descanso del subgrupo Ayrton-Sila-Tony; advertencia de Sila no plenamente comprendida
+- **Primera misión de [[La_Jabalina]]** — descanso del subgrupo Ayrton-Sila-Tony; advertencia de Sila no plenamente comprendida
 - **1824 AE — ciclo presente** — susurros activos; advertencia pendiente de interpretación

@@ -24,9 +24,9 @@ imagen: Imagenes_Tier1/Espejo_de_Pleroma.png
 ![[Imagenes_Tier1/Espejo_de_Pleroma.png]]
 <!-- /HEADER_IMG -->
 
-> *"Hay espejos donde se ve uno y hay espejos donde se ve lo que viene. El de Pleroma es de los segundos — pero conviene que el observador esté arrodillado y no de pie."*
+> *"Hay espejos donde se ve uno y hay espejos donde se ve lo que viene. El de [[Pleroma]] es de los segundos — pero conviene que el observador esté arrodillado y no de pie."*
 
-La lámina lo fija en **sala interior**, **gran disco de obsidiana** sobre **marco de piedra labrada con sellos rúnicos**, en el corazón del **[[Castillo_del_Prisma|Castillo del Prisma]]**. Dentro del cristal —en vez del reflejo del observador— se ve **un amanecer dorado sobre un mar lejano** —*el faro del Pleroma, el lugar de donde la luz divina emerge antes de derramarse*—. **Tres iniciados arrodillados** ante el espejo en disposición triangular, hábitos blancos, negros y grises.
+La lámina lo fija en **sala interior**, **gran disco de obsidiana** sobre **marco de piedra labrada con sellos rúnicos**, en el corazón del **[[Castillo_del_Prisma|Castillo del Prisma]]**. Dentro del cristal —en vez del reflejo del observador— se ve **un amanecer dorado sobre un mar lejano** —*el faro del [[Pleroma]], el lugar de donde la luz divina emerge antes de derramarse*—. **Tres iniciados arrodillados** ante el espejo en disposición triangular, hábitos blancos, negros y grises.
 
 ## Vínculos
 

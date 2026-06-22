@@ -35,7 +35,7 @@ imagen: Imagenes_Tier1/Flying_Dutchman_Holandes_Errante.png
 
 **Es nave sobrenatural y nave física a la vez**. *Interior orgánico*: las cuadernas del casco son costillas, **las paredes son de color carne y respiran de día**, los tabiques mueven cuando el barco vira. **Se alimenta de almas**; las cuenta y las administra. La sombra que proyecta sobre el agua mide **doscientos kilómetros** —y la sombra es jurisdicción, no figura geométrica: lo que la sombra cubre, el Holandés puede reclamar—.
 
-**Viaja entre realidades**. *Atravesó el camino oceánico desde [[Fort_Henry|Fort Henry]] hasta [[Manhattan_New_Amsterdam_1662-1666|Manhattan]], de Manhattan al [[Valle_de_Canagua_Cascada_Agua_Azul|Valle de Canagua]], del Valle a la Luna*; **el rastreo del grupo de [[Northern_Crown_NC|Northern Crown]] cubre todo ese arco**. **La Luna no fue puerto excepcional**: la nave la trata como otra rada más, y los marineros bajan a cargar agua de mares lunares como si el agua lunar estuviera autorizada.
+**Viaja entre realidades**. *Atravesó el camino oceánico desde [[Fort_Henry|Fort Henry]] hasta [[Manhattan_New_Amsterdam_1662-1666|Manhattan]], de [[Manhattan_New_Amsterdam_1662-1666|Manhattan]] al [[Valle_de_Canagua_Cascada_Agua_Azul|Valle de Canagua]], del Valle a la Luna*; **el rastreo del grupo de [[Northern_Crown_NC|Northern Crown]] cubre todo ese arco**. **[[La_Luna]] no fue puerto excepcional**: la nave la trata como otra rada más, y los marineros bajan a cargar agua de mares lunares como si el agua lunar estuviera autorizada.
 
 ---
 
@@ -66,10 +66,10 @@ imagen: Imagenes_Tier1/Flying_Dutchman_Holandes_Errante.png
 
 ## Apariciones
 
-- **NC07a — Patience a bordo** — ritual y embarque
+- **NC07a — [[Anti_Inferno|Patience]] a bordo** — ritual y embarque
 - **NC07b — revelación al grupo** — confrontación inicial
-- **NC08 — interrogatorio** — Edward y compañía
-- **NC09 — Batalla del Molino** — referencia colateral
+- **NC08 — interrogatorio** — [[Edward]] y compañía
+- **NC09 — [[Batalla_del_Molino_NC09|Batalla del Molino]]** — referencia colateral
 - **NC11 — tránsito** — la nave en movimiento
 - **NC13 — rastreo a la Luna** — coordenadas lunares
 - **NC14 — abordaje en la Luna; paz** — cesión de las Cadenas

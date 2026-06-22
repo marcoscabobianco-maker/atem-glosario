@@ -1,45 +1,20 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, lugar, kanka-5161286]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__St_Pierre_Inn_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Posada Saint-Pierre", "Auberge Saint-Pierre"]
 ---
 
-# ATEM::SaintGermain::MMF::St Pierre Inn
+# St. Pierre Inn
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__St_Pierre_Inn_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::St Pierre Inn. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Posada en el Quartier de Saint-Germain-des-Prés, cuyo nombre invoca al apóstol que guarda las llaves y, con ellas, el secreto de quién entra y quién sale. En el París de 1648 abundan los establecimientos que sirven vino aguado y paja fresca a los viajeros llegados del Midi; el de Saint-Pierre tiene la ventaja de no preguntar demasiado y la desventaja de ser conocido por quienes llevan tiempo en el barrio.
 
-![[ATEM__SaintGermain__MMF__St_Pierre_Inn_retrato.png]]
+Sus habitaciones bajas, con las vigas negras de hollín y el patio donde los caballos aguardan atados a una argolla, funcionaron en los primeros meses de la Fronda como escala involuntaria de varios desplazados: gente que vino a París por un asunto y no pudo irse porque las barricadas o el frío cerraron los caminos. Ahí, entre el ruido de la cocina y las voces de los otros huéspedes, comenzaron conversaciones que no estaban previstas.
 
+[[Madeline_Boulet]] conoce el establecimiento, o conoce a alguien que lo conoce. Eso es suficiente en un barrio donde la reputación se mide en información.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5161286
-**kanka_url:** https://app.kanka.io/w/216093/entities/5161286
-**kanka_kind:** location
-**kanka_type:** (vacío)
-**parent_location:** Paris (kanka 5095891)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 3
-- **Sesiones donde aparece** (1/9):
-  - S1 — 3 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Quartier_de_Saint_Germain_de_Pres]] — barrio donde se ubica la posada
+- [[Paris]] — ciudad que la contiene en su trama de 1648
+- [[Madeline_Boulet]] — personaje con vínculos en el establecimiento
+- [[Cour_des_Miracles]] — espacio marginal próximo que rodea los arrabales del faubourg
+- [[Pont_de_Thuileries]] — cruce fluvial accesible desde el barrio

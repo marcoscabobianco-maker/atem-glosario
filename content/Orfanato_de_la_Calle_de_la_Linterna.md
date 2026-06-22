@@ -23,7 +23,7 @@ imagen: null
 
 # Orfanato de la Calle de la Linterna
 
-> *"Cargando a Rulfo, los aventureros llegaron al imponente edificio del orfanato. La fachada de piedra húmeda olía a aceite de lámpara y a sopa hervida; lo de adentro, a niños demasiado callados."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"Cargando a Rulfo, los aventureros llegaron al imponente edificio del orfanato. La fachada de piedra húmeda olía a aceite de lámpara y a sopa hervida; lo de adentro, a niños demasiado callados."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
@@ -47,7 +47,7 @@ Entre los huérfanos del último ciclo, **[[Jaromir]]** —niño de seis años, 
 
 **El ciclo presente trajo una sombra**: niños desaparecían. Dos varones y dos niñas en el primer recuento. Rulfo investigó por su cuenta, sin medios, con la sola disciplina del guardián. **La [[Compania_de_la_Risa|Compañía de la Risa]] lo interceptó** en el callejón que conecta el orfanato con la Avenida del Magma. *Los sicarios con caras pintadas mitad blanca mitad negra lo torturaban sin piedad cuando [[La_Jabalina]] pasó cerca*.
 
-El grupo intervino. **[[Ayrton_Auslander|Ayrton]] le susurró "a casa" al último rufián en pie**, y el hombre huyó. **[[Lukas]] y [[Fogimer|Foggimer]] cargaron al guardián**, Foggimer aplicó sanación menor en el camino. **El orfanato los recibió de noche**.
+El grupo intervino. **[[Ayrton_Auslander|Ayrton]] le susurró "a casa" al último rufián en pie**, y el hombre huyó. **[[Lukas]] y [[Fogimer|Foggimer]] cargaron al guardián**, [[Fogimer|Foggimer]] aplicó sanación menor en el camino. **El orfanato los recibió de noche**.
 
 Tras el rescate, el grupo continuó la operación hasta el **[[Bazar_de_la_Vida]]** —donde rescató a los niños desaparecidos de la red de [[Keygan_Ghelve]] y [[Kazmojen]]—. **El orfanato volvió a su pulso**, *con cuatro niños recuperados sumados al recuento permanente*.
 
@@ -55,9 +55,9 @@ Tras el rescate, el grupo continuó la operación hasta el **[[Bazar_de_la_Vida]
 
 ## La ONG de Teo
 
-**Tras la pérdida del brazo en la [[Senda_de_Drakthar|Senda de Drakthar]]**, **[[Teo_Paladin_Sin_Brazo|Teo]] fundó una organización caritativa cuya base operativa es el orfanato**. La ONG canaliza fondos del grupo La Jabalina hacia la atención de huérfanos de Caldero, peregrinos perdidos, mutilados sin recursos. *El orfanato se convirtió, sin proponérselo, en sede operativa del polo luminoso del grupo en la ciudad*.
+**Tras la pérdida del brazo en la [[Senda_de_Drakthar|Senda de Drakthar]]**, **[[Teo_Paladin_Sin_Brazo|Teo]] fundó una organización caritativa cuya base operativa es el orfanato**. La ONG canaliza fondos del grupo [[La_Jabalina]] hacia la atención de huérfanos de [[Caldero]], peregrinos perdidos, mutilados sin recursos. *El orfanato se convirtió, sin proponérselo, en sede operativa del polo luminoso del grupo en la ciudad*.
 
-[*El orfanato no tiene voz propia en el coro de Caldero. La tiene prestada: la voz de Gretchyn cuando administra, la de Rulfo cuando cierra el portón al anochecer, la de los niños cuando duermen. Eso, en una ciudad donde casi todo habla por interés, es valioso. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*El orfanato no tiene voz propia en el coro de [[Caldero]]. La tiene prestada: la voz de [[Gretchyn_Tashykk|Gretchyn]] cuando administra, la de Rulfo cuando cierra el portón al anochecer, la de los niños cuando duermen. Eso, en una ciudad donde casi todo habla por interés, es valioso. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
@@ -81,7 +81,7 @@ Tras el rescate, el grupo continuó la operación hasta el **[[Bazar_de_la_Vida]
 - **Fundación caritativa previa al ciclo presente** — operación cotidiana modesta
 - **Período de secuestros** — desaparición de cuatro niños, investigación de Rulfo
 - **Ataque a Rulfo en el callejón** — interceptado por la Compañía de la Risa
-- **Rescate por La Jabalina** — cargado al orfanato, sanación menor
-- **Rescate de los huérfanos en el Bazar de la Vida** — restitución de los cuatro niños
+- **Rescate por [[La_Jabalina]]** — cargado al orfanato, sanación menor
+- **Rescate de los huérfanos en el [[Bazar_de_la_Vida]]** — restitución de los cuatro niños
 - **Fundación de la ONG de Teo** — sede operativa del polo luminoso del grupo
 - **1824 AE — ciclo presente** — orfanato activo, ONG operando, vínculo continuado con La Jabalina

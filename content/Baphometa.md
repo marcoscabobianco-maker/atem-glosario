@@ -25,7 +25,7 @@ estado: stub_diegetico
 
 Desde abajo de la nave —el sótano que se vio sólo cuando la nave cayó— la Baphometa venía armando el bombardeo que [[Arkos]] terminó por hacer encajar a la catedral vía el Ripple temporal de 1889. El éxito del bombardeo es suyo y de él, en proporciones que el archivo no precisa.
 
-Su nombre coloquial es el que la tradición le dio cuando dejó de ser sólo "la hija de Baphomet" y pasó a operar por cuenta propia. La doctrina demonológica del [[Decadiano]] todavía discute si la línea descendente convierte la herencia en oficio o sólo en marca; en la Baphometa, los dos se ven al mismo tiempo.
+Su nombre coloquial es el que la tradición le dio cuando dejó de ser sólo "la hija de [[Baphomet]]" y pasó a operar por cuenta propia. La doctrina demonológica del [[Decadiano]] todavía discute si la línea descendente convierte la herencia en oficio o sólo en marca; en la Baphometa, los dos se ven al mismo tiempo.
 
 ## Vínculos
 
@@ -36,6 +36,6 @@ Su nombre coloquial es el que la tradición le dio cuando dejó de ser sólo "la
 
 ## Apariciones
 
-- **Pre-1889** — armado del bombardeo desde el sótano de la Catedral Negra
+- **Pre-1889** — armado del bombardeo desde el sótano de la [[Catedral_Negra]]
 - **1889** — éxito del bombardeo vía Ripple temporal
 - **Ciclo presente** — vigente, ubicación itinerante entre profundidades

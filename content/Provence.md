@@ -1,47 +1,20 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, lugar, kanka-5211443]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Provence_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Provenza", "Provincia"]
 ---
 
-# ATEM::SaintGermain::MMF::Provence
+# Provence
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Provence_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Provence. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+La provincia más meridional del reino, cuya costa se abre al [[Mediterraneo_Ucronico|Mediterráneo]] entre el Ródano y los Alpes. En 1648, Provenza no es un territorio tranquilo: el Parlamento de Aix ha tenido sus propias fricciones con la autoridad real, y la distancia de París la convierte en tierra de rumores lentos y poderes locales que negocian su lealtad con más cuidado que prisa.
 
-![[ATEM__SaintGermain__MMF__Provence_retrato.png]]
+Para la red de intereses que rodea al [[Cardenal_Mazarino]] —él mismo oriundo de una familia italopontificia acostumbrada a mirar el Mediterráneo como espacio político—, Provenza importa como corredor de comunicación con Roma y con los Estados italianos. Los puertos de Marsella y Toulon son válvulas por las que entran recursos y noticias que no siempre pasan por París. En ese flujo invisible circulan también personas que prefieren no cruzar los controles de los caminos reales del norte.
 
+Ciertos asuntos que comenzaron en el Quartier de Saint-Germain o en los sótanos de la [[Cour_des_Miracles]] encontraron su desenlace, o su postergación, en algún punto entre el Ródano y el litoral.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5211443
-**kanka_url:** https://app.kanka.io/w/216093/entities/5211443
-**kanka_kind:** location
-**kanka_type:** (vacío)
-**parent_location:** Francia (kanka 5151801)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 14
-- **Sesiones donde aparece** (3/9):
-  - S5 — 7 hits
-  - S6 — 2 hits
-  - S8 — 5 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Francia]] — reino del que Provence es provincia meridional
+- [[Cardenal_Mazarino]] — su red de influencia se extiende hacia el Mediterráneo
+- [[Carcassone]] — plaza fuerte del arco occitano que articula el sur del reino
+- [[Foix]] — condado pirenaico en el extremo occidental de la misma franja
+- [[Paris]] — capital desde la que se gobierna con dificultad esta provincia distante

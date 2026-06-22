@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-Aguas primordiales que preceden a [[Antiterra_Demonia|Antiterra]] en la cosmología de el cosmos compartido. Concepto de
+Aguas primordiales que preceden a [[Antiterra_Demonia|Antiterra]] en la cosmología del cosmos compartido. Concepto de
 origen egipcio (el océano primordial del que emerge la creación) adoptado como realidad
 cosmológica accesible: la expedición del Serpent II navega hacia las aguas del Nun.
 Representa el límite exterior del cosmos conocido.

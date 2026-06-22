@@ -16,4 +16,4 @@ Esta entrada es mencionada desde:
 
 ---
 
-*Si llegaste aquí buscando información sobre **H Del Minotauro**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+*Si llegaste aquí buscando información sobre **H Del [[Minotauro_Jefe_del_Laberinto|Minotauro]]**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

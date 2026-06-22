@@ -23,8 +23,8 @@ epoca: "1348 DR — Edad de los Reinos Olvidados — llegada a los Reinos"
 
 ## Presentación
 
-Jinete de wyvern de Krynn. Lugarteniente del Ejército del Dragón Rojo.
-Llega al mundo con 18 años, STR 18/48. Forma parte de la línea
+Jinete de wyvern de Krynn. Lugarteniente del Ejército del [[Sauro_Dragon|Dragón]] Rojo.
+Llega al mundo con 18 años, de fuerza descomunal. Forma parte de la línea
 trans-campaña que conecta con el Indio/Kaneda y el Tiefling de [[Sigil]].
 Su arco principal incluye: la alianza con [[Tii_TiiMhut|Tii]], la muerte de Zara,
 la vampirización por Félix Hoyer, la boda con [[Tii_TiiMhut|Tii]] (interrumpida por

@@ -9,7 +9,7 @@ aliases:
  - El que reunió a los hijos de los esclavos
 categoria_diegetica: personaje
 epoca: "unificación goblin hacia 2810 AEP; reinado consolidado durante décadas posteriores; muerte sin fecha precisa pero anterior al ciclo presente"
-ubicacion_principal: "Goblin Warrens del Nivel 4 del Mega-Dungeon; salón del Gran Rey en sala central de las madrigueras"
+ubicacion_principal: "Goblin Warrens, bajo el Forum de Set; salón del Gran Rey en sala central de las madrigueras"
 tags:
  - personaje
  - figura-historica
@@ -26,9 +26,9 @@ imagen: null
 ---
 # Narbisto el Colosal
 
-> *"Los goblins de Ardisvala no son goblins del mito. Son hijos de los esclavos que el Imperio liberó al retirarse, y nietos de hijos abandonados que tuvieron que reinventarse pueblo bajo la piedra. Quien los lea como criaturas naturales del dungeon no entiende ni a los goblins ni al Imperio."* — del *Decadiano*, libro IX, sobre las poblaciones derivadas de la retirada postCisma.
+> *"Los goblins de Ardisvala no son goblins del mito. Son hijos de los esclavos que el Imperio liberó al retirarse, y nietos de hijos abandonados que tuvieron que reinventarse pueblo bajo la piedra. Quien los lea como criaturas naturales del dungeon no entiende ni a los goblins ni al Imperio."* — del *[[Decadiano]]*, libro IX, sobre las poblaciones derivadas de la retirada postCisma.
 
-La lámina —*si los Goblins Unidos hubieran encargado retrato del Gran Rey*— **no llegó al archivo decadiano**. ha respondido que **los goblins no practican retrato individual del modo imperial**: *prefieren la talla en madera basta, la marca en piel, la pintura ritual sobre el muro de la madriguera*. **Algunas marcas atribuidas a Narbisto** sobreviven en murales del Nivel 4; el cronista decadiano no las ha visto en persona, *pero los Buscadores del ciclo primero las describieron en sus pliegos*.
+La lámina —*si los Goblins Unidos hubieran encargado retrato del Gran Rey*— **no llegó al archivo decadiano**. ha respondido que **los goblins no practican retrato individual del modo imperial**: *prefieren la talla en madera basta, la marca en piel, la pintura ritual sobre el muro de la madriguera*. **Algunas marcas atribuidas a Narbisto** sobreviven en murales del [[Forum_de_Set|Forum de Set]]; el cronista decadiano no las ha visto en persona, *pero los [[Buscadores_de_Ardis_Vala|Buscadores]] del ciclo primero las describieron en sus pliegos*.
 
 ---
 
@@ -55,7 +55,7 @@ La unificación goblin **respondió a una amenaza específica**: **los hombres-b
 - **Negoció pactos** con caudillos tribales menores, *concediendo territorio en las madrigueras a quienes se sumaran*.
 - **Combatió a los caudillos** que rechazaron la unificación, *con expediciones puntuales que la tradición goblin recuerda con respeto*.
 - **Estableció marca dinástica común** —*el Gran Rey Unido*— bajo la cual las tribus operarían como **pueblo único**, *aunque conservando jefaturas locales*.
-- **Designó territorio común**: los **Goblin Warrens** del **Nivel 4** del dungeon, *que el cronista decadiano supone que existían como madrigueras dispersas antes de Narbisto*, **se reorganizaron** bajo el Gran Rey como **sede central del reino unificado**.
+- **Designó territorio común**: los **Goblin Warrens** del **[[Forum_de_Set|Forum de Set]]** del dungeon, *que el cronista decadiano supone que existían como madrigueras dispersas antes de Narbisto*, **se reorganizaron** bajo el Gran Rey como **sede central del reino unificado**.
 
 La gesta de unificación **se completó hacia el 2810 AEP** —*aproximadamente cincuenta años después de la Masacre de la Cueva de Sangre, cuando los hombres-bestia ya operaban como cuerpo militar coherente*—. *El archivo decadiano registra el evento como **emergencia política mayor del dungeon**: por primera vez en siglos, un pueblo del subsuelo **organizó autoridad central propia**, *autoridad no derivada del Imperio sino opuesta al legado imperial*—.
 
@@ -66,11 +66,11 @@ La gesta de unificación **se completó hacia el 2810 AEP** —*aproximadamente 
 **El reinado de Narbisto** —*"Gran Rey de los Goblins Unidos"*, *fórmula que algunos copistas imperiales registran con escepticismo pero que la tradición goblin conserva con orgullo*— **se sostuvo durante décadas**. La política del Gran Rey:
 
 - **Defensa activa** contra los hombres-bestia, *empujándolos a niveles más profundos del dungeon donde su coordinación se debilitaba*.
-- **Negociación cuidadosa** con los **[[Varumani]]** —*pueblo guerrero del Nivel 7, contemporáneo del 32.º o 33.º tegnu en aquellos años*— para evitar conflicto frontal. **Los goblins respetaban la soberanía varumani sobre las profundidades**; **los varumani toleraban el reino goblin en los niveles intermedios**.
+- **Negociación cuidadosa** con los **[[Varumani]]** —*pueblo guerrero de la [[Court_of_Troll_Thegn|Corte del Thegn]], contemporáneo del 32.º o 33.º tegnu en aquellos años*— para evitar conflicto frontal. **Los goblins respetaban la soberanía varumani sobre las profundidades**; **los varumani toleraban el reino goblin en los niveles intermedios**.
 - **Comercio limitado con [[Ritornello]]** —*pueblo archonteo de superficie, recién consolidado tras la Reconquista de Bellatrix y la posterior fundación bajo los exarcatos*—. El comercio era **furtivo, no oficial**, *con intermediarios humanos que llevaban alimentos al portal del dungeon a cambio de objetos arqueológicos*.
 - **Equilibrio facional** con otras presencias del dungeon: cultos sortianos clandestinos, ermitaños teósofos, otros grupos menores.
 
-*El cronista decadiano subraya que **el equilibrio facional del Mega-Dungeon**, *tal como los Buscadores lo encuentran en el ciclo presente*, **se debe parcialmente a Narbisto**: *antes de él, caos tribal; después de él, geografía política negociada*.
+*El cronista decadiano subraya que **el equilibrio facional del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]**, *tal como los [[Buscadores_de_Ardis_Vala|Buscadores]] lo encuentran en el ciclo presente*, **se debe parcialmente a Narbisto**: *antes de él, caos tribal; después de él, geografía política negociada*.
 
 ---
 
@@ -78,9 +78,9 @@ La gesta de unificación **se completó hacia el 2810 AEP** —*aproximadamente 
 
 **Tras la muerte de Narbisto** —*sin fecha precisa en el archivo, pero anterior al ciclo presente*— **la dinastía de Grand Kings continuó**. La sucesión goblin **no es estrictamente hereditaria**, *según la tradición conservada por copistas imperiales*: **el siguiente Gran Rey se designa por consenso de los caudillos tribales mayores**, *posiblemente con confirmación ritual en el salón del Gran Rey de las Warrens*.
 
-**[[King_Weskenim|King Weskenim]]** —*Grand King del ciclo presente*— **continúa la línea narbistana**, *aunque el archivo decadiano no precisa cuántas generaciones lo separan del fundador*. **Sigue gobernando desde los Goblin Warrens del Nivel 4**, *con autoridad sobre las tribus unificadas* y **negociación activa con los Buscadores del ciclo presente**.
+**[[King_Weskenim|King Weskenim]]** —*Grand King del ciclo presente*— **continúa la línea narbistana**, *aunque el archivo decadiano no precisa cuántas generaciones lo separan del fundador*. **Sigue gobernando desde las Goblin Warrens, bajo el Forum de Set**, *con autoridad sobre las tribus unificadas* y **negociación activa con los Buscadores del ciclo presente**.
 
-[*El reino goblin unificado es uno de los pocos cuerpos políticos del dungeon que ha sobrevivido al Hiato sin colapsar. Los Varumani cayeron; el clero teósofo se difumió; los hombres-bestia se dispersaron sin coordinación; los goblins de Weskenim siguen sentados en sus Warrens, comerciando con quien suba y defendiéndose de quien baje. Quien escribió el manual político del dungeon, no fue el Imperio. Fue Narbisto. —Glosa de [[Arkos]].*]
+[*El reino goblin unificado es uno de los pocos cuerpos políticos del dungeon que ha sobrevivido al Hiato sin colapsar. Los [[Varumani]] cayeron; el clero teósofo se difumió; los hombres-bestia se dispersaron sin coordinación; los goblins de Weskenim siguen sentados en sus Warrens, comerciando con quien suba y defendiéndose de quien baje. Quien escribió el manual político del dungeon, no fue el Imperio. Fue Narbisto. —Glosa de [[Arkos]].*]
 
 ---
 
@@ -117,7 +117,7 @@ El aparato decadiano **conserva sobre Narbisto dos lecturas**, *sin pronunciarse
 - [[Girbala]] — 31.º tegnu varumani, contemporáneo cosmológico de la unificación
 - [[Varumani]] — pueblo vecino con quien negoció
 - [[Mega_Dungeon_Arden_Vul]] — territorio reorganizado bajo su reinado
-- **Goblin Warrens (Nivel 4)** — sede del reino unificado
+- **Goblin Warrens** (bajo el Forum de Set) — sede del reino unificado
 - [[Ritornello]] — pueblo archonteo de superficie con quien estableció comercio furtivo
 - [[Archontean]] — Imperio cuyas atrocidades involuntarias forzaron la unificación
 - [[Esclavos_Imperiales]] — origen genealógico del pueblo goblin del valle
@@ -126,8 +126,8 @@ El aparato decadiano **conserva sobre Narbisto dos lecturas**, *sin pronunciarse
 
 - **Décadas posteriores a la Masacre de la Cueva de Sangre** — los hombres-bestia operan en el dungeon como amenaza creciente
 - **~2810 AEP — Unificación goblin** — Narbisto reúne a las tribus ferales bajo autoridad central
-- **Reorganización de los Goblin Warrens del Nivel 4** — sede política del reino unificado
+- **Reorganización de los Goblin Warrens** — sede política del reino unificado
 - **Reinado consolidado** — décadas de equilibrio faccional negociado en el dungeon
-- **Pactos con Varumani y comercio furtivo con Ritornello** — geografía política del dungeon en su fase clásica
+- **Pactos con [[Varumani]] y comercio furtivo con [[Ritornello]]** — geografía política del dungeon en su fase clásica
 - **Muerte en fecha imprecisa** — sucesión por línea de Grand Kings hasta el actual King Weskenim
 - **Memoria fundacional conservada** — marcas rituales, salón del Gran Rey, festividades anuales

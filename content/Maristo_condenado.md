@@ -27,18 +27,18 @@ imagen: null
 ---
 # Maristo condenado
 
-> *"El paladín que sostuvo el Ojo arriba lleva el Ojo abajo, pero el Ojo ya no parpadea en el modo en que parpadeaba arriba. El Ojo bajado opera distinto. Ver primero, golpear después, no al revés —regla del Edecán— sigue siendo regla; pero **ver primero, en el Foso, es ver el descenso de uno mismo**, y eso modifica el golpe."* — del *Coro del Descenso*, libro VII.
+> *"El paladín que sostuvo el Ojo arriba lleva el Ojo abajo, pero el Ojo ya no parpadea en el modo en que parpadeaba arriba. El Ojo bajado opera distinto. Ver primero, golpear después, no al revés —regla del Edecán— sigue siendo regla; pero **ver primero, en el Foso, es ver el descenso de uno mismo**, y eso modifica el golpe."* — del *[[Anti_Inferno|Coro del Descenso]]*, libro VII.
 
 ---
 
 ## La doble línea de Maristo
 
-**Maristo opera en el universo extendido en dos líneas cosmológicas paralelas**:
+**[[Maristo]] opera en el universo extendido en dos líneas cosmológicas paralelas**:
 
-- **[[Maristo|Maristo principal]]** — *paladín, fundador de orden, Edecán del Único Dios tras las Tres Coronas de 1370 DR*. **Línea troncal del cosmos extendido**, *con esposa ([[Cloeh]]), hija ([[Amitlai]]), formación en la Sagrada Orden de [[Tanastias]]*. **Vivo, operativo, central del Panteón**.
-- **Maristo condenado** — *faceta infernal de la misma alma cosmológica*, **Lost One del Anti-Inferno y de círculos profundos**. *No es la muerte de Maristo principal*; **es*pliegue paralelo*** *en geografía infernal*: **el alma del Edecán opera simultáneamente** *como Edecán arriba* **y como condenado abajo**, *con consistencia interna preservada y modificación doctrinal en cada plano*.
+- **[[Maristo|Maristo principal]]** — *paladín, fundador de orden, Edecán del Único Dios tras las Tres Coronas de 1370 DR*. **Línea troncal del cosmos extendido**, *con esposa ([[Cloeh]]), hija ([[Amitlai]]), formación en la [[Sagrada_Orden]] de [[Tanastias]]*. **Vivo, operativo, central del Panteón**.
+- **Maristo condenado** — *faceta infernal de la misma alma cosmológica*, **[[Lost_Ones|Lost One]] del Anti-Inferno y de círculos profundos**. *No es la muerte de [[Maristo]] principal*; **es*pliegue paralelo*** *en geografía infernal*: **el alma del Edecán opera simultáneamente** *como Edecán arriba* **y como condenado abajo**, *con consistencia interna preservada y modificación doctrinal en cada plano*.
 
-*La cosmología del Foso ATEM admite estos pliegues paralelos para almas mayores*. **No es contradicción**: *es estructura*. **El alma que opera en posiciones cosmológicas distintas simultáneamentees figura recurrente del aparato cosmológico extendido**. **Maristo es uno de los casos mejor documentados**, *junto con la línea [[Arian|Adam Arlequín]] (Arian-Auro-Adam) y la línea [[Anti_Inferno|Patience-Peysen]] (Foso-el Innombrable)*.
+*La cosmología del Foso ATEM admite estos pliegues paralelos para almas mayores*. **No es contradicción**: *es estructura*. **El alma que opera en posiciones cosmológicas distintas simultáneamentees figura recurrente del aparato cosmológico extendido**. **Maristo es uno de los casos mejor documentados**, *junto con la línea [[Arian|Adam Arlequín]] (Arian-Auro-Adam) y la línea [[Anti_Inferno|Patience-Peysen]] (Foso-el [[Innombrable]])*.
 
 ---
 
@@ -47,11 +47,11 @@ imagen: null
 **La lámina del Maristo condenado** — no se conserva en versión completa todavía — **conservaría rasgos paralelos a la del Edecán principal con modificaciones doctrinales**:
 
 - **Armadura del Ojo** —*la misma del Edecán*, *con el Ojo de [[Helm]] en el peto*—. *La diferencia*: **el Ojo no parpadea en el modo conductor habitual**; **en el Foso, el Ojo opera con párpado entrecerrado**, *como quien ve sin terminar de ver*.
-- **Espada larga**, *apoyada en agua oscura* —*paralelo iconográfico con la lámina del Edecán principal*—, **pero el agua oscura del Foso no es la del Castillo de los cimientos de Torregrises**; *es agua del Aqueronte que toca el borde del Anti-Inferno cuando el paladín condenado opera en el umbral*.
+- **Espada larga**, *apoyada en agua oscura* —*paralelo iconográfico con la lámina del Edecán principal*—, **pero el agua oscura del Foso no es la del Castillo de los cimientos de [[Torregrises]]**; *es agua del Aqueronte que toca el borde del Anti-Inferno cuando el paladín condenado opera en el umbral*.
 - **Casco yelmo en el brazo derecho**, *como el principal*, **pero con marca adicional**: *abolladura central que el cosmos extendido no presenta*; **producida en el descenso por golpe que el archivo del Coro no fija con precisión**.
 - **Capa larga semihundida**, *gola de cuero ennegrecida más allá del estándar de la armadura del Ojo*: **el ennegrecimiento es operación específica del Foso**, *no envejecimiento corriente del cosmos extendido*.
 
-*Las dos siluetas detrás del horizonte* —*Torregrises a un lado, otra ciudad doble del otro*— **están reemplazadas en la versión infernal por**: ***el portal del Anti-Inferno a un lado, el Aqueronte al otro***. **La geografía detrás del paladínes la del descenso conductor**, *no la del Panteón*.
+*Las dos siluetas detrás del horizonte* —*[[Torregrises]] a un lado, otra ciudad doble del otro*— **están reemplazadas en la versión infernal por**: ***el portal del Anti-Inferno a un lado, el Aqueronte al otro***. **La geografía detrás del paladínes la del descenso conductor**, *no la del Panteón*.
 
 ---
 
@@ -63,7 +63,7 @@ imagen: null
 - **Pero ver primero, en el Foso**, **es ver el descenso de uno mismo**. *El Ojo le muestra al paladín condenado la condición de su propia caída*; *lo cual el aparato del cosmos extendido no le exigía mirar*.
 - **El golpe del paladín condenadoes operación pedagógica**, *no batalla ortodoxa*: **golpea para que la entidad infernal a la que enfrenta reconozca su condición**, *no para destruirla*. **El golpe del Foso opera como espejo, no como espada propiamente**.
 
-*La doctrina del Coro del Descenso registra el modo con cuidado*: **Maristo condenado no es Maristo derrotado**. **Es Maristo cuya operación se ha modificado para que pueda funcionar en geografía infernal sin contradicción doctrinal**. *El alma del Edecán* **no opera en el Foso golpeando demonios**; *opera mostrándoles, con el Ojo, lo que ellos no se atreven a mirar de sí mismos*.
+*La doctrina del [[Anti_Inferno|Coro del Descenso]] registra el modo con cuidado*: **Maristo condenado no es Maristo derrotado**. **Es Maristo cuya operación se ha modificado para que pueda funcionar en geografía infernal sin contradicción doctrinal**. *El alma del Edecán* **no opera en el Foso golpeando demonios**; *opera mostrándoles, con el Ojo, lo que ellos no se atreven a mirar de sí mismos*.
 
 [*La doctrina del Ojo en el cosmos extendido fue siempre vigilancia activa: el paladín que ve venir el golpe lo esquiva o lo responde. En el Foso, vigilancia se vuelve pedagogía. El paladín condenado le muestra al demonio el propio rostro. Es golpe más violento; es golpe sin sangre. —Glosa de [[Arkos]] el archivero del Plata.*]
 
@@ -71,7 +71,7 @@ imagen: null
 
 ## La presencia en el Anti-Inferno
 
-**Maristo condenado opera principalmente en el [[Anti_Inferno|Anti-Inferno]]** —*umbral del Foso*— **como Lost One de presencia conductora secundaria**. **No es la guía principal del descenso** —*ese papel pertenece a [[Swedenborg]]*— **pero opera junto a Swedenborg** *en la pastoral del grupo Lost One*. **La díada Swedenborg-Maristose ha documentado en varios pasos del descenso**:
+**Maristo condenado opera principalmente en el [[Anti_Inferno|Anti-Inferno]]** —*umbral del Foso*— **como [[Lost_Ones|Lost One]] de presencia conductora secundaria**. **No es la guía principal del descenso** —*ese papel pertenece a [[Swedenborg]]*— **pero opera junto a [[Swedenborg]]** *en la pastoral del grupo Lost One*. **La díada [[Swedenborg]]-Maristose ha documentado en varios pasos del descenso**:
 
 - **Swedenborg conduce con la Lámpara de la Esperanza** —*lo positivo, la posibilidad de retorno*—.
 - **Maristo condenado opera con el Ojo** —*lo doctrinal, la mostración de lo que el alma no quiere mirar*—.
@@ -84,7 +84,7 @@ imagen: null
 
 ¿Sabe Maristo condenado que **es la misma alma** que el Edecán principal del cosmos extendido? *El archivo del Coro no resuelve*. **Las dos lecturas son archivables**:
 
-- **Lectura "saber pleno"**: el paladín condenado opera conscientemente como pliegue infernal del Edecán. *Su misión en el Anti-Inferno* **es deliberada**: *lleva al Foso la doctrina del Ojo modificada* para que las almas perdidas puedan recibir lo que la Sagrada Orden no podría llevarles desde el cosmos extendido. **Vocación cosmológica voluntaria**.
+- **Lectura "saber pleno"**: el paladín condenado opera conscientemente como pliegue infernal del Edecán. *Su misión en el Anti-Inferno* **es deliberada**: *lleva al Foso la doctrina del Ojo modificada* para que las almas perdidas puedan recibir lo que la [[Sagrada_Orden]] no podría llevarles desde el cosmos extendido. **Vocación cosmológica voluntaria**.
 - **Lectura "saber parcial"**: el paladín condenado opera por reflejo, como el alma de Arian opera en Adam Arlequín sin reconocimiento pleno. *La condena, en esta lectura*, **no es vocación**: **es desplazamiento ontológico** del que el alma misma no se ha apropiado plenamente. **Vocación cosmológica involuntaria**.
 
 *El cronista del Coro conserva las dos lecturas*. **En el descenso documentado**, **Maristo condenado no se ha presentado a sí mismo como el Edecán del cosmos extendido**. *Opera como Maristo condenado*, **con la naturalidad del que ha integrado su forma actual**.
@@ -109,8 +109,8 @@ imagen: null
 
 **Una facultad del Edecán principal** —*[[Kaxathros]] y [[Coyote]] conservan en la cosmología compartida la capacidad de ofrecerle la vida*— **opera con incertidumbre en el Maristo condenado**:
 
-- **¿Puede ser revocada la condena del paladín** *por oferta de Kaxathros o Coyote*? *El aparato infernal lo registra como **operación cosmológica posible pero no documentada en el descenso vigente***. **Si ocurre**, *Maristo condenado dejaría de ser Lost One* **y ascendería al cosmos extendido como Edecán plenamente restituido**.
-- **¿Han intentado** Kaxathros o Coyote ofrecerle la vida? *El archivo no registra el intento*. **La diplomacia cosmológica entre el Panteón y el Foso es operación delicada**; *la facultad de oferta puede no ser ejercitable sobre el Foso sin coordinación específica con Swedenborg o con el aparato del Anti-Inferno*.
+- **¿Puede ser revocada la condena del paladín** *por oferta de [[Kaxathros]] o [[Coyote]]*? *El aparato infernal lo registra como **operación cosmológica posible pero no documentada en el descenso vigente***. **Si ocurre**, *Maristo condenado dejaría de ser Lost One* **y ascendería al cosmos extendido como Edecán plenamente restituido**.
+- **¿Han intentado** [[Kaxathros]] o [[Coyote]] ofrecerle la vida? *El archivo no registra el intento*. **La diplomacia cosmológica entre el Panteón y el Foso es operación delicada**; *la facultad de oferta puede no ser ejercitable sobre el Foso sin coordinación específica con Swedenborg o con el aparato del Anti-Inferno*.
 
 *La pregunta queda abierta*. **El Maristo condenado, en el ciclo presente del archivo**, **opera como Lost One sin oferta de vida activa**.
 
@@ -128,7 +128,7 @@ imagen: null
 - [[Anti_Inferno|la figura del segundo círculo]] — figura cuya presencia el archivo conserva con tacto
 - el cronista del Coro — voz coral cronista
 - [[Akala]]
-- [[Sagrada_Orden_la]] / [[Las_4_A]] — formación original del Edecán
+- [[Sagrada_Orden|Sagrada Orden]] / [[Las_4_A]] — formación original del Edecán
 - [[Kaxathros]] / [[Coyote]] — facultad de oferta de la vida (no ejercida en el Foso)
 - [[Contienda_la]] — episodio fundacional del cosmos extendido del Edecán principal
 - [[Tres_Coronas_1370]] — episodio de la investidura del Edecán principal

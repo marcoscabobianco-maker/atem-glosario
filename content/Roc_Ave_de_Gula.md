@@ -6,6 +6,8 @@ aliases:
  - "**Roc (Ave de Gula)**"
  - "Ave de Gula"
  - "**Roc**"
+ - "Roc"
+ - "Roc (Ave de Gula)"
 ---
 
 # **Roc (Ave de Gula)**
@@ -16,17 +18,10 @@ aliases:
 
 ## Presentación
 
-**Categoría**: Criatura / Bestia Infierno
+**Categoría**: Criatura / [[Bestia]] [[Infierno]]
 
-**Descripción**: Pájaro de tamaño Gargantuan. Habita Tercer Círculo (Gula, pantano). Enemigo de combate extendido (–5106).
-**Mecánicas de combate**:
-- Múltiples rondas
-- Vulnerable a ataques [[Arsvan|Ärsvan]] (lanza + rayo)
-- [[Bertrand]] rifle con mira telescópica ("26 kills")
-- Muere por headshot
-**[[Muerte]]**: Derrota clara; no desintegración mística.
+**Descripción**: Pájaro de tamaño colosal. Habita el Tercer Círculo del [[Infierno]] (dominio de Gula, pantano infernal). Fue derrotado por el grupo en combate extendido; [[Bertrand]] descargó sus armas sobre él y [[Arsvan|Ärsvan]] atacó con lanza y rayo antes de que cayera por impacto certero en la cabeza.
 
 ## Ver también
 
-- [[Mecanicas_de_combate|Mecánicas de combate]]
 - [[Muerte|Muerte]]

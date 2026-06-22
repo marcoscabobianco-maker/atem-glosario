@@ -24,7 +24,7 @@ Estación interestelar con "estrellas al fondo" donde los [[Time_Bandits|Time Ba
 
 ## Apariciones notables
 
-[[Fruto_del_Conocimiento_S11|la sesión]] (combate ~01:27-02:17).
+[[Fruto_del_Conocimiento_S11|Fruto del Conocimiento]].
 
 ## Notas
 

@@ -1,42 +1,19 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/El_Devorador_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["El Devorador"]
 ---
 
 # El Devorador
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/El_Devorador_retrato.png`
-> **Prompt sugerido:** Ilustración de El Devorador. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[El_Devorador_retrato.png]]
+[[Entidad]] titánica que operó desde las profundidades bajo [[Nesut_Biti]], donde un caldero antiguo la mantenía y la dirigía. La tradición oral de Vala la describe como un ser hambriento sin forma fija, cuya naturaleza evoca los grandes devoradores del tiempo sin nombre — criaturas anteriores al orden del mundo, que no distinguen entre víctima y cosmos. No pertenece al linaje directo de [[Tiamat]], aunque comparte con ella el atributo del hambre primigenia.
 
+El Devorador estuvo vinculado al linaje familiar de [[Taylor]], cuya historia de origen entrelazó a sus padres con la sombra de esta entidad. Los [[Wordbreakers]] enfrentaron al Devorador en el arco que culminó en [[Nesut_Biti]] y lograron su derrota: la criatura fue sometida al descubrir y neutralizar el caldero que la sostenía bajo la ciudad. El ciclo se cerró con esa victoria, aunque la memoria de lo que el Devorador consumió durante su vigencia no se borró con su caída.
 
-**Acción:** Crear. Antagonista central de arco propio (5 sesiones, una de fin de arco).
+En los registros que sobreviven, el Devorador aparece siempre ligado al nombre de Nesut como amenaza implícita: una presencia que no gobernaba la ciudad sino que la habitaba por debajo, como un segundo cimiento de diferente naturaleza.
 
-## Capa juego
-
-Antagonista mayor del arco Nesut. El nombre "el Devorador" sugiere figura titánica (cf. **Apopis/Apep** en mitología egipcia; **Yam/Lotan** semítico; **Tiamat** como devoradora primigenia). Coherente con el sustrato sincrético del setting.
-
-Vinculación con Nesut (el filename `contra_el_devorador_y_nesut_revisitado_2` los pone juntos): puede ser entidad que amenaza Nesut Biti, o que opera **desde** los acantilados de Nesut, o ambos.
-
-Inclusión del Devorador en **rol_vala_contra_padres_de_taylor** (5 menciones) sugiere conexión con el linaje familiar de Taylor — los padres de Taylor podrían ser cultistas del Devorador o víctimas suyas.
-
-## Capa mítico-arquetipal (observación, no halago)
-
-El motivo "devorador" en setting mesopotámico-egipcio activa el ciclo Tiamat-Marduk: la diosa primordial que es desmembrada por el héroe solar. Si el arco Wordbreaker culmina en el Devorador derrotado, el Master estaría reactualizando esa cosmogonía. Si en cambio el Devorador queda activo o sus crías persisten (Huevo Negro como huevo del Devorador), el Master estaría rechazando el cierre marduquiano y dejando abierta la inestabilidad primigenia. **Determinar cuál de las dos lecturas opera requiere conocer el desenlace del arco** — pregunta urgente para Marcos.
-
-## Ref.
-
-contra_el_devorador_y_nesut_revisitado_2 (25, ¡y "revisitado_2" sugiere que hay revisitado_1 que no aparece en filename — verificar continuidad); rol_fin_de_arco_contra_el_devorador_nesut (cierre del arco); rol_vala_contra_padres_de_taylor (5).
-
-## Preguntas
-
-1. ¿Qué es exactamente el Devorador (entidad, raza, avatar)? Devourer criatura clásica de d&d tiene un  alma de otro dentro que va consumiendo
-2. ¿El arco se cierra con derrota, pacto, escape o transformación? se cierra con derrota, el devourer era controlado por caldero debajo de nesut
-3. ¿Conexión con Tiamat (la diosa) o con su prole? no directamente, pero es entidad hambrienta
-4. ¿Existe sesión "revisitado_1" o el filename salta directamente a _2? no recuerdo
-
+## Vínculos
+- [[Nesut_Biti]] — la ciudad bajo la cual operaba el caldero que lo sostenía
+- [[Taylor]] — cuyo linaje familiar quedó entrelazado con la historia del Devorador
+- [[Wordbreakers]] — el grupo que lo enfrentó y derrotó en el arco de Nesut
+- [[Tiamat]] — potencia primigenia con la que comparte el atributo del hambre, sin filiación directa

@@ -31,7 +31,7 @@ aliases:
 
 ## Función cosmológica
 
-**Los Reunidos llegan portando los planos del nuevo mundo**. *El destinatario específico del entregable no está fijado con claridad en las fuentes primarias actualmente verificadas*: las versiones tardías del archivo lo asignaban a Soluna como deidad artífice, pero esa caracterización fue descartada *(ver [[Soluna|Sol-Luna]] — el personaje real es elfo drow mago de Los Antiguos, no deidad creadora)*. **La doctrina queda abierta**: los Reunidos entregan, pero el receptor canónico del entregable requiere verificación con cuadernos primigenios.
+**Los Reunidos llegan portando los planos del nuevo mundo**. *El destinatario específico del entregable no está fijado con claridad en las fuentes primarias actualmente verificadas*: las versiones tardías del archivo lo asignaban a [[Soluna]] como deidad artífice, pero esa caracterización fue descartada *(ver [[Soluna|Sol-Luna]] — el personaje real es elfo drow mago de [[Los_Antiguos]], no deidad creadora)*. **La doctrina queda abierta**: los Reunidos entregan, pero el receptor canónico del entregable requiere verificación con cuadernos primigenios.
 
 **Más tarde**, los Reunidos aparecen como **adeptos de [[Minaya_MC|Minaya]]**, custodiando un arca flotante con los últimos adoradores puros.
 

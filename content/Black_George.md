@@ -27,7 +27,7 @@ imagen: Imagenes_Tier1/Black_George.png
 ![[Imagenes_Tier1/Black_George.png]]
 <!-- /HEADER_IMG -->
 
-> *"Ujedinjenje ili Smrt." (Unión o Muerte.)* — Insignia de la Mano Negra; cita de mesa.
+> *"[[Mano_Negra_Antiterra_Serbia|Ujedinjenje ili Smrt]]." ([[Mano_Negra_Antiterra_Serbia|Unión o Muerte]].)* — Insignia de la Mano Negra; cita de mesa.
 
 **De pie sobre la mesa de planificación**: gorro de astracán negro encajado bajo la sien, **uniforme militar oscuro sin charreteras, gabardina abierta**, **cuchillo en la mano derecha** —pequeño, recto, **utilizado como puntero sobre el mapa**—. Inclinado, **la punta del cuchillo apunta exactamente la palabra SARAJEVO** en el plano desplegado. *Alrededor de él, cinco hombres*: dos sentados al frente, dos al fondo, **uno arrodillado al borde derecho leyendo el plano del costado**; **todos miran el cuchillo, no la cara**. Detrás, dos carteles: **UJEDINJENJE ILI SMRT** (con calavera y dos sables cruzados) y **NARODNA ODBRANA SRBIJE 1914**. *Sobre la mesa esquinada*, un libro abierto que lleva por título manuscrito **SLOBODA ILI SMRT** —Libertad o Muerte—, una pistola, una taza de café.
 
@@ -55,7 +55,7 @@ imagen: Imagenes_Tier1/Black_George.png
 
 *(Cuando regreses a Serbia, si todo salió bien, si hiciste todo lo que tenías que hacer, te liberaré.)*
 
-**Lo que esa frase encierra es reconocimiento operativo**: **Black George sabe que los Time Bandits no son perpetradores verdaderos**; *son víctimas de compulsión mágica del [[Circulo_Simultaneo|Círculo Simultáneo]]*. **La promesa de liberación** —*"te liberaré"*— **es promesa cronomántica**, no jurídica: *quien la cumple debe ser quien retiene*, **y Black George retiene al grupo en el atentado por colaboración con el dispositivo del Círculo**.
+**Lo que esa frase encierra es reconocimiento operativo**: **Black George sabe que los [[Time_Bandits]] no son perpetradores verdaderos**; *son víctimas de compulsión mágica del [[Circulo_Simultaneo|Círculo Simultáneo]]*. **La promesa de liberación** —*"te liberaré"*— **es promesa cronomántica**, no jurídica: *quien la cumple debe ser quien retiene*, **y Black George retiene al grupo en el atentado por colaboración con el dispositivo del Círculo**.
 
 **El nombre evoca la historia serbia**: el [[Karadjordje_Historico|Karađorđe histórico (1768-1817)]] **fundó la dinastía Karađorđević contra dominación otomana**, **liderando la primera insurrección serbia entre 1804 y 1817**. *El Black George cronomántico del 1914 hereda la línea*: **Serbia sigue luchando contra opresión, ahora austro-húngara en lugar de otomana**.
 

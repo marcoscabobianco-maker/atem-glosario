@@ -33,4 +33,4 @@ plano, criaturas, mecánicas), [212] (expulsión por deseo de [[Arian]]),
 
 ## Notas
 
-En Kanka Ucrónica, el concepto se operacionaliza en sistema temporal: [[El_Primer_Reloj|EL PRIMER RELOJ]] (legendario, canaliza poder de [[Kronamon]], modelo primigenio de [[U-Reloj]]), Reloj Ucrónico, [[U-Reloj]] (medidor de corrientes témpicas), [[Philippe]] (relojero), quest [[Time_Capsules|Time Capsules]], timeline Cronotime, calendarios [[Frome]] Kalendar y JSH. [[Tindalo|Tíndalo]] (Sabueso Temporal) es amenaza inherente al viaje temporal.
+El concepto se operacionaliza en un sistema temporal ucrónico: [[El_Primer_Reloj|EL PRIMER RELOJ]] (legendario, canaliza poder de [[Kronamon]], modelo primigenio de [[U-Reloj]]), Reloj [[Mediterraneo_Ucronico|Ucrónico]], [[U-Reloj]] (medidor de corrientes témpicas), [[Philippe]] (relojero), quest [[Time_Capsules|Time Capsules]], timeline [[Cronotime]], calendarios [[Frome]] Kalendar y JSH. [[Tindalo|Tíndalo]] (Sabueso Temporal) es amenaza inherente al viaje temporal.

@@ -14,7 +14,7 @@ Matón colosal, "de pocas pulgas." Acompañante del [[Moni_Vivescu|Príncipe Viv
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] [00:33] — taberna, envenenamiento fallido. el archivo [Les Halles] — ritual, combate mortal.
+[[Paris_Ucronica|París Ucrónica]] — taberna, envenenamiento fallido. el archivo [Les Halles] — ritual, combate mortal.
 
 ## Notas
 

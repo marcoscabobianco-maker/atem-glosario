@@ -2,6 +2,7 @@
 título: "La Sagrada Orden"
 slug: Sagrada_Orden
 aliases:
+ - Sagrada Orden, la
  - Sagrada Orden
  - La Orden
  - La Sagrada
@@ -52,7 +53,7 @@ La doctrina de la Orden, **reducida a su mínima expresión por los maestros que
 
 ## El acto fundacional del exilio
 
-La Orden se define por **el caso que la dañó**. **[[Arian]]**, en su juventud, pactó con una sacerdotisa drow para salvar la vida de Valteran. **La Orden no lo absolvió.** Valteran, recuperado, lo despidió con sentencia que el archivo conserva textual:
+La Orden se define por **el caso que la dañó**. **[[Arian]]**, en su juventud, pactó con una sacerdotisa drow para salvar la vida de [[Valteran]]. **La Orden no lo absolvió.** [[Valteran]], recuperado, lo despidió con sentencia que el archivo conserva textual:
 
 *"te has condenado a ti mismo, y probablemente a muchos otros"*
 
@@ -72,7 +73,7 @@ El cronista, *que ha leído a los trágicos griegos sin atreverse a comparar*, p
 
 ## La diáspora y las sedes ulteriores
 
-La Grieta partió Angara. La Selva Negra quedó deshecha; los maestros de la Orden cargaron con lo que cargaban —códices, sigilos, dos o tres niños sobrevivientes— y se dispersaron. **La Orden no se extinguió**: se asentó en sedes nuevas. Algunas conocidas; otras conservadas en archivos parciales.
+La Grieta partió [[Angara_Andgara|Angara]]. La Selva Negra quedó deshecha; los maestros de la Orden cargaron con lo que cargaban —códices, sigilos, dos o tres niños sobrevivientes— y se dispersaron. **La Orden no se extinguió**: se asentó en sedes nuevas. Algunas conocidas; otras conservadas en archivos parciales.
 
 - **[[Tanastias]]** — locus tardío donde el panteón inicial se rehízo; la Orden mantuvo presencia.
 - **[[Torregrises]]** — destino del exilio de Arian; aquellos enclaves recibieron también, después, a otros despedidos. *El despedido y el destino del despedido se eligen mutuamente.*
@@ -85,7 +86,7 @@ La Grieta partió Angara. La Selva Negra quedó deshecha; los maestros de la Ord
 La Orden **no publica genealogías**. Pero el archivo conserva nombres que pasaron por sus aulas o por las aulas de quienes pasaron por las suyas:
 
 - **[[Adimanto]]**, **[[Amdriel]]**, **[[Ariadna]]**, **[[Celemna]]**, **[[Dietrus]]** — discípulos cuya generación cruzó la Grieta.
-- **[[Las_4_A]]** — agrupación tardía de cuatro nombres que la Orden reconoce sin haberlos formado a todos.
+- **[[Las_4_A]]** — agrupación tardía de cuatro nombres que la Orden reconoce sin haberlos formado a todos. *Otra tradición del archivo —la que conservan las entradas de [[Maristo]] y los registros de [[Tanastias]]— da a la Orden como su formadora plena: sabios y druidas dedicados a la preservación del saber pre-diluvio, con sede espiritual en [[Tanastias]] —el retiro al otro lado del mar de [[Torregrises]]—, liderados por [[Dietrus]] y apenas tolerados por el Rey [[Sabas]], que veía su influencia con suspicacia. Las dos versiones conviven; el archivo no las decide.*
 - **[[Sabas]]** — figura cuya relación con la Orden el archivo describe como *afín y discutida*.
 - **[[Valteran]]** — maestro mayor del último siglo andgariano; el que crió a Arian.
 
@@ -122,5 +123,5 @@ Arian lo aprendió en carne propia. **Otros discípulos del archivo lo aprender�
 - **Primer cosmos / Andgara** — sede primera; pedagogía centenaria; Valteran enseñando
 - **Pacto y exilio de Arian** — sentencia fundacional; despido al otro lado del océano
 - **La Grieta** — dispersión de los maestros con códices y discípulos
-- **Tanastias, Torregrises y enclaves menores** — sedes ulteriores; transmisión continuada de las dos enseñanzas
+- **[[Tanastias]], [[Torregrises]] y enclaves menores** — sedes ulteriores; transmisión continuada de las dos enseñanzas
 - **Ciclo presente** — presencia residual en geografías esparcidas; los discípulos tardíos reciben la doctrina sin saber siempre el nombre de la Orden que la conservó

@@ -22,7 +22,7 @@ tags:
 ---
 # La Iglesia Gnóstica de Antiterra
 
-> *"En Terra el cristianismo se inclinó por Pedro; en Antiterra se inclinó por Mani. La inclinación cambió todo lo demás."*
+> *"En Terra el cristianismo se inclinó por Pedro; en [[Antiterra]] se inclinó por Mani. La inclinación cambió todo lo demás."*
 
 La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra escrita** —*el cuerpo doctrinal de Antiterra es más fácil de describir que de retratar*; cuando llegue, la lámina mostrará **un patriarca de túnica oscura junto a un altar bajo donde arden dos velas de cera negra y una de cera blanca**, *al fondo, dos figuras tras una cortina: un auditor de la fila externa y un elegido de la fila interna*, **el libro abierto sobre el atril con la doble columna de versículos**.
 
@@ -30,9 +30,9 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 ## Quién es
 
-**La Iglesia Gnóstica es la religión dominante del cosmos antiterrano**. *No es católica romana ni ortodoxa griega*: es **una variante gnóstico-maniquea sincréticaque incorpora elementos del cristianismo copto, del neoplatonismo y de las tradiciones siríacas**. **El archivero del Plata anota la importancia del dato**: *donde el cosmos común tuvo a Pedro como vicario del Hijo*, **Antiterra tuvo a Mani como profeta concurrente**; **la teología de los dos principios —luz y tinieblas— quedó en el centro de la fe oficial**, **no en sus márgenes**.
+**[[Iglesia_Imperial|La Iglesia]] Gnóstica es la religión dominante del cosmos antiterrano**. *No es católica romana ni ortodoxa griega*: es **una variante gnóstico-maniquea sincréticaque incorpora elementos del cristianismo copto, del neoplatonismo y de las tradiciones siríacas**. **El archivero del Plata anota la importancia del dato**: *donde el cosmos común tuvo a Pedro como vicario del Hijo*, **Antiterra tuvo a Mani como profeta concurrente**; **la teología de los dos principios —luz y tinieblas— quedó en el centro de la fe oficial**, **no en sus márgenes**.
 
-**Es institución poderosa**. *Reúne autoridad doctrinal y peso geopolítico*: **el [[Patriarca_de_Antiterra|Patriarca]] es su líder supremo**, **figura cuya autoridad pasa por encima de los curas locales y de los vicarios regionales**. *Cuando [[Erzebeth]] invoca a la Iglesia*, **lo hace pasando por encima del párroco de la calle**: **invoca al Patriarca directamente**, y el Patriarca responde.
+**Es institución poderosa**. *Reúne autoridad doctrinal y peso geopolítico*: **el [[Patriarca_de_Antiterra|Patriarca]] es su líder supremo**, **figura cuya autoridad pasa por encima de los curas locales y de los vicarios regionales**. *Cuando [[Erzebeth]] invoca a la Iglesia*, **lo hace pasando por encima del párroco de la calle**: **invoca al [[Patriarca]] directamente**, y el [[Patriarca]] responde.
 
 ---
 
@@ -49,7 +49,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 ## El reconocimiento de múltiples profetas
 
-**La Iglesia Gnóstica reconoce a Jesús como uno de los profetas mayores**, **pero no como el único**. *Mani, Zoroastro, Buda, Hermes Trismegisto* —**todos figuran en el calendario litúrgico antiterrano**, **cada uno con su día y sus lecturas correspondientes**. **El cristocentrismo exclusivo es ajeno al cuerpo doctrinal**: *la doctrina llama a esto "policéntricismo escalonado"*, **figura que el cristianismo terrestre miraría con escándalo**.
+**[[Iglesia_Imperial|La Iglesia]] Gnóstica reconoce a Jesús como uno de los profetas mayores**, **pero no como el único**. *Mani, Zoroastro, Buda, [[Hermes_Trismegisto]]* —**todos figuran en el calendario litúrgico antiterrano**, **cada uno con su día y sus lecturas correspondientes**. **El cristocentrismo exclusivo es ajeno al cuerpo doctrinal**: *la doctrina llama a esto "policéntricismo escalonado"*, **figura que el cristianismo terrestre miraría con escándalo**.
 
 **El efecto sobre la geopolítica antiterrana es mayor**: **no hay cismas comparables a los de Terra**, **no hay Inquisición en el sentido común**, **no hay guerras de religión entre cristianos y otros**. *Lo que sí hay son guerras dentro de la Iglesia* —*entre escuelas patriarcales rivales, entre tradiciones de electi*—; *pero el conflicto inter-doctrinal toma la forma de debate académico antes que la de cruzada militar*.
 
@@ -76,6 +76,6 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 ## Apariciones
 
-- **Doctrina continua del eje A.D.A.** — religión oficial estable desde los primeros siglos antiterranos
-- **Calendario litúrgico anual** — múltiples profetas reconocidos con sus días
-- **Episodios de Erzebeth invocando al Patriarca** — autoridad por encima de curas locales
+- **Doctrina continua del eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]** — religión oficial estable desde los primeros siglos antiterranos
+- **[[Calendario]] litúrgico anual** — múltiples profetas reconocidos con sus días
+- **Episodios de [[Erzebeth]] invocando al Patriarca** — autoridad por encima de curas locales

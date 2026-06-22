@@ -20,11 +20,11 @@ tags:
 
 # Arcanum
 
-> *Sustancia mágica primordial. Circula en las venas de Ardis Vala. Codiciada por todos. Posiblemente durmiente post-hiato.*
+> *Sustancia mágica primordial. Circula en las venas de [[Ardis_Vala]]. Codiciada por todos. Posiblemente durmiente post-hiato.*
 
 ## Presentación
 
-El **Arcanum** es **la sustancia mágica primordial** del setting Ardis Vala —**materia prima de toda magia** del dungeon y posiblemente del cosmos MC—. Circula en las venas del **[[Mega_Dungeon_Arden_Vul]]** y es codiciada por todas las facciones.
+El **Arcanum** es **la sustancia mágica primordial** del setting [[Ardis_Vala]] —**materia prima de toda magia** del dungeon y posiblemente del cosmos MC—. Circula en las venas del **[[Mega_Dungeon_Arden_Vul]]** y es codiciada por todas las facciones.
 
 ### Su naturaleza
 
@@ -43,9 +43,9 @@ El **Arcanum** es **la sustancia mágica primordial** del setting Ardis Vala —
 | **[[Sortianos]] (originales)** | Democratización vía Arcanum |
 | **[[Teosofos|Teósofos]]** | Control aristocrático del Arcanum |
 | **[[RAJ-750]] / [[Akala]]** | IAs operando con Arcanum como reservorio |
-| **Heqeti / [[Reepsiq]]** | Posible uso ritual |
+| **[[Heqeti]] / [[Reepsiq]]** | Posible uso ritual |
 
-### Reveal 2026-05-20 : posiblemente durmiente
+### Revelación del archivo: posiblemente durmiente
 
 ** confirma**:
 
@@ -60,8 +60,8 @@ El **Arcanum** es **la sustancia mágica primordial** del setting Ardis Vala —
 ### Localización
 
 - **Venas del dungeon** —tubería arcana invisible
-- **Cuerno verde pálido** (L5-95A) — posible reservorio cristalizado
-- **Forja Arcanum** (L9-60) — punto de manipulación / forja
+- **Cuerno verde pálido** — posible reservorio cristalizado
+- **[[Arcanum_Forge|Forja Arcanum]]** — punto de manipulación / forja
 - **Beacon** —vinculado al sistema rudishva
 
 ## Vínculos
@@ -81,4 +81,4 @@ El **Arcanum** es **la sustancia mágica primordial** del setting Ardis Vala —
 
 - **Pre-hiato**: flujo activo en el dungeon
 - **Post-hiato**: posiblemente durmiente
-- **Pendiente despertar** en sesiones futuras
+- **Pendiente despertar** en jornadas futuras

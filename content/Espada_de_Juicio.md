@@ -20,7 +20,7 @@ imagen: null
 ---
 # La Espada de Juicio
 
-> *"La Giganta le asestó el castigo merecido."* — Mascor Blancarba, sobre el aplastamiento del Papa Borg en 1812 AE.
+> *"[[Giganta_Antigua|La Giganta]] le asestó el castigo merecido."* — [[Mascor_Blancarba]], sobre el aplastamiento del Papa Borg en 1812 AE.
 
 ---
 
@@ -34,7 +34,7 @@ imagen: null
 
 ## El golpe contra el Papa Borg
 
-**En la operación de 1812 AE** *en la Gran Plaza de Obsidiana de Ciudad Estrella*: **la Giganta emergió tras ser liberada por los peregrinos** y **asestó el castigo merecido al Papa Borg**. *Tres lecturas del golpe se conservan en el archivo*:
+**En la operación de 1812 AE** *en la [[Gran_Plaza_de_Obsidiana]] de [[Ciudad_Estrella]]*: **la Giganta emergió tras ser liberada por los peregrinos** y **asestó el castigo merecido al Papa Borg**. *Tres lecturas del golpe se conservan en el archivo*:
 
 - **Lectura A**: **golpe del puño pétreo de la Giganta** *que derrumbó el pedestal de obsidiana*. *La Espada de Juicio no operó plenamente*; *fue golpe corporal de la deidad*.
 - **Lectura B**: **golpe de la Espada de Juicio** *que aplastó al Papa contra el pedestal*. *El puño operó como vehículo de la Espada*; *los dos elementos eran inseparables operativamente*.
@@ -64,8 +64,7 @@ imagen: null
 
 **La Espada de Juicio puede tener ecos en otras armas cosmológicas del cosmos extendido**:
 
-- **La Lanza con punta de rubí** *(Lanza de Minaya / Lanza de Soluna)* **que en el Calendario de Amitlai mata a Tiamat** —*operación cosmológica paralela del polo luminoso primigenio*—.
-- **La nightsword de los Reguladores** *que comenzó a brillar el día que la esfera obliteró a Ärsvan en Notre Dame* —*arma cosmológica del ciclo siguiente*—.
+- **La Lanza con punta de rubí** *(Lanza de Minaya / Lanza de [[Soluna]])* **que en el [[Calendario|Calendario de Amitlai]] mata a Tiamat** —*operación cosmológica paralela del polo luminoso primigenio*—.
 - **La Lámpara de la Esperanza de [[Swedenborg]]** —*objeto luminoso del polo positivo intermedio*, *no arma sino vehículo*—.
 
 *Las armas mayores del polo luminoso primigenio operan en sinergia*: **cada una opera en su ciclo y contexto cosmológico**; *ninguna sustituye a las otras*. **La Espada de Juicio** *cubre la operación específica de juicio cosmológico contra polo negativo papal*; *otras armas cubren otras operaciones*.
@@ -80,12 +79,11 @@ imagen: null
 - [[Vala_Cristalis]] — mundo-gema del orden natural protegido
 - [[Papas_Borg]] — dinastía papal oscura contra la que opera
 - **Lanza de Minaya / Lanza con punta de rubí** — arma cosmológica paralela (eco doctrinal)
-- **Nightsword de los Reguladores** — arma cosmológica del ciclo siguiente
 
 ## Apariciones
 
 - **Era primigenia** — arma portada por la Giganta en operaciones del polo luminoso primigenio
 - **Apresamiento de la Giganta** — la Espada queda con la deidad en el sello subterráneo
-- **~1812 AE — Operación contra Papa Borg** — golpe ejecutado en la Gran Plaza de Obsidiana
+- **~1812 AE — Operación contra Papa Borg** — golpe ejecutado en la [[Gran_Plaza_de_Obsidiana]]
 - **Desvanecimiento con la Giganta** — la Espada regresa al estado cosmológico primigenio
 - **1824 AE — ciclo presente** — inaccesible al mundo de los mortales; convocatoria futura abierta

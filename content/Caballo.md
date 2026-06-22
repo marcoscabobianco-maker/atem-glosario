@@ -12,12 +12,7 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Mecánica/Recurso — Economia del nuevo setting
-**Primer aparición:** S21_REPORTE –2747
-**Descripción:** Extended discussion (~50 paragraphs) sobre horse economy en nuevo setting. Caballos son recursos escasos, puede ser poseído individually o provided por estado. Pricing discussion indica valor no está lista pero puede ser calculado equivalente a otros objetos. Especialidad "Médico de Caballos" (horse doctor) disponible.
-**Significance:** Detailed construcción del mundo para nuevo setting; caballos son critical resources.
-**Confianza:** FUERTE (explicit mechanical design)
+En el nuevo setting, los caballos son recursos escasos: pueden ser poseídos individualmente o provistos por el estado. Existe la especialidad de "Médico de Caballos" como oficio reconocido.
 
 ## Ver también
 
-- [[Significance|Significance]]

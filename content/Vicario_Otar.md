@@ -22,7 +22,7 @@ imagen: null
 
 # Vicario Otar — la mano firme del Abad ausente
 
-> *"Yo sé que todavía puedes dar vuelta al maldito. El maldito puede ser revivido. Entonces... Si hay algo de bien, eres el único que lo puede despertar."* — Otar al clérigo Mortan, antes del cerco.
+> *"Yo sé que todavía puedes dar vuelta al maldito. El maldito puede ser revivido. Entonces... Si hay algo de bien, eres el único que lo puede despertar."* — Otar al clérigo [[Mortan]], antes del cerco.
 
 ---
 
@@ -38,7 +38,7 @@ Bajo el cerco del ciclo presente, **el santuario de Otar se reforzó con dos gua
 
 Cuando el grupo del brujo [[Silas_del_Umbral|Silas]] fue acusado de **sacrificios humanos, culto a [[Orcus]] y a [[Nergal]], y entrega de un compañero a "culto del terreno"**, Otar abrió el procedimiento *no con sentencia ejecutiva* sino con **interpelación al clérigo del grupo**:
 
-> *"[[Mortan]], mírame a los ojos. Mortan, hemos tenido una señal y ha llegado un mensaje por cuervo de que ellos son culpables de sacrificios humanos. Sí o no, Mortan?"*
+> *"[[Mortan]], mírame a los ojos. [[Mortan]], hemos tenido una señal y ha llegado un mensaje por cuervo de que ellos son culpables de sacrificios humanos. Sí o no, Mortan?"*
 
 *El vicario nombró a Mortan como "sacerdote del día"* —**figura bisagra entre la institución y los presos**—. **Mortan confesó parcialmente**: que el grupo había entregado un compañero a una entidad llamada *"culto del terreno"*. Otar respondió con la pregunta que prefiguró el acto del cierre:
 

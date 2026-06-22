@@ -33,7 +33,7 @@ enviada contra el mundo y los dioses por alguna fuerza exterior. Ningún
 poder —mortal o divino— que intentó canalizar esta fuerza para su beneficio
 logró salir indemne.
 
-Miembros canónicos: **[[Egas]], [[More]], [[Demian]], [[Wako]], Kal-El, [[Bulfie]], Elhenor,
+Miembros canónicos: **[[Egas]], [[More]], [[Demian]], [[Wako]], Kal-El, [[Bulfie]], [[Elhenor]],
 Jerónimo, Ethan**.
 
 ## Notas
@@ -46,4 +46,4 @@ fue asesinado reiteradamente por los mismos que nominó, quedando su fantasma at
 de **[[Wako]]** como testigo espectral de las transformaciones del grupo. Su última declaración
 sobre la evolución nominal: "¡Qué sutiles!" — reflexión sobre la metamorfosis identitaria.
 
-En el Google Site megacamp, "Rintrah" también funciona como el nombre de un GRUPO de aventureros efectivamente constituido como grupo de juego, con miembros: **[[Kal-el]]**, **[[Wako]]**, **[[Demian]]**, **[[Bulfie]]**, **[[More]]**, **Jerónimo**, **Telurio**, **[[Egas]]**, **Elhenor**. Este grupo representa la "banda aventurera" canónica de Rintrah en su forma constitutiva.
+En el Google Site megacamp, "Rintrah" también funciona como el nombre de un GRUPO de aventureros efectivamente constituido como grupo de juego, con miembros: **[[Kal-el]]**, **[[Wako]]**, **[[Demian]]**, **[[Bulfie]]**, **[[More]]**, **Jerónimo**, **Telurio**, **[[Egas]]**, **[[Elhenor]]**. Este grupo representa la "banda aventurera" canónica de Rintrah en su forma constitutiva.

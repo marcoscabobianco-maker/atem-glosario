@@ -13,4 +13,8 @@ aliases:
 
 ## Presentación
 
-Administradores de mitad de cada Plataforma (12 zonas zodiacales). Vienen de a pares, siempre enfrentados. Matador de Guardián se convierte en nuevo Guardián. [[Juego_de_las_Sombras|Juego de las Sombras]]: participantes resuelven conflicto dual, riesgo de convertirse en Guardianes.
+Administradores de mitad de cada [[Aldebaran_Estrella_Plataforma|Plataforma]] (12 zonas zodiacales). Vienen de a pares, siempre enfrentados. Matador de Guardián se convierte en nuevo Guardián. [[Juego_de_las_Sombras|Juego de las Sombras]]: participantes resuelven conflicto dual, riesgo de convertirse en [[Guardianes]].
+
+## Ver también
+
+- [[Guardias_Ucronicos]] — concepto hermano: el rol de asesino histórico impuesto por las fuerzas temporales (Sarajevo 1914); comparte la regla "quien mata al Guardián se vuelve Guardián", pero opera sobre la historia, no sobre las Plataformas

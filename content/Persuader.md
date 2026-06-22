@@ -1,35 +1,17 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/Persuader_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["Persuader"]
 ---
 
 # Persuader
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Persuader_retrato.png`
-> **Prompt sugerido:** Ilustración de Persuader. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[Persuader_retrato.png]]
+Persuader es nombre de guerra, no nombre de pila: el que convence, el que aprieta, el que cierra tratos por vías que la ley no mira de frente. Agente del Gobernador de [[Nesut_Biti]], fue enviado junto a una comitiva de soldados vestidos de azul cuando el Gobernador despachó a Yuvé al templo a desactivar el símbolo-trampa de la cripta. No iba como escolta: iba como los ojos del poder local.
 
+A lo largo del arco del [[El_Devorador|Devorador]], Persuader fue presencia constante en los asuntos del Gobernador: presente cuando [[Sheridan]] lo engañó, presente en el cierre del arco, último servicio fiel a un patrón cuya autoridad el meteorito terminaría borrando. No sobrevivió al desenlace del arco.
 
-**Acción:** Crear.
-
-## Capa juego
-
-NPC. Soldado/agente del **Gobernador de Nesut Biti**. Mencionado en intro_yuvé: cuando el Gobernador despacha a Yuvé al templo a desactivar el símbolo-trampa, manda **"una comitiva con soldados, vestidos de azul" + "un tal Persuader"** — gente "más suya, que se llevó a un tal Persuader". El nombre "Persuader" sugiere oficial político o interrogador (persuadir = convencer/extorsionar).
-
-Aparición posterior fuerte en `rol_fin_de_arco_contra_el_devorador_nesut` (4 menciones) — está presente en el cierre del arco. Significativo: si acompaña la desactivación del símbolo y luego aparece en el cierre del arco, es **agente recurrente del Gobernador a lo largo del arco Nesut**.
-
-## Ref.
-
-intro_yuvé_pj_guido_wordbreaker (1, presentación); individual_sheridan_engaña_gibernador_nesut_bity (3); rol_fin_de_arco_contra_el_devorador_nesut (4).
-
-## Preguntas
-
-1. ¿"Persuader" es nombre propio o rango? es un nombre de guerra de un cuthroat lawyer creo
-2. ¿Su lealtad es al Gobernador o a Nesut Biti? al gobernador
-3. ¿Sobrevive al arco? no
-
+## Vínculos
+- [[Nesut_Biti]] — territorio donde sirve; toda su trayectoria ocurre aquí
+- Yuvé — misión conjunta en el templo de Nesu; Persuader como vigilante del Gobernador
+- [[Sheridan]] — comparte escena en el engaño al Gobernador
+- [[El_Devorador]] — arco en cuyo cierre Persuader aparece por última vez

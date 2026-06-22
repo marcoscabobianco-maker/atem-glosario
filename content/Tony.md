@@ -18,7 +18,7 @@ compañero **mago** de uno de los compañeros del grupo en [[La_Jabalina|La Jaba
 ## Conexiones
 
 - [[La_Jabalina|La Jabalina]]
-- figura del archivo (jugador — primera aparición confirmada en ATEM)
+- Primera aparición confirmada en el archivo del cosmos
 
 ## Ver también
 

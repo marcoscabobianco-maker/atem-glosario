@@ -37,9 +37,9 @@ imagen: Imagenes_Tier1/Batalla_de_Kosovo_1389.png
 
 ## El día
 
-**28 de junio de 1389**. **Vidovdan en lengua serbia** —*Día de San Vito*, santo de la visión y de la danza—. **El ejército serbio del Príncipe [[Lazaro_Principe_de_Serbia|Lázaro]] enfrenta al ejército otomano del sultán Murad I** en la cuenca de Kosovo Polje; **la derrota es total**.
+**28 de junio de 1389**. **Vidovdan en lengua serbia** —*Día de San Vito*, santo de la visión y de la danza—. **El ejército serbio del Príncipe [[Lazaro_Principe_de_Serbia|Lázaro]] enfrenta al ejército otomano del sultán [[Murad_I]]** en la cuenca de Kosovo Polje; **la derrota es total**.
 
-*Lázaro muere como mártir*: **capturado, decapitado, su cuerpo expuesto**. **Su muerte funda la memoria serbia de la pérdida** —*quinientos años de luto activado cada Vidovdan, transmitido por línea genealógica que el archivo del Plata anota como única en su tipo*—.
+*[[Lazaro_Principe_de_Serbia|Lázaro]] muere como mártir*: **capturado, decapitado, su cuerpo expuesto**. **Su muerte funda la memoria serbia de la pérdida** —*quinientos años de luto activado cada Vidovdan, transmitido por línea genealógica que el archivo del Plata anota como única en su tipo*—.
 
 **La cuenca de Kosovo Polje queda marcada**. *No como geografía militar*: **como geografía cronomántica**. **Quien la pisa el 28 de junio de cualquier año posterior, oye los ecos**.
 
@@ -47,27 +47,27 @@ imagen: Imagenes_Tier1/Batalla_de_Kosovo_1389.png
 
 ## La maldición de San Vito
 
-**[[Moni_Vivescu|Moni Vivescu]]** —*vía bola de cristal, en el arco París Ucrónica*— **identificó la batalla como raíz cronomántica del 28 de junio**. *No como fecha conmemorativa*: **como fecha operativa**. **El martirio de Lázaro abrió en el calendario una cifra que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] aprende a explotar después**: **cada gran siglo recoge un atentado en su 28 de junio**.
+**[[Moni_Vivescu|Moni Vivescu]]** —*vía bola de cristal, en el arco [[Paris_Ucronica|París Ucrónica]]*— **identificó la batalla como raíz cronomántica del 28 de junio**. *No como fecha conmemorativa*: **como fecha operativa**. **El martirio de [[Lazaro_Principe_de_Serbia|Lázaro]] abrió en el calendario una cifra que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] aprende a explotar después**: **cada gran siglo recoge un atentado en su 28 de junio**.
 
 **La cadena cronomántica que el archivero del Plata reconstruye**:
 
 1. **Kosovo 1389** — martirio de Lázaro, primer anclaje del Vidovdan.
 2. **Memoria cultural serbia** — quinientos años de luto activado, cifra simbólica del 28 de junio.
-3. **Instrumentalización por la Mano Negra** — el 28 de junio se elige por su carga, no por la conveniencia táctica.
+3. **Instrumentalización por la [[Mano_Negra_Antiterra_Serbia|Mano Negra]]** — el 28 de junio se elige por su carga, no por la conveniencia táctica.
 4. **[[Sarajevo_1914_Ucronica|Sarajevo, 28 de junio de 1914]]** — atentado del Puente Latino, cumplimiento de la cifra.
-5. **Time Bandits proyectados como Guardias Ucrónicos** — el grupo paga el precio del Inevitable.
+5. **[[Time_Bandits]] proyectados como Guardias Ucrónicos** — el grupo paga el precio del [[Inevitable]].
 
-**Si Kosovo no ocurriera —si el martirio se desviara—, la cadena se rompería en su origen**. *Eso fue lo que [[Marques_de_Sade_Hugo|el Marqués de Sade — Hugo]] sugirió desde la torre del Valle de la Muerte*; **eso fue lo que el grupo discutió tras eliminar a los cuatro generales de guerra** —**[[Eurodico]] el último, ejecutado por Claude—**.
+**Si Kosovo no ocurriera —si el martirio se desviara—, la cadena se rompería en su origen**. *Eso fue lo que [[Marques_de_Sade_Hugo|el Marqués de Sade — Hugo]] sugirió desde la torre del [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]*; **eso fue lo que el grupo discutió tras eliminar a los cuatro generales de guerra** —**[[Eurodico]] el último, ejecutado por Claude—**.
 
 ---
 
 ## El plan diplomático
 
-**Con los cuatro generales eliminados**, *el grupo planteó la posibilidad de evitar la batalla por vía diplomática*. **Torcos y serbios podrían reunirse en mesa anatolia bizantina antes del 28 de junio**; **si la batalla no ocurre, Lázaro no muere mártir y la maldición de Vidovdan no se establece**.
+**Con los cuatro generales eliminados**, *el grupo planteó la posibilidad de evitar la batalla por vía diplomática*. **[[Torcos]] y serbios podrían reunirse en mesa anatolia bizantina antes del 28 de junio**; **si la batalla no ocurre, Lázaro no muere mártir y la maldición de Vidovdan no se establece**.
 
-**El Marqués de Sade — Hugo mencionó "un niño, un talvito" en relación a Kosovo**. *El archivero del Plata sospecha que la frase remite a [[Vito_Guia|San Vito]] mismo como entidad infantil-cronomántica*, *figura que sería posible interpelar antes del rito*; **lectura que abre la puerta al enfoque diplomático sin pasar por arma**.
+**[[Marques_de_Sade_Hugo|El Marqués de Sade — Hugo]] mencionó "un niño, un talvito" en relación a Kosovo**. *El archivero del Plata sospecha que la frase remite a [[Vito_Guia|San Vito]] mismo como entidad infantil-cronomántica*, *figura que sería posible interpelar antes del rito*; **lectura que abre la puerta al enfoque diplomático sin pasar por arma**.
 
-**La operación se planificó en Constantinopla 1055**, *con 334 años de futuro táctico por delante*. **Plan B**: salto temporal directo a Kosovo 1389 con componentes mágicos reunidos en el lustro bizantino. *El archivo no fija el resultado del salto*; **la academia del Plata anota que la cuestión queda abierta**.
+**La operación se planificó en [[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]**, *con 334 años de futuro táctico por delante*. **Plan B**: salto temporal directo a Kosovo 1389 con componentes mágicos reunidos en el lustro bizantino. *El archivo no fija el resultado del salto*; **la academia del Plata anota que la cuestión queda abierta**.
 
 [*"Hay batallas que se ganan; hay batallas que se pierden; hay batallas que ni siquiera se libran y siguen ganando o perdiendo siglos enteros. La de Kosovo es de la tercera escuela." — Glosa atribuida al libro V del [[Decadiano]].*]
 
@@ -89,5 +89,5 @@ imagen: Imagenes_Tier1/Batalla_de_Kosovo_1389.png
 
 - **28 de junio de 1389 — Kosovo Polje** — martirio de Lázaro, fundación del Vidovdan
 - **Quinientos años de memoria serbia** — transmisión cultural del luto activado
-- **Plan diplomático desde Constantinopla 1055** — discusión estratégica
+- **Plan diplomático desde [[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]** — discusión estratégica
 - **Eco continuado hasta Sarajevo 1914** — cumplimiento de la cadena

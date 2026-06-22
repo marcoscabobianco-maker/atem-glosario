@@ -1,48 +1,15 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5191385]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Gerard_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Gérard"]
 ---
 
-# ATEM::SaintGermain::MMF::Gerard
+# Gérard
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Gerard_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Gerard. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Primo mayor de [[Alphonse]], con quien comparte el tejido social del barrio parisino durante los años convulsos de la Fronda. Su presencia en la ciudad es discreta; la sordera que lo aqueja lo mantiene al margen de los conciliábulos y conspiraciones que sus contemporáneos urden en tabernas y patios.
 
-![[ATEM__SaintGermain__MMF__Gerard_retrato.png]]
+Poco dado a los asuntos del momento, Gérard circula entre los mismos espacios que Alfonse frecuenta, más por inercia de parentesco que por inclinación propia. Su figura, anciana y algo distante, aparece en los registros como testigo involuntario antes que como actor.
 
-
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5191385
-**kanka_url:** https://app.kanka.io/w/216093/entities/5191385
-**kanka_kind:** character
-**kanka_type:** NPC
-**familia:** (sin familia)
-**sexo:** Male
-**título:** Monsieur
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 2
-- **Sesiones donde aparece** (2/9):
-  - S4 — 1 hits
-  - S5 — 1 hits
-
-## Entry Kanka actual (resumen)
-
-> Primo mayor de [character:5191384], de duro de oído.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM espejo, citando kanka_url como fuente primaria.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Alphonse]] — primo menor; vínculo familiar que lo ancla al círculo de la campaña
+- [[Paris]] — ciudad donde transcurren sus escasas apariciones en el registro

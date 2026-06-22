@@ -24,7 +24,7 @@ aliases:
 
 > Fuente externa: *Manual of the Planes*, *Deities & Demigods*, *Planescape*.
 
-## Acepción en la el cosmos compartido
+## Acepción en el cosmos compartido
 
 Ysgard aparece en el cosmos compartido referenciado desde [[Minaya_MC]]:
 
@@ -36,13 +36,13 @@ Posiblemente Minaya tiene **conexión planar con Ysgard** — pendiente desarrol
 
 Ysgard opera como:
 - **Plano de heroísmo bélico**: lo usa cuando necesita el espacio de los guerreros caídos.
-- **Posible conexión con Minaya**: el linaje de Minaya (Coyote agente de Tiamat × Zara drow) podría tener arco en Ysgard — pendiente confirmar.
+- **Posible conexión con Minaya**: el linaje de Minaya ([[Coyote]] agente de Tiamat × Zara drow) podría tener arco en Ysgard — pendiente confirmar.
 
 ## Pendientes
 
-- ¿Qué sesiones específicas tienen lugar en Ysgard?
-- ¿Conexión de Minaya con Ysgard: ascendencia? destino post-Juicio Final?
-- ¿Algún compañero ha sido einherjar o ha visitado Asgard en sesión?
+- ¿Qué jornadas específicas tienen lugar en Ysgard?
+- ¿Conexión de Minaya con Ysgard: ascendencia? destino post-[[Juicio_Final]]?
+- ¿Algún compañero ha sido einherjar o ha visitado Asgard en jornada?
 
 ## Nota lateral
 

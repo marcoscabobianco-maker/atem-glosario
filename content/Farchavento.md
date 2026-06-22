@@ -1,6 +1,6 @@
 ---
-título: "Farchavento — redirect (variante Whisper)"
-slug: Farchavento
+título: "Torchavento — redirect (variante Whisper)"
+slug: Torchavento
 estado: redirect
 target: "[[Torchavento]]"
 aliases:
@@ -10,6 +10,6 @@ tags:
  - whisper-variant
 ---
 
-# Farchavento
+# Torchavento
 
 → Consolidado en **[[Torchavento]]**. *Variante TurboScribe/Whisper de Torchavento (el archivo mismo lo señalaba como confirmar). Mismo Malebranche del segundo círculo.*

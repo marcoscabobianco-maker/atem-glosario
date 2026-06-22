@@ -10,7 +10,7 @@ aliases:
 
 **Fuentes:** Taller l.309
 
-Brujo asqueroso, caballero del cruce. Traicionó al [[Gordo_Suli|Gordo Suli]] al informar a la Harmonium sobre sus crímenes. Prometió deshacerse de evidencia ("I'll take care of the bodies") pero en cambio se convirtió en informante. Conectado con Soma. Suli jura vengarse.
+Brujo asqueroso, caballero del cruce. Traicionó al [[Gordo_Suli|Gordo Suli]] al informar a la [[Harmonium]] sobre sus crímenes. Prometió deshacerse de evidencia ("I'll take care of the bodies") pero en cambio se convirtió en informante. Conectado con Soma. Suli jura vengarse.
 
 ## Notas
 

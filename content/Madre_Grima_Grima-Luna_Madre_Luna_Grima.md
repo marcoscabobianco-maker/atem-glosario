@@ -26,7 +26,7 @@ Criatura o mujer gigantesca (tamaño mayor que humano normal) encontrada por el 
 
 **Diálogo clave con [[Swan]]:** El grupo negoció con ella: le ofrecieron libertad y recompensa a cambio de información. Ella aceptó a condición de no ser "usada" como sus amos. Le dijeron que [[Chronomon]] les indicó que encontrarían una aliada en el camino.
 
-**Acordaron:** Reencontrarse en la misma colina en dos días.
+**[[Acordaron]]:** Reencontrarse en la misma colina en dos días.
 
 ## Apariciones notables
 
@@ -34,7 +34,7 @@ Criatura o mujer gigantesca (tamaño mayor que humano normal) encontrada por el 
 
 ## Notas
 
-"Grima" puede ser nombre propio o referencia a personajes de otras tradiciones (Grima Lengua de Serpiente en Tolkien, o grima como máscara/horror). Su naturaleza exacta no está clara: ¿gigante? ¿troll? ¿humanoide transformada? Sus poderes clericales y su referencia a "madre luna" sugieren culto lunar. Ver también **[[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]**, **[[Dama_Amarilla_Senora_del_Oasis|Dama Amarilla]]**.
+"Grima" puede ser nombre propio o referencia a personajes de otras tradiciones (Grima Lengua de Serpiente en [[Tolkien]], o grima como máscara/horror). Su naturaleza exacta no está clara: ¿gigante? ¿troll? ¿humanoide transformada? Sus poderes clericales y su referencia a "madre luna" sugieren culto lunar. Ver también **[[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]**, **[[Dama_Amarilla_Senora_del_Oasis|Dama Amarilla]]**.
 
 ## Ver también
 

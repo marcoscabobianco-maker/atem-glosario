@@ -17,7 +17,7 @@ aliases:
 **Contexto:**
 - El [[Profeta_del_Desierto_Viejo_del_Valle|Profeta del Desierto]] acusa al grupo de ser parte de este ciclo: "son asesinos del Sultán, ciclos del patoforme"
 - El grupo pregunta vía Commune si los Viejos de la Montaña están activos "en este tiempo" (1055) → "Sí, existen y funcionan"
-- Claude/Popović carga con la experiencia del asesinato de [[Sarajevo_1914_Ucronica|Sarajevo]]; el paralelo con los Asesinos históricos es intencional
+- Claude/[[Cvjetko_Popovic|Popović]] carga con la experiencia del asesinato de [[Sarajevo_1914_Ucronica|Sarajevo]]; el paralelo con los Asesinos históricos es intencional
 - La pregunta "son los responsables del intento" (¿asesinato del concubino?) queda parcialmente respondida
 
 ## Apariciones notables

@@ -10,8 +10,8 @@ aliases:
 ## Presentación
 
 **Status canónico:** MUERTO en el robo nocturno de reliquias (combate en la cripta, sin resurrección disponible)
-**Status real al llegar a París Ucrónica:** VIVO, combate activo, iniciativas confirmadas
-**Menciones registradas al llegar a París Ucrónica:**
+**Status real al llegar a [[Paris_Ucronica|París Ucrónica]]:** VIVO, combate activo, iniciativas confirmadas
+**Menciones registradas al llegar a [[Paris_Ucronica|París Ucrónica]]:**
  - "Ah, no la podés llevar vos, [[Alexio]]"
  - "[[Alexio]] es muy rápido"
  - "¿Vos, [[Alexio]], estás con miedo o no?"

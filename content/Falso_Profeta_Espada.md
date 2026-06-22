@@ -15,14 +15,12 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Arma Mágica | **Origen:** el archivo –2131 | **[[Propietario]]:** [[Anti_Inferno|la figura del segundo círculo]] | **Estado:** Activo
+**Tipo:** Arma Mágica | **[[Propietario]]:** [[Anti_Inferno|la figura del segundo círculo]] | **Estado:** Activo
 
-Espada del personaje [[Anti_Inferno|la figura del segundo círculo]] con una mecánica única y dañina. Cada ataque infligido con Falso Profeta causa **d4 daño necrótico AL PROPIO WIELDER**, reflejando la culpa interna de [[Anti_Inferno|la figura del segundo círculo]] y su naturaleza como "falso profeta." La espada también activa **Hellish Rebuke** como reacción cuando [[Anti_Inferno|la figura del segundo círculo]] es golpeado, causando daño de fuego. Durante el combate contra Cancerbero, [[Anti_Inferno|la figura del segundo círculo]] usa esta espada para luchar solo tras la muerte del [[Thunderbird_Cronica_Familiar|Thunderbird]] (–2131), eventualmente cayendo a 2 HP antes de ser devorado. El nombre y la mecánica simbolizan la auto-sabotaje de [[Anti_Inferno|la figura del segundo círculo]] derivado de su culpa.
-
-**Confianza:** MUY ALTA | **Referencias:** –2131
+Espada de [[Anti_Inferno|la figura del segundo círculo]]. Su nombre y naturaleza reflejan la culpa interna del portador y su condición de "falso profeta": el arma hiere tanto al enemigo como a quien la empuña. Durante el combate contra [[Cancerbero_CDI|Cancerbero]], [[Anti_Inferno|la figura del segundo círculo]] la empuña solo tras la muerte del [[Thunderbird_Cronica_Familiar|Thunderbird]], siendo finalmente devorado. El nombre simboliza el auto-sabotaje de [[Anti_Inferno|la figura del segundo círculo]] derivado de su culpa.
 
 ## Ver también
 
-- [[Propietario|Propietario]]
-- [[Hellish_Rebuke|Hellish Rebuke]]
-- Referencias
+- [[Anti_Inferno|la figura del segundo círculo]]
+- [[Cancerbero_CDI|Cancerbero]]
+- [[Thunderbird_Cronica_Familiar|Thunderbird]]

@@ -14,4 +14,4 @@ Huelga excavadores en tumba EL ETRUSCO. Obreros metalúrgicos reasignados trabaj
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] sesión posterior: primeras investigaciones del grupo sobre conspiración etrusca bajo el [[Panteon_el|Panteón]] (excavación relacionada). el archivo: organización de huelga obrera por [[Claude_Nauge|Claude Nauge]] y [[Andre_La_Forge|André La Forge]], financiación con 500 francos del grupo, reclamos por mejora de condiciones laborales.
+[[Paris_Ucronica|París Ucrónica]] jornada posterior: primeras investigaciones del grupo sobre conspiración etrusca bajo el [[Panteon_el|Panteón]] (excavación relacionada). el archivo: organización de huelga obrera por [[Claude_Nauge|Claude Nauge]] y [[Andre_La_Forge|André La Forge]], financiación con 500 francos del grupo, reclamos por mejora de condiciones laborales.

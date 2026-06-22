@@ -31,7 +31,7 @@ La lámina —*si la cancillería imperial hubiera autorizado retrato del capit�
 
 ## El capitán taciturno
 
-**Sir Theobald** fue **capitán de la guardia** del **[[Argus_PJ|Barón Argus]]** en **[[Ritornello]]** desde aproximadamente el 2982 AEP. **Veterano de las marchas occidentales** —*frontera imperial de Irthuin donde el Imperio sostenía presencia menor antes de la Reconquista de Bellatrix*—, llegó al valle como **caballero asignado desde la cancillería de Narsileon**, *con dos décadas de servicio frontero ya acumuladas*.
+**Sir Theobald** fue **capitán de la guardia** del **[[Argus_PJ|Barón Argus]]** en **[[Ritornello]]** desde aproximadamente el 2982 AEP. **Veterano de las marchas occidentales** —*frontera imperial de Irthuin donde el Imperio sostenía presencia menor antes de la Reconquista de Bellatrix*—, llegó al valle como **caballero asignado desde la cancillería de [[Narsileon]]**, *con dos décadas de servicio frontero ya acumuladas*.
 
 El archivo decadiano lo registra con fórmula breve: ***"Capitán de la guardia: Sir Theobald, caballero taciturno."***
 
@@ -41,7 +41,7 @@ El archivo decadiano lo registra con fórmula breve: ***"Capitán de la guardia:
 
 ## El servicio en las marchas occidentales
 
-Antes de Ritornello, Theobald **operó dos décadas en las marchas occidentales del Imperio** —*frontera con los reinos bárbaros del lejano poniente*—. **Participó en al menos tres campañas mayores**: la **defensa del Paso de Vexin** (~2965 AEP), *donde una incursión bárbara mayor fue rechazada con pérdidas importantes en ambos lados*; la **expedición a las cordilleras de Lurnia** (~2970 AEP), *operación punitiva contra clanes saqueadores*; y la **patrulla larga de Veris** (~2974-2977 AEP), *operación de presencia continua durante tres años en territorio frontera*.
+Antes de [[Ritornello]], Theobald **operó dos décadas en las marchas occidentales del Imperio** —*frontera con los reinos bárbaros del lejano poniente*—. **Participó en al menos tres campañas mayores**: la **defensa del Paso de Vexin** (~2965 AEP), *donde una incursión bárbara mayor fue rechazada con pérdidas importantes en ambos lados*; la **expedición a las cordilleras de Lurnia** (~2970 AEP), *operación punitiva contra clanes saqueadores*; y la **patrulla larga de Veris** (~2974-2977 AEP), *operación de presencia continua durante tres años en territorio frontera*.
 
 *De las tres campañas, la patrulla larga de Veris* **dejó huella visible**: Theobald regresó con **cicatriz horizontal sobre el ojo izquierdo** —*marca que algunos colegas asociaban a herida de hacha, otros a corte ritual de tregua con un caudillo bárbaro*— y con **renuencia confirmada al lenguaje superfluo**. *El servicio frontero le había enseñado* **que las palabras gastan oxígeno que en marcha larga vale más que el oro**.
 
@@ -49,7 +49,7 @@ Antes de Ritornello, Theobald **operó dos décadas en las marchas occidentales 
 
 ## La asignación a Ritornello
 
-Hacia el 2982 AEP, **Theobald fue trasladado** desde las marchas occidentales **al Valle de Burdock** *con grado de caballero y comisión de capitán de guardia baronial*. La diócesis de Narsileon **lo presentó al [[Argus_PJ|Barón Argus]]** *con carta de recomendación que el archivo conserva en fragmento*: *"Veterano probado en frontera, fiel a la cadena de mando, no dado a la intriga, conoce a las criaturas del subsuelo por relato de colegas pero no por experiencia propia."* *La última cláusula era detalle deliberado*: **Theobald no había bajado nunca al [[Mega_Dungeon_Arden_Vul|dungeon]] antes de su llegada**. *La diócesis lo enviaba con experiencia frontera, no con experiencia subterránea*.
+Hacia el 2982 AEP, **Theobald fue trasladado** desde las marchas occidentales **al [[Valle_de_Burdock]]** *con grado de caballero y comisión de capitán de guardia baronial*. La diócesis de [[Narsileon]] **lo presentó al [[Argus_PJ|Barón Argus]]** *con carta de recomendación que el archivo conserva en fragmento*: *"Veterano probado en frontera, fiel a la cadena de mando, no dado a la intriga, conoce a las criaturas del subsuelo por relato de colegas pero no por experiencia propia."* *La última cláusula era detalle deliberado*: **Theobald no había bajado nunca al [[Mega_Dungeon_Arden_Vul|dungeon]] antes de su llegada**. *La diócesis lo enviaba con experiencia frontera, no con experiencia subterránea*.
 
 **Argus lo recibió con cordialidad seca**. *Ambos hombres reconocieron de inmediato la afinidad temperamental*: **veteranía frontera, lealtad a la cadena de mando, sospecha de las palabras que no se sostienen en hechos**. El barón **delegó en Theobald el mando operativo** de la guardia baronial *sin reservas significativas*. **Theobald respondió organizando la guardia con disciplina militar plena**, *no con laxitud baronial frontera*.
 
@@ -57,7 +57,7 @@ Hacia el 2982 AEP, **Theobald fue trasladado** desde las marchas occidentales **
 
 ## La guardia del grifo dorado
 
-Bajo el mando de Theobald, la **Guardia de Ritornello** operó como **cuerpo militar profesional**, *no como milicia ceremonial*:
+Bajo el mando de Theobald, la **Guardia de [[Ritornello]]** operó como **cuerpo militar profesional**, *no como milicia ceremonial*:
 
 - **Patrullas regulares** en las cercanías del pueblo, *con rotación de turnos que el archivo lo registra como "modelo Veris" —referencia a la patrulla larga*—.
 - **Inspección semanal de las defensas** del castillo gris y de la empalizada externa.
@@ -111,7 +111,7 @@ Bajo el mando de Theobald, la **Guardia de Ritornello** operó como **cuerpo mil
 - **Marchas occidentales del Imperio** — frontera de servicio previa
 - **Paso de Vexin / Cordilleras de Lurnia / Patrulla larga de Veris** — campañas anteriores
 - **Diócesis de Narsileon** — origen institucional de su asignación
-- [[Iglesia_Imperial]] — Ortodoxia Decadiana bajo cuyo aparato sirvió
+- [[Iglesia_Imperial]] — [[Iglesia_Imperial|Ortodoxia Decadiana]] bajo cuyo aparato sirvió
 - [[Drusus_IX_El_Palido|Basileus Drusus IX]] — autoridad imperial superior remota
 
 ## Apariciones

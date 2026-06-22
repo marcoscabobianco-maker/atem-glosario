@@ -27,13 +27,13 @@ epoca: "1119-1120 AD — Edad Templaria — primer Maestre"
 
 ## Presentación
 
-Hugo de Payns es el fundador histórico de la Orden del Temple. En el archivo aparece primero en su forma reconocible: arrodillado ante la **Cúpula de la Roca** en la Jerusalén de las cruzadas, espada hincada en la palma, la cruz roja templaria en el pecho. Esa es la **forma blanca**: la del Gran Maestre que organiza la Orden en sus primeros años, que negocia con sultanes y patriarcas, que viste túnica y armadura sobria.
+Hugo de Payns es el fundador histórico de la Orden del [[Temple_complejo_TE|Temple]]. En el archivo aparece primero en su forma reconocible: arrodillado ante la **Cúpula de la Roca** en la Jerusalén de las cruzadas, espada hincada en la palma, la cruz roja templaria en el pecho. Esa es la **forma blanca**: la del Gran Maestre que organiza la Orden en sus primeros años, que negocia con sultanes y patriarcas, que viste túnica y armadura sobria.
 
 Pero el archivo guarda dos Hugos. La **forma negra** es lo que aparece cuando los velos se rasgan: andrógino de fuego y escama, con alas que no caben en ningún recinto sagrado, masa relicaria que se sostiene a sí misma por gravedad ajena. El Maestre estaba **desdoblado** desde antes de que la Orden tuviera nombre, y los que entraron a su círculo terminaron por enterarse —algunos a tiempo, otros no—.
 
-El último capítulo del desdoblamiento es el **Sancta Sanctorum**. Los Templarios entraron al recinto y los recibió la otra cara: tres caballeros con cruces rojas en el pecho y calaveras flamantes en lugar de rostro. La Cruz se peleaba con la Cruz. **Ärsvan**, con la lanza bendita en la mano, atravesó al Maestre por el pecho. Hugo cayó —pero cayó con la forma negra, no con la blanca. Lo que se enterró aquel día no era el Gran Maestre que la historia recordaba.
+El último capítulo del desdoblamiento es el **Sancta Sanctorum**. Los [[Templarios]] entraron al recinto y los recibió la otra cara: tres caballeros con cruces rojas en el pecho y calaveras flamantes en lugar de rostro. La Cruz se peleaba con la Cruz. **Ärsvan**, con la lanza bendita en la mano, atravesó al Maestre por el pecho. Hugo cayó —pero cayó con la forma negra, no con la blanca. Lo que se enterró aquel día no era el Gran Maestre que la historia recordaba.
 
-Su muerte fundó una herencia que ningún paladín pidió: la Orden guardaría en su corazón a su propio enemigo. Los **Templarios posesos** —que más tarde aparecerían encadenados en las criptas, con cruces rojas y calaveras llameantes— son la descendencia de aquel desdoblamiento. Y el sello que portaba Hugo en su forma negra reaparece, siglos después, en la mano de un demonio de seis dedos. Helter es, en algún sentido, el nieto que no quiso tener.
+Su muerte fundó una herencia que ningún paladín pidió: la Orden guardaría en su corazón a su propio enemigo. Los **[[Templarios]] posesos** —que más tarde aparecerían encadenados en las criptas, con cruces rojas y calaveras llameantes— son la descendencia de aquel desdoblamiento. Y el sello que portaba Hugo en su forma negra reaparece, siglos después, en la mano de un demonio de seis dedos. [[Helter]] es, en algún sentido, el nieto que no quiso tener.
 
 ## Vínculos
 

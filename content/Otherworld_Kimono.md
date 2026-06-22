@@ -24,7 +24,7 @@ Objeto mágico de gran poder vinculado a los **[[Inevitable|Inevitables]]** (ent
 - Poder considerable; historia propia no completamente documentada
 - Posible que haya más de un ejemplar, o que sea el mismo objeto en manos distintas a través del tiempo
 
-*Nota (R25):* Objeto mágico poderoso con historia propia. Similar o idéntico a objeto que también tuvo [[Swan]] ( Tiene historia relacionada con los [[Inevitable|Inevitables]]. Historia completa pendiente de sesión futura.
+*Nota (R25):* Objeto mágico poderoso con historia propia. Similar o idéntico a objeto que también tuvo [[Swan]] ( Tiene historia relacionada con los [[Inevitable|Inevitables]]. Historia completa pendiente de jornada futura.
 
 ## Notas
 

@@ -1,40 +1,19 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/Shakes_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["Shakes"]
 ---
 
 # Shakes
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Shakes_retrato.png`
-> **Prompt sugerido:** Episodio del oasis. Ilustración OSR.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[Shakes_retrato.png]]
+Miembro de los Wordbreakers, Shakes es una presencia recurrente en el registro de la campaña aunque su protagonismo se despliega de modo más discreto que el de sus compañeros. El episodio que los archivos del grupo identifican como "el oasis" constituye su arco individual más nítido: una travesía solitaria por uno de los oasis del sustrato mesopotámico de [[Vala]], espacio de pausa y peligro a la vez, donde el fuego — en su forma elemental profunda, emparentada con la potencia que los magos llaman [[Kossut|Kossuth]] — marca la experiencia de Shakes con una impronta propia. Ese oasis no es una escala menor: se trata de un lugar de poder en el mapa elemental del mundo, y el contacto de Shakes con él lo singulariza dentro del grupo.
 
+Su nombre, con resonancia teatral y anglosajona, está ligado al carácter de quien lo porta: un temperamento probablemente volcánico, shakespearean en el sentido de alguien que sabe leer la tragedia desde adentro. Las fuentes lo ubican en episodios de confrontación directa — presente en el enfrentamiento contra [[El_Devorador|el Devorador]] y en la persecución del [[Bogeyman]] — como un combatiente que sostiene sin reclamar el centro de la escena.
 
-**Acción:** Crear.
-
-## Capa juego
-
-PC del grupo Wordbreakers. Sesión individual "Shakes oasis" indica arco solitario en un oasis (geografía dual VALA-Mesopotamia/Pampa: oasis encaja en el sustrato mesopotámico). 39 menciones en 14 transcripts — presencia menor que Sheridan/Taylor/Midori, pero recurrente.
-
-Presencia distribuida: 8 en rol_wordbreaker_huevo_negro_y_grr, 5 en contra_el_devorador_y_nesut_revisitado_2 y perseguidos_por_bogeyman.
-
-## Capa [R] asertórica
-
-Jugador: NO IDENTIFICABLE desde corpus textual. Pendiente cuadernos.
-
-## Notas
-
-El nombre "Shakes" es marcadamente anglo/colloquial — posible nick de PC con backstory humorístico o referencia a *Shakes the Clown* / Shakespeare / shake (terremoto). Sin contexto suficiente.
-
-## Preguntas
-
-1. ¿Jugador? [anonimizado] (mismo que PepsiCo y Casimiro y Henri de Reguladores)
-2. ¿Clase ACKS? No es ACKS, es PF 1 e, no recuerdo clase, casi seguro algo tipo sorcerer
-3. ¿"Oasis" es toponimia recurrente o evento puntual? recurrente, relacionado con Kossuth de los tiranos elementales el más importante de la Megacampaña por el fuego
-4. ¿El nombre tiene resonancia teatral/shakespearean intencional? probablemente, el jugador es actor
-
+## Vínculos
+- Wordbreakers — grupo al que pertenece a lo largo de la campaña
+- [[Kossut|Kossuth]] — potencia elemental del fuego vinculada al oasis de su arco individual
+- [[El_Devorador|El Devorador]] — antagonista mayor contra el que Shakes combate junto al grupo
+- [[Bogeyman]] — entidad que persigue a los Wordbreakers; Shakes presente en ese episodio
+- [[Midori]] — compañera recurrente del grupo
+- [[Sheridan]] — figura central de los Wordbreakers

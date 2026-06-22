@@ -21,7 +21,7 @@ tags:
 
 Los Trece Brazos es un **grupo aventurero importante de la generación que precede a los Reguladores**. La grafía del nombre —*Trece* en mayúscula, *Brazos* en plural cargado— sugiere una alianza de combatientes en la que el número no se reduce a contabilidad: trece brazos son trece armas, trece manos, trece direcciones de golpe en una sola coordinación.
 
-De allí viene **Benetton**, el paladín literato que más tarde se uniría al núcleo Reguladores en el norte helado del Labrador. La armadura que carga es heredada de aquella vieja banda, y las cartas que escribe a su yegua Caro Cuore arrancaron, dicen, en alguna noche de campamento de los Trece Brazos.
+De allí viene **[[Benetton]]**, el paladín literato que más tarde se uniría al núcleo Reguladores en el norte helado del Labrador. La armadura que carga es heredada de aquella vieja banda, y las cartas que escribe a su yegua [[Caro_Cuore]] arrancaron, dicen, en alguna noche de campamento de los Trece Brazos.
 
 ## Vínculos
 

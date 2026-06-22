@@ -31,7 +31,7 @@ imagen: Imagenes_Tier1/Tierras_del_Cristalizar.png
 
 > *"Las tierras del cristalizar son la morada de las conciencias devoradas."* — anotación del cronista, C1 ROL, página 4 verde, 20 de enero de 1996.
 
-Las **Tierras del Cristalizar** son la **dimensión onírica del cosmos compartido**, paralela a Antiterra y a Tierra y conectada con ambas por **surcos**, **portales** y las **doce plataformas zodiacales**. *No son sueño en el sentido común de la palabra*: son el espacio donde las ideas, los sentimientos y los deseos de la humanidad **se cristalizan** —se solidifican como cuando se deja evaporar el agua y quedan los cristales—. Lo que en este mundo se piensa sin consecuencia, allá toma forma. Lo que en este mundo se devora sin saber, allá tiene cara.
+Las **Tierras del Cristalizar** son la **dimensión onírica del cosmos compartido**, paralela a [[Antiterra]] y a Tierra y conectada con ambas por **surcos**, **portales** y las **doce plataformas zodiacales**. *No son sueño en el sentido común de la palabra*: son el espacio donde las ideas, los sentimientos y los deseos de la humanidad **se cristalizan** —se solidifican como cuando se deja evaporar el agua y quedan los cristales—. Lo que en este mundo se piensa sin consecuencia, allá toma forma. Lo que en este mundo se devora sin saber, allá tiene cara.
 
 El cronista las define en su primera escritura como **espejo distorsionado**: *"un espejo distorsionado por los sentimientos, ideas y deseos de la comunidad, de la humanidad"*. La distorsión es precisa, no caótica: cada onda del espejo corresponde a una proyección humana real. Por eso el viajero que cruza al otro lado **se reconoce y no se reconoce al mismo tiempo**.
 
@@ -55,7 +55,7 @@ El sistema completo está **enunciado en mano del cronista entre junio de 1995 y
 
 ## La capa visible: Ardis Vala
 
-En el ciclo presente, **la capa más visible de las Tierras del Cristalizar es [[Ardis_Vala]]**: el cristal de diez capas donde los Buscadores se mueven y donde el sistema de Plataformas Zodiacales se manifiesta con guardianes concretos. *Que Ardis Vala sea una de las capas-cebolla de las Tierras del Cristalizar explica por qué su geografía cambia según el descenso, por qué el tiempo allí se comporta como capa, y por qué los actos de quien la cruza tienen consecuencia simultánea en niveles distintos del mismo lugar.*
+En el ciclo presente, **la capa más visible de las Tierras del Cristalizar es [[Ardis_Vala]]**: el cristal de diez capas donde los [[Buscadores_de_Ardis_Vala|Buscadores]] se mueven y donde el sistema de [[Plataformas_Zodiacales_Sistema_de_Guardianes|Plataformas Zodiacales]] se manifiesta con guardianes concretos. *Que [[Ardis_Vala]] sea una de las capas-cebolla de las Tierras del Cristalizar explica por qué su geografía cambia según el descenso, por qué el tiempo allí se comporta como capa, y por qué los actos de quien la cruza tienen consecuencia simultánea en niveles distintos del mismo lugar.*
 
 ## Vínculos
 

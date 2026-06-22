@@ -29,9 +29,9 @@ Catedral nocturna en [[Catedral_de_Glastumville|Glastumville]], invierno tempran
 
 **El Decadiano** —**Iglesia Decadiana** en su nomenclatura completa— es **la iglesia gnóstica sincrética dominante** del ciclo final de [[Antiterra_Demonia|Antiterra]]. Estructura dual heredada del maniqueísmo: ***auditori*** (laicos, mayoría) y ***electi*** (ascetas, minoría rigorista). Su panteón —los **Diez Nuevos Dioses**, *novem deos cum uno*— se opone explícitamente a los **Doce Antiguos** que la [[Sortianos|Vieja Fe Imperial]] todavía sostiene en provincias periféricas y en herejías toleradas. La cifra diez no es arbitraria: corresponde a la mecánica de la **diramación temporal** que el Decadiano elaboró como teología antes de que la burocracia la convirtiera en administración.
 
-La cabeza eclesial es **el [[Patriarca_de_Glastumville|Patriarca de Glastumville]]**, residente en ciudad que no figura en los mapas oficiales **pero a la que llegan, sin equivocarse, los peregrinos que la necesitan**. Bajo él, una red de obispos provinciales, copistas, intérpretes de diramación, y los oscuros funcionarios temporales tipo Iriarte que **aplican la doctrina en el aparato del estado ucrónico**. Sus libros mayores son cinco —el *Misal*, el *Tratado de las Diramaciones*, el *Catálogo de los Diez*, el *Libro de los Cierres*, el *Apéndice de los Patriarcas Difuntos*—; los menores, innumerables y mal indexados.
+La cabeza eclesial es **el [[Patriarca_de_Glastumville|Patriarca de Glastumville]]**, residente en ciudad que no figura en los mapas oficiales **pero a la que llegan, sin equivocarse, los peregrinos que la necesitan**. Bajo él, una red de obispos provinciales, copistas, intérpretes de diramación, y los oscuros funcionarios temporales tipo [[Iriarte]] que **aplican la doctrina en el aparato del estado ucrónico**. Sus libros mayores son cinco —el *Misal*, el *Tratado de las Diramaciones*, el *Catálogo de los Diez*, el *Libro de los Cierres*, el *Apéndice de los Patriarcas Difuntos*—; los menores, innumerables y mal indexados.
 
-La teología admite contradicciones que la cristiandad romana —**que en Antiterra existe como secta minoritaria conservada en dos parroquias de Roma y una franja de Irlanda**— jamás aceptaría: los **grandes diablos tienen caras solares ocultas**, el **Templo de [[Pelor]]** opera dentro del Decadiano sin escándalo, la **Dama de Notre Dame** es a la vez Madre y Plataforma. *Nadie pide que las contradicciones se resuelvan, lo cual es prueba de madurez doctrinal.*
+La teología admite contradicciones que la cristiandad romana —**que en [[Antiterra]] existe como secta minoritaria conservada en dos parroquias de Roma y una franja de Irlanda**— jamás aceptaría: los **grandes diablos tienen caras solares ocultas**, el **Templo de [[Pelor]]** opera dentro del Decadiano sin escándalo, la **Dama de [[Catedral_de_Notre-Dame_PU|Notre Dame]]** es a la vez Madre y [[Aldebaran_Estrella_Plataforma|Plataforma]]. *Nadie pide que las contradicciones se resuelvan, lo cual es prueba de madurez doctrinal.*
 
 ## Vínculos
 
@@ -51,4 +51,4 @@ La teología admite contradicciones que la cristiandad romana —**que en Antite
 
 - **Cierre del ciclo final** — doctrina dominante en el aparato antiterrano
 - **Libros doctrinales** — citados en glosas marginales de archivos paralelos
-- **Aparato del estado ucrónico** — operación cotidiana en el Palazzo del Tempo
+- **Aparato del estado ucrónico** — operación cotidiana en el [[Palacio_del_Tiempo|Palazzo del Tempo]]

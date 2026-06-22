@@ -24,15 +24,15 @@ tags:
 
 # Templo y Lugar de los Justos
 
-> *La fortaleza de los Justos del primer nivel del Infierno de Dante. Donde se cruzan Mediterráneum y el Infierno antes del setting. Donde está la catedral del asalto.*
+> *La fortaleza de los Justos del primer nivel del [[Infierno]] de Dante. Donde se cruzan Mediterráneum y el [[Infierno]] antes del setting. Donde está la catedral del asalto.*
 
 ## Presentación
 
-El **Templo y Lugar de los Justos** es **el palacio-fortaleza del primer nivel del Infierno**, en la línea declarada de **Dante** —el lugar que la *Commedia* dedica a los paganos virtuosos, los justos no bautizados, antes del descenso a los círculos del castigo—. En la el cosmos compartido aparece como **lugar real diegético**, no como referencia metafórica: tiene **catedral, fortaleza, palacio** —arquitectura compuesta que recoge el doble carácter del primer nivel: morada honrosa y, al mismo tiempo, antesala del Infierno.
+El **Templo y Lugar de los Justos** es **el palacio-fortaleza del primer nivel del Infierno**, en la línea declarada de **Dante** —el lugar que la *Commedia* dedica a los paganos virtuosos, los justos no bautizados, antes del descenso a los círculos del castigo—. En el cosmos compartido aparece como **lugar real diegético**, no como referencia metafórica: tiene **catedral, fortaleza, palacio** —arquitectura compuesta que recoge el doble carácter del primer nivel: morada honrosa y, al mismo tiempo, antesala del Infierno.
 
 ### El cruce de Rol Mamba 1
 
-Antes del setting de la campaña Inferno propiamente dicho, el Templo y Lugar de los Justos **ya había aparecido** en **Rol Mamba 1** —la serie de sesiones que la mesa corrió en el **Museo de Arte Moderno de Buenos Aires**—. Allí se cruzaron las líneas: **historia de Mediterráneum** + **posibilidad de revisitar el infierno**. Aparecieron antiguas habitantes como **[[Samsara]]** —compañero— y **[[Equis]]** —compañero—, y se desarrolló la historia de **[[Arcoms_Cosmar|Marcos el Mago]] y su barco**, un **ser arácnido salido del infierno** que se lleva el **libro azul de la Biblioteca del Infierno**. La historia culminó en el Templo y Lugar de los Justos y después **el barco salió por las Columnas de Hércules** al Mediterráneo.
+Antes del setting de la campaña Inferno propiamente dicho, el Templo y Lugar de los Justos **ya había aparecido** en **Rol Mamba 1** —la serie de jornadas que la mesa corrió en el **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]**—. Allí se cruzaron las líneas: **historia de Mediterráneum** + **posibilidad de revisitar el infierno**. Aparecieron antiguas habitantes como **[[Samsara]]** —compañero— y **[[Equis]]** —compañero—, y se desarrolló la historia de **[[Arcoms_Cosmar|Marcos el Mago]] y su barco**, un **ser arácnido salido del infierno** que se lleva el **libro azul de la Biblioteca del Infierno**. La historia culminó en el Templo y Lugar de los Justos y después **el barco salió por las Columnas de Hércules** al [[Mediterraneo_Ucronico|Mediterráneo]].
 
 ### El asalto y las bombas en Inferno
 
@@ -40,7 +40,7 @@ En la campaña Inferno, el Templo y Lugar de los Justos vuelve a ser escenario. 
 
 ### Confluencia multi-mundo
 
-Más allá de las bombas, el Templo y Lugar de los Justos contiene **el Sancta Sanctorum** —cámara identificada con **el Tabernáculo y el Arca de la Alianza**—. Allí se desata la **lucha de todos contra todos por el [[Vala_Cristalis]]**, en el arco **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno. La función del lugar es entonces **nodo de confluencia multi-mundo**: donde las campañas de el cosmos compartido se cosen entre sí. Pasan por aquí Mediterráneum, Paladin in Hell, Rol Mamba 1, Inferno, y los crossovers Masters × [[Cristo_Leon|Mundo de Krile]] con [[Cristo_Leon|Cristo León]].
+Más allá de las bombas, el Templo y Lugar de los Justos contiene **el Sancta Sanctorum** —cámara identificada con **el Tabernáculo y el Arca de la Alianza**—. Allí se desata la **lucha de todos contra todos por el [[Vala_Cristalis]]**, en el arco **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno. La función del lugar es entonces **nodo de confluencia multi-mundo**: donde las campañas del cosmos compartido se cosen entre sí. Pasan por aquí Mediterráneum, [[Paladin_in_Hell]], Rol Mamba 1, Inferno, y los crossovers Masters × [[Cristo_Leon|Mundo de Krile]] con [[Cristo_Leon|Cristo León]].
 
 ## Vínculos
 
@@ -55,15 +55,15 @@ Más allá de las bombas, el Templo y Lugar de los Justos contiene **el Sancta S
 - [[Samsara]] — compañero Rol Mamba 1 (pendiente entrada)
 - [[Equis]] — compañero Rol Mamba 1 (pendiente entrada)
 - [[Arcoms_Cosmar|Marcos el Mago]] — el del barco arácnido, Rol Mamba 1
-- **Libro azul de la Biblioteca del Infierno** — robado por Marcos el Mago (pendiente cotejar con Eisagogika)
+- **Libro azul de la Biblioteca del Infierno** — robado por [[Marcos_el_Mago]] (pendiente cotejar con [[Eisagogika]])
 - **Columnas de Hércules** — salida del barco arácnido
-- **Museo de Arte Moderno de Buenos Aires** — locación real de Rol Mamba 1
+- **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]** — locación real de Rol Mamba 1
 - [[Cristo_Leon]] / **Mundo de Krile** — crossovers Masters
 - [[Anti_Inferno|Campaña Inferno]] — escenario del eco de bombas
 
 ## Apariciones
 
-- Rol Mamba 1 — sesiones Museo de Arte Moderno BsAs, cruce Mediterráneum × Infierno
-- Inferno (el Descenso) — eco del episodio de bombas, Sancta Sanctorum, lucha por Vala Cristalis
-- Paladin in Hell — sede del Vala Cristalis (Sancta Sanctorum)
+- Rol Mamba 1 — jornadas Museo de Arte Moderno BsAs, cruce Mediterráneum × Infierno
+- Inferno (el Descenso) — eco del episodio de bombas, Sancta Sanctorum, lucha por [[Vala_Cristalis]]
+- [[Paladin_in_Hell]] — sede del [[Vala_Cristalis]] (Sancta Sanctorum)
 - Crossovers Masters × Mundo de Krile — punto de cruce

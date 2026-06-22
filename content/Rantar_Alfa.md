@@ -27,7 +27,7 @@ El estatus exacto de Rantar Alfa **es ambiguo** en la formulación del archivo. 
 
 - **Denominación alterna de Nexus** —otro nombre para la misma ciudad—
 - **Sección o distrito de Nexus** —parte específica de la ciudad-constante—
-- **Entidad asociada** —ser, lugar o concepto vinculado pero distinto de Nexus—
+- **[[Entidad]] asociada** —ser, lugar o concepto vinculado pero distinto de Nexus—
 - **Ciudad paralela** —la ciudad de los 144.000 elegidos puede ser separada de Nexus—
 
 ### Los 144.000 elegidos
@@ -40,7 +40,7 @@ La referencia más concreta: **almas raptadas desde el evento de la Torre Eiffel
 
 ### Lugar del nacimiento de los dioses
 
-Si Rantar Alfa **es** la ciudad-faro de los 144.000 (denominación alterna de Nexus), también es **lugar del nacimiento de los dioses** del panteón inicial. Tailoor, Antinoo, Sheridron, Garkhan, Jax, Juve, Shakes y Auro habrían nacido —o emergido al rango deidad— en Rantar Alfa.
+Si Rantar Alfa **es** la ciudad-faro de los 144.000 (denominación alterna de Nexus), también es **lugar del nacimiento de los dioses** del panteón inicial. [[Tailoor]], Antinoo, [[Sheridron]], [[Garkhan]], Jax, Juve, [[Shakes]] y Auro habrían nacido —o emergido al rango deidad— en Rantar Alfa.
 
 ## Vínculos
 
@@ -54,5 +54,5 @@ Si Rantar Alfa **es** la ciudad-faro de los 144.000 (denominación alterna de Ne
 
 ## Apariciones
 
-- Lista de cabos abiertos del Tribunal Supremo
+- Lista de cabos abiertos del [[Los_Supremos|Tribunal Supremo]]
 - Ciudad de los 144.000 elegidos (estado pendiente: ¿fue deshecha?)

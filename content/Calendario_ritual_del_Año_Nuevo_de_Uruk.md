@@ -1,49 +1,19 @@
 ---
-tags: [Vala, VALA, lugar]
-meta: M
-image: _assets/Vala/Calendario_ritual_del_Año_Nuevo_de_Uruk_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: concepto
+tags: ["concepto", "vala"]
+aliases: ["Año Nuevo de Uruk", "Calendario ritual de Uruk"]
 ---
 
 # Calendario ritual del Año Nuevo de Uruk
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Calendario_ritual_del_Año_Nuevo_de_Uruk_retrato.png`
-> **Prompt sugerido:** Ilustración de Calendario ritual del Año Nuevo de Uruk. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[Calendario_ritual_del_Año_Nuevo_de_Uruk_retrato.png]]
+El Año Nuevo de [[Uruk_(capital)_y_Casa_Azul|Uruk]] no es solo una fecha: es la reactualización del orden del cosmos. Cada ciclo, la ciudad entera se detiene, reorganiza y vuelve a nacer. Los archivos reconstruyen la secuencia ceremonial a partir de los registros de los días en que los [[Wordbreakers]] tuvieron un papel declarado en los ritos — "extranjeros invitados con un papel en esto", según la formulación de las crónicas oficiales.
 
+La ceremonia se despliega sobre varios días. El cuarto día es el de la expiación: la ciudad observa recato, el rey recibe cachetazos rituales de manos del sumo sacerdote y luego "desaparece" — se retira, se oculta, o es simbólicamente destituido — mientras toda la población permanece en estado de guardia. La mañana del quinto día es la gran parada de los dioses: en la Isla del Medio, bajo un pabellón que exhibe los colores de las siete casas, los representantes de las potencias del orbe se reúnen en audiencia con el rey o su sustituto. Solo los barqueros de pies de pájaro pueden conducir las embarcaciones hasta ese punto; nadie más llega sin su concurso. Al mediodía del mismo día, los invitados especiales acceden a una segunda audiencia. Los días posteriores concluyen con el himeneo sagrado — matrimonio ritual entre el rey o su sustituto y una sacerdotisa, vínculo que garantiza la fertilidad del ciclo — y con orgías generales que cierran el período y abren el nuevo año a toda la población.
 
-**Acción:** Crear (entrada de worldbuilding).
+El fondo mítico de los ritos es la derrota de los dragones de [[Tiamat]]: el officiante recita la epopeya de la creación, invoca a [[Marduk]] en las regiones del sur o a Ashur en las del norte, y la ciudad entera revive el momento en que el orden venció al caos. El ciclo actual tiene un tono particular porque es un ciclo de cien años — no de mil, aclaración que los archivos conservan con énfasis —, lo que convoca portentos mayores y puede requerir la designación de un Rey Sustituto. Los ciclos anteriores incluyen el de Gilgamesh y el que precedió al dominio de Marduk; la historia de Vala está medida por estos intervalos más que por cualquier otra cuenta.
 
-## Descripción
-
-Estructura ceremonial del Año Nuevo en el orbe Vala, reconstruida a partir de la exposición del Master en intro_yuvé y rol_wordbreaker_contra_ob_calignintorre. Este año tiene **tono especial** por ser ciclo de **100 años** (no 1000; aclaración explícita del Master).
-
-| Fase | Día | Evento |
-|---|---|---|
-| Inicio | Día 1-3 | Apertura ceremonial (no detallada en corpus) |
-| **Expiación** | Día 4 | Recato, cachetazos rituales al rey, el rey "desaparece". Toda la población en guardia. |
-| **Parada de dioses** | Día 5 mañana | Ceremonia en la **Isla del Medio**: pabellón con los colores de las siete casas. Audiencia con el rey/sustituto. Sólo accesible vía barqueros de pies de pájaro. |
-| **Audiencia con el rey** | Día 5 mediodía | Acceso de invitados especiales (los Wordbreakers son etiquetados como "extranjeros invitados con un papel en esto"). |
-| **Himeneo / hierogamia** | Día posterior | Matrimonio ritual entre rey/príncipe y sacerdotisa: fertilidad colectiva. |
-| **Orgías generales** | Final | Cierre ritual abierto a toda la población. |
-
-Ritualidad de fondo: reactualización de la **derrota de los dragones de Tiamat**, lectura de la epopeya de la creación (Enuma Elish trasplantado), invocación de **Marduk** (sur) o **Ashur** (norte) según región del oficiante.
-
-## Ciclos mayores
-
-- Ciclo de 100 años: portentos mayores → designación de Rey Sustituto.
-- Ciclos anteriores (mencionados): ciclo de Gilgamesh, ciclo anterior a Marduk. La historia del mundo está organizada por estos ciclos.
-
-## Ref.
-
-intro_yuvé_pj_guido_wordbreaker (ciclo, parada de dioses); rol_wordbreaker_contra_ob_calignintorre (expiación, audiencia, himeneo); individual_gharkan (calendario de los ritos); rol_wordbreaker_reunión_rey_mediodia_y_sust (audiencia mediodía).
-
-## Preguntas
-
-1. ¿Tenés tabla calendárica completa en cuadernos?
-2. ¿Las orgías generales son atestiguadas en sesiones o sólo mencionadas?
-3. ¿Quién oficia el himeneo del ciclo actual? (No el rey, que está reemplazado por sustituto.)
-
+## Vínculos
+- [[Uruk_(capital)_y_Casa_Azul|Uruk]] — ciudad donde se celebra el rito
+- [[Wordbreakers]] — grupo presente como "extranjeros invitados" durante el ciclo actual
+- [[Tiamat]] — cuya derrota se reactualiza en el rito
+- [[Marduk]] — potencia invocada en los oficios del sur

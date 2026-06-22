@@ -24,23 +24,27 @@ imagen: null
 ---
 # El Río Ucronos
 
-> *"Las ciudades que cruzan el río Ucronos siguen brillando por sus materias primas y ciencia arcana."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"Las ciudades que cruzan el río Ucronos siguen brillando por sus materias primas y ciencia arcana."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
 ## El cauce del tiempo
 
-**El Río Ucronos** —*"Ucronos"* en grafía consolidada del compilado de Mascor Blancarba; *"Oukronos"* en variante archivística más antigua que el archivo conserva— **es río primigenio del mundo-gema [[Vala_Cristalis]]**. **Cauce del tiempo**: *no agua corriente ordinaria*, **flujo cosmológico** *que opera con doctrina cronomántica del polo temporal del cosmos extendido*.
+**El Río Ucronos** —*"Ucronos"* en grafía consolidada del compilado de [[Mascor_Blancarba]]; *"[[Rio_Ucronos|Oukronos]]"* en variante archivística más antigua que el archivo conserva— **es río primigenio del mundo-gema [[Vala_Cristalis]]**. **Cauce del tiempo**: *no agua corriente ordinaria*, **flujo cosmológico** *que opera con doctrina cronomántica del polo temporal del cosmos extendido*.
 
-*El río atraviesa el mundo-gema*. **Pasa por [[Caldero]] y [[Ciudad_Estrella]]**, *conectándolas como cauce vital y cosmológico*. **Sus tributarios** incluyen al **Río Blackwater**, *donde [[Vitalis]] opera la balsa cronomántica del linaje Casa Azul*.
+*El río atraviesa el mundo-gema*. **Pasa por [[Caldero]] y [[Ciudad_Estrella]]**, *conectándolas como cauce vital y cosmológico*. **Sus tributarios** incluyen al **Río Blackwater**, *donde [[Vitalis]] opera la balsa cronomántica del linaje [[Casa_Azul_de_Vala|Casa Azul]]*.
 
 ---
+
+## El mensajero del cauce
+
+**[[Vitalis]] fue abandonado en el [[Rio_Oukronos|Oukronos]] como mensajero olvidado de la Edad Media** —el dato que la variante archivística antigua conserva—. *Vestigios de antiguas capas de [[Vala_Cristalis]] susurran, desde el lecho, secretos de épocas donde el río corría por otros cauces*; **en la fase de Greyhawk y Vecna el cauce opera como portal y conducto temporal** dentro de [[Eilidh]].
 
 ## La función cosmológica
 
 **Las ciudades que cruzan el Ucronos siguen brillando por sus materias primas y ciencia arcana**. *La doctrina*: **el río suministra energía cosmológica residual** *a las civilizaciones que se asientan en sus márgenes*. **Materias primas** (*minerales, plantas, sustancias arcanas*) **operan con resonancia temporal**; **ciencia arcana** (*conjuros, adivinaciones, manipulaciones del tiempo*) **opera con flujo asegurado**.
 
-*Cualquier operación cronomántica del mundo-gema* **se sostiene en parte en el Ucronos**: **[[Vitalis|el Hechicero del Río Blackwater]]**, **[[Tony_Malatesta|Tony Malatesta]]** *con el reloj de la Torre Eiffel*, **[[Pablo_el_Cronomante|Pablo el Cronomante]]** *en la Capilla Oscura*. **Cada figura cronomántica del cosmos extendido** *que opera en geografía del mundo-gema* **bebe del Ucronos**, *consciente o inconscientemente*.
+*Cualquier operación cronomántica del mundo-gema* **se sostiene en parte en el Ucronos**: **[[Vitalis|el Hechicero del Río Blackwater]]**, **[[Tony_Malatesta|Tony Malatesta]]** *con el reloj de la Torre Eiffel*, **[[Pablo_el_Cronomante|Pablo el Cronomante]]** *en la [[Capilla_Oscura]]*. **Cada figura cronomántica del cosmos extendido** *que opera en geografía del mundo-gema* **bebe del Ucronos**, *consciente o inconscientemente*.
 
 ---
 

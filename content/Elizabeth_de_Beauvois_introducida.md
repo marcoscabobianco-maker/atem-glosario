@@ -16,4 +16,4 @@ Esta entrada es mencionada desde:
 
 ---
 
-*Si llegaste aquí buscando información sobre **Elizabeth De Beauvois Introducida**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+*Si llegaste aquí buscando información sobre **[[Elizabeth_madre_de_Swan|Elizabeth]] De Beauvois Introducida**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

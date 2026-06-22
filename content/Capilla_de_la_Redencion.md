@@ -24,21 +24,21 @@ imagen: null
 
 # Capilla de la Redención
 
-> *"No es capilla de arrepentimiento. Es capilla de pago. La Redención de su nombre es la que la Serpiente cobró aquella primera noche, y la que sigue cobrando, en silencio, cada noche que un visitante mira al espejo sin saberlo."* — *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de Narsileon.
+> *"No es capilla de arrepentimiento. Es capilla de pago. La Redención de su nombre es la que la Serpiente cobró aquella primera noche, y la que sigue cobrando, en silencio, cada noche que un visitante mira al espejo sin saberlo."* — *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de [[Narsileon]].
 
 ---
 
 ## El edificio
 
-**Capilla menor** en escala, **mayor en eco**. Se asienta en el trazado urbano alto de Caldero, no lejos del Templo de San Cutberto pero **operando en registro distinto**: el Templo es decadiano público; la Capilla de la Redención es **nodo ritual semi-clandestino** que el aparato eclesial reconoce pero no opera directamente.
+**Capilla menor** en escala, **mayor en eco**. Se asienta en el trazado urbano alto de [[Caldero]], no lejos del [[Templo_de_San_Cutberto]] pero **operando en registro distinto**: el Templo es decadiano público; la Capilla de la Redención es **nodo ritual semi-clandestino** que el aparato eclesial reconoce pero no opera directamente.
 
-*Una sola nave estrecha*, **cripta inferior pequeña**, **altar de plata oxidada** sobre el cual descansa **el espejo del rito** —espejo de plata mate, sin marco visible, suspendido en cadenas finas que el limosnero del lugar pule cada luna nueva—. **Las paredes conservan diagramas mítológicos** que muestran a Ishen y Nalía en gesto de unión, y a la Serpiente lunar enroscada en el espejo intermedio.
+*Una sola nave estrecha*, **cripta inferior pequeña**, **altar de plata oxidada** sobre el cual descansa **el espejo del rito** —espejo de plata mate, sin marco visible, suspendido en cadenas finas que el limosnero del lugar pule cada luna nueva—. **Las paredes conservan diagramas mítológicos** que muestran a [[Mito_de_los_Amantes_y_la_Serpiente_Lunar|Ishen y Nalía]] en gesto de unión, y a la Serpiente lunar enroscada en el espejo intermedio.
 
 ---
 
 ## La consagración primigenia *(voz Mascor Blancarba)*
 
-**Aquí se selló el pacto**. *En la era primigenia del mundo-gema*, **Ishen y Nalía consumaron la unión** sobre el altar de plata. **Nalía cantó el fragmento sobre el espejo**. **La Serpiente-Luna retiró la lengua del pacto**. *Ese acto* dio nombre al edificio: **redención** *no como rescate del pecado, sino como pago de tributo a la Serpiente*.
+**Aquí se selló el pacto**. *En la era primigenia del mundo-gema*, **[[Mito_de_los_Amantes_y_la_Serpiente_Lunar|Ishen y Nalía]] consumaron la unión** sobre el altar de plata. **Nalía cantó el fragmento sobre el espejo**. **[[Serpiente_Luna_Auna|La Serpiente-Luna]] retiró la lengua del pacto**. *Ese acto* dio nombre al edificio: **redención** *no como rescate del pecado, sino como pago de tributo a la Serpiente*.
 
 Quien lee el mito del pacto en su versión decadiana ortodoxa **se equivoca de pie de página**: la capilla no celebra arrepentimiento, **celebra cumplimiento**. *La diferencia importa*. **El visitante que entra a confesar pecado encuentra un altar que no opera con sus pecados**; *el visitante que entra a cumplir tributo* —*con un objeto simbólico, un canto pequeño, una moneda dejada sobre el espejo*— **opera con el eco del pacto original**.
 
@@ -58,7 +58,7 @@ Quien lee el mito del pacto en su versión decadiana ortodoxa **se equivoca de p
 
 - **Magos arcanos** que invocan a la Serpiente-Luna **cantan el fragmento del cántico de Nalía sobre el espejo** antes de operar. *Práctica llamada "cesión menor"*.
 - **Parejas que sellan unión** —matrimonios menores que no quieren la solemnidad del Templo metropolitano— **eligen la Capilla** *como locus alternativo*. **El aparato eclesial lo permite con discreción**.
-- **Peregrinos del Caldero que buscan pago de tributo** —*por pacto antiguo no honrado, por culpa que no encuentra confesionario adecuado*— **dejan ofrenda menor sobre el espejo**.
+- **Peregrinos del [[Caldero]] que buscan pago de tributo** —*por pacto antiguo no honrado, por culpa que no encuentra confesionario adecuado*— **dejan ofrenda menor sobre el espejo**.
 - **Algunos miembros de [[La_Jabalina]] han pasado por la Capilla** sin proponérselo, *atraídos por el aviso silencioso del lugar*. *La cronista anota que [[Scylla|Sila]] entró una vez y se quedó largo rato frente al espejo, sin hablar*.
 
 ---
@@ -67,7 +67,7 @@ Quien lee el mito del pacto en su versión decadiana ortodoxa **se equivoca de p
 
 *La Capilla de la Redención es **nodo cosmológico vivo*** en Caldero. **Mantiene la ofrenda activa a la Serpiente-Luna**, *que opera bajo el suelo volcánico de la ciudad*. **Si la Capilla cae en olvido completo, la Serpiente cobrará el tributo de otra manera** —*según la doctrina serpentina, la otra manera siempre es peor*—. **Los clérigos decadianos discretos lo saben**; *por eso permiten la práctica clandestina* aunque la doctrina pública decadiana metropolitana no la reconoce.
 
-*La Capilla y la [[Capilla_Oscura]] operan en simetría inversa*: **la Oscura selló contra los diablos** *(polo negativo activo)*; **la Redención selló con la Serpiente** *(polo serpentino exigente)*. **Las dos juntas sostienen el equilibrio cosmológico de Caldero por arriba y por abajo**. *Sin la Redención, la Serpiente; sin la Oscura, los diablos*. **La ciudad camina entre los dos sellados sin saberlo**.
+*La Capilla y la [[Capilla_Oscura]] operan en simetría inversa*: **la [[Reina_Oscura|Oscura]] selló contra los diablos** *(polo negativo activo)*; **la Redención selló con la Serpiente** *(polo serpentino exigente)*. **Las dos juntas sostienen el equilibrio cosmológico de Caldero por arriba y por abajo**. *Sin la Redención, la Serpiente; sin la [[Reina_Oscura|Oscura]], los diablos*. **La ciudad camina entre los dos sellados sin saberlo**.
 
 ---
 

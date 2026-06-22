@@ -1,5 +1,5 @@
 ---
-categoria: organizacion
+categoria: organización
 tags:
  - "paris-ucronica"
  - "organizacion"

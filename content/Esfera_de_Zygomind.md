@@ -29,7 +29,7 @@ imagen: Imagenes_Tier1/Esfera_de_Zygomind.png
 
 La lámina lo fija sobre **base de bronce con tres patas garra**: **globo de vidrio soplado** que contiene **hongo vivo** —*puffs de esporas pálidas flotando suspendidas en el medio gaseoso del interior*—. El globo está **sellado con múltiples capas de cera lacrada** —*cada capa la pone un sacerdote distinto, con su sello propio, en distinta época*—.
 
-El **Zygomind** es entidad **fúngica de naturaleza pre-orgánica**: no animal, no vegetal del todo, **memoria distribuida en esporas**. Sus apariciones en Constantinopla 1055 coinciden con las **últimas semanas de la Emperatriz Zoe** —*el archivo no decide si la mató o sólo presenció su muerte*—.
+El **[[Zygomind]]** es entidad **fúngica de naturaleza pre-orgánica**: no animal, no vegetal del todo, **memoria distribuida en esporas**. Sus apariciones en [[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]] coinciden con las **últimas semanas de la Emperatriz Zoe** —*el archivo no decide si la mató o sólo presenció su muerte*—.
 
 ## Vínculos
 

@@ -30,15 +30,15 @@ imagen: Imagenes_Tier1/Kal-el.png
 
 ---
 
-**Kal-el fue miembro de [[Rintrah]]** —orden cuyo nombre tomaron del **poeta-profeta [[Mabron|Mabrón]]**, quien los bautizó—; **Rintrah no se llama Rintrah sin Mabrón**, y ése es el peso del acto siguiente. *Kal-el linchó a Mabrón*. **Lo colgó con sus propias manos**, los archivos no precisan el agravio, **el grupo no perdonó la mano y el cosmos no perdonó la cuerda**.
+**Kal-el fue miembro de [[Rintrah]]** —orden cuyo nombre tomaron del **poeta-profeta [[Mabron|Mabrón]]**, quien los bautizó—; **[[Rintrah]] no se llama [[Rintrah]] sin Mabrón**, y ése es el peso del acto siguiente. *Kal-el linchó a Mabrón*. **Lo colgó con sus propias manos**, los archivos no precisan el agravio, **el grupo no perdonó la mano y el cosmos no perdonó la cuerda**.
 
 **El acto** —*asesinar al nominador de la identidad del grupo*— **fue traición de orden mayor**: no contra el camarada, sino contra **el origen del nombre**. *En la lógica del archivo del Plata, esto es de los pocos pecados que disparan retaliación demoníaca directa*: el cosmos no toma cartas en las traiciones pequeñas; sí en las traiciones que **vuelven al grupo otra cosa**.
 
 ---
 
-**[[Grazzt|Graz'zt]] —el príncipe demonio que más cuida de los pactos del Plano Abisal— lo capturó personalmente**. *La tortura fue extensa, registrada en las cortes inferiores como caso de demostración*: **no hubo extracción de información**; hubo **demostración**. Kal-el sigue ahí, según los últimos archivos —*los ojos desafiantes en la lámina lo confirman*—; **la corte sigue mirándolo**. **El castigo no se mide en tiempo**: se mide en **veces que su nombre se repite en otras cortes**, y cada vez que se repite, **se renueva**.
+**[[Grazzt|Graz'zt]] —el príncipe demonio que más cuida de los pactos del [[Plano_Abisal]]— lo capturó personalmente**. *La tortura fue extensa, registrada en las cortes inferiores como caso de demostración*: **no hubo extracción de información**; hubo **demostración**. Kal-el sigue ahí, según los últimos archivos —*los ojos desafiantes en la lámina lo confirman*—; **la corte sigue mirándolo**. **El castigo no se mide en tiempo**: se mide en **veces que su nombre se repite en otras cortes**, y cada vez que se repite, **se renueva**.
 
-[*Hay traidores que el mundo olvida y hay traidores que se cobran a cuotas. Kal-el es de los segundos. Su cuota no la cobra el Plano Abisal: la cobra el nombre de Mabrón cada vez que alguien lo dice. — Glosa coloquial del archivero del Plata.*]
+[*Hay traidores que el mundo olvida y hay traidores que se cobran a cuotas. Kal-el es de los segundos. Su cuota no la cobra el [[Plano_Abisal]]: la cobra el nombre de Mabrón cada vez que alguien lo dice. — Glosa coloquial del archivero del Plata.*]
 
 ## Vínculos
 
@@ -52,4 +52,4 @@ imagen: Imagenes_Tier1/Kal-el.png
 
 - **Antes del Hiato — vida en Rintrah** — miembro canónico, posteriormente traidor
 - **Linchamiento de Mabrón** — acto de quiebre ético de la orden
-- **Cortes inferiores de Graz'zt — tortura continuada** — caso de demostración, sin cierre
+- **Cortes inferiores de [[Grazzt|Graz'zt]] — tortura continuada** — caso de demostración, sin cierre

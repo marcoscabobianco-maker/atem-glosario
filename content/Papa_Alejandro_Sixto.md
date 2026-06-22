@@ -5,6 +5,7 @@ aliases:
  - Papa Alejandro Sixto
  - Papa Alejandro
  - Papa Alejandro VI
+ - Alejandro VI
  - Alejandro Sixto
  - Sumo Pontífice del Prisma
  - El Papa del Castillo del Prisma
@@ -37,7 +38,7 @@ imagen: null
 
 ## Antes: Sir Sixto, el caballero perdido
 
-Era **Sir Sixto**, **Caballero de la [[Caballeros_Cicatriz_del_Sol|Orden de la Cicatriz del Sol]]**. **Homónimo del compañero [[Sixto_Guido|Sixto Guido]]**, recursividad nominal que ya entonces el archivo registraba como **inquietante**. Sobre la cámara octogonal de piedra del mega-dungeon —tras el escape del [[Forum_de_Set|Foro de Set]] con los rubíes de Prisco Electe— un mensaje arcano lo había nombrado: *"Lo perdimos en el nivel de abajo. Encuéntrenlo."*
+Era **Sir Sixto**, **Caballero de la [[Caballeros_Cicatriz_del_Sol|Orden de la Cicatriz del Sol]]**. **Homónimo del compañero [[Sixto_Guido|Sixto Guido]]**, recursividad nominal que ya entonces el archivo registraba como **inquietante**. Sobre la cámara octogonal de piedra del mega-dungeon —tras el escape del [[Forum_de_Set|Foro de Set]] con los rubíes de [[Priscus_Pulcher|Prisco Electe]]— un mensaje arcano lo había nombrado: *"Lo perdimos en el nivel de abajo. Encuéntrenlo."*
 
 **No lo encontraron.** Los [[Buscadores_de_Ardis_Vala|Buscadores]] cerraron el ciclo primero del valle sin haber localizado a Sir Sixto. La doctrina apresurada lo dio por perdido en alguna región profunda del dungeon.
 
@@ -51,7 +52,7 @@ Durante los quince años del **[[Hiato_15_Años_Ardis_Vala|Hiato]]**, Sir Sixto 
 
 Lo que el cronista anota sin pretensión de glosa:
 
-- **Sobrevivió al colapso de la Orden** —decapitación de [[Master_Malakita|Malakita]] por [[Alumine|Alúmine]] en la cámara hiperbárica, toma del Hold por los Buscadores—. Emergió **como único líder eclesial superviviente legitimable**.
+- **Sobrevivió al colapso de la Orden** —decapitación de [[Master_Malakita|Malakita]] por [[Alumine|Alúmine]] en la cámara hiperbárica, toma del Hold por los [[Buscadores_de_Ardis_Vala|Buscadores]]—. Emergió **como único líder eclesial superviviente legitimable**.
 - **Asumió el cargo papal** cuando el [[Palacio_del_Prisma|Castillo del Prisma]] cayó bajo dominio brumoso.
 - **Asimiló a los [[Custodes_Oculis_Solis|Custodes Oculis Solis]]** —orden sacerdotal de Thoth, transmutados a servidores de luz dorada del plano positivo—.
 - **Accedió a una fuente luminosa que sus archivos no describen**. *El cronista, que respeta los silencios, no insiste.*
@@ -66,7 +67,7 @@ El Papa lleva el nombre del **[[Alejandro_VI_Borgia|Papa Alejandro VI Borgia]]**
 
 Y la firma se extiende al linaje. **Los hijos perdidos de [[Mirela_Valka]]** —**Dracos** y **Luminita** en el valle, *Dragoș* y *Luminița* en la grafía antigua— **operan en el ciclo presente como Cesare y Lucrecia Borgia operaron en su Renacimiento**: hijos del Papa que no se nombran como hijos del Papa, pero cuya presencia tutelar el archivo no acaba de explicar de otro modo.
 
-*Que Mirela Valka sea o no la madre cosmológica de los hijos del Papa es asunto que el archivo no termina de transcribir; los Buscadores los rescatan de la cripta sin sospechar el detalle.*
+*Que [[Mirela_Valka]] sea o no la madre cosmológica de los hijos del Papa es asunto que el archivo no termina de transcribir; los [[Buscadores_de_Ardis_Vala|Buscadores]] los rescatan de la cripta sin sospechar el detalle.*
 
 ---
 
@@ -76,7 +77,7 @@ El Papa entra al sistema como **autoridad luminosa que el equilibrio no había a
 
 Bajo el dominio brumoso, **[[Caladan]]** se asentó como darklord involuntario, la **fiebre blanca** arrasó los pueblos, **[[Valakhan_de_la_Bruma|Valakhan]]** quedó cosido al valle. *El polo oscuro creció.* En respuesta —*o en operación simultánea, según el doctrinario al que se le pregunte*— el polo luminoso encontró asiento en el Palacio: **luz dorada solidificada, plano positivo, aura anti-no-muertos**, custodios celestes con pectoral de águila imperial y ojo de sol.
 
-**Caladan, vampiro, no puede acercarse al trono.** La regla cosmológica es vieja. *El Papa lo sabe. Caladan también.*
+**[[Caladan]], vampiro, no puede acercarse al trono.** La regla cosmológica es vieja. *El Papa lo sabe. [[Caladan]] también.*
 
 ---
 
@@ -92,7 +93,7 @@ Sobre todo lo demás: **el trono de rubí**. Eco doctrinal del **[[Strahd|señor
 
 Cuatro lecturas se admiten en concilio público; el cronista las anota juntas porque ninguna las cierra:
 
-- **Aliado**: era Caballero de la Cicatriz del Sol, orden ahora liderada por los Buscadores vía [[Valerius_Utrecht|Valerius]]. **Si conservó el oficio, está del lado limpio**.
+- **Aliado**: era Caballero de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]], orden ahora liderada por los Buscadores vía [[Valerius_Utrecht|Valerius]]. **Si conservó el oficio, está del lado limpio**.
 - **Enemigo**: ha asumido autoridad bajo el dominio brumoso, juzga a los Buscadores como "manchados", acepta sin escándalo que **al menos uno de ellos es demonio** y que el resto, en grado distinto, lo arrastra.
 - **Darklord o víctima**: el dominio puede haberlo trapado o haberlo nombrado lord. **La diferencia importa**: ¿es prisionero del trono o carcelero del prisionero?
 - **Heredero del prisionero élfico**: el señor anterior de vampiros que el Palacio custodia, ¿lo absorbió el Papa al elevarse? Si lo hizo, **su autoridad emana de la prisión cósmica que sostiene el castillo**.
@@ -119,7 +120,7 @@ El bibliotecario anotó los nombres: *"Tenemos que un señor que es el Barón Ar
 - [[Castillo_del_Prisma]] — encarnación trans-campaña del mismo prisma
 - [[Custodes_Oculis_Solis|Custodes]] — guardia áurea, asimilados al servicio papal
 - [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]] — orden de origen
-- [[Master_Malakita]] — antiguo líder vampírico, decapitado por Alúmine
+- [[Master_Malakita]] — antiguo líder vampírico, decapitado por [[Alumine_Manwe_Finwe|Alúmine]]
 - [[Valerius_Utrecht|Valerius]] — Inquisidor de la Cicatriz, interlocutor moral posible
 - [[Caladan]] — polo oscuro del equilibrio; vampiro al que el trono rechaza
 - [[Valakhan_de_la_Bruma|Valakhan]] — dominio brumoso; polo del que el Papa es contrapeso
@@ -134,7 +135,7 @@ El bibliotecario anotó los nombres: *"Tenemos que un señor que es el Barón Ar
 
 ## Apariciones
 
-- **Antes del Hiato — Sir Sixto** — Caballero de la Cicatriz del Sol, perdido en los niveles inferiores; mensaje arcano de la cámara octogonal
-- **Hiato de los Quince Años** — transformación cuya fórmula el archivo conserva en misterio; acceso al poder luminoso del plano positivo; asimilación de los Custodes; ascenso al trono de rubí
+- **Antes del Hiato — Sir Sixto** — Caballero de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]], perdido en los niveles inferiores; mensaje arcano de la cámara octogonal
+- **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — transformación cuya fórmula el archivo conserva en misterio; acceso al poder luminoso del plano positivo; asimilación de los Custodes; ascenso al trono de rubí
 - **El regreso** — opera por bibliotecario; los Buscadores quedan "en la lista" del nuevo orden
 - **Ciclo presente** — gobierno desde el trono; equilibrio del polo luminoso contra Caladan-Valakhan; *la aparición directa, aún pendiente*

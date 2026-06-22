@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-También conocido como **el Engranaje**. Elemento crucial de control del
+También conocido como **el [[Artefacto_Engranaje|Engranaje]]**. Elemento crucial de control del
 Multiuniverso, creado por [[Grazzt|Graz'zt]]. Su historia comienza cuando, siendo la
 parte de la maquinaria universal del primario más afectado por la
 intrusión de la dualidad, es robado en el ataque a [[Mechanus]]. [[Grazzt|Graz'zt]]
@@ -28,10 +28,10 @@ un principio de consubstanciación con la maquinaria universal.
 
 ## Notas
 
-En Kanka Ucrónica (object, tipo 'Artefacto'). Texto detallado: elemento de control del Multiuniverso creado por [[Grazzt|Graz'zt]], robado en ataque a [[Mechanus]]. Forjado en fosas del [[Abismo]] como modelo de los planos exteriores — torta de piedra y metal con runas élficas y aguja central. Activación por sangre sobre las porciones. Encierra magia dual y permite operar cambios en el orden cósmico por consubstanciación con la maquinaria universal.
+Elemento de control del Multiuniverso creado por [[Grazzt|Graz'zt]], robado en ataque a [[Mechanus]]. Forjado en fosas del [[Abismo]] como modelo de los planos exteriores — torta de piedra y metal con runas élficas y aguja central. Activación por sangre sobre las porciones. Encierra magia dual y permite operar cambios en el orden cósmico por consubstanciación con la maquinaria universal.
 
-Al inicio de el cosmos compartido los personajes no saben que el Artefacto es
-el Engranaje — la identidad se descubre gradualmente. Los dos nombres
+Al inicio del cosmos compartido los personajes no saben que el Artefacto es
+el [[Artefacto_Engranaje|Engranaje]] — la identidad se descubre gradualmente. Los dos nombres
 conviven porque reflejan esa progresión narrativa: primero aparece como
 "el Artefacto" (objeto misterioso), luego se revela su naturaleza como
 "el Engranaje" (pieza de la maquinaria de [[Mechanus]]). Ver también

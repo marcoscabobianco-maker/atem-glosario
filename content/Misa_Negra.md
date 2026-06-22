@@ -10,5 +10,5 @@ referenciado_por: 3
 Esta entrada es mencionada desde:
 
 - [[Natalia_Petrovna_Natasha]]
-- Circulo de la Serpiente Actualizacion S03-esta sesión y posteriores
+- [[Circulo_de_la_Serpiente]] Actualizacion S03-esta jornada y posteriores
 - [[Bucarest_Ucronica]]

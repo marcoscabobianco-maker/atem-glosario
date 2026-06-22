@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-Taberna-ópera principal en isla de [[Isidora]]. Estética japonesa (paneles, arroz, sushi, sauna). Establecimiento "posh" de alta gama. Palco VIP (referencia Kill Bill: plataforma elevada). Comidas de 500 oro por 20 monedas de pago. Chefs personales, masajistas, entretenimiento. Aquí los compañeros conocen a [[Suga|Adama]]/Nesfera/[[Suga]].
+[[La_Ballena_Blanca_Taberna|Taberna]]-ópera principal en isla de [[Isidora]]. Estética japonesa (paneles, arroz, sushi, sauna). Establecimiento "posh" de alta gama. Palco VIP (referencia Kill Bill: plataforma elevada). Comidas de 500 oro por 20 monedas de pago. Chefs personales, masajistas, entretenimiento. Aquí los compañeros conocen a [[Adama_Nesfera|Adama/Nesfera (Suga)]].
 
 ## Apariciones notables
 

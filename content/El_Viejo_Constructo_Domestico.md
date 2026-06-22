@@ -11,7 +11,7 @@ aliases:
 ## Presentación
 
 **Tipo:** Espíritu doméstico / Dodi (duende de casa)
-**Primera aparición:** Operación al Temple (apertura del santuario)
+**Primera aparición:** Operación al [[Temple_complejo_TE|Temple]] (apertura del santuario)
 **Descripción:** Anciano con barba larga (casi cintura), cuentas marrones/rosario, botas metálicas pesadas, trapo rojo de sangre. Se mueve con velocidad aumentada, ejecuta órdenes de limpieza con extrema eficiencia.
 **Habilidades confirmadas:**
 - Velocidad sobrenatural (aparece y desaparece)

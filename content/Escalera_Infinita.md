@@ -25,7 +25,7 @@ La **Infinite Staircase** es un plano-conexión canónico de Planescape:
 
 > Fuente externa: *Planescape Campaign Setting*, *Tales from the Infinite Staircase*.
 
-## Acepción en la el cosmos compartido
+## Acepción en el cosmos compartido
 
 La Escalera Infinita aparece en el ciclo vía [[Minaya_MC]]:
 
@@ -42,7 +42,7 @@ La Escalera opera como:
 
 ## Pendientes
 
-- ¿Qué sesiones específicas usan la Escalera Infinita?
+- ¿Qué jornadas específicas usan la Escalera Infinita?
 - ¿Minaya u otro compañero ha viajado por ella?
 - ¿Hay relación con la **Cadena de Reencarnación** (otra forma de tránsito entre identidades-planos)?
 

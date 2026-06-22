@@ -1,48 +1,22 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/Taylor__ATEM__Vala_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["Taylor", "Taylor de Vala"]
 ---
 
-# Taylor (ATEM::Vala)
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Taylor__ATEM__Vala_retrato.png`
-> **Prompt sugerido:** Ilustración de Taylor (ATEM::Vala). Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+# Taylor
 
-![[Taylor__ATEM__Vala_retrato.png]]
+Sastre de oficio en las afueras de [[Nesut_Biti|Nesut Biti]], Taylor lleva en su nombre el eco de lo que hace con las manos: cortar, unir, dar forma. El mundo de [[Vala]] lo conoce como un hombre de provincia, al margen de las grandes casas, hasta que [[Talia_Cristalia|Talia Cristalia]] — la paladina — lo enlaza a su destino con el gesto voluntario de quien decide condenarse para que otro viva. Talia recibe los dones de un caballero y los entrega como si fueran suyos; ella elige el camino del infierno para que Taylor, paladín indirecto, siga en pie. La inversión es artúrica: no el caballero que rescata a la dama, sino la dama que se inmola por el sastre.
 
+De esa inversión nace el nudo familiar: los padres de Taylor no aprueban lo que él ha llegado a ser ni las alianzas que ese amor ha forjado. El conflicto con ellos es un arco abierto, una deuda que el mundo de Vala deja sin saldar mientras la campaña avanza.
 
-**Acción:** Crear nueva entrada o linkear con `Oratiol Taylor` de la tríada MC, según decida Marcos.
+Lo que los archivos de la tríada registran como prehistoria es esto: Taylor y Talia en Vala son el punto de origen. De esa unión nacerá [[Vitalis]], y Taylor terminará inscripto, a través de esa descendencia, en la [[Casa_Azul_de_Vala|Casa Azul]] de Uruk. El sastre de [[Nesut_Biti]] es, sin saberlo, el primero de la línea que el cosmos troncal conocerá como [[Oratiol|Oratiol Taylor]] — variante y eco de sí mismo en el ciclo mayor de la Mega Campaña.
 
-## Capa juego
-
-PC del grupo Wordbreakers. **Sastre** ("Taylor" = oficio + nombre, juego semiótico explícito en transcripts). Conocido únicamente "en las afueras provincianas, en Es Ut Viti" (locación dudosa — Es-Ut-Viti = probable distorsión ASR, sospecho "Esuviti"/"Es Utviti", posible toponimia local).
-
-Núcleo narrativo: Taylor está rápidamente conectado con la vida de **[[Talia Cristalia]]** (la paladina). Recibió los dones de un caballero (la propia Talia, o un caballero por ella) "dispuesto a ir al mismísimo infierno a rescatar a su don sastre". El motivo "amor cortés" es explícito: Talia decide condenarse para que él, paladín indirecto, "siga en vida" — inversión de roles arturianos.
-
-La sesión **rol_vala_contra_padres_de_taylor** indica un arco familiar abierto (los padres de Taylor son antagonistas o problema).
-
-## Capa [R] asertórica
-
-Jugado por **Javota** (mencionado explícitamente en rol_resuelto_interruptus_apoc_vala.m4a: "lleva la carrera el personaje de Javota por [...] Taylor"). Javota es nombre real del jugador. es [anonimizado]
-
-## Conexión trans-campaña — observación crítica
-
-Existe entrada ATEM `[[Talia Cristalia Esposa]].md` (CDI/MC/Caldero) que define la **tríada Lotario – Oratiol Taylor – Talia Cristalia**, con Vitalis como descendiente. El Taylor de VALA es **eco/iteración** de Oratiol Taylor MC, lo que confirma que el universo VALA opera como **Bala Antigua / Bala de Taylor** mencionada en la entrada Talia Cristalia Esposa: "Se revela al final de la campaña Caldero / Bala Antigua (Bala de Taylor)."
-
-**Implicancia:** VALA NO es una sub-campaña enteramente desconectada — su título mismo ("Vala" ≈ "Bala") señala que es la prehistoria/sustrato del mundo donde la tríada se constituye. Tratar como continuidad ATEM::Vala (separada) pero con vínculo ontológico explícito con la tríada MC.
-
-## Ref. transcripts VALA principales
-
-rol_resuelto_interruptus_apoc_vala.m4a (40); rol_wordbreaker_huevo_negro_y_grr (38); contra_el_devorador_y_nesut_revisitado_2 (30); rol_wordbreaker_contra_ob_calignintorre (27); rol claro 3 (25); perseguidos_por_bogeyman (23); rol_vala_contra_padres_de_taylor.
-
-## Preguntas para Marcos
-
-1. ¿Querés que Taylor (VALA) y Oratiol Taylor (MC) compartan página con sección "iteraciones" o entradas separadas con cross-link? sí
-2. ¿"Es Ut Viti" es toponimia legítima o ASR a corregir? es Nesut Biti
-3. ¿Cuál es el apellido formal de Taylor en VALA, si tiene uno? es de la triada, en todo caso ees o termina siendo de la Casa Azul
-4. La relación amor-cortés Talia↔Taylor en VALA, ¿es la **prehistoria** del matrimonio de la tríada o una iteración paralela? sí, es la prehistoria, nacerá Vitalis de esta union luego
-
+## Vínculos
+- Wordbreakers — grupo al que pertenece durante la campaña de Vala
+- [[Talia_Cristalia|Talia Cristalia]] — paladina, amada, quien se inmola por él; de su unión nace [[Vitalis]]
+- [[Nesut_Biti]] — ciudad-estado en cuyas afueras Taylor es conocido como sastre
+- [[Casa_Azul_de_Vala|Casa Azul]] — institución dinástica en la que Taylor queda inscripto por descendencia
+- [[Vitalis]] — hijo que nacerá de Taylor y Talia, continuación de la tríada
+- [[Oratiol]] — iteración del mismo personaje en el ciclo mayor de la Mega Campaña
+- [[Lotario]] — tercer vértice de la tríada trans-campaña

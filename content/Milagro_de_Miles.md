@@ -21,7 +21,7 @@ imagen: null
 
 # El Milagro de Miles
 
-> *"Innovaciones en vuelo impulsadas por magia, que permiten a las élites moverse rápidamente por la ciudad sin depender de los medios convencionales. Aunque todavía es una tecnología en desarrollo, ya está transformando la forma en que las personas más ricas se desplazan."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"Innovaciones en vuelo impulsadas por magia, que permiten a las élites moverse rápidamente por la ciudad sin depender de los medios convencionales. Aunque todavía es una tecnología en desarrollo, ya está transformando la forma en que las personas más ricas se desplazan."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
@@ -40,7 +40,7 @@ imagen: null
 - **Como milagro**: *vuelo mágico era cosa de mitos*; **ahora es producto comercial**. *El triunfo de la Revolución Industrial Mágica* **se mide en parte por la disponibilidad del Milagro**.
 - **Como instrumento de desigualdad**: *sólo las élites lo poseen*; *la mayoría sigue caminando*. **La asimetría espacial del vuelo amplifica la asimetría social**.
 
-*City Star Magazine* publicó *foto de [[Tony_Malatesta|Tony]] de La Jabalina con su escoba Miles*, *con titular ambiguo*: *"¿Magia o marketing?"*. *La pregunta opera como crítica popular emergente*: **¿es el Milagro avance genuino o vehículo de control elitista?**.
+*City Star Magazine* publicó *foto de [[Tony_Malatesta|Tony]] de [[La_Jabalina]] con su escoba Miles*, *con titular ambiguo*: *"¿Magia o marketing?"*. *La pregunta opera como crítica popular emergente*: **¿es el Milagro avance genuino o vehículo de control elitista?**.
 
 ---
 
@@ -55,5 +55,5 @@ imagen: null
 
 ## Apariciones
 
-- **Post-1812 AE — Desarrollo** — innovación gestada en talleres acelerados de Ciudad Estrella
+- **Post-1812 AE — Desarrollo** — innovación gestada en talleres acelerados de [[Ciudad_Estrella]]
 - **1824 AE — ciclo presente** — producto disponible para clientela acomodada, controversia popular emergente

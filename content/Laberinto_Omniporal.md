@@ -27,7 +27,7 @@ aliases:
 - Jeroglífico central que representa lugar de adoración ("Kaaba"-como, cubo sagrado)
 - Manipulación espacio-temporal: "aquí el tiempo se vuelve espacio o el espacio se vuelve tiempo"
 
-**Mecánica mágica:** Biblioteca gira en ciclos. Múltiples circuitos que pueden encerrar a exploradores. Puertas se cierran autónomamente. Necesidad de comprender relaciones entre dimensiones 2D/3D/4D para navegar sin perderse.
+**Mecánica mágica:** Biblioteca gira en ciclos. Múltiples circuitos que pueden encerrar a exploradores. [[Puertas]] se cierran autónomamente. Necesidad de comprender relaciones entre dimensiones 2D/3D/4D para navegar sin perderse.
 
 **Peligros:**
 - Grapple múltiple (tabletas/estantes pueden atrapar)
@@ -35,7 +35,7 @@ aliases:
 - Desorientación spatial
 - Encuentros enemigos (caballeros, orcos, dragones, demonios)
 
-**Presencia de:** Tabletas registros Akáshicos (conocimiento viajeros temporales), [[Libro_Azul|Libro Azul]] (no confirmado ubicado, pero presumiblemente en zona 34), [[Huevo_Infernal|Huevo Infernal]] (en sector 34, cerca de mesa circular).
+**[[Presencia_de]]:** Tabletas registros Akáshicos (conocimiento viajeros temporales), [[Libro_Azul|Libro Azul]] (no confirmado ubicado, pero presumiblemente en zona 34), [[Huevo_Infernal|Huevo Infernal]] (en sector 34, cerca de mesa circular).
 
 **Importancia narrativa:** Centro de conocimiento cosmológico. Acceso a secretos de viajeros temporales y Torre del Corazón.
 
@@ -45,6 +45,6 @@ aliases:
 
 - Nombre alternativo
 - [[Descripcion_detallada|Descripción detallada]]
-- [[Mecanica_magica|Mecánica mágica]]
+- Mecánica mágica
 - Peligros
 - [[Presencia_de|Presencia de]]

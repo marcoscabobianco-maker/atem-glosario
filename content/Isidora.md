@@ -19,7 +19,7 @@ aliases:
 
 ## Presentación
 
-Segunda ciudad invisible. En región lacustre ([[Lago_de_Profundidades_Insondables|Lago de Profundidades Insondables]]). Arquitectura: escaleras de caracol de conchas, manufactura de telescopios y violines, trampas (hombres jóvenes que eligen tercera mujer). Ancianos se reúnen en muro (tema del paso del tiempo). Isla con defensas naturales tipo fortaleza. Doble ciudad (río divide el asentamiento). Economía marítima/mercantil. Sesiones PM 3c (isadora) y PM 4b2 se centran aquí. Arco de "redención" en PM 7 (2 partes: isidora a + b).
+Segunda ciudad invisible. En región lacustre ([[Lago_de_Profundidades_Insondables|Lago de Profundidades Insondables]]). Arquitectura: escaleras de caracol de conchas, manufactura de telescopios y violines, trampas (hombres jóvenes que eligen tercera mujer). Ancianos se reúnen en muro (tema del paso del tiempo). Isla con defensas naturales tipo fortaleza. Doble ciudad (río divide el asentamiento). Economía marítima/mercantil. Jornadas PM 3c (isadora) y PM 4b2 se centran aquí. Arco de "redención" en PM 7 (2 partes: isidora a + b).
 
 ## Apariciones notables
 

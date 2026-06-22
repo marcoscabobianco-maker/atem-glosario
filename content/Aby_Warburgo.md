@@ -27,7 +27,7 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 ![[Imagenes_Tier1/Aby_Warburgo.png]]
 <!-- /HEADER_IMG -->
 
-> *"Notas sobre el ritual de la Serpiente. Por Aby Warburgo, descendiente de la casa de acero, miembro silencioso de las academias improbables, lector pasional de los ciclos."*
+> *"[[Notas_sobre_el_ritual_de_la_Serpiente]]. Por Aby Warburgo, descendiente de la casa de acero, miembro silencioso de las academias improbables, lector pasional de los ciclos."*
 
 **De pie frente al mural de imágenes**: *anteojos redondos, saco oscuro de tres botones, corbata negra, bigote breve*, **la mano derecha señala una de las láminas pinchadas con alfileres en la pared**; **al fondo**, **decenas de imágenes pequeñas dispuestas en filas y conectadas por hilos finos** —*el atlas mnemónico de Aby*—; **sobre la mesa del primer plano**, **libros encuadernados en cuero, papeles desplegados, una pluma sobre el tintero**. *El gesto del señalamiento es el oficio*: **se pone uno a explicar una figura y aparece la red que la sostiene en otras**.
 
@@ -35,11 +35,11 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 
 ## Quién es
 
-**Aby Warburgo es el académico-investigador del grupo Time Bandits**, **Descendiente de la familia [[Warburga]] —industria del acero de Hamburgo, fortuna construida sobre laminados navales—**; *prima de [[Alexine_Mangetout|Alexine Mangetout]]*; **monje-guerrero con disciplina de artes marciales avanzadas**.
+**Aby Warburgo es el académico-investigador del grupo [[Time_Bandits]]**, **Descendiente de la familia [[Warburga]] —industria del acero de Hamburgo, fortuna construida sobre laminados navales—**; *prima de [[Alexine_Mangetout|Alexine Mangetout]]*; **monje-guerrero con disciplina de artes marciales avanzadas**.
 
 **Su oficio doble** —*académico de día, monje-guerrero cuando la situación lo pide*— **no es excentricidad**: **es continuidad disciplinar**. *Las artes marciales que practica son las del cuerpo formado para la observación*; **las técnicas del Atlas Mnemónico que pincha en la pared son las del cuerpo formado para la concentración**. *El golpe y la imagen comparten la misma respiración*: **Aby aprendió ambas a la vez, en el monasterio mixto que su prima Alexine ayudó a fundar**.
 
-**Su Journal** —*"Notas sobre el ritual de la Serpiente"*— **es la obra mayor del archivo aby-warburgiano**: *estudio de la descomposición elemental y de la ambivalencia de razas como [[Naga_Paris_Ucronica|Nagas]] y Proteanos*; **investigación de patrones cíclicos**; **desconfianza de los Güelfos como cuerpo doctrinal**; **obsesión con ciclos zodiacales que pesa más que la doctrina religiosa común**.
+**Su Journal** —*"[[Notas_sobre_el_ritual_de_la_Serpiente]]"*— **es la obra mayor del archivo aby-warburgiano**: *estudio de la descomposición elemental y de la ambivalencia de razas como [[Naga_Paris_Ucronica|Nagas]] y [[Proteanos]]*; **investigación de patrones cíclicos**; **desconfianza de los Güelfos como cuerpo doctrinal**; **obsesión con ciclos zodiacales que pesa más que la doctrina religiosa común**.
 
 ---
 
@@ -49,12 +49,12 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 
 - **París — investigación inicial** —el "príncipe Vivescu" y la Serpiente, junto con [[Corvino|Corvino]] y [[Claude_Nauge|Claude]]—.
 - **[[Club_des_Gorriones|Club des Gorriones]] — combate contra [[Cornablue]]**: *Aby despliega* **Ferrous Grow** *(defensa metálica racial)*, **Empty Hand** *(técnica desarmante)*, **Blade of Mercy** *(golpes no letales)*; **veintitrés puntos de daño en turno singular, ataques en pares de cinco-más-diez y ocho-más-cinco**.
-- **Tránsito Orient Express → Bucarest** —persecución del Príncipe, enfrentamientos sucesivos—.
+- **Tránsito [[Orient_Express]] → Bucarest** —persecución del Príncipe, enfrentamientos sucesivos—.
 - **Bucarest** —investigaciones del Círculo de Serbia, encarcelamiento y liberación condicional tras la muerte de [[Draga_Machine|Draga]]—.
 - **[[Isla_de_la_Serpiente]]** —enfrentamientos con nagas guardianas—.
 - **[[Sarajevo_1914_Ucronica|Sarajevo, 28 de junio de 1914]]** —proyección como [[Guardias_Ucronicos|Guardia Ucrónico]] bajo amnesia parcial—.
 - **Naufragio del [[Naufragio_del_Mar_de_Marmara|Mar de Mármara]]** —rescate por [[Meteora]]—.
-- **Constantinopla 1055** —regencia uchrónica con el grupo, intrigas en la corte imperial—.
+- **[[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]** —regencia uchrónica con el grupo, intrigas en la corte imperial—.
 
 ---
 
@@ -66,7 +66,7 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 - **Maqueta panorámica de reconocimiento** —*conjuro a mil pies de altura*—; *ilusión con el rostro de [[Claude_Nauge|Claude]] para engañar al osfiotauro durante combate*.
 - **Detect Portal con alcance de veintidós millas** —*revelando puerta del mindscape del Oasis*—.
 - **Toca la figura espectral de la Reina Amarilla en el portal**; *la figura desaparece y sólo queda el portal*: **confirmación de mindscape**.
-- **Range Maiden, radio veinte pies** —*afecta a once Torcos más el líder en el combate del Oasis real*—.
+- **Range Maiden, radio veinte pies** —*afecta a once [[Torcos]] más el líder en el combate del Oasis real*—.
 
 ---
 
@@ -88,7 +88,7 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 - [[Notas_sobre_el_ritual_de_la_Serpiente|Notas sobre el ritual de la Serpiente]] — Journal
 - [[Naga_Paris_Ucronica|Nagas]] · [[Proteanos]] — razas estudiadas
 - [[Claude_Nauge|Claude Nauge]] · [[Corvino|Corvino]] · [[Philippe]] · [[Nagant_M1895_Swann|Swann]] — compañeros del grupo
-- [[Zygomind]] — ente Aldebarán identificado
+- [[Zygomind]] — ente [[Aldebaran_Estrella_Plataforma|Aldebarán]] identificado
 - [[Aldebaran_Estrella_Plataforma|Aldebarán]] — plataforma de origen del ente
 - [[Juegos_Funebres]] — debate doctrinal donde toma posición
 - [[Aby_Warburg_R|Aby Warburg]] — historiador del arte real (1866-1929) que el personaje cita
@@ -96,13 +96,13 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 
 ## Apariciones
 
-- **París — investigación inicial de la Serpiente** — con Corvino y Claude
-- **Club des Gorriones — combate contra Cornablue** — técnicas marciales no letales
-- **Orient Express → Bucarest** — persecución del Príncipe
+- **París — investigación inicial de la Serpiente** — con [[Corvino]] y Claude
+- **[[Club_des_Gorriones]] — combate contra Cornablue** — técnicas marciales no letales
+- **[[Orient_Express]] → Bucarest** — persecución del Príncipe
 - **Bucarest → liberación condicional** — tras muerte de Draga
-- **Isla de la Serpiente** — combate con nagas guardianas
-- **Sarajevo 1914** — Guardia Ucrónico con amnesia parcial
-- **Naufragio del Mar de Mármara** — rescate por Meteora
-- **Constantinopla 1055** — regencia y operaciones cronománticas mayores
-- **Valle de la Muerte** — ejecución de generales malditos, Range Maiden
+- **[[Isla_de_la_Serpiente]]** — combate con nagas guardianas
+- **Sarajevo 1914** — Guardia [[Mediterraneo_Ucronico|Ucrónico]] con amnesia parcial
+- **Naufragio del Mar de Mármara** — rescate por [[Meteora]]
+- **[[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]** — regencia y operaciones cronománticas mayores
+- **[[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]** — ejecución de generales malditos, Range Maiden
 - **Debate post-Juegos Fúnebres** — posicionamiento cohesionador

@@ -21,8 +21,8 @@ Personaje de. Ranger/combatiente especializado. Compañero animal: [[Moon_River|
 
 ## Apariciones notables
 
-Todas las sesiones principales (PM 0–8, [[Zaira]], [[Monte_Analogo|Monte Análogo]]). Mencionado específicamente en PM 3a, 4b2, rescate [[Luca_CI|Luca]].
+Todas las jornadas principales (PM 0–8, [[Zaira]], [[Monte_Analogo|Monte Análogo]]). Mencionado específicamente en PM 3a, 4b2, rescate [[Luca_CI|Luca]].
 
 ## Notas
 
-El tigre [[Moon_River|Moon River]] gana inteligencia excesiva por un awaken de Annunaki (dato provisto por , no confirmado en archivos procesados). Posteriormente Iriscan pasa a tener a [[Melody]] (dinosauria) como compañera. Ver **[[Moon_River|Moon River]]**, **[[Melody]]**.
+El tigre [[Moon_River|Moon River]] gana inteligencia excesiva por un awaken de [[Annunaki]] (dato provisto por , no confirmado en archivos procesados). Posteriormente Iriscan pasa a tener a [[Melody]] (dinosauria) como compañera. Ver **[[Moon_River|Moon River]]**, **[[Melody]]**.

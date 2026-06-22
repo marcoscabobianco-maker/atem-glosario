@@ -32,7 +32,7 @@ La lámina lo retrata **como prefieren retratarlo quienes lo aceptan sin haberse
 
 ## Lo que es
 
-**El Rey Amarillo** —llamado en boca discreta **el de la Máscara Pálida**, en boca temeraria **el Tronado de Carcosa**— es **una de las entidades mayores cuyo nombre se atribuye al lugar que ocupa**, **no a la persona que es** —*si esa categoría siquiera se le aplica*—. **Carcosa** es ciudad cosmológica **anterior al cómputo cristiano**, asentada **junto al lago Hali**, **bajo dos lunas que ningún astrónomo ha conseguido encajar en mapa de cielo conocido**. La doctrina más prudente sostiene que **Carcosa no está en otro plano**: **está en este, en un pliegue que se abre cuando alguien lee mal cierta obra**. La obra existe. **El cronista no la nombra aquí.**
+**El Rey Amarillo** —llamado en boca discreta **el de la Máscara Pálida**, en boca temeraria **el Tronado de [[Carcosa]]**— es **una de las entidades mayores cuyo nombre se atribuye al lugar que ocupa**, **no a la persona que es** —*si esa categoría siquiera se le aplica*—. **[[Carcosa]]** es ciudad cosmológica **anterior al cómputo cristiano**, asentada **junto al lago Hali**, **bajo dos lunas que ningún astrónomo ha conseguido encajar en mapa de cielo conocido**. La doctrina más prudente sostiene que **Carcosa no está en otro plano**: **está en este, en un pliegue que se abre cuando alguien lee mal cierta obra**. La obra existe. **El cronista no la nombra aquí.**
 
 ## La obra que no se nombra
 
@@ -44,7 +44,7 @@ Hay un texto —**obra dramática**, **fragmentaria en su primer acto**, **compl
 
 ## Su parentesco con los entronizados
 
-Algunos doctrinarios lo emparentan con **otras entidades sentadas** —**[[La_Dama_Notre_Dame|La Dama del Dolor]]** en Sigil, **[[Cakravartin]]** en la Atlántida, **[[Caladan]]** en Valakhan—. El parentesco no es de sangre ni de jurisdicción: es de **postura cosmológica**. **Los entronizados gobiernan no actuando**. *El Rey Amarillo, entre los entronizados, es el menos activo y el más temido*: el que **no hace casi nada** y **del cual no se vuelve casi nada**.
+Algunos doctrinarios lo emparentan con **otras entidades sentadas** —**[[La_Dama_Notre_Dame|La Dama del Dolor]]** en Sigil, **[[Cakravartin]]** en la [[Atlantida_Alta_y_Baja|Atlántida]], **[[Caladan]]** en Valakhan—. El parentesco no es de sangre ni de jurisdicción: es de **postura cosmológica**. **Los entronizados gobiernan no actuando**. *El Rey Amarillo, entre los entronizados, es el menos activo y el más temido*: el que **no hace casi nada** y **del cual no se vuelve casi nada**.
 
 ## Vínculos
 
@@ -58,5 +58,5 @@ Algunos doctrinarios lo emparentan con **otras entidades sentadas** —**[[La_Da
 ## Apariciones
 
 - **Anterior al cómputo cristiano** — manifestaciones documentadas en las orillas de Hali
-- **Período final de Antiterra** — referencia oblicua en archivos de París Ucrónica
+- **Período final de [[Antiterra]]** — referencia oblicua en archivos de [[Paris_Ucronica|París Ucrónica]]
 - **Ciclo presente** — entidad latente; las representaciones de la obra siguen ocasionalmente, *y siguen produciendo lo que producen*

@@ -15,11 +15,11 @@ aliases:
 
 ## Presentación
 
-Louis-Dominique Cartouche (1693-1721) — ladrón legendario de París Belle Époque. En ficción de [[Paris_Ucronica|París Ucrónica]]: "personaje importante de la literatura que murió horriblemente pero tuvo antes una gran Universidad de Ladrón." Taberna principal del juego lleva su nombre ("Tuyo Cartouche" o variante). Lugar de encuentro de compañeros, escenario inicial de campaña.
+Louis-Dominique Cartouche (1693-1721) — ladrón legendario de París Belle Époque. En ficción de [[Paris_Ucronica|París Ucrónica]]: "personaje importante de la literatura que murió horriblemente pero tuvo antes una gran Universidad de Ladrón." [[La_Ballena_Blanca_Taberna|Taberna]] principal del juego lleva su nombre ("Tuyo Cartouche" o variante). Lugar de encuentro de compañeros, escenario inicial de campaña.
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] [00:08:22] — referencia histórica. Taberna es ubicación de apertura de sesión.
+[[Paris_Ucronica|París Ucrónica]] — referencia histórica. [[La_Ballena_Blanca_Taberna|Taberna]] es ubicación de apertura de jornada.
 
 ## Notas
 

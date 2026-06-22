@@ -58,11 +58,11 @@ Avanzaron hacia el altar. Silas **pidió su deseo sobre la [[Tableta_del_Caos]]*
 
 ## El altar como instrumento bilateral
 
-*El cronista anota sin glosa*: **la iglesia consagrada de Helix inscribió en el ciclo presente la ambivalencia ritual del altar**. **El altar es, en la tradición ritual, lugar donde el cuerpo se ofrece a lo divino**. *El grupo Novatos había temido al altar como instrumento de los cultos enemigos*; **en la jornada del altar partido operó en sentido inverso, como instrumento del orden divino**.
+*El cronista anota sin glosa*: **la iglesia consagrada de Helix inscribió en el ciclo presente la ambivalencia ritual del altar**. **El altar es, en la tradición ritual, lugar donde el cuerpo se ofrece a lo divino**. *El grupo [[Novatos_Ravenloft|Novatos]] había temido al altar como instrumento de los cultos enemigos*; **en la jornada del altar partido operó en sentido inverso, como instrumento del orden divino**.
 
 **La sangre del brujo umbral marcó el altar**. *El régimen eclesial considera el acto como exorcismo terminal, no como sacrificio diabólico*. **Eso depende del enunciador**: el cronista anota la fórmula del vicario sin tomar partido. *El altar quedará marcado para quien venga después* —*incluyendo a los [[Buscadores_de_Ardis_Vala|Buscadores]] que descienden al sur tras su despojo en la cámara octagonal*—.
 
-[*Cuando los Buscadores entren a la iglesia y vean el altar con la marca, sabrán que el sur opera con régimen distinto al del norte. En el norte, el polo arcano despoja sin matar. En el sur, el polo divino mata sobre el altar. La cosmología del valle se ramifica por geografía. —Anot. del cronista del Plata.*]
+[*Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] entren a la iglesia y vean el altar con la marca, sabrán que el sur opera con régimen distinto al del norte. En el norte, el polo arcano despoja sin matar. En el sur, el polo divino mata sobre el altar. La cosmología del valle se ramifica por geografía. —Anot. del cronista del Plata.*]
 
 ---
 

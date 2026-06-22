@@ -51,9 +51,9 @@ Al cierre del ciclo presente, **la Tableta del Caos sigue desconocida y no recup
 
 ## La lectura del cronista
 
-*El archivo conserva la Tableta del Caos como MacGuffin estructural del arco Novatos*: **objeto cuya función narrativa es activar el régimen del Abad sobre el grupo**, *más que producir efectos diegéticos directos*. **Su no-recuperación al cierre del ciclo deja el arco operativamente abierto**.
+*El archivo conserva la Tableta del Caos como MacGuffin estructural del arco [[Novatos_Ravenloft|Novatos]]*: **objeto cuya función narrativa es activar el régimen del Abad sobre el grupo**, *más que producir efectos diegéticos directos*. **Su no-recuperación al cierre del ciclo deja el arco operativamente abierto**.
 
-[*Los objetos-misión que no se recuperan en la sesión donde fueron prometidos suelen reaparecer como detonantes de la sesión siguiente. La Tableta del Caos cumple ese oficio cosmológico: sigue ausente, sigue urgida, sigue disponible para regresar como motor narrativo. —Anot. del cronista del Plata.*]
+[*Los objetos-misión que no se recuperan en la jornada donde fueron prometidos suelen reaparecer como detonantes de la jornada siguiente. La Tableta del Caos cumple ese oficio cosmológico: sigue ausente, sigue urgida, sigue disponible para regresar como motor narrativo. —Anot. del cronista del Plata.*]
 
 ---
 

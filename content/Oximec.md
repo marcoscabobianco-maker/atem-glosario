@@ -19,7 +19,7 @@ aliases:
 
 **Ref.:** el archivo (muerte de stormy).
 *Conexiones:* **[[Stormy]]** (muere en este combate), **Conejo misterioso** (mata a [[Stormy]]).
-**Nota:** Nombre de resonancia mesoamericana (oxi- recuerda a Oxxo, -mec a azteca/tolteca). Guardián de frontera, no de Plataforma.
+**Nota:** Nombre de resonancia mesoamericana (oxi- recuerda a Oxxo, -mec a azteca/tolteca). Guardián de frontera, no de [[Aldebaran_Estrella_Plataforma|Plataforma]].
 
 ## Ver también
 
@@ -28,6 +28,6 @@ aliases:
 
 ### Notas
 
-Nombre de resonancia mesoamericana (oxi- recuerda a Oxxo, -mec a azteca/tolteca). Guardián de frontera, no de Plataforma.
+Nombre de resonancia mesoamericana (oxi- recuerda a Oxxo, -mec a azteca/tolteca). Guardián de frontera, no de [[Aldebaran_Estrella_Plataforma|Plataforma]].
 
 **Ref.:** el archivo (muerte de stormy).

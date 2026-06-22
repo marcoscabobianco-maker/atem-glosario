@@ -18,7 +18,7 @@ aliases:
 
 **Ref.:** el archivo (con patriarca glastumville).
 *Conexiones:* **[[Erzebeth]]** (invoca su autoridad), **[[Mani]]/Apurvecondita**, **auditori/electi**.
-**Nota:** Glastonbury = Avalon en tradición artúrica terrestre. La versión [[Antiterra_Demonia|Antiterra]] mantiene la carga mística pero con teología gnóstica en lugar de cristianismo romano. El [[Patriarca]] ya aparece referenciado en el GLOSARIO.
+**Nota:** [[Glastonbury]] = Avalon en tradición artúrica terrestre. La versión [[Antiterra_Demonia|Antiterra]] mantiene la carga mística pero con teología gnóstica en lugar de cristianismo romano. El [[Patriarca]] ya aparece referenciado en el GLOSARIO.
 
 ## Ver también
 
@@ -27,6 +27,6 @@ aliases:
 
 ### Notas
 
-Glastonbury = Avalon en tradición artúrica terrestre. La versión [[Antiterra_Demonia|Antiterra]] mantiene la carga mística pero con teología gnóstica en lugar de cristianismo romano. El [[Patriarca]] ya aparece referenciado en el GLOSARIO.
+[[Glastonbury]] = Avalon en tradición artúrica terrestre. La versión [[Antiterra_Demonia|Antiterra]] mantiene la carga mística pero con teología gnóstica en lugar de cristianismo romano. El [[Patriarca]] ya aparece referenciado en el GLOSARIO.
 
 **Ref.:** el archivo (con patriarca glastumville).

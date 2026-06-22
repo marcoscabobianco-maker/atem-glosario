@@ -11,7 +11,7 @@ aliases:
 
 ## Presentación
 
-Fenómeno producido por el "salto tipo prisma" de la Bengala Crónica recalibrada por [[Thomas_Cole|Thomas Cole]] en la fase tardía del ciclo primero. Difiere del mecanismo original de el archivo (hilo dorado vertical): produce un arco/puente con escala geográfica intermedia ([[Alejandria|Alejandría]] como punto de paso antes de Kosovo [[Batalla_de_Kosovo_1389|1389]]).
+Fenómeno producido por el "salto tipo prisma" de la [[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica]] recalibrada por [[Thomas_Cole|Thomas Cole]] en la fase tardía del ciclo primero. Difiere del mecanismo original de el archivo (hilo dorado vertical): produce un arco/puente con escala geográfica intermedia ([[Alejandria|Alejandría]] como punto de paso antes de Kosovo [[Batalla_de_Kosovo_1389|1389]]).
 
 ## Apariciones notables
 
@@ -19,4 +19,4 @@ Fenómeno producido por el "salto tipo prisma" de la Bengala Crónica recalibrad
 
 ## Notas
 
-Ver también **Bengala Sucrónica**, **[[Thomas_Cole|Thomas Cole]]**.
+Ver también **[[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica]]**, **[[Thomas_Cole|Thomas Cole]]**.

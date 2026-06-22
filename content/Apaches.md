@@ -15,7 +15,7 @@ Grupo de gente marginal, "vivientes," violentos. Zona: Demi-Moon, bajo fondo par
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] [00:04:13] — mención contextual de en descripción de boxeo parisino.
+[[Paris_Ucronica|París Ucrónica]] — mención contextual de en descripción de boxeo parisino.
 
 ## Notas
 

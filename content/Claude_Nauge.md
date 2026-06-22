@@ -33,7 +33,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 ## Quién es
 
-**Claude Nauge es metalúrgico y socialista uchrónico** —*"monje de la clase obrera"*, **"obrero revolucionario"** *en autoidentificación*—. **Cofundador del grupo Time Bandits, cuarto pilar del ciclo**, *establecido en el comienzo del ciclo de París Ucrónica*. **Su posicionamiento ideológico** —*registrado por el archivero del Plata con cuidado*— **es paradoja productiva**: *autoproclamado anarquista*, **opera en práctica como socialista utópico**; **defiende la insurrección como fin, no como medio**; **rechaza estructuras de dominación y explotación del hombre por el hombre**.
+**Claude Nauge es metalúrgico y socialista uchrónico** —*"monje de la clase obrera"*, **"obrero revolucionario"** *en autoidentificación*—. **Cofundador del grupo [[Time_Bandits]], cuarto pilar del ciclo**, *establecido en el comienzo del ciclo de [[Paris_Ucronica|París Ucrónica]]*. **Su posicionamiento ideológico** —*registrado por el archivero del Plata con cuidado*— **es paradoja productiva**: *autoproclamado anarquista*, **opera en práctica como socialista utópico**; **defiende la insurrección como fin, no como medio**; **rechaza estructuras de dominación y explotación del hombre por el hombre**.
 
 **Contribuye a la legalidad insurgente de [[Los_Comunados|los Comunados]]** —corriente parisina de los obreros uchrónicos—; *participa en debates de doctrina con la prosa de quien lee a Bakunin entre martillazos*; **su oratoria es rítmica y fuerte**, **se atreve con las palabras gruesas cuando el momento lo necesita**.
 
@@ -54,17 +54,17 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 ## Sarajevo, 1914 — Cvjetko Popović
 
-**El episodio cardinal de su biografía**. *Proyectado al 28 de junio de 1914 por el [[Circulo_Simultaneo|Círculo Simultáneo]] como [[Guardias_Ucronicos|Guardia Ucrónico]]*, **asume completamente la identidad de [[Cvjetko_Popovic|Cvjetko Popović]]** —*académico serbio, conspirador real de la Mano Negra*—; **posicionado en el Puente Latino**, **dispara dos tiros contra el Archiduque Franz Ferdinand y la Duquesa Sophie**.
+**El episodio cardinal de su biografía**. *Proyectado al 28 de junio de 1914 por el [[Circulo_Simultaneo|Círculo Simultáneo]] como [[Guardias_Ucronicos|Guardia Ucrónico]]*, **asume completamente la identidad de [[Cvjetko_Popovic|Cvjetko Popović]]** —*académico serbio, conspirador real de la [[Mano_Negra_Antiterra_Serbia|Mano Negra]]*—; **posicionado en el Puente Latino**, **dispara dos tiros contra el Archiduque [[Archiduque_Francisco_Fernando_de_Austria|Franz Ferdinand]] y la [[Duquesa_Sophie_de_Hohenberg|Duquesa Sophie]]**.
 
-**Completamente absorto en la identidad Popović** durante el episodio. *Intenta resurrección de la Duquesa con escrituras antiguas y aura necromántica*; **ella rechaza**: *"Let me go… let's meet in the past"*. **Le besa la mano, le cierra los ojos, desaparece en la muchedumbre**. **Arrestado e interrogado por la policía austríaca**.
+**Completamente absorto en la identidad [[Cvjetko_Popovic|Popović]]** durante el episodio. *Intenta resurrección de la Duquesa con escrituras antiguas y aura necromántica*; **ella rechaza**: *"Let me go… let's meet in the past"*. **Le besa la mano, le cierra los ojos, desaparece en la muchedumbre**. **Arrestado e interrogado por la policía austríaca**.
 
-**Al regresar al [[Circulo_Simultaneo|Círculo Simultáneo]] en la Isla de la Serpiente**, *retiene los setenta y cinco años completos de memorias de Popović*; **gana +10 de inteligencia por la fusión psiquismo**; **adquiere mecánica permanente de esquizofrenia**. *El cuerpo regresa al grupo; el alma no vuelve entera*.
+**Al regresar al [[Circulo_Simultaneo|Círculo Simultáneo]] en la [[Isla_de_la_Serpiente]]**, *retiene los setenta y cinco años completos de memorias de [[Cvjetko_Popovic|Popović]]*; **gana +10 de inteligencia por la fusión psiquismo**; **adquiere mecánica permanente de esquizofrenia**. *El cuerpo regresa al grupo; el alma no vuelve entera*.
 
 ---
 
 ## Constantinopla 1051-1055 y la Cápsula del Tiempo
 
-**Durante la regencia del grupo en Constantinopla**, **Claude opera como ideólogo del Senado Popular bizantino**. *Discurso sobre la opresión supra-humana (demoníaco-diabólica)*, **insistencia en no abandonar la lucha terrenal**: *"no soltarle la mano a los condenados"*. **Articula explícitamente la maldición de los Guardianes Ucrónicos**: *"nuestra influencia hace que estos hechos pasen"* —en referencia a la muerte de [[Zoe_Emperatriz|Zoé]] como eco de Sarajevo—.
+**Durante la regencia del grupo en Constantinopla**, **Claude opera como ideólogo del Senado Popular bizantino**. *Discurso sobre la opresión supra-humana (demoníaco-diabólica)*, **insistencia en no abandonar la lucha terrenal**: *"no soltarle la mano a los condenados"*. **Articula explícitamente la maldición de los [[Guardianes]] Ucrónicos**: *"nuestra influencia hace que estos hechos pasen"* —en referencia a la muerte de [[Zoe_Emperatriz|Zoé]] como eco de Sarajevo—.
 
 **Durante el gap de cuatro años (1051-1055)**, **financió guerrillas eslavas del sur y este** a lo largo de fronteras (Ucrania, más allá del Cáucaso); **misión diplomática vinculada al Cisma de Oriente (1054)**; **enterró una cápsula de tiempo con documentos en París** (cerca del Panteón / ruinas romanas, conectada con la biblioteca de Warburgo).
 
@@ -72,9 +72,9 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 ## El ejecutor de los generales
 
-**En el arco final del Valle de la Muerte**, **Claude ejecuta a [[Eurodico]]** —*cuarto general de guerra*— **con Greatsword sin proficiencia**, *activando regla de auto-kill para emisarios*: **"la está cobrando, tiro por tiro"**, **venganza por el atentado de Sarajevo**. *Carga al frente para atraer al osfiotauro durante combates posteriores*.
+**En el arco final del [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]**, **Claude ejecuta a [[Eurodico]]** —*cuarto general de guerra*— **con Greatsword sin proficiencia**, *activando regla de auto-kill para emisarios*: **"la está cobrando, tiro por tiro"**, **venganza por el atentado de Sarajevo**. *Carga al frente para atraer al osfiotauro durante combates posteriores*.
 
-**Su hechizo mayor documentado**: **Destrucción de nivel 9** *(170+ HP)* **con penetración de conjuro 17+29=46**: *poder de Oráculo confirmado*. **El archivero del Plata anota** —*sin dramatizar*— **que un metalúrgico parisino que termina ejecutando Destrucción de nivel 9 contra dragones bizantinos es figura cuyo arco no admite reducción a "obrero radicalizado"**.
+**Su hechizo mayor documentado**: **una Destrucción del más alto orden**, lanzada con potencia que atravesó toda defensa: *poder de Oráculo confirmado*. **El archivero del Plata anota** —*sin dramatizar*— **que un metalúrgico parisino que termina ejecutando una Destrucción del más alto orden contra dragones bizantinos es figura cuyo arco no admite reducción a "obrero radicalizado"**.
 
 ---
 
@@ -84,7 +84,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 **Planeta asignado**: el archivo no fija ninguno con seguridad —*hipótesis del archivero del Plata*: **Marte** *(el del trabajo bélico y del hierro)*; **otra hipótesis**: **Saturno** *(el del peso largo del oprimido)*. **No decidido**.
 
-[*"Hay obreros que se vuelven políticos; hay políticos que se vuelven dioses; hay un solo metalúrgico que en una jornada se vuelve Cvjetko Popović y al día siguiente ejecuta Destrucción nivel 9 contra dragón bizantino. Claude es ése." — Glosa coloquial del archivero del Plata.*]
+[*"Hay obreros que se vuelven políticos; hay políticos que se vuelven dioses; hay un solo metalúrgico que en una jornada se vuelve Cvjetko Popović y al día siguiente ejecuta una Destrucción del noveno grado contra dragón bizantino. Claude es ése." — Glosa coloquial del archivero del Plata.*]
 
 ## Vínculos
 
@@ -107,16 +107,16 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 ## Apariciones
 
 - **el comienzo del ciclo — establecimiento como obrero revolucionario** — caracterización inicial
-- **Operaciones tempranas en París** — Vivescu, Cornablue, Les Halles, Iriarte, huelga
-- **Combate en Club des Gorriones**
+- **Operaciones tempranas en París** — Vivescu, Cornablue, Les Halles, [[Iriarte]], huelga
+- **Combate en [[Club_des_Gorriones]]**
 - **Bucarest — negociación con revolucionarios** — arco bucarestino
 - **Belgrado — encarcelamiento por asesinato de Apis** — liberación condicional
-- **Isla de la Serpiente — incursión al Faro-Monolito**
-- **Sarajevo 1914 — Guardia Ucrónico, asume identidad Popović** — episodio cardinal
+- **[[Isla_de_la_Serpiente]] — incursión al [[Faro-Monolito_El_Faro|Faro-Monolito]]**
+- **Sarajevo 1914 — Guardia [[Mediterraneo_Ucronico|Ucrónico]], asume identidad Popović** — episodio cardinal
 - **Naufragio del Mar de Mármara**
-- **Constantinopla 1055 — Senado Popular, ideología, Cápsulas de Tiempo**
-- **Valle de la Muerte — ejecución de Eurodico** — venganza tiro por tiro
+- **[[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]] — Senado Popular, ideología, Cápsulas de Tiempo**
+- **[[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]] — ejecución de [[Eurodico]]** — venganza tiro por tiro
 - **Juegos Fúnebres — discurso "no soltarle la mano a los condenados"**
 - **Gap 1051-1055 — guerrillas eslavas, Cisma de Oriente, cápsula en París**
-- **Hechizo de Destrucción nivel 9 contra dragón** — poder de Oráculo confirmado
+- **[[Idiotizacion_Hechizo|Hechizo]] de Destrucción del noveno grado contra dragón** — poder de Oráculo confirmado
 - **Gulaï-Pole / Rosario 1907 — encuentro con Rosa**

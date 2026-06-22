@@ -21,7 +21,7 @@ Entidades detectadas como amenaza adicional durante la escala del grupo en [[Ale
 
 [[Paris_Ucronica|París Ucrónica]] ([[Alejandria|Alejandría]], detección de amenaza).
 
-*Nota (R34):* Conectadas a la magia de prisma de D&D (Prismatic Spray, Prismatic Sphere). La trampa de la isla que las proyectó en el tiempo tenía elementos prismáticos. utilizó arte contemporáneo como referencia visual — posiblemente Jasper Johns (pintor). Fuente de referencia: "Contemporary Art 1900."
+*Nota (R34):* Emparentadas con la magia de prisma —el rocío y la esfera prismáticos— de la tradición arcana. La trampa de la isla que las proyectó en el tiempo tenía elementos prismáticos.
 
 ## Notas
 

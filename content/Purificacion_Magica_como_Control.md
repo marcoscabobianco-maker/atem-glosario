@@ -19,4 +19,3 @@ aliases:
 ## Ver también
 
 - [[Analisis_grupal|Análisis grupal]]
-- [[Consecuencia|Consecuencia]]

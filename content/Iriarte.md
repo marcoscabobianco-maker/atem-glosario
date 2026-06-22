@@ -39,9 +39,9 @@ Una mañana cualquiera del Palazzo. Quince relojes —1050, 800, 1215, 1517, 149
 
 La doctrina viene del [[Decadiano]]: *"el tiempo no es absoluto, es administrado"*, lema que Iriarte ha hecho atornillar al frente del escritorio en italiano vetusto. Quienes lo leen por primera vez —y desde los [[Time_Bandits]] hasta los enviados extranjeros lo han leído con desigual provecho— suelen suponer **metáfora burocrática**. No lo es. La frase es **descripción técnica**. La Subprefectura **opera el cierre o apertura de canales temporales** con la misma rutina con que otras oficinas operan certificados de nacimiento.
 
-Apareció en escena durante el episodio de la taberna en sesión [[Paris_Ucronica|temprana]]: silla de ruedas trabada en el umbral, voz seca de quien acepta la sorpresa con cálculo, **quinientos francos por cabeza** como anticipo de un contrato que [[Claude_Nauge|Claude]] se negó a firmar por escrúpulo aristocrático. Iriarte aceptó la negativa **sin levantar la voz**, dejó la oferta abierta —*"falta la otra parte... si logran develar a la [[La_Serpiente|Serpiente]]"*— y volvió al Palazzo en su carruaje a vapor. La investigación que siguió, en [[Bucarest_Ucronica|Bucarest]] y en otros lados, **fue, en cierta medida, el cumplimiento de su contrato no firmado**.
+Apareció en escena durante el episodio de la taberna en jornada [[Paris_Ucronica|temprana]]: silla de ruedas trabada en el umbral, voz seca de quien acepta la sorpresa con cálculo, **quinientos francos por cabeza** como anticipo de un contrato que [[Claude_Nauge|Claude]] se negó a firmar por escrúpulo aristocrático. Iriarte aceptó la negativa **sin levantar la voz**, dejó la oferta abierta —*"falta la otra parte... si logran develar a la [[La_Serpiente|Serpiente]]"*— y volvió al Palazzo en su carruaje a vapor. La investigación que siguió, en [[Bucarest_Ucronica|Bucarest]] y en otros lados, **fue, en cierta medida, el cumplimiento de su contrato no firmado**.
 
-[*La paradoja del contrato verbal con un funcionario del tiempo es asunto que la jurisprudencia antiterrana no ha resuelto. Iriarte, según el [[Decadiano]], tiene la última palabra. —Glosa marginal, libro V del Decadiano.*]
+[*La paradoja del contrato verbal con un funcionario del tiempo es asunto que la jurisprudencia antiterrana no ha resuelto. Iriarte, según el [[Decadiano]], tiene la última palabra. —Glosa marginal, libro V del [[Decadiano]].*]
 
 ## Vínculos
 
@@ -60,13 +60,13 @@ Apareció en escena durante el episodio de la taberna en sesión [[Paris_Ucronic
 
 **Naturaleza personal**: Iriarte es **[[Gnomo_Judio|gnomo judío]]** —*identidad racial y religiosa que el aparato burocrático antiterrano tolera sin glosar*—. **La silla de ruedas no es asistencia común**: es **silla mejorada con tecnomagia vapor**, *uno de los pocos dispositivos no eléctricos que la prohibición teológica del cosmos uchrónico permite a los oficiales de su rango*. *El vapor de la silla se purifica en la cocina del Palazzo cada tres días, costumbre que el cronista anota como obsesión personal*.
 
-**Familiar operativo**: Iriarte es propietario del **[[Monitor|Monitor]]** —**drone-ojo espía**, *familiar mecánico-arcano que circula por los pasillos del Palazzo y, en algunas misiones, los acompaña hasta el escenario de la operación*—. **El Monitor reporta directo a la silla** vía canal que el cronista no termina de comprender.
+**Familiar operativo**: Iriarte es propietario del **[[Monitor|Monitor]]** —**drone-ojo espía**, *familiar mecánico-arcano que circula por los pasillos del Palazzo y, en algunas misiones, los acompaña hasta el escenario de la operación*—. **El [[Monitor]] reporta directo a la silla** vía canal que el cronista no termina de comprender.
 
 **Rumores de ligazón con Germanos**: *en círculos ucrónicos se susurra que Iriarte mantiene canales privados con la diplomacia germana, lo cual lo hace ambiguo en momentos de tensión franco-germana*. **El propio archivero del Plata se permite la duda**: *un Subprefecto del Tiempo no necesita lealtad geográfica; su lealtad es al cauce, no a la bandera*.
 
 ## El Etrusco — revelación del contrato
 
-**El Ministerio de Asuntos Exteriores** (timestamp `[1:52:30]` en el registro): Iriarte revela al grupo la **identidad del verdadero contratante**. **El [[El_Etrusco|Etrusco]]** —*ancestro milenario enterrado bajo el [[Panteon_el|Panteón]]*— es quien encarga la misión. **La [[La_Serpiente|Serpiente]] opera vía y con la magia ancestral del Etrusco**. *El motivo*: si **[[Moni_Vivescu|Mony Vivescu]] hereda la línea de sangre antigua, termina en vergüenza para el Etrusco*. **El Etrusco no puede actuar directamente** —*restricción mágica y legal a la vez*—: necesita **intermediarios vivos**, y los Time Bandits cumplen la función.
+**El Ministerio de Asuntos Exteriores** (asentado en el registro): Iriarte revela al grupo la **identidad del verdadero contratante**. **El [[El_Etrusco|Etrusco]]** —*ancestro milenario enterrado bajo el [[Panteon_el|Panteón]]*— es quien encarga la misión. **La [[La_Serpiente|Serpiente]] opera vía y con la magia ancestral del Etrusco**. *El motivo*: si **[[Moni_Vivescu|Mony Vivescu]] hereda la línea de sangre antigua, termina en vergüenza para el Etrusco*. **[[El_Etrusco]] no puede actuar directamente** —*restricción mágica y legal a la vez*—: necesita **intermediarios vivos**, y los [[Time_Bandits]] cumplen la función.
 
 **Estructura de pago documentada**:
 
@@ -77,13 +77,13 @@ Apareció en escena durante el episodio de la taberna en sesión [[Paris_Ucronic
 | Bonus por identificar a [[La_Serpiente|La Serpiente]] | 1000 francos | si se logra |
 | **Total potencial** | **2000 francos** | |
 
-**Escenario físico del encuentro**: **escritorio de caoba** *(lujo, poder)*, **globo terráqueo** *(alcance global)*, **guardias de palacio en puertas**, **atmósfera de autoridad estatal**.
+**[[Escenario]] físico del encuentro**: **escritorio de caoba** *(lujo, poder)*, **globo terráqueo** *(alcance global)*, **guardias de palacio en puertas**, **atmósfera de autoridad estatal**.
 
 **Objeción ideológica de Claude**: [[Claude_Nauge|Claude]] **rehúsa firmar el contrato formal** por objeción a trabajar para aristocracia ancestral, **pero acepta los 500 francos como civil**. *Distinción jurídica fina que el archivero del Plata anota como manifiesto político*.
 
 ## Apariciones
 
-- **Sesión temprana de París Ucrónica** — episodio de la taberna, primera oferta
+- **Jornada temprana de [[Paris_Ucronica|París Ucrónica]]** — episodio de la taberna, primera oferta
 - **Ministerio de Asuntos Exteriores** — revelación del Etrusco como contratante real
-- **Sesiones siguientes** — contratos sucesivos, contacto del grupo durante viaje a [[Bucarest_Ucronica|Bucarest]]
-- **Ciclo presente** — el Palazzo del Tempo sigue operativo bajo su dirección
+- **Jornadas siguientes** — contratos sucesivos, contacto del grupo durante viaje a [[Bucarest_Ucronica|Bucarest]]
+- **Ciclo presente** — el [[Palacio_del_Tiempo|Palazzo del Tempo]] sigue operativo bajo su dirección

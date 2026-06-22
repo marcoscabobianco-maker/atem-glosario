@@ -51,7 +51,7 @@ Justo antes de partir, el cronista había hojeado la *Storia della belleza* de U
 
 ## Los pasajes de Benjamin *(27 de diciembre — buscando lo que Walter buscó)*
 
-**El cronista sale a buscar los pasajes que inspiraron el proyecto de Walter Benjamin**. *Pasaje de los Panoramas, cadáveres*. Las estructuras de acero soportan cristales a dos aguas; los pasajes son cubiertos y angostos; los segundos pisos revelan arquitectura decimonónica.
+**El cronista sale a buscar los pasajes que inspiraron el proyecto de Walter Benjamin**. *[[Pasaje_de_los_Panoramas]], cadáveres*. Las estructuras de acero soportan cristales a dos aguas; los pasajes son cubiertos y angostos; los segundos pisos revelan arquitectura decimonónica.
 
 **Eran fríos, sin embargo. Los negocios no eran fabulosos**: *restaurantes semicaros, tiendas de coleccionistas, conexiones de variedades*. **Afuera, los bulevares con sus teatros y sus putas — las últimas con pieles**.
 
@@ -61,11 +61,11 @@ Justo antes de partir, el cronista había hojeado la *Storia della belleza* de U
 
 ## El Caronte del Sena *(28 de diciembre — sueños de París en la madrugada)*
 
-> *"Una diligencia a toda velocidad cruzar el Sena. Los cascos de los caballos negros echan chispas. La luz de la reverbera arriba sobre un poste de hierro, como un rayo. En el carro va el doctor milagro, lleva a su autómata Olimpia como guardia. Acaba de recibir, a altas horas de la noche, en las cercanías del pasaje de los Panoramas, a unos clientes... ¡oh sí! De los que escaparon a Caronte."*
+> *"Una diligencia a toda velocidad cruzar el Sena. Los cascos de los caballos negros echan chispas. La luz de la reverbera arriba sobre un poste de hierro, como un rayo. En el carro va el doctor milagro, lleva a su autómata Olimpia como guardia. Acaba de recibir, a altas horas de la noche, en las cercanías del pasaje de los Panoramas, a unos clientes... ¡oh sí! De los que escaparon a [[Caronte]]."*
 >
 > *"El viejo barquero ha visto su trabajo frustrado por un puente de hierro forjado, que cruza el Estigia. Ya no es su propio río."*
 
-**Acá nace el [[Barquero]] del archivo común**. *El Caronte mitológico encuentra su versión cosmológica del cosmos compartido en este párrafo*: **el barquero antiguo, vencido por la modernidad del puente metálico**, **pierde su jurisdicción**. *El río que cruza no le pertenece más*. **Más tarde el cronista lo trasladaría a Montbron y al cruce del valle**; **pero su acta de nacimiento queda en esta madrugada parisina del 28 de diciembre de 2010**.
+**Acá nace el [[Barquero]] del archivo común**. *El [[Caronte]] mitológico encuentra su versión cosmológica del cosmos compartido en este párrafo*: **el barquero antiguo, vencido por la modernidad del puente metálico**, **pierde su jurisdicción**. *El río que cruza no le pertenece más*. **Más tarde el cronista lo trasladaría a [[Montbron]] y al cruce del valle**; **pero su acta de nacimiento queda en esta madrugada parisina del 28 de diciembre de 2010**.
 
 ---
 
@@ -107,9 +107,9 @@ Justo antes de partir, el cronista había hojeado la *Storia della belleza* de U
 
 ## Mohlitz como pintor del cosmos
 
-> *"Baudio me había traído un par de años antes un regalo de París: Mohlitz. Es este un dibujante que inspiró algunas escenas del ciclo. Recuerdo haberlo usado para retratar a los Reunidos alrededor del fuego, cerca del Pico del Águila."*
+> *"Baudio me había traído un par de años antes un regalo de París: [[Mohlitz]]. Es este un dibujante que inspiró algunas escenas del ciclo. Recuerdo haberlo usado para retratar a los Reunidos alrededor del fuego, cerca del Pico del Águila."*
 
-**[[Mohlitz]]** —*Philippe Mohlitz, grabador francés contemporáneo, escenas oníricas elaboradas hasta el detalle imposible*— **entra al panteón visual del cosmos compartido por regalo de un amigo del cronista**. *Antes era ilustrador desconocido para el archivo*; **después es la mano que el archivero ha consultado durante años para imaginar [[Los_Reunidos|los Reunidos]] alrededor del fuego cerca del [[Pico_del_Aguila|Pico del Águila]]**.
+**[[Mohlitz]]** —*[[Philippe]] [[Mohlitz]], grabador francés contemporáneo, escenas oníricas elaboradas hasta el detalle imposible*— **entra al panteón visual del cosmos compartido por regalo de un amigo del cronista**. *Antes era ilustrador desconocido para el archivo*; **después es la mano que el archivero ha consultado durante años para imaginar [[Los_Reunidos|los Reunidos]] alrededor del fuego cerca del [[Pico_del_Aguila|Pico del Águila]]**.
 
 **Esto es lo que la regla cero meta sobre imágenes no permite consignar en una ficha del Glosario común**: *los grabadores reales que inspiraron las escenas diegéticas no se nombran*. **Pero en el cuaderno parisino sí**, **porque el cuaderno es asertórico antes que diegético**, *y por eso esta entrada vive en una zona de bisagra*.
 
@@ -127,13 +127,13 @@ Justo antes de partir, el cronista había hojeado la *Storia della belleza* de U
 
 ## Lo que el cuaderno no terminó de decir
 
-**El cronista interrumpe sus anotaciones el 17 de enero de 2011** —*"Estoy en el Caballo Blanco. Dos hombres hablan acerca de festivales de música"*—; **el cuaderno C42 sigue con otras materias** (Constant, Benjamin Schmidt, Borges, el *Religio Medici* de Browne, la Aduana del Dreamscape, Marienband de Resnais).
+**El cronista interrumpe sus anotaciones el 17 de enero de 2011** —*"Estoy en el [[Caballo]] Blanco. Dos hombres hablan acerca de festivales de música"*—; **el cuaderno C42 sigue con otras materias** (Constant, Benjamin Schmidt, Borges, el *Religio Medici* de Browne, la Aduana del Dreamscape, Marienband de Resnais).
 
 **Lo que París le dejó al cosmos compartido**, **el archivero del Plata lo cataloga así**:
 
 - **El Caronte del Sena** → traducido a [[Barquero]] y al cruce de [[Montbron]].
-- **Las Cronoputas / Cronoboys** → sistema cronomántico del [[Palacio_del_Tiempo|Palacio del Tiempo]] con [[Iriarte_Subprefecto|Iriarte]] firmando contratos.
-- **El Yunque del Tiempo de Pablo** → conservación cosmológica del [[Pablo_de_Alejandria|Paulus]] como forjador.
+- **Las Cronoputas / [[Cronoboys]]** → sistema cronomántico del [[Palacio_del_Tiempo|Palacio del Tiempo]] con [[Iriarte_Subprefecto|Iriarte]] firmando contratos.
+- **El [[Corazon_de_Pablo_Yunque_del_Tiempo|Yunque del Tiempo]] de Pablo** → conservación cosmológica del [[Pablo_de_Alejandria|Paulus]] como forjador.
 - **El cangrejo de cristal** → empuñadura mítica.
 - **Mohlitz como pintor de los Reunidos** → mano visual del ciclo.
 - **París como Mónada Benjamin** → la ciudad de las puertas que cada vida particular recorre en resonancia con su futuro.
@@ -153,9 +153,9 @@ Justo antes de partir, el cronista había hojeado la *Storia della belleza* de U
 - [[Los_Reunidos]] — escena alrededor del fuego que el cronista atribuye a Mohlitz
 - [[Walter_Benjamin_R|Walter Benjamin]] — autor del proyecto de los Pasajes, lectura matriz
 - [[Apollinaire_R|Guillaume Apollinaire]] — autor de *Les onze mille verges*, cita del cuaderno
-- [[Montbron]] — cruce posterior donde el Barquero se trasladó
+- [[Montbron]] — cruce posterior donde el [[Barquero]] se trasladó
 - [[Pasaje_de_los_Panoramas]] — geografía mayor del proyecto Benjamin
-- [[Catedral_de_Notre-Dame_PU|Notre Dame]] — geografía de París Ucrónica con eco real
+- [[Catedral_de_Notre-Dame_PU|Notre Dame]] — geografía de [[Paris_Ucronica|París Ucrónica]] con eco real
 - [[Pico_del_Aguila]] — escena retratada con la mano de Mohlitz
 - [[Cangrejo_de_Cristal]] — empuñadura del guardián de la ley de Buda
 
@@ -168,5 +168,5 @@ Justo antes de partir, el cronista había hojeado la *Storia della belleza* de U
 - **29 de diciembre** — sueño de Lorena y la pileta con Falcon flotante
 - **31 de diciembre** — bulevar de los ricos, los Dos Gusanos, contacto parisino de Lola
 - **1 de enero de 2011** — siesta, frío intempestivo, sueño de la plataforma-gusano
-- **2 de enero** — sueño de las Cronoputas y del Yunque del Tiempo
-- **17 de enero** — Caballo Blanco, último apunte parisino del cuaderno
+- **2 de enero** — sueño de las Cronoputas y del [[Corazon_de_Pablo_Yunque_del_Tiempo|Yunque del Tiempo]]
+- **17 de enero** — [[Caballo]] Blanco, último apunte parisino del cuaderno

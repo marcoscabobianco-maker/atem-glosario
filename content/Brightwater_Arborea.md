@@ -63,19 +63,19 @@ tags:
 
 > Fuente externa: *Faiths & Avatars* (TSR, 1996), *Planes of Chaos* (TSR, 1994).
 
-## Acepción en la el cosmos compartido
+## Acepción en el cosmos compartido
 
 En el cosmos compartido, Brightwater es **el lugar de nacimiento de [[Clarisa]]** según MC Línea Temporal:
 
-> *"**1354 DR:** Nace en Brightwater, [[Arborea_Eden_CDI|Arborea]]. Hija de [[Arcoms_Cosmar|Arcoms]] y [[Nasim]]."* (MC_LINEA_TEMPORAL, sección Clarisa)
+> *"**1354 DR:** Nace en Brightwater, [[Arborea_Eden_CDI|Arborea]]. Hija de [[Arcoms_Cosmar|Arcoms]] y [[Nasim]]."* (MC_LINEA_TEMPORAL, sección [[Clarisa]])
 
-El uso de Brightwater como cuna de Clarisa **establece linaje cosmológico**: Clarisa nace en plano exterior de fortuna, hija del Maestro Bibliotecario del concilio de Myth Drannor (Arcoms) y de Nasim. Esto la diferencia de "Clarisa (I)" (conocida de Coyote, 1348 DR) y "Clarisa (II)" (madre de Elisteo con Minaya, 1349 DR) — ver [[Clarisa]] para detalle de la homonimia.
+El uso de Brightwater como cuna de [[Clarisa]] **establece linaje cosmológico**: Clarisa nace en plano exterior de fortuna, hija del Maestro Bibliotecario del concilio de [[Myth_Drannor]] ([[Arcoms_Cosmar|Arcoms]]) y de Nasim. Esto la diferencia de "Clarisa (I)" (conocida de [[Coyote]], 1348 DR) y "Clarisa (II)" (madre de [[Elisteo]] con Minaya, 1349 DR) — ver [[Clarisa]] para detalle de la homonimia.
 
 ## Recontextualización MC (Constitución §3 — palimpsesto)
 
 Brightwater entra al canon ATEM **directamente desde D&D oficial** sin reinterpretación profunda. Es un caso donde la regla de oro se cumple porque:
 - El uso fue **producido en situación lúdica** ( asignó Brightwater como cuna de Clarisa en su construcción de la cosmología).
-- La ficcionalización es **mínima** pero efectiva: el plano de fortuna como cuna de una bibliotecaria-cronista resuena con el destino narrativo de Clarisa (escribe el Calendario, queda atrapada en eventos cósmicos).
+- La ficcionalización es **mínima** pero efectiva: el plano de fortuna como cuna de una bibliotecaria-cronista resuena con el destino narrativo de Clarisa (escribe el [[Calendario]], queda atrapada en eventos cósmicos).
 
 Posibles desarrollos pendientes (palimpsesto a confirmar con ):
 - ¿Brightwater de Arborea es el mismo lugar que [[Arborea_Eden_CDI|Arborea/Eden]] en el Descenso? La etiqueta `categoria: lugar / campania: cdi` de la ficha hermana sugiere parentesco.

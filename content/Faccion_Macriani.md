@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-Familia poderosa con hijo ambicioso (**Macriani Junius**). Aliados con el gobernador de Egipto (**Aimidius**, traicionero) y el prefecto **Emilianus** de [[Alejandria|Alejandría]]. Representan centro de poder alternativo desafiando la autoridad imperial central de Galieno. Referencia histórica a los Macriani del período de los Treinta Tiranos (~260 A.D.).
+Familia poderosa con hijo ambicioso (**[[Macriani_Junius]]**). Aliados con el gobernador de Egipto (**[[Aimidius]]**, traicionero) y el prefecto **[[Emilianus]]** de [[Alejandria|Alejandría]]. Representan centro de poder alternativo desafiando la autoridad imperial central de Galieno. Referencia histórica a los Macriani del período de los Treinta Tiranos (~260 A.D.).
 
 ## Ver también
 

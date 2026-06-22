@@ -17,20 +17,14 @@ wikipedia: https://es.wikipedia.org/wiki/Tiamat
 
 ## Presentación
 
-**Tipo:** Criaturas dracónicas, servidores de Tiamat
-**Cantidad:** 4 en combate de el archivo
-**Descripción:** "Adoradores de mantenimiento de los avillanos" (probable el archivo de transcripción error). Tamaño mediano (comparado a dragón negro).
+Criaturas dracónicas servidoras de Tiamat. De tamaño mediano en comparación con un dragón negro, operan como combatientes secundarios en el [[Coliseo_Dis|Coliseo de Dis]], donde fueron derrotadas junto con el dragón principal.
 
-**Rol:** Combatientes secundarios en [[Coliseo_Dis|Coliseo]]. Derrotados junto con dragón principal.
-
-**Relación cósmica:** Servidores de Tiamat (deidad de dragones, D&D lore). Sugiere complot multidimensional.
-
-**Confianza:** MODERADA — rol claro en combate, context cósmico especulativo.
+Su presencia en Dis apunta a un complot multidimensional que involucra a Tiamat, deidad de los dragones.
 
 ## Ver también
 
-- Cantidad
-- [[Relacion_cosmica|Relación cósmica]]
+- [[Coliseo_Dis]]
+- [[Tiamat]]
 
 ## Links externos
 

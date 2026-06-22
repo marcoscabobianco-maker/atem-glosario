@@ -28,15 +28,15 @@ tags:
 
 ## Presentación
 
-Luca vino con apellido. **De los Medici** —la casa florentina cuyos signos heráldicos llenarán siglos después los muros de la ciudad—. Su tiempo no es el de Lorenzo el Magnífico sino tres siglos antes: la Florencia del año **mil trescientos**, la de las cruzadas y las disputas con Dante. Allí jugó la Gesta de los Florentinos, junto a sus compañeros, en una campaña que terminaría con la invasión del plano astral por githyanki. Sobrevivió a Florenzen como pocos. Y cargó la marca para siempre.
+Luca vino con apellido. **De los Medici** —la casa florentina cuyos signos heráldicos llenarán siglos después los muros de la ciudad—. Su tiempo no es el de Lorenzo el Magnífico sino tres siglos antes: la Florencia del año **mil trescientos**, la de las cruzadas y las disputas con Dante. Allí jugó la Gesta de los [[Florentinos_Heroes_Invisibles|Florentinos]], junto a sus compañeros, en una campaña que terminaría con la invasión del plano astral por githyanki. Sobrevivió a Florenzen como pocos. Y cargó la marca para siempre.
 
-Era **clérigo**, de los que rezan en latín antiguo y curan con la mano puesta. Pero la mano que rezaba no es la que tiene ahora. **Graz'zt** lo capturó y lo llevó a **Tovag Baragu** —la torre negra bajo la luna llena, rodeada de dragones y ruinas, accesible sólo por geometrías imposibles—. Allí lo encerraron y allí pasó lo que las crónicas registran con la mayor sobriedad posible.
+Era **clérigo**, de los que rezan en latín antiguo y curan con la mano puesta. Pero la mano que rezaba no es la que tiene ahora. **[[Grazzt|Graz'zt]]** lo capturó y lo llevó a **[[Tovag_Baragu]]** —la torre negra bajo la luna llena, rodeada de dragones y ruinas, accesible sólo por geometrías imposibles—. Allí lo encerraron y allí pasó lo que las crónicas registran con la mayor sobriedad posible.
 
-Flotó en líquido denso —*mermelada*, dice el archivo—, ingrávido, rodeado de monolitos flotantes en oscuridad permanente, escuchando voces antiguas que hablaban en la lengua de Dante. Le cortaron la **Mano Dorada** —la extremidad mágica que era el corazón de su poder clerical— y le cortaron también el meñique de la otra. Arrojaron su espada a un portal en una dimensión cualquiera, para que nadie pudiera recuperarla sin recorrer mil planos. Y lo obligaron a firmar contrato como **condottiero** de Graz'zt: *"fidelidad de un buen condottiero italiano"*, ese fue el formulario.
+Flotó en líquido denso —*mermelada*, dice el archivo—, ingrávido, rodeado de monolitos flotantes en oscuridad permanente, escuchando voces antiguas que hablaban en la lengua de Dante. Le cortaron la **[[Mano_Dorada]]** —la extremidad mágica que era el corazón de su poder clerical— y le cortaron también el meñique de la otra. Arrojaron su espada a un portal en una dimensión cualquiera, para que nadie pudiera recuperarla sin recorrer mil planos. Y lo obligaron a firmar contrato como **condottiero** de [[Grazzt|Graz'zt]]: *"fidelidad de un buen condottiero italiano"*, ese fue el formulario.
 
-El grupo lo rescató. Lo que volvió de Tovag Baragu no era el mismo Medici. Recuperó la Mano Dorada, recuperó la espada, recuperó el equipo disperso por los planos. Y juró ejecutar a **Auro**, el Jinete del Apocalipsis que conocía sus heridas desde adentro.
+El grupo lo rescató. Lo que volvió de [[Tovag_Baragu]] no era el mismo Medici. Recuperó la [[Mano_Dorada]], recuperó la espada, recuperó el equipo disperso por los planos. Y juró ejecutar a **Auro**, el Jinete del Apocalipsis que conocía sus heridas desde adentro.
 
-Cuando años después lideró el cierre de portales en el **Monte Análogo** —cinco puertas en una montaña celestial bajo asedio demoníaco, cinco pruebas, poemas rituales en latín—, lo hacía con la mano que no era suya. La cruzada de su vida tardía era una sola: cerrar lo que se había abierto, sellar lo que se había roto. El Medici devuelto del Infierno.
+Cuando años después lideró el cierre de portales en el **Monte Análogo** —cinco puertas en una montaña celestial bajo asedio demoníaco, cinco pruebas, poemas rituales en latín—, lo hacía con la mano que no era suya. La cruzada de su vida tardía era una sola: cerrar lo que se había abierto, sellar lo que se había roto. El Medici devuelto del [[Infierno]].
 
 ## Vínculos
 
@@ -51,7 +51,7 @@ Cuando años después lideró el cierre de portales en el **Monte Análogo** —
 
 ## Apariciones
 
-- Florencia/Florenzen]] ~1300 — Gesta de los Florentinos, cruzadas, invasión astral
+- Florencia/Florenzen]] ~1300 — Gesta de los [[Florentinos_Heroes_Invisibles|Florentinos]], cruzadas, invasión astral
 - [[Tovag_Baragu]] — encarcelamiento, tortura, contrato como condottiero
 - [[Monte_Analogo|Monte Análogo]] — cierre de portales, cruzada de redención
 - [[Zaira]] — finale, coordinación desde Monte Análogo

@@ -2,7 +2,7 @@
 categoria: lugar
 tags:
  - "cdi"
- - "pnj"
+ - "figura"
  - "inferno"
  - "guía"
  - "castillo"
@@ -19,7 +19,7 @@ aliases:
 
 ## Presentación
 
-[[Vito_Guia|Guía]] en el Infierno, conectado al Castillo de los Justos. Aparece en las secciones iniciales del Descenso el archivo (secciones 1–2).
+[[Vito_Guia|Guía]] en el [[Infierno]], conectado al Castillo de los Justos. Aparece en las secciones iniciales del Descenso el archivo (secciones 1–2).
 
 ## Apariciones notables
 

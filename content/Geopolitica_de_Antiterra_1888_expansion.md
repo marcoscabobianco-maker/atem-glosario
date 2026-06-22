@@ -24,19 +24,19 @@ tags:
 
 > *"En 1888 la balanza ya no era balanza: era cuesta. Los gobiernos se gobernaban entre sí mucho antes de gobernar a sus pueblos."*
 
-La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra escrita** —*porque la geopolítica no se retrata por figura: se retrata por mapa, y el mapa todavía cambia rápido*—. Cuando llegue la imagen, **mostrará un planisferio antiterrano del año 1888 A.D.A. con anotaciones a pluma: Inglaterra coloreada en gris azulado al centro, Oriente en sombra rojiza, América en verde joven, África con un punto oscuro en su corazón, Atlántida en azul submarino bajo el Atlántico**.
+La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra escrita** —*porque la geopolítica no se retrata por figura: se retrata por mapa, y el mapa todavía cambia rápido*—. Cuando llegue la imagen, **mostrará un planisferio antiterrano del año 1888 [[Anno_Domini_Antiterra_ADA|A.D.A.]] con anotaciones a pluma: Inglaterra coloreada en gris azulado al centro, Oriente en sombra rojiza, América en verde joven, África con un punto oscuro en su corazón, [[Atlantida_Alta_y_Baja|Atlántida]] en azul submarino bajo el Atlántico**.
 
 ---
 
 ## El cuadro mayor
 
-**El año 1888 A.D.A. es punto de inflexión** —*previo al ciclo final que se cierra en 1901*—. **La geopolítica del cosmos antiterrano se reparte por entonces en cuatro grandes polos**, cada uno con jurisdicción propia y con manera propia de operar:
+**El año 1888 [[Anno_Domini_Antiterra_ADA|A.D.A.]] es punto de inflexión** —*previo al ciclo final que se cierra en 1901*—. **La geopolítica del cosmos antiterrano se reparte por entonces en cuatro grandes polos**, cada uno con jurisdicción propia y con manera propia de operar:
 
 ---
 
 ## Inglaterra
 
-**Potencia dominante**. *Lidera alianza internacional* —**el sistema occidental se ordena bajo su brújula, sin que ningún tratado lo dicte expresamente**—. **Controla Francia mediante el [[Virrey_Ucronico|virreinato uchrónico]]** —*"yugo suave pero tenaz"*, anota el archivero del Plata—; **el [[Lord_Gaul|virrey pelado]] administra París con Baatezu disfrazados de casacas rojas**, *operación que cualquier metrópoli colonial común reconocería en su esquema, pero no en su personal demoníaco*.
+**Potencia dominante**. *Lidera alianza internacional* —**el sistema occidental se ordena bajo su brújula, sin que ningún tratado lo dicte expresamente**—. **Controla [[Francia]] mediante el [[Virrey_Ucronico|virreinato uchrónico]]** —*"yugo suave pero tenaz"*, anota el archivero del Plata—; **el [[Lord_Gaul|virrey pelado]] administra París con [[Baatezu]] disfrazados de casacas rojas**, *operación que cualquier metrópoli colonial común reconocería en su esquema, pero no en su personal demoníaco*.
 
 **Inglaterra opera por contrato y por trampa, no por bayoneta visible**. *Su imperio antiterrano es más administrativo que militar*; **donde el imperio común envía tropas, el imperio antiterrano envía agentes y firmas**.
 
@@ -62,13 +62,13 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 **Poder oculto, manipulando desde las sombras**. *La hipótesis del archivero del Plata —que el archivo deja abierta— sitúa el centro operativo de la [[Atlantida_Alta_y_Baja|Atlántida]] **no bajo el océano sino en el corazón negro de África***. **Eco evidente del *Heart of Darkness* de Conrad**, *que el archivero menciona porque la geopolítica antiterrana lo cita literalmente*.
 
-**Sus agentes están en puertos, bares, cargueros, balleneros**. *No en cancillerías*: **en bodegas**. **La Atlántida opera por trama oceánica, no por embajada**.
+**Sus agentes están en puertos, bares, cargueros, balleneros**. *No en cancillerías*: **en bodegas**. **La [[Atlantida_Alta_y_Baja|Atlántida]] opera por trama oceánica, no por embajada**.
 
 ---
 
 ## El conflicto central
 
-**Este contra Oeste**, *con la Atlántida manipulando desde las sombras*. **El archivo lo anota con claridad**: **la geopolítica visible —Inglaterra contra Oriente, América en juego propio— es coreografía superficial**; **el conflicto que importa es el que la Atlántida orquesta desde el corazón negro**, **donde [[Cakravartin|Crakavartín]] sostiene la doctrina del Juego desde su trono submarino**, **y [[Grazzt|Grast]] —en sus avatares orientales— maneja la mano contraria**.
+**Este contra Oeste**, *con la Atlántida manipulando desde las sombras*. **El archivo lo anota con claridad**: **la geopolítica visible —Inglaterra contra Oriente, América en juego propio— es coreografía superficial**; **el conflicto que importa es el que la Atlántida orquesta desde el corazón negro**, **donde [[Cakravartin|Cakravartin]] sostiene la doctrina del Juego desde su trono submarino**, **y [[Grazzt|Grast]] —en sus avatares orientales— maneja la mano contraria**.
 
 [*"Hay siglos que se mueren con sus imperios; hay siglos que mueren con sus máscaras. 1888 muere con las dos cosas a la vez, y por eso 1901 fue tan brutal." — Glosa atribuida al libro V del [[Decadiano]].*]
 

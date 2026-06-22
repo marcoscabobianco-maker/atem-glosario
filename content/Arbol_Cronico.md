@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-Mecanismo de viaje temporal orgánico en [[Kumal_Armenia_Libre|Kumal]]. Compuesto por un árbol petrificado, un reloj (Reloj de [[Meteora]]) y una granada-fruto que, al activarse, permite saltar a coordenadas temporales específicas. La Bengala Sucrónica se integra a este mecanismo.
+Mecanismo de viaje temporal orgánico en [[Kumal_Armenia_Libre|Kumal]]. Compuesto por un árbol petrificado, un reloj (Reloj de [[Meteora]]) y una granada-fruto que, al activarse, permite saltar a coordenadas temporales específicas. La [[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica]] se integra a este mecanismo.
 
 ## Apariciones notables
 
@@ -25,4 +25,4 @@ Mecanismo de viaje temporal orgánico en [[Kumal_Armenia_Libre|Kumal]]. Compuest
 
 ## Notas
 
-¿Natural o artificial? ¿Relación con el "árbol donde estaba clavado el Castillo" (el regreso tras el Hiato)? ¿Relación con el árbol de [[Zoe_Emperatriz|Zoe]] en [[Constantinopla_Ucronica_1055_CE|Constantinopla]] (contaminado por [[Zygomind]])? Ver también **[[Kumal_Armenia_Libre|Kumal]]**, **Bengala Sucrónica**, **[[Meteora]]**.
+¿Natural o artificial? ¿Relación con el "árbol donde estaba clavado el Castillo" (el regreso tras el Hiato)? ¿Relación con el árbol de [[Zoe_Emperatriz|Zoe]] en [[Constantinopla_Ucronica_1055_CE|Constantinopla]] (contaminado por [[Zygomind]])? Ver también **[[Kumal_Armenia_Libre|Kumal]]**, **[[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica]]**, **[[Meteora]]**.

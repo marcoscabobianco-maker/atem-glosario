@@ -22,7 +22,7 @@ aliases:
 
 **SOGOL = Sigil + Logos.** Versión de [[Sigil]] reconstruida como nexo del cosmos. "Una diferente edición de la posibilidad del nexo del cosmos y de la confusión de los planos."
 
-Marco narrativo de las sesiones transmaster (Fase 5).
+Marco narrativo de las jornadas de las Convergencias de Maestros (Fase 5).
 
 ## Conexiones
 

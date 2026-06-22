@@ -21,7 +21,7 @@ aliases:
 - Llega "siguiendo el hilo" (tirado por magia, no voluntariamente)
 - Inicialmente pacífico, portador de un libro azul
 - Luego revela: "Soy el nuevo Maestre de la Orden" (pretensión de liderazgo)
-- Confrontado por "otro Flamenco" (posiblemente demonio poseído)
+- Confrontado por "otro [[Flamenco]]" (posiblemente demonio poseído)
 - Desaparece vía **contingencia de teleport** (defensa mágica pre-configurada)
 
 **Descripción física:** Hombre viejo, ropa de Templario. Libro en mano izquierda. Inicialmente sin arma visible. Luego con "una especie de bolsa" (contenido no especificado).
@@ -45,5 +45,5 @@ aliases:
 - [[Identidad_pre-TE03|Identidad anterior]]
 - Identidad en la jornada del falso Maestre
 - [[Dialogo_teologico|Diálogo teológico]]
-- [[Mecanicas_especiales|Mecánicas especiales]]
+- Mecánicas especiales
 - Preguntas abiertas

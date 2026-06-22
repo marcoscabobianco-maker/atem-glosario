@@ -1,39 +1,18 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/Belial__Vala_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["Belial", "Belial en Vala"]
 ---
 
 # Belial (Vala)
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Belial__Vala_retrato.png`
-> **Prompt sugerido:** Ilustración de Belial (Vala). Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[Belial__Vala_retrato.png]]
+Señor infernal que irrumpió en Vala en el momento preciso en que el Laberinto de [[Ur-Draxa]] llegaba a su clausura. Su aparición no fue un accidente: [[Belial]] operó un pacto con [[Lucifer]] que le otorgó presencia en este mundo antiguo, ganando así una pieza en el tablero cósmico que ni [[Asmodeus]] ni Dispater pudieron impedirle, pues a ambos traicionó con la misma maniobra. El cronista anota la resonancia con el Paraíso perdido: algo se diguió, algo se ganó.
 
+Su identidad no admite duda. Belial en Vala es el mismo Belial que opera en los planos infernales del Multiverso: el Señor del Segundo Nivel, figura de traición refinada y ambición vertical. Su presencia en esta Mesopotamia mítica revela que las jerarquías del [[Infierno]] no son producto de eras recientes, sino que hunden sus raíces en tiempos donde el mundo tenía otro nombre. Apareció en el umbral como antagonista invertido del psicopompo: no para guiar a los vivos hacia la muerte, sino para reclamar la puerta misma.
 
-**Acción:** Crear con cross-link explícito a entrada existente `[[ASMODEUS  -  DISPATER]].md` (lordes infernales en ATEM).
-
-## Capa juego
-
-Figura infernal introducida en la sesión `rol_vala_intro_de_belial_previo_fin_laberinto_ur_draxa`. En la mitología clásica D&D/AD&D, Belial es uno de los Lords of Hell. Su aparición en Vala (mundo mítico-mesopotámico) constituye **importación cosmológica desde la jerarquía infernal del Multiverso ATEM**.
-
-Aparición previa al cierre del laberinto de Ur-Draxa — figura del adversario que aparece **en el umbral** (motivo psicopompo invertido).
-
-## Capa trans-campaña
-
-Belial pertenece al panteón infernal de las campañas D&D del ATEM (CDI, MC). Su aparición en Vala (sistema ACKS) sugiere que **el panteón infernal cruza sistemas**. Esto refuerza la lectura de Vala como sustrato antiguo donde las jerarquías cósmicas ya operan, pero sin la articulación visible que tendrán en MC.
-
-## Ref.
-
-rol_vala_intro_de_belial_previo_fin_laberinto_ur_draxa (intro completa); rol_vala_vuelta_a_uruk_2 (1).
-
-## Preguntas
-
-1. ¿Belial Vala es el mismo Belial canónico del Multiverso ATEM o aspecto local? es el mismo
-2. ¿Qué pacto/oferta hace en la intro? Logra con Lucifer tener acceso a VAla
-3. ¿Conexión con Asmodeus/Dispater (entrada existente)? Menos con Asmodeus o >dispater a los que traiciona, paraíso perdido que diguió, algo ganó
-
+## Vínculos
+- [[Lucifer|Lucifer]] — intermediario del pacto que abrió el acceso a Vala
+- [[Asmodeus|Asmodeus / Dispater]] — lordes infernales traicionados en la jugada
+- [[Ur-Draxa|Ur-Draxa]] — ciudad donde se produjo la irrupción, al cierre de su laberinto
+- Wordbreakers — banda que enfrentó la presencia de Belial
+- [[Atrox|Atrox]] — entidad oscura coetánea a la aparición de Belial en el mismo umbral

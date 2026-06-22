@@ -25,7 +25,7 @@ Homo Magus —mago de categoría especial dentro del universo de
 semilla de [[Los_Reguladores|Los Reguladores]]. Posee telekinesis avanzada de alto alcance,
 capaz de mover grandes masas y propulsar al grupo en vuelo desde el
 [[Mediterraneo_Ucronico|Mediterráneo]]. Su nombre es el vocablo griego para el "tiempo oportuno"
-(καιρός), distinción que lo separa del *Kronos* cronológico: Kairos es
+(καιρός), distinción que lo separa del *[[Kronos]]* cronológico: Kairos es
 el momento justo, el instante de la decisión.
 
 Trayectoria documentada: llega a [[Alejandria|Alejandría]], donde se convierte en

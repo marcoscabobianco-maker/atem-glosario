@@ -21,4 +21,4 @@ Facción creada por [[Teodora]]/[[Teodora_Emperatriz_Reina_Negra|Reina Negra]] t
 
 ## Notas
 
-Ver también **[[Teodora_Emperatriz_Reina_Negra|Teodora (Emperatriz)]]**, **Cinco Libros de Colores**, **Facciones de Colores**.
+Ver también **[[Teodora_Emperatriz_Reina_Negra|Teodora (Emperatriz)]]**, **Cinco Libros de Colores**, **[[Facciones_de_Colores_Constantinopla_1055|Facciones de Colores]]**.

@@ -9,6 +9,7 @@ tags:
  - "gala"
 aliases:
  - "Carnaval de Venecia (~1901 A.D.A.)"
+ - "Carnaval de Venecia"
 ---
 
 # Carnaval de Venecia (~1901 A.D.A.)
@@ -17,10 +18,10 @@ aliases:
 
 ## el plano operativo
 
-Reunión sin precedentes de TODOS los [[Guardianes]] de las plataformas zodiacales en Venecia, ~1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]] Primera vez que todos se reúnen. Doble propósito: (1) Gala social organizada por [[GRDT]], (2) Lobby político organizado por Lucifer para el "nuevo mundo" de refugio. Los antiterranos serían evacuados al mundo de Lucifer. Las plataformas quedarían en suspensión o se abrirían. "Kaká Bartim" pone los gondoleros. Se espera que [[GRDT]] revele "el secreto de cómo hacer para que no se destruya" [[Antiterra_Demonia|Antiterra]]. Santum de no-agresión entre [[Guardianes]].
+Reunión sin precedentes de TODOS los [[Guardianes]] de las plataformas zodiacales en Venecia, ~1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]] Primera vez que todos se reúnen. Doble propósito: (1) Gala social organizada por [[GRDT]], (2) Lobby político organizado por [[Lucifer]] para el "nuevo mundo" de refugio. Los antiterranos serían evacuados al mundo de [[Lucifer]]. Las plataformas quedarían en suspensión o se abrirían. "Kaká Bartim" pone los gondoleros. Se espera que [[GRDT]] revele "el secreto de cómo hacer para que no se destruya" [[Antiterra_Demonia|Antiterra]]. Santum de no-agresión entre [[Guardianes]].
 
 ## Notas
 
-Este es probablemente el evento central de la sesión grupal posterior al crossover. Conecta con la reunión de [[Guardianes]] mencionada en [[Paris_Ucronica|París Ucrónica]]. Ver **[[Guardianes]] Ucrónicos**, **[[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]**, **Lucifer**, **[[Franja_de_Disolucion|Franja de Disolución]]**.
+Este es probablemente el evento central de la jornada grupal posterior al crossover. Conecta con la reunión de [[Guardianes]] mencionada en [[Paris_Ucronica|París Ucrónica]]. Ver **[[Guardianes]] Ucrónicos**, **[[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]**, **Lucifer**, **[[Franja_de_Disolucion|Franja de Disolución]]**.
 
 **Ref.:** Crossover archivos ("al carnaval de Venecia"), (organización [[GRDT]] + Lucifer).

@@ -21,7 +21,7 @@ tags:
 ---
 # Maruts
 
-> *Criaturas axiales de la legalidad cósmica. Catálogo planar clásico. Custodian al Masracht prisionero en el Prism Keep. Referencia del Bazaar de San Dragón.*
+> *Criaturas axiales de la legalidad cósmica. Catálogo planar clásico. Custodian al Masracht prisionero en el Prism Keep. Referencia del [[Bazaar_de_San_Dragon|Bazaar de San Dragón]].*
 
 ## Presentación
 
@@ -29,9 +29,9 @@ Los **Maruts** son **criaturas planares axiales** del catálogo clásico **[[Baz
 
 ### Su rol en Ardis Vala
 
-**Custodian al [[Masracht_Prism_Keep|Masracht]]** —vampiro padre de Caladan— en su **prisión del [[Prism_Keep]]** (módulo Dungeon Magazine #45 de Richard Baker, inserto en Arden Vul). **Seis Maruts** lo mantienen capturado.
+**Custodian al [[Masracht_Prism_Keep|Masracht]]** —vampiro padre de [[Caladan]]— en su **prisión del [[Prism_Keep]]** (módulo Dungeon Magazine #45 de Richard Baker, inserto en [[Ardis_Vala|Arden Vul]]). **Seis Maruts** lo mantienen capturado.
 
-**Función estructural**: los Maruts son **el polo legal-axial** del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] —contraparte del caos infernal abismal—. Su presencia en el Palacio del Prisma indica **estructura legal cósmica intacta** vigilando a los seres-trampa.
+**Función estructural**: los Maruts son **el polo legal-axial** del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] —contraparte del caos infernal abismal—. Su presencia en el [[Palacio_del_Prisma]] indica **estructura legal cósmica intacta** vigilando a los seres-trampa.
 
 ### Aspecto
 
@@ -56,5 +56,5 @@ Los **Maruts** son **criaturas planares axiales** del catálogo clásico **[[Baz
 ## Apariciones
 
 - **Prism Keep / Castillo del Prisma**: 6 Maruts custodiando al Masracht
-- **el archivo Ardis Vala** (audio sin transcribir): los Buscadores enfrentaron a los Maruts y al Masracht
-- **Posible aparición en el regreso tras el Hiato+**: la autoridad del Papa Alejandro VI puede haber **subordinado o sustituido** la custodia Marut
+- **el archivo [[Ardis_Vala]]** (audio sin transcribir): los [[Buscadores_de_Ardis_Vala|Buscadores]] enfrentaron a los Maruts y al Masracht
+- **Posible aparición en el regreso tras el Hiato+**: la autoridad del [[Papa_Alejandro_Sixto|Papa Alejandro VI]] puede haber **subordinado o sustituido** la custodia Marut

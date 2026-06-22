@@ -13,7 +13,7 @@ aliases:
 
 Grupo aventurero. El nombre sugiere un grupo numeroso o una referencia simbólica.
 
-*Miembros:* **Lujambio**, **Poncho**, **[[Simon_NPC_demoniaco|Simón]]**, **Zyruth**, **Silvio Serrucho del Norte**, **Angelo de Lagash**
+*Miembros:* **[[Lujambio]]**, **[[Poncho]]**, **[[Simon_NPC_demoniaco|Simón]]**, **[[Zyruth]]**, **[[Silvio_Serrucho_del_Norte]]**, **[[Angelo_de_Lagash]]**
 
 ## Ver también
 

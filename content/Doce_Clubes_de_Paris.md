@@ -1,5 +1,5 @@
 ---
-categoria: organizacion
+categoria: organización
 tags:
  - "paris-ucronica"
  - "organisation"
@@ -16,7 +16,7 @@ Estructura de poder político-religiosa en París post-liberación. Representan 
 
 **Revelación:** La demonio nocturna y el discurso revolucionario revelan que "muchos son los que están hoy sentados en un seno de poder en París" — los dioses que se negaron al sacrificio. Los Doce Clubes canalizan ese poder divino en estructura política terrenal.
 
-**Conexión con liberación de París:** La liberación de París 12 años antes (establecida en sesión) fue parcial — se liberó del "yugo demoníaco" pero los dioses traidores permanecen. Esto complejiza la narrativa: la liberación fue un cambio de amo, no una verdadera emancipación.
+**Conexión con liberación de París:** La liberación de París, doce años atrás, fue parcial — se liberó del "yugo demoníaco" pero los dioses traidores permanecen. La liberación fue un cambio de amo, no una verdadera emancipación.
 
 ## Apariciones notables
 
@@ -24,7 +24,7 @@ Estructura de poder político-religiosa en París post-liberación. Representan 
 
 ## Notas
 
-Expande enormemente el construcción del mundo de París. Conecta con la pregunta central de la campaña: ¿pueden los compañeros escapar del guion temporal? Si los dioses mismos traicionan la libertad, ¿qué esperanza hay? Ver también **[[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]]**, **[[Los_Comunados|Los Comunados]]**.
+Si los dioses mismos traicionan la libertad, ¿qué esperanza hay para la humanidad? Ver también **[[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]]**, **[[Los_Comunados|Los Comunados]]**.
 
 ## Ver también
 

@@ -17,15 +17,15 @@ tags:
 ---
 # Sheridron
 
-> *La serpiente del paraíso al revés. La que mira con visión positiva. Compañera de Bronzo en el rescate del ciclo final.*
+> *La serpiente del paraíso al revés. La que mira con visión positiva. Compañera de [[Bronzo]] en el rescate del ciclo final.*
 
 ## Presentación
 
-Sheridron es una de las entidades luminosas que aparecen en el ciclo final de Antiterra para hacer lo que ningún humano podía: **cargar a los sobrevivientes a través de la franja de disolución de 1901**. El archivo la describe, con cierta precisión paradójica, como **una serpiente del paraíso al revés**. Donde la serpiente bíblica del Edén baja a tentar y a corromper, Sheridron sube a salvar y a contar lo que quedó. Donde aquella mira con visión negativa —el mal que se infiltra en la inocencia—, ésta **mira con visión positiva**: la posibilidad de que algo sobreviva, la oferta de un puente cuando el mundo ya está colapsando.
+Sheridron es una de las entidades luminosas que aparecen en el ciclo final de [[Antiterra]] para hacer lo que ningún humano podía: **cargar a los sobrevivientes a través de la franja de disolución de 1901**. El archivo la describe, con cierta precisión paradójica, como **una serpiente del paraíso al revés**. Donde la serpiente bíblica del Edén baja a tentar y a corromper, Sheridron sube a salvar y a contar lo que quedó. Donde aquella mira con visión negativa —el mal que se infiltra en la inocencia—, ésta **mira con visión positiva**: la posibilidad de que algo sobreviva, la oferta de un puente cuando el mundo ya está colapsando.
 
-Aparece en el rescate junto al dragón de bronce **Bronzo**, agente del Cakravartin que vuelve, una última vez, cuando la Antiterra que conocía se desploma en la franja. Bronzo y Sheridron son entonces el par operativo del salvataje: el dragón cargando en su cuerpo de cakra, la serpiente luminosa enrollándose alrededor del grupo, los dos atravesando la franja sin perder a ninguno de los que llevaban.
+Aparece en el rescate junto al dragón de bronce **[[Bronzo]]**, agente del [[Cakravartin]] que vuelve, una última vez, cuando la Antiterra que conocía se desploma en la franja. Bronzo y Sheridron son entonces el par operativo del salvataje: el dragón cargando en su cuerpo de cakra, la serpiente luminosa enrollándose alrededor del grupo, los dos atravesando la franja sin perder a ninguno de los que llevaban.
 
-Lo que pasa después con Sheridron en Sinterra, la síntesis del mundo, está pendiente de minar.
+Lo que pasa después con Sheridron en [[Sinterra]], la síntesis del mundo, está pendiente de minar.
 
 ### Sheridron / Shadydron en el panteón inicial post-Triunvirato
 
@@ -51,7 +51,7 @@ La explicación de fondo: **Sheridron es uno de los sobrevivientes del mundo [[V
 
 **Existe en el archivo otra figura llamada [[Sheridan_Sheridron]]** *(con 'Sheridan')*: detective psíquico del Descenso. **Son entidades distintas**, pese a la grafía similar:
 
-- **Sheridron** *(ciclo)* — esta entrada: dios dragón plateado, sobreviviente de Vala Antigua.
+- **Sheridron** *(ciclo)* — esta entrada: dios dragón plateado, sobreviviente de [[Vala_Antigua]].
 - **[[Sheridan_Sheridron]]** *(el Descenso)* — detective psíquico con jinete demoníaco Jekyll/Hyde.
 
 *La similitud onomástica es trans-campaña pero las entidades no se identifican una con otra*.

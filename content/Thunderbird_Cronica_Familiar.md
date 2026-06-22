@@ -15,13 +15,12 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Crónica Familiar (Invocación) | **Origen:** el archivo –1850 | **[[Propietario]]:** [[Anti_Inferno|la figura del segundo círculo]] | **HP:** 124
+**Tipo:** Crónica Familiar (Invocación)
 
-El Thunderbird es la **crónica familiar** (poder ancestral) de [[Anti_Inferno|la figura del segundo círculo]], una invocación basada en la mitología nativa americana de su conexión MC (Peysen/[[Innombrable|el Innombrable]]). Aparece como una criatura voladora gigante similar a un Giant Eagle mejorado, con 124 puntos de golpe. El Thunderbird navega la tormenta sobre la superficie del infierno durante el viaje de [[Anti_Inferno|la figura del segundo círculo]]. Durante el combate contra Cancerbero en el círculo 3, el Thunderbird es emboscado, recibe tres ataques de mordida y es eventualmente grappleado y asesinado por el Cerberus tras múltiples acciones legendarias. Su muerte marca el punto de quiebre donde [[Anti_Inferno|la figura del segundo círculo]] debe luchar solo.
-
-**Confianza:** MUY ALTA | **Referencias:**
+El Thunderbird es el **poder ancestral** de [[Anti_Inferno|la figura del segundo círculo]], una invocación enraizada en la mitología nativa americana que lo liga a su conexión con Peysen y [[Innombrable|el Innombrable]]. Se manifiesta como una criatura voladora de proporciones colosales que navega la tormenta perpetua sobre la superficie del infierno, escoltando a su convocante en el descenso. En el tercer círculo, al enfrentarse a [[Cancerbero_CDI|Cancerbero]], el Thunderbird fue emboscado y destruido, obligando a la figura del segundo círculo a proseguir el camino solo.
 
 ## Ver también
 
-- [[Propietario|Propietario]]
-- Referencias
+- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña en la que el Thunderbird despliega su vuelo
+- [[Cancerbero_CDI|Cancerbero]] — el guardián que lo destruyó
+- [[Innombrable|el Innombrable]] — figura mítica vinculada al linaje ancestral de su convocante

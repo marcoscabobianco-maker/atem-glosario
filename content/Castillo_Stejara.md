@@ -28,6 +28,6 @@ La lámina lo fija sobre **colina rocosa**, **bosque de pinos al pie**, **camino
 
 ## Vínculos
 
-- [[Stejara]] — barranco del Árbol Gulthias, vinculación cosmológica
+- [[Stejara]] — barranco del [[Arbol_Gulthias|Árbol Gulthias]], vinculación cosmológica
 - [[Bellaca]] — reina vampírica del árbol, presente en la geografía
 - [[Bucarest_Ucronica]] — capital regional

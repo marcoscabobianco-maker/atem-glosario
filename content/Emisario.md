@@ -12,7 +12,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.
 **Nota:** GLOSARIO tiene "[[Emisarios_de_Pomola_Grupo_Principal|Emisarios de Pomola]]" (NC). Este Emisario es distinto: pertenece al sistema zodiacal de [[Antiterra_Demonia|Antiterra]], no a NC.
 
 ### el plano operativo
@@ -23,4 +23,4 @@ Ser neutral, "agente del sistema," que el grupo debe encontrar al cruzar la fron
 
 GLOSARIO tiene "[[Emisarios_de_Pomola_Grupo_Principal|Emisarios de Pomola]]" (NC). Este Emisario es distinto: pertenece al sistema zodiacal de [[Antiterra_Demonia|Antiterra]], no a NC.
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.

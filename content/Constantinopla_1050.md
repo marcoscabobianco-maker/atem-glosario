@@ -9,4 +9,4 @@ aliases:
 ![[Imagenes_Tier1/Constantinopla_1050.png]]
 <!-- /HEADER_IMG -->
 
-Vista de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] con Hagia Sophia al amanecer.
+Vista de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] con [[Hagia_Sophia]] al amanecer.

@@ -13,13 +13,10 @@ aliases:
 
 ## Presentación
 
-**Tipo:** figura antagonista, criatura grande, posible demonio encarnado
-**Descripción:** Criatura de batalla grande, múltiples ataques, colmillos/pinza. Capacidad de regeneración mágica (automáticamente sube si cae bajo cero HP). Muy resistente a daño. "Tortuga" con poder mágico.
-**Combate:** Participa en batalla santuario. Recibe ~50+ puntos de daño crítico de Lirio pero regenera. Finalmente derrotado.
-**Significancia:** Representación de poder demoníaco/corrupto encarnado. Resistencia a destrucción sugiere poder infernal. Posible aliado/servidor del [[Portero_Capturador|Portero]] o poder independiente.
+Criatura de batalla de gran tamaño: colmillos, pinza, y una resistencia sobrenatural que le permite recuperarse de heridas que derribarían a cualquier ser ordinario. Se comporta como una "tortuga" poderosa, envuelta en un halo de poder mágico. Participó en el combate del [[Santuario_Templario_ex-Fortaleza_Cruzada|santuario]], donde [[Lirio]] le infligió daño grave pero la criatura se rehízo antes de ser finalmente derrotada. Su resistencia a la destrucción sugiere naturaleza infernal o demoníaca; podría ser servidor del [[Portero_Capturador|Portero]] o una entidad independiente de origen oscuro.
+
 **[[Misterio_abierto|Misterio abierto]]:** ¿Identidad exacta? ¿Demonio puro o criatura mágica?
 
 ## Ver también
 
-- Combate
 - [[Misterio_abierto|Misterio abierto]]

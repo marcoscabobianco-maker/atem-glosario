@@ -28,7 +28,7 @@ imagen: null
 ---
 # Palacio del Prisma
 
-> *"El castillo del Prisma es una fortaleza volante probablemente mágica y llena de torres de distintos colores de gemas. Estaba también funcionando como una suerte de prisión de un ser muy antiguo, élfico tal vez, pero como un señor anterior de vampiros. Y ese estaba atrapado hoy por Maruts."*
+> *"El castillo del Prisma es una fortaleza volante probablemente mágica y llena de torres de distintos colores de gemas. Estaba también funcionando como una suerte de prisión de un ser muy antiguo, élfico tal vez, pero como un señor anterior de vampiros. Y ese estaba atrapado hoy por [[Maruts]]."*
 
 ---
 
@@ -36,7 +36,7 @@ imagen: null
 
 **Tres dimensiones simultáneas** lo definen, y conviene leerlas juntas porque no operan por separado:
 
-**Fortaleza volante** —torres de gemas, capaz de aparecer sobre geografías distintas según necesidad cosmológica—. Algunos archivos atestiguan sobrevuelos sobre el Mediterráneo en posiciones cambiantes; *la cartografía oficial nunca acabó de fijarla*.
+**Fortaleza volante** —torres de gemas, capaz de aparecer sobre geografías distintas según necesidad cosmológica—. Algunos archivos atestiguan sobrevuelos sobre el [[Mediterraneo_Ucronico|Mediterráneo]] en posiciones cambiantes; *la cartografía oficial nunca acabó de fijarla*.
 
 **Sede de pruebas** —*pruebas legales, daemons psicológicos, encuentros que se diseñan según el perfil del que entra*—. Quien busca tomar la **[[Caballeros_Cicatriz_del_Sol|Orden de la Cicatriz del Sol]] sin más violencia** sube aquí. Lo que prueba la prueba es asunto entre el visitante y la piedra.
 
@@ -74,7 +74,7 @@ Los **[[Buscadores_de_Ardis_Vala|Buscadores]]**, en el regreso tras el [[Hiato_1
 
 Lo que les pasó dentro del pentagrama es lo que les pasa a quienes **llaman la atención de los poderes oscuros**: el prisma los atrapó. Las tres barreras se cerraron. Quedaron entre el círculo y el trono, *a merced de un protocolo que no se explicaba en voz alta*.
 
-*Esperaron. La Sagrada Orden, según se ha visto, opera con esa economía paciente.*
+*Esperaron. [[Sagrada_Orden|La Sagrada Orden]], según se ha visto, opera con esa economía paciente.*
 
 ---
 
@@ -100,7 +100,7 @@ Sobre todo lo demás, **el trono de rubí**. **[[Papa_Alejandro_Sixto|Papa Aleja
 
 ## El prisionero
 
-Bajo el trono, bajo el círculo, bajo las tres barreras, **un señor élfico antiguo permanece preso**. Es **anterior a los vampiros**, anterior a la separación. Los Maruts lo custodian con la disciplina de los entes legales. **Las pruebas que el Palacio impone al visitante son, indirectamente, la energía con la que la prisión se sostiene.**
+Bajo el trono, bajo el círculo, bajo las tres barreras, **un señor élfico antiguo permanece preso**. Es **anterior a los vampiros**, anterior a la separación. Los [[Maruts]] lo custodian con la disciplina de los entes legales. **Las pruebas que el Palacio impone al visitante son, indirectamente, la energía con la que la prisión se sostiene.**
 
 La identidad exacta del prisionero es asunto que el archivo no termina de cifrar:
 
@@ -120,9 +120,9 @@ El Palacio conserva, en una de sus salas mayores, **una rama menor de la [[Libra
 
 ## Continuidad trans-campaña
 
-El Palacio del Prisma **no es invento del ciclo presente**. La misma fortaleza volante prismática **ha aparecido en otros ciclos**: en las crónicas primeras del cosmos compartido, en el Caldero, en el Cisma del Inframundo, en la corrida templaria. **El prisma no se mueve por las geografías; las geografías se mueven debajo del prisma.**
+El Palacio del Prisma **no es invento del ciclo presente**. La misma fortaleza volante prismática **ha aparecido en otros ciclos**: en las crónicas primeras del cosmos compartido, en el [[Caldero]], en el Cisma del Inframundo, en la corrida templaria. **El prisma no se mueve por las geografías; las geografías se mueven debajo del prisma.**
 
-*Que ahora esté anclado sobre Ardisvala, bajo dominio brumoso, y como sede del Papa Alejandro VI, es etapa, no destino.*
+*Que ahora esté anclado sobre Ardisvala, bajo dominio brumoso, y como sede del [[Papa_Alejandro_Sixto|Papa Alejandro VI]], es etapa, no destino.*
 
 ---
 
@@ -130,9 +130,9 @@ El Palacio del Prisma **no es invento del ciclo presente**. La misma fortaleza v
 
 **En el [[CDI|Ciclo del Descenso al Infierno]]**, el mismo Palacio aparece bajo el nombre alternativo de **"Castillo del Apocalipsis"** —*también referido como "Castillo de las nubes"*—. **Visible flotando entre las tormentas del Segundo Círculo**, *con formaciones de hielo iceberg en su base*; **el cronista el Descenso lo describió como estructura entre nubes** que se aprecia sólo desde lejos.
 
-**El recinto contenía cautivos**: *ocho chicas, ocho chicos*. **Asociado a una "noche de juegos"** y al **[[Duque_de_Blanquist|Duque de Blanquist]]** —cuyo sello de los seis dedos, anota el archivero, sería confirmación lateral de la línea Helter—. *El nombre del castillo dio título a la sesión el Descenso correspondiente*; **el grupo se dividió sobre si subir al castillo o descender al Tercer Círculo**.
+**El recinto contenía cautivos**: *ocho chicas, ocho chicos*. **Asociado a una "noche de juegos"** y al **[[Duque_de_Blanquist|Duque de Blanquist]]** —cuyo sello de los seis dedos, anota el archivero, sería confirmación lateral de la línea [[Helter]]—. *El nombre del castillo dio título a la jornada el Descenso correspondiente*; **el grupo se dividió sobre si subir al castillo o descender al Tercer Círculo**.
 
-**Lectura literaria deliberada** —*que el archivero del Plata anota sin discutir*—: la referencia a *Las 120 jornadas de Sodoma* del Marqués de Sade es clara — **castillo con cautivos, juegos perversos, cuatro señores**—. **El castillo da nombre a la sesión** pero **el grupo nunca llegó a entrar durante el Descenso**: queda como destino pendiente del arco posterior.
+**Lectura literaria deliberada** —*que el archivero del Plata anota sin discutir*—: la referencia a *Las 120 jornadas de Sodoma* del [[Marques_de_Sade_Hugo|Marqués de Sade]] es clara — **castillo con cautivos, juegos perversos, cuatro señores**—. **El castillo da nombre a la jornada** pero **el grupo nunca llegó a entrar durante el Descenso**: queda como destino pendiente del arco posterior.
 
 *El archivero del Plata anota la economía*: **el Palacio prismático opera siempre como horizonte sin llegar**; **quien lo ve, lo ve a la distancia**; **quien intenta entrar, suele ser cosechado por sus tres barreras antes**. **El el Descenso fue ejemplar de la regla**.
 
@@ -147,7 +147,7 @@ El Palacio del Prisma **no es invento del ciclo presente**. La misma fortaleza v
 - [[Custodes_Oculis_Solis|Custodes]] — orden celeste custodia del recinto
 - [[Arkos]] — escriba del Papa, presente al lado del bibliotecario
 - [[Argus_PJ|Argus]] / [[Ardipithecus]] — emergencia que el prisma no absorbe
-- [[Valerius_Utrecht]] — paladín cuya espada contenía a Ardipithecus
+- [[Valerius_Utrecht]] — paladín cuya espada contenía a [[Ardipithecus]]
 - [[Alumine|Alumine Manwe Finwe]] — posible identidad del prisionero en línea futura
 - [[Arian]] — historia que las IAs intentaron insertar en el prisionero
 - [[Akala]] / [[RAJ-750]] — inteligencias rudishva implicadas
@@ -163,6 +163,6 @@ El Palacio del Prisma **no es invento del ciclo presente**. La misma fortaleza v
 ## Apariciones
 
 - **Ciclos previos** — fortaleza volante atestada en geografías diversas; el prisma circula
-- **Ciclo primero del valle** — pruebas para tomar la Orden de la Cicatriz del Sol; corrupción de Numa Pompidio
-- **Hiato de los Quince Años** — el Palacio cosecha sus tres colores en silencio; Sir Sixto, perdido abajo, emerge como Papa Alejandro VI
-- **El regreso tras el Hiato** — caída al pentagrama por trampa de la Ciudadela Sin Sol; encuentro con el bibliotecario, Arkos, los Custodes, Argus; presentación ante el trono de rubí; juicio en curso
+- **Ciclo primero del valle** — pruebas para tomar la Orden de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]; corrupción de [[Numa_Pompidio]]
+- **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — el Palacio cosecha sus tres colores en silencio; Sir Sixto, perdido abajo, emerge como [[Papa_Alejandro_Sixto|Papa Alejandro VI]]
+- **El regreso tras el Hiato** — caída al pentagrama por trampa de la [[Ciudadela_Sin_Sol]]; encuentro con el bibliotecario, Arkos, los Custodes, Argus; presentación ante el trono de rubí; juicio en curso

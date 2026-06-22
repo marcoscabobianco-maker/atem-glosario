@@ -9,18 +9,13 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Dragón negro, criatura gargantuesca
-**Descripción:** "Dragon de Ophaio chorreando negro de pantano". Gran sombra, envergadura de alas como "musea" (error el archivo de transcripción?). Dientes enormes.
+[[Sauro_Dragon|Dragón]] negro de proporciones gargantuescas, oriundo de Ophaio. Su presencia se anuncia como una gran sombra: "Dragon de Ophaio chorreando negro de pantano," con dientes enormes y una envergadura de alas que oscurece el horizonte.
 
-**Historia:** Devoró partida aventurera previa (: "entre los dientes el consumir de varias criaturas exceptuando a yun toda una partida aventurera que fue devorada").
+Devoró una partida de aventureros en el pasado, dejando un único sobreviviente: "entre sus dientes el consumir de varias criaturas exceptuando a Yun —toda una partida aventurera que fue devorada."
 
-**Combate en el archivo:** Enemigo principal de [[Coliseo_Dis|Coliseo]]. Recibe rayo (daño parcial), múltiples smites de [[Helter]] y [[Maristo]]. Status final: muerto.
-
-**Tamaño relativo:** Gigantesco (B-52 comparison), visible a 120+ pies.
-
-**Confianza:** FUERTE — combate detallado, aunque daño rolls corrupto.
+Enemigo del [[Coliseo_Dis|Coliseo]]. Cayó en combate frente a los compañeros.
 
 ## Ver también
 
-- Combate en el archivo
-- [[Tamano_relativo|Tamaño relativo]]
+- [[Coliseo_Dis|Coliseo de Dis]]
+- [[Sauro_Dragon|Sauro Dragón]]

@@ -37,7 +37,7 @@ imagen: Imagenes_Tier1/Estela_Nereida.png
 
 ## Quién es
 
-**Estela es nereida —ninfa acuática del cuerpo elemental antiguo—** con **doble identidad pública**: *"Chica Calendario"*, **modelo de éxito en París, conocida por fotografías y carteles promocionales**. *Su familia*: **hija del [[Baron_House_Man|Barón House Man]] —urbanista de París—**, *figura de la alta sociedad mundana que cubre el linaje no humano de la hija*. **El cuerpo común no sospecha**: **la ve en cartel de tabaco**, **en almanaque de oficina**, **en la portada de la revista de moda del verano**.
+**Estela es nereida —ninfa acuática del cuerpo elemental antiguo—** con **doble identidad pública**: *"Chica [[Calendario]]"*, **modelo de éxito en París, conocida por fotografías y carteles promocionales**. *Su familia*: **hija del [[Baron_House_Man|Barón House Man]] —urbanista de París—**, *figura de la alta sociedad mundana que cubre el linaje no humano de la hija*. **El cuerpo común no sospecha**: **la ve en cartel de tabaco**, **en almanaque de oficina**, **en la portada de la revista de moda del verano**.
 
 **Portadora del [[Chal_Magico|Chal Mágico]]** —*artefacto que confiere control sobre aguas elementales y calderas, además de comunicación con entidades acuáticas mayores*—. **El chal no es vestimenta**: **es órgano técnico**. *Cuando lo despliega, el agua le responde*; *cuando lo guarda, la facultad cesa*. **Sin chal, Estela es modelo común con buen cabello**.
 
@@ -53,13 +53,13 @@ imagen: Imagenes_Tier1/Estela_Nereida.png
 
 ## Antecedente — Bajos fondos parisinos
 
-**Antes del tránsito por el Orient Express**, Estela tuvo episodios menos heroicos en los **bajos fondos parisinos**: *víctima de una orgía en la Calle Prony 114*, junto a una amiga de **[[Cukulin|Cukulín]]**. **El grupo de [[Time_Bandits|Time Bandits]] la rescata en ese episodio**, *primer contacto significativo entre la nereida y la banda*. *El archivero del Plata anota que el cronista de París Ucrónica conserva esta escena como umbral*: **Estela no entra al arco como diosa intacta, entra como modelo recuperada de un cuarto de mala fama**, *y esa fragilidad inicial es lo que vuelve significativa su posterior demostración elemental en la locomotora fronteriza*.
+**Antes del tránsito por el [[Orient_Express]]**, Estela tuvo episodios menos heroicos en los **bajos fondos parisinos**: *víctima de una orgía en la Calle Prony 114*, junto a una amiga de **[[Cukulin|Cukulín]]**. **El grupo de [[Time_Bandits|Time Bandits]] la rescata en ese episodio**, *primer contacto significativo entre la nereida y la banda*. *El archivero del Plata anota que el cronista de [[Paris_Ucronica|París Ucrónica]] conserva esta escena como umbral*: **Estela no entra al arco como diosa intacta, entra como modelo recuperada de un cuarto de mala fama**, *y esa fragilidad inicial es lo que vuelve significativa su posterior demostración elemental en la locomotora fronteriza*.
 
 ---
 
 ## El asalto en el Orient Express
 
-**Durante un tránsito por el Orient Express**, **el [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] intenta capturarla**: *enviando una [[Sucubo_Taurina|súcubo taurina]] y otros agentes*, **buscando forzarla a liberar un "pariente serpentino" aprisionado bajo la frontera germana o en fortaleza aliada**. **El motivo del Círculo**: *el chal de Estela permite acceder a aguas profundas donde el pariente serpentino está atado*; **forzarla equivale a desatar al cautivo**.
+**Durante un tránsito por el [[Orient_Express]]**, **el [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] intenta capturarla**: *enviando una [[Sucubo_Taurina|súcubo taurina]] y otros agentes*, **buscando forzarla a liberar un "pariente serpentino" aprisionado bajo la frontera germana o en fortaleza aliada**. **El motivo del Círculo**: *el chal de Estela permite acceder a aguas profundas donde el pariente serpentino está atado*; **forzarla equivale a desatar al cautivo**.
 
 **Los [[Time_Bandits|Time Bandits]] la defienden en combates en los vagones Pullman**. *El enfrentamiento se desarrolla en pasillos, compartimentos y techos del tren*; **Estela mantiene la cabeza fría y opera con el chal de la cintura cuando la dejan tiempo**.
 
@@ -84,7 +84,7 @@ imagen: Imagenes_Tier1/Estela_Nereida.png
 - **Comunicación con seres acuáticos** —*ninfas, kraken menores, espíritus de río*—.
 - **Resistencia y adaptación acuática** —*como nereida, respira bajo agua y navega ríos y mares sin esfuerzo*—.
 
-**La duplicidad pública** —*modelo y nereida*— **es paralela a otras dobles identidades del cosmos uchrónico**: *Claude como obrero y Cvjetko Popović*, *Swan como arqueólogo y Guardia Ucrónico*. **La regla del cosmos uchrónico**: **la identidad pública cubre la identidad cosmológica**, **y la persona opera entre las dos sin pedir permiso al mundo común**.
+**La duplicidad pública** —*modelo y nereida*— **es paralela a otras dobles identidades del cosmos uchrónico**: *Claude como obrero y Cvjetko [[Cvjetko_Popovic|Popović]]*, *Swan como arqueólogo y Guardia [[Mediterraneo_Ucronico|Ucrónico]]*. **La regla del cosmos uchrónico**: **la identidad pública cubre la identidad cosmológica**, **y la persona opera entre las dos sin pedir permiso al mundo común**.
 
 [*"Hay ninfas que se quedan en el río; hay otras que aprenden a posar para cartel litográfico. Las segundas duran más, porque pasan por la oficina del barón sin que el barón sepa." — Glosa coloquial del archivero del Plata.*]
 
@@ -104,8 +104,8 @@ imagen: Imagenes_Tier1/Estela_Nereida.png
 ## Apariciones
 
 - **Antecedente — bajos fondos parisinos** — víctima de orgía en Calle Prony 114, junto a amiga de [[Cukulin|Cukulín]]; primer rescate por [[Time_Bandits|Time Bandits]]
-- **1902 — circulación pública como Chica Calendario** — portada Imprimerie Verneau & Cie
-- **Tránsito Orient Express — combate con el Círculo** — defensa por los Time Bandits
+- **1902 — circulación pública como Chica [[Calendario]]** — portada Imprimerie Verneau & Cie
+- **Tránsito Orient Express — combate con el Círculo** — defensa por los [[Time_Bandits]]
 - **Bañera elemental en el compartimento** — ritual de mantenimiento documentado en lámina
 - **Escape en locomotora fronteriza germana** — invocación elemental acuático
 - **Desembarque en Niza** — fin del arco compartido con el grupo

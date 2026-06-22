@@ -11,7 +11,7 @@ aliases:
 
 ## Presentación
 
-Locación en el Infierno de la el Descenso. Referenciada en el archivo.
+Locación en el [[Infierno]] de la el Descenso. Referenciada en el archivo.
 
 ## Apariciones notables
 

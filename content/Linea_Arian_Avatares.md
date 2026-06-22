@@ -32,7 +32,7 @@ imagen: null
 ![[Imagenes_Tier1/Linea_Arian_Avatares.png]]
 <!-- /HEADER_IMG -->
 
-> *"Hay almas que el cosmos extendido distribuye en pliegues paralelos como quien reparte la misma copa en mesas distintas. Arian es de esas. No se acumula en un cuerpo: se reparte. Quien quiera entenderlo debe leerlo en cinco mesas a la vez, y la sexta —que aún no se ha sentado— ya tiene su servicio dispuesto."* — anotación marginal de Paulus al *libro IV del Decadiano*, sobre las almas mayores trans-cosmológicas.
+> *"Hay almas que el cosmos extendido distribuye en pliegues paralelos como quien reparte la misma copa en mesas distintas. Arian es de esas. No se acumula en un cuerpo: se reparte. Quien quiera entenderlo debe leerlo en cinco mesas a la vez, y la sexta —que aún no se ha sentado— ya tiene su servicio dispuesto."* — anotación marginal de Paulus al *libro IV del [[Decadiano]]*, sobre las almas mayores trans-cosmológicas.
 
 ---
 
@@ -40,7 +40,7 @@ imagen: null
 
 **La Línea Arian** —*"los Avatares de Arian"* en boca de los hermeneutas teósofos clandestinos, *"la Cadena Arian"* en los archivos provinciales decadianos, *"los Reunidos de Arian"* en la doctrina interna que distingue la línea de otras unidades cosmológicas similares— **es operación cosmológica mayor** del cosmos extendido **por la cual una sola alma se manifiesta en geografías paralelas con consistencia interior preservada**.
 
-*La línea no es reencarnación serial* (*una vida tras otra en sucesión lineal*); **es despliegue simultáneo o cuasi-simultáneo** *en pliegues distintos del cosmos*. **Arian opera arriba** en su geografía propia (Antiterra/Panteón) **mientras opera abajo** en otras geografías (C63, Foso, Valakhan, Caldero) **al mismo tiempo cosmológicamente**. *No hay sucesión*; *hay distribución*.
+*La línea no es reencarnación serial* (*una vida tras otra en sucesión lineal*); **es despliegue simultáneo o cuasi-simultáneo** *en pliegues distintos del cosmos*. **Arian opera arriba** en su geografía propia ([[Antiterra]]/Panteón) **mientras opera abajo** en otras geografías (C63, Foso, Valakhan, [[Caldero]]) **al mismo tiempo cosmológicamente**. *No hay sucesión*; *hay distribución*.
 
 *La doctrina decadiana del libro IV registra el modo con cuidado*: **el alma de Arian es alma mayor**, *condición rara en el cosmos extendido*. **Sólo unas pocas almas operan así** —*[[Anti_Inferno|Patience-Peysen]] es otra*, *[[Maristo_condenado|Maristo principal y Maristo condenado]] es otra*, *[[Casa_Azul_de_Vala|el linaje Vala]] opera con doctrina paralela aunque no idéntica*—. **La Línea Arian es la mejor documentada** de las distribuciones cosmológicas mayores.
 
@@ -52,11 +52,11 @@ El archivo cosmológico preserva **cinco avatares de Arian identificados con cer
 
 | Avatar | Geografía | Modo doctrinal | Pliegue |
 |---|---|---|---|
-| **[[Arian]]** | Cosmos central — [[Antiterra]] / Panteón / [[Sagrada_Orden_la|Sagrada Orden]] de [[Tanastias]] | **Elfo primigenio divinizado**, *el 25.º sol*, *figura luminosa de los aprendices originales de la Sagrada Orden*, *miembro de las [[Las_4_A|4 A]]* | Capa luminosa, columna doctrinal |
+| **[[Arian]]** | Cosmos central — [[Antiterra]] / Panteón / [[Sagrada_Orden|Sagrada Orden]] de [[Tanastias]] | **Elfo primigenio divinizado**, *el 25.º sol*, *figura luminosa de los aprendices originales de la [[Sagrada_Orden]]*, *miembro de las [[Las_4_A|4 A]]* | Capa luminosa, columna doctrinal |
 | **[[Auro_CI|Auro]]** | Geografía cosmológica del C63 — [[Ciudades_Invisibles_campana|Ciudades Invisibles]] | **Héroe** del ciclo intermedio, *paladín no-divinizado pero portador de virtud heroica* | Capa intermedia, columna heroica |
 | **[[Arian|Adam Arlequín]]** | [[Anti_Inferno|Foso del Descenso]] / [[Anti_Inferno]] | **Paladín-arlequín del tercer aliento**, *condenado del Foso operando con función de transferencia* | Capa negativa, columna teatral |
-| **[[Caladan]]** | [[Valakhan_de_la_Bruma]] / [[Ardis_Vala]] | **Wonderwalker noviriano** despertado del sarcófago, *vampirizado por Master Malakita*, *darklord involuntario del dominio brumoso* | Capa intermedia oscurecida, columna doliente |
-| **Lucky** | [[Caldero]] / [[La_Jabalina]] | **Caballero de la [[Sagrada_Orden_la|Sagrada Orden]]**, *smites celestiales*, *nombre real reservado*, *linaje "antiguo de caballeros relacionados con Arian, aunque pocos se arriesgan a que cuente más"* | Capa luminosa secundaria, columna recuperada |
+| **[[Caladan]]** | [[Valakhan_de_la_Bruma]] / [[Ardis_Vala]] | **Wonderwalker noviriano** despertado del sarcófago, *vampirizado por [[Master_Malakita]]*, *darklord involuntario del dominio brumoso* | Capa intermedia oscurecida, columna doliente |
+| **Lucky** | [[Caldero]] / [[La_Jabalina]] | **Caballero de la [[Sagrada_Orden|Sagrada Orden]]**, *smites celestiales*, *nombre real reservado*, *linaje "antiguo de caballeros relacionados con Arian, aunque pocos se arriesgan a que cuente más"* | Capa luminosa secundaria, columna recuperada |
 
 *Y un sexto avatar anticipado*:
 
@@ -74,10 +74,10 @@ La distribución de los avatares **no es aleatoria**. **Sigue la estructura cosm
 
 El cosmos extendido **se organiza verticalmente en cuatro capas**:
 
-1. **Capa positiva** — *plano luminoso superior*, *luz dorada solidificada*, *energía del plano positivo*. **Geografías**: cielos del Panteón, trono de rubí del Palacio del Prisma (ocupado por polo Borg positivo), regiones angélicas del cosmos.
-2. **Capa intermedia** — *plano mundano*, *donde los cuerpos corrientes operan*, *donde las ciudades respiran*. **Geografías**: Antiterra superficial, Caldero y Ciudad Estrella, Mediterraneum, Northern Crown, París Ucrónica.
-3. **Capa negativa** — *plano oscuro inferior*, *infierno*, *Foso del Descenso*, *Shadowfell*. **Geografías**: Inferno, Anti-Inferno, Foso pleno, Plano del Shadowfell.
-4. **Capa temporal** — *plano transversal cronológico*, *no vertical en sentido estricto sino atravesando las tres anteriores*. **Geografías**: rutas de Pablo el Cronomante, Río Ucronos, balsa del río ucrónico, ríos del tiempo en general.
+1. **Capa positiva** — *plano luminoso superior*, *luz dorada solidificada*, *energía del plano positivo*. **Geografías**: cielos del Panteón, trono de rubí del [[Palacio_del_Prisma]] (ocupado por polo Borg positivo), regiones angélicas del cosmos.
+2. **Capa intermedia** — *plano mundano*, *donde los cuerpos corrientes operan*, *donde las ciudades respiran*. **Geografías**: Antiterra superficial, [[Caldero]] y [[Ciudad_Estrella]], Mediterraneum, Northern Crown, [[Paris_Ucronica|París Ucrónica]].
+3. **Capa negativa** — *plano oscuro inferior*, *infierno*, *Foso del Descenso*, *[[Shadowfell]]*. **Geografías**: Inferno, Anti-Inferno, Foso pleno, Plano del [[Shadowfell]].
+4. **Capa temporal** — *plano transversal cronológico*, *no vertical en sentido estricto sino atravesando las tres anteriores*. **Geografías**: rutas de [[Pablo_el_Cronomante]], Río [[Rio_Ucronos|Ucronos]], balsa del río ucrónico, ríos del tiempo en general.
 
 *Cada avatar de Arian opera en una capa específica*; *algunos cruzan*; **ninguno opera en las cuatro simultáneamente** —*si lo hiciera, el cosmos extendido tendría que cerrar la línea, lo cual es evento mayor anticipado pero no consumado*—.
 
@@ -85,8 +85,8 @@ El cosmos extendido **se organiza verticalmente en cuatro capas**:
 
 Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isagógica de Pablo]] enuncia desde el primigenio*— **son infraestructura conceptual del Juego de las Sombras**:
 
-- **Columna doctrinal** — *eje del orden cosmológico, de la jerarquía sagrada, de la autoridad eclesial*.
-- **Columna heroica** — *eje de la virtud activa, del oficio del paladín, de la cruzada por causa*.
+- **[[Columna_concepto|Columna]] doctrinal** — *eje del orden cosmológico, de la jerarquía sagrada, de la autoridad eclesial*.
+- **[[Columna_concepto|Columna]] heroica** — *eje de la virtud activa, del oficio del paladín, de la cruzada por causa*.
 - **Columna teatral** — *eje del trasiego, de la transferencia, del oficio del arlequín, del don que se reparte*.
 - **Columna doliente** — *eje del peso, del vampiro doliente, del darklord involuntario, del que carga lo que no eligió*.
 
@@ -107,7 +107,7 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 | **Arian** | *El antipersonaje del Panteón* — *figura adversaria del 25.º sol* (manifestación no completamente fijada en el archivo; algunos archivos sugieren a **[[Innombrable|el Innombrable]]** en cierta interpretación) | El Panteón sostiene Arian + sombra como tensión doctrinal viva |
 | **Auro** | *Sombra del héroe del Renacimiento* — *adversario del ciclo intermedio* | El héroe opera su sombra como cruzada activa |
 | **Adam Arlequín** | *Sombra del arlequín* — *quien observa el trasiego sin trasegar* | El arlequín opera con su sombra como pareja escénica del Foso (relación con Sven) |
-| **Caladan** | *Sombra del wonderwalker dolido* — *quien vampiriza* (**[[Master_Malakita|Master Malakita]]**, el rudishva-vampiro que vampirizó a Caladan) | El darklord opera con la sombra del vampiro que lo vampirizó |
+| **[[Caladan]]** | *Sombra del wonderwalker dolido* — *quien vampiriza* (**[[Master_Malakita|Master Malakita]]**, el rudishva-vampiro que vampirizó a [[Caladan]]) | El darklord opera con la sombra del vampiro que lo vampirizó |
 | **Lucky** | *Sombra del caballero recuperado* — *adversario del polo Borg activo en Caldero* (potencialmente reactivable) | El caballero opera la sombra del polo negativo papal como cruzada continuada |
 
 *El cronista decadiano subraya que la doctrina de los Reunidos* **no es geográfica sino doctrinal**: la sombra puede operar en la misma geografía que el avatar, o en una distinta. *Lo que importa es la unión funcional*: **el avatar no se entiende sin su sombra**; **operan reunidos**.
@@ -124,7 +124,7 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 - **Auro** — *héroe del Renacimiento*; *opera con conciencia limitada del cosmos extendido*; **probablemente no reconoce la cadena**.
 - **Adam Arlequín** — *paladín-arlequín del Foso*; *opera por reflejo del oficio*, *con la naturalidad del que ha integrado su forma actual*. *El archivo conserva dos lecturas* (*saber pleno* vs *saber parcial*); **en el descenso documentado, Adam no se nombró como Arian** —operó como Adam—.
 - **Caladan** — *wonderwalker despertado, vampirizado*; *opera con conciencia plena de su condición Caladan*, *con conciencia incierta de la cadena cosmológica completa*. **La cuestión Caladan = Arian continuado** *es doctrina del archivo, no necesariamente conciencia del avatar mismo*.
-- **Lucky** — *caballero Sagrada Orden de Caldero*; *opera con conciencia parcial de su linaje* —*"se rumorea que proviene de un antiguo linaje de caballeros relacionados con Arian, aunque pocos se arriesgan a que cuente más"*—; **conciencia controlada y discreta**.
+- **Lucky** — *caballero [[Sagrada_Orden]] de Caldero*; *opera con conciencia parcial de su linaje* —*"se rumorea que proviene de un antiguo linaje de caballeros relacionados con Arian, aunque pocos se arriesgan a que cuente más"*—; **conciencia controlada y discreta**.
 
 *La doctrina central*: **la conciencia plena de la cadena entera está reservada al cronista cosmológico mayor, no a los avatares individuales**. *Lo cual mantiene la línea operativa*: **si cada avatar conociera plenamente su pertenencia a la cadena, su operación específica perdería autonomía** y el cosmos extendido **se desestabilizaría**. *El olvido relativo es protección operativa*.
 
@@ -134,12 +134,12 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 
 **La Línea Arian no es la única línea trans-cosmológica del cosmos extendido**. **Opera en paralelo con otras líneas comparables**:
 
-- **Línea Pablo** — *9 variantes consolidadas en [[Pablo_de_Alejandria]]*; *Paulus Alexandrinus, Maestro Alterador, Pablo Escriba, Viajero Temporal Primigenio, Pablo el Cronomante, Señor de la Historia, Paul Claudel, etc.*; **opera con doctrina paralela a la línea Arian pero con énfasis temporal**.
-- **Línea Taylor-Talia (Casa Azul de Vala)** — *Lotario-Oratiol-Taylor + Thalia Cristalia*; *Vitalis como hijo*; *[[Vitalis|el [[Vitalis|Hechicero del Río Blackwater]]]] como rama tardía*; **opera con doctrina cristalina paralela a las otras dos**.
-- **Línea Patience-Peysen** — *Patience del Foso + Peysen del entorno del Innombrable*; **pliegue doble entre Foso y Antiterra**; **operación de anámnesis**.
-- **Línea Maristo principal + Maristo condenado** — *Edecán del Único Dios arriba + Lost One del Anti-Inferno abajo*; **doctrina del pliegue paralelo cosmológico**.
+- **Línea Pablo** — *9 variantes consolidadas en [[Pablo_de_Alejandria]]*; *[[Pablo_de_Alejandria|Paulus Alexandrinus]], [[Pablo_de_Alejandria|Maestro Alterador]], Pablo Escriba, Viajero Temporal Primigenio, [[Pablo_el_Cronomante]], Señor de la Historia, Paul Claudel, etc.*; **opera con doctrina paralela a la línea Arian pero con énfasis temporal**.
+- **Línea Taylor-Talia ([[Casa_Azul_de_Vala]])** — *[[Lotario]]-[[Oratiol]]-Taylor + [[Thalia_Cristalia]]*; *[[Vitalis]] como hijo*; *[[Vitalis|el [[Vitalis|Hechicero del Río Blackwater]]]] como rama tardía*; **opera con doctrina cristalina paralela a las otras dos**.
+- **Línea [[Anti_Inferno|Patience]]-Peysen** — *[[Anti_Inferno|Patience]] del Foso + Peysen del entorno del [[Innombrable]]*; **pliegue doble entre Foso y Antiterra**; **operación de anámnesis**.
+- **Línea [[Maristo]] principal + [[Maristo_condenado]]** — *Edecán del Único Dios arriba + [[Lost_Ones|Lost One]] del Anti-Inferno abajo*; **doctrina del pliegue paralelo cosmológico**.
 
-*Las líneas operan **independientes** doctrinalmente*, **pero se cruzan operativamente**: **Arian y Pablo se conocen** (*amistad documentada entre Maristo —de las 4 A— y Arian, transitividad parcial a Pablo*); **la Casa Azul de Vala custodia el cristal que la Línea Arian eventualmente puede necesitar**; **los Reunidos de cada línea pueden encontrarse en pliegues compartidos**.
+*Las líneas operan **independientes** doctrinalmente*, **pero se cruzan operativamente**: **Arian y Pablo se conocen** (*amistad documentada entre [[Maristo]] —de las 4 A— y Arian, transitividad parcial a Pablo*); **la [[Casa_Azul_de_Vala]] custodia el cristal que la Línea Arian eventualmente puede necesitar**; **los Reunidos de cada línea pueden encontrarse en pliegues compartidos**.
 
 ---
 
@@ -159,7 +159,7 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 
 ¿Qué pasa cuando un avatar de Arian **muere definitivamente** o **se obliterá** en su geografía?
 
-*El archivo registra al menos un caso paralelo*: **Ärsvan se obliteró bajo Notre Dame**, *desplazándose al Anti-Inferno como Lost One*. *No murió*; *cambió de pliegue*. **La doctrina cosmológica sostiene que** *los avatares de líneas mayores no mueren en sentido absoluto*; **migran**.
+*El archivo registra al menos un caso paralelo*: **Ärsvan se obliteró bajo [[Catedral_de_Notre-Dame_PU|Notre Dame]]**, *desplazándose al Anti-Inferno como [[Lost_Ones|Lost One]]*. *No murió*; *cambió de pliegue*. **La doctrina cosmológica sostiene que** *los avatares de líneas mayores no mueren en sentido absoluto*; **migran**.
 
 **Si Arian principal muriera definitivamente** —*lo cual la doctrina decadiana considera inviable en condiciones cosmológicas normales*—, *los otros avatares* **probablemente sobrevivirían operando bajo su propia función específica**. *La cadena se debilitaría*, *pero no se cerraría*.
 
@@ -171,11 +171,11 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 
 ## El sexto avatar y los pliegues por abrir
 
-**El archivo cosmológico anticipa al menos un sexto avatar** de la Línea Arian que aún no se ha consolidado plenamente. *Su geografía hipotética*: **un pliegue cosmológico que el cosmos extendido aún no ha abierto plenamente** —*posiblemente vinculado con las Plataformas de Vala-Ely en su fase estancada*, *posiblemente vinculado con el cosmos de Krile que **[[Cristo_Leon|Cristo León]]** ha co-dirigido*, *posiblemente vinculado con geografías cosmológicas que el archivo no ha terminado de catalogar*—.
+**El archivo cosmológico anticipa al menos un sexto avatar** de la Línea Arian que aún no se ha consolidado plenamente. *Su geografía hipotética*: **un pliegue cosmológico que el cosmos extendido aún no ha abierto plenamente** —*posiblemente vinculado con las [[Plataformas_de_Vala_Ely|Plataformas de Vala]]-Ely en su fase estancada*, *posiblemente vinculado con el cosmos de Krile que **[[Cristo_Leon|Cristo León]]** ha co-dirigido*, *posiblemente vinculado con geografías cosmológicas que el archivo no ha terminado de catalogar*—.
 
 **El sexto avatar** *operaría* **con función específica de su pliegue**, *manteniendo consistencia interior con los otros cinco*, **completando o expandiendo el esquema cuádruple capas+columnas** en dirección que el cronista mayor anticipa pero no fija.
 
-*Tony Malatesta —del compilado de Caldero— es candidato tentativo*: **"el mago de ideas extrañas"**, *"negocia con vampiros"*, *"sus conjuros incluyen complejas adivinaciones y hechizos de control"*, *"se mezcla con la saga de Talia Cristalia"*. **La operación cosmológica de Tony cruza con la Línea Arian** —*aunque también con la Casa Azul de Vala vía Talia Cristalia*—. **El archivo no fija si Tony es avatar de Arian o solo operador adyacente**.
+*[[Tony_Malatesta]] —del compilado de Caldero— es candidato tentativo*: **"el mago de ideas extrañas"**, *"negocia con vampiros"*, *"sus conjuros incluyen complejas adivinaciones y hechizos de control"*, *"se mezcla con la saga de [[Thalia_Cristalia|Talia Cristalia]]"*. **La operación cosmológica de Tony cruza con la Línea Arian** —*aunque también con la Casa Azul de Vala vía Talia Cristalia*—. **El archivo no fija si Tony es avatar de Arian o solo operador adyacente**.
 
 ---
 
@@ -186,7 +186,7 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 - [[Arian|el avatar arlequín]] — avatar del Foso
 - [[Caladan]] — avatar del dominio brumoso
 - **Lucky** — avatar de Caldero (ficha pendiente)
-- [[Sagrada_Orden_la]] — orden formativa de Arian, [[Las_4_A|Las 4 A]]
+- [[Sagrada_Orden|Sagrada Orden]] — orden formativa de Arian, [[Las_4_A|Las 4 A]]
 - [[Master_Malakita]] — sombra del avatar Caladan
 - [[Sven]] — pareja escénica del Foso del avatar Adam Arlequín
 - [[Innombrable|el Innombrable]] — posible sombra del avatar Arian primigenio
@@ -198,22 +198,22 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 - [[Anti_Inferno|la figura del segundo círculo]] — línea paralela Foso/Antiterra
 - [[Maristo]] / [[Maristo_condenado]] — línea paralela cosmos extendido/Foso
 - [[Reunidos_los_TG]] — cosmogonía gris (acepción primaria del término Reunidos)
-- [[Universo_Dual_TG]] — sistema de Torregrises/Torreluces, dualidad persona/sombra
+- [[Universo_Dual_TG]] — sistema de [[Torregrises]]/[[Torreluces]], dualidad persona/sombra
 - [[Juego_de_las_Sombras_Plataformas_Zodiacales]] — infraestructura cosmológica subyacente
-- [[Eisagogika]] — Isagógica de Pablo, doctrina de las columnas
+- [[Eisagogika]] — [[Eisagogika|Isagógica]] de Pablo, doctrina de las columnas
 - [[Columna_concepto]] — eje abstracto cosmológico
 - [[Los_Cuatro_Pilares]] — estructura mayor del cosmos extendido
 - [[Papas_Borg]] — fuerza papal que ocupa geografías de la Línea Arian sin ser de la línea
 - [[Capilla_Oscura]] — locus cosmológico donde líneas se cruzan operativamente
 - [[Cristo_Leon]] / Mundo de Krile — pliegue cosmológico anticipado del sexto avatar
-- **Tony Malatesta** — candidato tentativo al sexto avatar o operador adyacente
+- **[[Tony_Malatesta]]** — candidato tentativo al sexto avatar o operador adyacente
 
 ## Apariciones
 
 - **Primigenio cosmológico** — manifestación de Arian como elfo divinizado, el 25.º sol
-- **Formación en la Sagrada Orden de Tanastias** — Arian como aprendiz de las 4 A
+- **Formación en la Sagrada Orden de [[Tanastias]]** — Arian como aprendiz de las 4 A
 - **C63** — manifestación del avatar Auro como héroe del ciclo intermedio
 - **Foso del Descenso** — manifestación del avatar Adam Arlequín como paladín-arlequín
 - **Ardisvala y dominio brumoso de Valakhan** — manifestación del avatar Caladan vampirizado y darklord
-- **Caldero ciclo presente** — manifestación del avatar Lucky en La Jabalina
-- **Sexto avatar anticipado** — pliegue por abrir; geografía no fijada
+- **Caldero ciclo presente** — manifestación del avatar Lucky en [[La_Jabalina]]
+- **Sixto avatar anticipado** — pliegue por abrir; geografía no fijada

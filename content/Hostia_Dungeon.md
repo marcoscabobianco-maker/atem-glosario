@@ -9,4 +9,13 @@ aliases:
 ![[Imagenes_Tier1/Hostia_Dungeon.png]]
 <!-- /HEADER_IMG -->
 
-Corredor infernal con paredes de hostias-wafers con bocas.
+Corredor infernal con paredes de hostias-wafers con bocas. Espacio liminal de horror litúrgico invertido — la inversión de la hostia como cuerpo sagrado apunta a mecánica demoníaca. Las hostias blancas y negras como dualidad sacrificial aparecen también en rituales vinculados a [[Murmur]]; este dungeon materializa esa inversión como arquitectura.
+
+## Vinculos
+
+- [[Hostias_blancas_y_negras]] — la misma iconografía litúrgica invertida en formato ritual; la dualidad blanco/negro como firma del culto demoníaco
+- [[Murmur]] — duque demoníaco cuyo culto usa la mecánica de la hostia invertida
+- [[Abismo]] — plano infernal del que este corredor toma su estética de horror cosmológico
+- [[Baator]] — los nueve infiernos como referencia arquitectónica de corredores de tortura
+- [[Sigil]] — Ciudad de las [[Puertas]] donde los planos se comunican; puerta posible de acceso a este espacio
+- [[Asmodeus]] — gran diablo del contrato infernal; la inversión litúrgica del dungeon resuena con su dominio

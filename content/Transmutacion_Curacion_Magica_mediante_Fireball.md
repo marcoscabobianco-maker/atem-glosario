@@ -10,7 +10,6 @@ aliases:
 
 ## Presentación
 
-**Tipo:** Variante mágica, alquimia/magia hermética
-**Descripción:** [[Reynaud|Reynaud]] transmuta bola de fuego (hechizo ofensivo nivel 4) para curación en lugar de daño. "Bola de luz" que cura grupo en lugar de dañar.
-**Mecánica:** Daño subdual convertido a curación (fórmula no completamente clara en archivos). Grupo se recupera de heridas mediante magia de fuego transmutado.
-**Significancia:** Innovación mágica del grupo. Muestra versatilidad de clérigo/mago erudito. Liderazgo táctica mágica.
+**Tipo:** Variante mágica — alquimia/magia hermética
+
+[[Michel|Michel]] transmutó una bola de fuego — empleada habitualmente como hechizo ofensivo — para que irradiase curación en lugar de destrucción. La "bola de luz" resultante envolvió al grupo y cerró sus heridas. Es una de las aplicaciones heterodoxas de la magia erudita que caracteriza el arte de [[Michel]] en el [[Anti_Inferno|Descenso]].

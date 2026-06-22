@@ -35,7 +35,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada aquí en p
 
 **La Atlántida del cosmos compartido se reparte en dos pisos**:
 
-**Alta Atlántida** —**sede del [[Cakravartin|Crakavartín]]**, soberano cósmico que regula el [[Juego_de_las_Sombras]] desde su trono central—. *Es el piso operativo*: ciudad de torres luminosas, observatorios astrales, mesas de cogobierno con embajadas de los planos exteriores. **El Cakravartin no gobierna por decreto**: gobierna **por administración del Juego**, *organizando las plataformas zodiacales que estructuran el eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]* desde 1784.
+**Alta Atlántida** —**sede del [[Cakravartin|Cakravartin]]**, soberano cósmico que regula el [[Juego_de_las_Sombras]] desde su trono central—. *Es el piso operativo*: ciudad de torres luminosas, observatorios astrales, mesas de cogobierno con embajadas de los planos exteriores. **El [[Cakravartin]] no gobierna por decreto**: gobierna **por administración del Juego**, *organizando las plataformas zodiacales que estructuran el eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]* desde 1784.
 
 **Baja Atlántida** —**extensión territorial**, *piso habitable más amplio*—: las tierras anegadas que rodean la sede central, **poblaciones de razas marinas y semi-marinas** que el archivo registra sin nombrar entera (los **Mercanos azules** llegan a sus puertos como en otros sitios, **los hombres-pez de las costas profundas** habitan ciudades menores en las trincheras vecinas). *La Baja sostiene la Alta como el suburbio sostiene a la capital*.
 
@@ -53,9 +53,9 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada aquí en p
 
 ## El arco de Los Profundos
 
-**[[Los_Profundos]] alcanzaron la Atlántida en su arco atlante**, *recibidos como huéspedes del [[Cakravartin]]*. **El recibimiento no fue protocolar**: **el Cakravartin reconoció en ellos encarnaciones anteriores que ya habían descendido en otras eras**, *cuando él mismo era todavía rey y no sustituto*. **La hospitalidad atlante** —el archivero del Plata anota— **no se cobra en dinero**: **se cobra en relato**. *Quien come en la mesa del Cakravartin debe contar entera la historia que lo trajo allí*, y **debe contarla aunque le duela**.
+**[[Los_Profundos]] alcanzaron la Atlántida en su arco atlante**, *recibidos como huéspedes del [[Cakravartin]]*. **El recibimiento no fue protocolar**: **el [[Cakravartin]] reconoció en ellos encarnaciones anteriores que ya habían descendido en otras eras**, *cuando él mismo era todavía rey y no sustituto*. **La hospitalidad atlante** —el archivero del Plata anota— **no se cobra en dinero**: **se cobra en relato**. *Quien come en la mesa del Cakravartin debe contar entera la historia que lo trajo allí*, y **debe contarla aunque le duela**.
 
-**El Jardinero comunicó visiones a Los Profundos en aquel arco** —*memoria akásica de cuando el Cakravartin era rey bajo las aguas y no sustituto, ciudad plagada de dragones sobre el Mar de la Culpa*—. **Las visiones no fueron información**: **fueron reconocimiento**.
+**El Jardinero comunicó visiones a [[Los_Profundos]] en aquel arco** —*memoria akásica de cuando el Cakravartin era rey bajo las aguas y no sustituto, ciudad plagada de dragones sobre el [[Mar_de_la_Culpa]]*—. **Las visiones no fueron información**: **fueron reconocimiento**.
 
 ---
 
@@ -67,7 +67,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada aquí en p
 
 ## Vínculos
 
-- [[Cakravartin]] / [[Crakavartin]] — soberano de la Alta
+- [[Cakravartin]] / [[Cakravartin]] — soberano de la Alta
 - [[Gran_Khan]] — soberano por concesión en el ciclo siguiente
 - [[Los_Profundos]] — grupo que la visitó como huésped
 - [[Juego_de_las_Sombras]] — sistema cósmico que se administra desde la Alta
@@ -76,12 +76,12 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada aquí en p
 - [[El_Jardinero_Atlantida|el Jardinero]] — custodio del laberinto central
 - [[Ur-Draxa]] — la ciudad-laberinto
 - [[Mar_de_la_Culpa]] — el océano memorioso que la rodea
-- [[Antiterra_Demonia]] — el eje A.D.A. al que pertenece
+- [[Antiterra_Demonia]] — el eje [[Anno_Domini_Antiterra_ADA|A.D.A.]] al que pertenece
 - [[Akala]]
 
 ## Apariciones
 
-- **Eje A.D.A. continuo** — sede del Cakravartin, regulación del Juego de las Sombras
+- **Eje [[Anno_Domini_Antiterra_ADA|A.D.A.]] continuo** — sede del Cakravartin, regulación del Juego de las Sombras
 - **1784 A.D.A. — instalación del Juego de las Sombras** — desde la Alta
-- **Arco atlante de Los Profundos** — recibimiento, visiones akásicas
-- **Sucesos de Antiterra p.6-8, p.17** — referencias documentales mayores
+- **Arco atlante de [[Los_Profundos]]** — recibimiento, visiones akásicas
+- **[[Sucesos_de_Antiterra]] p.6-8, p.17** — referencias documentales mayores

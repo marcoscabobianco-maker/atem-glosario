@@ -20,7 +20,7 @@ tags:
 
 ---
 
-*210 entradas inscritas. 1881 entradas del archivo aún esperan su lugar en la rueda. La crónica se renueva conforme la amanuense halla en los cuadernos una fecha que no había anotado.*
+*256 entradas inscritas. 2042 entradas del archivo aún esperan su lugar en la rueda. La crónica se renueva conforme la amanuense halla en los cuadernos una fecha que no había anotado.*
 
 ---
 
@@ -42,8 +42,8 @@ tags:
 - **siglo III d.C. — atestados durante la fuga de GRDT y KAXA** — [[Foros_subterraneos_Roma|Los Foros Subterráneos de Roma]]
 - **compuesto en Alejandría, siglo IV; en circulación material desde entonces hasta el ciclo presente** — [[Libro_Azul|El Libro Azul]]
 - **siglo IV; persistencia atestada hasta el ciclo presente** — [[Pablo_de_Alejandria|Pablo de Alejandría]]
-- **noche fundacional del Imperio Archonteo, año 0 AEP por la cuenta calendárica vigente** — [[Pacto_de_Elias_Elias_Ennio|Pacto de Elías]]
 - **siglo III d.C.; ya semirruina entonces** — [[Termas_de_Roma|Las Termas de Roma]]
+- **noche fundacional del Imperio Archonteo, año 1 AEP por la cuenta calendárica vigente (sin año cero)** — [[Pacto_de_Elias_Elias_Ennio|Pacto de Elías]]
 - **siglo III d.C. — fuga de GRDT atestada en ca. 230 d.C.** — [[Puente_Sublicio|El Puente Sublicio]]
 - **275 A.D.A. — Alejandría antiterrana, valle del Nilo** — [[Neferu_La_Estranguladora_del_Nilo|Neferu — la Estranguladora del Nilo]]
 - **378 d.C. — Edad de los Imperios — firmado por Paulus en Alejandría** — [[Eisagogika|Eisagogika]]
@@ -138,7 +138,7 @@ tags:
 - **ex-casa de mago excéntrico cuya identidad no se preserva; alquilada por La Jabalina en el ciclo presente (1824 AE)** — [[Bastardo_Cromas|El Bastardo Cromas]]
 - **miembro fundador de La Jabalina; activo en el ciclo presente (1824 AE)** — [[Belicio|Belicio]]
 - **profecía cosmológica activa en el ciclo presente (1824 AE); operación ritual anticipada para próximo ciclo** — [[Cageewrights|Los Cageewrights]]
-- **fundada en el primigenio sobre cráter de volcán dormido; activa en el ciclo presente (1824 AE)** — [[Caldero|Caldero]]
+- **1824 AE — Cristal (fundada en el primigenio sobre cráter de volcán dormido; activa en el ciclo presente)** — [[Caldero|Caldero]]
 - **funcionario imperial activo en el ciclo presente (1824 AE)** — [[Capitan_Skellerang|Capitán Skellerang]]
 - **consolidación nobiliaria temprana de Caldero; vigencia activa en el ciclo presente (1824 AE)** — [[Casa_Frame_Rhivadi|Casa Frame Rhivadi]]
 - **facción clandestina activa en el ciclo presente (1824 AE)** — [[Compania_de_la_Risa|La Compañía de la Risa]]
@@ -176,9 +176,8 @@ tags:
 - **fecha precisa no fijada en el archivo del cosmos extendido; evento bisagra entre el ciclo templario y el ciclo de los Reguladores** — [[Destruccion_de_Notre_Dame|La destrucción de Notre Dame]]
 - **circulación continua desde un Ragnarok frustrado; tránsitos sucesivos en manos templarias y heréticas** — [[Lamentacion_de_los_que_no_tienen_fe|Lamentación de los que no tienen fe]]
 - **atestado en el episodio constantinopolitano de Olaus Wormius; recurso recurrente del archivo cronomántico** — [[Mensaje_de_si_mismo_carta_temporal|La carta del propio yo]]
-- **ciclo templario — compañero efímero pero de oficio central** — [[Michel|Michel]]
+- **ciclo templario — primer compañero de la serie; activo hasta casi el final del ciclo** — [[Michel|Michel]]
 - **post-disolución de la Orden del Temple; activa en ciclos sucesivos como pliegue de penitencia** — [[Oscuridad_Templaria|La Oscuridad Templaria]]
-- **ciclo templario — primer compañero virtual de la serie TE** — [[Reynaud|Reynaud]]
 - **Reconquista — fase templaria activa** — [[Rolando_Capitan|Rolando, Capitán Templario]]
 - **operación trans-geográfica continuada desde fase anterior al cómputo conocido; activos en eventos cosmológicos mayores** — [[Templarios_del_Tiempo|Templarios del Tiempo]]
 - **operación documentada en el ciclo de los Time Bandits; ritual del bucle de 5 años en Constantinopla 1055→1050** — [[Fruto_del_Conocimiento|El Fruto del Conocimiento]]
@@ -207,6 +206,7 @@ tags:
 - **anacronismo deliberado: armadura de placas en vísperas de la Guerra Civil norteamericana; arco de mesa: Boreales → Reguladores → Libertateurs** — [[Bloom|Bloom]]
 - **Antiterra siglo XVIII — gesta de Les Libertateurs** — [[Magda|Magda — la bruja del azar]]
 - **innovación tecnológico-mágica activa desde la aceleración de la Revolución Industrial Mágica** — [[Milagro_de_Miles|El Milagro de Miles]]
+- **París — referencia a 1715 A.D.A.** — [[Paris_Bien_Vale_una_Misa|París Bien Vale una Misa]]
 - **1717-1784 A.D.A. — Edad de las Revoluciones — paso por Aries** — [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]]
 - **Revolución Americana en versión Antiterra (1784); reaparición en arcos rusos hasta 1917** — [[General_Hessiano|El General Hessiano]]
 - **instalado en 1784 A.D.A. en Antiterra; matriz operativa hasta el ciclo final de 1901** — [[Juego_de_las_Sombras_Plataformas_Zodiacales|El Juego de las Sombras (las Doce Plataformas Zodiacales)]]
@@ -219,7 +219,7 @@ tags:
 
 *El siglo XIX largo, expansión del oficio.*
 
-- **Belle Époque uchrónica; en tránsito desde manos templarias a paganas** — [[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica / Bengala Crónica]]
+- **Belle Époque uchrónica; en tránsito desde manos templarias a paganas** — [[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica / Bengala Sucrónica]]
 - **Belle Époque uchrónica — actividad documentada en los clubes parisinos de aves; reapariciones intermitentes en sitios de guerra y de comunicación cifrada** — [[Corvino|Corvino]]
 - **Belle Époque uchrónica — cualquier hora del Palacio del Tiempo** — [[Cronoboys|Cronoboys]]
 - **Antiterra — Belle Époque uchrónica francesa bajo virreinato británico** — [[Lord_Gaul|Lord Gaul]]
@@ -245,7 +245,7 @@ tags:
 
 *El acontecimiento 1888-1901 A.D.A..*
 
-- **1888-1901 A.D.A. — Edad del Apocalipsis — destrucción** — [[Antiterra|Antiterra — documento setting 2011]]
+- **1888-1901 A.D.A. — Edad del Apocalipsis — destrucción** — [[Antiterra_setting_2011|Antiterra — documento setting 2011]]
 - **Antiterra 1888-1889; tránsitos posteriores** — [[Henri_La_France|Henri La France]]
 - **1888 A.D.A. — Edad del Apocalipsis — enfrentan Aries y Tauro** — [[Los_Reguladores|Los Reguladores]]
 - **España 1888 — antes del traslado a Madrid** — [[Miguelito|Miguelito]]
@@ -284,6 +284,51 @@ tags:
 - **paladina cristalina de la Casa Azul de Vala; identidad oculta de Swedenborg en el Anti-Inferno; madre de Vitalis** — [[Thalia_Cristalia|Thalia Cristalia]]
 - **Edad del Descenso — consecuencias del sacrificio** — [[Tras_el_Apocalipsis_1889|Tras el Apocalipsis de 1889]]
 - **Edad del Descenso — nuevo compañero post-sacrificio** — [[Viajero_de_Planos|Viajero de Planos]]
+- **fundada hacia 1928; activa en 1966, durante el descenso bajo las Malvinas** — [[Majestic|Majestic]]
+- **1966 — descenso bajo las Malvinas** — [[Abuela_Echegoyen|Abuela Echegoyen]]
+- **1966 — después del descenso bajo las islas** — [[Alberto_Buscaglia|Dr. Alberto Buscaglia]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Antonio_Portet|Antonio Portet]]
+- **1966 — interna sindical peronista y antesala del descenso** — [[Armando_Cabo|Armando Cabo]]
+- **1966 — descenso bajo las Malvinas** — [[Arquimedes|Arquímedes]]
+- **1966 — Buenos Aires, tras el descenso bajo las Malvinas** — [[Basilica_del_Sagrado_Corazon_Barracas|Basílica del Sagrado Corazón (Barracas)]]
+- **1966 — descenso bajo las Malvinas** — [[Castillo_en_ruinas_y_mazmorras|El castillo en ruinas y las mazmorras]]
+- **1966 — el descenso bajo las islas** — [[Cenizas_y_diamantes_pasion|«Cenizas y diamantes, pasión»]]
+- **1966 — el descenso bajo las Malvinas** — [[Citroen_2CV|Citroën 2CV (robado)]]
+- **1966 — Buenos Aires, tras el descenso bajo las Malvinas** — [[Dr_Lanari|Dr. Lanari]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Dulce_Holler|Dulce Holler]]
+- **1966 — la trama política sobre el descenso de las Malvinas** — [[El_Millon_Avilion|El Millón (Avilión)]]
+- **1966 — el descenso bajo las Malvinas** — [[Ernesto_Echegoyen|Ernesto «el Pupe» Echegoyen]]
+- **1966 — el descenso bajo las Malvinas** — [[Estancia_Echegoyen|La estancia Echegoyen]]
+- **1966 — el descenso bajo las Malvinas** — [[Faro_de_Claromeco|Faro de Claromecó]]
+- **1966 — antes y durante el descenso bajo las Malvinas** — [[Harrington|Harrington]]
+- **1966 — descenso bajo las Malvinas (Operativo Cóndor)** — [[Hospital_Borda|Hospital Borda]]
+- **1966 — del Operativo Cóndor al descenso bajo las islas** — [[Irene_Kowalski|Irene Kowalski]]
+- **1966 — el descenso bajo las Malvinas** — [[Jorge_Moreno|Jorge Moreno]]
+- **1966 — descenso bajo las Malvinas** — [[La_caja_el_barril|La caja / el barril]]
+- **1966 — descenso bajo las Malvinas** — [[La_carta_de_30_paginas|La carta de 30 páginas]]
+- **1966 — el descenso bajo las Malvinas** — [[Laura_Echegoyen|Laura Echegoyen]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Logia_Anael|Logia Anael]]
+- **1966 — Buenos Aires, tras el descenso bajo las Malvinas** — [[Logia_Hijos_del_Trabajo|Logia Hijos del Trabajo]]
+- **1966 — descenso bajo las islas del Atlántico Sur** — [[Los_Cthonianos|Los cthonianos]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Lucio_Gelli_P2_Propaganda_Due|Lucio Gelli / Propaganda Due]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Malena|Malena]]
+- **1966 — Buenos Aires, tras el descenso bajo las Malvinas** — [[Malnati|Malnati]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Mariano_Lobos|Mariano Lobos]]
+- **1966 — el descenso bajo las Malvinas** — [[Mesocraton_del_Deseado|El mesocratón del Deseado]]
+- **1966–1967 — tras el descenso bajo las Malvinas** — [[Moneda_totem|La moneda-tótem]]
+- **1966 — el descenso bajo las Malvinas** — [[Monumento_de_Huesos_de_Ballena|Monumento de Huesos de Ballena]]
+- **1966 — descenso bajo las Malvinas** — [[Mordecai|Mordecai]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Natalya|Natalya]]
+- **1966 — después del descenso bajo las islas** — [[Nestor_Falkowski|Lic. Néstor Falkowski]]
+- **1966 — el descenso bajo las Malvinas** — [[Operacion_Northern_Lighthouse|Operación Northern Lighthouse]]
+- **1966 — durante el descenso bajo las Islas Malvinas** — [[Pactos_oniricos|Los pactos oníricos]]
+- **1966 — del Operativo Cóndor al descenso bajo las islas** — [[Ricardo_Moretti|Ricardo Moretti]]
+- **1966 — del Operativo Cóndor al descenso bajo las Malvinas** — [[Romulo_Ezzayeche|Rómulo Ezzayeche]]
+- **1966–1967 — tras el descenso bajo las Malvinas** — [[Shobot|Shobot]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Top_Malo|Top Malo]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Uriel_Urien|Uriel]]
+- **1966 — interna sindical peronista, antesala del descenso bajo las islas** — [[Vandor|Vandor]]
+- **1966 — Operativo Cóndor y descenso bajo las islas** — [[Yoel|Yoel]]
 
 ## 12 — Edad del Mundo Nuevo
 
@@ -291,6 +336,7 @@ tags:
 
 - **Northern Crown — siglo XVII tardío** — [[Concilio_Tribal_NC|Concilio Tribal — la noche del fuego]]
 - **doctrina alquímica continuada; aplicación moderna en el subterráneo TNW** — [[Corazon_de_Plomo_Alquimia_de_Transmutacion_TNW|Corazón de Plomo — Alquimia de Transmutación]]
+- **Edad del Mundo Nuevo — América alternativa siglo XVII** — [[Corona_del_Norte|Corona del Norte]]
 - **ciclo TNW, despliegue de la 345ª Fuerza Motorizada** — [[Dimitri_TNW|Dimitri Ivanov]]
 - **siglo XVII Northern Crown; tránsito que no termina** — [[Flying_Dutchman_Holandes_Errante|Flying Dutchman — el Holandés Errante]]
 - **Edad del Mundo Nuevo — corpus Gary** — [[Gary_TNW|Gary TNW (campaña)]]

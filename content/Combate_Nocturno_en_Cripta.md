@@ -19,5 +19,5 @@ aliases:
 
 - Participantes
 - Localización
-- [[Alexio_muere|Alexio muere]]
+- [[Alexio_Anacronismo|Alexio muere]]
 - Consecuencias

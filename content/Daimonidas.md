@@ -21,7 +21,7 @@ tags:
 
 ## Presentación
 
-Daimonidas es **elfo negador** y figura entre los discípulos que pasaron por el taller de **Arcoms Cosmar** en sus últimos años, cuando el Maestro Bibliotecario formaba aprendices en el concilio de Myth Drannor. Comparte mesa de aprendizaje con una Dama del Dolor y con Moran Atias, la hija de Elhenor. De ese cruce de discípulos —cada uno de un linaje y de un destino distinto— sale una parte sustancial de las generaciones mágicas que vendrán después.
+Daimonidas es **elfo negador** y figura entre los discípulos que pasaron por el taller de **[[Arcoms_Cosmar]]** en sus últimos años, cuando el Maestro Bibliotecario formaba aprendices en el concilio de [[Myth_Drannor]]. Comparte mesa de aprendizaje con una [[Dama_del_Dolor]] y con [[Moran_Atias]], la hija de [[Elhenor]]. De ese cruce de discípulos —cada uno de un linaje y de un destino distinto— sale una parte sustancial de las generaciones mágicas que vendrán después.
 
 Su característica más nombrada en el archivo es la **negación** —de qué exactamente, las fuentes no terminan de aclarar—. Es un nombre que aparece en las márgenes de las crónicas, sin que su arco principal esté todavía registrado por extenso.
 

@@ -11,5 +11,5 @@ referenciado_por: 3
 Esta entrada es mencionada desde:
 
 - [[Mani]]
-- [[Amonio_Sacas_stub_MC]]
+- [[Amonio_Sacas]]
 - [[Antioquia_de_Siria_stub_MC]]

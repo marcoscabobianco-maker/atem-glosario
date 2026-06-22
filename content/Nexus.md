@@ -29,7 +29,7 @@ tags:
 
 Las tres palabras que el archivo conjuga en Nexus operan en planos distintos:
 
-- **[[Sigil]]** — la Ciudad de las Puertas del lore Planescape. Centro planar conocido, nodo de portales. Lo que el setting **tiene de fáctico** como nexo entre planos.
+- **[[Sigil]]** — la Ciudad de las [[Puertas]] del lore Planescape. Centro planar conocido, nodo de portales. Lo que el setting **tiene de fáctico** como nexo entre planos.
 - **Sogol** — *Sigil* leída al revés (anagrama especular). Lo que el setting tiene de **inverso, oculto, refractado**. La forma especular de la ciudad de las puertas.
 - **Logos** — la palabra, la razón, el principio griego del orden inteligible. Lo que el setting tiene de **fundamento conceptual** —la idea como sustancia, el verbo como creador—.
 
@@ -58,13 +58,13 @@ El archivo lista cabos pendientes:
 
 ## Vínculos
 
-- [[Sigil]] — la Ciudad de las Puertas (componente uno)
+- [[Sigil]] — la Ciudad de las [[Puertas]] (componente uno)
 - **Sogol** — Sigil al revés, anagrama especular (componente dos)
 - **Logos** — principio del verbo y de la razón (componente tres)
 - [[Los_Supremos]] / Triunvirato — quienes la designan como constante del Multiverso
 - [[Vara_del_Infinito]] — mega-artefacto del cierre que la habilita
 - [[Arian]] — portador de la Gema, autor de la cosmología de posibilidades infinitas
-- [[Tailoor]], [[Antino]], [[Sheridron]], [[Juve]], [[Garkhan]], [[Shakes]], [[Auro]] — panteón inicial nacido en Nexus (parte de él vinculado a Vala Antigua)
+- [[Tailoor]], [[Antino]], [[Sheridron]], [[Juve]], [[Garkhan]], [[Shakes]], [[Auro]] — panteón inicial nacido en Nexus (parte de él vinculado a [[Vala_Antigua]])
 - [[Rantar_Alfa]] — referencia ligada
 - [[Torneo_de_la_Torre_Eiffel]] — evento del que vienen las almas raptadas
 

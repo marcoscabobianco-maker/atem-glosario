@@ -25,13 +25,13 @@ imagen: null
 ---
 # El Bastardo Cromas
 
-> *"Tras firmar un jugoso contrato de 600 monedas de oro por tres meses, estos héroes en ascenso se han mudado a la ex-casa de un mago (¿un brujo? ¿un bribón arcano?) conocida cariñosamente como 'El Bastardo Cromas'."* — *Gossip & Style: Caldero Edition*.
+> *"Tras firmar un jugoso contrato de 600 monedas de oro por tres meses, estos héroes en ascenso se han mudado a la ex-casa de un mago (¿un brujo? ¿un bribón arcano?) conocida cariñosamente como 'El Bastardo Cromas'."* — *Gossip & Style: [[Caldero]] Edition*.
 
 ---
 
 ## La casa del mago
 
-**El Bastardo Cromas** —*"Casa Cromas"* en pliegos formales, *"el Bastardo Cromas"* en boca corriente con su carga afectuosa y burlona— **es sede operativa de [[La_Jabalina]]** en el ciclo presente. **Ex-casa de un mago excéntrico de Caldero** *cuya identidad no se preserva con detalle en el archivo*: **brujo, bribón arcano, o ambos**. *El nombre del lugar* **opera con eco del nombre del mago** —*"Cromas"*— **con el apelativo "bastardo"** *que el populacho añadió* **por la disposición no muy ortodoxa de la casa**, *por las anécdotas que rodean al antiguo propietario*, *o por simple cariño irreverente*.
+**El Bastardo Cromas** —*"Casa Cromas"* en pliegos formales, *"el Bastardo Cromas"* en boca corriente con su carga afectuosa y burlona— **es sede operativa de [[La_Jabalina]]** en el ciclo presente. **Ex-casa de un mago excéntrico de [[Caldero]]** *cuya identidad no se preserva con detalle en el archivo*: **brujo, bribón arcano, o ambos**. *El nombre del lugar* **opera con eco del nombre del mago** —*"Cromas"*— **con el apelativo "bastardo"** *que el populacho añadió* **por la disposición no muy ortodoxa de la casa**, *por las anécdotas que rodean al antiguo propietario*, *o por simple cariño irreverente*.
 
 *Contrato firmado*: **600 monedas de oro por tres meses**. **Operación rentable a corto plazo**: *los aventureros del grupo* **disponen de sede en el centro de Caldero** *con todas las facilidades arcanas que el mago dejó tras su partida*. **Operación inquietante a largo plazo**: *la casa* **conserva residuos arcanos** *que no han sido neutralizados plenamente*.
 
@@ -45,7 +45,7 @@ imagen: null
 - **Ecos de risitas de salamandras** *que el mago tenía como familiares o como decoración arcana*.
 - **Objetos con encantamientos residuales** *que el mago dejó al partir* —*libros que pasan páginas solos*, *velas que se encienden sin llama visible*, *espejos que muestran reflejos con ligero retraso*—.
 
-*Foggimer opera con **candelas de luz mágica*** en el salón principal **en parte para disipar los residuos arcanos del antiguo mago**. *La luz disciplinada del clérigo* **neutraliza poco a poco la magia residualmientras consagra la sede a la doctrina del polo luminoso**.
+*[[Fogimer|Foggimer]] opera con **candelas de luz mágica*** en el salón principal **en parte para disipar los residuos arcanos del antiguo mago**. *La luz disciplinada del clérigo* **neutraliza poco a poco la magia residualmientras consagra la sede a la doctrina del polo luminoso**.
 
 ---
 
@@ -71,15 +71,15 @@ imagen: null
 
 ### Sótano: Sila + Belicio
 
-**[[Scylla|Sila]] deambula a horas sospechosas**; **[[Belicio]] practica sus rutinas de combate a media noche, sin camisa, por supuesto**. *¿Secta oculta? ¿Fiestas clandestinas?*, **especula la prensa**. *Realidad operativa*: **meditación shadowfelliana de Sila + entrenamiento intenso de Belicio**.
+**[[Scylla|Sila]] deambula a horas sospechosas**; **[[Belicio]] practica sus rutinas de combate a media noche, sin camisa, por supuesto**. *¿Secta oculta? ¿Fiestas clandestinas?*, **especula la prensa**. *Realidad operativa*: **meditación shadowfelliana de Sila + entrenamiento intenso de [[Belicio]]**.
 
 ---
 
 ## El Bastardo Cromas como personaje de la ciudad
 
-**El Bastardo Cromas opera como nodo social de Caldero**: **tabernas de los niveles medios envían clientes**, **prensa sensacionalista publica especulaciones**, **vecinos curiosos pasan por la calle observando ventanas iluminadas**. *La fama opera con doble filo*: **el grupo gana visibilidad pero pierde clandestinidad operativa**. *Lo cual* **es problema cosmológico**: **cuando La Jabalina opera contra antagonistas que requieren sigilo (Compañía de la Risa, Valanthru, Titti Frame)**, *la visibilidad del Bastardo Cromas opera contra ellos*.
+**El Bastardo Cromas opera como nodo social de Caldero**: **tabernas de los niveles medios envían clientes**, **prensa sensacionalista publica especulaciones**, **vecinos curiosos pasan por la calle observando ventanas iluminadas**. *La fama opera con doble filo*: **el grupo gana visibilidad pero pierde clandestinidad operativa**. *Lo cual* **es problema cosmológico**: **cuando [[La_Jabalina]] opera contra antagonistas que requieren sigilo (Compañía de la Risa, [[Lord_Valanthru|Valanthru]], [[Titti_Frame]])**, *la visibilidad del Bastardo Cromas opera contra ellos*.
 
-[*El mago que vivió aquí antes era figura cosmológica menor cuya identidad el archivo no preserva. Pero su residencia conserva su huella; lo que el grupo opera, el lugar lo modula. La doctrina cosmológica de los lugares con historia es así: el lugar pasa el peso al que lo habita. La Jabalina lo recibe con o sin conciencia plena. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*El mago que vivió aquí antes era figura cosmológica menor cuya identidad el archivo no preserva. Pero su residencia conserva su huella; lo que el grupo opera, el lugar lo modula. La doctrina cosmológica de los lugares con historia es así: el lugar pasa el peso al que lo habita. [[La_Jabalina]] lo recibe con o sin conciencia plena. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 

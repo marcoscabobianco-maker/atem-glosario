@@ -14,7 +14,7 @@ aliases:
 
 Grupo aventurero asociado a la ciudad de [[Teodora]].
 
-*Miembros:* **[[Racho]]**, **Señora**, **Petrobomba**
+*Miembros:* **[[Racho]]**, **Señora**, **[[Petrobomba]]**
 
 ## Ver también
 

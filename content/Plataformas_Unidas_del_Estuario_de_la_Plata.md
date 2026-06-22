@@ -1,34 +1,27 @@
 ---
-tags: [NCR, UI, rosismo, 1838, ucronia, lugar]
-meta: M
-image: _assets/NCR/Plataformas_Unidas_del_Estuario_de_la_Plata__UI_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags:
+ - "lugar"
+ - "ncr"
+ - "rosismo"
+ - "entidad-política"
+ - "confederacion"
+aliases:
+ - "Plataformas Unidas del Estuario de la Plata"
+ - "Plataformas Unidas"
+ - "República de la Plata"
 ---
 
-# Plataformas Unidas del Estuario de la Plata (UI)
+# Plataformas Unidas del Estuario de la Plata
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/NCR/Plataformas_Unidas_del_Estuario_de_la_Plata__UI_retrato.png`
-> **Prompt sugerido:** Ilustración de Plataformas Unidas del Estuario de la Plata (UI). Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Así se llama, en el vocabulario oficial de 1838, lo que en otro mundo se llamaría Confederación Argentina. El término que reemplazó a "provincia" es "plataforma": no jurisdicción romanista, no herencia colonial, sino estructura —material, técnica, jurisdiccional— sobre la que se construye algo. El cambio de palabra no es inocente. Una provincia se hereda; una plataforma se erige. El neologismo desliza todo el edificio político hacia un imaginario más cercano al ingeniero que al abogado, más cercano al muelle que al claustro.
 
-![[Plataformas_Unidas_del_Estuario_de_la_Plata__UI_retrato.png]]
+El nombre completo —Plataformas Unidas del Estuario de la Plata— aparece en documentos y discursos oficiales, aunque en la conversación cotidiana se abrevia. El "estuario" en lugar del "río" es otra variación que merece atención: el río nombra una corriente, el estuario nombra una boca, una apertura, un punto donde lo dulce y lo salado se mezclan sin que ninguno gane del todo. La geografía ucrónica del régimen elige siempre la palabra que ensancha el territorio.
 
+El [[Coronel_Carmin]] se presenta como "gobernador e intercesor de las Plataformas Unidas de la República de la Plata", alternando entre "Confederación" y "República" según el interlocutor. La oscilación no es descuido: es política. El régimen no cierra el nombre porque un nombre cerrado es un nombre que se puede impugnar.
 
-## Capa juego
-
-Entidad política equivalente a la **Confederación Argentina** histórica. Nombre completo recogido del Master en S2 ¶0004: "las nuevas plataformas unidas del río de la Plata. No dicen provincias, dicen plataformas". S5 ¶0002 lo precisa: "las plataformas unidas del estuario de la planta".
-
-**Sustitución onomástica clave:** "Plataforma" sustituye a "Provincia". El neologismo merece análisis: una plataforma es estructura material, técnica, jurisdiccional; una provincia es jurisdicción romanista. La sustitución desliza el vocabulario hacia un imaginario más industrial / tecnológico.
-
-Carmín se hace llamar "gobernador / intercesor de las Plataformas Unidas de la **República** de la Plata" (S4 ¶0026) — usando "República" en lugar de "Confederación". Variante terminológica adicional a registrar.
-
-**Ref.:** S2 ¶0004; S4 ¶0026; S5 ¶0002.
-
-## Contraste histórico [VERIFICAR]
-
-- Histórico 1838: Confederación Argentina bajo Rosas como gobernador de Buenos Aires + Encargado de las Relaciones Exteriores. Cada provincia federalmente autónoma.
-- UI: entidad nombrada como "Plataformas Unidas", oscilando entre "República" y "Confederación".
-- "Estuario" en vez de "río": el río se convierte en estuario, marca espacial.
-
+## Vínculos
+- [[Torregrises]] — el cosmos troncal bajo cuyo nombre (Santa María de [[Torregrises]]) opera la capital rosista
+- [[Coronel_Carmin]] — figura que se erige como gobernador e intercesor de esta entidad
+- [[Fortin_de_la_Estrella_Federal]] — el punto más austral de la presencia militar de las Plataformas
+- [[Palacio_del_Lodo_Proteccion_de_la_Plata]] — base intermedia en la red de autoridad confederal

@@ -23,7 +23,7 @@ imagen: null
 
 # La Diosa del Mazo de Muchas Cosas
 
-> *"Así quedó establecido el mito fundador de Caldero: la llama de la sabiduría despertada por la diosa juguetona, unida a la fuerza primigenia del volcán, dio forma a la vida y a la unión de los distintos linajes en una sola ciudad. Aun hoy, los ancianos repiten la historia de la diosa y el Mazo de Muchas Cosas para recordar a cada generación que el fuego de la inteligencia, bien encauzado, puede forjar un hogar común en medio de las adversidades."* — Mascor Blancarba, *Apéndices & Delirios Varios*.
+> *"Así quedó establecido el mito fundador de [[Caldero]]: la llama de la sabiduría despertada por la diosa juguetona, unida a la fuerza primigenia del volcán, dio forma a la vida y a la unión de los distintos linajes en una sola ciudad. Aun hoy, los ancianos repiten la historia de la diosa y el Mazo de Muchas Cosas para recordar a cada generación que el fuego de la inteligencia, bien encauzado, puede forjar un hogar común en medio de las adversidades."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*.
 
 ---
 
@@ -47,7 +47,7 @@ imagen: null
 
 ## La fundación de Caldero
 
-**Dice la leyenda que cuando la diosa elevó por última vez su mazo**, *contempló a lo lejos una ciudad incipiente*: **Caldero**, **nacida alrededor de ese centro volcánico**, *donde distintas tribus y pueblos terminaron convergiendo*. **Comprendió entonces que la inteligencia y la diversidad** *eran los regalos más valiosos que su juego había forjado*. **Y al bajar el mazo**, **el fulgor de aquel golpe final se convirtió en el punto de reunión** *donde las culturas hallarían refugio y cooperación*.
+**Dice la leyenda que cuando la diosa elevó por última vez su mazo**, *contempló a lo lejos una ciudad incipiente*: **[[Caldero]]**, **nacida alrededor de ese centro volcánico**, *donde distintas tribus y pueblos terminaron convergiendo*. **Comprendió entonces que la inteligencia y la diversidad** *eran los regalos más valiosos que su juego había forjado*. **Y al bajar el mazo**, **el fulgor de aquel golpe final se convirtió en el punto de reunión** *donde las culturas hallarían refugio y cooperación*.
 
 *El último golpe del Mazo* **establece el lugar geográfico de la ciudad**. **Caldero existe** *porque el Mazo de Muchas Cosas marcó el sitio* **con su fulgor final**. *La doctrina del mito*: **la ciudad no es construcción humana primaria**; **es respuesta humana a la marca cosmológica**.
 

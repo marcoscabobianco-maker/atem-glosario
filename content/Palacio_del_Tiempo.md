@@ -24,7 +24,7 @@ imagen: null
 
 # Palacio del Tiempo
 
-> *"En el Palacio del Tiempo, el reloj no marca: registra. La burocracia de París Ucrónica administra el cronos como otras ciudades administran el agua: con prefectos, con tarifas, con paciencia de oficio."*
+> *"En el Palacio del Tiempo, el reloj no marca: registra. La burocracia de [[Paris_Ucronica|París Ucrónica]] administra el cronos como otras ciudades administran el agua: con prefectos, con tarifas, con paciencia de oficio."*
 
 ---
 
@@ -38,20 +38,20 @@ imagen: null
 
 ## La operación burocrática
 
-**El aparato administrativo del Palacio** *opera con doctrina específica de la Belle Époque uchrónica*: **administrar no es prohibir**. *La Prefectura del Tiempo no impide el viaje temporal*; **lo regula**. *Tarifa, registro, recibo, contrastación*. **Los Cronoboys pagan en cuerpo** *(envejecen en proporción al trayecto)*; **el Palacio cobra en archivo** *(cada viaje queda registrado)*.
+**El aparato administrativo del Palacio** *opera con doctrina específica de la Belle Époque uchrónica*: **administrar no es prohibir**. *La Prefectura del Tiempo no impide el viaje temporal*; **lo regula**. *Tarifa, registro, recibo, contrastación*. **Los [[Cronoboys]] pagan en cuerpo** *(envejecen en proporción al trayecto)*; **el Palacio cobra en archivo** *(cada viaje queda registrado)*.
 
 *Operación documentada*:
 
 - **Registro de tránsitos** — cada Cronoboy recibe pasaje único; no hay reembolso ni regreso a juventud previa.
 - **Verificación de paradojas menores** — los Prefectos del Tiempo dirimen casos donde dos versiones del mismo viajero coinciden.
-- **Coordinación con autoridades extranjeras** — *los Inevitables prusianos, los Time Bandits, otros cuerpos cronomáticos*.
+- **Coordinación con autoridades extranjeras** — *los Inevitables prusianos, los [[Time_Bandits]], otros cuerpos cronomáticos*.
 - **Custodia de archivos cronológicos** *(la columna documental que sostiene el aparato burocrático)*.
 
 ---
 
 ## Las figuras del aparato
 
-**[[Iriarte|Don José de Iriarte]]** *(Subprefecto del Tiempo, "el de la Silla de Ruedas")* **opera dentro del Palacio** *como una de las figuras más documentadas del cuerpo administrativo*. *Su oficio*: **validar trayectos cronos sin pronunciarse sobre su moralidad**; **emitir recibos de pasaje**; **archivar paradojas menores**.
+**[[Iriarte|Don José de Iriarte]]** *([[Iriarte|Subprefecto del Tiempo]], "el de la Silla de Ruedas")* **opera dentro del Palacio** *como una de las figuras más documentadas del cuerpo administrativo*. *Su oficio*: **validar trayectos cronos sin pronunciarse sobre su moralidad**; **emitir recibos de pasaje**; **archivar paradojas menores**.
 
 *Otras figuras del Palacio*:
 
@@ -63,7 +63,7 @@ imagen: null
 
 ## La función estructural
 
-[*El Palacio del Tiempo no resuelve la cronomancia, la administra. Esa distinción es crucial. En geografías donde el viaje temporal se prohíbe absolutamente —Torregrises, por ejemplo— la cronomancia opera clandestinamente y con consecuencias salvajes. En geografías donde se administra —París Ucrónica, vía el Palacio— la cronomancia opera con costos transparentes y consecuencias contables. La diferencia es civilizatoria. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*El Palacio del Tiempo no resuelve la cronomancia, la administra. Esa distinción es crucial. En geografías donde el viaje temporal se prohíbe absolutamente —[[Torregrises]], por ejemplo— la cronomancia opera clandestinamente y con consecuencias salvajes. En geografías donde se administra —[[Paris_Ucronica|París Ucrónica]], vía el Palacio— la cronomancia opera con costos transparentes y consecuencias contables. La diferencia es civilizatoria. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 *La operación cosmológica mayor del Palacio*: **sostener la diferencia entre cronomancia clandestina y cronomancia administrada**. **Mientras el Palacio opere con autoridad pública**, *el cronos parisino sigue siendo administrable*. **Si el aparato cae**, *la cronomancia se vuelve salvaje*.
 
@@ -72,7 +72,7 @@ imagen: null
 ## Vínculos
 
 - [[Cronoboys]] — figura emblemática que paga en cuerpo el tránsito administrado por el Palacio
-- [[Iriarte]] — Subprefecto del Tiempo, figura documentada del aparato
+- [[Iriarte]] — [[Iriarte|Subprefecto del Tiempo]], figura documentada del aparato
 - [[Paris_Ucronica]] — ciudad cuya Belle Époque admite el aparato
 - [[Apocalipsis_Temporal_1889]] — evento en cuya inminencia el Palacio opera
 - [[Circulo_de_la_Serpiente]] — facción cuya operación cruza el aparato del Palacio
@@ -82,5 +82,5 @@ imagen: null
 ## Apariciones
 
 - **Belle Époque uchrónica primigenia** — establecimiento del aparato administrativo del cronos
-- **Operación continuada** — registro de trayectos, validación de Cronoboys, archivo de paradojas menores
+- **Operación continuada** — registro de trayectos, validación de [[Cronoboys]], archivo de paradojas menores
 - **Ciclo presente de París Ucrónica** — el Palacio sigue operando como sede del aparato cronomántico

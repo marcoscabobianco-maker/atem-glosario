@@ -1,5 +1,5 @@
 ---
-título: "Astilla de Veracruz — redirect (variante Whisper)"
+título: "Astilla de la Veracruz — redirect (variante Whisper)"
 slug: Astilla_de_Veracruz
 estado: redirect
 target: "[[Astilla_de_la_Veracruz]]"
@@ -10,6 +10,6 @@ tags:
  - whisper-variant
 ---
 
-# Astilla de Veracruz
+# Astilla de la Veracruz
 
 → Consolidado en **[[Astilla_de_la_Veracruz]]**. *Variante (con/sin artículo "la"). Mismo objeto: la astilla incrustada en el ojo izquierdo de Kronamon en su ejecución de 1120.*

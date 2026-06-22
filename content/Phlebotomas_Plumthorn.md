@@ -15,45 +15,44 @@ tags:
  - ardis-vala
  - mega-dungeon-ardis-vala
  - L03
- - 3-5
  - veneno
  - extorsion
  - Ritornello
 ---
 # Phlebotomas Plumthorn
 
-> *Halfling líder de los matones de la entrada del L3. Fabricante de veneno virulento. Buscado en Ritornello y Narsileon. Recién asentado en el dungeon.*
+> *Halfling líder de los matones de la entrada de los Halls of Thoth. Fabricante de veneno virulento. Buscado en [[Ritornello]] y [[Narsileon]]. Recién asentado en el dungeon.*
 
 ## Presentación
 
-**Phlebotomas Plumthorn** es el **líder de la banda de [[Halflings_Plumthorn|halflings malvados]]** que han ocupado **la entrada al [[Halls_of_Thoth_Nivel|Nivel 3 Halls of Thoth]]** del [[Mega_Dungeon_Arden_Vul]], áreas 3-2 a 3-35. Su aposento es **3-5**.
+**Phlebotomas Plumthorn** es el **líder de la banda de [[Halflings_Plumthorn|halflings malvados]]** que han ocupado **la entrada a los [[Halls_of_Thoth_Nivel|Halls of Thoth]]** del [[Mega_Dungeon_Arden_Vul]]. Su aposento se guarda **tras la frontera de entrada**.
 
 ### Su operación
 
 #### Extorsión territorial
 
-Demanda **tributo** a quien entre por la pirámide de Thoth → 3-1 → 3-2. **Cobra licencia de paso** a aventureros, comerciantes, peregrinos. **Roskelly Winterleaf** (3-2) es su segundo / matón principal.
+Demanda **tributo** a quien entre por la pirámide de Thoth. **Cobra licencia de paso** a aventureros, comerciantes, peregrinos. **Roskelly Winterleaf** es su segundo / matón principal.
 
 #### Manufactura de veneno
 
-En **3-4 mantiene una manufactura de veneno** con **receta particularmente virulenta**. Lo comercia **clandestinamente** en:
+En **mantiene una manufactura de veneno** con **receta particularmente virulenta**. Lo comercia **clandestinamente** en:
 
-- **Ritornello** (Burdock's Valley)
-- **Narsileon** (exarchate imperial)
+- **[[Ritornello]]** (Burdock's Valley)
+- **[[Narsileon]]** (exarchate imperial)
 - **Posibles otras ciudades** del imperio arconteano
 
 Su receta es **buscada por las autoridades del imperio** — Phlebotomas figura en el **APP_World_of_Archontos.md** sección "Persons of Note" como **figura conocida** que las autoridades persiguen sin éxito.
 
 ### Su banda
 
-- **Roskelly Winterleaf** (3-2) — segundo, halfling thug
-- **3 halfling fighters 1st-level** — guerreros (studded leather + shield + spear + club + sling)
-- **3 halfling thieves 2nd-level** — ladrones (DEX 17, leather, short sword + dagger + sling, thief skills altas)
+- **Roskelly Winterleaf** — segundo, halfling thug
+- **3 guerreros halflings** — cuero tachonado y escudo; lanza, garrote y honda
+- **3 ladrones halflings** — cuero ligero; espada corta, daga y honda; de oficio consumado
 - **Otros halflings menores**
 
 ### Sus enemigos
 
-- **[[Goblins_Weskenim|Goblins de King Weskenim]]** (SL4) — **enemigo principal**: los goblins resienten su llegada reciente y buscan exterminarlos
+- **[[Goblins_Weskenim|Goblins de King Weskenim]]** — **enemigo principal**: los goblins resienten su llegada reciente y buscan exterminarlos
 - **Patrullas del imperio arconteano** — Ritornello, Narsileon
 - **Posibles rivales internos** — la receta de veneno es valiosa
 
@@ -63,7 +62,7 @@ Su receta es **buscada por las autoridades del imperio** — Phlebotomas figura 
 - **Otras facciones del dungeon** ocasionalmente
 - **Posible aliado táctico**: **[[Lady_Deino]]** (vecina, comercio cruzado posible)
 
-### Post-hiato (Reveal 2026-05-20)
+### Post-hiato (revelación del archivo)
 
 Con la entrada en **[[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]** y la centralización papal de [[Papa_Alejandro_Sixto]]:
 
@@ -73,12 +72,12 @@ Con la entrada en **[[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]** y la centraliza
  - **Seguir operando** clandestinamente
  - **Aliarse con los goblins de Weskenim** ante el cambio (si las dinámicas anteriores se invierten)
 - **Sin patrullas varumani**, **mayor libertad operacional**
-- **Si los Buscadores regresan a L3 en sesiones siguientes**, pueden encontrar **Phlebotomas como informante alternativo** del estado de las facciones del nivel
+- **Si los [[Buscadores_de_Ardis_Vala|Buscadores]] regresan a Halls of Thoth en jornadas siguientes**, pueden encontrar **Phlebotomas como informante alternativo** del estado de las facciones del nivel
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Halls_of_Thoth_Nivel|L3]] — su nivel
+- [[Halls_of_Thoth_Nivel|Halls of Thoth]] — su nivel
 - [[Halflings_Plumthorn]] — su banda
 - **Roskelly Winterleaf** — segundo
 - [[Goblins_Weskenim]] — enemigo principal
@@ -89,6 +88,6 @@ Con la entrada en **[[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]** y la centraliza
 
 ## Apariciones
 
-- **el archivo** — probable encuentro inicial de los Buscadores
-- Sesiones posteriores — presencia ocasional
+- **el archivo** — probable encuentro inicial de los [[Buscadores_de_Ardis_Vala|Buscadores]]
+- Jornadas posteriores — presencia ocasional
 - **Post-hiato**: pendiente

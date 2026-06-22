@@ -24,5 +24,5 @@ Su arco es horizontal (traduce entre mundos) más que vertical (no se transforma
 ## ENTRADAS NUEVAS — Campaña Dante's Inferno el Descenso (consolidación 20 mar 2026)
 
 > Consolidación automática de 163 entradas nuevas el Descenso.
-> Fuentes: el archivo–esta sesión y posteriores CC1–CC2 glosarios por sesión.
-> Tags uniformes: #el Descenso + #el Descenso-SXX por sesión de origen.
+> Fuentes: el archivo–esta jornada y posteriores CC1–CC2 glosarios por jornada.
+> Tags uniformes: #el Descenso + #el Descenso-SXX por jornada de origen.

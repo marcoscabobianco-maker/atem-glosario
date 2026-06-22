@@ -13,12 +13,8 @@ aliases:
 
 ## Presentación
 
-Personaje del archivo. Clase mecánica no clarificada en archivos (posiblemente rogue/stealth). También referido como Casimiro en algunos contextos. Participa en rescate de [[Luca_CI|Luca]] en [[Tovag_Baragu|Tovag Baragu]] y en ritual [[Pleroma]] de [[Zaira]]. Detalles mecánicos y narrativos limitados en comparación con [[Khalim|Khalim]], [[Iriscan]], [[Auro_CI|Auro]] y [[Luca_CI|Luca]].
+Personaje también referido como Casimiro en algunos contextos. Participa en el rescate de [[Luca_CI|Luca]] en [[Tovag_Baragu|Tovag Baragu]] y en el ritual [[Pleroma]] de [[Zaira]]. Su nombre definitivo permanece sin confirmar; ver **[[Henri_La_France|Henri]]** para su vínculo con el grupo en [[Antiterra_Demonia|Antiterra]] / los Profundos.
 
 ## Apariciones notables
 
-Rescate [[Luca_CI|Luca]], [[Zaira]] final, sesiones principales.
-
-## Notas
-
- El archivo indica "Pepsico casi seguro, si no Casimiro." PENDIENTE confirmación de cuál es el nombre de personaje principal. el grupo en [[Antiterra_Demonia|Antiterra]]/Profundos jugaba a [[Henri_La_France|Henri]]. Ver **[[Henri_La_France|Henri]]**.
+Rescate de [[Luca_CI|Luca]], final de [[Zaira]].

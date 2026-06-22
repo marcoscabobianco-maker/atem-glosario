@@ -32,4 +32,4 @@ La lámina lo fija como **alta vela negra en candelabro de hierro forjado**, **f
 
 - [[Dou-Frome]] — paladín cuya caída esta vela anuncia
 - [[Labresu]] — entidad que el círculo podría convocar
-- [[Caballeros_Cicatriz_del_Sol]] — orden de la que Dou-Frome procedía
+- [[Caballeros_Cicatriz_del_Sol]] — orden de la que [[Dou-Frome]] procedía

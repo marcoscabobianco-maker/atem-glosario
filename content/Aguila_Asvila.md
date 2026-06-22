@@ -22,7 +22,7 @@ imagen: null
 ---
 # El Águila Asvila
 
-> *"En lo más alto del firmamento, el Águila, conocida como Asvila, reina como símbolo del Sol y de la energía diurna. Representada como un ave gigante de alas extendidas, el Águila se asocia con la protección, la justicia y el renacimiento diario de la luz."* — Mascor Blancarba, *Apéndices & Delirios Varios*.
+> *"En lo más alto del firmamento, el Águila, conocida como Asvila, reina como símbolo del Sol y de la energía diurna. Representada como un ave gigante de alas extendidas, el Águila se asocia con la protección, la justicia y el renacimiento diario de la luz."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*.
 
 ---
 
@@ -39,7 +39,7 @@ imagen: null
 **Cualidades atribuidas**:
 
 - **Cualidades divinas** — *operación cosmológica del polo luminoso primigenio*.
-- **Guía de los primeros gobernantes de Caldero** — *los primeros líderes humanos del cráter dormido* **interpretaban sus movimientos como augurios** *para las cosechas, las batallas y los rituales sagrados*.
+- **Guía de los primeros gobernantes de [[Caldero]]** — *los primeros líderes humanos del cráter dormido* **interpretaban sus movimientos como augurios** *para las cosechas, las batallas y los rituales sagrados*.
 - **Protectora de la diurnidad** — *contraparte cosmológica de la Serpiente-Luna Auna* (*figura del polo nocturno paralela*).
 
 *La doctrina opera con dualidad complementaria*: **Águila (día/sol) ↔ Serpiente-Luna (noche/luna)**. *No son figuras opuestas en sentido beligerante*; **son complementarias en el orden natural del mundo-gema**. **Su equilibrio** *sostiene el ciclo cosmológico del día y la noche*.
@@ -48,7 +48,7 @@ imagen: null
 
 ## Los antes y los después en el mapa
 
-*El mapa del compilado de Mascor Blancarba registra*: **"ASVILA"** *como una de las regiones septentrionales del mundo-gema*, **"Antes Nido del Fénix"**. **Esto sugiere que el territorio asvileño está al norte de Caldero**, *en geografía que en algún momento fue territorio del Fénix antes de ser dominio asvileño*. **La transición** *(de territorio del Fénix a territorio del Águila)* **es operación cosmológica que el archivo no documenta plenamente** *pero registra como dato geográfico*.
+*El mapa del compilado de [[Mascor_Blancarba]] registra*: **"ASVILA"** *como una de las regiones septentrionales del mundo-gema*, **"Antes [[Caldero|Nido del Fénix]]"**. **Esto sugiere que el territorio asvileño está al norte de Caldero**, *en geografía que en algún momento fue territorio del Fénix antes de ser dominio asvileño*. **La transición** *(de territorio del Fénix a territorio del Águila)* **es operación cosmológica que el archivo no documenta plenamente** *pero registra como dato geográfico*.
 
 ---
 
@@ -56,7 +56,7 @@ imagen: null
 
 **En el ciclo presente**, *el Águila Asvila opera con presencia mítica residual*:
 
-- **Rituales del amanecer** *en templos de Caldero y Ciudad Estrella* *invocan su nombre*.
+- **Rituales del amanecer** *en templos de Caldero y [[Ciudad_Estrella]]* *invocan su nombre*.
 - **Augurios para batallas y cosechas** *siguen siendo doctrinales* en pliegos rurales del mundo-gema.
 - **Estandartes y heráldica** *de varias casas nobles* portan **águilas estilizadas** *como referencia indirecta a Asvila*.
 - **Manifestaciones aviares** *—águilas reales, no la deidad— son interpretadas como signos de bendición indirecta*.

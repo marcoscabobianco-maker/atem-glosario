@@ -24,7 +24,7 @@ tags:
 
 ### El sobreviviente de Vala Antigua
 
-**Garkhan —también escrito Garkan— es uno de los sobrevivientes de [[Vala_Antigua|Vala Antigua]]** —el mundo previo al cierre cósmico, base de lo que sucede después en [[Vala_del_Medioevo]] y [[Arden_Vul]]—. Junto con [[Tailoor]], [[Antino|Antinoo]], [[Sheridron|Shadydron]] y [[Jax]], atravesó el colapso del mundo previo y emergió en el panteón del Triunvirato. Sus dragones de la luna negra son herencia del cargo que su personaje tuvo en Vala Antigua.
+**Garkhan —también escrito Garkan— es uno de los sobrevivientes de [[Vala_Antigua|Vala Antigua]]** —el mundo previo al cierre cósmico, base de lo que sucede después en [[Vala_del_Medioevo]] y [[Arden_Vul]]—. Junto con [[Tailoor]], [[Antino|Antinoo]], [[Sheridron|Shadydron]] y [[Jax]], atravesó el colapso del mundo previo y emergió en el panteón del Triunvirato. Sus dragones de la luna negra son herencia del cargo que su personaje tuvo en [[Vala_Antigua]].
 
 ### El ciclo de las almas
 
@@ -32,7 +32,7 @@ La función de Garkhan es **psicopompa-dragónica**. Sus dragones, durante la no
 
 ### Par estructural con Sheridron
 
-Garkhan opera en **par dragónico** con **[[Sheridron]]** —el dios dragón **plateado** de la **luna y el conocimiento**, enfrentado al dragón de la noche—. La dualidad luna plateada / luna negra es declarada: Sheridron ilumina los caminos, Garkhan los cierra. El cosmos del Triunvirato sostiene este par lunar como su geometría de la muerte.
+Garkhan opera en **par dragónico** con **[[Sheridron]]** —el dios dragón **plateado** de la **luna y el conocimiento**, enfrentado al dragón de la noche—. La dualidad luna plateada / luna negra es declarada: [[Sheridron]] ilumina los caminos, Garkhan los cierra. El cosmos del Triunvirato sostiene este par lunar como su geometría de la muerte.
 
 ## Vínculos
 

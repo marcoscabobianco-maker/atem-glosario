@@ -5,7 +5,6 @@ tags:
 aliases:
  - "Antiterra (CDI)"
  - "CDI"
- - "Antiterra"
 ---
 # Antiterra (CDI)
 
@@ -16,7 +15,7 @@ aliases:
 ## Presentación
 
 **Tipo:** Ubicación secundaria, plano paralelo
-**Sinónimos:** Dark Sand, Goria (referencia el archivo), plano de Antiterra
+**Sinónimos:** Dark Sand, Goria (referencia el archivo), plano de [[Antiterra]]
 **Descripción:** Realidad simultánea a Expulsión de Edén. Estética 1940s-1950s rural.
 
 **Elementos característicos:**
@@ -32,7 +31,7 @@ aliases:
 
 **Estatus:** Destino actual de [[Arian|Adam]] post-planeshift. Conciencia dual entre Expulsión y Antiterra.
 
-**Primeras apariciones:** el archivo
+**[[Primeras_apariciones]]:** el archivo
 
 ## Ver también
 
@@ -40,4 +39,4 @@ aliases:
 - [[Elementos_caracteristicos|Elementos característicos]]
 - [[Naturaleza_cosmologica|Naturaleza cosmológica]]
 - Estatus
-- Primeras apariciones
+- [[Primeras_apariciones]]

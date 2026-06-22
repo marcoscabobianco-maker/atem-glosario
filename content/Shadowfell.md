@@ -28,7 +28,7 @@ imagen: null
 
 ## El plano
 
-**El Shadowfell** —*"plano de las sombras"*, *"reino sombrío"* en doctrina decadiana, *"el Shadowfell"* en boca de magos que lo conocen operativamente— **es plano cosmológico paralelo al plano material**. *No es plano externo* (*como Ysgard, el Limbo, Arbórea o los reinos infernales*); **es plano paralelo cuya membrana con el material es porosa** *en geografías específicas*. Donde la sombra se acumula sin que la luz la desmienta —*cavernas subterráneas, sub-estructuras antiguas, bosques de copas cerradas, edificios abandonados*—, **la membrana se debilita** y *el cruce se vuelve posible*.
+**El Shadowfell** —*"plano de las sombras"*, *"reino sombrío"* en doctrina decadiana, *"el Shadowfell"* en boca de magos que lo conocen operativamente— **es plano cosmológico paralelo al plano material**. *No es plano externo* (*como [[Ysgard]], el Limbo, [[Arborea_Eden_CDI|Arbórea]] o los reinos infernales*); **es plano paralelo cuya membrana con el material es porosa** *en geografías específicas*. Donde la sombra se acumula sin que la luz la desmienta —*cavernas subterráneas, sub-estructuras antiguas, bosques de copas cerradas, edificios abandonados*—, **la membrana se debilita** y *el cruce se vuelve posible*.
 
 *La doctrina cosmológica*: **el Shadowfell no es el negativo del plano material**, *es su otra cara cosmológica*. **Lo que en el material opera con luz**, *en el Shadowfell opera con eco de luz*; **lo que en el material es presencia plena**, *en el Shadowfell es presencia atenuada por la distancia ontológica*.
 
@@ -39,7 +39,7 @@ imagen: null
 **El Shadowfell** *sostiene su propia fauna cosmológica*. **Las criaturas más documentadas en el archivo**:
 
 - **[[Skulk|Los Skulks]]** — figuras sin forma fija, adaptadas a la atenuación lumínica del plano; operan en grupos en zonas de membrana porosa.
-- **Oscuros** —*término popular del compilado de Mascor Blancarba*— criaturas del Shadowfell que cruzan ocasionalmente al material por las membranas; sin taxonomía cosmológica unificada.
+- **Oscuros** —*término popular del compilado de [[Mascor_Blancarba]]*— criaturas del Shadowfell que cruzan ocasionalmente al material por las membranas; sin taxonomía cosmológica unificada.
 - **Operadores shadowfellianos** — figuras inteligentes del plano que aprenden a moverse entre planos; *[[Drakthar]]* es el ejemplo más documentado del ciclo presente.
 - **Criaturas menores** —*sombras-bestia, ecos animales, presencias incorpóreas*— que el archivo enumera sin profundizar la doctrina.
 
@@ -49,12 +49,12 @@ imagen: null
 
 *El cruce material ↔ Shadowfell* **opera por membranas específicas**:
 
-- **[[Yathrebu]] bajo Caldero** — sub-estructura subterránea cuya geografía ritual antigua dejó la membrana parcialmente abierta. **[[Drakthar]] estableció base aquí** durante el ciclo presente.
-- **Catacumbas de París Ucrónica** — geografía ucrónica donde las membranas operan con menor disimulo; *los Time Bandits y otros operadores las usan ocasionalmente*.
+- **[[Yathrebu]] bajo [[Caldero]]** — sub-estructura subterránea cuya geografía ritual antigua dejó la membrana parcialmente abierta. **[[Drakthar]] estableció base aquí** durante el ciclo presente.
+- **[[Catacumbas_de_Paris|Catacumbas de París]] Ucrónica** — geografía ucrónica donde las membranas operan con menor disimulo; *los [[Time_Bandits]] y otros operadores las usan ocasionalmente*.
 - **Sub-niveles del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]** — algunas capas zodiacales tienen contacto con el Shadowfell vía sub-estructuras laterales.
 - **Cavernas de [[Vala_Cristalis|Vala Cristalis]]** — el mundo-gema sostiene membranas en cavernas profundas; *la doctrina serpentina y la shadowfelliana operan en proximidad sin fusión*.
 
-*La doctrina operativa*: **mientras las membranas permanezcan porosas pero contenidas, el equilibrio cosmológico se sostiene**. **Si una membrana se abre del todo**, *el Shadowfell penetra el material*; **operaciones como las de Drakthar serían sólo el preludio**.
+*La doctrina operativa*: **mientras las membranas permanezcan porosas pero contenidas, el equilibrio cosmológico se sostiene**. **Si una membrana se abre del todo**, *el Shadowfell penetra el material*; **operaciones como las de [[Drakthar]] serían sólo el preludio**.
 
 ---
 
@@ -63,7 +63,7 @@ imagen: null
 **El Shadowfell no opera aislado**:
 
 - **Cruce con el [[Suboscuro|Subóscuro]]** — pliegue interno del mundo-gema; **se sospecha tránsito ocasional** entre operadores shadowfellianos y criaturas subóscuras vía cavernas adyacentes.
-- **Cruce con el [[Anti_Inferno]]** — el espacio post-Notre Dame opera con membranas hacia el Shadowfell *en su geografía confesional del Foso*; *figuras como Adam Arlequín han atravesado ambos*.
+- **Cruce con el [[Anti_Inferno]]** — el espacio post-[[Catedral_de_Notre-Dame_PU|Notre Dame]] opera con membranas hacia el Shadowfell *en su geografía confesional del Foso*; *figuras como Adam Arlequín han atravesado ambos*.
 - **No cruce directo con los planos infernales clásicos** — el Shadowfell es plano paralelo, no plano negativo; *las membranas con el Anti-Inferno son membranas cosmológicas, no membranas de equivalencia*.
 
 ---
@@ -74,7 +74,7 @@ imagen: null
 
 *Otros operadores documentados* **con lazo shadowfelliano** en el archivo —*más allá de Sila*—:
 
-- **Operadores menores** asociados a [[Drakthar]] en la campaña Caldero.
+- **Operadores menores** asociados a [[Drakthar]] en la campaña [[Caldero]].
 - **Figuras de la [[Compania_de_la_Risa|Compañía de la Risa]]** —*posiblemente bajo influencia shadowfelliana indirecta*, *no plenamente confirmada*—.
 - **Criaturas anómalas** documentadas en sub-niveles del mega-dungeon de Ardisvala.
 
@@ -91,7 +91,7 @@ imagen: null
 - [[Skulk]] — criatura shadowfelliana documentada
 - [[Drakthar]] — operador shadowfelliano del ciclo presente
 - [[Yathrebu]] — sub-estructura subterránea con membrana porosa
-- [[Senda_de_Drakthar]] — misión que enfrentó a La Jabalina con el plano
+- [[Senda_de_Drakthar]] — misión que enfrentó a [[La_Jabalina]] con el plano
 - [[Suboscuro]] — pliegue interno adyacente
 - [[Anti_Inferno]] — pliegue confesional con cruce
 - [[Scylla]] — operadora del grupo con lazo shadowfelliano
@@ -107,6 +107,6 @@ imagen: null
 
 - **Era anterior al cómputo conocido** — plano cosmológico establecido en paralelo al material
 - **Operación continuada de criaturas** — Skulks, oscuros, operadores menores sin documentación unificada
-- **Período de operación de Drakthar** — base shadowfelliana establecida en Yathrebu
-- **Senda de Drakthar** — La Jabalina cruza membrana porosa, combate con oscuros, decisión de Sila
+- **Período de operación de [[Drakthar]]** — base shadowfelliana establecida en [[Yathrebu]]
+- **[[Senda_de_Drakthar]]** — [[La_Jabalina]] cruza membrana porosa, combate con oscuros, decisión de Sila
 - **1824 AE — ciclo presente** — plano activo, membranas porosas sostenidas, operaciones futuras anticipables

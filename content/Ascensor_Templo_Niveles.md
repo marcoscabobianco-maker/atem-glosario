@@ -23,13 +23,13 @@ imagen: Imagenes_Tier1/Ascensor_Templo_Niveles.png
 ![[Imagenes_Tier1/Ascensor_Templo_Niveles.png]]
 <!-- /HEADER_IMG -->
 
-> *"La Orden enseñaba a sus monjes a no temer el descenso. La maquinaria les recordaba que la vuelta no estaba garantizada."*
+> *"[[Sagrada_Orden|La Orden]] enseñaba a sus monjes a no temer el descenso. La maquinaria les recordaba que la vuelta no estaba garantizada."*
 
 La lámina lo fija en operación: **plataforma de madera descendiendo por pozo de piedra cuadrado**, **cuerdas gruesas y contrapesos** visibles en las paredes, **dos templarios con escudos blancos y cruz roja** operando las **poleas y engranajes** desde balcones laterales. **Más abajo**, en penumbra, **los niveles inferiores** apenas iluminados por antorchas.
 
 ## Función
 
-**Mecanismo de poleas y contrapesos** —*ingeniería sobria, no mágica*— que conecta las plantas exteriores del Temple con **las criptas profundas** donde la Orden guarda lo que las superficies no podían custodiar. La velocidad es lenta; la operación es de a dos templarios; el descenso, contado.
+**Mecanismo de poleas y contrapesos** —*ingeniería sobria, no mágica*— que conecta las plantas exteriores del [[Temple_complejo_TE|Temple]] con **las criptas profundas** donde la Orden guarda lo que las superficies no podían custodiar. La velocidad es lenta; la operación es de a dos templarios; el descenso, contado.
 
 ## Vínculos
 

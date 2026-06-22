@@ -41,11 +41,11 @@ imagen: Imagenes_Tier1/Chronomon.png
 
 ## Quién es
 
-**Chronomon** —*identidad confirmada con [[Kronamon]] según [[Pablo_de_Alejandria|Pablo]] en 23 marzo 2026*— **es el dios del Tiempo en la cosmología del cosmos compartido**. **No es Cronos titán**: *es figura más reciente que el Titán*, **operando como administrador del Tiempo dividido en eras y arcos**.
+**Chronomon** —*identidad confirmada con [[Kronamon]] según [[Pablo_de_Alejandria|Pablo]] en 23 marzo 2026*— **es el dios del Tiempo en la cosmología del cosmos compartido**. **No es [[Cronos]] titán**: *es figura más reciente que el Titán*, **operando como administrador del Tiempo dividido en eras y arcos**.
 
-**Su filiación**: **hijo de [[Pablo_de_Alejandria|Pablo de Alejandría]]** —*el cronista trans-temporal, el Maestro Alterador*—. **La paternidad opera doctrinalmente**: *Pablo escribe el Tiempo*; **Chronomon-Kronamon lo administra**. **El padre cronista, el hijo dios del oficio del padre**: **continuidad por línea agnaticia de oficio**.
+**Su filiación**: **hijo de [[Pablo_de_Alejandria|Pablo de Alejandría]]** —*el cronista trans-temporal, el [[Pablo_de_Alejandria|Maestro Alterador]]*—. **La paternidad opera doctrinalmente**: *Pablo escribe el Tiempo*; **Chronomon-[[Kronamon]] lo administra**. **El padre cronista, el hijo dios del oficio del padre**: **continuidad por línea agnaticia de oficio**.
 
-**Aparece en el archivo bajo dos nombres** —**Chronomon en los archivos de [[Paris_Ucronica|París Ucrónica]]** *(viaje FTL de [[Fruto_del_Conocimiento_S11|la sesión]])*, **Kronamon en los archivos de Templarios** *(donde figura como "divino decapitado")*—. **La confirmación de identidad** *cierra una pregunta abierta del archivo del Plata durante años*: **misma entidad, dos archivos, dos nombres**.
+**Aparece en el archivo bajo dos nombres** —**Chronomon en los archivos de [[Paris_Ucronica|París Ucrónica]]** *(viaje FTL de [[Fruto_del_Conocimiento_S11|la jornada]])*, **[[Kronamon]] en los archivos de [[Templarios]]** *(donde figura como "divino decapitado")*—. **La confirmación de identidad** *cierra una pregunta abierta del archivo del Plata durante años*: **misma entidad, dos archivos, dos nombres**.
 
 ---
 
@@ -77,7 +77,7 @@ imagen: Imagenes_Tier1/Chronomon.png
 
 **El instrumento mayor que Chronomon sostenía en vida** —*el reloj de arena de arena reversible*— **no medía**: *repartía*. **Lo que caía de un lado del vidrio faltaba del otro lado del cosmos**. *La doctrina del reloj* —**registrada por Pablo en cuaderno que el archivero del Plata transcribe con cuidado**— **explica por qué algunos episodios del cosmos compartido tienen su gemelo simétrico en otra época**: *el reloj de Chronomon redistribuyó, durante su tenencia, las masas temporales de manera que el Tiempo conservara equilibrio*.
 
-**Tras la apoteosis-decapitación**, *el reloj quedó sin tenedor*; **otros agentes lo tomaron parcialmente**; **el cosmos perdió la administración fina** *y se entregó a desequilibrios sucesivos*. **Los bucles, las arrugas, los Cronoboys**: **son consecuencias operativas de la pérdida del reloj**.
+**Tras la apoteosis-decapitación**, *el reloj quedó sin tenedor*; **otros agentes lo tomaron parcialmente**; **el cosmos perdió la administración fina** *y se entregó a desequilibrios sucesivos*. **Los bucles, las arrugas, los [[Cronoboys]]**: **son consecuencias operativas de la pérdida del reloj**.
 
 [*"Hay dioses cuya muerte cierra un libro; hay dioses cuya muerte sólo abre otro tomo. Chronomon es del segundo tipo. El tomo abierto desde su decapitación todavía no se ha cerrado." — Glosa del libro V del [[Decadiano]].*]
 
@@ -101,5 +101,5 @@ imagen: Imagenes_Tier1/Chronomon.png
 - **Antes del cosmos compartido — administrador del Tiempo en su versión repartidora**
 - **1050 — inicio de la conjura cronomántica** — bucle bizantino
 - **1120 — decapitación ritual** — apoteosis simultánea
-- **Viaje FTL de los Time Bandits — explosión de la cabeza de Chronomon** — eco cosmológico
-- **Revelaciones del Marqués de Sade — Hugo** — exposición de la cadena en la torre del Valle
+- **Viaje FTL de los [[Time_Bandits]] — explosión de la cabeza de Chronomon** — eco cosmológico
+- **Revelaciones del [[Marques_de_Sade_Hugo|Marqués de Sade]] — Hugo** — exposición de la cadena en la torre del Valle

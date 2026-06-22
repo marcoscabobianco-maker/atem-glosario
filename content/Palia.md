@@ -17,7 +17,7 @@ aliases:
 
 Rosedales al este de **[[Torregrises]]**. Guardada por **[[Celemna]]** (ex-[[Sagrada_Orden|Sagrada Orden]],
 empuñadora de cimitarra enorme). Acceso subterráneo con sistema de trampas defensivas.
-Escenario de alianza táctica entre las "4 A" y fuerzas locales. Sitio de poder mágico
+[[Escenario]] de alianza táctica entre las "4 A" y fuerzas locales. Sitio de poder mágico
 y contemplativo.
 
 ## Notas

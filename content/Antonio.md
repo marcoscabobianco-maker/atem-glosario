@@ -17,7 +17,7 @@ imagen: null
 ---
 # Antonio
 
-> *"También se encuentran Scylla y Antonio."* — Mascor Blancarba, *Gacetilla de Caldero* (cierre de la cita sobre la convocatoria de Jenya Urikas).
+> *"También se encuentran [[Scylla]] y Antonio."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]* (cierre de la cita sobre la convocatoria de [[Jenya_Urikas]]).
 
 ---
 
@@ -34,7 +34,7 @@ imagen: null
 *El archivo conserva la mención y suspende el desarrollo*. **Tres lecturas posibles**:
 
 - **Antonio es figura efectivamente activa en el grupo en operaciones que el compilado no detalla**, *cuya participación quedará registrada en crónicas posteriores que el archivo todavía no recibe*.
-- **Antonio es figura cuya operación se interrumpió tempranamente** —*caída en misión, partida del grupo, otra causa narrativa*— *de modo que el compilado lo nombra en la convocatoria pero no en las misiones documentadas (Bazar de la Vida, Senda de Drakthar, Temporada de Inundaciones)*.
+- **Antonio es figura cuya operación se interrumpió tempranamente** —*caída en misión, partida del grupo, otra causa narrativa*— *de modo que el compilado lo nombra en la convocatoria pero no en las misiones documentadas ([[Bazar_de_la_Vida]], [[Senda_de_Drakthar]], [[Temporada_de_Inundaciones]])*.
 - **Antonio es figura cuyo desarrollo está pendiente de dictado**, *que el cronista no inventa por respeto al material primigenio*.
 
 *El cronista no se pronuncia sobre cuál de las tres lecturas opera*. **Lo que se conserva**: la mención.
@@ -53,5 +53,5 @@ imagen: null
 
 ## Apariciones
 
-- **Convocatoria de La Jabalina** — nombrado por Mascor Blancarba como uno de los aliados de diversas procedencias
+- **Convocatoria de [[La_Jabalina]]** — nombrado por [[Mascor_Blancarba]] como uno de los aliados de diversas procedencias
 - **1824 AE — ciclo presente** — figura pendiente de desarrollo en archivo accesible

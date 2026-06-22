@@ -32,9 +32,9 @@ imagen: Imagenes_Tier1/Plataforma_Tauro.png
 
 **Segunda casa del zodiaco**, sigue a Aries en el ciclo. Su columna esencial es **la fuerza estática y la tierra**: lo que se planta, lo que persiste, lo que no cede al embate. *El sistema completo está en* [[Juego_de_las_Sombras_Plataformas_Zodiacales|el Juego de las Sombras]].
 
-**Se activa en abril**, mes del toro. *El cronista anota que* **[[Los_Reguladores]] la enfrentaron en abril de 1888 A.D.A.**, **recibida por Jack Bull en Fort Clark** —*detalle conservado por la voz de Mascor Blancarba en el compilado*.
+**Se activa en abril**, mes del toro. *El cronista anota que* **[[Los_Reguladores]] la enfrentaron en abril de 1888 [[Anno_Domini_Antiterra_ADA|A.D.A.]]**, **recibida por Jack Bull en Fort Clark** —*detalle conservado por la voz de [[Mascor_Blancarba]] en el compilado*.
 
-**[[Erzebeth]] es la guardiana futura de Tauro**, *según la doctrina rotativa de la [[Corrupcion_Dual|Corrupción Dual]]*: **quien mata al guardián se convierte en guardián o es destruido**. *Erzebeth se retira del juego activo* tras la fase fundacional **para asumir el cargo zodiacal**; la sucesión Erzebeth → [[Maleika_Maleyka]] documenta la transición de personaje.
+**[[Erzebeth]] es la guardiana futura de Tauro**, *según la doctrina rotativa de la [[Corrupcion_Dual|Corrupción Dual]]*: **quien mata al guardián se convierte en guardián o es destruido**. *[[Erzebeth]] se retira del juego activo* tras la fase fundacional **para asumir el cargo zodiacal**; la sucesión [[Erzebeth]] → [[Maleika_Maleyka]] documenta la transición de personaje.
 
 [*Aries embiste, Tauro espera. Las dos primeras casas del zodiaco operan en oposición complementaria: violencia activa contra fuerza pasiva. Quien pasa de Aries a Tauro aprende que el segundo es más difícil. — Glosa atribuida al libro V del [[Decadiano]].*]
 
@@ -46,12 +46,12 @@ imagen: Imagenes_Tier1/Plataforma_Tauro.png
 - [[Plataformas_Zodiacales_Sistema_de_Guardianes|Plataformas Zodiacales]] — familia de doce
 - [[Corrupcion_Dual]] — ley rotativa de guardianes
 - [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] — sistema mayor
-- [[Los_Reguladores]] — grupo que la enfrentó en 1888 A.D.A.
+- [[Los_Reguladores]] — grupo que la enfrentó en 1888 [[Anno_Domini_Antiterra_ADA|A.D.A.]]
 - [[Incidente_de_Erzebeth_y_el_Cura]] — episodio fundacional vinculado
 - **Jack Bull** — figura que la recibió en Fort Clark
 
 ## Apariciones
 
 - **Cosmología continua** — segunda casa, columna de fuerza estática
-- **Abril de 1888 A.D.A.** — Los Reguladores la enfrentan; Jack Bull la recibe en Fort Clark
+- **Abril de 1888 A.D.A.** — [[Los_Reguladores]] la enfrentan; Jack Bull la recibe en Fort Clark
 - **Sucesión de Erzebeth** — guardianía futura asumida tras retirarse del juego activo

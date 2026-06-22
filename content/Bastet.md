@@ -31,7 +31,7 @@ imagen: null
 *La doctrina interna del culto*:
 
 - **El gato del hogar es presencia sagrada** — *quien lo expulsa expulsa a Bastet*.
-- **El fuego del hogar opera bajo doctrina bastética** *(no doctrina ígnea mayor de Sekhmet o de Set)*.
+- **El fuego del hogar opera bajo doctrina bastética** *(no doctrina ígnea mayor de [[Sekhmet]] o de Set)*.
 - **La protección doméstica es operación cotidiana** — *no requiere altar mayor*, *requiere disposición continuada*.
 - **Bastet no responde a juramentos públicos** *(eso es jurisdicción de Mitra)*; **responde a fidelidades menores cotidianas**.
 

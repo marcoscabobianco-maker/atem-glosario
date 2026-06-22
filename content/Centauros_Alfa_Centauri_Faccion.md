@@ -19,13 +19,13 @@ Facción militar del futuro lejano, originaria del sistema estelar Alfa Centauri
 
 **Conexión con [[Thomas_Cole|Thomas Cole]]:** Persiguen activamente a [[Thomas_Cole|Thomas Cole]] ("el Hombre Variable"), quien posee conocimientos técnico-mágicos de valor estratégico. Emplean mercaderes rojos como intermediarios y guardias de cuatro brazos como fuerza de captura.
 
-**Conexión con [[Aby_Warburgo|Aby Warburgo]]:** Aby declara haber visitado Alfa Centauri personalmente: "Yo estuve en el futuro... en Alfa Centauri. Cuatro años luz... es la industrialización... claramente es la deshumanización total." Esto sugiere experiencia directa previa no documentada en sesiones transcritas.
+**Conexión con [[Aby_Warburgo|Aby Warburgo]]:** Aby declara haber visitado Alfa Centauri personalmente: "Yo estuve en el futuro... en Alfa Centauri. Cuatro años luz... es la industrialización... claramente es la deshumanización total." Esto sugiere experiencia directa previa no documentada en jornadas transcritas.
 
 **Contexto cósmico:** La guerra Terra vs. Próxima Centauri es un conflicto del siglo XXII (época de [[Thomas_Cole|Thomas Cole]]). Los Centauros representan la antítesis de la civilización mágica: tecnología sin alma vs. magia con precio humano.
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]]: primera revelación al grupo, combate con agentes centáuricos en calles de [[Constantinopla_Ucronica_1055_CE|Constantinopla]]. Sesiones 11-18: persecución continuada de [[Thomas_Cole|Thomas Cole]]. Referencia indirecta en sesiones previas ([[Draga_Machine|Draga Machine]]).
+[[Paris_Ucronica|París Ucrónica]]: primera revelación al grupo, combate con agentes centáuricos en calles de [[Constantinopla_Ucronica_1055_CE|Constantinopla]]. Jornadas 11-18: persecución continuada de [[Thomas_Cole|Thomas Cole]]. Referencia indirecta en jornadas previas ([[Draga_Machine|Draga Machine]]).
 
 ## Notas
 

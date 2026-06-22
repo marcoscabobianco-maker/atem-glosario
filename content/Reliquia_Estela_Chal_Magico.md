@@ -37,12 +37,12 @@ El chal es **un objeto, dos estados**: **órgano técnico** mientras lo lleva al
 
 ## El chal como órgano técnico (estado vivo)
 
-**Al hombro de Estela**, el chal es **órgano técnico de la nereida**, no vestimenta. *Cuando lo despliega, el agua le responde*; *cuando lo guarda, la facultad cesa*. **Sin chal, Estela es modelo común con buen cabello**.
+**Al hombro de [[Estela_Nereida|Estela]]**, el chal es **órgano técnico de la nereida**, no vestimenta. *Cuando lo despliega, el agua le responde*; *cuando lo guarda, la facultad cesa*. **Sin chal, [[Estela_Nereida|Estela]] es modelo común con buen cabello**.
 
 **Catálogo operativo**:
 
 - **Control de agua y vapor** —*incluidas las calderas de los trenes y las máquinas a vapor de fábricas*—.
-- **Invocación de elementales acuáticos** —*menores y mayores según la situación; el más recordado, el que barrió a soldados en la locomotora fronteriza germana durante el escape del Orient Express*—.
+- **Invocación de elementales acuáticos** —*menores y mayores según la situación; el más recordado, el que barrió a soldados en la locomotora fronteriza germana durante el escape del [[Orient_Express]]*—.
 - **Comunicación con seres acuáticos** —*ninfas, kraken menores, espíritus de río*—.
 - **Acceso a aguas profundas** —*el [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] intentó capturar a Estela precisamente por esto: el chal permite acceder a aguas donde un pariente serpentino está atado, y forzarla equivale a desatar al cautivo*—.
 
@@ -71,7 +71,7 @@ El chal es **un objeto, dos estados**: **órgano técnico** mientras lo lleva al
 - [[Estela_Nereida]] — la nereida portadora; el chal es órgano de su elementalidad
 - [[Banera_Elemental]] — el otro objeto técnico de Estela (mueble de mantenimiento)
 - [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] — facción que intentó robarlo
-- [[Sucubo_Taurina|Súcubo Taurina]] — agente del robo durante el Orient Express
+- [[Sucubo_Taurina|Súcubo Taurina]] — agente del robo durante el [[Orient_Express]]
 - [[Time_Bandits]] — portadores ocasionales en estado reliquia
 - [[Orient_Express]] — escenario del intento de robo
 - [[Mar_Negro_Crimea]] — uno de los mares cuya memoria el chal podría recoger

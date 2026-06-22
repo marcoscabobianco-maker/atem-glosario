@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-Entidad mística detectada en el archivo, asociada al Faro de [[Alejandria|Alejandría]]. "Disyuntó la magia" del grupo en [[Alejandria|Alejandría]]. En el archivo, un "cangrejo digital gigante" aparece como [[Nightmare_montura|montura]] del emisario "Para Allá de las Cenizas Danzantes" — posiblemente la misma entidad.
+[[Entidad]] mística detectada en el archivo, asociada al Faro de [[Alejandria|Alejandría]]. "Disyuntó la magia" del grupo en [[Alejandria|Alejandría]]. En el archivo, un "cangrejo digital gigante" aparece como [[Nightmare_montura|montura]] del emisario "Para Allá de las Cenizas Danzantes" — posiblemente la misma entidad.
 
 ## Apariciones notables
 

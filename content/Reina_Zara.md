@@ -17,7 +17,7 @@ aliases:
 
 ## Presentación
 
-Monarca reinante de [[Zaira]]. Permanece "plantada en el trono" durante el caos, temerosa pero compuesta. Casada con Consorte/Señor de Otes (guerrero-noble muerto en combate con compañeros). Madre de hijo con [[Coyote]]/Hundun (revelado post-[[Zaira]]). Participa en ritual de selección [[Pleroma]]/[[Oblivion|Oblivión]]. Su decisión afecta directamente el destino de [[Zaira]].
+Monarca reinante de [[Zaira]]. Permanece "plantada en el trono" durante el caos, temerosa pero compuesta. Casada con Consorte/Señor de Otes (guerrero-noble muerto en combate con compañeros). Madre de hijo con [[Coyote]]/[[Hundun]] (revelado post-[[Zaira]]). Participa en ritual de selección [[Pleroma]]/[[Oblivion|Oblivión]]. Su decisión afecta directamente el destino de [[Zaira]].
 
 ## Apariciones notables
 

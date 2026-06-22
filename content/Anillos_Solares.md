@@ -23,7 +23,7 @@ tags:
 
 # Anillos Solares
 
-> *Insignia de la Orden de la Cicatriz del Sol. Cobre con plata escarlata. Invocan luz solar, caída de pluma, salto, respiración acuática. Paradoja: anillos solares creados por un vampiro.*
+> *Insignia de la Orden de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]. Cobre con plata escarlata. Invocan luz solar, caída de pluma, salto, respiración acuática. [[Paradoja]]: anillos solares creados por un vampiro.*
 
 ## Presentación
 
@@ -49,32 +49,32 @@ Los **Anillos Solares** —*Solar Rings*— son la **insignia mágica de los [[C
 **Fabricados por un vampiro**, **producen luz solar**. La paradoja es **operativa**:
 
 - **Los Caballeros operan a la vista del mundo** sin levantar sospecha solar
-- **Los enemigos potenciales** —incluso otros vampiros como Cinna Minux— **se ven amenazados** por los anillos
-- **Master Malakita podía dispensarlos sin riesgo** porque la luz solar es **simulación arcana**, no luz solar verdadera
+- **Los enemigos potenciales** —incluso otros vampiros como [[Cinna_Minux]]— **se ven amenazados** por los anillos
+- **[[Master_Malakita]] podía dispensarlos sin riesgo** porque la luz solar es **simulación arcana**, no luz solar verdadera
 - **Los Caballeros sin saberlo cargaban un símbolo del enemigo de su fundador**
 
 ### Inventario actual
 
-Tras la **decapitación de Malakita** (la fase media del ciclo primero) por Alúmine, los Buscadores **recuperaron varios Anillos Solares**:
+Tras la **decapitación de Malakita** (la fase media del ciclo primero) por [[Alumine_Manwe_Finwe|Alúmine]], los [[Buscadores_de_Ardis_Vala|Buscadores]] **recuperaron varios Anillos Solares**:
 
 - Distribución entre miembros del grupo (a confirmar quiénes los portan)
 - Posible uso ofensivo contra no-muertos (incluyendo otros vampiros)
 - Posible uso ritual / ceremonial
 
-### Anillos post-hiato (Reveal 2026-05-20)
+### Anillos post-hiato (revelación del archivo)
 
 Con la **transformación de [[Papa_Alejandro_Sixto|Sir Sixto]] en [[Papa_Alejandro_Sixto]]** y la convergencia papal de la Orden:
 
 - **El Papa puede haber refinado / mejorado los anillos** durante el hiato
 - **Posible producción de nuevos Anillos Solares mejorados** por el Papa
-- **Los Anillos antiguos** que los Buscadores portan **pueden ser detectables / convocables** por el Papa
+- **Los Anillos antiguos** que los [[Buscadores_de_Ardis_Vala|Buscadores]] portan **pueden ser detectables / convocables** por el Papa
 - **Posible obsolescencia** de los anillos pre-hiato vs. **nuevos artefactos papales**
 
 ### Anillos relacionados
 
 Mencionados en el módulo:
 
-- **Rings of higher purpose** (new magic items) — permiten lanzar hechizos dentro de la anti-magic shell de la Inn of the Lost (L6). Posiblemente **misma línea** de artefactos solares de la Orden, o **competencia**.
+- **Rings of higher purpose** (new magic items) — permiten lanzar hechizos dentro de la anti-magic shell de la [[Troll_Lifts_Arena|Inn of the Lost]]. Posiblemente **misma línea** de artefactos solares de la Orden, o **competencia**.
 
 ## Vínculos
 
@@ -93,5 +93,5 @@ Mencionados en el módulo:
 
 - **Caballeros activos** pre-la fase media del ciclo primero
 - **Recuperados por Buscadores** post-la fase media del ciclo primero
-- **Usados ocasionalmente** en sesiones siguientes
+- **Usados ocasionalmente** en jornadas siguientes
 - **Post-hiato**: posible refinamiento papal

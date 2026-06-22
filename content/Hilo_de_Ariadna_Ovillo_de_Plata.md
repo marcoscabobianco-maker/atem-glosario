@@ -14,7 +14,7 @@ aliases:
 
 ## Presentación
 
-**Descripción:** Mencionado en la primera incursión al Laberinto Omniporal como "hilo de plata" usado para navegación. Continúa en la jornada del falso Maestre.
+**Descripción:** Mencionado en la primera incursión al [[Laberinto_Omniporal]] como "hilo de plata" usado para navegación. Continúa en la jornada del falso Maestre.
 
 **[[Propiedades]]:**
 - Marcador de ruta de salida (función primaria)

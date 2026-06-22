@@ -12,5 +12,5 @@ epoca: "1119-1120 AD — Edad Templaria — preliminares"
 Esta entrada es mencionada desde:
 
 - [[Michel_bajo_Sugestion]]
-- [[Reynaud_como_Clerigo-Estratega]]
+- [[Michel]]
 - [[Arsvan_como_Dano_Maximo]]

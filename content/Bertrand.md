@@ -32,7 +32,7 @@ imagen: Imagenes_Tier1/Bertrand.png
 ![[Imagenes_Tier1/Bertrand.png]]
 <!-- /HEADER_IMG -->
 
-> *"Hay cazadores que persiguen la presa. Hay cazadores que persiguen la luz. Bertrand fue de los segundos. Cuando la luz se le acabó, no le quedó presa que perseguir; le quedó el caño apuntando al grupo que se retiraba con su lámpara en otras manos."* — del *Coro del Descenso*, libro V.
+> *"Hay cazadores que persiguen la presa. Hay cazadores que persiguen la luz. Bertrand fue de los segundos. Cuando la luz se le acabó, no le quedó presa que perseguir; le quedó el caño apuntando al grupo que se retiraba con su lámpara en otras manos."* — del *[[Anti_Inferno|Coro del Descenso]]*, libro V.
 
 ---
 
@@ -46,9 +46,9 @@ La lámina **ha sido dictada** — la consignó en la ronda iconográfica del de
 
 ## La condición de Lost One
 
-**Bertrand es Lost One** —*condenado residente del Foso*, *no visitante*—. **Llegó al descenso desde alguna geografía anterior** *cuya cartografía el archivo del Coro no termina de fijar*. **Lleva el rifle como signatura del oficio que tuvo arriba**: *cazador*, *explorador*, *guardián de límites geográficos*. La condena no eliminó el oficio; *lo desplazó al Foso*. **Lo que cazaba arriba**, *en el descenso* **se le ha vuelto irrecuperable**.
+**Bertrand es [[Lost_Ones|Lost One]]** —*condenado residente del Foso*, *no visitante*—. **Llegó al descenso desde alguna geografía anterior** *cuya cartografía el archivo del Coro no termina de fijar*. **Lleva el rifle como signatura del oficio que tuvo arriba**: *cazador*, *explorador*, *guardián de límites geográficos*. La condena no eliminó el oficio; *lo desplazó al Foso*. **Lo que cazaba arriba**, *en el descenso* **se le ha vuelto irrecuperable**.
 
-*La doctrina del Coro del Descenso* registra a Bertrand como **caso ejemplar del Lost One de oficio intacto**: **el alma que conserva la herramienta** —*el rifle, la linterna, el sombrero, las botas de explorador*— **pero ha perdido la finalidad**. **No caza ya nada concreto**; **cuida la linterna**; **dispara cuando se siente despojado**. *La forma del oficio sobrevive a la pérdida del oficio*.
+*La doctrina del [[Anti_Inferno|Coro del Descenso]]* registra a Bertrand como **caso ejemplar del [[Lost_Ones|Lost One]] de oficio intacto**: **el alma que conserva la herramienta** —*el rifle, la linterna, el sombrero, las botas de explorador*— **pero ha perdido la finalidad**. **No caza ya nada concreto**; **cuida la linterna**; **dispara cuando se siente despojado**. *La forma del oficio sobrevive a la pérdida del oficio*.
 
 ---
 
@@ -58,7 +58,7 @@ La lámina **ha sido dictada** — la consignó en la ronda iconográfica del de
 
 **La doctrina del Coro distingue** entre **la Lámpara de la Esperanza** —*atributo de la guía fatídica*— **y la linterna de Llama Divina** —*atributo del cazador maldito*—. *Ambas usan llama no apagable*; *ambas son del aparato litúrgico del Foso*; **operan, sin embargo, en registros distintos**:
 
-- **Lámpara de la Esperanza** (Swedenborg): *fuego que indica el camino al que la mira sin quemarse*. **Función pastoral**.
+- **Lámpara de la Esperanza** ([[Swedenborg]]): *fuego que indica el camino al que la mira sin quemarse*. **Función pastoral**.
 - **Linterna de Llama Divina** (Bertrand): *fuego que el cazador porta para reconocer las geografías del descenso al avanzar*. **Función exploratoria**.
 
 **La linterna está bondeada** —*"bonded weapon"* en la fórmula ritual del Foso—: **está enlazada al alma del cazador por vínculo arcano**, *de modo que el portador no puede ser separado de ella sin operación específica del aparato infernal*. **La doctrina lo registra como protección estándar** del Lost One de oficio: *quien depende de su herramienta para operar, queda ligado a ella por mecánica del descenso*.
@@ -149,8 +149,8 @@ Algunas fuentes del archivo del Coro registran a Bertrand con el epíteto **"el 
 ## Conexiones canónicas
 
 - **[[Sheridron]]** — vínculo cosmológico con la figura del dragón plateado del panteón post-Triunvirato (y/o con [[Sheridan_Sheridron]] en su faceta el Descenso si la lectura cruzada se sostiene; ver ambas entradas).
-- **[[Maristo]]** — el paladín del Ojo en su trayectoria continua; Bertrand opera en el mismo arco infernal que Maristo cruza, y comparten la condición de figuras vinculadas al colapso del aparato sagrado.
-- **[[Maristo_condenado]]** — la faceta infernal del Edecán; el cruce Bertrand–Maristo se documenta en el Foso.
+- **[[Maristo]]** — el paladín del Ojo en su trayectoria continua; Bertrand opera en el mismo arco infernal que [[Maristo]] cruza, y comparten la condición de figuras vinculadas al colapso del aparato sagrado.
+- **[[Maristo_condenado]]** — la faceta infernal del Edecán; el cruce Bertrand–[[Maristo]] se documenta en el Foso.
 - **[[Destruccion_de_Notre_Dame]]** — evento mayor que enmarca la cosmología del descenso de Bertrand; la catedral colapsada es geografía de fondo de su despojo.
 <!-- Bertrand_Sheridron_link -->
 

@@ -14,7 +14,7 @@ aliases:
 ## Presentación
 
 Nombre intermedio adoptado por el grupo que luego sería **[[Rintrah]]**. Progresión de
-denominaciones: Señores de [[York]] → Curiales → Mal Necesario → [[Rintrah]]. Testificado por
+denominaciones: Señores de [[York]] → [[Curiales]] → [[Mal_Necesario_el|Mal Necesario]] → [[Rintrah]]. Testificado por
 **[[Mabron|Mabrón]]** como "¡Qué sutiles!" — reflexión sobre evolución nominal y conceptual del grupo.
 Marca transición hacia identificación más enérgica y caótica.
 

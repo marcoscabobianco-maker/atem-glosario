@@ -9,12 +9,10 @@ aliases:
 
 ## Presentación
 
-**Referencia:** el archivo título + ¶ (dispersas a lo largo de sesión)
+**Contexto:** Operación militar y estratégica. No es un simple viaje sino la toma de una ciudad prisión infernal.
 
-**Contexto:** Operación militar/estratégica ejecutada por grupo en el archivo. No es simple viaje sino toma de ciudad prisión infernal.
+**Descripción:** El grupo infiltra las defensas de [[Dite_Ciudad_infernal|Dite]], ejecuta combates contra los guardianes, confronta a Hécate, y logra el control de la ciudad o negocia su salida.
 
-**Descripción:** Grupo infiltra defenses de [[Dite_Ciudad_infernal|Dite]], ejecuta combates contra guardianes, confronta [[Hecate_Antagonista_Confirmada_S19|Hécate]], logra control de ciudad o negocia salida. Título explícito "asalto" sugiere operación militar.
+**Importancia:** Punto de inflexión. El grupo pasa de la defensiva (escapar) a la ofensiva (tomar territorio infernal). Refleja un nivel grupal alto y un poder considerable.
 
-**Importancia:** Punto de inflexión. Grupo pasa de defensiva (escapar) a ofensiva (tomar territorio infernal). Sugiere nivel grupal alto y poder considerable.
-
-**Resultado:** Grupo logra objetivo (parcial o completo). Ninguna mención de fracaso o retiro.
+**Resultado:** El grupo logra su objetivo, parcial o completo.

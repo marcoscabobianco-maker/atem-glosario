@@ -13,7 +13,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.
 **Nota:** El nombre "Profundos" del grupo de compañeros resuena con las "bestias de profundos" — ¿autodenominación irónica o eco deliberado?
 
 ### el plano operativo
@@ -24,4 +24,4 @@ Criaturas "mitad mauríes, mitad bestias de río/bestias de profundos." [[Guardi
 
 El nombre "Profundos" del grupo de compañeros resuena con las "bestias de profundos" — ¿autodenominación irónica o eco deliberado?
 
-**Ref.:** sesión registrada.
+**Ref.:** jornada registrada.

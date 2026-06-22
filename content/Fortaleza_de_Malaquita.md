@@ -24,23 +24,23 @@ imagen: null
 ---
 # La Fortaleza de Malaquita
 
-> *"Los aventureros avanzaban con pasos calculados, rodeados de penumbra en los interminables pasillos de malaquita negra. La tenue luz de su lámpara fosforescente proyectaba sombras alargadas y danzantes sobre las paredes pulidas, creando la ilusión de movimientos donde no los había."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"Los aventureros avanzaban con pasos calculados, rodeados de penumbra en los interminables pasillos de malaquita negra. La tenue luz de su lámpara fosforescente proyectaba sombras alargadas y danzantes sobre las paredes pulidas, creando la ilusión de movimientos donde no los había."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
 ## El subsuelo de Caldero
 
-**La Fortaleza de Malaquita** —*"Fortaleza de Malaquita"* en boca corriente, *"el subsuelo de Kazmojen"* en los pliegos administrativos del Capitán Skellerang— **es sub-estructura sagrada antigua bajo [[Caldero]]**. *Construida en malaquita negra* —*piedra ornamental verde-oscura pulida que el sub-señorío conserva sin descuido*—. **Activa como sub-señorío clandestino** en el ciclo presente, *bajo mando de [[Kazmojen]] (hasta su derrota por La Jabalina)*.
+**La Fortaleza de Malaquita** —*"Fortaleza de Malaquita"* en boca corriente, *"el subsuelo de [[Kazmojen]]"* en los pliegos administrativos del Capitán [[Capitan_Skellerang|Skellerang]]— **es sub-estructura sagrada antigua bajo [[Caldero]]**. *Construida en malaquita negra* —*piedra ornamental verde-oscura pulida que el sub-señorío conserva sin descuido*—. **Activa como sub-señorío clandestino** en el ciclo presente, *bajo mando de [[Kazmojen]] (hasta su derrota por [[La_Jabalina]])*.
 
 *Acceso desde la superficie*: **pozo octogonal tallado en piedra negra** *que se alcanza tras descender por callejón con trampa de tobogán en la Calle de la Linterna*. **Antiguo ascensor mecánico** *con cadenas que ya no funcionan plenamente* conecta los niveles. *Al fondo del pozo*: **espacio oscuro y opresivo**, *paredes que reflejan la luz fosforescente*, **mecanismo de cadenas en el centro indicando que se está en la base de un antiguo elevador**.
 
-*Conexión con [[Jzadirune]]*: **puertas de engranajes intrincadamente diseñadas** que se abren con **llaves del chaleco del cerrajero Keygan Ghelve**. *La Fortaleza opera adyacente al enclave gnómico*; **algunos pasajes los conectan operativamente**.
+*Conexión con [[Jzadirune]]*: **puertas de engranajes intrincadamente diseñadas** que se abren con **llaves del chaleco del cerrajero [[Keygan_Ghelve]]**. *La Fortaleza opera adyacente al enclave gnómico*; **algunos pasajes los conectan operativamente**.
 
 ---
 
 ## Las salas de la fortaleza
 
-**Las salas principales documentadas en la primera misión de La Jabalina**:
+**Las salas principales documentadas en la primera misión de [[La_Jabalina]]**:
 
 ### El pasillo de las cadenas vacías
 
@@ -48,7 +48,7 @@ imagen: null
 
 ### La sala de la criatura cristalina
 
-*Locus de la trampa despierta*: **escultura tosca de figura monstruosa** con **cuatro apéndices de cristal afilado** que cobran vida al tocarla. **Teo activó la trampa por curiosidad**; **el segundo golpe lo alcanzó perforando su costado**. *Lukas se colocó al frente protegiendo*; *Foggimer alzó el escudo*; *la criatura cristalina se detuvo al perder energía*.
+*Locus de la trampa despierta*: **escultura tosca de figura monstruosa** con **cuatro apéndices de cristal afilado** que cobran vida al tocarla. **Teo activó la trampa por curiosidad**; **el segundo golpe lo alcanzó perforando su costado**. *Lukas se colocó al frente protegiendo*; *[[Fogimer|Foggimer]] alzó el escudo*; *la criatura cristalina se detuvo al perder energía*.
 
 ### La sala del Mayor-Domo Ogro
 
@@ -56,15 +56,15 @@ imagen: null
 
 ### La sala de Zenith Splintershield y las cadenas animadas
 
-*Sala más amplia* con **braseros tallados con forma de criaturas extrañas que emiten humo oscuro**. **Al centro, estatua monumental de [[Zenith_Splintershield]]**, *legendario defensor enano que comandó la fortaleza*. **Gemas incrustadas en los ojos** que tentaron a Teo. *Al rozar la estatua*, **cadenas mágicas se animaron** y atacaron al grupo. **Foggimer rompió el núcleo mágico** golpeando una de las bases de las cadenas; *cayeron al suelo convertidas en simples trozos de hierro*. *La estatua permaneció en su pedestal*, **intacta y vigilante**, *con las gemas todavía brillando*.
+*Sala más amplia* con **braseros tallados con forma de criaturas extrañas que emiten humo oscuro**. **Al centro, estatua monumental de [[Zenith_Splintershield]]**, *legendario defensor enano que comandó la fortaleza*. **Gemas incrustadas en los ojos** que tentaron a Teo. *Al rozar la estatua*, **cadenas mágicas se animaron** y atacaron al grupo. **[[Fogimer|Foggimer]] rompió el núcleo mágico** golpeando una de las bases de las cadenas; *cayeron al suelo convertidas en simples trozos de hierro*. *La estatua permaneció en su pedestal*, **intacta y vigilante**, *con las gemas todavía brillando*.
 
 ### La Cámara de las Máscaras Susurrantes
 
-*Cámara amplia y oscura*, **decorada con máscaras talladas en las paredes**. **Cada máscara parecía mirar directamente a los intrusos**, **un susurro constante llenaba la sala** —*mezcla de advertencias y plegarias que sólo añadía a la opresión del lugar*—. *Lugar de descanso temporal del subgrupo Ayrton-Sila-Tony*; *Sila percibió las voces como advertencia real, pero el grupo no se quedó suficiente tiempo para descubrir qué advertían*.
+*Cámara amplia y oscura*, **decorada con máscaras talladas en las paredes**. **Cada máscara parecía mirar directamente a los intrusos**, **un susurro constante llenaba la sala** —*mezcla de advertencias y plegarias que sólo añadía a la opresión del lugar*—. *Lugar de descanso temporal del subgrupo [[Ayrton_Auslander|Ayrton]]-Sila-Tony*; *Sila percibió las voces como advertencia real, pero el grupo no se quedó suficiente tiempo para descubrir qué advertían*.
 
 ### La galería del Bazar de la Vida
 
-*Sala más amplia y final*: **galería repleta de actividad** *donde criaturas del Subóscuro y esclavistas discutían en susurros*. **Al centro**: **niños encadenados y aterrorizados** *esperando su destino*. **Locus del combate final con Kazmojen** y del rescate de los huérfanos.
+*Sala más amplia y final*: **galería repleta de actividad** *donde criaturas del Subóscuro y esclavistas discutían en susurros*. **Al centro**: **niños encadenados y aterrorizados** *esperando su destino*. **Locus del combate final con [[Kazmojen]]** y del rescate de los huérfanos.
 
 ---
 
@@ -84,19 +84,19 @@ imagen: null
 
 ## Los pasajes a Jzadirune
 
-**Las puertas de engranajes** que bloquearon el avance del subgrupo *son acceso a [[Jzadirune]]*, **el enclave gnómico** *abandonado o semi-poblado* bajo Caldero. **Las llaves del chaleco del cerrajero Keygan Ghelve** *operan las puertas*: **cada giro de una llave resonaba como un eco en la cámara**, *y con un último esfuerzo, las puertas se abrieron, revelando un camino más profundo hacia el enclave gnómico de Jzadirune*.
+**Las puertas de engranajes** que bloquearon el avance del subgrupo *son acceso a [[Jzadirune]]*, **el enclave gnómico** *abandonado o semi-poblado* bajo [[Caldero]]. **Las llaves del chaleco del cerrajero [[Keygan_Ghelve]]** *operan las puertas*: **cada giro de una llave resonaba como un eco en la cámara**, *y con un último esfuerzo, las puertas se abrieron, revelando un camino más profundo hacia el enclave gnómico de [[Jzadirune]]*.
 
-**Ayrton miró hacia atrás, hacia las máscaras susurrantes** que parecían despedirse de ellos. *"Esto apenas comienza"*, **dijo, con una media sonrisa, antes de desaparecer en la penumbra junto a sus compañeros**.
+**[[Ayrton_Auslander|Ayrton]] miró hacia atrás, hacia las máscaras susurrantes** que parecían despedirse de ellos. *"Esto apenas comienza"*, **dijo, con una media sonrisa, antes de desaparecer en la penumbra junto a sus compañeros**.
 
 ---
 
 ## El estatuto cosmológico
 
-**La Fortaleza de Malaquita es** *sub-estructura sagrada antigua* **que el cosmos extendido conserva con función específica en Caldero**:
+**La Fortaleza de Malaquita es** *sub-estructura sagrada antigua* **que el cosmos extendido conserva con función específica en [[Caldero]]**:
 
-- **Conserva memoria de Zenith Splintershield** *(defensor enano legendario que comandó la fortaleza en otra era)*.
+- **Conserva memoria de [[Zenith_Splintershield]]** *(defensor enano legendario que comandó la fortaleza en otra era)*.
 - **Opera con cadenas animadas** *que el cosmos no ha desactivado*, **vigilando lo que la estatua y las gemas custodian**.
-- **Conecta con Jzadirune** *(enclave gnómico)* y con la **[[Capilla_Oscura]]** *(sub-estructura sellada de Caldero)*.
+- **Conecta con [[Jzadirune]]** *(enclave gnómico)* y con la **[[Capilla_Oscura]]** *(sub-estructura sellada de Caldero)*.
 - **Sirvió, en el ciclo presente, como sede del bazar de la Vida** *bajo Kazmojen* —*operación clandestina que el sub-señorío ancestral no había anticipado pero que la geografía permitió*—.
 
 *Tras la derrota de Kazmojen*, **la Fortaleza queda como espacio sin amo claro**. **Podría ser tomada por otro sub-señor del polo negativo**; *o quedar vacante hasta el próximo ciclo*; *o ser reclamada por el cosmos extendido como locus restaurado*. *El archivo no fija el destino*.
@@ -120,7 +120,7 @@ imagen: null
 
 ## Apariciones
 
-- **Era de Zenith Splintershield** — fortaleza comandada por defensor enano legendario
+- **Era de [[Zenith_Splintershield]]** — fortaleza comandada por defensor enano legendario
 - **Siglos posteriores** — abandono parcial, conservación con escarabajos de fuego en jaulas
 - **Período Kazmojen** — sub-señorío clandestino, bazar de la Vida activo
 - **Primera misión de La Jabalina** — penetración del subgrupo, combates con criatura cristalina, ogro, cadenas animadas, Skulks; rescate de niños; derrota de Kazmojen

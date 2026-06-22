@@ -19,7 +19,7 @@ aliases:
 
 ## Presentación
 
-Título adoptado por **[[GRDT]]** (**[[Grazzt|Graz'zt]]**) como gobernante de **[[Axum]]**. También denominación de la línea dinástica. Malakya tuvo seis hijos: **Sum**, **Nafas**, **Bagio**, **Kuduki**, **Akhorro** y **Fasheba**. Estos fueron los vengadores de su padre: acabaron con los generales romanos que habían permitido la humillación de [[GRDT]] durante su prisión. Al *legatus minaya* le robaron además la espada; al adivino del *solis invicti*, mataron.
+Título adoptado por **[[GRDT]]** (**[[Grazzt|Graz'zt]]**) como gobernante de **[[Axum]]**. También denominación de la línea dinástica. Malakya tuvo seis hijos: **Sum**, **Nafas**, **Bagio**, **[[Kuduki]]**, **[[Akhorro]]** y **[[Fasheba]]**. Estos fueron los vengadores de su padre: acabaron con los generales romanos que habían permitido la humillación de [[GRDT]] durante su prisión. Al *legatus minaya* le robaron además la espada; al adivino del *solis invicti*, mataron.
 
 El general romano asesinado era conocido como una encarnación de *Mars Vltor* (Marte Vengador), la personificación de la venganza del estado sobre los asesinos del César. La pregunta que plantea el documento Skronamon es: "¿Cómo se venga a un vengador?"
 

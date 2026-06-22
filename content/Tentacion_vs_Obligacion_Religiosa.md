@@ -8,11 +8,8 @@ aliases:
 
 ## Presentación
 
-**Tema central:** Grupo es puesto a prueba: ¿Quedan en paraíso tentador (placer eterno) o parten (obligación, búsqueda, deber)? Elige obligación.
-**Expresión narrativa:** Lirio "arrodillado llorando" — trauma de haber cometido renuncia. [[Reynaud|Reynaud]] como voz de obligación/fe. [[Michel|Michel]] bajo sugestión simboliza "caída" en tentación.
-**Significancia:** Exploración de ética templaria (renuncia, deber, fe) vs. tentación humana (placer, inmortalidad).
+El grupo fue puesto ante una disyuntiva definitoria: permanecer en un paraíso de placer eterno o partir hacia la búsqueda y el deber. Eligió la obligación. [[Lirio]] quedó arrodillado llorando, atravesado por el trauma de esa renuncia. [[Michel|Michel]], bajo sugestión, encarnó la caída momentánea en la tentación, y fue luego la voz de la fe y del compromiso.
 
 ## Ver también
 
-- Tema central
-- [[Expresion_narrativa|Expresión narrativa]]
+- [[Michel|Michel]]

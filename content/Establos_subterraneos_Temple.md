@@ -23,9 +23,9 @@ imagen: Imagenes_Tier1/Establos_subterraneos_Temple.png
 ![[Imagenes_Tier1/Establos_subterraneos_Temple.png]]
 <!-- /HEADER_IMG -->
 
-> *"La caballeriza visible del Temple alojaba doscientos caballos. La invisible alojaba diez veces más."*
+> *"La caballeriza visible del [[Temple_complejo_TE|Temple]] alojaba doscientos caballos. La invisible alojaba diez veces más."*
 
-La lámina lo fija como **gran sala abovedada**, **pilares de piedra a intervalos regulares**, **boxes con caballos blancos y bayos a ambos lados** del pasillo central, **fardos de paja apilados**, **antorchas a intervalos**. **Dos templarios** caminan por el centro, capas blancas con cruz roja. **La perspectiva es imposible**: la sala se extiende más allá de donde el subsuelo del Temple debería permitir.
+La lámina lo fija como **gran sala abovedada**, **pilares de piedra a intervalos regulares**, **boxes con caballos blancos y bayos a ambos lados** del pasillo central, **fardos de paja apilados**, **antorchas a intervalos**. **Dos templarios** caminan por el centro, capas blancas con cruz roja. **La perspectiva es imposible**: la sala se extiende más allá de donde el subsuelo del [[Temple_complejo_TE|Temple]] debería permitir.
 
 *La regla operativa del cronista*: cuando una arquitectura excede las dimensiones geológicas que el subsuelo admite, la arquitectura no es subsuelo. Es **pliegue cosmológico** acomodado en plano material.
 

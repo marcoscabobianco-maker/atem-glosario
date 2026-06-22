@@ -13,7 +13,7 @@ Doncella de compañía. Nephilim que trafica objetos mágicos y sexo casual. Muj
 
 ## Apariciones notables
 
-el archivo: [[Grand_Hotel_de_Paris|Grand Hotel de París]] [1:15:48] como visitante/portadora de cartas entre [[Moni_Vivescu|Mony]] y sus contactos. Identidad de [[Culculine]] revelada a través de cartas (carta de [[Culculine]] a [[Moni_Vivescu|Mony]]: "Mi bello rumano... "). el archivo: reaparece como empleada del tren/hotel.
+el archivo: [[Grand_Hotel_de_Paris|Grand Hotel de París]] como visitante/portadora de cartas entre [[Moni_Vivescu|Mony]] y sus contactos. Identidad de [[Culculine]] revelada a través de cartas (carta de [[Culculine]] a [[Moni_Vivescu|Mony]]: "Mi bello rumano... "). el archivo: reaparece como empleada del tren/hotel.
 
 ## Notas
 

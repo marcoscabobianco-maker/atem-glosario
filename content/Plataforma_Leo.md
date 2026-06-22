@@ -27,7 +27,7 @@ imagen: Imagenes_Tier1/Plataforma_Leo.png
 
 > *"El león no necesita rugir. La plataforma sabe quién es el rey aunque el rey no diga nada."*
 
-**Quinta casa del zodiaco**, sigue a Cáncer en el ciclo. **Plataforma flotante de piedra arena dorada** *tallada con el signo del león*; **en su centro, una estatua colosal de león de seis metros**, *ojos medio abiertos*. *Alrededor de la estatua*, **un círculo de figuras-guardián menores portando antorchas**.
+**Quinta casa del zodiaco**, sigue a Cáncer en el ciclo. **[[Aldebaran_Estrella_Plataforma|Plataforma]] flotante de piedra arena dorada** *tallada con el signo del león*; **en su centro, una estatua colosal de león de seis metros**, *ojos medio abiertos*. *Alrededor de la estatua*, **un círculo de figuras-guardián menores portando antorchas**.
 
 Su columna esencial es **la soberanía solar**: *el centro reconocido*, *la luz que no compite*, *la realeza que opera sin demostrarse*. **Los ojos del león con tono cálido dorado** *son signo cosmológico*: **quien los mira despierta al león**.
 

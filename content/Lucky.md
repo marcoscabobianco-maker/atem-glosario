@@ -25,13 +25,13 @@ imagen: null
 ---
 # Lucky
 
-> *"De nombre real reservado, Lucky combina la nobleza de un paladín con la sutileza de la magia arcana. Sus golpes imbuidos de poder divino —los tremendos smites— son temidos por todo aquel que se atreva a alzarse contra el bien. Se rumorea que proviene de un antiguo linaje de caballeros relacionados con Arian, aunque pocos se arriesgan a que cuente más."* — Mascor Blancarba, *Gacetilla de Caldero*.
+> *"De nombre real reservado, Lucky combina la nobleza de un paladín con la sutileza de la magia arcana. Sus golpes imbuidos de poder divino —los tremendos smites— son temidos por todo aquel que se atreva a alzarse contra el bien. Se rumorea que proviene de un antiguo linaje de caballeros relacionados con Arian, aunque pocos se arriesgan a que cuente más."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---
 
 ## El nombre reservado
 
-**Lucky** —*así se lo conoce en Caldero, en La Jabalina y en la prensa sensacionalista*— **opera bajo nombre que no es el suyo**. *Su nombre real está reservado*: **el archivo no lo preserva** *no por descuido sino por decisión del propio caballero*. **Pocos se arriesgan a preguntar más allá de "Lucky"**; *quien lo pregunta no recibe respuesta*.
+**Lucky** —*así se lo conoce en [[Caldero]], en [[La_Jabalina]] y en la prensa sensacionalista*— **opera bajo nombre que no es el suyo**. *Su nombre real está reservado*: **el archivo no lo preserva** *no por descuido sino por decisión del propio caballero*. **Pocos se arriesgan a preguntar más allá de "Lucky"**; *quien lo pregunta no recibe respuesta*.
 
 *El epíteto "Lucky"* —*"el afortunado"*— **opera con doble sentido**: **el afortunado en combate** (*sus smites celestiales hacen retumbar el cielo*) *y* **el afortunado de tener nombre que el cosmos extendido no obliga a pronunciar**. **Algo en el linaje verdadero del caballero hace conveniente la opacidad**; *el archivo lo respeta*.
 
@@ -39,14 +39,14 @@ imagen: null
 
 ## El linaje vinculado con Arian
 
-**El dato cosmológico mayor**: *según rumores que el archivo conserva con cuidado*, **Lucky proviene de "un antiguo linaje de caballeros relacionados con [[Arian]]"**. *Pocos se arriesgan a que cuente más*. **El cronista mayor anota la sospecha**: **Lucky es avatar de la [[Linea_Arian_Avatares|Línea Arian]]** *en su manifestación caldera*, **rama tardía del 25.º sol primigenio operando como caballero Sagrada Orden en el ciclo presente del mundo-gema Vala Cristalis**.
+**El dato cosmológico mayor**: *según rumores que el archivo conserva con cuidado*, **Lucky proviene de "un antiguo linaje de caballeros relacionados con [[Arian]]"**. *Pocos se arriesgan a que cuente más*. **El cronista mayor anota la sospecha**: **Lucky es avatar de la [[Linea_Arian_Avatares|Línea Arian]]** *en su manifestación caldera*, **rama tardía del 25.º sol primigenio operando como caballero [[Sagrada_Orden]] en el ciclo presente del mundo-gema [[Vala_Cristalis]]**.
 
 *La línea completa de avatares*:
 1. **[[Arian]]** — elfo primigenio divinizado del Panteón
 2. **[[Auro_CI|Auro]]** — héroe del Renacimiento
 3. **[[Arian|el avatar arlequín]]** — paladín-arlequín del Foso
 4. **[[Caladan]]** — wonderwalker vampirizado, darklord involuntario de Valakhan
-5. **Lucky** — caballero Sagrada Orden de Caldero
+5. **Lucky** — caballero [[Sagrada_Orden]] de [[Caldero]]
 
 *Y el sexto avatar anticipado* **podría operar en pliegue cosmológico que el archivo no ha consolidado plenamente**.
 
@@ -60,7 +60,7 @@ imagen: null
 
 *Hipótesis sobre la doble doctrina*:
 
-- **Multiclase doctrinal** *autorizado por la Sagrada Orden tardía*, *que reconoce la magia arcana como complemento de la fe activa en operaciones de frontera*.
+- **Doble senda doctrinal** *autorizada por la Sagrada Orden tardía*, *que reconoce la magia arcana como complemento de la fe activa en operaciones de frontera*.
 - **Don específico de su linaje Arian**, *que opera en la columna paladinesca-arcana del cosmos extendido* —*paralelo a Adam Arlequín en el Foso, que también opera con paladín + arcana*—.
 - **Pacto secreto con entidad cosmológica menor**, *no del polo negativo, sino del polo arcana primigenio*, *que el archivo no preserva con detalle*.
 
@@ -70,9 +70,9 @@ imagen: null
 
 ## Las apariciones en combate
 
-**Una de las apariciones documentadas en prensa**: **"Cuando las sombras más densas rodeaban a los héroes, Lucky, el caballero de la Sagrada Orden, desató un smite que iluminó incluso los corazones más oscuros. En una sala festiva arrasada por ratas y murciélagos, Lucky lideró la carga contra un vampiro bugbear. ¿Podrá La Jabalina detener a las criaturas nocturnas antes de que la reina goblin escape?"**
+**Una de las apariciones documentadas en prensa**: **"Cuando las sombras más densas rodeaban a los héroes, Lucky, el caballero de la Sagrada Orden, desató un smite que iluminó incluso los corazones más oscuros. En una sala festiva arrasada por ratas y murciélagos, Lucky lideró la carga contra un vampiro bugbear. ¿Podrá [[La_Jabalina]] detener a las criaturas nocturnas antes de que la reina goblin escape?"**
 
-*El patrón se repite*: **cuando el grupo enfrenta enemigos del polo negativo** —*vampiros, no-muertos, criaturas del Shadowfell, manifestaciones infernales*—, **Lucky se posiciona al frente**. *Sus smites celestiales* **inflingen daño desproporcionado** a las entidades oscuras, *especialmente las que poseen alguna forma de sombra o muerte ritualizada*.
+*El patrón se repite*: **cuando el grupo enfrenta enemigos del polo negativo** —*vampiros, no-muertos, criaturas del [[Shadowfell]], manifestaciones infernales*—, **Lucky se posiciona al frente**. *Sus smites celestiales* **inflingen daño desproporcionado** a las entidades oscuras, *especialmente las que poseen alguna forma de sombra o muerte ritualizada*.
 
 **El pueblo de Caldero lo reconoce** como **figura mayor del polo luminoso del cosmos extendido**. *Sus apariciones públicas* **incrementan la moral popular** *en momentos de tensión sostenida*.
 
@@ -80,9 +80,9 @@ imagen: null
 
 ## La habitación compartida con Teo
 
-**Lucky comparte habitación principal del Bastardo Cromas con [[Teo_Paladin_Sin_Brazo|Teo]]**, *el paladín sin brazo*. *Gossip & Style* especuló: *"¿Será que están conspirando para convertirse en la dupla más poderosa de Caldero?"*. *"¡Ojo, dicen que la orden sagrada no ve con buenos ojos tanto gasto en lujos!"*
+**Lucky comparte habitación principal del [[Bastardo_Cromas]] con [[Teo_Paladin_Sin_Brazo|Teo]]**, *el paladín sin brazo*. *Gossip & Style* especuló: *"¿Será que están conspirando para convertirse en la dupla más poderosa de Caldero?"*. *"¡Ojo, dicen que la orden sagrada no ve con buenos ojos tanto gasto en lujos!"*
 
-**La crítica de la orden sagrada** *es real*: **algunos hierofantes del Templo de San Cutberto** *han comentado privadamente* que **el gasto del Bastardo Cromas** (*seiscientas monedas de oro por tres meses*) **es inapropiado para caballeros de oficio paladinesco**. *La doctrina ortodoxa de la Sagrada Orden* **enfatiza la pobreza ritual** —*vida austera, sin lujos, dedicación a la causa*—. **Lucky y Teo desvían la doctrina ortodoxa**, *aceptando contrato de financiación con el Capitán Skellerang* y *mudándose a casa de mago excéntrico*.
+**La crítica de la orden sagrada** *es real*: **algunos hierofantes del [[Templo_de_San_Cutberto]]** *han comentado privadamente* que **el gasto del [[Bastardo_Cromas]]** (*seiscientas monedas de oro por tres meses*) **es inapropiado para caballeros de oficio paladinesco**. *La doctrina ortodoxa de la Sagrada Orden* **enfatiza la pobreza ritual** —*vida austera, sin lujos, dedicación a la causa*—. **Lucky y Teo desvían la doctrina ortodoxa**, *aceptando contrato de financiación con el Capitán [[Capitan_Skellerang|Skellerang]]* y *mudándose a casa de mago excéntrico*.
 
 *La justificación operativa*: **el grupo necesita base operativa adecuada para enfrentar amenazas cosmológicas mayores**. *El gasto es práctico*, *no ostentativo*. **Pero la doctrina ortodoxa no acepta plenamente el argumento**; **el grupo opera con tensión institucional sutil**.
 
@@ -90,7 +90,7 @@ imagen: null
 
 ## El vínculo con la profecía Cageewrights
 
-**Teo está atado a la profecía**; *Lucky comparte habitación con él*. **¿Está Lucky también implicado en la profecía Cageewrights?** *El archivo no lo confirma*, **pero la proximidad operativa es significativa**: *donde Teo está, Lucky está cerca*. *Si los Cageewrights buscan a Teo*, **Lucky es escudo natural**.
+**Teo está atado a la profecía**; *Lucky comparte habitación con él*. **¿Está Lucky también implicado en la profecía [[Cageewrights]]?** *El archivo no lo confirma*, **pero la proximidad operativa es significativa**: *donde Teo está, Lucky está cerca*. *Si los [[Cageewrights]] buscan a Teo*, **Lucky es escudo natural**.
 
 **Hipótesis adicional del archivero del Plata**: **Lucky es avatar Arian luminoso destinado a contrabalancear la profecía Cageewrights desde el polo positivo del cosmos extendido**. *Su sangre vinculada con Arian* **lo posiciona como cuerpo cosmológico defensivo natural**. **El cosmos extendido coloca a Lucky junto a Teo** *como protección estructural*, *no como casualidad de habitación*.
 
@@ -101,7 +101,7 @@ imagen: null
 ## Vínculos
 
 - [[La_Jabalina]] — grupo del que es miembro
-- [[Sagrada_Orden_la]] — orden de su formación paladinesca
+- [[Sagrada_Orden|Sagrada Orden]] — orden de su formación paladinesca
 - [[Arian]] — primigenio del linaje al que pertenece
 - [[Linea_Arian_Avatares]] — línea cosmológica de avatares
 - [[Auro_CI]] — segundo avatar de la línea

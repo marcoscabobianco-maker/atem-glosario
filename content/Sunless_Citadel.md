@@ -1,12 +1,9 @@
 ---
+redirect_to: Ciudadela_Hundida
 aliases:
- - ""
+ - Sunless_Citadel
 ---
 
-# 
+# → [[Ciudadela_Hundida]]
 
-<!-- HEADER_IMG -->
-![[Imagenes_Tier1/Sunless_Citadel.png]]
-<!-- /HEADER_IMG -->
-
-Entrada a la sunken en ravine.
+*Esta entrada ha sido renombrada. Ver [[Ciudadela_Hundida]].*

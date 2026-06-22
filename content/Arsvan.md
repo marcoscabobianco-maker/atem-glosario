@@ -27,21 +27,23 @@ epoca: "1119 AD — Edad Templaria — hasta su sacrificio en 1889 A.D.A."
 ![[Imagenes_Tier1/Arsvan.png]]
 <!-- /HEADER_IMG -->
 
-> *El último templario del Laberinto de Marfil. El que tocó la esfera por ella. El puente que estalla y abre París.*
+> *El último templario del [[Laberinto_de_Marfil]]. El que tocó la esfera por ella. El puente que estalla y abre París.*
 
 ## Presentación
 
-Ärsvan es **guerrero templario, maestro de armas, antipaladín**. Porta la **armadura de Baphomet** —que no llevaría cualquiera, y que él vistió sin disculpas—. Aprendió en Jerusalén bajo Hugo de Payns, durante el período en que la Orden todavía tenía dos caras y nadie las distinguía del todo. Fue él, con la **lanza bendita** en la mano, quien atravesó al Maestre desdoblado en el Sancta Sanctorum, cuando la forma negra de Hugo cayó sobre los caballeros y la Cruz se peleaba con la Cruz.
+Ärsvan es **guerrero templario, maestro de armas, antipaladín**. Porta la **armadura de [[Baphomet]]** —que no llevaría cualquiera, y que él vistió sin disculpas—. Aprendió en Jerusalén bajo [[Hugo_de_Payns]], durante el período en que la Orden todavía tenía dos caras y nadie las distinguía del todo. Fue él, con la **lanza bendita** en la mano, quien atravesó al Maestre desdoblado en el Sancta Sanctorum, cuando la forma negra de Hugo cayó sobre los caballeros y la Cruz se peleaba con la Cruz.
 
 Pero el acto que lo define no es ese. Es el otro, el de París.
 
-Se enamoró de **Ariadna** en las puertas del laberinto. La amó con la clase de amor que los templarios condenados aman: por dentro, sin decirlo del todo, llevando la armadura puesta hasta en la cama. De ella tuvo un hijo, **Swann**, que viviría su propia historia en otro siglo. Pero antes de eso, Ärsvan se convirtió en **Time Bandit** y colocó, junto con otros, el **explosivo de caos puro** bajo la Catedral de París.
+Se enamoró de **[[Ariadna]]** en las puertas del laberinto. La amó con la clase de amor que los templarios condenados aman: por dentro, sin decirlo del todo, llevando la armadura puesta hasta en la cama. De ella tuvo un hijo, **Swann**, que viviría su propia historia en otro siglo. Pero antes de eso, Ärsvan se convirtió en **Time Bandit** y colocó, junto con otros, el **explosivo de caos puro** bajo la [[Catedral_de_Notre-Dame_PU|Catedral de París]].
 
-Segundos antes de la detonación, **Ser No Ser** —el que cruza los planos sin nombre— le ofreció una **esfera de obliteración**. Ariadna estaba destinada a tocarla. Ärsvan se anticipó. La tocó él. Se obliteró para que ella viviera.
+Segundos antes de la detonación, **[[Ser_No_Ser]]** —el que cruza los planos sin nombre— le ofreció una **esfera de obliteración**. [[Ariadna]] estaba destinada a tocarla. Ärsvan se anticipó. La tocó él. Se obliteró para que ella viviera.
 
-La explosión liberó a Ariadna del laberinto, hundió la Catedral, abrió París para que entraran los Reguladores. La *nightsword* —la espada que sólo se ve de noche, divisa de la banda que vendría— empieza a brillar el día que la esfera apaga al último templario de la Orden del Laberinto de Marfil. Sin Ärsvan no hay puente entre los Templarios y los Reguladores. Por eso entra en cualquier rosario que cuente el linaje de los condenados: es el martirio externo que hace posible todo lo demás.
+La explosión liberó a Ariadna del laberinto, hundió la Catedral, abrió París para que entraran los Reguladores. Sin Ärsvan no hay puente entre los [[Templarios]] y los Reguladores. Por eso entra en cualquier rosario que cuente el linaje de los condenados: es el martirio externo que hace posible todo lo demás.
 
-Después, en el Inferno, Ärsvan reaparece como **templario condenado**. Reza en la capilla profanada del Castillo de Siegling. Cruza a Helter sin reconocerlo del todo. Los dos llevan, sin saberlo, el peso de la misma catedral.
+Después, en el Inferno, Ärsvan reaparece como **templario condenado**. Reza en la capilla profanada del [[Castillo_de_Siegling]]. Cruza a [[Helter]] sin reconocerlo del todo. Los dos llevan, sin saberlo, el peso de la misma catedral.
+
+Y el Inferno le reserva el cruce más cruel: durante el combate contra [[Ariadna]] —que allí responde al nombre de Genoveva— es interpelado por su propio nombre. Eco directo del sacrificio bajo la [[Catedral_de_Notre-Dame_PU|Catedral de París]]: el que tocó la esfera para que ella viviera vuelve a tenerla enfrente entre los condenados.
 
 ## Linaje y vínculos íntimos
 
@@ -50,7 +52,7 @@ Después, en el Inferno, Ärsvan reaparece como **templario condenado**. Reza en
 
 ## Vínculos
 
-- [[Campana_Templarios_TE|Orden del Temple]] — Orden del Laberinto de Marfil
+- [[Campana_Templarios_TE|Orden del Temple]] — Orden del [[Laberinto_de_Marfil]]
 - [[Hugo_de_Payns]] — Maestre desdoblado, atravesado por su lanza
 - [[Catedral_de_Notre-Dame_PU|Catedral de París]] — el explosivo, la obliteración
 - [[Ser_No_Ser]] — quien ofrece la esfera
@@ -61,5 +63,6 @@ Después, en el Inferno, Ärsvan reaparece como **templario condenado**. Reza en
 
 - Jerusalén ~1119-1120 — formación templaria
 - Sancta Sanctorum — lanza bendita contra Hugo
-- Catedral de París — explosivo de caos puro, obliteración
-- Castillo de Siegling — capilla profanada, encarnación condenada en el Inferno
+- [[Catedral_de_Notre-Dame_PU|Catedral de París]] — explosivo de caos puro, obliteración
+- [[Castillo_de_Siegling]] — capilla profanada, encarnación condenada en el Inferno
+- Inferno — combate contra Ariadna/Genoveva, interpelado por su propio nombre

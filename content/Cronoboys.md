@@ -47,5 +47,5 @@ Sobre los Cronoboys pesa la **regla del pasaje único**: no hay reembolso. El [[
 
 ## Apariciones
 
-- **Belle Époque uchrónica continua** — esperan en paradas de tranvía y en antesalas del Palacio del Tiempo
+- **Belle Époque uchrónica continua** — esperan en paradas de tranvía y en antesalas del [[Palacio_del_Tiempo]]
 - **Tránsito a la Catedral** — algunos volvieron de allí más viejos que sus padres

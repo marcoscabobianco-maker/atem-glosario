@@ -29,11 +29,11 @@ tags:
 
 ## Presentación
 
-Los **handouts Pyrexianos** son **el material físico de papel** que la mesa conserva del culto: **un mapa de París 1898**, un **diagrama táctico** y un **fragmento de Pyrexian script** —la magigrafía propia del culto, ilegible para quien no la haya estudiado—. Los tres aparecen en el Descenso como evidencia recuperada de las operaciones del culto bajo la ciudad.
+Los **handouts [[Pyrexianos_culto|Pyrexianos]]** son **el material físico de papel** que la mesa conserva del culto: **un mapa de París 1898**, un **diagrama táctico** y un **fragmento de Pyrexian script** —la magigrafía propia del culto, ilegible para quien no la haya estudiado—. Los tres aparecen en el Descenso como evidencia recuperada de las operaciones del culto bajo la ciudad.
 
 ### El mapa
 
-El **mapa de París 1898** lleva **cinco cruces rojas** —una por bomba, una por brasero, una por cultista—. Las cruces caen sobre los nudos del osario subterráneo: puntos en torno a iglesias, panteones y catacumbas donde los Pyrexianos coordinan la red de detonación. Quien lee el mapa con cuidado entiende **dónde va a estallar todo y en qué orden**. Esa lectura no es académica: es operativa. Los compañeros que llegan al handout están a tiempo —o no— de desactivar la red.
+El **mapa de París 1898** lleva **cinco cruces rojas** —una por bomba, una por brasero, una por cultista—. Las cruces caen sobre los nudos del osario subterráneo: puntos en torno a iglesias, panteones y catacumbas donde los [[Pyrexianos_culto|Pyrexianos]] coordinan la red de detonación. Quien lee el mapa con cuidado entiende **dónde va a estallar todo y en qué orden**. Esa lectura no es académica: es operativa. Los compañeros que llegan al handout están a tiempo —o no— de desactivar la red.
 
 ### El diagrama táctico
 
@@ -55,4 +55,4 @@ El **fragmento** es **caligrafía de magigrafía**: traza propia del culto, deri
 ## Apariciones
 
 - el Descenso — handouts entregados por como pista/evidencia del culto
-- París 1898 — referencia diegética del mapa (eje Antiterra/PU)
+- París 1898 — referencia diegética del mapa (eje [[Antiterra]]/PU)

@@ -30,7 +30,7 @@ imagen: Imagenes_Tier1/Dungeon_de_la_Espina_entrada_nueva_MC.png
 
 ---
 
-**La Dungeon de la Espina es subterráneo recurrente del cosmos compartido**: *no figura siempre en el mismo sitio*, **pero figura siempre con la misma forma**: pasaje estrecho, **vegetales-pinchados que crecen del techo y del suelo**, *luz vegetal-dorada al fondo*, **figura humana al término del corredor que el viajero nunca alcanza del todo**. Las versiones más antiguas la sitúan **bajo una rama del Valle del Barrado**; las más nuevas la han hallado **bajo el sitio de la Catedral implosionada**.
+**La Dungeon de la Espina es subterráneo recurrente del cosmos compartido**: *no figura siempre en el mismo sitio*, **pero figura siempre con la misma forma**: pasaje estrecho, **vegetales-pinchados que crecen del techo y del suelo**, *luz vegetal-dorada al fondo*, **figura humana al término del corredor que el viajero nunca alcanza del todo**. Las versiones más antiguas la sitúan **bajo una rama del [[Valle_del_Barrado]]**; las más nuevas la han hallado **bajo el sitio de la [[Catedral_implosionada_PU|Catedral implosionada]]**.
 
 **La entrada nueva** —*"nueva" en el archivo del Plata, que la registra como tal porque difiere de la entrada original*—: **es accesible sólo a quienes ya intentaron una vez**. *Lo que el archivero del Plata anota como dato técnico*: **la primera vez no entra nadie**. **La segunda vez sí, si insiste**. La regla no es metafórica: la espina mide el desempeño del visitante anterior y **decide si abre o no abre**.
 
@@ -50,4 +50,4 @@ imagen: Imagenes_Tier1/Dungeon_de_la_Espina_entrada_nueva_MC.png
 ## Apariciones
 
 - **Tránsitos continuos del cosmos compartido** — entrada accesible al insistente
-- **Variante moderna bajo la Catedral implosionada** — registro reciente del archivero
+- **Variante moderna bajo la [[Catedral_implosionada_PU|Catedral implosionada]]** — registro reciente del archivero

@@ -22,15 +22,15 @@ imagen: null
 ---
 # La Revolución Industrial Mágica
 
-> *"De joven me impactaron las historias de posibles nuevas máquinas impulsadas por la magia, talleres que mezclan alquimia y vapor, y gremios capaces de forjar artefactos cada vez más asombrosos."* — Mascor Blancarba, *Crónica de un Visitante Curioso*.
+> *"De joven me impactaron las historias de posibles nuevas máquinas impulsadas por la magia, talleres que mezclan alquimia y vapor, y gremios capaces de forjar artefactos cada vez más asombrosos."* — [[Mascor_Blancarba]], *[[Crónica_de_un_Visitante_Curioso]]*.
 
 ---
 
 ## El surgimiento
 
-**La Revolución Industrial Mágica** —*"Revolución mágico-industrial"* en algunas formulaciones, *"la Revolución"* sin más en boca corriente de Ciudad Estrella— **es transformación tecnológico-mágica del mundo-gema** [[Vala_Cristalis]] *acelerada drásticamente desde 1812 AE*. **El detonante**: **la caída del [[Papa_Borg_de_Caldero|Papa Borg de Caldero]]** *y la disolución de la teocracia eclesial que la frenaba*.
+**La Revolución Industrial Mágica** —*"Revolución mágico-industrial"* en algunas formulaciones, *"la Revolución"* sin más en boca corriente de [[Ciudad_Estrella]]— **es transformación tecnológico-mágica del mundo-gema** [[Vala_Cristalis]] *acelerada drásticamente desde 1812 AE*. **El detonante**: **la caída del [[Papa_Borg_de_Caldero|Papa Borg de Caldero]]** *y la disolución de la teocracia eclesial que la frenaba*.
 
-*La teocracia papal había impedido el progreso* **para mantener su control absoluto**. *Tras la caída del Papa*, **los nobles industriales tomaron el control** y **aceleraron el desarrollo tecnológico**. **Las partes más ricas de Ciudad Estrella avanzaron rápidamente**, *cambiando la vida de los ciudadanos más acomodados*.
+*La teocracia papal había impedido el progreso* **para mantener su control absoluto**. *Tras la caída del Papa*, **los nobles industriales tomaron el control** y **aceleraron el desarrollo tecnológico**. **Las partes más ricas de [[Ciudad_Estrella]] avanzaron rápidamente**, *cambiando la vida de los ciudadanos más acomodados*.
 
 ---
 

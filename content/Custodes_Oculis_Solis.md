@@ -37,18 +37,18 @@ Los **Custodes Oculis Solis** —*Custodios del Ojo Solar*, también llamados **
 
 ### Dos manifestaciones documentadas
 
-1. **Sacerdotes de Thoth con cabeza de garza** — orden histórica que "vivió en el agua que se llevó" (Ritornello / Ardisvala antes del desastre). Corte celestial con animales de cabeza de garza.
-2. **Guardias prismáticos del Papa Alejandro Sixto** — en el regreso tras el Hiato, los custodios que aparecen en el [[Palacio_del_Prisma]] son descritos así:
+1. **Sacerdotes de Thoth con cabeza de garza** — orden histórica que "vivió en el agua que se llevó" ([[Ritornello]] / Ardisvala antes del desastre). Corte celestial con animales de cabeza de garza.
+2. **Guardias prismáticos del [[Papa_Alejandro_Sixto]]** — en el regreso tras el Hiato, los custodios que aparecen en el [[Palacio_del_Prisma]] son descritos así:
  > *"Humanoide de luz dorada solidificada con el rostro de oro pulido. Sin facciones. Un pectoral de águila imperial sosteniendo un ojo de sol. Emanan una luz de aura de plano positivo."*
 
-**Reveal 2026-05-20**: las dos manifestaciones son **una misma orden en distintas formas** —la garza es la forma terrenal/diegética pre-hiato; la luz dorada es la forma cósmica/celestial **reactivada al servicio del [[Papa_Alejandro_Sixto]]** dentro del dominio [[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]. La transformación ocurrió durante el [[Hiato_15_Años_Ardis_Vala|hiato de 15 años]].
+**Revelación del archivo**: las dos manifestaciones son **una misma orden en distintas formas** —la garza es la forma terrenal/diegética pre-hiato; la luz dorada es la forma cósmica/celestial **reactivada al servicio del [[Papa_Alejandro_Sixto]]** dentro del dominio [[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]. La transformación ocurrió durante el [[Hiato_15_Años_Ardis_Vala|hiato de 15 años]].
 
 ### Funciones documentadas
 
-- **Custodios del [[Papa_Alejandro_Sixto|Papa Alejandro Sixto]]** — Cuando el bibliotecario del Palacio del Prisma transmite a su superior, **dos custodios surgen al lado de cada compañero** para escoltarlo. Sin emoción, sin facciones, sin habla.
-- **Energía positiva intensa** — Su aura es **plano positivo** (anti-no-muertos por naturaleza, dañina a vampiros como **Caladan**).
+- **Custodios del [[Papa_Alejandro_Sixto|Papa Alejandro Sixto]]** — Cuando el bibliotecario del [[Palacio_del_Prisma]] transmite a su superior, **dos custodios surgen al lado de cada compañero** para escoltarlo. Sin emoción, sin facciones, sin habla.
+- **Energía positiva intensa** — Su aura es **plano positivo** (anti-no-muertos por naturaleza, dañina a vampiros como **[[Caladan]]**).
 - **Capacidad de juzgar / validar** — Antes de ser llevado al Papa, el custodio sopesa la moralidad del compañero. Quien intente forzar el círculo prismático es **destruido**.
-- **Ceremonia procesional** — La procesión celestial que **Numa Pompidio vio antes de morir** —cruzando un portal con símbolos no visibles para mortales, llevándose el cuerpo de un compañero, dejando manuscritos— es atribuible a esta orden.
+- **Ceremonia procesional** — La procesión celestial que **[[Numa_Pompidio]] vio antes de morir** —cruzando un portal con símbolos no visibles para mortales, llevándose el cuerpo de un compañero, dejando manuscritos— es atribuible a esta orden.
 
 ### Iconografía
 
@@ -60,7 +60,7 @@ Los **Custodes Oculis Solis** —*Custodios del Ojo Solar*, también llamados **
 ### Aliados y enemigos
 
 - **Aliado natural:** orden sacerdotal de [[Thoth]]
-- **Bajo jurisdicción actual:[[Papa_Alejandro]]** (a través del bibliotecario del Palacio del Prisma)
+- **Bajo jurisdicción actual:[[Papa_Alejandro]]** (a través del bibliotecario del [[Palacio_del_Prisma]])
 - **Enemigo natural:** muertos vivientes, vampiros, demonios y, por extensión, **[[Caladan]]** en su estado actual
 - **Posible cliente:** todo compañero que "no sea demonio pero esté manchado" (en juicio)
 
@@ -78,5 +78,5 @@ Los **Custodes Oculis Solis** —*Custodios del Ojo Solar*, también llamados **
 
 ## Apariciones
 
-- **Procesión celestial** vista por Numa Pompidio antes de morir en el Templo de Thoth (el regreso tras el Hiato, retrospección)
-- **el regreso tras el Hiato** — Custodios surgen junto a los Buscadores en el Palacio del Prisma tras el evento del Ardipithecus / Argus. Llevándolos a juicio frente al Papa Alejandro.
+- **Procesión celestial** vista por [[Numa_Pompidio]] antes de morir en el Templo de Thoth (el regreso tras el Hiato, retrospección)
+- **el regreso tras el Hiato** — Custodios surgen junto a los [[Buscadores_de_Ardis_Vala|Buscadores]] en el Palacio del Prisma tras el evento del [[Ardipithecus]] / Argus. Llevándolos a juicio frente al [[Papa_Alejandro_Sixto|Papa Alejandro]].

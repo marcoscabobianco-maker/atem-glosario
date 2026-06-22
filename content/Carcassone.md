@@ -1,45 +1,23 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, lugar, kanka-5406924]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Carcassone_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Carcassone", "Carcassonne"]
 ---
 
-# ATEM::SaintGermain::MMF::Carcassone
+# Carcassone
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Carcassone_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Carcassone. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Ciudad amurallada del Languedoc, Carcassone lleva siglos siendo simbolo de la frontera interior de [[Francia]]: la frontera entre el norte capeto y el sur occitano, entre la lengua d'oil y la lengua d'oc, entre la corona y los reinos que esta devoro. En 1648 su nombre evoca todavia ese pasado de resistencia y de herejia sometida.
 
-![[ATEM__SaintGermain__MMF__Carcassone_retrato.png]]
+Durante la Fronda, la ciudad aparece en el horizonte de los asuntos meridionales: no es el centro de los combates parlamentarios — esos se libran en Paris — pero las redes nobiliarias del sur, incluidos los Felon y los señores de los condados vecinos, la nombran como referencia geografica y como punto de paso. Quien controla las ciudades del Languedoc controla las rutas que alimentan a Paris con trigo, sal y reclutas.
 
+## La misma ciudad, dos siglos después
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5406924
-**kanka_url:** https://app.kanka.io/w/216093/entities/5406924
-**kanka_kind:** location
-**kanka_type:** (vacío)
-**parent_location:** Francia (kanka 5151801)
+El archivo conserva **otra entrada de la misma ciudad amurallada**: **[[Carcasona]]** —la del ciclo de [[Los_Reguladores]], 1889, cuando el castillo cae tomado por diablos de la legión [[Baatezu]] y la banda lo libera camino a París—. La frontera interior que en 1648 alimentaba la Fronda es, dos siglos después, sede del [[Banco_Boreal]]. *Dos miradas del archivo sobre la misma piedra.*
 
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 3
-- **Sesiones donde aparece** (1/9):
-  - S7 — 3 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Carcasona]] — la misma ciudad en el ciclo de los Reguladores (1889); eco trans-temporal
+- [[Francia]] — nacion contenedora; Carcassone pertenece al Languedoc, provincia conquistada por la corona
+- [[Foix]] — condado vecino; las redes del sur vinculan ambas ciudades
+- [[Felón]] — familia noble con presencia en el sur de Francia, activa en el periodo de la Fronda
+- [[Provence]] — otra region meridional del mismo contexto de campana
+- [[Cardenal_Mazarino]] — contexto politico de 1648; las ciudades del sur son tablero de la Fronda periferica

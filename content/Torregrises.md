@@ -32,20 +32,19 @@ luces (que algunos conocían como Camelot). En la época del Glosario MC,
 [[Sabas]] es el rey y su gran mano se extiende por sobre todos los dominios
 de [[Argivah]].
 
-Según Taller de Rol (1996–2006): gobernada por Rey **[[Sabas]]** (tolerancia frágil
+Gobernada por Rey **[[Sabas]]** (tolerancia frágil
 hacia **[[Sagrada_Orden|Sagrada Orden]]**). Cimientos subterráneos accesibles a través de pasajes
 explorados por **[[Adimanto]]**. Puerto de embarque a **[[Tanastias]]**. Centro de confluencia
-entre poder político regio y autoridad espiritual-mágica. Fundación especulativa: 1996 D.C.
-(equivalencia con Babel — conexión especulativa con año real de inicio del Taller).
+entre poder político regio y autoridad espiritual-mágica.
 
-(2003-04, cosmología y destrucciones cíclicas), C18 (2004), C19 (2004, enseñanza
-en taller), C20 (2005), C23 (2007, heroína de Torregrises), C25 (2008-09,
-23+ menciones — construcción del mundo extensivo: "ciudad invisible", paralelo [[Buenos_Aires_Ucronica|Buenos Aires]],
-"A nivel D&D es como un Mythal"), C48 (2013). **Hallazgo clave:** C25 línea 574:
+En los cuadernos se la trabaja como cosmología y destrucciones cíclicas, escenario de
+enseñanza (C18, C19, C20), heroína de Torregrises (C23) y construcción extensiva del
+mundo (C25): "ciudad invisible", paralelo de [[Buenos_Aires_Ucronica|Buenos Aires]],
+"a nivel D&D es como un Mythal" (C48). **Hallazgo clave** (C25):
 "Hay una [[Buenos_Aires_Ucronica|Buenos Aires]] que es Torregrises, y una Torregrises que es [[Buenos_Aires_Ucronica|Buenos Aires]]" —
-declaración de equivalencia simbólica ciudad real / ciudad ficcional.
+declaración de equivalencia simbólica entre ciudad real y ciudad ficcional.
 
-**Fuentes E (Elaboraciones — minería el archivo):** En las fuentes E ([[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]],
+**Fuentes E (Elaboraciones):** En las fuentes E ([[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]],
 Cosmogonía Gris, Notas Preliminares, Bestiario), Torregrises es "seno de las ciudades
 ocultas" y proyección ficcional de [[Buenos_Aires_Ucronica|Buenos Aires]]. La declaración programática del setting:
 "Un día te levantás en Torregrises, seno de las ciudades ocultas. Torregrises elemental,
@@ -55,18 +54,18 @@ poder del frío gana las almas." La ciudad tiene gemela luminosa: **[[Torreluces
 templo de su Moto." La **[[Corporacion_de_las_Sombras|Corporación de las Sombras]]** opera como resistencia. Criaturas
 del **[[Bestiario_de_Torregrises_E|Bestiario de Torregrises (E)]]** pueblan los Cimientos. Destrucción final: **[[Tormenta_25_TG|Tormenta 25]]
 (TG)** (diluvio + congelamiento). Narrada en la novela *[[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]]* por **[[Federico_TG|Federico (TG)]]**
-("Rey de las Tormentas") desde el piso 25 del edificio más alto.
+("[[Federico_TG|Rey de las Tormentas]]") desde el piso 25 del edificio más alto.
 
 ## Notas
 
-En Kanka Ucrónica: family '[[Buenos_Aires_Ucronica|Buenos Aires]]' + location '[[Buenos_Aires_Ucronica|Buenos Aires]]'. Texto: 'Ciudad Refugio, tierra de Neutrales. Primera invasión ucrónica fue inglesa. En sus torres grises, caben sueños imposibles. Y un tal Osberg.' Confirma representación geográfica en [[Paris_Ucronica|París Ucrónica]].
+Su contraparte ucrónica es [[Buenos_Aires_Ucronica|Buenos Aires]]: 'Ciudad Refugio, tierra de Neutrales. Primera invasión ucrónica fue inglesa. En sus torres grises, caben sueños imposibles. Y un tal Osberg.' Confirma representación geográfica en [[Paris_Ucronica|París Ucrónica]].
 
 Grafía canónica: **Torregrises** (una sola palabra, sin tilde).
 Pendiente ortográfico resuelto. Torregrises marca gateway entre mundos: ultramar/
 ultraterreno, comercio/magia, poder regio/poder espiritual. El cruce E↔MC es el más
 antiguo y denso del archivo: setting de novela (E, 1997) y capital de [[Tanastias]] (MC,
 1990s+). Ver **[[Torreluces]]**, **[[Universo_Dual_TG|Universo Dual (TG)]]**, **[[Corporacion_de_las_Sombras|Corporación de las Sombras]]**,
-**[[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]]** (CATALOGO_ELABORACIONES.md).
+**[[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]]**.
 
 ## Ver también
 

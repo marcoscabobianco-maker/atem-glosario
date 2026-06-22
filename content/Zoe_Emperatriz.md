@@ -19,4 +19,4 @@ Gobernanta de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] durante época 
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]]: [[Constantinopla_Ucronica_1055_CE|Constantinopla]] 1055, compañera de [[Teodora]], gobernanza conjunta. Sesión posterior: contaminación de árbol vinculado por [[Zygomind]] (criatura alienígena). Sesión posterior: muerte confirmada; catalización de duelo imperial y [[Juegos_Funebres|Juegos Fúnebres]] en Hipódromo. [[Constantinopla_Ucronica_1055_CE|Constantinopla]] (1051-1055). Hipódromo (muerte/juegos).
+[[Paris_Ucronica|París Ucrónica]]: [[Constantinopla_Ucronica_1055_CE|Constantinopla]] 1055, compañera de [[Teodora]], gobernanza conjunta. Jornada posterior: contaminación de árbol vinculado por [[Zygomind]] (criatura alienígena). Jornada posterior: muerte confirmada; catalización de duelo imperial y [[Juegos_Funebres|Juegos Fúnebres]] en [[Micro_Arena_Hipodromo|Hipódromo]]. [[Constantinopla_Ucronica_1055_CE|Constantinopla]] (1051-1055). [[Micro_Arena_Hipodromo|Hipódromo]] (muerte/juegos).

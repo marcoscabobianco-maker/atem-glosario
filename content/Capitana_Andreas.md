@@ -1,37 +1,21 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/Capitana_Andreas_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["Capitana Andreas", "Andreas", "la capitana"]
 ---
 
 # Capitana Andreas
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Capitana_Andreas_retrato.png`
-> **Prompt sugerido:** Ilustración de Capitana Andreas. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[Capitana_Andreas_retrato.png]]
+Oficial militar de [[Nesut_Biti]] y hermana de [[Thalia_Cristalia]], la paladina caída en el [[Valle_de_la_Tempestad]]. Andreas fue quien encontró el cuerpo de su hermana en ese paraje —suspendida entre la vida y la muerte, el alma capturada—, y tuvo que volver a la ciudad cargando ese hallazgo sin poder remediar nada. Desde entonces es ella quien sostiene el orden interno: cuando el arco del Devorador sacudió Nesut Biti, fue Andreas quien evitó que el pueblo virara hacia la violencia.
 
+El archivo la registra con más de noventa menciones bajo el título de "la capitana", forma que precede al nombre propio en casi todas las crónicas. En ese rasgo hay algo de su carácter: la función antes que el individuo, el cargo antes que el duelo. Hay indicios en el archivo de que Andreas opera también bajo disfraz —posiblemente como figura de la hampa local—, aunque esa identidad doble permanece sin confirmar en los cuadernos.
 
-**Acción:** Crear. Variantes en corpus: "la capitana" (90 menciones), "Andreas" (14) — probable misma persona.
+El binomio que forma con su hermana repite un arquetipo antiguo: la que guerrea en la superficie y la que duerme en el umbral. Ishtar y Ereshkigal. Marta y María. Una viva, una suspendida; una sosteniendo el mundo para que la otra pueda volver.
 
-## Capa juego
-
-NPC. **Hermana de [[Talia Cristalia]].** Capitana (militar / guardia, no clase ACKS específica todavía). Encontró el cuerpo de su hermana paladina en el Valle de la Tempestad. No pudo resucitarla (animación suspendida, alma capturada). Personaje activo en el manejo del pueblo durante el arco Nesut: "está manejando más o menos que el pueblo no mataron a nadie".
-
-Texto del Master: "La capitana, que es una psiquiatra, está bien. Porque es la hermana, encontró el cuerpo, todo. Está manejando más o menos." — la palabra **psiquiatra** es sorpresiva en setting mítico-mesopotámico. Hipótesis: ASR distorsiona "*siquita*" / "*psiquítica*" / "*propicia*"; o es uso anacrónico deliberado del Master (que tiene capas ucrónicas).
-
-Hermana paladina = Talia Cristalia (entre vida y muerte). Hermana capitana = Andreas (activa, mantiene orden). El binomio sigue arquetipo mítico de hermanas (Ishtar/Ereshkigal, Antígona/Ismene, Marta/María).
-
-## Ref.
-
-contra_el_devorador_y_nesut_revisitado_2 (18 capitana + 3 Andreas); rol claro 1 (14); individual_gharkhan_con_luigi_vampq (10); rol_Vala_forjas_y_downtime_b (10); retorno a Nesut1 (9); rol_vala_contra_padres_de_taylor (7).
-
-## Preguntas
-
-1. ¿Andreas es el nombre de la capitana o son personas distintas? es el nombre
-2. ¿"Psiquiatra" en transcripto: error ASR o anacronismo intencional? error transcript
-3. ¿Su relación con el Templo de Nesu/Jalrua Ishtarensis es de cooperación o tensión? tensión. La capitana estoy casi seguro es también la bandida, hay disfraz... estos son pnks del villain codex de pf1e
-
+## Vínculos
+- [[Thalia_Cristalia|Thalia Cristalia]] — hermana; paladina suspendida entre vida y muerte, hallada en el Valle de la Tempestad
+- [[Valle_de_la_Tempestad|Valle de la Tempestad]] — lugar donde Andreas encontró el cuerpo de su hermana
+- [[Nesut_Biti|Nesut Biti]] — ciudad-estado donde ejerce autoridad y mantiene el orden
+- [[Jalrua_Ishtarensis|Jalrua Ishtarensis]] — templo con quien mantiene relación de tensión
+- [[El_Devorador|El Devorador]] — antagonista cuyo arco Andreas enfrentó desde la gestión civil
+- [[Luigi_Vampa|Luigi Vampa]] — bandido presente en crónicas donde Andreas actúa; posible vínculo con la identidad doble

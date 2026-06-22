@@ -20,7 +20,7 @@ tags:
 ---
 # Cetro de los Dioses
 
-> *Pieza regia de la Vara del Infinito. El que une a la Gema con la Piedra. Cetro y Trono al mismo tiempo: autoridad cósmica al medio del mega-artefacto.*
+> *Pieza regia de la [[Vara_del_Infinito]]. El que une a la Gema con la Piedra. Cetro y Trono al mismo tiempo: autoridad cósmica al medio del mega-artefacto.*
 
 ## Presentación
 
@@ -28,7 +28,7 @@ El **Cetro de los Dioses** —también escrito **Trono de los Dioses** o, más b
 
 > **[[Gema_de_la_Creacion|Gema de la Creación]]** ← **Cetro de los Dioses** → **[[Piedra_del_Apocalipsis|Piedra del Apocalipsis]]**
 
-Es **el elemento vinculante**: el que une la pieza fundacional (origen, creación) con la pieza terminal (fin, disolución). Donde la Gema es origen y la Piedra es fin, **el Cetro es autoridad**, **mando**, **regencia cósmica**. Sin el Cetro las otras dos piezas pueden existir, pero la Vara del Infinito **no está armada**: el Cetro es el eje, lo que sostiene la unión.
+Es **el elemento vinculante**: el que une la pieza fundacional (origen, creación) con la pieza terminal (fin, disolución). Donde la Gema es origen y la Piedra es fin, **el Cetro es autoridad**, **mando**, **regencia cósmica**. Sin el Cetro las otras dos piezas pueden existir, pero la [[Vara_del_Infinito]] **no está armada**: el Cetro es el eje, lo que sostiene la unión.
 
 ### La oscilación Cetro/Trono
 
@@ -36,11 +36,11 @@ La grafía del artefacto oscila en las fuentes. Algunas registran **Cetro**, otr
 
 ### Torneo de la Torre Eiffel
 
-En el **[[Torneo_de_la_Torre_Eiffel|Torneo de la Torre Eiffel]]** —donde el mega-artefacto aparece partido en tres porciones disputables—, **dos porciones estaban en poder del [[Gran_Khan|Gran Khan]]** (como premio y señuelo del torneo) y **la tercera dentro del [[Tarrasque_Antiterra|Tarrasque]]** (como representante de [[Seth]]). **Cuál de las dos porciones del Gran Khan es el Cetro y cuál es la Gema/Piedra** queda en cotejo pendiente —el archivo no lo cierra del todo en las fuentes consultadas hasta el momento—.
+En el **[[Torneo_de_la_Torre_Eiffel|Torneo de la Torre Eiffel]]** —donde el mega-artefacto aparece partido en tres porciones disputables—, **dos porciones estaban en poder del [[Gran_Khan|Gran Khan]]** (como premio y señuelo del torneo) y **la tercera dentro del [[Tarrasque_Antiterra|Tarrasque]]** (como representante de [[Seth]]). **Cuál de las dos porciones del [[Gran_Khan]] es el Cetro y cuál es la Gema/Piedra** queda en cotejo pendiente —el archivo no lo cierra del todo en las fuentes consultadas hasta el momento—.
 
 ### Caldero / La Jabalina
 
-El Cetro como componente de la Vara fue **declarado en registro cont.2** de la campaña **[[La_Jabalina|Caldero / Jabalina]]** (D&D 5e revisión 2024). La mesa de 2024-25 retoma el hilo de la Vara del Infinito y de sus tres piezas; el Cetro está allí como pieza necesaria del ensamble.
+El Cetro como componente de la Vara fue **declarado en el registro segundo** de la gesta **[[La_Jabalina|Caldero / Jabalina]]**. El ciclo del Caldero retoma el hilo de la Vara del Infinito y de sus tres piezas; el Cetro está allí como pieza necesaria del ensamble.
 
 ## Vínculos
 
@@ -55,5 +55,5 @@ El Cetro como componente de la Vara fue **declarado en registro cont.2** de la c
 ## Apariciones
 
 - Era primordial — junto a la Gema y la Piedra como componente original de la Vara
-- Torneo de la Torre Eiffel (1890 A.D.A.) — una de las tres porciones disputadas
-- Caldero / La Jabalina registro cont.2 — declaración canónica de la composición de la Vara
+- [[Torneo_de_la_Torre_Eiffel]] (1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]]) — una de las tres porciones disputadas
+- [[Caldero]] / [[La_Jabalina]] registro cont.2 — declaración canónica de la composición de la Vara

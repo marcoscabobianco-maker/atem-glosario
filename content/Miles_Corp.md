@@ -23,25 +23,25 @@ imagen: null
 
 # Miles Corp
 
-> *"Tony de La Jabalina posa con su nueva escoba voladora de Miles Corp, un símbolo del progreso mágico-industrial en Caldero. Pero, ¿es esta tecnología el futuro de la aventura, o simplemente una forma más de las élites de controlar el poder?"* — *City Star Magazine*.
+> *"Tony de [[La_Jabalina]] posa con su nueva escoba voladora de Miles Corp, un símbolo del progreso mágico-industrial en [[Caldero]]. Pero, ¿es esta tecnología el futuro de la aventura, o simplemente una forma más de las élites de controlar el poder?"* — *City Star Magazine*.
 
 ---
 
 ## La empresa
 
-**Miles Corp** —*"Miles" en abreviación corriente*— **es empresa industrial-mágica** activa desde la aceleración de la [[Revolucion_Industrial_Magica]] post-1812 AE. *Sede principal*: **Ciudad Estrella**. *Función central*: **innovación en vuelo mágico**, *con el producto signature **El [[Milagro_de_Miles|Milagro de Miles]]***: **escobas voladoras impulsadas por encantamiento**.
+**Miles Corp** —*"Miles" en abreviación corriente*— **es empresa industrial-mágica** activa desde la aceleración de la [[Revolucion_Industrial_Magica]] post-1812 AE. *Sede principal*: **[[Ciudad_Estrella]]**. *Función central*: **innovación en vuelo mágico**, *con el producto signature **El [[Milagro_de_Miles|Milagro de Miles]]***: **escobas voladoras impulsadas por encantamiento**.
 
 *Otros productos*:
 
 - **Escobas voladoras Miles Corp** —*tecnología en desarrollo, ya disponible para clientela acomodada*—.
-- **Artilugios voladores marca Miles** —*solicitados por [[Lord_Valanthru]] y/o [[Titti_Frame]] desde Caldero para sus planes industrial-mecánicos*—.
+- **Artilugios voladores marca Miles** —*solicitados por [[Lord_Valanthru]] y/o [[Titti_Frame]] desde [[Caldero]] para sus planes industrial-mecánicos*—.
 - **Posibles desarrollos paralelos** en aeronaves menores, mochilas voladoras, otros vehículos arcanos.
 
 ---
 
 ## La asimetría que la empresa amplifica
 
-**Miles Corp opera principalmente para las élites acomodadas**: *los ciudadanos más ricos de Ciudad Estrella* **pueden permitirse las escobas voladoras**; *la mayoría no*. **El acceso al vuelo modifica drásticamente el movimiento urbano**: **quien puede pagar Miles se mueve por encima de las multitudes**, *eliminando barreras geográficas que los demás aceptan como cotidianas*.
+**Miles Corp opera principalmente para las élites acomodadas**: *los ciudadanos más ricos de [[Ciudad_Estrella]]* **pueden permitirse las escobas voladoras**; *la mayoría no*. **El acceso al vuelo modifica drásticamente el movimiento urbano**: **quien puede pagar Miles se mueve por encima de las multitudes**, *eliminando barreras geográficas que los demás aceptan como cotidianas*.
 
 *La crítica popular* **emerge en el ciclo presente**: *prensa sensacionalista como City Star* **publica notas con doble registro**: **promoción aparente** (*"un símbolo del progreso mágico-industrial"*) + **crítica velada** (*"¿una forma más de las élites de controlar el poder?"*). **La empresa responde con marketing**, *no con cambio de modelo*.
 

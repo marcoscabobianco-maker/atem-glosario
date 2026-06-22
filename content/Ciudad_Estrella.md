@@ -27,24 +27,24 @@ imagen: null
 ---
 # Ciudad Estrella
 
-> *"De joven me impactaron las historias de posibles nuevas máquinas impulsadas por la magia, talleres que mezclan alquimia y vapor, y gremios capaces de forjar artefactos cada vez más asombrosos. Pero siempre el culto de los ahora conocidos como Papas Malos impedía todo progreso. Afortunadamente, tras la justicia impartida por la Espada de la Giganta, eso se terminó."* — Mascor Blancarba, *Crónica de un Visitante Curioso*, sobre su juventud en Ciudad Estrella.
+> *"De joven me impactaron las historias de posibles nuevas máquinas impulsadas por la magia, talleres que mezclan alquimia y vapor, y gremios capaces de forjar artefactos cada vez más asombrosos. Pero siempre el culto de los ahora conocidos como Papas Malos impedía todo progreso. Afortunadamente, tras la justicia impartida por la Espada de la Giganta, eso se terminó."* — [[Mascor_Blancarba]], *[[Crónica_de_un_Visitante_Curioso]]*, sobre su juventud en Ciudad Estrella.
 
 ---
 
 ## La capital del mundo-gema
 
-**Ciudad Estrella** —*"Torreluces"* en denominaciones rituales que conservan los archivos heterodoxos, *"capital"* en boca corriente del mundo-gema Vala Cristalis— **es urbe principal del mundo-gema**, *al norte de [[Caldero]]*, **construida sobre una Plataforma primigenia** cuya manifestación geográfica visible es la **[[Gran_Plaza_de_Obsidiana|Gran Plaza de Obsidiana]]** —*plaza pétrea forma de estrella, foco de energía celestial*— que da nombre a la ciudad.
+**Ciudad Estrella** —*"[[Torreluces]]"* en denominaciones rituales que conservan los archivos heterodoxos, *"capital"* en boca corriente del mundo-gema [[Vala_Cristalis]]— **es urbe principal del mundo-gema**, *al norte de [[Caldero]]*, **construida sobre una [[Aldebaran_Estrella_Plataforma|Plataforma]] primigenia** cuya manifestación geográfica visible es la **[[Gran_Plaza_de_Obsidiana|Gran Plaza de Obsidiana]]** —*plaza pétrea forma de estrella, foco de energía celestial*— que da nombre a la ciudad.
 
-*La ciudad es centro de la **[[Revolucion_Industrial_Magica|Revolución Industrial Mágica]]***: **universidades de conjuros**, **fundiciones encantadas**, **gremios capaces de forjar artefactos asombrosos**, **talleres que mezclan alquimia y vapor**. **Marcas reconocibles** de la industria mágica: **Pristine** y **Goze** (armaduras), **Miles Corp** (escobas voladoras y otros prodigios aéreos), **fabricantes de cascos de teleportación**, **forjadores de portátiles agujeros y bolsas contenedoras**. *Estética arcane / Pratchett*: **siglo XIX alternativo con magia como energía industrial**.
+*La ciudad es centro de la **[[Revolucion_Industrial_Magica|Revolución Industrial Mágica]]***: **universidades de conjuros**, **fundiciones encantadas**, **gremios capaces de forjar artefactos asombrosos**, **talleres que mezclan alquimia y vapor**. **Marcas reconocibles** de la industria mágica: **Pristine** y **Goze** (armaduras), **[[Miles_Corp]]** (escobas voladoras y otros prodigios aéreos), **fabricantes de cascos de teleportación**, **forjadores de portátiles agujeros y bolsas contenedoras**. *Estética arcane / Pratchett*: **siglo XIX alternativo con magia como energía industrial**.
 
 ---
 
 ## La distinción "Ciudad Estrella ≠ Torreluces de Torregrises"
 
-*Nota archivística importante*: **la denominación "Torreluces"** que el compilado de Mascor Blancarba aplica a Ciudad Estrella **NO debe confundirse con la [[Torreluces|Torreluces del Universo Dual de Torregrises]]** —*ciudad gemela luminosa de Torregrises, manifestación cosmológica distinta*—. **Son dos cosas con el mismo nombre**:
+*Nota archivística importante*: **la denominación "[[Torreluces]]"** que el compilado de [[Mascor_Blancarba]] aplica a Ciudad Estrella **NO debe confundirse con la [[Torreluces|Torreluces del Universo Dual de Torregrises]]** —*ciudad gemela luminosa de [[Torregrises]], manifestación cosmológica distinta*—. **Son dos cosas con el mismo nombre**:
 
-- **Torreluces (Universo Dual TG)** = ciudad gemela luminosa de Torregrises, opera en el sistema dual cosmológico de las dos torres.
-- **Ciudad Estrella / "Torreluces" (Caldero)** = capital del mundo-gema Vala Cristalis, denominación ritual local.
+- **Torreluces ([[Universo_Dual_TG]])** = ciudad gemela luminosa de [[Torregrises]], opera en el sistema dual cosmológico de las dos torres.
+- **Ciudad Estrella / "Torreluces" ([[Caldero]])** = capital del mundo-gema [[Vala_Cristalis]], denominación ritual local.
 
 *El cronista decadiano sugiere que la coincidencia onomástica* **no es casual**: ambas son **manifestaciones de un patrón cosmológico mayor** *donde "torre luminosa" opera como arquetipo gemelo del cosmos extendido*. **Pero operativamente son distintas**: *vivir en una no implica conocer la otra*; *los habitantes de Ciudad Estrella rara vez han oído hablar de Torregrises o de la otra Torreluces*.
 
@@ -52,13 +52,13 @@ imagen: null
 
 ## La caída del Papa Borg y el doble nacimiento de la ciudad moderna
 
-**Hace doce años** —*hacia 1812 AE*— **Ciudad Estrella vivió su evento bisagra**. **El [[Papa_Borg_de_Caldero|Papa Borg]]** —*sumo pontífice de la teocracia eclesial que controlaba la moral y las leyes de la ciudad*— **buscaba consumar un ritual profano** *en la Gran Plaza de Obsidiana*: **convertirse en no-muerto todopoderoso** (*lich*). **Acumulaba sangre y vidas inocentes para sellar la transformación**.
+**Hace doce años** —*hacia 1812 AE*— **Ciudad Estrella vivió su evento bisagra**. **El [[Papa_Borg_de_Caldero|Papa Borg]]** —*sumo pontífice de la teocracia eclesial que controlaba la moral y las leyes de la ciudad*— **buscaba consumar un ritual profano** *en la [[Gran_Plaza_de_Obsidiana]]*: **convertirse en no-muerto todopoderoso** (*lich*). **Acumulaba sangre y vidas inocentes para sellar la transformación**.
 
 *Peregrinos del pueblo irrumpieron en la plaza* portando reliquias del último profeta —*mártir asesinado por agentes del Papa en un intento de acallar la disidencia*—. **Las tradiciones del pueblo enseñaban que besar el centro de la estrella abriría la senda hacia un plano más profundo**, *una especie de prueba mágica al estilo de las primigenias plataformas de los astros de Alfa Centauri*. **Aun bajo guardia papal**, *los peregrinos se abrieron paso entre rezos y lágrimas, cubiertos por la multitud harta del atropello*.
 
 **Cuando los labios del primero rozaron el centro** de la estrella de obsidiana, *se desató un estallido de luz verde-azulada*. **El suelo cedió bajo sus pies**, *revelando un descenso subterráneo* en el que **se hallaba un antiguo santuario** *con un sello que contenía a la [[Giganta_Antigua|Giganta]]*. *Aquella entidad colosal* —*nacida de las antiguas deidades volcánicas y protectoras del orden natural*— **había sido apresada desde tiempos remotos**. **Al romper el sello, los peregrinos la liberaron**.
 
-*La Giganta emergió*. **El Papa Borg, aterrado**, *vio su ritual interrumpido* cuando la criatura, con un gesto solemne, **atrajo hacia sí la energía mística** que rodeaba al pontífice. **El conjuro se apagó como velas al viento**. **La Giganta asestó el castigo con la [[Espada_de_Juicio|Espada de Juicio]]**: *un golpe del puño pétreo derrumbó el pedestal de obsidiana*; **la onda expansiva dispersó a los secuaces y destruyó los instrumentos sacrílegos**. *El pueblo, imbuido de profecía, cantó algo que no comprendió del todo*: **"Papa Don't Lich"**. *El maldito, aferrado a su trono portátil, no pudo concretar su transformación y fue aplastado por la fuerza implacable de la giganta*, **que implosionó dejando un breve cráter**.
+*[[Giganta_Antigua|La Giganta]] emergió*. **[[Papa_Borg_de_Caldero|El Papa Borg]], aterrado**, *vio su ritual interrumpido* cuando la criatura, con un gesto solemne, **atrajo hacia sí la energía mística** que rodeaba al pontífice. **El conjuro se apagó como velas al viento**. **[[Giganta_Antigua|La Giganta]] asestó el castigo con la [[Espada_de_Juicio|Espada de Juicio]]**: *un golpe del puño pétreo derrumbó el pedestal de obsidiana*; **la onda expansiva dispersó a los secuaces y destruyó los instrumentos sacrílegos**. *El pueblo, imbuido de profecía, cantó algo que no comprendió del todo*: **"[[Papa_Borg_de_Caldero|Papa Don't Lich]]"**. *El maldito, aferrado a su trono portátil, no pudo concretar su transformación y fue aplastado por la fuerza implacable de la giganta*, **que implosionó dejando un breve cráter**.
 
 **Aquel día marcó el fin de la teocracia** y el comienzo de la nueva era. *La plaza se conservó con sus grietas y cicatrices*, **como recuerdo imborrable de la tiranía que estuvo a punto de hundir los cimientos**. **Los peregrinos recuperaron las reliquias de su mártir** y *fundaron un culto basado en la justicia y la verdad*. **La Giganta, una vez cumplida su misión, se desvaneció entre los vapores volcánicos**, *dejando tras de sí una estela de ceniza dorada* que muchos interpretaron como **símbolo de liberación divina**.
 
@@ -66,7 +66,7 @@ imagen: null
 
 ## La toma del control por los nobles industriales
 
-**Tras la caída de las barreras** que la teocracia había puesto al progreso, **las partes más ricas de Ciudad Estrella aceleraron**. **Los nobles industriales** —*dueños de las torres más altas, barones y capitanes de la industria mágica*— **tomaron el control**. **El destino de la ciudad quedó en sus manos**. *La Revolución Industrial Mágica avanzó rápidamente*, **cambiando la vida de los ciudadanos más acomodados**.
+**Tras la caída de las barreras** que la teocracia había puesto al progreso, **las partes más ricas de Ciudad Estrella aceleraron**. **Los nobles industriales** —*dueños de las torres más altas, barones y capitanes de la industria mágica*— **tomaron el control**. **El destino de la ciudad quedó en sus manos**. *[[Revolucion_Industrial_Magica|La Revolución Industrial Mágica]] avanzó rápidamente*, **cambiando la vida de los ciudadanos más acomodados**.
 
 **Los barrios altos están llenos de fábricas que combinan magia y tecnología** para crear prodigios mecánicos y artilugios mágicos. *Las invenciones que fluyen de estos talleres han mejorado el transporte, la construcción*, **y también han dado lugar a nuevas formas de entretenimiento, de poder y, por supuesto, de conflicto**.
 
@@ -76,7 +76,7 @@ imagen: null
 
 **El catálogo de progresos de la Revolución Industrial Mágica** registrado en el compilado de Mascor Blancarba:
 
-- **El [[Milagro_de_Miles|Milagro de Miles]]** — *innovaciones en vuelo impulsadas por magia*, **permiten a las élites moverse rápidamente por la ciudad** sin depender de los medios convencionales. *Marca **Miles Corp***. *Aunque todavía es tecnología en desarrollo*, **ya está transformando la forma en que las personas más ricas se desplazan**.
+- **El [[Milagro_de_Miles|Milagro de Miles]]** — *innovaciones en vuelo impulsadas por magia*, **permiten a las élites moverse rápidamente por la ciudad** sin depender de los medios convencionales. *Marca **[[Miles_Corp]]***. *Aunque todavía es tecnología en desarrollo*, **ya está transformando la forma en que las personas más ricas se desplazan**.
 
 - **Portátiles Agujeros y Bolsas Contenedoras** — *artilugios que desplazan los espacios extra-dimensionales*. *Algunos quieren aplicarlas en bastiones* (almacenamiento estratégico).
 
@@ -94,7 +94,7 @@ imagen: null
 
 ### Los nobles industriales
 
-**Dueños de las torres altas**, **barones y capitanes** de la industria mágica. *Familias relativamente recientes* (*ascenso post-papado*), **con dinero líquido y conexiones con los gremios y las universidades**. *Su agenda*: **expandir la Revolución Industrial Mágica**, *consolidar privilegios*, *exportar magia industrial a Caldero y otras geografías del mundo-gema*.
+**Dueños de las torres altas**, **barones y capitanes** de la industria mágica. *Familias relativamente recientes* (*ascenso post-papado*), **con dinero líquido y conexiones con los gremios y las universidades**. *Su agenda*: **expandir la Revolución Industrial Mágica**, *consolidar privilegios*, *exportar magia industrial a [[Caldero]] y otras geografías del mundo-gema*.
 
 ### Las viejas familias supervivientes
 
@@ -130,7 +130,7 @@ imagen: null
 - *Pero* **los nobles industrialesoperan con dinámica propia** que **podría producir un papado-industrial** *si los polos cosmológicos lo demandan*.
 - *Los rumores sobre los laboratorios sellados en torres gemelas* **podrían ser precisamente eso**: **gestación de un nuevo Papa Borg con estética mágico-industrial plena**, *adaptado al ciclo presente*.
 
-*El [[Papa_Alejandro_Sixto]] de Ardis Vala opera con polo positivo*; *si Ciudad Estrella genera un nuevo Borg*, *operaría posiblemente con polo industrial-mágico*, *cuarta capa del cosmos extendido*.
+*El [[Papa_Alejandro_Sixto]] de [[Ardis_Vala]] opera con polo positivo*; *si Ciudad Estrella genera un nuevo Borg*, *operaría posiblemente con polo industrial-mágico*, *cuarta capa del cosmos extendido*.
 
 *La doctrina cosmológica del polo dual no descarta la posibilidad*. **El archivo lo anota como anticipación abierta del próximo ciclo**.
 
@@ -150,16 +150,16 @@ imagen: null
 - [[Milagro_de_Miles]] — innovación de vuelo
 - [[Miles_Corp]] — empresa industrial-mágica
 - [[Casa_Azul_de_Vala]] — linaje cosmológico con presencia
-- [[Titti_Frame]] — familia noble influyente, Torres Gemelas
+- [[Titti_Frame]] — familia noble influyente, [[Torres_Gemelas]]
 - [[Mascor_Blancarba]] — cronista que documenta la ciudad
-- [[Lukas]] — paladín de Ciudad Estrella miembro de La Jabalina en Caldero
-- [[Torreluces]] — NO confundir con la Torreluces del Universo Dual TG
+- [[Lukas]] — paladín de Ciudad Estrella miembro de [[La_Jabalina]] en Caldero
+- [[Torreluces]] — NO confundir con la Torreluces del [[Universo_Dual_TG]]
 - [[Rio_Ucronos]] — río del tiempo del mundo-gema
 
 ## Apariciones
 
-- **Fundación primigenia** — construcción sobre Plataforma de Vala-Ely con Gran Plaza de Obsidiana central
-- **Era de los Papas Borg** — teocracia eclesial sucesiva con cada Papa Borg en su forma específica
+- **Fundación primigenia** — construcción sobre [[Aldebaran_Estrella_Plataforma|Plataforma]] de [[Plataformas_de_Vala_Ely|Vala-Ely]] con [[Gran_Plaza_de_Obsidiana]] central
+- **Era de los [[Papas_Borg]]** — teocracia eclesial sucesiva con cada Papa Borg en su forma específica
 - **~1812 AE — Caída del Papa Borg** — peregrinos rompen el sello, liberan a la Giganta, ritual de lichificación interrumpido
 - **1812 AE — Toma de los nobles industriales** — el destino de la ciudad cambia de manos
 - **1812-1824 AE — Aceleración de la Revolución Industrial Mágica** — universidades, fundiciones, marcas, gremios

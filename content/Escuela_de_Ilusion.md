@@ -29,7 +29,7 @@ Los iniciados se reconocen por una señal que aparece después de mucho ejercici
 
 ## Su parentesco con [[Sigil]]
 
-Algunos doctrinarios sostienen que la Escuela **es una facción menor** de las que administran [[Sigil]] —la Ciudad de las Puertas—, y que sus iniciados son, en último término, **aprendices de la Dama del Dolor**. El cronista no se pronuncia sobre el punto: hay argumentos en ambas direcciones y la Dama, por costumbre vieja, **no contesta preguntas directas**.
+Algunos doctrinarios sostienen que la Escuela **es una facción menor** de las que administran [[Sigil]] —la Ciudad de las [[Puertas]]—, y que sus iniciados son, en último término, **aprendices de la [[Dama_del_Dolor]]**. El cronista no se pronuncia sobre el punto: hay argumentos en ambas direcciones y la Dama, por costumbre vieja, **no contesta preguntas directas**.
 
 ## La Escuela y este glosario
 

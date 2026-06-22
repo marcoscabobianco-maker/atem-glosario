@@ -9,9 +9,9 @@ aliases:
 ## Presentación
 
 **Rareza:** Menor
-**Descripción:** Conceden +1 STR temporario por 24 horas cuando se usan
-**Efecto limitado:** Una sola carga útil, no reutilizable
-**Presencia en grupo:** Múltiples disponibles (del Santuario)
+**Descripción:** Conceden un vigor suplementario que dura un día entero desde que se calzan
+**[[Efecto_limitado]]:** Sirven una sola vez; después el encanto se agota
+**[[Presencia_en_grupo]]:** Múltiples disponibles (del Santuario)
 
 ## Ver también
 

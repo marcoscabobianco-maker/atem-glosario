@@ -24,7 +24,7 @@ imagen: Imagenes_Tier1/Mensaje_de_si_mismo_carta_temporal.png
 ![[Imagenes_Tier1/Mensaje_de_si_mismo_carta_temporal.png]]
 <!-- /HEADER_IMG -->
 
-> *"To Olaus Wormius — from Olaus Wormius, in years to come."*
+> *"To [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] — from [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]], in years to come."*
 
 ---
 
@@ -56,5 +56,5 @@ Lo que la carta dice **no es lo importante**. *Lo importante es el reconocimient
 
 ## Apariciones
 
-- **Constantinopla 1055** — recepción documentada por Olaus Wormius
+- **[[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]** — recepción documentada por Olaus Wormius
 - **Cualquier ciclo en que la línea de vida de un personaje se cose consigo misma** — procedimiento generalizable

@@ -21,4 +21,4 @@ Parábola articulada por [[Warhol]] en NC07b: "El erizo es la criatura más afec
 
 ## Notas
 
-¿Metáfora recurrente en la el cosmos compartido o específica de la Corona del Norte?
+¿Metáfora recurrente en el cosmos compartido o específica de la [[Corona_activacion_desconocida|Corona]] del Norte?

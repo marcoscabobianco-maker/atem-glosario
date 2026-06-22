@@ -14,29 +14,14 @@ aliases:
 
 ## Presentación
 
-**Primera aparición:** Jornada del falso Maestre, en la cámara de la [[Puerta_de_Marfil_Camara_Final_del_Laberinto|Puerta de Marfil]]
-**Descripción física:** "Gigante" (size descriptor inconsistente, pero clearly Large o Huge). Torso humanoidea + cabeza de toro. Habla (idioma no especificado, posiblemente Abisal). Viste vestimenta/coraje. **Posee alas enormes de murciélago**, descubiertas en combate.
-**Estadísticas de combate:**
-- HP: ~40-50 (múltiples hits de 18-25 daño requieren 3+ rondas)
-- Iniciativa: estándar
-- Ataques: cuernos, cascos, posiblemente alas
-- Defensa: resistencia a daño no-bendecido
-- Habilidad especial: Alas de murciélago (vuelo de envergadura completa)
+Guardián de la [[Puerta_de_Marfil_Camara_Final_del_Laberinto|Puerta de Marfil]], encontrado durante la jornada del falso Maestre. Criatura de torso humanoide y cabeza de toro, de estatura colosal, dotada de enormes alas de murciélago que reveló en batalla. Habla en lengua propia. Viste vestimenta de guardián.
 
-**Comportamiento:** Letárgico/dormido al inicio. Se despierta con apertura de [[Puerta_de_Marfil_Camara_Final_del_Laberinto|Puerta de Marfil]]. Actitud cansada inicialmente; luego agresividad total. Batalla encarnizada contra grupo.
+Permanecía letárgico en la cámara final; se despertó al abrirse la [[Puerta_de_Marfil_Camara_Final_del_Laberinto|Puerta de Marfil]]. Combatió con ferocidad creciente hasta caer muerto por la espada de Lirio, en espadazo al pecho. Tras su muerte, [[Michel|Michel]] empleó el cuerpo como ancla para invocar un servidor necromántico: el esqueleto del Minotauro se alzó como defensor.
 
-**[[Resolucion|Resolución]]:** Muerto por Lirio con espadazo final crítico en el pecho. Cuerpo escupe sangre al morir. Cae inconsciente.
-
-**Post-mortem:** Cuerpo de Minotauro reutilizado por [[Reynaud|Reynaud]] como ancla para hechizo "[[Necromantic_Servant_Levantamiento_de_Esqueleto|Necromantic Servant]]" (levanta esqueleto del Minotauro como defensor).
-
-**Notas teológicas:** Centro del laberinto del Minotauro (Teseo clásico) actualizado cristiano. ¿Criatura artificial (magia) o ser vivo? Posiblemente vínculo planar (origen demoníaco).
-
-**[[Vinculacion_narrativa|Vinculación narrativa]]:** Jefe final del Laberinto. Culpabilidad no confirmada sobre el asalto inicial al Temple, pero circunstancias lo vinculan (fue liberado por el asalto, posiblemente respondió).
+Jefe final del Laberinto. Su origen exacto —criatura de magia o ser de vínculo planar demoníaco— permanece sin confirmar, así como su posible conexión con el asalto inicial al [[Temple_complejo_TE|Temple]].
 
 ## Ver también
 
-- [[Posee_alas_enormes_de_murcielago|Posee alas enormes de murciélago]]
-- Comportamiento
-- [[Resolucion|Resolución]]
-- [[Post-mortem|Post-mortem]]
-- [[Vinculacion_narrativa|Vinculación narrativa]]
+- [[Puerta_de_Marfil_Camara_Final_del_Laberinto|Puerta de Marfil]]
+- [[Michel|Michel]]
+- [[Necromantic_Servant_Levantamiento_de_Esqueleto|Necromantic Servant]]

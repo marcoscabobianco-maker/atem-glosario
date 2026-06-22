@@ -38,27 +38,27 @@ imagen: Imagenes_Tier1/Henri_La_France.png
 
 ## Presentación
 
-Henri La France es uno de los rostros más jóvenes del núcleo de los Reguladores. Veinte años, **torero francés** de oficio, **anarquista** de conciencia. Narigón, rasgos afilados, cuerpo atlético entrenado en las plazas del sur de Francia. Cuando entra al grupo lleva todavía la espada brillante de matador bajo capa roja —el atuendo del oficio del que viene, no del que está cargando ahora—.
+Henri La France es uno de los rostros más jóvenes del núcleo de los Reguladores. Veinte años, **torero francés** de oficio, **anarquista** de conciencia. Narigón, rasgos afilados, cuerpo atlético entrenado en las plazas del sur de [[Francia]]. Cuando entra al grupo lleva todavía la espada brillante de matador bajo capa roja —el atuendo del oficio del que viene, no del que está cargando ahora—.
 
 El archivo lo apoda *"valiente cobarde"*: una contradicción que no es contradicción sino estilo. Henri muestra arrojo en el avance y vergüenza en el retroceso, pero no se rinde nunca. Carga la espada como quien carga una vocación inconclusa. Donde un paladín dispararía sin dudar, Henri duda y dispara igual. Donde otro huiría sin disculpas, Henri huye con vergüenza, sin perder pisada.
 
-Pertenece al arco de **Los Profundos** y continúa en el de los **Reguladores**, como parte del núcleo en la fase final de Antiterra. Su rol narrativo lo conecta con el hilo del anarquismo francés que cruza el ciclo —no como anarquismo programático sino como temperamento: la voluntad joven, atravesada por la vergüenza, que insiste en pelear sin obedecer.
+Pertenece al arco de **[[Los_Profundos]]** y continúa en el de los **Reguladores**, como parte del núcleo en la fase final de [[Antiterra]]. Su rol narrativo lo conecta con el hilo del anarquismo francés que cruza el ciclo —no como anarquismo programático sino como temperamento: la voluntad joven, atravesada por la vergüenza, que insiste en pelear sin obedecer.
 
-**"Henri el Torero"** no es otro personaje sino una **faceta** suya: el nombre que usa cuando aparece en **Baton Rouge**, donde el oficio matador vuelve a ser la fachada principal. Distintos escenarios, una misma persona, una misma espada bajo la capa.
+**"Henri el Torero"** no es otro personaje sino una **faceta** suya: el nombre que usa cuando aparece en **[[Baton_Rouge_Antiterra|Baton Rouge]]**, donde el oficio matador vuelve a ser la fachada principal. Distintos escenarios, una misma persona, una misma espada bajo la capa.
 
 ## Vínculos
 
 - [[Los_Profundos]] — el grupo primero
 - [[Los_Reguladores]] — el grupo siguiente, núcleo final
-- [[Ludovico]] — eco del temperamento anarquista del Anarquirón
+- [[Ludovico]] — eco del temperamento anarquista del [[Anarquiron_guion|Anarquirón]]
 - [[Baton_Rouge_Antiterra|Baton Rouge]] — escenario de la faceta "Torero"
 
 ## Apariciones
 
-- Antiterra — Anarquirón, Acto 1 (origen como torero anarquista)
-- Los Profundos — campaña previa
-- **Baton Rouge (1889)** — **uno de los regentes de la ciudad como ex-miembro de Los Profundos**, conocido como **"el Francés"** o **"el joven Henry"**. En la plaza de toros brindó personalmente un espectáculo de su destreza como torero a los forasteros recién llegados (Zoro, Maleika, Cornelio, Benetton)
-- **Paternidad de Zoro** — a sus 19 años, padre de Zoro/Dr. Zoulu con la **negra encantadora de serpientes del circo itinerante del sur**. El Zoro adulto que aparece en Labrador es su hijo viajado desde el futuro. El Zoro bebé de un año está, en simultáneo, en algún lugar de los Estados Unidos
-- Los Reguladores — núcleo, ciclo final
+- Antiterra — [[Anarquiron_guion|Anarquirón]], Acto 1 (origen como torero anarquista)
+- [[Los_Profundos]] — campaña previa
+- **[[Baton_Rouge_Antiterra|Baton Rouge]] (1889)** — **uno de los regentes de la ciudad como ex-miembro de Los Profundos**, conocido como **"el Francés"** o **"el joven Henry"**. En la plaza de toros brindó personalmente un espectáculo de su destreza como torero a los forasteros recién llegados (Zoro, Maleika, Cornelio, [[Benetton]])
+- **Paternidad de Zoro** — a sus 19 años, padre de Zoro/[[Zoro_Dr_Zoulu|Dr. Zoulu]] con la **negra encantadora de serpientes del circo itinerante del sur**. El Zoro adulto que aparece en Labrador es su hijo viajado desde el futuro. El Zoro bebé de un año está, en simultáneo, en algún lugar de los Estados Unidos
+- [[Los_Reguladores]] — núcleo, ciclo final
 - Baton Rouge — como "Henri el Torero"
 - **Vagabundeo previo** — separado del grupo Profundos, robado, vagó tres días, polizonte en trenes de carga. Pasó hambre. Engendró un hijo (presumiblemente referencia a la paternidad de Zoro)

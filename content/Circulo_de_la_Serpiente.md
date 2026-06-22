@@ -47,7 +47,7 @@ imagen: Imagenes_Tier1/Circulo_de_la_Serpiente.png
 **En París, el Círculo manipula al [[Moni_Vivescu|Príncipe Vivescu]]**. *"La Serpiente"* —*nombre singular o colectivo, según el cuaderno*— **le ofrece riquezas a cambio de información y del asesinato del vicecónsul de Serbia**. **El operativo**:
 
 - **Contacto del Príncipe** —*figura aristocrática vulnerable a promesas de poder cronomántico*—.
-- **Envenenamiento fallido del grupo en taberna** —*ataque químico que los Time Bandits sortean por reflejos cronománticos*—.
+- **Envenenamiento fallido del grupo en taberna** —*ataque químico que los [[Time_Bandits]] sortean por reflejos cronománticos*—.
 - **Manipulación vía sustancias y promesas** —*adicciones que el Círculo administra dosificadamente*—.
 
 **Aliados de campo en París**: **[[Cornablue]]** y **[[La_Salud|La Salud]]** —*matones del bajo mundo a sueldo del Círculo*—; **otros desconocidos en Serbia y Bucarest**.
@@ -78,6 +78,10 @@ imagen: Imagenes_Tier1/Circulo_de_la_Serpiente.png
 
 [*"Hay cultos que se descubren con el martillo; hay cultos que se descubren con la lupa. El Círculo de la Serpiente pide la segunda, y a veces, cuando la noche se cae, el martillo." — Glosa del libro V del [[Decadiano]].*]
 
+[*La mano guardó además una carta más vieja, de cuando el enemigo todavía cabía en un dibujo: el Círculo retratado como un pulpo de tinta que abraza el mundo desde el norte, un tentáculo por cada mar. Quien la mira entiende por qué los que lo enfrentaron hablaban de brazos y no de ejércitos. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Circulo_de_la_Serpiente_mapa_pulpo.png]]
+
 ## Vínculos
 
 - [[Moni_Vivescu|Príncipe Vivescu]] — manipulado en París
@@ -95,8 +99,8 @@ imagen: Imagenes_Tier1/Circulo_de_la_Serpiente.png
 
 ## Apariciones
 
-- **París Ucrónica circa 1901** — manipulación del Príncipe Vivescu, ataques al grupo
+- **[[Paris_Ucronica|París Ucrónica]] circa 1901** — manipulación del [[Moni_Vivescu|Príncipe Vivescu]], ataques al grupo
 - **Bucarest 1901** — célula vampírica en mansión Petrovna
 - **Belgrado 1901** — cautiverio de Apis, operación de fondo
-- **Isla de la Serpiente — Faro-Monolito** — reducto y ritual conjunto
+- **[[Isla_de_la_Serpiente]] — [[Faro-Monolito_El_Faro|Faro-Monolito]]** — reducto y ritual conjunto
 - **Sarajevo 1914** — transición temporal documentada

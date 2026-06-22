@@ -21,7 +21,7 @@ aliases:
 
 ## Presentación
 
-Sector de acceso al reino de **[[Axum]]**, correspondiente al puerto de Adulis en la costa del Mar Rojo. En la el cosmos compartido, Broken Reach es una fortaleza y un palacio con trincheras alrededor; muros con torretas adosadas simétricamente que evocan una flor roja crecida en el desierto rojo. Funciona como portal para acceder a los tres niveles sucesivos del territorio axumita.
+Sector de acceso al reino de **[[Axum]]**, correspondiente al puerto de Adulis en la costa del Mar Rojo. En el cosmos compartido, Broken Reach es una fortaleza y un palacio con trincheras alrededor; muros con torretas adosadas simétricamente que evocan una flor roja crecida en el desierto rojo. Funciona como portal para acceder a los tres niveles sucesivos del territorio axumita.
 
 La gobierna una mujer pelirroja que se adorna con una mortaja del mismo color. Una niña raptada por **[[GRDT]]** y **[[KAXA]]** fue llevada allí como último tributo a la gran serpiente que exigía una joven cada año; un extraño rescató a la chica y mató a la serpiente.
 
@@ -33,7 +33,7 @@ El documento Skronamon describe la ambientación: tenores rojos en las planicies
 
 ## Notas
 
-El nombre "Broken Reach" coincide con una localidad planar en la cosmología de Planescape (D&D). En el cosmos compartido parece funcionar como un nodo entre lo histórico (Adulis) y lo planar (portal al [[Abismo]] / Azzagrat). La descripción de la mujer pelirroja con mortaja roja evoca una figura de autoridad femenina asociada al rojo/muerte.
+El nombre "Broken Reach" coincide con una localidad planar en la cosmología de Planescape (D&D). En el cosmos compartido parece funcionar como un nodo entre lo histórico (Adulis) y lo planar (portal al [[Abismo]] / [[Azzagrat]]). La descripción de la mujer pelirroja con mortaja roja evoca una figura de autoridad femenina asociada al rojo/muerte.
 
 ## Ver también
 

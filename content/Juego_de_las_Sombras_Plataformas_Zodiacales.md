@@ -21,6 +21,7 @@ tags:
  - ada
  - trono-negro
 imagen: Imagenes_Tier1/Juego_de_las_Sombras_Plataformas_Zodiacales.png
+aa: "R.1 relevo por victoria ; R.5 el arbitro que mira desde afuera ; C.1 universo dual ; C.6 simetria que se contagia ; J.5 examen de admision [A.D.A., TG, TNW, MC]"
 ---
 # El Juego de las Sombras (las Doce Plataformas Zodiacales)
 
@@ -40,11 +41,11 @@ El **Juego de las Sombras** es **el sistema cósmico mayor que estructura las av
 
 ## La primera plataforma documentada
 
-**La plataforma del Carnero** —**Aries**— **se activa el 21 de marzo**, **fecha que ningún calendario antiterrano olvida**. Es **la primera del ciclo zodiacal** y **la primera que los Reguladores enfrentaron** en 1888 A.D.A. con la guía de Gabriel Guardián. Su activación abrió el primer surco del Juego en la conciencia pública de Antiterra; antes de aquella fecha, **el Juego operaba sin ser nombrado**.
+**La plataforma del Carnero** —**Aries**— **se activa el 21 de marzo**, **fecha que ningún calendario antiterrano olvida**. Es **la primera del ciclo zodiacal** y **la primera que los Reguladores enfrentaron** en 1888 [[Anno_Domini_Antiterra_ADA|A.D.A.]] con la guía de [[Gabriel_Guardian_de_Aries|Gabriel]] Guardián. Su activación abrió el primer surco del Juego en la conciencia pública de [[Antiterra]]; antes de aquella fecha, **el Juego operaba sin ser nombrado**.
 
 ## El Trono Negro Central
 
-**Sobre las doce plataformas hay un decimotercero asiento**: **el Trono Negro Central**. **No es plataforma.** Es **trono**. Está **vacante**, *"in attesa del Tredicesimo"* —en espera del Decimotercero—. **Quién es el Decimotercero esperado** es **la pregunta cosmológica mayor** del archivo, y el cronista, por temperamento y por lo poco que sabe, **no se aventura a contestar**. Algunos doctrinarios proponen **a [[Pablo_de_Alejandria|Paulus]] mismo** —*tesis que el archivero del Plata juzga vanidosa y el cronista incómoda*—; otros, **al [[Cakravartin]]** —rey atlante—; otros, **a una entidad aún no manifestada** que **el ciclo presente todavía no necesita**. *Las tres opciones tienen sostén textual; ninguna tiene confirmación.*
+**Sobre las doce plataformas hay un decimotercero asiento**: **el [[Trono_Negro_Central]]**. **No es plataforma.** Es **trono**. Está **vacante**, *"in attesa del Tredicesimo"* —en espera del Decimotercero—. **Quién es el Decimotercero esperado** es **la pregunta cosmológica mayor** del archivo, y el cronista, por temperamento y por lo poco que sabe, **no se aventura a contestar**. Algunos doctrinarios proponen **a [[Pablo_de_Alejandria|Paulus]] mismo** —*tesis que el archivero del Plata juzga vanidosa y el cronista incómoda*—; otros, **al [[Cakravartin]]** —rey atlante—; otros, **a una entidad aún no manifestada** que **el ciclo presente todavía no necesita**. *Las tres opciones tienen sostén textual; ninguna tiene confirmación.*
 
 ## La supervisión
 
@@ -52,7 +53,7 @@ El Juego es **supervisado desde la [[Atlantida_Alta_y_Baja|Atlántida]]** —la 
 
 ## El mecanismo primordial
 
-**La instalación del sistema** se atribuye a **agentes que ya no operan abiertamente** y cuya identidad se ha conservado en los archivos atlantes **bajo nombres parciales que no conviene combinar sin permiso**. **La fecha es 1784 A.D.A.** —año que en Antiterra coincide con el cierre de la primera era ucrónica—. **Lo que se instaló entoncesno se ha desinstalado todavía**, **y el cronista, por las razones que el lector imaginará**, **no recomienda intentarlo**.
+**La instalación del sistema** se atribuye a **agentes que ya no operan abiertamente** y cuya identidad se ha conservado en los archivos atlantes **bajo nombres parciales que no conviene combinar sin permiso**. **La fecha es 1784 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** —año que en Antiterra coincide con el cierre de la primera era ucrónica—. **Lo que se instaló entoncesno se ha desinstalado todavía**, **y el cronista, por las razones que el lector imaginará**, **no recomienda intentarlo**.
 
 ## La Corrupción Dual
 
@@ -88,12 +89,12 @@ Las consecuencias que el ciclo presente arrastra de aquellas anotaciones son tre
 - [[Trono_Negro_Central|Trono Negro Central]] — XIII, asiento vacante
 - [[Corrupcion_Dual|Corrupción Dual]] — mecánica que convierte al vencedor en guardián
 - [[Los_Reguladores|Reguladores]] — los que activaron las primeras plataformas modernas
-- [[Gabriel_Guardian_de_Aries|Gabriel]] — Guardián de Aries, primera plataforma documentada
+- [[Gabriel_Guardian_de_Aries|Gabriel]] — [[Gabriel_Guardian_de_Aries|Guardián de Aries]], primera plataforma documentada
 - [[Plataforma_Tauro|Tauro]] — segunda activada
 - [[Aldebaran_Estrella_Plataforma|Aldebarán]] — referente estelar de Tauro
 - [[Washingstorm]] — hipótesis de Guardián
 - [[Juego_de_las_Sombras|Juego de las Sombras]] (alias) — el mismo sistema
-- [[Pablo_de_Alejandria|Paulus]] — autor del archivo; candidato al Trono Negro Central según algunos
+- [[Pablo_de_Alejandria|Paulus]] — autor del archivo; candidato al [[Trono_Negro_Central]] según algunos
 - [[Sigil]] — quizás el axis mundi exterior al sistema
 
 ## Apariciones

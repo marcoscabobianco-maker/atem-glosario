@@ -14,7 +14,7 @@ aliases:
 
 **Rol:** [[Guardianes]] de bóvedas de seguridad mágicas, seres extraplanares.
 
-**Primera aparición:** En la negociación de reliquias tras el robo del Temple.
+**Primera aparición:** En la negociación de reliquias tras el robo del [[Temple_complejo_TE|Temple]].
 
 **Descripción física:** Seres de escala gigante, provenientes de plano diferente. Características inhumanas: "dedos que cuentan raro" (posible referencia a anatomía no-euclidiana o base numérica diferente).
 

@@ -18,4 +18,4 @@ aliases:
 
 Desgaste o depletión espiritual experimentado tras actos de violencia moralmente ambiguos. [[Maristo]] sufre merma tras matar a [[Simon_NPC_demoniaco|Simón]] (demonio invisible). Se arrodilla y reza a [[Sol_Invictus_Culto_Mediterraneum|Sol Invictus]]. Manos manchadas de sangre, peso de conciencia, complicidad en la violencia.
 
-Concepto paralelo: en D&D, un paladín que mata sin justificación puede perder poderes divinos. La merma es la versión narrativa de este mecanismo.
+Concepto paralelo: el guerrero sagrado que mata sin justicia siente menguar su poder. La merma es la forma narrativa de esa ley.

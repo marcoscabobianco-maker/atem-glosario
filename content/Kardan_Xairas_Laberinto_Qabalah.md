@@ -1,41 +1,19 @@
 ---
-tags: [Vala, VALA, PC]
-meta: M
-image: _assets/Vala/Kardan_Xairas___Laberinto_Qabalah_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: lugar
+tags: ["lugar", "vala"]
+aliases: ["Kardan Xairas", "Laberinto Qabalah", "Kardan Xairas / Laberinto Qabalah"]
 ---
 
-# Kardan Xairas / Laberinto Qabalah
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Kardan_Xairas___Laberinto_Qabalah_retrato.png`
-> **Prompt sugerido:** Ilustración de Kardan Xairas / Laberinto Qabalah. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+# Kardan Xairas
 
-![[Kardan_Xairas___Laberinto_Qabalah_retrato.png]]
+Lugar de Vala cuyo nombre no se descompone en lenguas conocidas del setting: *Kardan* y *Xairas* operan como denominación propia, opaca, de un territorio o estructura con identidad singular. Los registros lo vinculan con dos visitas del grupo [[Wordbreakers]], la segunda de las cuales quedó asociada al Laberinto Qabalah.
 
+El Laberinto Qabalah no es una estructura física navegable por el cuerpo ordinario: es un plano que se proyecta como espacio imaginal, con correspondencia en el interior de quien lo recorre. Su geometría guarda relación con el árbol de la vida y con las tradiciones místicas que el sustrato mesopotámico de Vala hereda — la qabalah como arquitectura cósmica antes que como disciplina esotérica tardía. En el orden cosmológico de Vala, este laberinto representa el diez antes que el doce: una etapa anterior a las plataformas que organizarán el mundo en ciclos posteriores, como ocurrirá de modo invertido en el arco de [[Ardis_Vala]].
 
-**Acción:** Crear (locación o arco).
+[[Nibiru]] hizo uso del comando de fuego durante la primera visita a Kardan Xairas, señal de que el lugar demandó enfrentamiento abierto además de navegación interior. La conexión entre ambos registros — el combate exterior y el laberinto imaginal — sugiere que Kardan Xairas opera en dos registros simultáneos: el del mundo visible y el de la estructura interior que lo funda.
 
-## Capa juego
-
-**Kardan Xairas** es el nombre de un lugar, ente o arco con dos sesiones dedicadas (2915 y 4402 párrafos). La segunda sesión adjunta "**laberinto Qabalah**" (filename: `rol_vala_kardan_xairas_2_y_laerinto_qabalah`), lo que sugiere que las dos cosas están vinculadas.
-
-**Etimología propuesta:**
-- *Kardan* — posible distorsión de *Cardán* (mecanismo) o referencia local.
-- *Xairas* — sin lectura clara. Posible nombre propio.
-- *Laberinto Qabalah* — el árbol cabalístico como laberinto. Estructura mística-geométrica esperable en un setting mítico-mesopotámico (la qabalah parte de tradiciones mesopotámicas). Conecta con la presencia de Sheridan (que viene del plano Akáshico en CDI).
-
-Presencia importante de **Dracarys** en Kardan Xairas 1 (23 menciones) — sugiere combate aéreo o invocación de dragones. La palabra está tomada de *Game of Thrones* y se usa como comando de fuego — posible PJ que invoca dragón.
-
-## Ref.
-
-rol_vala_kardan_xairas_1 (2915 párrafos, Dracarys 23); rol_vala_kardan_xairas_2_y_laerinto_qabalah (4402 párrafos, Xairas 4).
-
-## Preguntas
-
-1. ¿Kardan Xairas es persona, lugar o arco? lugar
-2. ¿El laberinto Qabalah es estructura física, plano interior, o mapa-código? es un plano que s eproyecta espacio imaginal pero tiene que ver con el interior, es pre plataformas, el diez antes que el doce (luego en Ardis Vala será al revés=
-3. ¿Quién usa "Dracarys"? ¿Nibiru (dragonkin) o un dragón aliado? Nibiru
-4. ¿Conexión con el ár̄bol de la vida y la cosmología CDI/MC (donde aparecen referencias kabbalísticas)? sí
-
+## Vínculos
+- [[Wordbreakers]] — el grupo que visitó el lugar en dos ocasiones
+- [[Nibiru]] — quien invocó fuego en la primera visita
+- [[Ardis_Vala]] — arco posterior donde la lógica de los planos se invierte (doce antes que diez)
+- [[Cakravartin]] — cosmología de fondo con la que el árbol cabalístico resuena

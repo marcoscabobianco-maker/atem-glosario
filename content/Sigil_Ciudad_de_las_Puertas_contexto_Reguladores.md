@@ -21,13 +21,13 @@ wikipedia: https://en.wikipedia.org/wiki/Sigil_(Planescape)
 
 ## Presentación
 
-París estaba en proceso de convertirse en **Sigil** (Ciudad de las Puertas): el nexo del universo completo, con puertas a todos los lugares, donde los dioses no pueden intervenir. La primera inversión de la mayoría de las facciones del torneo iba dirigida a la resurrección de Sigil. La **Dama del Dolor** (de Planescape) estaba en [[La_Dama_Notre_Dame|Notre Dame]] como la Dama petrificada.
+París estaba en proceso de convertirse en **Sigil** (Ciudad de las [[Puertas]]): el nexo del universo completo, con puertas a todos los lugares, donde los dioses no pueden intervenir. La primera inversión de la mayoría de las facciones del torneo iba dirigida a la resurrección de Sigil. La **[[Dama_del_Dolor]]** (de Planescape) estaba en [[La_Dama_Notre_Dame|Notre Dame]] como la Dama petrificada.
 
 El proceso quedó incompleto por la decisión del Fabuloso de enviar la Gema a [[Union]]. La palanca en [[La_Dama_Notre_Dame|Notre Dame]] (arriba = ciudad en conformación; abajo = fin del proceso) fue bajada cuando ganaron los Reguladores.
 
 ## Notas
 
-Conecta con la entrada de [[Lotario]] en Kanka: "destrucción de Sigil → éxodo en naves atlantes". La fundación fallida de Sigil en París es un arco mayor de el cosmos compartido.
+Conecta con [[Lotario]]: la destrucción de Sigil precipita el éxodo en naves atlantes. La fundación fallida de Sigil en París es un arco mayor del cosmos compartido.
 
 ## Ver también
 

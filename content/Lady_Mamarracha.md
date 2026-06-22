@@ -12,7 +12,7 @@ aliases:
 
 ## Presentación
 
-Entidad gigante de cuatro brazos, profética. Presente en [[Kumal_Armenia_Libre|Kumal]]. Función bufonesca/trickster. Las "mamarrachas" aparecen colectivamente ofreciendo refugio al grupo.
+[[Entidad]] gigante de cuatro brazos, profética. Presente en [[Kumal_Armenia_Libre|Kumal]]. Función bufonesca/trickster. Las "mamarrachas" aparecen colectivamente ofreciendo refugio al grupo.
 
 ## Apariciones notables
 

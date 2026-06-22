@@ -32,7 +32,7 @@ imagen: Imagenes_Tier1/Mortan.png
 
 ## El clérigo
 
-**Mortan** es **clérigo del grupo del santuario de [[Helix]]**. *Su oficio*: **sacerdote sanador**, **war-mace con luz divina**, *figura de cuerpo medio* —*no guerrero pleno, no taumaturgo puro, sino mediador litúrgico del grupo*—. **Es el veterano del grupo**, *quien ancla la mesa cuando los demás se pierden en deliberación*. **Pregunta el clima, la estación, los detalles sensoriales antes de actuar**: opera por instalación cuidada del régimen sensorial antes que por ejecución directa.
+**Mortan** es **clérigo del grupo del santuario de [[Helix]]**. *Su oficio*: **sacerdote sanador**, **war-mace con luz divina**, *figura de cuerpo medio* —*no guerrero pleno, no taumaturgo puro, sino mediador litúrgico del grupo*—. **Es el veterano del grupo**, *quien ancla al grupo cuando los demás se pierden en deliberación*. **Pregunta el clima, la estación, los detalles sensoriales antes de actuar**: opera por instalación cuidada del régimen sensorial antes que por ejecución directa.
 
 ## El sacerdote del día
 
@@ -89,7 +89,7 @@ Tras la ejecución, *cuando la turba de Helix avanzó sobre los demás del grupo
 
 ## Apariciones
 
-- **Antes del cerco** — clérigo sanador del grupo del santuario, veterano que ancla la mesa
+- **Antes del cerco** — clérigo sanador del grupo del santuario, veterano que ancla al grupo
 - **La audiencia del juicio** — designado por Otar como "sacerdote del día", confesó parcialmente, defendió a Silas
 - **La noche de la huida** — se quedó en el santuario, defendió su versión, ganó la confianza del vicario
 - **La jornada del altar partido** — sincronizó Hold Person con Otar, participó de la ejecución de Silas

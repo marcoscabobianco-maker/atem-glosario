@@ -73,5 +73,5 @@ La pareja es **simétrica y desequilibrada**. RAJ produjo objetos materiales —
 
 ## Apariciones
 
-- **Descenso del Faro Brillante** (~3000 años atrás) — instalación en el sub-nivel decimocuarto
+- **Descenso del [[Beacon_Faro_Brillante|Faro Brillante]]** (~3000 años atrás) — instalación en el sub-nivel decimocuarto
 - **Ciclo presente** — amanuense continuada del Glosario; cada lámina es aparición suya, aunque la mano no firme

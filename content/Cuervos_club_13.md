@@ -58,7 +58,7 @@ El cronista, *que ha frecuentado clubes parecidos sin pertenecer a ninguno*, ano
 - Trece como **decimotercer arcano** del tarot —*la Muerte*—
 - Trece como **número que el cosmos antiterrano evita** y los clubes esotéricos cultivan por elegancia
 
-[*La identificación entre el Decimotercero del Trono Negro Central y el Decimotercer Miembro del Club es tesis del cronista. Los Cuervos, si se les preguntara, callarían con su elegancia profesional. El silencio del que sabe es la mejor afirmación. —Glosa del [[Arkos|archivero del Plata]].*]
+[*La identificación entre el Decimotercero del [[Trono_Negro_Central]] y el Decimotercer Miembro del Club es tesis del cronista. Los Cuervos, si se les preguntara, callarían con su elegancia profesional. El silencio del que sabe es la mejor afirmación. —Glosa del [[Arkos|archivero del Plata]].*]
 
 ---
 
@@ -68,7 +68,7 @@ El cronista, *que ha frecuentado clubes parecidos sin pertenecer a ninguno*, ano
 - [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] — cosmología del Trono Negro decimotercero
 - [[Cafe_de_la_Anarquia_PU|Café de la Anarquía]] — par operativo: una mesa conspira a la izquierda; esta mesa archiva a la derecha
 - [[Senora_de_los_Cuervos]] — afinidad onomástica, distinta operación
-- [[Corvino|Corvino — alias Cuervo]] — **par operativo del oficio aviar parisino**: el Club anota en tinta de cuervo lo que las cancillerías no admiten; Corvino despacha en pico de paloma lo que las cancillerías no controlan. *Dos casas vecinas del XVIIIe arrondissement, cruces operativos no fijados por firma*. **Las palomas despachan, los cuervos anotan**: *la ciudad camina sostenida por las dos alas*.
+- [[Corvino|Corvino — alias Cuervo]] — **par operativo del oficio aviar parisino**: el Club anota en tinta de cuervo lo que las cancillerías no admiten; [[Corvino]] despacha en pico de paloma lo que las cancillerías no controlan. *Dos casas vecinas del XVIIIe arrondissement, cruces operativos no fijados por firma*. **Las palomas despachan, los cuervos anotan**: *la ciudad camina sostenida por las dos alas*.
 
 ## Apariciones
 

@@ -29,7 +29,7 @@ imagen: null
 
 **Helm** —*"el Vigilante"* en glosa marcial popular, *"el Guardián del Yelmo"* en doctrina ceremonial— **es deidad de la guardia continuada**. *Su jurisdicción cosmológica*: **lealtad doctrinal sostenida**, **observación que no cede**, **defensa del orden que no se relaja en el descanso**. **Donde un cargo de vigilancia opera con disciplina extrema**, *Helm es la deidad invocada*.
 
-*Operación canónica documentada en archivos del Plata*: **Helm aparece en doctrina paladina** *(los paladines del Vigilante son figura recurrente del archivo)*, **en cuerpos de guardia eclesial** *(custodios de reliquias, vigilantes de templos cerrados)*, y **en operaciones cosmológicas donde un guardián mayor sostiene la frontera entre el orden y el desorden** *(los Reguladores y Templarios del Tiempo invocan ocasionalmente la doctrina helmiana en sus oficios de cierre)*.
+*Operación canónica documentada en archivos del Plata*: **Helm aparece en doctrina paladina** *(los paladines del Vigilante son figura recurrente del archivo)*, **en cuerpos de guardia eclesial** *(custodios de reliquias, vigilantes de templos cerrados)*, y **en operaciones cosmológicas donde un guardián mayor sostiene la frontera entre el orden y el desorden** *(los Reguladores y [[Templarios_del_Tiempo]] invocan ocasionalmente la doctrina helmiana en sus oficios de cierre)*.
 
 ---
 
@@ -51,7 +51,7 @@ imagen: null
 
 - *En la doctrina de [[Amitlai]]* como **figura invocable para juramentos de guardia**.
 - *En la [[Contienda]]* como **deidad asociada a guardianes específicos** de las plataformas.
-- *En la línea operativa de [[Maristo]]* como **referencia doctrinal residual** *(la condena de Maristo se cumplió en parte porque su falla quebró un juramento helmiano)*.
+- *En la línea operativa de [[Maristo]]* como **referencia doctrinal residual** *(la condena de [[Maristo]] se cumplió en parte porque su falla quebró un juramento helmiano)*.
 
 [*Helm no es deidad ostentosa. No aparece en los grandes finales cosmológicos. Aparece en los pequeños actos de fidelidad que sostienen el cuerpo doctrinal del cosmos. Sin Helm, los juramentos menores se romperían sin consecuencia; con Helm, cada juramento menor opera con peso. —Glosa de [[Arkos]] el archivero del Plata.*]
 

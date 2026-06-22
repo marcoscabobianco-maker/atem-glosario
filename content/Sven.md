@@ -4,6 +4,7 @@ slug: Sven
 imagen: "Imagenes_Tier1/Sven.png"
 aliases:
  - Sven
+ - Sven el Cocinero Real
 tags:
  - personaje
  - reguladores
@@ -26,15 +27,15 @@ tags:
 ![[Imagenes_Tier1/Sven.png]]
 <!-- /HEADER_IMG -->
 
-> *Niño nórdico poseído en Antiterra. Brutal guerrero de hacha sangrienta en el Inferno. El que tomó la sangre de Seth y no volvió a ser el mismo.*
+> *Niño nórdico poseído en [[Antiterra]]. Brutal guerrero de hacha sangrienta en el Inferno. El que tomó la sangre de Seth y no volvió a ser el mismo.*
 
 ## Presentación
 
-Sven es uno de los rostros más difíciles de fechar del cuadro de los Reguladores. En el momento del ciclo final de Antiterra **es niño y adolescente al mismo tiempo** —alto, terrible, con la cara del que no sabe lo que ya está cargando—. **Está poseído**, y la posesión no se discute en la mesa: forma parte de la presentación. Rubio, trenza larga, mancha permanente de lodo en la piel, calavera dorada de vaca con cuernos cubriéndole el rostro —por vergüenza, dicen los que lo cruzaron en pueblo abierto—, botas y pantalones nórdicos de cuero rígido. El **hacha** que carga es de dos manos y es más grande que él. La levanta con la facilidad del que no sabe del todo lo que está haciendo y, sin embargo, no falla. Pelea cuerpo a cuerpo con saltos imposibles: setenta pies por encima del Tempestari en combate aéreo, se monta sobre la criatura sin perder el filo.
+Sven es uno de los rostros más difíciles de fechar del cuadro de los Reguladores. En el momento del ciclo final de Antiterra **es niño y adolescente al mismo tiempo** —alto, terrible, con la cara del que no sabe lo que ya está cargando—. **Está poseído**, y la posesión no se discute: forma parte de su presentación. Rubio, trenza larga, mancha permanente de lodo en la piel, calavera dorada de vaca con cuernos cubriéndole el rostro —por vergüenza, dicen los que lo cruzaron en pueblo abierto—, botas y pantalones nórdicos de cuero rígido. El **hacha** que carga es de dos manos y es más grande que él. La levanta con la facilidad del que no sabe del todo lo que está haciendo y, sin embargo, no falla. Pelea cuerpo a cuerpo con saltos imposibles: setenta pies por encima del [[Tempestari]] en combate aéreo, se monta sobre la criatura sin perder el filo.
 
 ### Antiterra: el agua azul de Seth
 
-Su rol en el episodio cosmológico del Torneo de la Torre Eiffel es **el del que se queda con el agua azul**. Cuando [[Faragod]] —el dios eléctrico, *como un Horus de rayos*— atraviesa a [[Seth]] con la maniobra de lucha libre y lo clava sobre la Torre Eiffel, **toda la sangre del dios egipcio maldito cae al agua azul**. Esa agua quiere probar a un compañero. **Sven es el que la prueba.** Toma la sangre de Seth. Lo que pasa después no se cuenta en pocas palabras —y Sven, fiel a su edad y a su posesión, no las usa—. Lo que sí queda en la línea: **a partir de ahí Sven cambia**. La sangre del dios maldito no se bebe sin consecuencia. Es la grieta por la que entra todo lo que vendrá.
+Su rol en el episodio cosmológico del [[Torneo_de_la_Torre_Eiffel]] es **el del que se queda con el agua azul**. Cuando [[Faragod]] —el dios eléctrico, *como un Horus de rayos*— atraviesa a [[Seth]] con la maniobra de lucha libre y lo clava sobre la Torre Eiffel, **toda la sangre del dios egipcio maldito cae al agua azul**. Esa agua quiere probar a un compañero. **Sven es el que la prueba.** Toma la sangre de Seth. Lo que pasa después no se cuenta en pocas palabras —y Sven, fiel a su edad y a su posesión, no las usa—. Lo que sí queda en la línea: **a partir de ahí Sven cambia**. La sangre del dios maldito no se bebe sin consecuencia. Es la grieta por la que entra todo lo que vendrá.
 
 ### La caída y la ejecución
 
@@ -42,9 +43,11 @@ La sangre lo lleva a la claudicación. **El grupo —los compañeros— lo hicie
 
 ### El Inferno: Lost One, hacha sangrienta
 
-En la campaña Inferno —sistema Acheron Games, descenso por los círculos al modo de Dante— **Sven reaparece como Lost One**: condenado residente del infierno, no visitante. Ya no es el niño-adolescente. Es **brutal guerrero de hacha sangrienta**, *ser listo para el odio nefasto* —así lo entrega el archivo—. La rabia que entra en él ahora no necesita ser convocada: vive en él.
+En la campaña Inferno —sistema Acheron Games, descenso por los círculos al modo de Dante— **Sven reaparece como [[Lost_Ones|Lost One]]**: condenado residente del infierno, no visitante. Ya no es el niño-adolescente. Es **brutal guerrero de hacha sangrienta**, *ser listo para el odio nefasto* —así lo entrega el archivo—. La rabia que entra en él ahora no necesita ser convocada: vive en él.
 
 Aparece **encadenado al lado de [[Helter]]**: bárbaro **Totem Warrior** que protege al arlequín **[[Arian|Adam]]** con la lealtad que la moralidad no le pide. *"Lealtad por encima de moralidad"*, registra el archivo. Rescata almas condenadas del pantano del tercer círculo. Tiene una escena con Sweden en la que las gárgolas piden traslado al segundo círculo. Es el bárbaro que entiende sin palabras y se queda donde la mesa lo necesita.
+
+El archivo conserva el momento en que esa lealtad se vuelve literal. Cuando la compañía se quiebra y una **facción descendente** toma el camino hacia abajo, Sven baja con ella: se planta en guardia delante de **[[Arian|Adam]]** —el arlequín que acababa de robar la linterna— y no se mueve. El metro noventa del bárbaro entre el botín y los que lo reclaman: la moralidad podrá discutir; la lealtad ya eligió.
 
 ### Las tres brujas Macbeth
 
@@ -52,7 +55,15 @@ En el episodio de las **bombas en las Catacumbas del primer nivel del Inferno**,
 
 > ***"Sven, no pierdas el tren, tren, tren"***
 
-La sugestión apuntaba directo: **destruir todo con los compañeros**. La tentación casi entra. **[[Arsvan|Ärsvan]] interviene y detiene** —desactiva la trampa—. Sven no estalla la bomba. Pero la cercanía del desastre queda en la sesión como **prueba de que un pequeño error puede hacer que todo vuele por los aires**. El bárbaro condenado, esta vez, no terminó de cumplir lo que las brujas le pedían.
+La sugestión apuntaba directo: **destruir todo con los compañeros**. La tentación casi entra. **[[Arsvan|Ärsvan]] interviene y detiene** —desactiva la trampa—. Sven no estalla la bomba. Pero la cercanía del desastre queda en la jornada como **prueba de que un pequeño error puede hacer que todo vuele por los aires**. El bárbaro condenado, esta vez, no terminó de cumplir lo que las brujas le pedían.
+
+## En Vala Antigua
+
+El nombre vuelve a pronunciarse, lejos del Inferno y de Antiterra, en el orbe de [[Uruk_(capital)_y_Casa_Azul|Vala]]: otro Sven, de otra continuidad, al que el archivo no confunde con el niño nórdico de la sangre de Seth. Hay homonimia, no identidad; son dos hombres que comparten una sola palabra.
+
+Este Sven sirve como **Cocinero Real** en la corte de Uruk, oficio de palacio que lo mantiene cerca de la mesa del rey sustituto y de los patios interiores donde se decide el ciclo del año nuevo —el mismo decoro cortesano en cuyo margen se mueve el [[Principe_Debo|Príncipe Debo]]—. Que el que cocina para la corona ande también con la espada al cinto dice bastante de los tiempos: en Vala, las cocinas dan a los corredores donde se trama la sucesión.
+
+Pertenece al grupo de los Wordbreakers, y es en los arcos tardíos de esa banda donde su presencia se vuelve nítida: marcha con ellos contra la [[Torre_Ob_Caligni_Caligni|Torre de Ob Caligni]] y desciende al [[Kardan_Xairas_Laberinto_Qabalah|Laberinto de Kardan Xairas]]. Es uno de los que rompen palabras en el último tramo del camino de Vala.
 
 ## Vínculos
 
@@ -66,11 +77,13 @@ La sugestión apuntaba directo: **destruir todo con los compañeros**. La tentac
 - [[Catacumbas_de_Paris]] — escenario del episodio Macbeth
 - [[Anti_Inferno|Campaña Inferno]] — su mesa condenada
 - [[Tres_Brujas_Macbeth]] — las del cantito (pendiente entrada)
+- [[Uruk_(capital)_y_Casa_Azul]] — corte de Vala donde el Sven homónimo sirve como Cocinero Real
 
 ## Apariciones
 
 - Antiterra — núcleo Reguladores, ciclo final
-- Torneo de la Torre Eiffel — prueba del agua azul, sangre de Seth
+- [[Torneo_de_la_Torre_Eiffel]] — prueba del agua azul, sangre de Seth
 - Ejecución por el grupo — rifle del tiro de gracia, canción conmemorativa
-- Inferno — Lost One Totem Warrior, tercer círculo (pantano), escena con Sweden, gárgolas
+- Inferno — [[Lost_Ones|Lost One]] Totem Warrior, tercer círculo (pantano), escena con Sweden, gárgolas
+- Inferno — quiebre de la compañía: facción descendente, en guardia delante del arlequín Adam
 - Catacumbas, primer nivel del Inferno — episodio Macbeth, "Sven, no pierdas el tren"

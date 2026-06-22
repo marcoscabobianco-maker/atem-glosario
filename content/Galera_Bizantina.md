@@ -56,5 +56,5 @@ En la cubierta: **arqueros**, **remeros encadenados**, **un oficial con casco c�
 
 ## Apariciones
 
-- **Constantinopla 1055** — operaciones del último siglo de gloria imperial bizantina
-- **Patrullas del Mar Negro y del Mediterráneo oriental** — defensa de las rutas comerciales del imperio
+- **[[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]** — operaciones del último siglo de gloria imperial bizantina
+- **Patrullas del [[Mar_Negro_Ucronica|Mar Negro]] y del [[Mediterraneo_Ucronico|Mediterráneo]] oriental** — defensa de las rutas comerciales del imperio

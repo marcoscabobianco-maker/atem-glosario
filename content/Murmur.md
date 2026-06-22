@@ -1,49 +1,19 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, personaje, kanka-5406834]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Murmur_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Murmur", "Coyote", "Jorge"]
 ---
 
-# ATEM::SaintGermain::MMF::Murmur
+# Murmur
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Murmur_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Murmur. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Duque infernal. Se lo representa montando un grifo y cargando en la espalda una espada y un cetro, insignias de su grado en la jerarquía demoníaca. Entre sus poderes conocidos se cuenta la capacidad de devolver la vida a los muertos. Para invocarlo correctamente debe convocárselo entre la mañana y el mediodía, en las proximidades de aguas claras; alterar estas condiciones compromete el resultado del rito.
 
-![[ATEM__SaintGermain__MMF__Murmur_retrato.png]]
+En los años de la Fronda parisina, Murmur fue convocado por [[Marsilio_Fountaine]] para salvar a [[Jeanne_Devossie]] de una ofrenda que los hermanos Felón preparaban en su castillo de Chambois. El precio de esa intervención lo pagó una mortal que selló con el Duque un pacto de permanencia: su alma a cambio de seguir viviendo. El registro deja constancia del contrato; las condiciones de su cumplimiento permanecen abiertas.
 
+Los nombres [[Coyote]] y Jorge circulan en ciertos testimonios como denominaciones alternativas con las que Murmur se ha presentado ante mortales en distintos contextos. Si corresponden a manifestaciones distintas o a una misma entidad bajo máscaras cambiantes, el archivo no lo determina.
 
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5406834
-**kanka_url:** https://app.kanka.io/w/216093/entities/5406834
-**kanka_kind:** character
-**kanka_type:** NPC
-**familia:** (sin familia)
-**sexo:** (no especificado)
-**título:** Duque demoníaco, Coyote, Jorge
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 74
-- **Sesiones donde aparece** (3/9):
-  - S7 — 22 hits
-  - S8 — 34 hits
-  - S9 — 18 hits
-
-## Entry Kanka actual (resumen)
-
-> Entidad demoníaca que monta un grifo y carga en su espalda una espada y un cetro. Capaz de devolver la vida a los muertos. Debe invocarse entre la mañana y el mediodía cerca de aguas claras. Firmó un pacto con una mortal para mantenerla viva a cambio de su alma.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM espejo, citando kanka_url como fuente primaria.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Marsilio_Fountaine]] — quien lo invocó en Chambois para impedir la muerte de Jeanne
+- [[Jeanne_Devossie]] — salvada de la ofrenda mediante la intervención del Duque
+- [[Pacto_Madeline-Murmur]] — pacto con una mortal; alma entregada a cambio de vida
+- [[Felón]] — familia cuyos ritos fueron el contexto de la invocación

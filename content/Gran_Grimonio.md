@@ -14,13 +14,12 @@ aliases:
 ## Presentación
 
 **Tipo:** Libro mítico
-**Descripción:** "Libro de la vida y la muerte" que supo encontrar en otras expulsiones infernales (el archivo reference). Puede "salvar el mundo, o perderlo."
 
-**Búsqueda:** [[Maristo]] busca activamente en el archivo. Motivación: honrar maestro Kisándal, cuyo funeral era en catedral ahora infernal.
+"Libro de la vida y la muerte" que ha emergido en otras expulsiones infernales. Puede "salvar el mundo, o perderlo."
 
-**Hipótesis de identidad:** Posible que sea el libro que permite escapar de Dante/Infierno, o que contiene secretos de cosmología dual.
+**Búsqueda:** [[Maristo]] lo busca activamente. Motivación: honrar a su maestro Kisándal, cuyo funeral se celebraba en una catedral ahora infernal.
 
-**Confianza:** FUERTE — búsqueda confirmada, relevancia clara. Identidad exacta aún por revelar.
+**Hipótesis de identidad:** Posible que sea el libro que permite escapar de Dante/[[Infierno]], o que contiene secretos de cosmología dual.
 
 ## Ver también
 

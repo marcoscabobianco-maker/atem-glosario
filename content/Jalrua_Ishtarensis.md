@@ -1,41 +1,20 @@
 ---
-tags: [Vala, VALA, personaje]
-meta: M
-image: _assets/Vala/Jalrua_Ishtarensis_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: personaje
+tags: ["personaje", "vala"]
+aliases: ["Jalrua Ishtarensis", "Halrua Ishtarensis"]
 ---
 
 # Jalrua Ishtarensis
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/Vala/Jalrua_Ishtarensis_retrato.png`
-> **Prompt sugerido:** Ilustración de Jalrua Ishtarensis. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
 
-![[Jalrua_Ishtarensis_retrato.png]]
+Sacerdotisa del templo de Ishtar en [[Nesut_Biti]], cuyo título latinizado — *Ishtarensis*, "perteneciente a Ishtar" — la sitúa como custodio formal del culto en esa ciudad. Bajo su cuidado estuvo [[Talia_Cristalia]] durante el período en que ésta se hallaba en animación suspendida. Desde esa posición apadrinó a los [[Wordbreakers]], orientando las primeras acciones del grupo en [[Nesut_Biti]] y dándoles encargo formal.
 
+La misión que les confió fue la recuperación de un anillo del [[Valle_de_la_Tempestad]]. Una vez recibido el anillo, Jalrua montó el dragón guardián del templo, tomó la vara con la que podía controlar al ser que mantenía cautiva el alma de Talia, y partió hacia [[Uruk_(capital)_y_Casa_Azul|Uruk]]. El Gobernador de Nesut Biti tomó ese acto como afrenta: en su lectura, ella se había llevado una responsabilidad que no le correspondía trasladar. El cronista no resuelve si fue traición deliberada o misión legítima ante una autoridad superior; los indicios señalan que fue un acto de usurpación consciente, ejecutado desde la convicción de que Uruk tenía preeminencia sobre Nesut en ese asunto.
 
-**Acción:** Crear.
+Jalrua volvió a aparecer en arcos posteriores. Su nombre — *Jalrua* o *Halrua*, según la forma canónica — no admite etimología sencilla dentro de las lenguas conocidas de Vala, y algunos archiveros lo han apuntado como nombre de oficio antes que de nacimiento.
 
-## Capa juego
-
-Sacerdotisa del **templo de Nesu/Ishtar** en Nesut Biti. Cuidadora de [[Talia Cristalia]] en animación suspendida. "Apadrinó" al grupo (Wordbreakers). Texto del Master: "casi entresexualicamente también lo logró comprometer al padrín de Auz, que dijo yo voy a traer el anillo para vos" — el "padrín de Auz" puede ser **Sven** (el "padrino" / sostén / paladín "Auz" — posible distorsión de "Oz" o de un epíteto).
-
-Eventos clave:
-- Encarga la recuperación del anillo del Valle de la Tempestad.
-- Tras recibir el anillo, **se monta en el dragón guardián** y vuela con la vara que controla al ser que capturó el alma de Talia. Se va hacia Uruk.
-- El Gobernador toma esto como afrenta (ella "se llevó" su responsabilidad).
-- Vuelve a aparecer en arcos posteriores.
-
-Nombre: Jalrua (variante ASR — probable *Jalrua* o *Jalrúa*); Ishtarensis (sufijo latinizante = "perteneciente a Ishtar").
-
-## Ref.
-
-intro_yuvé_pj_guido_wordbreaker (1 Jalrua, sólo allí); contra_el_devorador_y_nesut_revisitado_2 (2 Ishtarensis); side trek valle de la tempestad todes juntes (2); individual_reintro_nibiru (1).
-
-## Preguntas
-
-1. ¿Forma canónica del nombre? Halrua Ishtarensis
-2. ¿"Padrín de Auz" se refiere a Sven o a otro PC? debe ser un paladín, pero no logro fijarme qué se deformó tanto en el  transcript
-3. ¿Su huída con el dragón es traición o misión legítima ante Uruk? es traición o intento de usurpación
-
+## Vínculos
+- [[Nesut_Biti]] — ciudad donde ejercía su sacerdocio y donde comenzó su acción
+- [[Talia_Cristalia]] — figura bajo su custodia en el templo de Ishtar
+- [[Wordbreakers]] — el grupo al que apadrinó y al que encomendó la misión del anillo
+- [[Valle_de_la_Tempestad]] — origen del anillo que desencadenó los eventos
+- [[Uruk_(capital)_y_Casa_Azul|Uruk]] — destino al que partió con el dragón y la vara

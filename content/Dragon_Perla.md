@@ -11,7 +11,7 @@ aliases:
 
 ## Presentación
 
-Entidad vinculada al mecanismo del [[Arbol_Cronico|Árbol Crónico]] en [[Kumal_Armenia_Libre|Kumal]].
+[[Entidad]] vinculada al mecanismo del [[Arbol_Cronico|Árbol Crónico]] en [[Kumal_Armenia_Libre|Kumal]].
 
 ## Apariciones notables
 

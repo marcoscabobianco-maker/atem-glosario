@@ -4,7 +4,7 @@ slug: Cinna_Minux
 categoria: personaje
 aliases:
  - Cinna Minux
- - El Vampiro de L7
+ - El Vampiro de Corte del Thegn
  - Lord Cinna
 tags:
  - personaje
@@ -13,7 +13,6 @@ tags:
  - ardis-vala
  - mega-dungeon-ardis-vala
  - L07
- - 7-122
  - dominio-oculto
  - charm
  - posible-pariente-malakita
@@ -21,11 +20,11 @@ tags:
 
 # Cinna Minux
 
-> *Vampiro antiguo. Dominio oculto en L7-119 a 7-132. Charm enhanced. Court de seguidores charmados. Evita a los Sun-Scarred. Posible pariente de Malakita o predecesor.*
+> *Vampiro antiguo. Dominio oculto en las capillas de la Corte del Thegn. Charm enhanced. Court de seguidores charmados. Evita a los Sun-Scarred. Posible pariente de Malakita o predecesor.*
 
 ## Presentación
 
-**Cinna Minux** es un **vampiro antiguo poderoso** que mantiene **dominio oculto** sobre **antiguas capillas y cámaras administrativas archonteanas en el [[Court_of_Troll_Thegn|Nivel 7]] del [[Mega_Dungeon_Arden_Vul]]** (áreas 7-119 a 7-132). Su **aposento principal está en 7-122**.
+**Cinna Minux** es un **vampiro antiguo poderoso** que mantiene **dominio oculto** sobre **antiguas capillas y cámaras administrativas archonteanas en la [[Court_of_Troll_Thegn|Corte del Thegn]] del [[Mega_Dungeon_Arden_Vul]]**. Su **aposento principal se esconde en lo más hondo de las capillas**.
 
 ### Su corte oculta
 
@@ -34,29 +33,27 @@ Por sus **habilidades de charm intensificadas**, Cinna ha reunido una **"corte" 
 - **Vampiros menores** —descendientes vampíricos creados por él
 - **Aventureros charmados** —prisioneros voluntarios capturados por sus hechizos
 - **Monstruos charmados** —seres del dungeon sometidos a su voluntad
-- **Red extensa de informantes charmados** en otras áreas de Arden Vul
+- **Red extensa de informantes charmados** en otras áreas de [[Ardis_Vala|Arden Vul]]
 
 ### Su sigilo defensivo
 
 Cinna es **cauteloso por encima de todo**:
 
-- **No quiere cruzarse con los [[Caballeros_Cicatriz_del_Sol|Sun-Scarred Knights]]** (SL10A/B). **Específicamente no quiere alertarlos** sobre su existencia ni su ubicación
+- **No quiere cruzarse con los [[Caballeros_Cicatriz_del_Sol|Sun-Scarred Knights]]** (el Hold y la Ciudadela de la Cicatriz del Sol). **Específicamente no quiere alertarlos** sobre su existencia ni su ubicación
 - **Mantiene control estricto** sobre las entradas y salidas de sus minions
 - **Pocos saben de su existencia** dentro del dungeon
-- Los **bestial varumani cerca de 7-91** solo saben que **"el área está embrujada"**
+- Los **bestial varumani de las cuevas vecinas** solo saben que **"el área está embrujada"**
 - Si los compañeros **tropiezan con su lair por accidente**, **es inmediatamente consciente** y **organiza ambush** rápidamente
 
 ### Su poder
 
-**Vampiro clásico** con mejoras:
+**Vampiro antiguo** — y algo más que vampiro:
 
-- -14 (ancient vampire)
-- o mejor con armor
-- **Charm Person** intensificado: target con -2 a la save, área expandida
-- **Drain Level** estándar de vampiros
+- **Mirada que somete** — pocos ánimos la resisten, y alcanza más lejos que la de su estirpe
+- **El toque que arrebata grados del temple** — como es propio de los vampiros
 - **Forma niebla / murciélago / lobo**
-- **Regeneration**
-- Vulnerabilidades estándar: sol, agua corriente, plata, símbolos sagrados
+- **Las heridas se le cierran solas**
+- Las debilidades de la estirpe: sol, agua corriente, plata, símbolos sagrados
 
 ### Posibles conexiones con la cadena vampírica
 
@@ -67,7 +64,7 @@ Cinna es **cauteloso por encima de todo**:
 - **Vampiro independiente** sin conexión a Malakita (caso clásico de dungeon-vampire que se asentó en el lugar)
 - **Pieza dormida** durante la corrida original; **activada** durante el [[Hiato_15_Años_Ardis_Vala|hiato]] como parte del **dominio Ravenloft**
 
-### Post-hiato (Reveal 2026-05-20)
+### Post-hiato (revelación del archivo)
 
 Con el **[[Vencimiento_Varumani|vencimiento de los Varumani]]** y la entrada en **[[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]**:
 
@@ -75,12 +72,12 @@ Con el **[[Vencimiento_Varumani|vencimiento de los Varumani]]** y la entrada en 
 - **O al revés, puede ser más vulnerable** a descubrimiento por nuevos exploradores
 - **Posible alianza** con el [[Papa_Alejandro_Sixto]] —si éste es darklord, Cinna podría serle subordinado
 - **Posible competencia/rivalidad** con el Papa por dominio vampírico
-- Su **relación con [[Caladan]]** (vampirizado) puede ser **nodo clave** —Caladan necesita guía vampírica, Cinna podría ofrecerla o exigirla
+- Su **relación con [[Caladan]]** (vampirizado) puede ser **nodo clave** —[[Caladan]] necesita guía vampírica, Cinna podría ofrecerla o exigirla
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Court_of_Troll_Thegn|L7]] — su nivel
+- [[Court_of_Troll_Thegn|Corte del Thegn]] — su nivel
 - [[Master_Malakita]] — posible pariente vampírico
 - [[Masracht_Prism_Keep|Masracht]] — posible pariente vampírico
 - [[Caladan]] — vampirizado, posible nodo de contacto

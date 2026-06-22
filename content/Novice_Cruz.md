@@ -19,7 +19,7 @@ tags:
 
 ## Presentación
 
-**Las Novice Cruz** son **una facción / tradición del archivo** —*"una cuestión de posadas infernales que tiene su propia tradición"*, declaró textualmente (2026-05-20)—. La grafía probable es **Novice Cruz** (en plural inglés-español, "novicio" o "novicia" + "cruz"), aunque la forma exacta queda **pendiente de confirmación**.
+**Las Novice Cruz** son **una facción / tradición del archivo** —*"una cuestión de posadas infernales que tiene su propia tradición"*—. La grafía probable es **Novice Cruz** (en plural inglés-español, "novicio" o "novicia" + "cruz"), aunque la forma exacta queda **pendiente de confirmación**.
 
 ### Posadas infernales con su tradición
 
@@ -33,27 +33,27 @@ La denominación "novice cruz" —con "cruz" en el nombre— sugiere también **
 
 ### Conexión con el Tren del Buitre Risueño (Gary del Mundo Nuevo)
 
-Hallazgo del minado de **[[Gary_TNW|Gary TNW]]**: las Novice Cruz conectan con el **Tren del Buitre Risueño** (en algunas transcripciones "Buitre Ruiseño" por distorsión el archivo de transcripción), el **tren interdimensional que parte de [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]]** en Gary, Indiana 1987:
+Según el archivo de **[[Gary_TNW|Gary TNW]]**, las Novice Cruz conectan con el **Tren del Buitre Risueño**, el **tren interdimensional que parte de [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]]** en [[Gary_Indiana_TNW|Gary, Indiana]] 1987:
 
-> *"Tripulado por una **novice crew**. Se dirige a una posada interdimensional donde 'afuera de las ventanas se asaba el mundo como manzanas asadas.' El Buitre Risueño es su última parada."* (GARY_TNW_GLOSARIO_ADDITIONS.md ¶669-674)
+> *"Tripulado por una **novice crew**. Se dirige a una posada interdimensional donde 'afuera de las ventanas se asaba el mundo como manzanas asadas.' El Buitre Risueño es su última parada."*
 
 La identificación es directa: **"novice crew" en inglés = Novice Cruz en la grafía castellana del archivo**. **La cruz del nombre** puede leerse como cruz cristiana (orden cuasi-monástica) **o** como cruce dimensional (tripulación que cruza los planos). Ambas lecturas coexisten en el archivo. La "posada interdimensional" donde el mundo se asa como manzanas en las ventanas es exactamente la **"posada infernal"** que declaró como campo operativo de las Novice Cruz.
 
 ## Vínculos
 
 - **Posadas infernales / interdimensionales** — campo operativo
-- **Tren del Buitre Risueño** — vehículo interdimensional que tripulan, parte de Iron Mountain
+- **Tren del Buitre Risueño** — vehículo interdimensional que tripulan, parte de [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]]
 - [[Gary_TNW|Gary TNW]] — campaña donde aparecen como "novice crew"
 - [[Lords_of_Creation]] — campaña paralela T2.5 (mismo eclipse del 14 abril 1987)
 - [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]] — punto de origen del tren
 - **Posada interdimensional del Buitre Risueño** — destino
-- **Redcap, Wintercap** — pasajeros aliados del tren
-- **Infierno** — escenario cosmológico general
+- **[[Redcap_Wintercap_TNW|Redcap]], Wintercap** — pasajeros aliados del tren
+- **[[Infierno]]** — escenario cosmológico general
 - [[Los_Supremos]] — contexto del archivo donde las menciona
 - [[Mahakala]] — Señor del Tiempo (la "cruz" como signo temporal posible)
-- **Tradiciones religiosas** del setting (Pelor, Patriarca de Glastumville, etc.) — comparación
+- **Tradiciones religiosas** del setting (Pelor, [[Patriarca_de_Glastumville]], etc.) — comparación
 
 ## Apariciones
 
-- Mención oral de como cuestión con tradición propia a documentar
-- Pendiente localizar apariciones en archivos y cuadernos
+- Atestiguadas como cuestión con tradición propia, aún por documentar en detalle
+- Pendiente localizar apariciones en los cuadernos

@@ -9,7 +9,7 @@ aliases:
 ## Presentación
 
 **Forma:** Alas de gárgola; tres objetos en uno (shoulders/body)
-**Referencias:** "Temática gárgolas en juego desde que comenzamos" (desde el asalto inicial al Temple en adelante); la biblioteca del Laberinto tenía motivo de gárgola (copa)
+**Referencias:** "Temática gárgolas en juego desde que comenzamos" (desde el asalto inicial al [[Temple_complejo_TE|Temple]] en adelante); la biblioteca del Laberinto tenía motivo de gárgola (copa)
 **Inscripción:** "Knoblish Plains", "Archidemonios", "Sovereign Señor de las Gárgolas"
 **Poder:** Vuelo/movilidad aérea presumida
 **Usuario:** Grupo (distribución no especificada)

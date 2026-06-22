@@ -30,7 +30,7 @@ imagen: Imagenes_Tier1/Gavrilo_Princip.png
 
 ---
 
-**El joven se llama Gavrilo**. *Bosnio, estudiante, miembro de la Joven Bosnia, alimentado con la doctrina de que matar al heredero austríaco era restituir algo más grande que un país*. La fecha que eligió —**28 de junio**— **no era casual**: era la fecha del santo serbio Vid, era la fecha del **[[Batalla_de_Kosovo_1389|cruce de Kosovo de 1389]]**, era la fecha en que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] sembraba el acto **una vez cada siglos**.
+**El joven se llama Gavrilo**. *Bosnio, estudiante, miembro de la [[Joven_Bosnia]], alimentado con la doctrina de que matar al heredero austríaco era restituir algo más grande que un país*. La fecha que eligió —**28 de junio**— **no era casual**: era la fecha del santo serbio Vid, era la fecha del **[[Batalla_de_Kosovo_1389|cruce de Kosovo de 1389]]**, era la fecha en que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] sembraba el acto **una vez cada siglos**.
 
 **Cuando el revólver disparó, Gavrilo ya no era Gavrilo del todo**. *Uno de los compañeros del grupo en travesía de Kosovo lo había alcanzado* —los archivos no consignan plenamente la identidad del cuerpo-receptor en este punto, pero el hecho consta—: la posesión, fusión o captura cambió la mano que apretaba el gatillo. **Lo que salió por la calle Franz-Josef Strasse era, simultáneamente, el bosnio histórico y el viajero de la travesía**.
 
@@ -43,7 +43,7 @@ imagen: Imagenes_Tier1/Gavrilo_Princip.png
 ## Vínculos
 
 - [[Archiduque_Francisco_Fernando|Archiduque Francisco Fernando]] — el objetivo del disparo
-- [[Batalla_de_Kosovo_1389]] — cruce de fecha que la Mano Negra explotaba
+- [[Batalla_de_Kosovo_1389]] — cruce de fecha que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] explotaba
 - [[Mano_Negra_Antiterra_Serbia|Mano Negra]] — quien sembraba la sincronía
 - [[Sarajevo_1914_Ucronica]] — escenario del acto
 - [[Lazaro_Principe_de_Serbia|Lázaro]] — figura serbia central del cruce con 1389

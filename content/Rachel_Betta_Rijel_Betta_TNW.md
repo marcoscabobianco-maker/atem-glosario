@@ -5,6 +5,7 @@ aliases:
  - Rachel Betta
  - Rijel Betta
  - Beta
+ - Betta
  - la guardiana de la espada de obsidiana
 categoria_diegetica: personaje
 epoca: "siglo XX tardío — subterráneos de Gary, Indiana"

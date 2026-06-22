@@ -19,7 +19,7 @@ aliases:
 
 ## Presentación
 
-Sistema de correspondencias entre los siete pecados capitales y deidades/figuras del mundo de [[Torregrises]], documentado en los cuadernos T de (2003-2004). Complementa la estructura de los **Curiales** , que mapea pecados a miembros de **[[Rintrah]]**. Donde los Curiales son personajes jugadores, el Panteón Posmoderno son fuerzas cósmicas o figuras de poder del mundo:
+[[Lords_of_Creation_Sistema_TNW|Sistema]] de correspondencias entre los siete pecados capitales y deidades/figuras del mundo de [[Torregrises]], documentado en los cuadernos T de (2003-2004). Complementa la estructura de los **[[Curiales]]** , que mapea pecados a miembros de **[[Rintrah]]**. Donde los [[Curiales]] son compañeros encarnados, el Panteón Posmoderno son fuerzas cósmicas o figuras de poder del mundo:
 
 Ira → **[[Sucor_TG|Sucor]]** · Gula → **Mabón** (cf. [[Mabron|Mabrón]]) · Avaricia → **[[Gordo_Suli|Gordo Suli]]** · Lujuria → **[[Lubina]]** · Pereza → **[[Verdulero]]** · Soberbia → **[[Sabas]]**.
 
@@ -31,8 +31,8 @@ El adjetivo "posmoderno" sugiere que trabaja esta estructura como dispositivo na
 
 **Fuentes E:** Las Notas preliminares de [[Torregrises]] detallan un nivel teológico
 adicional: 6 dioses del [[Panteon_el|Panteón]] con nombres latinizantes y dobles correspondencias:
-**Nix** (nieve/drogas), **Anxifer** (inquietante/medios), **Intrico** (enredar/política),
-**Intimus** (secreto/sexo), **Intactus** (intangibilidad/tribus), **Tentator** (tentación/dinero).
+**Nix** (nieve/drogas), **[[Anxifer]]** (inquietante/medios), **[[Intrico]]** (enredar/política),
+**[[Intimus]]** (secreto/sexo), **[[Intactus]]** (intangibilidad/tribus), **[[Tentator]]** (tentación/dinero).
 "El Panteón Posmoderno ha resurgido. Sus dioses tienen nombre." Ver entrada separada
 **[[Panteon_Posmoderno_dioses_menores_TG|Panteón Posmoderno — dioses menores]] (TG)** para el detalle completo.
 

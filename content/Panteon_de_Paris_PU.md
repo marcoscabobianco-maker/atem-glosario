@@ -29,9 +29,9 @@ tags:
 
 ## Presentación
 
-El **Panteón de París** —en su forma de la París Ucrónica de [[Antiterra_Demonia|Antiterra]]— es **el monumento central de la era post-revolucionaria**, levantado tras la **liberación de 1901**. Su rasgo más distintivo es el conjunto de **doce estatuas de héroes** dispuestas en torno al espacio central, bajo la cúpula —doce, como las plataformas del zodíaco, como los ciclos de doce años que marcan los períodos de liberación y reorganización del setting—.
+El **Panteón de París** —en su forma de la [[Paris_Ucronica|París Ucrónica]] de [[Antiterra_Demonia|Antiterra]]— es **el monumento central de la era post-revolucionaria**, levantado tras la **liberación de 1901**. Su rasgo más distintivo es el conjunto de **doce estatuas de héroes** dispuestas en torno al espacio central, bajo la cúpula —doce, como las plataformas del zodíaco, como los ciclos de doce años que marcan los períodos de liberación y reorganización del setting—.
 
-Las estatuas **no son monumentos solos**: son **declaración política**. La era post-revolucionaria de Antiterra, que cerró el virreinato ucrónico de [[Lord_Gaul]] y abrió la república libertadora, eligió a sus doce —héroes que merecen quedar en piedra, fórmula de panteón cívico al modo de la Tercera República francesa real, pero con el agregado del número zodiacal—.
+Las estatuas **no son monumentos solos**: son **declaración política**. La era post-revolucionaria de [[Antiterra]], que cerró el virreinato ucrónico de [[Lord_Gaul]] y abrió la república libertadora, eligió a sus doce —héroes que merecen quedar en piedra, fórmula de panteón cívico al modo de la Tercera República francesa real, pero con el agregado del número zodiacal—.
 
 ### Sin resurrección
 
@@ -39,7 +39,7 @@ Pero el Panteón de la PU tiene una característica que el del adoquín turísti
 
 ### Hermano del Arco
 
-El Panteón funciona en par con **el Arc de Triomphe ucrónico** —el otro monumento de la era—, que dispone **doce avenidas dedicadas a héroes** en su entorno. Doce estatuas en el Panteón, doce avenidas en el Arco. La aritmética del setting es consistente: el número zodiacal marca la arquitectura, así como marca el Juego de las Sombras y los ciclos del calendario A.D.A.
+El Panteón funciona en par con **el Arc de Triomphe ucrónico** —el otro monumento de la era—, que dispone **doce avenidas dedicadas a héroes** en su entorno. Doce estatuas en el Panteón, doce avenidas en el Arco. La aritmética del setting es consistente: el número zodiacal marca la arquitectura, así como marca el Juego de las Sombras y los ciclos del calendario [[Anno_Domini_Antiterra_ADA|A.D.A.]]
 
 ## Vínculos
 
@@ -54,6 +54,6 @@ El Panteón funciona en par con **el Arc de Triomphe ucrónico** —el otro monu
 
 ## Apariciones
 
-- París Ucrónica, era post-1901 — monumento erigido
-- *Sucesos de Antiterra* — referencias al panteón de héroes
+- [[Paris_Ucronica|París Ucrónica]], era post-1901 — monumento erigido
+- *[[Sucesos_de_Antiterra]]* — referencias al panteón de héroes
 - Arquitectura post-revolucionaria documentada — Arc de Triomphe con 12 avenidas, Panteón con 12 estatuas

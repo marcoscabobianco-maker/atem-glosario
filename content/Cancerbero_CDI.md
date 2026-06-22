@@ -25,7 +25,7 @@ imagen: Imagenes_Tier1/Cancerbero_CDI.png
 
 > *"Tres bocas para ladrar al mismo viajero; tres pares de ojos para no perderlo de vista cuando intente la otra orilla."*
 
-**Como conviene a su oficio**: tres cabezas erguidas, las seis fauces simultáneamente abiertas, los seis ojos amarillos como sulfuro encendido. *No hay perro en el mundo de los vivos que pueda sostener ese gesto; en el Tercer Círculo es la cara del Círculo mismo*. **Las garras del frente hunden el lodo del Estigia** —el cronista nota que el lodo, al recibirlas, **deja de ser lodo y vuelve a serlo**, en ese orden imposible que solo el Infierno administra—.
+**Como conviene a su oficio**: tres cabezas erguidas, las seis fauces simultáneamente abiertas, los seis ojos amarillos como sulfuro encendido. *No hay perro en el mundo de los vivos que pueda sostener ese gesto; en el Tercer Círculo es la cara del Círculo mismo*. **Las garras del frente hunden el lodo del Estigia** —el cronista nota que el lodo, al recibirlas, **deja de ser lodo y vuelve a serlo**, en ese orden imposible que solo el [[Infierno]] administra—.
 
 ---
 
@@ -41,7 +41,7 @@ imagen: Imagenes_Tier1/Cancerbero_CDI.png
 
 ## Vínculos
 
-- [[Ciaco_Ciacco|Ciaco]] — alma del Círculo que Cerbero custodia (entre otras)
+- [[Ciacco_Ciacco|Ciacco]] — alma del Círculo que Cerbero custodia (entre otras)
 - [[Tercer_Circulo_Gula]] — su circunscripción
 - [[Pluton_CDI|Plutón]] — autoridad del Círculo
 - [[Estigia_pantano|Estigia]] — el lodo que vigila

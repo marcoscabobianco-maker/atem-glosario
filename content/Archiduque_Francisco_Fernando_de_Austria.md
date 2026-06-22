@@ -50,7 +50,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 **Heredero de un imperio en disolución administrativa**. *El Imperio Austro-Húngaro era, hacia 1914, ensamblaje de doce nacionalidades* —*alemanes, húngaros, checos, eslovacos, polacos, ucranianos, eslovenos, croatas, serbios, rumanos, italianos, judíos*—; **Francisco Fernando se preparaba para reformar la estructura mediante federalización mayor**: *plan de "Estados Unidos de la Gran Austria"* (Trialismus o variantes federales) **que habría debilitado el dominio magyar sobre las nacionalidades eslavas**.
 
-**Su asesinato fue, entre otras cosas, asesinato del plan reformador**. *El archivero del Plata anota la paradoja*: **lo que la Mano Negra creía golpear era el imperio centralizado**; *lo que en realidad eliminó era el reformador*. **La guerra que detonó el atentado** fue, **en parte, defensa preventiva por parte de quienes habían perdido al único interlocutor con quien podían negociar**.
+**Su asesinato fue, entre otras cosas, asesinato del plan reformador**. *El archivero del Plata anota la paradoja*: **lo que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] creía golpear era el imperio centralizado**; *lo que en realidad eliminó era el reformador*. **La guerra que detonó el atentado** fue, **en parte, defensa preventiva por parte de quienes habían perdido al único interlocutor con quien podían negociar**.
 
 ---
 
@@ -58,7 +58,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 **Su matrimonio con Sophie** fue **acto político en sí mismo**: *casarse fuera de la nobleza dinástica europea era, en la corte de Viena, escándalo institucional*. **Aceptó las condiciones humillantes** —*Sophie no podía sentarse junto a él en ceremonias oficiales, sus hijos quedaban excluidos del trono*— **a cambio de vivir con la mujer que amaba**.
 
-**El 28 de junio de 1914 era el aniversario de su matrimonio**. *Sophie viajaba con él a Sarajevo porque en territorio bosnio* —*fuera del protocolo vienés*— **podía aparecer públicamente como esposa**. **La Mano Negra eligió la fecha sabiendo**: *no sólo apuntaban al heredero, apuntaban al matrimonio*. **Las dos balas mataron a una pareja, no a una figura singular**.
+**El 28 de junio de 1914 era el aniversario de su matrimonio**. *Sophie viajaba con él a Sarajevo porque en territorio bosnio* —*fuera del protocolo vienés*— **podía aparecer públicamente como esposa**. **[[Mano_Negra_Antiterra_Serbia|La Mano Negra]] eligió la fecha sabiendo**: *no sólo apuntaban al heredero, apuntaban al matrimonio*. **Las dos balas mataron a una pareja, no a una figura singular**.
 
 **El parlamento de Sophie** —*"Déjenme ir. Nos encontraremos en el pasado"*— **registrado por la cronomancia uchrónicaes uno de los cierres más densos del archivo**: *no es despedida común*; **es promesa de reencuentro en otra capa temporal**, **y el archivero del Plata anota que la promesa sigue operativa**.
 
@@ -75,9 +75,9 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 - [[Duquesa_Sophie_de_Hohenberg|Duquesa Sophie]] — esposa y víctima secundaria
 - [[Sarajevo_1914_Ucronica|Sarajevo 1914]] — escenario del atentado
 - [[Gavrilo_Princip|Gavrilo Princip]] — ejecutor en la historia común
-- [[Cvjetko_Popovic|Cvjetko Popović]] / [[Claude_Nauge|Claude Nauge]] — ejecutor cronomántico (Guardia Ucrónico)
+- [[Cvjetko_Popovic|Cvjetko Popović]] / [[Claude_Nauge|Claude Nauge]] — ejecutor cronomántico (Guardia [[Mediterraneo_Ucronico|Ucrónico]])
 - [[Mano_Negra_Antiterra_Serbia|Mano Negra]] — organización que sembró la fecha
-- [[Circulo_Simultaneo|Círculo Simultáneo]] — cuerpo que proyecta al Guardia Ucrónico
+- [[Circulo_Simultaneo|Círculo Simultáneo]] — cuerpo que proyecta al Guardia [[Mediterraneo_Ucronico|Ucrónico]]
 - [[Batalla_de_Kosovo_1389|Kosovo 1389]] — raíz cronomántica de la cadena
 - [[Vito_Guia|San Vito]] — santo del día, Vidovdan
 - [[Imperio_Austro_Hungaro_Uchronico|Imperio Austro-Húngaro]] — su cuerpo político
@@ -91,4 +91,4 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 - **Matrimonio morganático con Sophie** — escándalo institucional aceptado
 - **Plan de federalización del Imperio** — Trialismus, Estados Unidos de la Gran Austria
 - **28 de junio de 1914 — Sarajevo, Puente Latino** — atentado, muerte de la pareja
-- **Eco continuado en la cadena cronomántica** — el Inevitable cumplido
+- **Eco continuado en la cadena cronomántica** — el [[Inevitable]] cumplido

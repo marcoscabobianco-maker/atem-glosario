@@ -44,7 +44,7 @@ imagen: Imagenes_Tier1/Bucarest_Ucronica.png
 
 ## El verano de 1901
 
-**El cuatro de julio de 1901 A.D.A. el grupo llegó**. *Las temperaturas templadas, las calles encendidas a medias, la coexistencia de faroles eléctricos y de gas*: **Bucarest todavía no había decidido si abrazar el siglo XX o resistirlo un verano más**. *La luz eléctrica era prodigio público*; **el gas, costumbre privada**.
+**El cuatro de julio de 1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]] el grupo llegó**. *Las temperaturas templadas, las calles encendidas a medias, la coexistencia de faroles eléctricos y de gas*: **Bucarest todavía no había decidido si abrazar el siglo XX o resistirlo un verano más**. *La luz eléctrica era prodigio público*; **el gas, costumbre privada**.
 
 **El motivo de la visita**: **investigación del asesinato del vicecónsul [[Bandy_Viceconsul|Bandy]]** —*ocurrido el 29 de junio, noticia llegada por telegrama*—; **la herencia de los Vivescu —unos cincuenta mil francos liquidados en banco de la avenida central**. **Dos hilos que se anudaban en un solo nudo**: la herencia llegaba a un destinatario que el vicecónsul había nombrado **antes de morir**, y **el destinatario no era ya destinatario después de muerto**.
 
@@ -56,7 +56,7 @@ imagen: Imagenes_Tier1/Bucarest_Ucronica.png
 
 - **El caserón hereditario de [[Moni_Vivescu|Moni Vivescu]]** —*casa vieja con los muebles cubiertos de sábanas, salón habilitado para reuniones, contactos con abogados y banqueros, ubicación segura para reagrupamiento*—.
 - **La [[Mansion_de_Natalia_Petrovna|Mansión de Natalia Petrovna]]** —*suburbio noroeste, contiguo al cementerio*—: **salones de terciopelo negro, candelabros de cera escarlata, ventanas con cristales tintos en rojo**; **sótanos húmedos con ataúdes —algunos ocupados por vampiros, otros vacíos por costumbre o por reserva—**; **evidencia de rituales de misa negra, agua bendita en frascos, objetos mágicos**. **Laberinto de casas adyacentes con vidrios y cristales** que el archivero del Plata recomienda no atravesar dos veces sin razón.
-- **La taberna del Carrusel de la cervecería** —*café-bar en piso bajo de plaza con arcadas, ajenjo en las mesas, botellas vacías al ras del suelo, posadero violento*—. **Allí [[Andre_Bar|André Bar]] da inteligencia sobre la reunión secreta de medianoche**.
+- **La [[Carrusel_de_la_Cerveza|taberna del Carrusel de la cervecería]]** —*café-bar en piso bajo de plaza con arcadas, ajenjo en las mesas, botellas vacías al ras del suelo, posadero violento*—. **Allí [[Andre_Bar|André Bar]] da inteligencia sobre la reunión secreta de medianoche**.
 - **El Banco de Bucarest** —*tramitación legal de la herencia*, **abogados locales involucrados**, **agentes del régimen vigilando los movimientos sin disimulo extremo**—.
 
 ---
@@ -65,9 +65,9 @@ imagen: Imagenes_Tier1/Bucarest_Ucronica.png
 
 **Madrugada del cinco al seis de julio de 1901**. **El grupo se infiltra en la mansión Petrovna**: *búsqueda de entrada por el laberinto adyacente*, **descripción del salón principal —muebles de terciopelo negro, candelabros que apenas alcanzan a iluminar las paredes, campana de iglesia descolgada, balcón cerrado por ventanas escarlata, penumbras—**.
 
-**El combate dura múltiples rondas**: *enfrentamiento con [[Natalia_Petrovna|Natalia Petrovna]]* —**vampiresa**—, *el pope corrupto* —**sacerdote ortodoxo armado, traidor de su iglesia**—, *guardias pálidos y fríos*, *prisioneros políticos en jaulas de subsuelo*. **André Bar es dominado hipnóticamente por la vampiresa**; **el combate se expande a múltiples salas, a sótanos sucesivos**.
+**El combate dura múltiples rondas**: *enfrentamiento con [[Natalia_Petrovna|Natalia Petrovna]]* —**vampiresa**—, *el pope corrupto* —**sacerdote ortodoxo armado, traidor de su iglesia**—, *guardias pálidos y fríos*, *prisioneros políticos en jaulas de subsuelo*. **[[Andre_Bar|André Bar]] es dominado hipnóticamente por la vampiresa**; **el combate se expande a múltiples salas, a sótanos sucesivos**.
 
-**Al amanecer, Natalia ha muerto**; *sobrevivientes huyen*; **el grupo explora sótanos donde descubre que los ataúdes vacíos no estaban vacíos: simplemente se habían abierto a tiempo**.
+**Al amanecer, [[Natalia]] ha muerto**; *sobrevivientes huyen*; **el grupo explora sótanos donde descubre que los ataúdes vacíos no estaban vacíos: simplemente se habían abierto a tiempo**.
 
 ---
 
@@ -85,7 +85,7 @@ imagen: Imagenes_Tier1/Bucarest_Ucronica.png
 - [[Moni_Vivescu]] — el caserón hereditario, contacto del grupo
 - [[Bandy_Viceconsul]] — el vicecónsul asesinado, motivo de la visita
 - [[Andre_Bar]] — periodista informante
-- [[Apis]] — coronel-vampiro, nexo con la Mano Negra
+- [[Apis]] — coronel-vampiro, nexo con la [[Mano_Negra_Antiterra_Serbia|Mano Negra]]
 - [[Erzebeth]] · [[Brock]] — anarquistas locales
 - [[Mano_Negra_Antiterra_Serbia]] — operación de fondo
 - [[Circulo_de_la_Serpiente]] — conjura vinculada
@@ -95,6 +95,6 @@ imagen: Imagenes_Tier1/Bucarest_Ucronica.png
 
 ## Apariciones
 
-- **4 julio 1901 A.D.A. — llegada del grupo** — desembarque por aguas pantanosas
+- **4 julio 1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]] — llegada del grupo** — desembarque por aguas pantanosas
 - **5-6 julio 1901 — investigación y combate en la mansión** — episodio mayor
 - **Atmósfera de intriga continuada** — anarquistas, vampiros, conspiradores serbios

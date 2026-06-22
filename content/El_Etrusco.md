@@ -18,7 +18,7 @@ Ancestro milenario enterrado en el [[Panteon_el|Panteón]] de París. Verdadero 
 
 ## Apariciones notables
 
-el archivo [1:52:30] Revelación en Ministerio de Asuntos Exteriores por [[Iriart]]. [[Panteon_el|Panteón]] de París: excavación misterio, gas desconocido liberado durante excavación, derrumbe parcial con anomalías temporales. Possiblemente despertado o expuesto durante excavación (violación de sello ancestral). [[Excavacion_EL_ETRUSCO|Excavación EL ETRUSCO]] (movimiento obrero contra condiciones laborales en tumba).
+el archivo Revelación en Ministerio de Asuntos Exteriores por [[Iriart]]. [[Panteon_el|Panteón]] de París: excavación misterio, gas desconocido liberado durante excavación, derrumbe parcial con anomalías temporales. Possiblemente despertado o expuesto durante excavación (violación de sello ancestral). [[Excavacion_EL_ETRUSCO|Excavación EL ETRUSCO]] (movimiento obrero contra condiciones laborales en tumba).
 
 ## Notas
 

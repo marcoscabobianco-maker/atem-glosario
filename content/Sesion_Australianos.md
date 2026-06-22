@@ -1,17 +1,9 @@
 ---
-categoria: evento
+redirect_to: Jornada_Australianos
 aliases:
- - "Sesion Australianos"
-tags:
- - stub
+ - Sesion_Australianos
 ---
 
-# Sesion Australianos
+# → [[Jornada_Australianos]]
 
-<!-- HEADER_IMG -->
-![[Imagenes_Tier1/Sesion_Australianos.png]]
-<!-- /HEADER_IMG -->
-
-> *Ficha stub. La imagen es el ancla actual. La descripción se expande.*
-
-## Ver también
+*Esta entrada ha sido renombrada. Ver [[Jornada_Australianos]].*

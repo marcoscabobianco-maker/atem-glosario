@@ -16,7 +16,7 @@ aliases:
 
 ## Presentación
 
-Cuerpo de agua entre Europa del Este y Asia Menor. Ruta de tránsito del grupo desde [[Belgrado_Ucronica|Belgrado]] hacia la [[Isla_de_la_Serpiente|Isla de la Serpiente]]. Descrito como tormentoso y hostil durante el viaje. Escenario de la aparición de la [[Naga_Paris_Ucronica|naga lunar]] que advierte al grupo sobre la emboscada multi-naga en la isla. En el archivo, el Mar de Mármara (conectado al Mar Negro) será escenario del naufragio del yate de [[Meteora]].
+Cuerpo de agua entre Europa del Este y Asia Menor. Ruta de tránsito del grupo desde [[Belgrado_Ucronica|Belgrado]] hacia la [[Isla_de_la_Serpiente|Isla de la Serpiente]]. Descrito como tormentoso y hostil durante el viaje. [[Escenario]] de la aparición de la [[Naga_Paris_Ucronica|naga lunar]] que advierte al grupo sobre la emboscada multi-naga en la isla. En el archivo, el Mar de Mármara (conectado al Mar Negro) será escenario del naufragio del yate de [[Meteora]].
 
 ## Apariciones notables
 

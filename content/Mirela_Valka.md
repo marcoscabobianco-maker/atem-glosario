@@ -26,9 +26,9 @@ tags:
 
 ### Su crisis en el regreso tras el Hiato
 
-Cuando los Buscadores llegan a Valdemora con [[Decio_Balmora|Decio]], Mirela los recibe consternada: **Luminita y Dracos han desaparecido**. Los chicos —jóvenes con vocación aventurera, ella con conocimiento incipiente de hechicería, él guerrero— habían sido **advertidos de no acercarse al lugar Davidito**, pero fueron igual, atraídos por la idea de **erradicar un culto del dragón** (que resultó ser un culto menor superpuesto a algo más oscuro).
+Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] llegan a [[Valdemora]] con [[Decio_Balmora|Decio]], Mirela los recibe consternada: **Luminita y Dracos han desaparecido**. Los chicos —jóvenes con vocación aventurera, ella con conocimiento incipiente de hechicería, él guerrero— habían sido **advertidos de no acercarse al lugar Davidito**, pero fueron igual, atraídos por la idea de **erradicar un culto del dragón** (que resultó ser un culto menor superpuesto a algo más oscuro).
 
-**Estorrisco**, contacto local, había guiado a los chicos a la entrada pero no se atrevió a bajar él mismo. Los Buscadores y Decio aceptan el ruego de Mirela: bajan a las cavernas a recuperarlos. **Lo que encuentran abajo es la cripta de Lali corrompida**.
+**Estorrisco**, contacto local, había guiado a los chicos a la entrada pero no se atrevió a bajar él mismo. [[Buscadores_de_Ardis_Vala|Los Buscadores]] y Decio aceptan el ruego de Mirela: bajan a las cavernas a recuperarlos. **Lo que encuentran abajo es la cripta de Lali corrompida**.
 
 El destino de Luminita y Dracos al cierre de el regreso tras el Hiato **queda abierto**.
 
@@ -44,18 +44,18 @@ El destino de Luminita y Dracos al cierre de el regreso tras el Hiato **queda ab
 
 ## Apariciones
 
-- el regreso tras el Hiato — primera y única aparición confirmada. Recibe al grupo en Valdemora, pide ayuda con los hijos.
-- **Cross-campaña Novatos Ravenloft**: aparece **también como Mirela Vălcan** en [[Stejara]] (módulo [[Sunless_Citadel|]] adaptado)
+- el regreso tras el Hiato — primera y única aparición confirmada. Recibe al grupo en [[Valdemora]], pide ayuda con los hijos.
+- **Cross-campaña [[Novatos_Ravenloft|Novatos Ravenloft]]**: aparece **también como Mirela Vălcan** en [[Stejara]] (la [[Ciudadela_Hundida|Ciudadela hundida]])
 
 ---
 
-## Reveal 2026-05-20 : cross-campaña con Novatos Ravenloft
+## Revelación del archivo: cross-campaña con Novatos Ravenloft
 
-**Mirela Valka (Ardis Vala) = Mirela Vălcan (Novatos Ravenloft)** — **MISMA figura**.
+**Mirela Valka ([[Ardis_Vala]]) = Mirela Vălcan ([[Novatos_Ravenloft|Novatos Ravenloft]])** — **MISMA figura**.
 
-En **Novatos** aparece en [[Stejara]] como **madre de Dragoș Vălcan y Luminița Hucrele** —los aventureros desaparecidos en el módulo —. **Mismo escenario que el rescate de los hijos perdidos en el regreso tras el Hiato Ardis Vala**:
+En **Novatos** aparece en [[Stejara]] como **madre de Dragoș Vălcan y Luminița Hucrele** —los aventureros desaparecidos—. **Mismo escenario que el rescate de los hijos perdidos en el regreso tras el Hiato [[Ardis_Vala]]**:
 
-| Detalle | Stejara (Novatos) | Valdemora (Ardis Vala el regreso tras el Hiato) |
+| Detalle | [[Stejara]] (Novatos) | Valdemora (Ardis Vala el regreso tras el Hiato) |
 |---|---|---|
 | Apellido | Vălcan | Valka |
 | Hijo | Dragoș Vălcan | Dracos |
@@ -63,6 +63,6 @@ En **Novatos** aparece en [[Stejara]] como **madre de Dragoș Vălcan y Luminiț
 | Estado emocional | "No llora. Ya pasó esa etapa. Voz plana." | Consternada, ruega ayuda |
 | Recompensa | 125 mo por anillo-sello | Implícita, no monetaria |
 
-**Esto es cross-campaña explícita**: juega **dos mesas en paralelo** sobre el **mismo dominio Ravenloft**, con **figuras compartidos**. **Mirela es bisagra trans-campaña**.
+**Esto es cross-campaña explícita**: **dos crónicas corren en paralelo** sobre el **mismo dominio Ravenloft**, con **figuras compartidas**. **Mirela es bisagra trans-campaña**.
 
 **Implicación**: los Buscadores de Ardis Vala **pueden cruzarse** con los Novatos —o con sus consecuencias narrativas— a través de Mirela y los hijos.

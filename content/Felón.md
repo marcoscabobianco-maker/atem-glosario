@@ -1,47 +1,18 @@
 ---
-tags: [SaintGermain, MMF, 1648, Francia, familia, kanka-5406826]
-meta: M
-image: _assets/SaintGermain/ATEM__SaintGermain__MMF__Felón_retrato.png
-image_status: pending
-nexus_status: APPROVED
+categoria: grupo
+tags: ["grupo", "saintgermain", "fronda", "paris-1648"]
+aliases: ["Felón", "familia Felón", "los Felón"]
 ---
 
-# ATEM::SaintGermain::MMF::Felón
+# Felón
 
-> [!image-pending] Generar imagen
-> **Slot:** `_assets/SaintGermain/ATEM__SaintGermain__MMF__Felón_retrato.png`
-> **Prompt sugerido:** Ilustración de ATEM::SaintGermain::MMF::Felón. Estilo coherente con la campaña.
-> **Notas:** Reemplazar wikilink de abajo cuando este la imagen.
+Los Felón son una estirpe menor de la nobleza francesa, con raices en el sur — en la comarca de Foix y las tierras del Languedoc. Su nombre, que en la tradicion juridica medieval designaba al vasallo desleal, parece haberse convertido con los siglos en divisa irónica o en estigma heredado: los Felón cargan con la fama de quienes saben moverse entre lealtades.
 
-![[ATEM__SaintGermain__MMF__Felón_retrato.png]]
+En los años de la Fronda, cuando el cardenal Mazarino agota la paciencia de los grandes y los medianos por igual, la familia vuelve a la escena activa. Tanto Gaston como Martin Felon aparecen documentados en los movimientos de la campana de 1648, operando en espacios que van desde el sur de [[Francia]] hasta las antesalas parisinas. Su rol exacto en la trama frondista permanece difuso: aliados de conveniencia antes que protagonistas, los Felon saben adaptarse al viento que sopla.
 
-
-**status:** PROPUESTO — requires_user_review
-**namespace:** ATEM::SaintGermain::MMF
-**kanka_id:** 5406826
-**kanka_url:** https://app.kanka.io/w/216093/entities/5406826
-**kanka_kind:** family
-**kanka_type:** (vacío)
-
-## Resumen de aparición en transcripts MMF
-
-- **Hits totales** (todas las sesiones): 25
-- **Sesiones donde aparece** (4/9):
-  - S5 — 6 hits
-  - S6 — 6 hits
-  - S7 — 6 hits
-  - S8 — 7 hits
-
-## Entry Kanka actual
-
-> **(VACÍO en Kanka)** — propuesta: enriquecer desde transcripts MMF.
-
-## Citas y notas de sesión
-
-(Pendientes de extracción detallada — ver matches_por_sesion.json para paragraph_indices exactos.)
-
-## Propuesta ATEM
-
-- **Acción sugerida:** Crear entrada ATEM y proponer enriquecimiento de Kanka con material de transcripts.
-- **No mutar Kanka directamente.** Esta entrada queda en staging hasta revisión de Marcos.
-- **Cross-ref ATEM:** buscar coincidencias en ATEM/universo/ antes de finalizar (no disponible en este run).
+## Vínculos
+- [[Gastón_Felón]] — miembro activo de la familia; presencia confirmada en la Fronda
+- [[Martín_Felón]] — miembro activo de la familia; presencia confirmada en la Fronda
+- [[Foix]] — comarca del sur de Francia con la que los Felon mantienen vinculacion señorial
+- [[Francia]] — marco nacional; la Fronda de 1648 es el contexto de su actividad
+- [[Cardenal_Mazarino]] — figura de poder frente a la cual se define la posicion de las familias nobles

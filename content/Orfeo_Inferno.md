@@ -1,7 +1,7 @@
 ---
 tags:
  - "cdi"
- - "pnj"
+ - "figura"
  - "inferno"
  - "guía"
  - "lira"

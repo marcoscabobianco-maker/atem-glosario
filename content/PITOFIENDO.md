@@ -1,6 +1,6 @@
 ---
-título: "PITOFIENDO — redirect (variante Whisper)"
-slug: PITOFIENDO
+título: "Pit Fiend — redirect (variante Whisper)"
+slug: Pit Fiend
 estado: redirect
 target: "[[Pit_Fiend]]"
 aliases:
@@ -10,6 +10,6 @@ tags:
  - whisper-variant
 ---
 
-# PITOFIENDO
+# Pit Fiend
 
 → Consolidado en **[[Pit_Fiend]]**. *Variante Whisper en mayúsculas del término canónico "Pit Fiend" (gran diablo infernal).*
