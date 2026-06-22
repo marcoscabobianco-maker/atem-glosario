@@ -6,6 +6,12 @@ aliases:
 
 # [[Temple_complejo_TE|Temple]] de Salomón — Zona 5 (Cúpula Norte/Minarete)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Temple_de_Salomon_Zona_5_Cupula_Norte_Minarete.png]]
+<!-- /HEADER_IMG -->
+
+> *La mano entreabre el telón rojo del santuario: una figura encadenada y sin rostro entre columnas, sobre un suelo de damero — la cámara oculta que nadie alcanzó a explorar.*
+
 ## Presentación
 
 - **Descripción:** Estructura anexa, cubierta con paños negros

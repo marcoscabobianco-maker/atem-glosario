@@ -11,6 +11,12 @@ aliases:
 ---
 # Ascensión Mítica / Catasterismo
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ascension_Mitica_Catasterismo.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La mano abre el cielo sobre las Pléyades —Maia, Electra, Mérope, Alcíone— y señala el racimo de ninfas vueltas estrellas: la imagen exacta de quien deja el estatus mortal para inscribirse en el orden celeste.*
+
 ## Presentación
 
 Catasterismo —del griego *katasterismós*— llama la tradición a la transformación de un ser en estrella o constelación. En el ciclo de [[Paris_Ucronica|París Ucrónica]] el término designa algo más que una figura erudita: un proceso de elevación espiritual y cósmica, otorgado por la derrota del [[Osfiotauro|osfiotauro]]. Quien abate a la bestia accede a una transición de estatus: deja la condición mortal y queda inscripto en el orden celeste.

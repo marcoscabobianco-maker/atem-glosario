@@ -11,6 +11,12 @@ aliases:
 
 # Guardianes (Ucrónica)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Guardianes_Ucronica.png]]
+<!-- /HEADER_IMG -->
+
+> *La mano descubre al guardián celestial que vela su mitad de Plataforma: alado, armado, en pie sobre el umbral zodiacal —y siempre a la espera del par que vendrá a enfrentarlo.*
+
 ## Presentación
 
 Administradores de mitad de cada [[Aldebaran_Estrella_Plataforma|Plataforma]] (12 zonas zodiacales). Vienen de a pares, siempre enfrentados. Matador de Guardián se convierte en nuevo Guardián. [[Juego_de_las_Sombras|Juego de las Sombras]]: participantes resuelven conflicto dual, riesgo de convertirse en [[Guardianes]].

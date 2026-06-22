@@ -8,6 +8,12 @@ aliases:
 
 # Catedral de Jerusalén (Interior)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Catedral_de_Jerusalen_Interior.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La mano alza la mirada por la nave blanca: arcadas en penumbra, columnas pareadas y, al fondo, la luz que entra por los lancetas — el recinto donde la autoridad eclesiástica dicta su última palabra.*
+
 ## Presentación
 
 **Primera aparición:** Operación al [[Temple_complejo_TE|Temple]] (cuando el grupo busca audiencia con el [[Patriarca]] antes de la jornada de la campana)

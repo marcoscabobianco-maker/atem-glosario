@@ -2,9 +2,16 @@
 categoria: lugar
 aliases:
  - "Heredeth"
+imagen: Imagenes_Tier1/Heredeth.jpg
 ---
 
 # Heredeth
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Heredeth.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La mano lo fijó al fondo del laberinto templario: el titán rojo pende sin cabeza entre dos pilares amasados de huesos, y su mole tendida abre el corredor de losas por donde el plano astral se descuelga hacia el Infierno.*
 
 ## Presentación
 

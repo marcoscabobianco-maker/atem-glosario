@@ -14,6 +14,12 @@ aliases:
 
 # Metacón / Rey Filipo
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Metacon_Rey_Filipo.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La mano conservó el viejo grabado del rey: corona de plumas, manto al hombro, el mosquete de los colonos empuñado como quien vuelve el arma del enemigo contra él. Así quedó Metacón, de pie en su tierra, antes de la guerra que lleva su nombre.*
+
 ## Presentación
 
 Rey indígena, figura de resistencia. Comunicación con el grupo vía lago reflectante. Históricamente, "King [[Philippe|Philip]]" (Metacom) lideró la guerra contra colonos en 1675-76 — en la ucronía, aparece una década antes.

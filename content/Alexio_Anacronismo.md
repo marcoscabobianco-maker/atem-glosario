@@ -5,7 +5,13 @@ aliases:
  - Alexio
 ---
 
-# ALEXIO — Anacronismo TE10
+# ALEXIO — Anacronismo
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Alexio_Anacronismo.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La mano detiene el retrato en sus ojos azules: el semielfo mira de costado, como quien ya vio el final y juega hacia atrás —vivo aquí, muerto en la cripta, y sin saber cuál de los dos es ahora.*
 
 ## Presentación
 

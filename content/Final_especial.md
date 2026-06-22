@@ -12,7 +12,7 @@ en_construccion: true
 
 Esta entrada es mencionada desde:
 
-- [[Libro_Azul_Confirmacion]]
+- [[Libro_Azul]]
 
 ---
 

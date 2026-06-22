@@ -6,6 +6,12 @@ aliases: ["Cour des Miracles", "Corte de los Milagros"]
 
 # Cour des Miracles
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cour_des_Miracles.jpg]]
+<!-- /HEADER_IMG -->
+
+> *Dos criaturas del patio cruzan la calle de la mano: la mano que las retrató no las compadeció, las contó — porque en este territorio cada llaga y cada andrajo es también una moneda.*
+
 La Cour des Miracles es el gran secreto a voces de Paris: un laberinto de callejones y patios sin nombre donde los mendigos, los tullidos de alquiler y los proscritos de toda especie se retiran cada noche a quitarse sus llagas postizas y sus muletas de teatro. El milagro del titulo es ese: entran cojos y ciegos, y al amparo de la oscuridad recobran el paso y la vista. El resto de la ciudad finge no saber donde esta.
 
 En 1648, con la Fronda convirtiendo Paris en una ciudad de rumores y barricadas, la Corte de los Milagros cobra una dimension nueva. Los mendigos y los marginados son informadores irremplazables: lo saben todo porque estan en todas partes y nadie los mira. El [[Rey_de_los_Mendigos]] — titulo que se gana, no se hereda — administra esa inteligencia como una moneda de cambio con quienes saben negociar fuera de los protocolos del [[Palais-Royal]]. [[Madeline_Boulet]], [[Jeanne_Devossie]] y otros que frecuentan los bordes de la ciudad han cruzado mas de una vez el umbral invisible que separa la Paris respetable de este territorio paralelo.

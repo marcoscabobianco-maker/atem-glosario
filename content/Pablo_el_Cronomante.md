@@ -22,9 +22,15 @@ tags:
  - inmolacion-cosmologica
  - reliquia-reloj-eiffel
  - linea-pablo
-imagen: null
+imagen: Imagenes_Tier1/Pablo_el_Cronomante.jpg
 ---
 # Pablo el Cronomante
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Pablo_el_Cronomante.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La mano lo coronó como a un hierofante del tiempo: sobre los ojos, no una venda sino un estallido de luz blanca —la videncia que cruza los pliegues—, y al hombro el manto rojo donde anidan los pájaros oscuros que vuelan de un siglo a otro.*
 
 > *"De Pablo se dice que tiene nueve voces y un solo paso. La voz cambia con el pliegue, el paso no cambia nunca. Quien lo encuentra lo reconoce por el paso, no por la voz."* — del *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de [[Narsileon]].
 

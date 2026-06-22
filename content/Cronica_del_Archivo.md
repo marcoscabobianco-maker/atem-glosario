@@ -20,7 +20,7 @@ tags:
 
 ---
 
-*256 entradas inscritas. 2042 entradas del archivo aún esperan su lugar en la rueda. La crónica se renueva conforme la amanuense halla en los cuadernos una fecha que no había anotado.*
+*259 entradas inscritas. 2040 entradas del archivo aún esperan su lugar en la rueda. La crónica se renueva conforme la amanuense halla en los cuadernos una fecha que no había anotado.*
 
 ---
 
@@ -182,6 +182,7 @@ tags:
 - **operación trans-geográfica continuada desde fase anterior al cómputo conocido; activos en eventos cosmológicos mayores** — [[Templarios_del_Tiempo|Templarios del Tiempo]]
 - **operación documentada en el ciclo de los Time Bandits; ritual del bucle de 5 años en Constantinopla 1055→1050** — [[Fruto_del_Conocimiento|El Fruto del Conocimiento]]
 - **1050–1055 del cómputo bizantino; bucle temporal documentado** — [[Constantinopla_Ucronica_1055_CE|Constantinopla Ucrónica (1050–1055)]]
+- **Constantinopla Ucrónica, 1050–1055** — [[Palacio_Imperial_Bizancio|Palacio Imperial de Bizancio]]
 - **Constantinopla 1050 — bucle de cinco años; tránsito de Anatolia** — [[Torcos|Los Torcos]]
 - **1051-1055 AD — Edad Templaria — copia del Eisagogika** — [[Libro_Negro_de_la_Ley_de_los_Muertos|Libro Negro de la Ley de los Muertos]]
 - **1051-1055 AD — Edad Templaria — Constantinopla** — [[Olaus_Wormius_aka_Theodorus|Olaus Wormius (a.k.a. Theodorus)]]
@@ -220,6 +221,7 @@ tags:
 *El siglo XIX largo, expansión del oficio.*
 
 - **Belle Époque uchrónica; en tránsito desde manos templarias a paganas** — [[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica / Bengala Sucrónica]]
+- **A.D.A. — fin del siglo XIX, París Ucrónica** — [[Cabaret_du_Neant|Cabaret du Néant]]
 - **Belle Époque uchrónica — actividad documentada en los clubes parisinos de aves; reapariciones intermitentes en sitios de guerra y de comunicación cifrada** — [[Corvino|Corvino]]
 - **Belle Époque uchrónica — cualquier hora del Palacio del Tiempo** — [[Cronoboys|Cronoboys]]
 - **Antiterra — Belle Époque uchrónica francesa bajo virreinato británico** — [[Lord_Gaul|Lord Gaul]]
@@ -342,6 +344,7 @@ tags:
 - **Edad del Mundo Nuevo — corpus Gary** — [[Gary_TNW|Gary TNW (campaña)]]
 - **ciclo TNW; fases medias y finales** — [[Goliath_Goliat_TNW|El Goliat]]
 - **Edad del Mundo Nuevo — sistema cosmológico** — [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales y Guardianes]]
+- **Edad del Mundo Nuevo — Corona del Norte** — [[Tecumseh|Tecumseh]]
 - **siglo XVII de un cómputo paralelo; expediciones recurrentes** — [[Ucronica_NC_Northern_Crown|El Northern Crown]]
 - **2087 — Edad del Mundo Nuevo — pandemia futura** — [[Apocalypse_World_Campana_Pandemia_TNW_2087|Apocalypse World — Campaña Pandemia (TNW / 2087)]]
 

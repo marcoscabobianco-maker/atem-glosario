@@ -17,6 +17,12 @@ aliases:
 
 # Asedio de Port Arthur
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Asedio_de_Port_Arthur.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La mano levantó el teatro entero a vista de pájaro: la península de Liaodong como un dedo tendido hacia el sur, Port Arthur al fondo del golfo y, en el Mar Amarillo, los buques sembrados como semillas de una guerra que ya no era sólo de este mundo.*
+
 ## Presentación
 
 El archivo conserva, entre los sucesos del cambio de siglo, un asedio sobre Port Arthur —Lüshunkou, en la Manchuria—, la plaza que Rusia y Japón se disputaron en la guerra de 1904 y 1905. El legajo es escueto: consigna el nombre, la plaza y los años, y deja los pormenores —quiénes estuvieron en el cerco, qué se perdió tras las murallas— a la espera de mejores testimonios.

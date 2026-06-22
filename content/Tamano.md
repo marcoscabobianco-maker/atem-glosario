@@ -12,7 +12,7 @@ en_construccion: true
 
 Esta entrada es mencionada desde:
 
-- [[Huevo_Infernal_Confirmacion]]
+- [[Huevo_Infernal]]
 
 ---
 

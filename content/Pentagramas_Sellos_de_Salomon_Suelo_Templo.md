@@ -6,6 +6,12 @@ aliases:
 
 # Pentagramas/Sellos de Salomón (Suelo Templo)
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Pentagramas_Sellos_de_Salomon_Suelo_Templo.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La mano nos acerca uno de los sellos: estrella de siete puntas cercada de hebreo, el mismo grabado que se repite cien veces bajo los pies de los Paladines —¿guarda o convoca?*
+
 ## Presentación
 
 - **Naturaleza:** Grabados rituales bajo pies cada Paladín Sagrado (~100 símbolos)
