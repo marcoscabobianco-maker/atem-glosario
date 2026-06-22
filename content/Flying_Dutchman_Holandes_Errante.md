@@ -53,6 +53,10 @@ imagen: Imagenes_Tier1/Flying_Dutchman_Holandes_Errante.png
 
 [*Subsección preparada para recibir la lámina de la tripulación. Patrón: cuando llegue la imagen, integrar HEADER_IMG aquí, glosa breve de Akala, y desarrollo de la tripulación —holandeses-ingleses fundidos con la madera, marineros que ya no recuerdan su puerto, contramaestres reclutados en muelles que no existen, el coro fantasmal que canta al doblar los cabos. La tripulación es continuación orgánica del casco, no contingente humano.*]
 
+[*La mano levantó otra estampa del mismo tránsito: el Holandés ya no contra la tormenta del mar sino sobre un cañón en llamas, bajo dos lunas que no comparten cielo —una pálida y cercana, otra enorme y violácea al fondo—. No es el océano colonial: es uno de esos pasos entre realidades donde la nave trata el abismo como otra rada. Quien la mira entiende que la sombra de doscientos kilómetros también cae sobre tierra firme, y que ningún hemisferio le presta su viento porque la nave los cruza todos. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Flying_Dutchman_Holandes_Errante_v2.jpg]]
+
 ## Vínculos
 
 - [[El_Capitan_del_Holandes_Errante|el Capitán del Holandés]] — su comandante atado al pacto

@@ -86,6 +86,10 @@ imagen: Imagenes_Tier1/Pablo_el_Cronomante.jpg
 
 ---
 
+[*La mano lo mostró del otro lado del pliegue, donde el cronomante deja de tener cara: bajo la capucha no hay rostro sino vacío, y el manto que lo viste no es tela sino el cosmos mismo —galaxias en espiral cosidas a la caída de la túnica, una nebulosa-ojo abierta a la altura del vientre—. En la mano alzada sostiene dos esferas, la blanca que aún no cae y la negra surcada de relámpagos: el momento que reparte y el que ya gastó. Detrás, la luna roja del salto. Quien aprende a leer las nueve voces como una sola, lo reconoce no por el paso sino por las dos esferas. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Pablo_el_Cronomante_v2.png]]
+
 ## Vínculos
 
 - [[Capilla_Oscura]] — locus de aparición y del rito de Reconexión Sagrada

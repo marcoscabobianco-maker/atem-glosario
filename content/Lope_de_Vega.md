@@ -26,3 +26,7 @@ Dramaturgo español (1562-1635), aparece como espectro en la selva umbría de Pe
 ## Notas
 
 Meta-referencia literaria: Virgilio guía a Dante, Lope guía a los mercenarios. Pero Lope quiere a [[California]] como precio — amor cortés como motivación espectral.
+
+[*La mano guardó la tarjeta con que el espectro se presenta: el rostro del dramaturgo español y, al lado, su propio verso —"la vida es corta: viviendo, todo falta; muriendo, todo sobra"—, divisa de quien ya muerto sigue regateando almas en la selva umbría. El que ofrece el tour del Infierno se anuncia con la sentencia que mejor lo retrata. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Lope_de_Vega_v2.jpg]]

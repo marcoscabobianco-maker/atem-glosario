@@ -31,6 +31,10 @@ La tensión venía de lejos. La línea temporal del ciclo anota ya en 1891 unas 
 
 Queda, por último, la conjetura del cronista: en una ucronía donde la Exposición Universal de París de 1900 abrió portales directos a Sigil, cuesta creer que un cerco de esta magnitud haya sido solamente artillería y trincheras. El archivo sospecha que el asedio guarda su contraparte ucrónica; el papel que la pruebe no ha llegado aún a estos anaqueles.
 
+[*La mano sumó una estampa del oriente que cuenta el cerco desde el agua: en plena noche del Mar Amarillo, los acorazados se baten entre estallidos de fósforo y columnas de humo, el hierro ruso ardiendo frente a la línea japonesa. Donde el mapa daba el teatro a vista de pájaro, esta lámina da el estruendo; y el cronista, al mirarla, recuerda su sospecha: que bajo tanto cañón hubo algo más que pólvora. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Asedio_de_Port_Arthur_v2.jpg]]
+
 ## Vínculos
 
 - [[Paris_Ucronica]] — el asedio consta en el registro de sucesos de la misma ucronía de la Belle Époque; sus años (1904–1905) lindan con la fecha cardinal de la capital, 1901.

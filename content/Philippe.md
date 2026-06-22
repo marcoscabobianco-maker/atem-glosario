@@ -41,6 +41,10 @@ Su arma no es la espada. Es **el matrimonio político**, el anillo vinculante, l
 
 Es el más joven del grupo [[Time_Bandits]]. También el más herido desde antes del comienzo.
 
+[*La mano lo volvió a fijar, esta vez sin disimular el oficio: de perfil contra una esfera colosal de números romanos, los anteojos redondos calzados, abriendo en la palma el [[Reloj_de_Bolsillo_familia_Philippe|reloj de bolsillo del linaje]] como quien abre una herida o una puerta. Detrás, las agujas que no son de ningún reloj sino del Tiempo mismo; en la tapa abierta, el destello de [[El_Primer_Reloj]]. No mide la hora de los otros: mide la enmienda que le cabe corregir. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Philippe_v2.jpg]]
+
 ## Vínculos
 
 - [[El_Primer_Reloj|El Primer Reloj]] — la herencia legendaria

@@ -86,6 +86,10 @@ La campaña más documentada del ATEM, y la que mejor demuestra que el steampunk
 
 [*"Hay ciudades que envejecen y se mueren; hay ciudades que envejecen y se renuevan; hay una sola que envejece y se ramifica en sus propios futuros. París Ucrónica es ésa, y por eso el cronista no la cierra nunca." — Glosa atribuida al libro V del [[Decadiano]].*]
 
+[*La mano rescató también una portada de la prensa común de la ciudad —el suplemento ilustrado del dominical, con su drama de Belgrado a toda página— para que se vea qué hojeaban en los cafés mientras los Prefectos cobraban horas un piso más arriba. La calle leía un crimen de reyes; el archivo lee, en la misma tinta, la sombra del [[Circulo_de_la_Serpiente|Círculo]] tendida sobre los Balcanes. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Paris_Ucronica_v2.jpg]]
+
 ---
 
 ## Vínculos

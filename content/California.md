@@ -25,3 +25,7 @@ Matriarca de los indios Winton del río Sacramento. Posible dragonesa que tuvo r
 ## Notas
 
 [[Lope_de_Vega|Lope de Vega]] quiere a California como "precio" del tour infernal — amor cortés como motivación espectral.
+
+[*La mano sumó, como nota al margen de un erudito, la vieja tapa amarilla de los Californios —el jinete de manta roja y azul empinado sobre su caballo enjaezado—: la saga de los vaqueros del Sacramento, la misma tierra que la matriarca Winton protege. Bajo el nombre de batalla cortesana late el de un país de caballistas; la dragonesa que "a veces gustaba verse humana" se deja leer también por la estampa de su comarca. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/California_v2.jpg]]

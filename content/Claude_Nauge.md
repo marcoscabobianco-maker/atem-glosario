@@ -93,6 +93,10 @@ La mano lo levantó al fin en lámina, y **no eligió la fragua sino el cuerpo**
 
 [*"Hay obreros que se vuelven políticos; hay políticos que se vuelven dioses; hay un solo metalúrgico que en una jornada se vuelve Cvjetko Popović y al día siguiente ejecuta una Destrucción del noveno grado contra dragón bizantino. Claude es ése." — Glosa coloquial del archivero del Plata.*]
 
+[*La mano guardó también la otra mitad del oficio: no el cuerpo en el yunque sino la voz en el aire. Lo retrató de pie sobre la cornisa de un balcón parisino, el sombrero alzado hacia una multitud que desborda la plaza; a un costado, los señores de levita lo miran desde la sombra del cortijo como quien no entiende todavía que el muchacho del antepecho les habla por encima. Es el agitador de [[Los_Comunados]] en su elemento: la oratoria rítmica, la palabra gruesa cuando hace falta, el obrero que sabe que la herramienta también se empuña con la boca. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Claude_Nauge_v2.jpg]]
+
 ## Vínculos
 
 - [[Time_Bandits]] — su grupo

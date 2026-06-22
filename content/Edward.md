@@ -31,6 +31,10 @@ Lo capturaron los **[[Hombres_Bufalo_Buffalo_Men|Hombres Búfalo]]** en algún p
 
 En el rosario de los avatares trágicos —donde Lirio sirve sin gloria, [[Krisina]] opera desde la esquina y [[Helter]] carga las cadenas—, Edward es el polo de la **ambición**. La oscilación servicio / ambición / servicio que define la firma de la mano se cumple acá: después de Edward viene **[[Novoyo|No-Voy-Yo]]**, el druida humilde que lo rompe y se borra. Pero antes está él. El agente con dos balanzas.
 
+[*La mano lo fija de cuerpo entero, como a quien quiere ser visto entero: levita de paño oscuro con solapas de ante, chaleco abotonado hasta el cuello, gola al pescuezo y guantes claros —el porte del noble de bajo rango que se mueve en círculos donde la línea entre amigo y enemigo se redibuja cada semana—. La pose, una mano a la cadera y la otra colgando, es la de quien queda siempre bien con Dios y con el Diablo: ni se rinde ni se compromete. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Edward_v2.jpg]]
+
 ## Vínculos
 
 - [[Cadenas_del_Pacto_de_Sujecion_y_Dominacion|Cadenas del Pacto]] — el objeto de la cacería
