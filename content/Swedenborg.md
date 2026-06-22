@@ -57,7 +57,7 @@ El episodio que cierra el tramo es de otro orden: una **escena de lujuria con [[
 
 [*Lo que sigue es revelación de la campaña [[Caldero]] de 2025; quien lee este Glosario fuera de orden, lea bajo su cuenta.*]
 
-**Swedenborg es [[Thalia_Cristalia|Talia Cristalia]]** —tercer miembro de la tríada **[[Lotario]] – [[Oratiol|Oratiol Taylor]] – [[Thalia_Cristalia|Talia Cristalia]]**—. La armadura cerrada es su disfraz: la esposa y guía cruza los círculos del [[Infierno]] con el rostro velado antes de devolverse a su forma propia. **De su unión con [[Lotario]]/[[Oratiol|Taylor]] nace [[Vitalis]]** —el hijo que en [[La_Jabalina]] cierra un arco trans-campaña que el archivo recoge con atención—.
+**Swedenborg es [[Thalia_Cristalia|Thalia Cristalia]]** —paladina de la [[Casa_Azul_de_Vala|Casa Azul de Vala]], **pareja del padre triple en su avatar [[Tailoor]]/Taylor**—. *No es miembro de la tríada anagramática*: ésa es **[[Lotario]] – [[Oratiol]] – [[Tailoor]]**, las mismas siete letras reordenadas en tres avatares; **Thalia es la esposa**, el polo cristalino que se une al avatar paterno. La armadura cerrada es su disfraz: la esposa y guía cruza los círculos del [[Infierno]] con el rostro velado antes de devolverse a su forma propia. **De su unión con [[Tailoor|Taylor]] nace [[Vitalis]]** —el hijo que en [[La_Jabalina]] cierra un arco trans-campaña que el archivo recoge con atención—.
 
 *Que la guía sin rostro del Anti-Inferno sea la madre de [[Vitalis]], y que el padre sea el mismo encarnado en tres formas, es la cifra inversa del Swedenborg histórico: aquel hizo metafísica del matrimonio; ésta lo hace materia.*
 
@@ -66,7 +66,7 @@ El episodio que cierra el tramo es de otro orden: una **escena de lujuria con [[
 ## Vínculos
 
 - [[Thalia_Cristalia|Talia Cristalia]] — identidad verdadera
-- [[Lotario]] / [[Oratiol|Oratiol Taylor]] — el padre triple, su esposo
+- [[Tailoor|Taylor]] — su esposo, tercer avatar del padre triple ([[Lotario]] / [[Oratiol]] / [[Tailoor]])
 - [[Vitalis]] — el hijo
 - [[Anti-Inferno]] — campaña conductora
 - [[Campana_Dante_S_Inferno_CDI|Dante's Inferno]] — campaña de apariciones puntuales

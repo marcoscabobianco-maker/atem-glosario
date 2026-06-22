@@ -35,6 +35,10 @@ El último capítulo del desdoblamiento es el **Sancta Sanctorum**. Los [[Templa
 
 Su muerte fundó una herencia que ningún paladín pidió: la Orden guardaría en su corazón a su propio enemigo. Los **[[Templarios]] posesos** —que más tarde aparecerían encadenados en las criptas, con cruces rojas y calaveras llameantes— son la descendencia de aquel desdoblamiento. Y el sello que portaba Hugo en su forma negra reaparece, siglos después, en la mano de un demonio de seis dedos. [[Helter]] es, en algún sentido, el nieto que no quiso tener.
 
+[*La mano quiso fijar la cara blanca antes de que se la tragara la otra: barba rojiza, capucha de malla ceñida, el manto bermejo cayéndole del hombro y la cruz patada cosida al pecho; la diestra aprieta el pomo de la espada como se sostiene una reliquia, no un arma. Es el Maestre que la historia eligió recordar —el que rezaba ante la Cúpula—, retratado de frente para que el desdoblamiento, por una vez, no asome. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Hugo_de_Payns_v2.jpg]]
+
 ## Vínculos
 
 - [[Campana_Templarios_TE|Orden del Temple]] — fundador y Gran Maestre

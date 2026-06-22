@@ -30,9 +30,9 @@ La voz que todavía no ha consignado entera en lámina **se sostiene aquí en pa
 
 ## Quiénes son
 
-**Los Malditos son grupo paralelo al [[Emisarios_de_Pomola_Grupo_Principal|grupo principal de los Emisarios de Pomola]]**, *operativo durante el último tramo del ciclo Northern Crown (NC15–[[Farruco_Arrastrado_al_Pozo_NC16|NC16]])*. **Sus integrantes** —**[[Luis]], [[Vermir]], [[Dallas]] y [[Farruco]]**— **fueron contratados originalmente por el [[Flying_Dutchman_Holandes_Errante|Holandés Errante]] como carne de cañón**: *unidades sacrificiales para misiones que la tripulación principal no quería ejecutar*.
+**Los Malditos son grupo paralelo al [[Emisarios_de_Pomola_Grupo_Principal|grupo principal de los Emisarios de Pomola]]**, *operativo durante el último tramo del ciclo de la Corona del Norte, hasta [[Farruco_Arrastrado_al_Pozo_NC16|la caída de Farruco al pozo]]*. **Sus integrantes** —**[[Luis]], [[Vermir]], [[Dallas]] y [[Farruco]]**— **fueron contratados originalmente por el [[Flying_Dutchman_Holandes_Errante|Holandés Errante]] como carne de cañón**: *unidades sacrificiales para misiones que la tripulación principal no quería ejecutar*.
 
-**No quedaron así**. *Cada uno tenía pasado propio*, **y en el curso del arco las visiones psicotrópicas que el ciclo NC asocia con el descenso oceánico revelaron lo atroz de esos pasados**. **Lo que el Holandés contrató como mercenarios sin biografía resultó ser cuatro almas con historia larga y con cuentas que el [[Infierno]] todavía no había cerrado**.
+**No quedaron así**. *Cada uno tenía pasado propio*, **y en el curso del arco las visiones psicotrópicas asociadas al descenso oceánico revelaron lo atroz de esos pasados**. **Lo que el Holandés contrató como mercenarios sin biografía resultó ser cuatro almas con historia larga y con cuentas que el [[Infierno]] todavía no había cerrado**.
 
 ---
 
@@ -40,7 +40,7 @@ La voz que todavía no ha consignado entera en lámina **se sostiene aquí en pa
 
 **Su trayectoria es exacto espejo invertido del grupo principal**. *Mientras [[Emisarios_de_Pomola_Grupo_Principal|los Emisarios de Pomola]] ascienden* —**de la tierra a la Luna, abordan el Holandés en órbita, hacen la paz lunar**—, **Los Malditos descienden** *—de la tierra al [[Infierno]] dantesco, atraviesan capas penales sucesivas, terminan cerca del [[Medallon_Melancolico|Medallón Melancólico]] que abre la Puerta a las profundidades*—.
 
-**El cierre del arco** —*[[Farruco_Arrastrado_al_Pozo_NC16|NC16]]*— **lleva a [[Farruco]] al pozo**: *episodio que la academia narrativa del archivo del Plata cita como **el logro narrativo más ambicioso del ciclo NC***. **La estructura de doble partido —ascenso celestial / descenso infernal en simultáneo, con las mismas manos en ambos partidos— es invención propia del ciclo**, no préstamo de manual.
+**El cierre del arco** —*[[Farruco_Arrastrado_al_Pozo_NC16|la caída de Farruco al pozo]]*— **lleva a [[Farruco]] al pozo**: *episodio que la academia narrativa del archivo del Plata cita como **el logro narrativo más ambicioso del ciclo***. **La estructura de doble partido —ascenso celestial / descenso infernal en simultáneo, con las mismas manos en ambos partidos— es invención propia del ciclo**, no préstamo de manual.
 
 ---
 
@@ -68,6 +68,6 @@ La voz que todavía no ha consignado entera en lámina **se sostiene aquí en pa
 
 ## Apariciones
 
-- **NC15 — contratación por el Holandés** — inicio del arco
-- **NC15–NC16 — descenso paralelo a los Emisarios** — visiones psicotrópicas, pasados atroces
-- **NC16 — [[Farruco]] al pozo** — cierre narrativo del arco descendente
+- **La contratación por el Holandés** — inicio del arco
+- **El descenso paralelo a los Emisarios** — visiones psicotrópicas, pasados atroces
+- **[[Farruco]] al pozo** — cierre narrativo del arco descendente

@@ -2,7 +2,6 @@
 categoria: criatura
 tags:
  - "northern-crown"
- - "nc14"
  - "criatura"
  - "gusano"
  - "luna"
@@ -16,8 +15,8 @@ aliases:
 
 ## Presentación
 
-Criatura que consumió el árbol pétreo lunar desde adentro. Hace la Luna "como un queso gruyère." Aparece en escena post-créditos de [[Abordaje_del_Holandes_en_la_Luna_NC14|NC14]]. Se escucha un grito.
-*Apariciones:* [[Abordaje_del_Holandes_en_la_Luna_NC14|NC14]] (escena post-créditos)
+Criatura que consumió el árbol pétreo lunar desde adentro. Hace la Luna "como un queso gruyère." Aparece en escena post-créditos del [[Abordaje_del_Holandes_en_la_Luna_NC14|abordaje del Holandés en la Luna]]. Se escucha un grito.
+*Apariciones:* [[Abordaje_del_Holandes_en_la_Luna_NC14|el abordaje del Holandés en la Luna]] (escena post-créditos)
 *Conexiones:* Luna, árbol pétreo, [[Medawin_Medawaywin|Medawin]]
 
 ## Notas

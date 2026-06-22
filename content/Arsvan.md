@@ -50,6 +50,10 @@ Y el Inferno le reserva el cruce más cruel: durante el combate contra [[Ariadna
 - **Amada:** [[Ariadna_Genoveva|Ariadna]] — en las puertas del laberinto
 - **Hijo:** [[Nagant_M1895_Swann|Swann]] — el que cargará el siglo siguiente
 
+[*La mano lo retrató del lado del ídolo que vistió: una figura áurea entronizada en el corazón de un disco inmenso, todo él cubierto de signos que arden como brasa, los ojos dos puntos de luz sin fondo y, brotando de la base, cuerpos oscuros que se enroscan sin terminar de nacer. No es estampa de santo: es la forma que toma un templario cuando carga la armadura de [[Baphomet]] sin disculparse y se sienta, por fin, en el centro de la obliteración que tocó por ella. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Arsvan_v2.png]]
+
 ## Vínculos
 
 - [[Campana_Templarios_TE|Orden del Temple]] — Orden del [[Laberinto_de_Marfil]]

@@ -43,7 +43,7 @@ En el rosario de los avatares trágicos —donde Lirio sirve sin gloria, [[Krisi
 
 ## Apariciones
 
-- Northern Crown, NC01-NC14 — grupo principal
+- Northern Crown — grupo principal
 - Mulberry Street, Nueva York 1881 — referencia con posible cronotravel
-- Captura por [[Hombres_Bufalo_Buffalo_Men|Hombres Búfalo]] (NC11)
-- Referenciado en NC15 (hilo abierto, nunca cerrado)
+- Captura por [[Hombres_Bufalo_Buffalo_Men|Hombres Búfalo]]
+- Referenciado más tarde (hilo abierto, nunca cerrado)

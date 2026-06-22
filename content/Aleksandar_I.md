@@ -52,6 +52,10 @@ En este estado, **Aleksandar concedió** —*acto que ningún jurista serbio sup
 
 **El impacto indirecto de Aleksandar persiste en [[Sarajevo_1914_Ucronica|Sarajevo 1914]]** —cuando **su sucesor dinástico** está bajo amenaza y **la línea Karađorđević entra en la crisis mayor del siglo**—. *El cronista deja anotada la línea sin desplegarla*: Aleksandar, aún sin estar vivo en aquel acto, **gobierna desde el fondo de la decisiónel modo en que la dinastía afronta el atentado**. **La psicología del rey hueco se hereda.**
 
+[*La mano dejó además un retrato sin heráldica: el rey joven de pie en uniforme de campaña, gorra de plato, una sola condecoración sobre el pecho y el sable colgando de la mano enguantada. Sin cartouches ni motto esta vez —apenas el bigote fino y la mirada de quien fue formado para mandar y no para gobernar—. Quien mira primero la lámina de los blasones y después ésta ve al hombre debajo del trono. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Aleksandar_I_v2.jpg]]
+
 ## Vínculos
 
 - [[Milano|Milan I]] — padre, retratado en cartouche lateral

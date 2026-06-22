@@ -38,6 +38,10 @@ Criatura marina colosal de naturaleza abisal, descrita como "pulpo" o "crackén"
 - Esto sugiere que la criatura es trans-temporal: existe en múltiples épocas simultáneamente, o sigue a los compañeros a través del tiempo
 - Conexión geográfica constante: [[Bosforo_Ucronico|Bósforo]]/Mármara
 
+[*La mano guardó además una carta vieja de la guerra de las cancillerías: un pulpo de tinta negra, rotulado con el nombre del imperio del norte, que estira un tentáculo por cada mar —el Negro, el Mármara, el Báltico— hasta abrazar Europa y Asia enteras. Quien la mira entiende por qué los compañeros, al ver salir la cosa del Bósforo, no dudaron en llamarla "el pulpo ruso": la lámina ya lo había nombrado antes que ellos. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Pulpo_Negro_Entidad_Marina_Colosal_v2.jpg]]
+
 ## Apariciones notables
 
 [[Paris_Ucronica|París Ucrónica]] (ataque al yate, naufragio). Posible continuidad en [[Constantinopla_Ucronica_1055_CE|Constantinopla]] medieval.

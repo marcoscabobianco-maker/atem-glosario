@@ -109,6 +109,7 @@ imagen: null
 - [[Lost_Ones]] — almas a quienes guía como Swedenborg
 - **William Blake / Vala or the Four Zoas** — fuente literaria primaria
 - [[La_Jabalina]] — grupo donde su hijo Vitalis es miembro
+- [[The_Word_Breakers]] — grupo aventurero de la gesta de [[Vala_Antigua]], donde es rescatada del umbral y desposa a Tailoor
 
 ## Apariciones
 

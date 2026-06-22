@@ -2,7 +2,6 @@
 categoria: lugar
 tags:
  - "northern-crown"
- - "nc13-nc14"
  - "lugar"
  - "cósmico"
  - "árbol"
@@ -21,7 +20,7 @@ aliases:
 ## Presentación
 
 Destino cósmico del [[Flying_Dutchman_Holandes_Errante|Holandés Errante]]. Tiene conciencia propia y un árbol propio (pétreo, mineralizado). Lugar de la reencarnación de Idaho como Triaxian. Un gusano gigante consume el árbol desde adentro. Funciona como espacio de renovación y amenaza cósmica simultáneamente.
-*Apariciones:* NC13 (revelada como destino), [[Abordaje_del_Holandes_en_la_Luna_NC14|NC14]] (abordaje, reencarnación, escenas post-créditos)
+*Apariciones:* primero revelada como destino; luego el [[Abordaje_del_Holandes_en_la_Luna_NC14|abordaje del Holandés]] (reencarnación, escenas post-créditos)
 *Conexiones:* [[Flying_Dutchman_Holandes_Errante|Holandés Errante]], Idaho/Triaxian, [[Gusano_Lunar|Gusano Lunar]], [[Medawin_Medawaywin|Medawin]], árbol pétreo
 
 ## Notas

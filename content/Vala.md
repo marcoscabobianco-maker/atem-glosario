@@ -17,9 +17,15 @@ tags:
  - trans-fases
  - panteon-supremos
  - ardis-vala
-imagen: null
+imagen: Imagenes_Tier1/Vala.png
 ---
 # Vala (mundo)
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Vala.png]]
+<!-- /HEADER_IMG -->
+
+> *La mano levantó al guardián astado del valle: yelmo de cuernos retorcidos, coraza incrustada de cráneos que abren ojos de brasa, dos puntos de fuego naranja por mirada y una espada larga de empuñadura roja clavada en la bruma. Así se aparece quien vigila el lugar donde cae la flecha —Vala, el mundo del que no se sale ileso.*
 
 > *"Vala es lo que el ojo blakeano vio antes de que Blake naciera."* — atribuida a [[Pablo_de_Alejandria|Paulus]], glosa a un fragmento del *Four Zoas*.
 

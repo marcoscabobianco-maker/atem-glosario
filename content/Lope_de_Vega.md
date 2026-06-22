@@ -1,7 +1,7 @@
 ---
 tags:
  - "northern-crown"
- - "nc15-nc16"
+ - "corona-del-norte"
  - "espectro"
  - "poeta"
  - "infernal"
@@ -20,7 +20,7 @@ aliases:
 ## Presentación
 
 Dramaturgo español (1562-1635), aparece como espectro en la selva umbría de Pensilvania — equivalente dantesco del Virgilio-guía. Escribió *La Dragontea* (épica real contra Drake). Ofrece a los mercenarios un "tour" por el [[Infierno]] y acceso al poder de Drake, a cambio de [[California]]. Les dio tres monturas-escorpión demoniacas. Se quedó con el medallón. Aparece como sombra junto al aljibe dejando contratos de almas — manipula desde la distancia.
-*Apariciones:* NC15 (selva umbría, referencia), [[Farruco_Arrastrado_al_Pozo_NC16|NC16]] (espectro en Hacienda Amador, contratos de almas)
+*Apariciones:* la selva umbría (referencia); espectro en la Hacienda Amador, dejando contratos de almas, en [[Farruco_Arrastrado_al_Pozo_NC16|la caída de Farruco al pozo]]
 *Conexiones:* [[Francis_Drake_Draco_Drake|Francis Drake]], [[California]], [[Medallon_Melancolico|Medallón Melancólico]], contratos de almas, [[Farruco]] (pozo)
 
 ## Notas

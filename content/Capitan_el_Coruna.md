@@ -1,7 +1,7 @@
 ---
 tags:
  - "northern-crown"
- - "nc10-nc11"
+ - "corona-del-norte"
  - "capitán"
  - "wander"
  - "autoridad"
@@ -15,7 +15,7 @@ aliases:
 ## Presentación
 
 Capitán de la nave interdimensional [[Wander]]. Pragmático, misterioso. Conduce entrevistas formales a candidatos para su tripulación — solo 10 plazas. Acusa a [[Luis]] de "ayudar al dragón" y requiere juramento vinculante de obediencia. Estilo autoritario pero calculado. El [[Wander]] es una escolta del [[Flying_Dutchman_Holandes_Errante|Flying Dutchman]], no la misma nave.
-*Apariciones:* NC10 (reclutamiento), NC11 (tránsito al [[Valle_de_Canagua_Cascada_Agua_Azul|Valle de Canagua]])
+*Apariciones:* el reclutamiento de la tripulación; luego, el tránsito al [[Valle_de_Canagua_Cascada_Agua_Azul|Valle de Canagua]].
 *Conexiones:* [[Wander]], [[Luis]], [[Flying_Dutchman_Holandes_Errante|Flying Dutchman]]
 
 ## Notas

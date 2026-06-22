@@ -1,7 +1,6 @@
 ---
 tags:
  - "northern-crown"
- - "nc01"
  - "shawnee"
  - "líder"
  - "diplomacia"
@@ -13,8 +12,8 @@ aliases:
 
 ## Presentación
 
-Líder guerrero Shawnee. Portador del palo de trueno. Decidió proteger a sus hombres y retirarse tras la escaramuza con el grupo en NC01. Su decisión de retirarse produce la primera muerte inocente (Little [[Johnny_Johnny_el_Imp|Johnny]]).
-*Apariciones:* NC01
+Líder guerrero Shawnee. Portador del palo de trueno. Decidió proteger a sus hombres y retirarse tras la primera escaramuza con el grupo. Su decisión de retirarse produce la primera muerte inocente (Little [[Johnny_Johnny_el_Imp|Johnny]]).
+*Apariciones:* el primer encuentro
 *Conexiones:* Shawnee, [[Fort_Henry|Fort Henry]]
 
 ## Notas

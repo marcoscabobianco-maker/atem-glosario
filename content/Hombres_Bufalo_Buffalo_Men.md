@@ -2,7 +2,6 @@
 categoria: grupo
 tags:
  - "northern-crown"
- - "nc11"
  - "facción"
  - "emergente"
  - "tecnología"
@@ -20,10 +19,10 @@ aliases:
 
 ## Presentación
 
-Facción que emerge tras la caída del dragón en NC11. Entrada cinematográfica tipo *Apocalypse Now*. Poseen tecnología mixta: granadas, asalto aéreo. Estética de "tiburones al estilo arte contemporáneo." Capturan a [[Edward]]. Motivación desconocida.
-*Apariciones:* NC11 (emergencia post-combate)
+Facción que emerge tras la caída del dragón. Entrada cinematográfica tipo *Apocalypse Now*. Poseen tecnología mixta: granadas, asalto aéreo. Estética de "tiburones al estilo arte contemporáneo." Capturan a [[Edward]]. Motivación desconocida.
+*Apariciones:* la emergencia tras el combate del dragón
 *Conexiones:* [[Edward]] (capturado), [[Flying_Dutchman_Holandes_Errante|Flying Dutchman]], [[Dragon_Verde|Dragón Verde]]
 
 ## Notas
 
-NC_REFERENCE los describe como "Criaturas" pero el archivos sugiere facción organizada con tecnología.
+La crónica los describe como "Criaturas" pero el archivo sugiere facción organizada con tecnología.

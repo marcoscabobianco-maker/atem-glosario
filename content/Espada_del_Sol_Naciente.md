@@ -2,7 +2,7 @@
 categoria: artefacto
 tags:
  - "northern-crown"
- - "nc09-nc13"
+ - "corona-del-norte"
  - "arma"
  - "espada"
  - "solar"
@@ -20,7 +20,7 @@ aliases:
 ## Presentación
 
 Espada dorada de Idaho, "la espada del sol que baja por la montaña." Cualidades solares y musicales. Permanece en mano de Idaho incluso durante la petrificación dorada.
-*Apariciones:* [[Batalla_del_Molino_NC09|NC09]] (asignada), NC12-NC13 (portada por Idaho)
+*Apariciones:* la [[Batalla_del_Molino_NC09|batalla del Molino]] (asignada); más tarde, portada por Idaho durante la petrificación dorada
 *Conexiones:* Idaho, imaginería solar
 
 ## Notas

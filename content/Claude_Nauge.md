@@ -22,12 +22,19 @@ tags:
  - destruccion-nivel-9
  - guardia-ucronico
  - senado-popular
+imagen: Imagenes_Tier1/Claude_Nauge.jpg
 ---
 # Claude Nauge
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Claude_Nauge.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La mano lo retrató antes de la doctrina: torso desnudo, brazos cruzados, el cuerpo que el metalúrgico se forjó a martillazos como quien forja su propio argumento.*
+
 > *"Mi vida vale la lucha. Romperé la guerra, cueste lo que cueste. El tiempo es mutable, depende de la percepción. En mi tiempo ahora es infinito."*
 
-La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra escrita**. *Cuando llegue*, **mostrará al metalúrgico en su taller obrero parisino**: *delantal de cuero, manos negras de aceite, martillo de forja a un lado, un libro de Lenin abierto sobre la fragua*; **mirada directa, gesto de quien sabe que la doctrina y la herramienta no son cosas distintas**; *al fondo de la lámina futura, dos figuras de obrera y obrero esperando que termine de cerrar la jornada para tomar la palabra en asamblea*.
+La mano lo levantó al fin en lámina, y **no eligió la fragua sino el cuerpo**: *retrato de estudio, el metalúrgico de pie con los brazos cruzados sobre el pecho desnudo*, **la musculatura ganada en el yunque y no en el gimnasio**; *a un costado, una columna labrada y un ramo pálido contra el muro; arriba, una fecha y el nombre de una ciudad anotados a mano por quien fijó la pose*. **Mirada directa, mandíbula firme, el gesto de quien sabe que la herramienta y la doctrina no son cosas distintas** —*y que el primer instrumento del obrero es el propio cuerpo que pone en la lucha*.
 
 ---
 

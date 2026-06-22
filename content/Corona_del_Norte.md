@@ -23,6 +23,9 @@ tags:
 
 > *La [[Ucronica_NC_Northern_Crown|Corona del Norte]] es el ciclo de la América alternativa: [[Medawin_Medawaywin|Medawin]], las [[Cadenas_de_Plata_Silver_Chains_Shackles_of_the_Pact|Cadenas de Plata]], los emisarios de las plataformas zodiacales en el continente nuevo. Lo que sigue es la narrativa que recoge el archivo.*
 
+[*La mano levantó después la otra cara de la misma tierra: no la acuarela de los nombres, sino la carta física de las aguas —el Misisipi y el Misuri ramificándose como un árbol acostado, el Ohio, el Arkansas, el Yellowstone, cada vena azul un río que el [[Medawin_Medawaywin|Medawin]] todavía recordaba por su nombre. Quien la mira entiende que el continente no se sostiene por sus fronteras sino por sus cuencas: matar un río es matar al país que lo bebe. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Corona_del_Norte_v2.jpg]]
 
 ## Narrativa de los Emisarios del Norte
 

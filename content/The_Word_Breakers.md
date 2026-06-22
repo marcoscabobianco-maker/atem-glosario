@@ -25,6 +25,14 @@ cadena anagramática [[Oratiol]] → [[Lotario]] → [[Lotario|Tailoor]] es un c
 una mano que mantiene continuidad identitaria a través de distintos grupos
 y épocas del cosmos compartido mediante transformaciones de nombre.
 
+**Es el grupo aventurero de la gesta de [[Vala_Antigua|Vala Antigua]]** —la Mesopotamia
+mítica de [[Uruk_(capital)_y_Casa_Azul|Uruk]] y la [[Casa_Azul_de_Vala|Casa Azul]]—. En esa
+gesta los Word Breakers rescatan del umbral de los muertos a **[[Thalia_Cristalia|Thalia
+Cristalia]]**, la paladina de la Casa Azul caída en animación suspendida en el
+[[Valle_de_la_Tempestad]]; ella termina **desposada con [[Tailoor]]**, y de esa unión nace
+**[[Vitalis]]**. Los sobrevivientes del grupo fueron luego deificados en el panteón de
+[[Los_Supremos]].
+
 *Miembros:* **[[Lotario|Tailoor]]** (confirmado). Resto del grupo pendiente de
 identificación.
 

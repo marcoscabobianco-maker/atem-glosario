@@ -67,6 +67,10 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 
 [*"Hay apocalipsis que terminan el mundo; hay apocalipsis que sólo terminan la administración del mundo. El de 1889 fue del segundo tipo, y por eso costó más entender qué se había acabado." — Glosa del libro V del [[Decadiano]].*]
 
+[*La mano guardó además una vista del colapso por fuera, no por dentro: la ciudad-ciudadela ardiendo sobre el agua, sus torres de reloj escupiendo una columna de humo negro que se traga el cielo, las barcazas detenidas en un río que ya refleja dos tiempos. No es un incendio cualquiera —es [[Paris_Ucronica|París]] solapándose consigo misma, vista desde el muelle por quien todavía no entiende que lo que arde no es la piedra sino la hora. —Glosa del [[Arkos|archivero del Plata]].*]
+
+![[Imagenes_Tier1/Apocalipsis_Temporal_1889_v2.png]]
+
 ## Vínculos
 
 - [[Paris_Ucronica]] — escenario del colapso

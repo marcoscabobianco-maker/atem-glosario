@@ -50,11 +50,11 @@ imagen: Imagenes_Tier1/Francis_Drake_Draco_Drake.png
 - [[Lope_de_Vega|Lope de Vega]] — figura conectora hacia el ciclo NC
 - [[Medallon_Melancolico]] — el objeto que lo invoca
 - [[Cronotravel]] — la operación que su biografía cifra
-- [[Harrison_Solar]] — quien lo referencia en NC16
+- [[Harrison_Solar]] — quien lo referencia en la jornada final de la Corona del Norte
 - [[Akala]]
 
 ## Apariciones
 
 - **1579 — desembarco en [[California]]; renombramiento como Nueva Albión** — episodio cronoviajado
-- **NC15 — mencionado por el [[Sauro_Dragon|Dragón]]** — primera entrada en el archivo NC
-- **NC16 — [[Farruco_Arrastrado_al_Pozo_NC16|Farruco Arrastrado al Pozo]]** — referencia de [[Harrison_Solar]]
+- **mencionado por el [[Sauro_Dragon|Dragón]]** — primera entrada en el archivo de la Corona del Norte
+- **[[Farruco_Arrastrado_al_Pozo_NC16|Farruco Arrastrado al Pozo]]** — referencia de [[Harrison_Solar]]

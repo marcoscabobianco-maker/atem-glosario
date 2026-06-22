@@ -1,7 +1,7 @@
 ---
 tags:
  - "northern-crown"
- - "nc15-nc16"
+ - "corona-del-norte"
  - "profeta"
  - "esclavo"
  - "dragon-staff"
@@ -19,7 +19,7 @@ aliases:
 ## Presentación
 
 Hombre negro, alto, corpulento, casco con cuernos, se proclama "El Elegido." Posee el [[Dragon_Staff_Baston_del_Dragon|Dragon Staff]]. Predica ante esclavos reunidos clandestinamente en Nueva Ámsterdam: "El tiempo se acerca... Dios dice que combatamos el enemigo con sus propias armas." Visto por [[Vermir]] en Remote Viewing. Sol rojo que "clama por el baño de sangre."
-*Apariciones:* NC15 (Remote Viewing), [[Farruco_Arrastrado_al_Pozo_NC16|NC16]] (imagen transmitida al dragón)
+*Apariciones:* la visión por Remote Viewing; la [[Farruco_Arrastrado_al_Pozo_NC16|caída de Farruco al pozo]] (imagen transmitida al dragón)
 *Conexiones:* [[Dragon_Staff_Baston_del_Dragon|Dragon Staff]], constructo dorado ("liberador de negros"), [[Dragon_Verde|Dragón Verde]], Nueva Ámsterdam
 
 ## Notas

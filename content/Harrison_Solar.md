@@ -1,7 +1,6 @@
 ---
 tags:
  - "northern-crown"
- - "nc16"
  - "capitán"
  - "ranchero"
  - "california"
@@ -15,7 +14,7 @@ aliases:
 ## Presentación
 
 Capitán al servicio de Álvaro Amador, ranchero de [[California]] colonial. Capacidad de transformación: piel gris, crece de tamaño. Pelea contra escorpiones demoniacos con trabuco. Pragmático — echa a los mercenarios tras el ataque al pozo.
-*Apariciones:* [[Farruco_Arrastrado_al_Pozo_NC16|NC16]]
+*Apariciones:* [[Farruco_Arrastrado_al_Pozo_NC16|el episodio del pozo]]
 *Conexiones:* Hacienda Amador, escorpiones demoniacos, Malditos
 
 ## Notas

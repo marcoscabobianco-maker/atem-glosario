@@ -1,7 +1,7 @@
 ---
 categoria: personaje
 aliases:
- - "Operación Patriarcal de Purificación (TE07)"
+ - "Operación Patriarcal de Purificación"
  - Operacion_Patriarcal_de_Purificacion_TE07
 ---
 
