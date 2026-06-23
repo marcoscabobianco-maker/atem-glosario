@@ -1,4 +1,5 @@
 ---
+title: "Goristro"
 categoria: lugar
 tags:
  - "cdi"

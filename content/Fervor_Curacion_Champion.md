@@ -1,4 +1,5 @@
 ---
+title: "Fervor (Curación Champion)"
 categoria: lugar
 aliases:
  - "Fervor (Curación Champion)"

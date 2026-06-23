@@ -1,4 +1,5 @@
 ---
+title: "Pyrexianos (handouts)"
 título: "Pyrexianos (handouts)"
 slug: Pyrexianos_handouts
 categoria: artefacto

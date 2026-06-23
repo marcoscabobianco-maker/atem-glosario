@@ -1,4 +1,5 @@
 ---
+title: "Muere En Combate Durante La Fase De Paris"
 aliases:
  - "Muere_en_combate_durante_la_fase_de_Paris"
 en_construccion: true

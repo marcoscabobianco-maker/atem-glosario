@@ -1,4 +1,5 @@
 ---
+title: "Quirón"
 categoria: personaje
 aliases:
  - "Quirón"

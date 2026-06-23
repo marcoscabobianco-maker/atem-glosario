@@ -1,4 +1,5 @@
 ---
+title: "MUERTE / BOGOS (\"Señor de Huesos\")"
 categoria: lugar
 aliases:
  - "MUERTE / BOGOS (\"Señor de Huesos\")"

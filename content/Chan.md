@@ -1,4 +1,5 @@
 ---
+title: "Chan"
 título: "Chan"
 slug: Chan
 categoria: personaje

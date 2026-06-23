@@ -1,4 +1,5 @@
 ---
+title: "Kira Yuki"
 aliases:
  - "Kira Yuki"
 ---

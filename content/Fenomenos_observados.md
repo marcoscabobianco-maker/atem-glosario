@@ -1,4 +1,5 @@
 ---
+title: "Fenomenos Observados"
 aliases:
  - "Fenomenos_observados"
 en_construccion: true

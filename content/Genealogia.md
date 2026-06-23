@@ -1,4 +1,5 @@
 ---
+title: "Genealogia"
 aliases:
  - "Genealogia"
 en_construccion: true

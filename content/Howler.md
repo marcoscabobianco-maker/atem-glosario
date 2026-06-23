@@ -1,4 +1,5 @@
 ---
+title: "El Howler"
 título: "El Howler — mascota troll-bestia infernal"
 slug: Howler
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Rulfo"
 título: "Rulfo — el guardián del Orfanato de la Calle de la Linterna"
 slug: Rulfo
 aliases:

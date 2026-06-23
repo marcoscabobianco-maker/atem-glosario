@@ -1,4 +1,5 @@
 ---
+title: "Escudo de Espejo"
 categoria: lugar
 aliases:
  - "ESCUDO DE ESPEJO / REFLEX REVERSAL"

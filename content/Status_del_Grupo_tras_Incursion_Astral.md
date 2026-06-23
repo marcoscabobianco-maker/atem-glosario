@@ -1,4 +1,5 @@
 ---
+title: "Status del Grupo tras la Incursión Astral"
 categoria: evento
 aliases:
  - Status_del_Grupo_post-TE09

@@ -1,4 +1,5 @@
 ---
+title: "Dual / Sáenz Premiado"
 tags:
  - "corona-del-norte"
  - "español"

@@ -1,4 +1,5 @@
 ---
+title: "Relacion A Grupo"
 aliases:
  - "Relacion_a_grupo"
 en_construccion: true

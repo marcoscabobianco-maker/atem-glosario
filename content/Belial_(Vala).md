@@ -1,4 +1,5 @@
 ---
+title: "Belial (Vala)"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Belial", "Belial en Vala"]

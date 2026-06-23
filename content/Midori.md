@@ -1,4 +1,5 @@
 ---
+title: "Midori"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Midori"]

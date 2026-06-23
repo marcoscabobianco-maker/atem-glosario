@@ -1,4 +1,5 @@
 ---
+title: "Laberinto Omniporal"
 categoria: personaje
 aliases:
  - "LABERINTO OMNIPORAL (Zona 34)"

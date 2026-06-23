@@ -1,4 +1,5 @@
 ---
+title: "Lic. Néstor Falkowski"
 título: "Lic. Néstor Falkowski — el terapeuta de párpados pesados"
 slug: Nestor_Falkowski
 categoria: personaje

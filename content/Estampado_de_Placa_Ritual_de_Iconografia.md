@@ -1,4 +1,5 @@
 ---
+title: "Estampado de Placa / Ritual de Iconografía ( casteo)"
 categoria: lugar
 aliases:
  - "Estampado de Placa / Ritual de Iconografía ( casteo)"

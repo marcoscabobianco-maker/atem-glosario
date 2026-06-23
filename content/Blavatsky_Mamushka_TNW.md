@@ -1,4 +1,5 @@
 ---
+title: "Helena Blavatsky / Mamushka"
 título: "Helena Blavatsky / Mamushka"
 slug: Blavatsky_Mamushka_TNW
 aliases:

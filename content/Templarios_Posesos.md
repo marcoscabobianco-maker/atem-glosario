@@ -1,4 +1,5 @@
 ---
+title: "Templarios Posesos"
 aliases:
  - "Templarios Posesos"
 ---

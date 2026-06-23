@@ -1,4 +1,5 @@
 ---
+title: "Arquímedes"
 título: "Arquímedes — el guía del sueño compartido y la palanca de los mundos"
 slug: Arquimedes
 categoria: personaje

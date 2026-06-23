@@ -1,4 +1,5 @@
 ---
+title: "Robe of Useful Items + Duskwalker Cloak"
 categoria: lugar
 aliases:
  - "Robe of Useful Items + Duskwalker Cloak"

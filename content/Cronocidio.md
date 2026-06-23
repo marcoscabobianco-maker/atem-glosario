@@ -1,4 +1,5 @@
 ---
+title: "Cronocidio"
 categoria: evento
 tags:
  - "paris-ucronica"

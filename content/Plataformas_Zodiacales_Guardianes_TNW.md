@@ -1,4 +1,5 @@
 ---
+title: "Plataformas Zodiacales y Guardianes"
 título: "Plataformas Zodiacales y Guardianes"
 slug: Plataformas_Zodiacales_Guardianes_TNW
 categoria: concepto

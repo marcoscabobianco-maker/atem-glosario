@@ -1,4 +1,5 @@
 ---
+title: "Bóvedas Replicantes"
 categoria: lugar
 aliases:
  - "Bóvedas Replicantes"

@@ -1,4 +1,5 @@
 ---
+title: "Dr. Alberto Buscaglia"
 título: "Dr. Alberto Buscaglia — el psiquiatra del miedo en el Borda"
 slug: Alberto_Buscaglia
 categoria: personaje

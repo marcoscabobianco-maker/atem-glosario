@@ -1,4 +1,5 @@
 ---
+title: "Torre de Obsidiana"
 título: "Torre de Obsidiana — residencia de Lord Valanthru"
 slug: Torre_de_Obsidiana
 aliases:

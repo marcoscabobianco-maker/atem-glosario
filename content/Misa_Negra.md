@@ -1,4 +1,5 @@
 ---
+title: "Misa Negra"
 aliases:
  - "Misa Negra"
 referenciado_por: 3

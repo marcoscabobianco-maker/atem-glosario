@@ -1,4 +1,5 @@
 ---
+title: "Mina"
 título: "Mina"
 slug: Mina
 categoria: personaje

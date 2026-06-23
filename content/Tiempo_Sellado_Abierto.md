@@ -1,4 +1,5 @@
 ---
+title: "Tiempo \"Sellado\" → \"Abierto\""
 categoria: lugar
 aliases:
  - "Tiempo \"Sellado\" → \"Abierto\""

@@ -1,4 +1,5 @@
 ---
+title: "Stimmung"
 aliases:
  - "Stimmung"
 en_construccion: true

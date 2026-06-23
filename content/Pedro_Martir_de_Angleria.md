@@ -1,4 +1,5 @@
 ---
+title: "Pedro Martir De Angleria"
 aliases:
  - "Pedro_Martir_de_Angleria"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "El Goliat"
 título: "El Goliat"
 slug: Goliath_Goliat_TNW
 aliases:

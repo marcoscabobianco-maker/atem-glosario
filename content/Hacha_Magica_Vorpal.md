@@ -1,4 +1,5 @@
 ---
+title: "Hacha Mágica (¿Vorpal?)"
 categoria: lugar
 tags:
  - "cdi"

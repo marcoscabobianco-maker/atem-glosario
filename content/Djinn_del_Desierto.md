@@ -1,4 +1,5 @@
 ---
+title: "Djinn del Desierto"
 tags:
  - "mediterraneum"
  - "djinn"

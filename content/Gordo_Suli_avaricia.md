@@ -1,4 +1,5 @@
 ---
+title: "Gordo Suli avaricia"
 categoria: personaje
 aliases:
  - "Gordo Suli avaricia"

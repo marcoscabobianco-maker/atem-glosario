@@ -1,4 +1,5 @@
 ---
+title: "Licor Fosforescente"
 categoria: artefacto
 tags:
  - "paris-ucronica"

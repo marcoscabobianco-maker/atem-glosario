@@ -1,4 +1,5 @@
 ---
+title: "Garkhan"
 título: "Garkhan"
 slug: Garkhan
 categoria: deidad

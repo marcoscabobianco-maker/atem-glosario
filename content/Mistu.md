@@ -1,4 +1,5 @@
 ---
+title: "Mistu"
 categoria: lugar
 aliases:
  - "Mistu"

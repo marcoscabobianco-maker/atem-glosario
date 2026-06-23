@@ -1,4 +1,5 @@
 ---
+title: "Juicio Final"
 # === Identidad ===
 slug: Juicio_Final
 canonical_name: "Juicio Final"

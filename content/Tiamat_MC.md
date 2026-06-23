@@ -1,4 +1,5 @@
 ---
+title: "La Reina Oscura"
 título: "La Reina Oscura"
 slug: Tiamat_MC
 aliases:

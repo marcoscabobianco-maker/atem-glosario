@@ -1,4 +1,5 @@
 ---
+title: "Bermudas isla de entrada"
 aliases:
  - "Bermudas isla de entrada"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Tiro"
 categoria: lugar
 aliases:
  - "Tiro"

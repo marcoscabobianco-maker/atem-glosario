@@ -1,4 +1,5 @@
 ---
+title: "La moneda-tótem"
 título: "La moneda-tótem — el tercer ojo que ablanda las voluntades"
 slug: Moneda_totem
 categoria: objeto

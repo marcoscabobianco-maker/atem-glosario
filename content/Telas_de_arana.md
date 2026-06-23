@@ -1,4 +1,5 @@
 ---
+title: "Telas De Arana"
 aliases:
  - "Telas_de_arana"
 en_construccion: true

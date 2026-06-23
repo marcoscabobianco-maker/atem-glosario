@@ -1,4 +1,5 @@
 ---
+title: "Post-guerra"
 aliases:
  - "Post-guerra"
 en_construccion: true

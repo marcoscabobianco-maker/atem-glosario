@@ -1,4 +1,5 @@
 ---
+title: "Investigacion Restante"
 aliases:
  - "Investigacion_restante"
 en_construccion: true

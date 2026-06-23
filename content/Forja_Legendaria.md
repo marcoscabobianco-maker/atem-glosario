@@ -1,4 +1,5 @@
 ---
+title: "Forja Legendaria"
 categoria: lugar
 tags:
  - "paris-ucronica"

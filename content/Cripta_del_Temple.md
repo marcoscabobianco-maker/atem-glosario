@@ -1,4 +1,5 @@
 ---
+title: "Cripta del Temple"
 aliases:
  - "Cripta del Temple"
 ---

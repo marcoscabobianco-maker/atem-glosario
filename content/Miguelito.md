@@ -1,4 +1,5 @@
 ---
+title: "Miguelito"
 título: "Miguelito"
 slug: Miguelito
 aliases:

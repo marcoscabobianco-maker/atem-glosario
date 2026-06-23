@@ -1,4 +1,5 @@
 ---
+title: "Laveth"
 aliases:
  - "Laveth"
 en_construccion: true

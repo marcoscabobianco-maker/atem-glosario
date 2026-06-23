@@ -1,4 +1,5 @@
 ---
+title: "Auro"
 título: "Auro"
 slug: Auro
 imagen: "Imagenes_Tier1/Auro_CI.png"

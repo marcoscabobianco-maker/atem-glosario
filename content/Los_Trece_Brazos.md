@@ -1,4 +1,5 @@
 ---
+title: "Los Trece Brazos"
 título: "Los Trece Brazos"
 slug: Los_Trece_Brazos
 categoria: grupo

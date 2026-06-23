@@ -1,4 +1,5 @@
 ---
+title: "Rolando, Capitán Templario"
 título: "Rolando, Capitán Templario"
 slug: Rolando_Capitan
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Kronamon"
 categoria: personaje
 tags:
  - "personaje"

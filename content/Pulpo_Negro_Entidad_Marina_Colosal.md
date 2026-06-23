@@ -1,4 +1,5 @@
 ---
+title: "Pulpo Negro (Entidad Marina Colosal)"
 categoria: criatura
 tags:
  - "paris-ucronica"

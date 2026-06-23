@@ -1,4 +1,5 @@
 ---
+title: "Sequoia"
 tags:
  - "corona-del-norte"
  - "nc05-nc06"

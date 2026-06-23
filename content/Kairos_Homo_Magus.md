@@ -1,4 +1,5 @@
 ---
+title: "Kairos, Homo Magus"
 título: "Kairos, Homo Magus"
 slug: Kairos_Homo_Magus
 aliases:

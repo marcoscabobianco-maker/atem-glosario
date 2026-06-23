@@ -1,4 +1,5 @@
 ---
+title: "Esperanza recurso mecanica"
 categoria: concepto
 aliases:
  - "Esperanza recurso mecanica"

@@ -1,4 +1,5 @@
 ---
+title: "Potencial Magico"
 aliases:
  - "Potencial_magico"
 en_construccion: true

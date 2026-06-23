@@ -1,4 +1,5 @@
 ---
+title: "Mani"
 categoria: personaje
 tags:
  - "personaje"

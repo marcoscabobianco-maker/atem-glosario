@@ -1,4 +1,5 @@
 ---
+title: "Deck of Many Things"
 categoria: objeto
 aliases:
  - "Deck of Many Things"

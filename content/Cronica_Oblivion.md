@@ -1,4 +1,5 @@
 ---
+title: "Crónica Oblivion"
 categoria: concepto
 tags:
  - "paris-ucronica"

@@ -1,4 +1,5 @@
 ---
+title: "El Northern Crown"
 título: "El Northern Crown"
 slug: Ucronica_NC_Northern_Crown
 aliases:

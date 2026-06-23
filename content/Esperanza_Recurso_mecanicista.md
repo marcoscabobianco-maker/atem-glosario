@@ -1,4 +1,5 @@
 ---
+title: "Esperanza Recurso Mecanicista"
 aliases:
  - "Esperanza_Recurso_mecanicista"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Tailoor"
 título: "Tailoor — tercer avatar del padre triple, deidad del amor"
 slug: Tailoor
 categoria: deidad

@@ -1,4 +1,5 @@
 ---
+title: "Estigia Pantano"
 aliases:
  - "Estigia_pantano"
 en_construccion: true

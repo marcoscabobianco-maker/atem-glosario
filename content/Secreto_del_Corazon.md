@@ -1,4 +1,5 @@
 ---
+title: "Secreto Del Corazon"
 aliases:
  - "Secreto_del_Corazon"
 en_construccion: true

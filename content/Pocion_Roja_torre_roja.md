@@ -1,4 +1,5 @@
 ---
+title: "Poción Roja (torre roja)"
 categoria: lugar
 tags:
  - "cdi"

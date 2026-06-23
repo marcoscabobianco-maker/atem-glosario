@@ -1,4 +1,5 @@
 ---
+title: "El Fruto del Conocimiento"
 título: "El Fruto del Conocimiento — orbe del bucle temporal"
 slug: Fruto_del_Conocimiento
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Infierno Dantesco"
 aliases:
  - "Infierno_Dantesco"
 en_construccion: true

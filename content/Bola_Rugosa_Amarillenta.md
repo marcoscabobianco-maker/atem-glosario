@@ -1,4 +1,5 @@
 ---
+title: "Bola Rugosa Amarillenta"
 aliases:
  - "Bola Rugosa Amarillenta"
 referenciado_por: 2

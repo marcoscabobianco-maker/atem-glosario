@@ -1,4 +1,5 @@
 ---
+title: "Shobot"
 título: "Shobot — el ojo detrás del espejo"
 slug: Shobot
 categoria: concepto

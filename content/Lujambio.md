@@ -1,4 +1,5 @@
 ---
+title: "Lujambio"
 aliases:
  - "Lujambio"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Sila / Scylla — el Monje de las Sombras"
 título: "Sila / Scylla — el Monje de las Sombras"
 slug: Scylla
 aliases:

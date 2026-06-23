@@ -1,4 +1,5 @@
 ---
+title: "Edward"
 título: "Edward"
 slug: Edward
 aliases:

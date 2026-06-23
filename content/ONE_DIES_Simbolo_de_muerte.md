@@ -1,4 +1,5 @@
 ---
+title: "ONE DIES (Símbolo de muerte)"
 categoria: lugar
 aliases:
  - "ONE DIES (Símbolo de muerte)"

@@ -1,4 +1,5 @@
 ---
+title: "Reliquias Templarias"
 aliases:
  - "Reliquias Templarias"
 ---

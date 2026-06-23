@@ -1,4 +1,5 @@
 ---
+title: "Actualizar Tabla De Participantes"
 aliases:
  - "Actualizar_tabla_de_participantes"
 en_construccion: true

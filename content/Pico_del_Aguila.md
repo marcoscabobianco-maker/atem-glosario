@@ -1,4 +1,5 @@
 ---
+title: "Pico Del Aguila"
 aliases:
  - "Pico_del_Aguila"
 en_construccion: true

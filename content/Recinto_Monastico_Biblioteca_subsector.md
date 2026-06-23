@@ -1,4 +1,5 @@
 ---
+title: "Recinto Monástico (Biblioteca subsector)"
 categoria: lugar
 aliases:
  - "Recinto Monástico (Biblioteca subsector)"

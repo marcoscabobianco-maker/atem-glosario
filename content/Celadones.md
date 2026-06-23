@@ -1,4 +1,5 @@
 ---
+title: "Celadones"
 categoria: lugar
 aliases:
  - "Celadones"

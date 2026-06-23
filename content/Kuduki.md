@@ -1,4 +1,5 @@
 ---
+title: "Kuduki"
 aliases:
  - "Kuduki"
 en_construccion: true

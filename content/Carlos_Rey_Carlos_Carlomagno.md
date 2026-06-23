@@ -1,4 +1,5 @@
 ---
+title: "Carlos / Carlomagno"
 título: "Carlos / Carlomagno"
 slug: Carlos_Rey_Carlos_Carlomagno
 categoria: personaje

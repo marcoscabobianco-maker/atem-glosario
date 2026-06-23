@@ -1,4 +1,5 @@
 ---
+title: "Krisina"
 título: "Krisina"
 slug: Krisina
 imagen: "Imagenes_Tier1/Krisina.png"

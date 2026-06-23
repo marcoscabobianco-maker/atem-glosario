@@ -1,4 +1,5 @@
 ---
+title: "Posibles Alineaciones"
 aliases:
  - "Posibles_alineaciones"
 en_construccion: true

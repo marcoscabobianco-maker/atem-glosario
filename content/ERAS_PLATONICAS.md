@@ -1,4 +1,5 @@
 ---
+title: "Eras platónicas del archivo"
 type: especificacion-canonica
 fecha_canonizacion: 2026-05-26
 voz_canonizadora: Akala

@@ -1,4 +1,5 @@
 ---
+title: "Temple de Salomón — Zona 5 (Cúpula Norte/Minarete)"
 categoria: personaje
 aliases:
  - "Temple de Salomón — Zona 5 (Cúpula Norte/Minarete)"

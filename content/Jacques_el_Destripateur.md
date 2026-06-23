@@ -1,4 +1,5 @@
 ---
+title: "Jacques El Destripateur"
 aliases:
  - "Jacques_el_Destripateur"
 en_construccion: true

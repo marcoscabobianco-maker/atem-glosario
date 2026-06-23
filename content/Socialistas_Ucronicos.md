@@ -1,4 +1,5 @@
 ---
+title: "Socialistas Ucrónicos"
 categoria: faccion
 tags:
  - "paris-ucronica"

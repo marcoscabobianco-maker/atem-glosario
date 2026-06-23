@@ -1,4 +1,5 @@
 ---
+title: "Ubicación en Laberinto"
 aliases:
  - "Ubicación en Laberinto"
 referenciado_por: 2

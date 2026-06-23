@@ -1,4 +1,5 @@
 ---
+title: "Don José de Iriarte"
 título: "Don José de Iriarte"
 slug: Iriarte
 aliases:

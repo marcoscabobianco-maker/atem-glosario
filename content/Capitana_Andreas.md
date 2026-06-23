@@ -1,4 +1,5 @@
 ---
+title: "Capitana Andreas"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Capitana Andreas", "Andreas", "la capitana"]

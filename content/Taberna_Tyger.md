@@ -1,4 +1,5 @@
 ---
+title: "Taberna Tyger"
 categoria: lugar
 tags:
  - "lugar"

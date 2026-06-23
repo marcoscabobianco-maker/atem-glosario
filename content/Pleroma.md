@@ -1,4 +1,5 @@
 ---
+title: "Pleroma"
 categoria: lugar
 tags:
  - "ciudades-invisibles"

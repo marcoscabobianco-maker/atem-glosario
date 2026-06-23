@@ -1,4 +1,5 @@
 ---
+title: "Joshua"
 aliases:
  - "Joshua"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Anillo del Señor de los Gatos"
 categoria: objeto
 aliases:
  - "Anillo del Senor de los Gatos"

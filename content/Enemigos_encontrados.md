@@ -1,4 +1,5 @@
 ---
+title: "Enemigos Encontrados"
 aliases:
  - "Enemigos_encontrados"
 en_construccion: true

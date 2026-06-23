@@ -1,4 +1,5 @@
 ---
+title: "Priscus Pulcher"
 título: "Priscus Pulcher — mártir de la chispa abierta"
 slug: Priscus_Pulcher
 aliases:

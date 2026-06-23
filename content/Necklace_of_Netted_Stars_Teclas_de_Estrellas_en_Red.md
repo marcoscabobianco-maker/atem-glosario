@@ -1,4 +1,5 @@
 ---
+title: "Necklace of Netted Stars / Teclas de Estrellas en Red"
 categoria: artefacto
 tags:
  - "corona-del-norte"

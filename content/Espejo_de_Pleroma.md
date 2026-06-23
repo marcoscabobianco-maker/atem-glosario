@@ -1,4 +1,5 @@
 ---
+title: "El Espejo de Pleroma"
 título: "El Espejo de Pleroma"
 slug: Espejo_de_Pleroma
 aliases:

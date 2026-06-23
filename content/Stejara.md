@@ -1,4 +1,5 @@
 ---
+title: "Stejara"
 título: "Stejara (pueblo vivo, Novatos)"
 slug: Stejara
 categoria: lugar

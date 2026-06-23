@@ -1,4 +1,5 @@
 ---
+title: "El Huevo de Ritornelo"
 título: "El Huevo de Ritornelo — instrumento de la caída"
 slug: El_Huevo_de_Ritornelo
 aliases:

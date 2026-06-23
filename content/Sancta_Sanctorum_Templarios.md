@@ -1,4 +1,5 @@
 ---
+title: "Sancta Sanctorum Templarios"
 aliases:
  - "Sancta Sanctorum Templarios"
 ---

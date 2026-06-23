@@ -1,4 +1,5 @@
 ---
+title: "Entidad"
 aliases:
  - "Entidad"
 en_construccion: true

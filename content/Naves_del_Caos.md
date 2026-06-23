@@ -1,4 +1,5 @@
 ---
+title: "Las Naves del Caos"
 categoria: artefacto
 tags:
  - "artefacto"

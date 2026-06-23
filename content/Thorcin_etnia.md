@@ -1,4 +1,5 @@
 ---
+title: "Thorcin Etnia"
 aliases:
  - "Thorcin_etnia"
 en_construccion: true

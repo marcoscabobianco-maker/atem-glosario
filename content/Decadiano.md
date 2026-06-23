@@ -1,4 +1,5 @@
 ---
+title: "El Decadiano"
 título: "El Decadiano"
 slug: Decadiano
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Mittelfeid (Hechizo de Miedo Religioso)"
 categoria: lugar
 aliases:
  - "Mittelfeid (Hechizo de Miedo Religioso)"

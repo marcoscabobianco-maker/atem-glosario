@@ -1,4 +1,5 @@
 ---
+title: "Golden Bones (Maldición)"
 categoria: concepto
 tags:
  - "corona-del-norte"

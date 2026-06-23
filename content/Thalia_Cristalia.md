@@ -1,4 +1,5 @@
 ---
+title: "Thalia Cristalia"
 título: "Thalia Cristalia — la paladina cristalina, madre de Vitalis"
 slug: Thalia_Cristalia
 aliases:

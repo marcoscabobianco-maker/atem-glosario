@@ -1,4 +1,5 @@
 ---
+title: "Sol Invictus (Culto — Mediterraneum)"
 categoria: concepto
 tags:
  - "religión"

@@ -1,4 +1,5 @@
 ---
+title: "Lich Filactera"
 aliases:
  - "Lich Filactera"
 ---

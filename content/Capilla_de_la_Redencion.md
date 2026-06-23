@@ -1,4 +1,5 @@
 ---
+title: "Capilla de la Redención"
 título: "Capilla de la Redención — sellado del pacto Ishen-Nalía"
 slug: Capilla_de_la_Redencion
 aliases:

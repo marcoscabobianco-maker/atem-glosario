@@ -1,4 +1,5 @@
 ---
+title: "Druida Negro"
 categoria: personaje
 estado: stub_diegetico
 aliases:

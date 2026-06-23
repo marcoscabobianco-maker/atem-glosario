@@ -1,4 +1,5 @@
 ---
+title: "Armando Cabo"
 título: "Armando Cabo — el padre de revólver detrás del avión a las Malvinas"
 slug: Armando_Cabo
 categoria: personaje

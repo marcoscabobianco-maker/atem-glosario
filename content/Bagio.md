@@ -1,4 +1,5 @@
 ---
+title: "Bagio"
 aliases:
  - "Bagio"
 en_construccion: true

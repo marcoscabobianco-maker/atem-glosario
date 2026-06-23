@@ -1,4 +1,5 @@
 ---
+title: "Les Halles PU"
 aliases:
  - "Les Halles"
  - "Les_Halles_PU"

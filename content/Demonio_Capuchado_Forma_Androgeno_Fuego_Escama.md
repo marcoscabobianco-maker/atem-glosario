@@ -1,4 +1,5 @@
 ---
+title: "Demonio Capuchado (Forma Andrógeno Fuego/Escama)"
 categoria: lugar
 aliases:
  - "Demonio Capuchado (Forma Andrógeno Fuego/Escama)"

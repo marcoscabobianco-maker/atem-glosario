@@ -1,4 +1,5 @@
 ---
+title: "Gema de la Creación"
 título: "Gema de la Creación"
 slug: Gema_de_la_Creacion
 categoria: artefacto

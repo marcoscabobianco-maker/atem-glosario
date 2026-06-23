@@ -1,4 +1,5 @@
 ---
+title: "Rehuen, cacique de dos corazones"
 categoria: personaje
 tags:
  - "personaje"

@@ -1,4 +1,5 @@
 ---
+title: "Michel bajo Sugestión"
 categoria: lugar
 aliases:
  - "Michel bajo Sugestión"

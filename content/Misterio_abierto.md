@@ -1,4 +1,5 @@
 ---
+title: "Misterio abierto"
 aliases:
  - "Misterio abierto"
 referenciado_por: 3

@@ -1,4 +1,5 @@
 ---
+title: "Thoth"
 título: "Thoth — dios egipcio del panteón imperial de Ardisvala"
 slug: Thoth
 aliases:

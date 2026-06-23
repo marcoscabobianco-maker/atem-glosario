@@ -1,4 +1,5 @@
 ---
+title: "Coliseo (Dis)"
 categoria: lugar
 tags:
  - "cdi"

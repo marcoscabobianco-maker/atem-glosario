@@ -1,4 +1,5 @@
 ---
+title: "Duque de Amor"
 tags:
  - "cdi"
 aliases:

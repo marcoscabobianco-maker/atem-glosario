@@ -1,4 +1,5 @@
 ---
+title: "Catedral de Notre-Dame de París"
 título: "Catedral de Notre-Dame de París"
 slug: Catedral_de_Notre-Dame_PU
 aliases:

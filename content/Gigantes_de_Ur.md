@@ -1,4 +1,5 @@
 ---
+title: "Gigantes de Ur"
 categoria: lugar
 aliases:
  - "Gigantes de Ur"

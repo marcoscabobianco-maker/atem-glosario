@@ -1,4 +1,5 @@
 ---
+title: "Pactos Infernales"
 aliases:
  - "Pactos_Infernales"
 en_construccion: true

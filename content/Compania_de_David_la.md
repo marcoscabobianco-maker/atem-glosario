@@ -1,4 +1,5 @@
 ---
+title: "Compañía de David, la"
 categoria: grupo
 tags:
  - "grupo"

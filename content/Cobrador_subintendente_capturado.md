@@ -1,4 +1,5 @@
 ---
+title: "Cobrador subintendente capturado"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Cobrador subintendente capturado", "el subintendente"]

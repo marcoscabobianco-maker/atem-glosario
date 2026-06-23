@@ -1,4 +1,5 @@
 ---
+title: "Valakhan de la Bruma"
 título: "Valakhan de la Bruma"
 slug: Valakhan_de_la_Bruma
 aliases:

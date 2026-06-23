@@ -1,4 +1,5 @@
 ---
+title: "Vicario Otar — la mano firme del Abad ausente"
 título: "Vicario Otar — la mano firme del Abad ausente"
 slug: Vicario_Otar
 aliases:

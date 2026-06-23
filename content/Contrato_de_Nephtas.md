@@ -1,4 +1,5 @@
 ---
+title: "Contrato de Nephtas"
 categoria: artefacto
 tags:
  - "objeto-mágico"

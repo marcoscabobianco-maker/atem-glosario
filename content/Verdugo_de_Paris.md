@@ -1,4 +1,5 @@
 ---
+title: "Verdugo de Paris"
 aliases:
  - "Verdugo de Paris"
 ---

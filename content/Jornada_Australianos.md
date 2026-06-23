@@ -1,4 +1,5 @@
 ---
+title: "Jornada Australianos"
 categoria: evento
 aliases:
  - "Sesion Australianos"

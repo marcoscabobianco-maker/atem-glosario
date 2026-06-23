@@ -1,4 +1,5 @@
 ---
+title: "Foix"
 categoria: lugar
 tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Foix"]

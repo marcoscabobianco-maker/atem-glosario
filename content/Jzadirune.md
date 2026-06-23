@@ -1,4 +1,5 @@
 ---
+title: "Jzadirune"
 título: "Jzadirune — el enclave gnómico bajo Caldero"
 slug: Jzadirune
 aliases:

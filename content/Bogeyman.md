@@ -1,4 +1,5 @@
 ---
+title: "Bogeyman"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Bogeyman", "el Bogeyman"]

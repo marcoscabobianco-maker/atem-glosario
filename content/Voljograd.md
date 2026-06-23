@@ -1,4 +1,5 @@
 ---
+title: "Voljograd"
 aliases:
  - "Voljograd"
 en_construccion: true

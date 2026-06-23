@@ -1,4 +1,5 @@
 ---
+title: "Praglava"
 categoria: lugar
 tags:
  - "lugar"

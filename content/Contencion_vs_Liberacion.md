@@ -1,4 +1,5 @@
 ---
+title: "Contención vs. Liberación"
 categoria: lugar
 aliases:
  - "Contención vs. Liberación"

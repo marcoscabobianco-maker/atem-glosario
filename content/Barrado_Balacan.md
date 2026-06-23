@@ -1,4 +1,5 @@
 ---
+title: "Barrado Balacán"
 título: "Barrado Balacán (región post-hiato)"
 slug: Barrado_Balacan
 categoria: lugar

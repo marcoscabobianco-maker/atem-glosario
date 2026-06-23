@@ -1,4 +1,5 @@
 ---
+title: "Anarquismo"
 aliases:
  - "Anarquismo"
 en_construccion: true

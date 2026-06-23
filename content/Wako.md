@@ -1,4 +1,5 @@
 ---
+title: "Wako"
 categoria: personaje
 tags:
  - "personaje"

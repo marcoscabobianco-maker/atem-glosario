@@ -1,4 +1,5 @@
 ---
+title: "Mariposa de Ámbar"
 categoria: artefacto
 tags:
  - "paris-ucronica"

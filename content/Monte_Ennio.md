@@ -1,4 +1,5 @@
 ---
+title: "Monte Ennio"
 título: "Monte Ennio — locus de la renovación dinástica"
 slug: Monte_Ennio
 aliases:

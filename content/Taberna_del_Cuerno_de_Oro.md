@@ -1,4 +1,5 @@
 ---
+title: "Taberna del Cuerno de Oro"
 categoria: lugar
 tags:
  - "cdi"

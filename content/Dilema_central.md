@@ -1,4 +1,5 @@
 ---
+title: "Dilema Central"
 aliases:
  - "Dilema_central"
 en_construccion: true

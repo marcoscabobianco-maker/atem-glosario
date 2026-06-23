@@ -1,4 +1,5 @@
 ---
+title: "Fiebre Blanca"
 aliases:
  - "Fiebre_Blanca"
 en_construccion: true

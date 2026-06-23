@@ -1,4 +1,5 @@
 ---
+title: "Los Reguladores"
 título: "Los Reguladores"
 slug: Los_Reguladores
 categoria: grupo

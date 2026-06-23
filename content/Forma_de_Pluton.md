@@ -1,4 +1,5 @@
 ---
+title: "Forma (de Plutón)"
 categoria: personaje
 tags:
  - "cdi"

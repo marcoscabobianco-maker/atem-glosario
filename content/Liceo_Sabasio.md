@@ -1,4 +1,5 @@
 ---
+title: "Liceo Sabasio"
 categoria: lugar
 tags:
  - "lugar"

@@ -1,4 +1,5 @@
 ---
+title: "Apocalypse World Campana Pandemia"
 aliases:
  - "Apocalypse_World_Campana_Pandemia"
 en_construccion: true

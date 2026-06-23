@@ -1,4 +1,5 @@
 ---
+title: "Kaliyani (Consorcio Doce)"
 título: "Kaliyani (Consorcio Doce)"
 slug: Kaliyani
 categoria: pueblo

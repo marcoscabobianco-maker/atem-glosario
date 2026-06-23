@@ -1,4 +1,5 @@
 ---
+title: "Gideon"
 tags:
  - "personaje"
  - "paladín"

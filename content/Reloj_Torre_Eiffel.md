@@ -1,4 +1,5 @@
 ---
+title: "Reloj de la Torre Eiffel"
 título: "Reloj de la Torre Eiffel — el objeto cronomántico de Tony Malatesta"
 slug: Reloj_Torre_Eiffel
 aliases:

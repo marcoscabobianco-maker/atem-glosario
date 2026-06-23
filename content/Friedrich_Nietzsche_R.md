@@ -1,4 +1,5 @@
 ---
+title: "Friedrich Nietzsche R"
 aliases:
  - "Friedrich_Nietzsche_R"
 en_construccion: true

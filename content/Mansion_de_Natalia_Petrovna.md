@@ -1,4 +1,5 @@
 ---
+title: "Mansión de Natalia Petrovna"
 categoria: lugar
 tags:
  - "paris-ucronica"

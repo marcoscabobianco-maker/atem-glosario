@@ -1,4 +1,5 @@
 ---
+title: "Anubis"
 aliases:
  - "Anubis"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Kropotkin"
 título: "Kropotkin"
 slug: Kropotkin
 categoria: personaje

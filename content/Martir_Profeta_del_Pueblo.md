@@ -1,4 +1,5 @@
 ---
+title: "El mártir profeta del pueblo"
 título: "El mártir profeta del pueblo"
 slug: Martir_Profeta_del_Pueblo
 aliases:

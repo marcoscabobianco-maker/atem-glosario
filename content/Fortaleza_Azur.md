@@ -1,4 +1,5 @@
 ---
+title: "Fortaleza Azur"
 título: "Fortaleza Azur — ciudadela de Glastumville"
 slug: Fortaleza_Azur
 aliases:

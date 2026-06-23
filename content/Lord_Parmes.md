@@ -1,4 +1,5 @@
 ---
+title: "Lord Parmes"
 título: "Lord Parmes"
 slug: Lord_Parmes
 categoria: personaje

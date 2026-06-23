@@ -1,4 +1,5 @@
 ---
+title: "Espada De Obsidiana Soul Drinker"
 aliases:
  - "Espada_de_Obsidiana_Soul_Drinker"
 en_construccion: true

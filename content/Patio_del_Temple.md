@@ -1,4 +1,5 @@
 ---
+title: "Patio del Temple"
 aliases:
  - "Patio del Temple"
 ---

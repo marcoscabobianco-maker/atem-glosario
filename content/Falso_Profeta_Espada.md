@@ -1,4 +1,5 @@
 ---
+title: "Falso Profeta (Espada)"
 categoria: personaje
 tags:
  - "cdi"

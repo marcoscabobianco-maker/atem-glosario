@@ -1,4 +1,5 @@
 ---
+title: "Implicación táctica"
 aliases:
  - "Implicación táctica"
 referenciado_por: 2

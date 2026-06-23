@@ -1,4 +1,5 @@
 ---
+title: "Artefacto Futuro"
 aliases:
  - "Artefacto_futuro"
 en_construccion: true

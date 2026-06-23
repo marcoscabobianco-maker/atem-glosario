@@ -1,4 +1,5 @@
 ---
+title: "Varumani (pueblo)"
 título: "Varumani (pueblo)"
 slug: Varumani
 categoria: pueblo

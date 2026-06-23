@@ -1,4 +1,5 @@
 ---
+title: "Iglesia Imperial — la unidad aparente"
 título: "Iglesia Imperial — la unidad aparente"
 slug: Iglesia_Imperial
 categoria: organización

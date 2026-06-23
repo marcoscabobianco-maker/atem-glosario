@@ -1,4 +1,5 @@
 ---
+title: "Pentagramas/Sellos de Salomón (Suelo Templo)"
 categoria: lugar
 aliases:
  - "Pentagramas/Sellos de Salomón (Suelo Templo)"

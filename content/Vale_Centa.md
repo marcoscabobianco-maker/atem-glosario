@@ -1,4 +1,5 @@
 ---
+title: "Vale Centa"
 categoria: personaje
 tags:
  - "personaje"

@@ -1,4 +1,5 @@
 ---
+title: "Concepto Cosmico"
 aliases:
  - "Concepto_cosmico"
 en_construccion: true

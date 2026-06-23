@@ -1,4 +1,5 @@
 ---
+title: "Padre Belias"
 título: "Padre Belias — sacerdote de la Divina Década"
 slug: Padre_Belias
 aliases:

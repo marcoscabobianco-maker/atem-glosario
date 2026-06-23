@@ -1,4 +1,5 @@
 ---
+title: "Conexion Mitologica"
 aliases:
  - "Conexion_mitologica"
 en_construccion: true

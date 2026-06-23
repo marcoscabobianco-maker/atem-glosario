@@ -1,4 +1,5 @@
 ---
+title: "Alberto (Marinero)"
 categoria: personaje
 tags:
  - "paris-ucronica"

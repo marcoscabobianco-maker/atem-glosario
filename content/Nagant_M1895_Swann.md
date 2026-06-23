@@ -1,4 +1,5 @@
 ---
+title: "Nagant M1895 (Swann)"
 categoria: lugar
 tags:
  - "paris-ucronica"

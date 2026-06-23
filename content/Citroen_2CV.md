@@ -1,4 +1,5 @@
 ---
+title: "Citroën 2CV (robado)"
 título: "Citroën 2CV (robado)"
 slug: Citroen_2CV
 categoria: objeto

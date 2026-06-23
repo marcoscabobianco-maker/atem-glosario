@@ -1,4 +1,5 @@
 ---
+title: "Wicktrimmer"
 título: "Wicktrimmer — líder de la Hermandad Benévola"
 slug: Wicktrimmer
 aliases:

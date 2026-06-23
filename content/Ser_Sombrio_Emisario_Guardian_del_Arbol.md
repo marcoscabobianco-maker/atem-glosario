@@ -1,4 +1,5 @@
 ---
+title: "Ser Sombrío / Emisario / Guardián del Árbol"
 aliases:
  - "Ser Sombrío / Emisario / Guardián del Árbol"
  - "Ser Sombrío"

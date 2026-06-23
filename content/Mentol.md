@@ -1,4 +1,5 @@
 ---
+title: "Mentol"
 aliases:
  - "Mentol"
 en_construccion: true

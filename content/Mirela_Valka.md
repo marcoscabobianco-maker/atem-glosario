@@ -1,4 +1,5 @@
 ---
+title: "Mirela Valka"
 título: "Mirela Valka"
 slug: Mirela_Valka
 categoria: personaje

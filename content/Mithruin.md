@@ -1,4 +1,5 @@
 ---
+title: "Mithruin"
 aliases:
  - "Mithruin"
 en_construccion: true

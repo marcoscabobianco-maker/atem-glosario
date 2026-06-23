@@ -1,4 +1,5 @@
 ---
+title: "El espejo de latón gálico"
 título: "El espejo de latón gálico"
 slug: Espejo_de_laton_galico
 categoria: objeto

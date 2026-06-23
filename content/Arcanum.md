@@ -1,4 +1,5 @@
 ---
+title: "Arcanum"
 título: "Arcanum (sustancia mágica primordial)"
 slug: Arcanum
 categoria: entidad

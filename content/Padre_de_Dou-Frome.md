@@ -1,4 +1,5 @@
 ---
+title: "Padre De Dou-Frome"
 aliases:
  - "Padre_de_Dou-Frome"
 en_construccion: true

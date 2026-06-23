@@ -1,4 +1,5 @@
 ---
+title: "El Rey Amarillo"
 título: "El Rey Amarillo"
 slug: Rey_Amarillo_King_in_Yellow
 aliases:

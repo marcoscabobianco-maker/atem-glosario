@@ -1,4 +1,5 @@
 ---
+title: "PILARES"
 categoria: lugar
 tags:
  - "cdi"

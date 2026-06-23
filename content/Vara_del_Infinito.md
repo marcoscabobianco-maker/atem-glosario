@@ -1,4 +1,5 @@
 ---
+title: "Vara del Infinito"
 título: "Vara del Infinito"
 slug: Vara_del_Infinito
 categoria: artefacto

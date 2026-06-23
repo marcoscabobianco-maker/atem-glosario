@@ -1,4 +1,5 @@
 ---
+title: "Entierro de Alexio"
 categoria: lugar
 aliases:
  - "Entierro de Alexio"

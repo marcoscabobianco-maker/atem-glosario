@@ -1,4 +1,5 @@
 ---
+title: "Baphomet & Culto Demoníaco"
 categoria: lugar
 aliases:
  - "Baphomet & Culto Demoníaco"

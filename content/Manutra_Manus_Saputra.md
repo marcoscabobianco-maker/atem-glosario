@@ -1,4 +1,5 @@
 ---
+title: "Manutra / Manus Saputra"
 categoria: entidad
 tags:
  - "paris-ucronica"

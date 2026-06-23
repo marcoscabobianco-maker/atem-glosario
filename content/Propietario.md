@@ -1,4 +1,5 @@
 ---
+title: "Propietario"
 aliases:
  - "Propietario"
 referenciado_por: 3

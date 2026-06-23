@@ -1,4 +1,5 @@
 ---
+title: "El Bazar de la Vida"
 título: "El Bazar de la Vida — la red de trata bajo Caldero"
 slug: Bazar_de_la_Vida
 aliases:

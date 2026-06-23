@@ -1,4 +1,5 @@
 ---
+title: "Príncipe Debo"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Príncipe Debo", "Devo"]

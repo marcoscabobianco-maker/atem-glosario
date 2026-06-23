@@ -1,4 +1,5 @@
 ---
+title: "Su-Zoro"
 aliases:
  - "Su-Zoro"
 en_construccion: true

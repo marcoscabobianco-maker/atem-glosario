@@ -1,4 +1,5 @@
 ---
+title: "Gnomo Judío"
 categoria: personaje
 tags:
  - "paris-ucronica"

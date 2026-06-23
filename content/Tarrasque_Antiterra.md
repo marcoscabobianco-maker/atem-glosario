@@ -1,4 +1,5 @@
 ---
+title: "Tarrasque"
 título: "Tarrasque"
 slug: Tarrasque_Antiterra
 categoria: criatura

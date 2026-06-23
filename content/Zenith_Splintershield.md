@@ -1,4 +1,5 @@
 ---
+title: "Zenith Splintershield"
 tags:
  - "caldero"
 aliases:

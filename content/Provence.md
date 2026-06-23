@@ -1,4 +1,5 @@
 ---
+title: "Provence"
 categoria: lugar
 tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Provenza", "Provincia"]

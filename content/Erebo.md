@@ -1,4 +1,5 @@
 ---
+title: "Erebo"
 aliases:
  - "Erebo"
 en_construccion: true

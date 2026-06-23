@@ -1,4 +1,5 @@
 ---
+title: "Sir Glastum"
 título: "Sir Glastum, alcaide de la Fortaleza Azur"
 slug: Sir_Glastum
 aliases:

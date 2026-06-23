@@ -1,4 +1,5 @@
 ---
+title: "Iglesia Sortiana"
 aliases:
  - "Iglesia_Sortiana"
 en_construccion: true

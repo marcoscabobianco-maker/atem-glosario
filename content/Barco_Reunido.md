@@ -1,4 +1,5 @@
 ---
+title: "Barco Reunido"
 aliases:
  - "Barco_Reunido"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Efectos"
 aliases:
  - "Efectos"
 en_construccion: true

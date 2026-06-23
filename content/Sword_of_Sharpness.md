@@ -1,4 +1,5 @@
 ---
+title: "Sword of Sharpness"
 aliases:
  - "Sword of Sharpness"
 ---

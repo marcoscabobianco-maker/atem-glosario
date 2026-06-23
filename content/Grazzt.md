@@ -1,4 +1,5 @@
 ---
+title: "Graz'zt"
 título: "Graz'zt"
 slug: Grazzt
 aliases:

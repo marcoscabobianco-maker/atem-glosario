@@ -1,4 +1,5 @@
 ---
+title: "Cadenas del Pacto de Sujeción y Dominación"
 categoria: artefacto
 tags:
  - "corona-del-norte"

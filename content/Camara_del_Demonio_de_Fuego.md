@@ -1,4 +1,5 @@
 ---
+title: "Cámara del Demonio de Fuego"
 categoria: lugar
 aliases:
  - "Cámara del Demonio de Fuego"

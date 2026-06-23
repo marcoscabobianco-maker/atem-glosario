@@ -1,4 +1,5 @@
 ---
+title: "Asesino Serial"
 aliases:
  - "Asesino_Serial"
 en_construccion: true

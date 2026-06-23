@@ -1,4 +1,5 @@
 ---
+title: "Implosion"
 aliases:
  - "Implosion"
 en_construccion: true

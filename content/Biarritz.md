@@ -1,4 +1,5 @@
 ---
+title: "Biarritz"
 aliases:
  - "Biarritz"
 en_construccion: true

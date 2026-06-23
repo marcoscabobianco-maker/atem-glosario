@@ -1,4 +1,5 @@
 ---
+title: "Bazaar de San Dragón"
 título: "Bazaar de San Dragón"
 slug: Bazaar_de_San_Dragon
 categoria: lugar

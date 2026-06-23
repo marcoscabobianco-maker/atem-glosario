@@ -1,4 +1,5 @@
 ---
+title: "Laberinto de Teba"
 categoria: lugar
 aliases:
  - "EL LABERINTO DE TEBA (también: \"Laberinto de Teseo\")"

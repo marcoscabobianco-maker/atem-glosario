@@ -1,4 +1,5 @@
 ---
+title: "La Espada de Juicio"
 título: "La Espada de Juicio — arma de la Giganta Antigua"
 slug: Espada_de_Juicio
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Taller de Rol, el"
 categoria: evento
 tags:
  - "evento"

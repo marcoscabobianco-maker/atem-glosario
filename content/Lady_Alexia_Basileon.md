@@ -1,4 +1,5 @@
 ---
+title: "Lady Alexia Basileon — la Dama Verde"
 título: "Lady Alexia Basileon — la Dama Verde"
 slug: Lady_Alexia_Basileon
 aliases:

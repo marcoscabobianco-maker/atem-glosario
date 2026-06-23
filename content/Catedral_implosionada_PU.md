@@ -1,4 +1,5 @@
 ---
+title: "Catedral Implosionada PU"
 aliases:
  - "Catedral implosionada"
  - "Catedral_implosionada_PU"

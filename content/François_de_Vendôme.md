@@ -1,4 +1,5 @@
 ---
+title: "François de Vendôme"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["François de Vendôme", "Duc de Beaufort", "Duque de Beaufort"]

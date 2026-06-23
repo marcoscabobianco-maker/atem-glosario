@@ -1,4 +1,5 @@
 ---
+title: "André La Forge"
 categoria: personaje
 tags:
  - "paris-ucronica"

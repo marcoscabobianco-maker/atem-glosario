@@ -1,4 +1,5 @@
 ---
+title: "Exilio De Brux"
 aliases:
  - "Exilio_de_Brux"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Minborgen — el enano de las hachas"
 título: "Minborgen — el enano de las hachas"
 slug: Minborgen
 aliases:

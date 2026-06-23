@@ -1,4 +1,5 @@
 ---
+title: "Templo y Lugar de los Justos"
 título: "Templo y Lugar de los Justos"
 slug: Templo_Lugar_de_los_Justos
 categoria: lugar

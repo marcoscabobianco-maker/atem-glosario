@@ -1,4 +1,5 @@
 ---
+title: "Labresu"
 título: "Labresu (criatura del deseo)"
 slug: Labresu
 categoria: entidad

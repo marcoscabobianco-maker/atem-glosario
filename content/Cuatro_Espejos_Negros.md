@@ -1,4 +1,5 @@
 ---
+title: "Cuatro Espejos Negros"
 título: "Cuatro Espejos Negros"
 slug: Cuatro_Espejos_Negros
 categoria: criatura

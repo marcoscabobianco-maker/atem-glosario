@@ -1,4 +1,5 @@
 ---
+title: "Torres del Castillo del Prisma"
 tags:
  - "cdi"
 aliases:

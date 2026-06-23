@@ -1,4 +1,5 @@
 ---
+title: "En CDI"
 aliases:
  - "En"
  - "En_CDI"

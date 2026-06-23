@@ -1,4 +1,5 @@
 ---
+title: "Vrock Gran Khan"
 aliases:
  - "Vrock Gran Khan"
 ---

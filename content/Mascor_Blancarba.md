@@ -1,4 +1,5 @@
 ---
+title: "Mascor Blancarba"
 título: "Mascor Blancarba — el bardo cronista itinerante"
 slug: Mascor_Blancarba
 aliases:

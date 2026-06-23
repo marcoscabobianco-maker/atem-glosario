@@ -1,4 +1,5 @@
 ---
+title: "Corte Oasis"
 aliases:
  - "Corte_oasis"
 en_construccion: true

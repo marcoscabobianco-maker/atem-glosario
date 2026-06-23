@@ -1,4 +1,5 @@
 ---
+title: "Alineamiento Nuevo"
 aliases:
  - "Alineamiento_nuevo"
 en_construccion: true

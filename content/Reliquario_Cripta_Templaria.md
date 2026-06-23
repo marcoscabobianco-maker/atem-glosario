@@ -1,4 +1,5 @@
 ---
+title: "Reliquario Cripta Templaria"
 aliases:
  - "Reliquario Cripta Templaria"
 ---

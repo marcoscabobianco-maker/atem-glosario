@@ -1,4 +1,5 @@
 ---
+title: "Cleopatra / Semíramis"
 categoria: personaje
 aliases:
  - "Cleopatra / Semíramis"

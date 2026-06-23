@@ -1,4 +1,5 @@
 ---
+title: "Bertrand"
 título: "Bertrand — el cazador maldito de la linterna"
 slug: Bertrand
 aliases:

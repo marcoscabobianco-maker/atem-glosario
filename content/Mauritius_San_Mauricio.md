@@ -1,4 +1,5 @@
 ---
+title: "Mauritius / San Mauricio"
 categoria: personaje
 tags:
  - "personaje"

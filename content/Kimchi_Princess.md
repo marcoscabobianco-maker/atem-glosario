@@ -1,4 +1,5 @@
 ---
+title: "Kimchi Princess"
 aliases:
  - "Princesa Kimchi"
  - "Kimchi"

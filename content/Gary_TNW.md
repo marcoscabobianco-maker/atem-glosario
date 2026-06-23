@@ -1,4 +1,5 @@
 ---
+title: "Gary TNW (campaña)"
 título: "Gary TNW (campaña)"
 slug: Gary_TNW
 categoria: campaña

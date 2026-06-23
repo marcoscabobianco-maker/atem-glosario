@@ -1,4 +1,5 @@
 ---
+title: "Nycols O'Cush"
 categoria: personaje
 aliases:
  - "Nycols O'Cush"

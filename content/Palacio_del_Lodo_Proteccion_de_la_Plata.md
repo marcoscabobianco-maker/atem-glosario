@@ -1,4 +1,5 @@
 ---
+title: "Palacio del Lodo / Protección de la Plata"
 categoria: lugar
 tags:
  - "lugar"

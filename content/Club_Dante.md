@@ -1,4 +1,5 @@
 ---
+title: "Club Dante"
 categoria: lugar
 tags:
  - "cdi"

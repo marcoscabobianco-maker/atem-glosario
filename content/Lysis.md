@@ -1,4 +1,5 @@
 ---
+title: "Lysis"
 aliases:
  - "Lysis"
 en_construccion: true

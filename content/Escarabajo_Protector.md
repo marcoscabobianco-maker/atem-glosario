@@ -1,4 +1,5 @@
 ---
+title: "Escarabajo Protector"
 categoria: artefacto
 tags:
  - "paris-ucronica"

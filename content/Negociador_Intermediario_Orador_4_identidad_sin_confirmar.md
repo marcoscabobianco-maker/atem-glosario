@@ -1,4 +1,5 @@
 ---
+title: "Negociador / Intermediario del Descenso"
 tags:
  - "cdi"
 aliases:

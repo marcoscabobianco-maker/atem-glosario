@@ -1,4 +1,5 @@
 ---
+title: "Cristalización Temporal"
 título: "Cristalización Temporal"
 slug: Cristalizacion_Temporal
 categoria: concepto

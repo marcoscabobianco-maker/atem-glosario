@@ -1,4 +1,5 @@
 ---
+title: "Merma (Concepto espiritual)"
 categoria: concepto
 tags:
  - "concepto"

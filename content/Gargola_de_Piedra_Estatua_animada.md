@@ -1,4 +1,5 @@
 ---
+title: "Gárgola de Piedra (Estatua animada)"
 categoria: personaje
 aliases:
  - "Gárgola de Piedra (Estatua animada)"

@@ -1,4 +1,5 @@
 ---
+title: "Balor"
 aliases:
  - "Balor"
 ---

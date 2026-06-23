@@ -1,4 +1,5 @@
 ---
+title: "Conexion Critica"
 aliases:
  - "Conexion_critica"
 en_construccion: true

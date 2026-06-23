@@ -1,4 +1,5 @@
 ---
+title: "Pharmakon"
 aliases:
  - "Pharmakon"
 en_construccion: true

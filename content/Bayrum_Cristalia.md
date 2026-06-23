@@ -1,4 +1,5 @@
 ---
+title: "Bayrum Quar'amon Cristalia"
 título: "Bayrum Quar'amon Cristalia"
 slug: Bayrum_Cristalia
 aliases:

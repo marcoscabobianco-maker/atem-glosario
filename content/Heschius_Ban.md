@@ -1,4 +1,5 @@
 ---
+title: "Heschius Ban"
 aliases:
  - "Heschius_Ban"
 en_construccion: true

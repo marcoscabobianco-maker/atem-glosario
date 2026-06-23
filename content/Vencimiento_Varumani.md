@@ -1,4 +1,5 @@
 ---
+title: "El Vencimiento de los Varumani"
 título: "El Vencimiento de los Varumani"
 slug: Vencimiento_Varumani
 categoria: evento

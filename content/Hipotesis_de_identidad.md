@@ -1,4 +1,5 @@
 ---
+title: "Hipotesis De Identidad"
 aliases:
  - "Hipotesis_de_identidad"
 en_construccion: true

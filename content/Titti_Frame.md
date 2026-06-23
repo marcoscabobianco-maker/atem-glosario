@@ -1,4 +1,5 @@
 ---
+title: "Bellísima y Fría Tittiframe"
 título: "Bellísima y Fría Tittiframe — la dama de las Torres Gemelas"
 slug: Titti_Frame
 aliases:

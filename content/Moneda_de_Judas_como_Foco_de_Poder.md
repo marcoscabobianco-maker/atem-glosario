@@ -1,4 +1,5 @@
 ---
+title: "Moneda de Judas como Foco de Poder"
 categoria: lugar
 aliases:
  - "Moneda de Judas como Foco de Poder"

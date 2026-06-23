@@ -1,4 +1,5 @@
 ---
+title: "Los Jinetes de la Tormenta"
 título: "Los Jinetes de la Tormenta"
 slug: Ginetes_de_la_Tormenta_Storm_Riders
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Artefacto, el"
 categoria: artefacto
 tags:
  - "objeto"

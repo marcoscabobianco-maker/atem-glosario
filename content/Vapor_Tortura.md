@@ -1,4 +1,5 @@
 ---
+title: "Vapor Tortura"
 aliases:
  - "Vapor Tortura"
 ---

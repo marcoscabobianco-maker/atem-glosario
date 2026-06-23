@@ -1,4 +1,5 @@
 ---
+title: "Jorge Moreno"
 título: "Jorge Moreno — el capanga de la estancia de Bellocq"
 slug: Jorge_Moreno
 categoria: personaje

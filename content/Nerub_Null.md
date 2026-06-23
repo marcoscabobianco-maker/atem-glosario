@@ -1,4 +1,5 @@
 ---
+title: "Nerub Null"
 título: "Nerub Null (archmage Priscian)"
 slug: Nerub_Null
 categoria: personaje

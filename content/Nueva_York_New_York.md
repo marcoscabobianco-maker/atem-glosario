@@ -1,4 +1,5 @@
 ---
+title: "Nueva York / New York"
 categoria: lugar
 tags:
  - "lugar"

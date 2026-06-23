@@ -1,4 +1,5 @@
 ---
+title: "Mecanismo temporal"
 categoria: lugar
 aliases:
  - "Mecanismo temporal"

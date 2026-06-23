@@ -1,4 +1,5 @@
 ---
+title: "Barbatos"
 título: "Barbatos"
 slug: Barbatos
 categoria: personaje

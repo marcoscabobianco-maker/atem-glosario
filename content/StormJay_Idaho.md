@@ -1,4 +1,5 @@
 ---
+title: "StormJay Idaho"
 tags:
  - "corona-del-norte"
  - "shoshon"

@@ -1,4 +1,5 @@
 ---
+title: "Chicana"
 aliases:
  - "Chicana"
 en_construccion: true

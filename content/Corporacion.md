@@ -1,4 +1,5 @@
 ---
+title: "Corporacion"
 aliases:
  - "Corporacion"
 en_construccion: true

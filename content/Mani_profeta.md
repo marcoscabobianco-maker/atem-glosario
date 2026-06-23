@@ -1,4 +1,5 @@
 ---
+title: "Mani Profeta"
 aliases:
  - "Mani_profeta"
 en_construccion: true

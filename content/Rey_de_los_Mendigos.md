@@ -1,4 +1,5 @@
 ---
+title: "Rey de los Mendigos"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Rey de los Mendigos", "El Rey de los Mendigos"]

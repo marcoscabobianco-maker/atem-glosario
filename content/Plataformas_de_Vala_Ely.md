@@ -1,4 +1,5 @@
 ---
+title: "Las Plataformas de Vala-Ely"
 título: "Las Plataformas de Vala-Ely — el nodo primigenio del mundo-gema"
 slug: Plataformas_de_Vala_Ely
 aliases:

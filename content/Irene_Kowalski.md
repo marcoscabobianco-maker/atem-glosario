@@ -1,4 +1,5 @@
 ---
+title: "Irene Kowalski"
 título: "Irene Kowalski — la investigadora polaca que volvió del norte"
 slug: Irene_Kowalski
 categoria: personaje

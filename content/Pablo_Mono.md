@@ -1,4 +1,5 @@
 ---
+title: "Pablo Mono"
 categoria: personaje
 tags:
  - "personaje"

@@ -1,4 +1,5 @@
 ---
+title: "Ernesto «el Pupe» Echegoyen"
 título: "Ernesto «el Pupe» Echegoyen — el estanciero de Bellocq, protector de métodos turbios"
 slug: Ernesto_Echegoyen
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "Cristo León"
 título: "Cristo León"
 slug: Cristo_Leon
 categoria: personaje

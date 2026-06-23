@@ -1,4 +1,5 @@
 ---
+title: "Relacion Cosmica"
 aliases:
  - "Relacion_cosmica"
 en_construccion: true

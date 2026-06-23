@@ -1,4 +1,5 @@
 ---
+title: "Joe Garfield"
 categoria: personaje
 tags:
  - "personaje"

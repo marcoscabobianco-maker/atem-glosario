@@ -1,4 +1,5 @@
 ---
+title: "Jinetes Del Apocalipsis"
 aliases:
  - "Jinetes_del_Apocalipsis"
 en_construccion: true

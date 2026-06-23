@@ -1,4 +1,5 @@
 ---
+title: "Los Torcos"
 título: "Los Torcos"
 slug: Torcos
 aliases:

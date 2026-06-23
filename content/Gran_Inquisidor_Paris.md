@@ -1,4 +1,5 @@
 ---
+title: "Gran Inquisidor Paris"
 aliases:
  - "Gran Inquisidor Paris"
 ---

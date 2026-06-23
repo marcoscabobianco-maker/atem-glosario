@@ -1,4 +1,5 @@
 ---
+title: "Bastilla uchronica"
 aliases:
  - "Bastilla uchronica"
 ---

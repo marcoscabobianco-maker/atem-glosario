@@ -1,4 +1,5 @@
 ---
+title: "Flamenco"
 aliases:
  - "Flamenco"
 en_construccion: true

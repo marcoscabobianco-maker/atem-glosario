@@ -1,4 +1,5 @@
 ---
+title: "Latino Cravits (TG)"
 categoria: personaje
 tags:
  - "personaje"

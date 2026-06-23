@@ -1,4 +1,5 @@
 ---
+title: "Activacion Anterior"
 aliases:
  - "Activacion_anterior"
 en_construccion: true

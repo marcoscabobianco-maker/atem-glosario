@@ -1,4 +1,5 @@
 ---
+title: "Psicometría (Lectura de Objetos)"
 categoria: lugar
 aliases:
  - "Psicometría (Lectura de Objetos)"

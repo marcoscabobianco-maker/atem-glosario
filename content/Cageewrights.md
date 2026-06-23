@@ -1,4 +1,5 @@
 ---
+title: "Los Cageewrights"
 título: "Los Cageewrights — los fabricantes de jaulas"
 slug: Cageewrights
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Letham (Rey de Soma)"
 tags:
  - "cdi"
 aliases:

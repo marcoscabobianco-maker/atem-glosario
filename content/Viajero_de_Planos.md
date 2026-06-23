@@ -1,4 +1,5 @@
 ---
+title: "Viajero de Planos"
 aliases:
  - "Nuevo compañero (post-sacrificio)"
  - "Nuevo compañero"

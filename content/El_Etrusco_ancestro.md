@@ -1,4 +1,5 @@
 ---
+title: "El Etrusco Ancestro"
 aliases:
  - "El_Etrusco_ancestro"
 en_construccion: true

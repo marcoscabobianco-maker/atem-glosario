@@ -1,4 +1,5 @@
 ---
+title: "Mitra"
 título: "Mitra — dios solar de juramento y redención"
 slug: Mitra
 aliases:

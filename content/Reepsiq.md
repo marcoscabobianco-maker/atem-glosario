@@ -1,4 +1,5 @@
 ---
+title: "Reepsiq, el Great Tongue"
 título: "Reepsiq, el Great Tongue"
 slug: Reepsiq
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "El Devorador"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["El Devorador"]

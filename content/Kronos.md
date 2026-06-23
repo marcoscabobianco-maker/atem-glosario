@@ -1,4 +1,5 @@
 ---
+title: "Kronos"
 aliases:
  - "Kronos"
 en_construccion: true

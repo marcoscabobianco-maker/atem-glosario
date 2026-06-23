@@ -1,4 +1,5 @@
 ---
+title: "Arana"
 aliases:
  - "Arana"
 en_construccion: true

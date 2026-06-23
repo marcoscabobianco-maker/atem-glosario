@@ -1,4 +1,5 @@
 ---
+title: "Pablo y Miranda novela"
 aliases:
  - "Pablo y Miranda novela"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Pont de Tuileries"
 categoria: lugar
 tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Pont de Tuileries", "Puente de Tuileries"]

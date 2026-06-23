@@ -1,4 +1,5 @@
 ---
+title: "El niño que Valanthru adoptó"
 título: "El niño que Valanthru adoptó"
 slug: Nino_de_Valanthru
 aliases:

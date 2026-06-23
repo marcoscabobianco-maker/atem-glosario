@@ -1,4 +1,5 @@
 ---
+title: "Palacio del Prisma"
 título: "Palacio del Prisma"
 slug: Palacio_del_Prisma
 aliases:

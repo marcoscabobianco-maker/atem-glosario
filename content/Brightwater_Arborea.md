@@ -1,4 +1,5 @@
 ---
+title: "Brightwater Arborea"
 # === Identidad ===
 slug: Brightwater_Arborea
 canonical_name: "Brightwater Arborea"

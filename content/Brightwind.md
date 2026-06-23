@@ -1,4 +1,5 @@
 ---
+title: "Brightwind"
 título: "Brightwind"
 slug: Brightwind
 categoria: criatura

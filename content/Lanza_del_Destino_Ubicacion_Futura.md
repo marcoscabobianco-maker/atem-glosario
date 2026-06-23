@@ -1,4 +1,5 @@
 ---
+title: "Lanza del Destino (Ubicación Futura)"
 categoria: lugar
 aliases:
  - "Lanza del Destino (Ubicación Futura)"

@@ -1,4 +1,5 @@
 ---
+title: "Transmutación / Curación Mágica mediante bola de fuego"
 categoria: personaje
 aliases:
  - "Transmutación / Curación Mágica mediante bola de fuego"

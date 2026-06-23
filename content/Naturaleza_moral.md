@@ -1,4 +1,5 @@
 ---
+title: "Naturaleza Moral"
 aliases:
  - "Naturaleza_moral"
 en_construccion: true

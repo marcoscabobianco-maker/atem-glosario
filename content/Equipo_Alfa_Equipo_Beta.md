@@ -1,4 +1,5 @@
 ---
+title: "Equipo Alfa / Equipo Beta"
 tags:
  - "grupo"
  - "mediterraneum"

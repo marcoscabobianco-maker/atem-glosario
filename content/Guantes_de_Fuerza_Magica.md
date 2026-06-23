@@ -1,4 +1,5 @@
 ---
+title: "Guantes de Fuerza Mágica"
 categoria: lugar
 aliases:
  - "Guantes de Fuerza Mágica"

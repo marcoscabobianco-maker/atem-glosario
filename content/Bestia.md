@@ -1,4 +1,5 @@
 ---
+title: "Bestia"
 aliases:
  - "Bestia"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Mani Apurvecondita"
 aliases:
  - "Mani_Apurvecondita"
 en_construccion: true

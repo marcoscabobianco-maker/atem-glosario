@@ -1,4 +1,5 @@
 ---
+title: "Baphomet"
 aliases:
  - "Baphomet"
 en_construccion: true

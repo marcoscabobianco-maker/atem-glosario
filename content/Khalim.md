@@ -1,4 +1,5 @@
 ---
+title: "Khalim"
 título: "Khalim"
 slug: Khalim
 imagen: "Imagenes_Tier1/Khalim_CI.png"

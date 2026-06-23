@@ -1,4 +1,5 @@
 ---
+title: "Salem"
 categoria: lugar
 aliases:
  - "Salem"

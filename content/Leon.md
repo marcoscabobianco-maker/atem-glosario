@@ -1,4 +1,5 @@
 ---
+title: "Leon"
 aliases:
  - "Leon"
 en_construccion: true

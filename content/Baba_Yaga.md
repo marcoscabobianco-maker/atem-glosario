@@ -1,4 +1,5 @@
 ---
+title: "Baba Yaga"
 aliases:
  - "Baba_Yaga"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Aby Warburg R"
 aliases:
  - "Aby_Warburg_R"
 en_construccion: true

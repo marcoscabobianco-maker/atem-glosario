@@ -1,4 +1,5 @@
 ---
+title: "Basílica del Sagrado Corazón (Barracas)"
 título: "Basílica del Sagrado Corazón (Barracas) — el templo sobre el arsenal"
 slug: Basilica_del_Sagrado_Corazon_Barracas
 categoria: lugar

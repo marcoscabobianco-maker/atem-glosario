@@ -1,4 +1,5 @@
 ---
+title: "Emisarios de Pomola (Grupo Principal)"
 categoria: grupo
 tags:
  - "corona-del-norte"

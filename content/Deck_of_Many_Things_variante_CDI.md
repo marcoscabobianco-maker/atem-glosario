@@ -1,4 +1,5 @@
 ---
+title: "Deck of Many Things (variante CDI)"
 categoria: lugar
 tags:
  - "cdi"

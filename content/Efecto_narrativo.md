@@ -1,4 +1,5 @@
 ---
+title: "Efecto Narrativo"
 aliases:
  - "Efecto_narrativo"
 en_construccion: true

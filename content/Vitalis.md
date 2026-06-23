@@ -1,4 +1,5 @@
 ---
+title: "Vitalis"
 título: "Vitalis — hijo de Thalia Cristalia y Taylor, el Hechicero del Río Blackwater"
 slug: Vitalis
 aliases:

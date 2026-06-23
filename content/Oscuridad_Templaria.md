@@ -1,4 +1,5 @@
 ---
+title: "La Oscuridad Templaria"
 título: "La Oscuridad Templaria"
 slug: Oscuridad_Templaria
 aliases:

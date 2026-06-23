@@ -1,4 +1,5 @@
 ---
+title: "Reina Goblin"
 aliases:
  - "Queen Goblin"
  - "Goblin"

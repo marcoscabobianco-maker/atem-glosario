@@ -1,4 +1,5 @@
 ---
+title: "Palia"
 categoria: lugar
 tags:
  - "lugar"

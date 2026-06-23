@@ -1,4 +1,5 @@
 ---
+title: "Reina de las Nieves (TG)"
 categoria: personaje
 tags:
  - "personaje"

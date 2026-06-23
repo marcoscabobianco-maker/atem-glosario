@@ -1,4 +1,5 @@
 ---
+title: "Maristo condenado"
 título: "Maristo condenado — la faceta infernal del Edecán"
 slug: Maristo_condenado
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "El Fabuloso"
 título: "El Fabuloso"
 slug: El_Fabuloso
 imagen: "Imagenes_Tier1/El_Fabuloso.png"

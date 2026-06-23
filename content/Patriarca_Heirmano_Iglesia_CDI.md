@@ -1,4 +1,5 @@
 ---
+title: "Patriarca Heirmano ↔ Iglesia CDI"
 categoria: personaje
 aliases:
  - "Patriarca Heirmano ↔ Iglesia CDI"

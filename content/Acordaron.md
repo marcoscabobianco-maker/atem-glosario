@@ -1,4 +1,5 @@
 ---
+title: "Acordaron"
 aliases:
  - "Acordaron"
 en_construccion: true

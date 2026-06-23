@@ -1,4 +1,5 @@
 ---
+title: "Obsidian Gates & Midnight Road"
 título: "Obsidian Gates & Midnight Road"
 slug: Obsidian_Gates_Midnight_Road
 categoria: lugar

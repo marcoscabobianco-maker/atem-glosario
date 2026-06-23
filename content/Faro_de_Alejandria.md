@@ -1,4 +1,5 @@
 ---
+title: "Faro De Alejandria"
 aliases:
  - "Faro_de_Alejandria"
 en_construccion: true

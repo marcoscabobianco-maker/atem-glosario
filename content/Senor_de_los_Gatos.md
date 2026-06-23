@@ -1,4 +1,5 @@
 ---
+title: "Senor De Los Gatos"
 aliases:
  - "Senor_de_los_Gatos"
 en_construccion: true

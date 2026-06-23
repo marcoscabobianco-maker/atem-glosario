@@ -1,4 +1,5 @@
 ---
+title: "Jaromir"
 título: "Jaromir — el niño clave del orfanato"
 slug: Jaromir
 aliases:

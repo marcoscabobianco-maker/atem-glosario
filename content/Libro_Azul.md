@@ -1,4 +1,5 @@
 ---
+title: "El Libro Azul"
 título: "El Libro Azul"
 slug: Libro_Azul
 aliases:

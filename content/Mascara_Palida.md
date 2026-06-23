@@ -1,4 +1,5 @@
 ---
+title: "Mascara Palida"
 aliases:
  - "Mascara_Palida"
 en_construccion: true

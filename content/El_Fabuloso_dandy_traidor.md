@@ -1,4 +1,5 @@
 ---
+title: "El Fabuloso dandy traidor"
 categoria: personaje
 aliases:
  - "El Fabuloso dandy traidor"

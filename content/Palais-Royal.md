@@ -1,4 +1,5 @@
 ---
+title: "Palais-Royal"
 categoria: lugar
 tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Palais-Royal"]

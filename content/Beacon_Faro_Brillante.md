@@ -1,4 +1,5 @@
 ---
+title: "Beacon / Faro Brillante"
 título: "Beacon / Faro Brillante"
 slug: Beacon_Faro_Brillante
 categoria: artefacto

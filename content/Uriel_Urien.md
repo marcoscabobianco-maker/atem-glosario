@@ -1,4 +1,5 @@
 ---
+title: "Uriel"
 título: "Uriel — el pacifista de imprenta de la Logia Anael"
 slug: Uriel_Urien
 categoria: personaje

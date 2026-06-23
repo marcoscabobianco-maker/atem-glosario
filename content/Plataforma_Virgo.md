@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Virgo"
 título: "Plataforma de Virgo"
 slug: Plataforma_Virgo
 aliases:

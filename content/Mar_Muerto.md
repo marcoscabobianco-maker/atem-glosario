@@ -1,4 +1,5 @@
 ---
+title: "Mar Muerto"
 aliases:
  - "Mar_Muerto"
 en_construccion: true

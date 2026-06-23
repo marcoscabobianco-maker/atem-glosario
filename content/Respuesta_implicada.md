@@ -1,4 +1,5 @@
 ---
+title: "Respuesta Implicada"
 aliases:
  - "Respuesta_implicada"
 en_construccion: true

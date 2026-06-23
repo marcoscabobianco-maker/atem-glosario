@@ -1,4 +1,5 @@
 ---
+title: "Cronoboys"
 título: "Cronoboys"
 slug: Cronoboys
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Homo Ludens Huizinga"
 aliases:
  - "Homo_Ludens_Huizinga"
 en_construccion: true

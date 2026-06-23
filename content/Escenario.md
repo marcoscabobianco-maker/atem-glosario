@@ -1,4 +1,5 @@
 ---
+title: "Escenario"
 aliases:
  - "Escenario"
 en_construccion: true

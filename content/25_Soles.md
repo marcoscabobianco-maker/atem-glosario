@@ -1,4 +1,5 @@
 ---
+title: "25 Soles"
 aliases:
  - "25_Soles"
 en_construccion: true

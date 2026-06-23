@@ -1,4 +1,5 @@
 ---
+title: "Corporación de las Sombras"
 categoria: grupo
 tags:
  - "facción"

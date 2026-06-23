@@ -1,4 +1,5 @@
 ---
+title: "Halflings de Plumthorn"
 título: "Halflings de Plumthorn"
 slug: Halflings_Plumthorn
 categoria: facción

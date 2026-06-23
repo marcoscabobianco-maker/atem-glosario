@@ -1,4 +1,5 @@
 ---
+title: "Plataformas Zodiacales — sistema cósmico de guardianes"
 título: "Plataformas Zodiacales — sistema cósmico de guardianes"
 slug: Plataformas_Zodiacales_Sistema_de_Guardianes
 aliases:

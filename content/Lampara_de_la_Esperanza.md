@@ -1,4 +1,5 @@
 ---
+title: "Lampara De La Esperanza"
 aliases:
  - "Lampara_de_la_Esperanza"
 en_construccion: true

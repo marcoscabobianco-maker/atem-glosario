@@ -1,4 +1,5 @@
 ---
+title: "El Encadenado / Quitón (Demonio Maestro)"
 tags:
  - "mediterraneum"
  - "demonio"

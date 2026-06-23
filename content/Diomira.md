@@ -1,4 +1,5 @@
 ---
+title: "Diomira"
 aliases:
  - "Diomira"
 ---

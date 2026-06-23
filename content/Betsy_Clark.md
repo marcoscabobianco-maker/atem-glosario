@@ -1,4 +1,5 @@
 ---
+title: "Betsy Clark"
 categoria: personaje
 tags:
  - "personaje"

@@ -1,4 +1,5 @@
 ---
+title: "Sistema de Monedas de París Ucrónica"
 categoria: concepto
 tags:
  - "paris-ucronica"

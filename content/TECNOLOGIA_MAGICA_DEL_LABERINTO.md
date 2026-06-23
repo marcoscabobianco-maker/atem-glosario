@@ -1,4 +1,5 @@
 ---
+title: "TECNOLOGÍA MÁGICA DEL LABERINTO"
 categoria: lugar
 aliases:
  - "TECNOLOGÍA MÁGICA DEL LABERINTO"

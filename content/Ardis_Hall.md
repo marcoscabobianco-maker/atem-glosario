@@ -1,4 +1,5 @@
 ---
+title: "Ardis Hall"
 aliases:
  - "Ardis_Hall"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Thomas Cole"
 categoria: personaje
 tags:
  - "paris-ucronica"

@@ -1,4 +1,5 @@
 ---
+title: "Eyjatas"
 aliases:
  - "Eyjatas"
 en_construccion: true

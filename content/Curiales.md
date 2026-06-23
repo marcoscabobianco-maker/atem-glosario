@@ -1,4 +1,5 @@
 ---
+title: "Curiales"
 aliases:
  - "Curiales"
 en_construccion: true

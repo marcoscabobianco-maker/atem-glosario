@@ -1,4 +1,5 @@
 ---
+title: "Oborus"
 aliases:
  - "Oborus"
 en_construccion: true

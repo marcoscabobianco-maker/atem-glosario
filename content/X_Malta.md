@@ -1,4 +1,5 @@
 ---
+title: "X Malta"
 aliases:
  - "X_Malta"
 en_construccion: true

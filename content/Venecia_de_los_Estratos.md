@@ -1,4 +1,5 @@
 ---
+title: "Venecia de los Estratos — cuaderno C63"
 título: "Venecia de los Estratos — cuaderno C63"
 slug: Venecia_de_los_Estratos
 aliases:

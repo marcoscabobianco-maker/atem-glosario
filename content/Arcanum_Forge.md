@@ -1,4 +1,5 @@
 ---
+title: "Arcanum Forge"
 título: "Arcanum Forge (Forja del Arcanum)"
 slug: Arcanum_Forge
 categoria: lugar

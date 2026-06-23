@@ -1,4 +1,5 @@
 ---
+title: "Implicacion Critica"
 aliases:
  - "Implicacion_critica"
 en_construccion: true

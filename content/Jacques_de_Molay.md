@@ -1,4 +1,5 @@
 ---
+title: "Jacques de Molay"
 título: "Jacques de Molay"
 slug: Jacques_de_Molay
 aliases:

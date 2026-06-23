@@ -1,4 +1,5 @@
 ---
+title: "La Triple A — el comisario-brujo"
 título: "La Triple A — el comisario-brujo que recluta en el sueño (1975)"
 slug: Triple_A
 categoria: facción

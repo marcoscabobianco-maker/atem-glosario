@@ -1,4 +1,5 @@
 ---
+title: "Estrella de la Mañana"
 tags:
  - "antiterra"
  - "lider-obrero"

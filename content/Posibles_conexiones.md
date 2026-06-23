@@ -1,4 +1,5 @@
 ---
+title: "Posibles Conexiones"
 aliases:
  - "Posibles_conexiones"
 en_construccion: true

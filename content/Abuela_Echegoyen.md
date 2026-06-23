@@ -1,4 +1,5 @@
 ---
+title: "Abuela Echegoyen"
 título: "Abuela Echegoyen — la vieja del Pupe, rehén desnuda de la cofradía"
 slug: Abuela_Echegoyen
 categoria: personaje

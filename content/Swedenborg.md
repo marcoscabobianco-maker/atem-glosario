@@ -1,4 +1,5 @@
 ---
+title: "Swedenborg"
 título: "Swedenborg"
 slug: Swedenborg
 aliases:

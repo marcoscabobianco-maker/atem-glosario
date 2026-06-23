@@ -1,4 +1,5 @@
 ---
+title: "Concilio Tribal — la noche del fuego"
 título: "Concilio Tribal — la noche del fuego"
 slug: Concilio_Tribal_NC
 aliases:

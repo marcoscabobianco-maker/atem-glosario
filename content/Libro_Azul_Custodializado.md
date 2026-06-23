@@ -1,4 +1,5 @@
 ---
+title: "Libro Azul (Custodializado)"
 categoria: lugar
 aliases:
  - "Libro Azul (Custodializado)"

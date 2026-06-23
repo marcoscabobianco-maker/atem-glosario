@@ -1,4 +1,5 @@
 ---
+title: "Dardo Cabo"
 categoria: personaje
 tags:
  - "personaje"

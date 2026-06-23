@@ -1,4 +1,5 @@
 ---
+title: "Sancta Sanctorum Combate"
 aliases:
  - "Sancta Sanctorum Combate"
 ---

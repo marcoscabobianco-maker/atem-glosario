@@ -1,4 +1,5 @@
 ---
+title: "Red Negra / Círculo Rojo"
 categoria: grupo
 tags:
  - "facción"

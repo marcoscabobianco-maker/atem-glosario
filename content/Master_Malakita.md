@@ -1,4 +1,5 @@
 ---
+title: "Master Malakita / Melok-Ri"
 título: "Master Malakita / Melok-Ri"
 slug: Master_Malakita
 aliases:

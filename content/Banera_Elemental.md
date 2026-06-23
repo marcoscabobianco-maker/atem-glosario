@@ -1,4 +1,5 @@
 ---
+title: "Bañera Elemental"
 título: "Bañera Elemental"
 slug: Banera_Elemental
 categoria: objeto

@@ -1,4 +1,5 @@
 ---
+title: "La Baphometa"
 título: "La Baphometa"
 slug: Baphometa
 aliases:

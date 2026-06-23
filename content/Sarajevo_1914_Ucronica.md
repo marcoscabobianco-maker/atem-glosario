@@ -1,4 +1,5 @@
 ---
+title: "Sarajevo, 28 de junio de 1914"
 título: "Sarajevo, 28 de junio de 1914"
 slug: Sarajevo_1914_Ucronica
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Sir Simonet"
 título: "Sir Simonet"
 slug: Sir_Simonet
 categoria: personaje

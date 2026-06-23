@@ -1,4 +1,5 @@
 ---
+title: "Misa Negra En Curso"
 aliases:
  - "Misa_Negra_en_curso"
 en_construccion: true

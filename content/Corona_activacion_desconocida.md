@@ -1,4 +1,5 @@
 ---
+title: "Corona (activación desconocida)"
 categoria: lugar
 tags:
  - "cdi"

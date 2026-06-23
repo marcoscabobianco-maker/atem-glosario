@@ -1,4 +1,5 @@
 ---
+title: "Tres Naciones Del Bosque NC"
 aliases:
  - "Tres Naciones del Bosque"
  - "Tres_Naciones_del_Bosque_NC"

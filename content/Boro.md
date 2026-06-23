@@ -1,4 +1,5 @@
 ---
+title: "Boro"
 categoria: artefacto
 tags:
  - "objeto"

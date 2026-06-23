@@ -1,4 +1,5 @@
 ---
+title: "Bengala Sucrónica / Bengala Sucrónica"
 título: "Bengala Sucrónica / Bengala Sucrónica"
 slug: Bengala_Sucronica_Bengala_Cronica
 aliases:

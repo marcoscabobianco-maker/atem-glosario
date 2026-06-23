@@ -1,4 +1,5 @@
 ---
+title: "Mercaderes Factoriales"
 título: "Mercaderes Factoriales — casas mercantes imperiales"
 slug: Mercaderes_Factoriales
 aliases:

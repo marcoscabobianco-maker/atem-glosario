@@ -1,4 +1,5 @@
 ---
+title: "St. Pierre Inn"
 categoria: lugar
 tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Posada Saint-Pierre", "Auberge Saint-Pierre"]

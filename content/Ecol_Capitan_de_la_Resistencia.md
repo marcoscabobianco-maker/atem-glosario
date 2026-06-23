@@ -1,4 +1,5 @@
 ---
+title: "Ecol (Capitán de la Resistencia)"
 categoria: lugar
 tags:
  - "cdi"

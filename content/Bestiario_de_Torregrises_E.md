@@ -1,4 +1,5 @@
 ---
+title: "Bestiario de Torregrises (E)"
 categoria: criatura
 tags:
  - "concepto"

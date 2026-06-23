@@ -1,4 +1,5 @@
 ---
+title: "Yathrebu"
 título: "Yathrebu — los pasadizos subterráneos de la Senda de Drakthar"
 slug: Yathrebu
 aliases:

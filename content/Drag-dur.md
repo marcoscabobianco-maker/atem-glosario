@@ -1,4 +1,5 @@
 ---
+title: "Drag-dur"
 aliases:
  - "Drag-dur"
 en_construccion: true

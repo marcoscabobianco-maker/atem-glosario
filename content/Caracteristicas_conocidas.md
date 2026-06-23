@@ -1,4 +1,5 @@
 ---
+title: "Caracteristicas Conocidas"
 aliases:
  - "Caracteristicas_conocidas"
 en_construccion: true

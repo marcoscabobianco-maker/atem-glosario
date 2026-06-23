@@ -1,4 +1,5 @@
 ---
+title: "Vera"
 aliases:
  - "Vera"
 en_construccion: true

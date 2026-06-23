@@ -1,4 +1,5 @@
 ---
+title: "Garra Talisman Auro"
 aliases:
  - "Garra Talisman Auro"
 ---

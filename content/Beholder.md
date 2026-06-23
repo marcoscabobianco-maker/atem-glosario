@@ -1,4 +1,5 @@
 ---
+title: "Beholder"
 aliases:
  - "Beholder"
 ---

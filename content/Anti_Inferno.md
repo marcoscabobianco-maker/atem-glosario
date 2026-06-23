@@ -1,4 +1,5 @@
 ---
+title: "Inferno — Anti-Inferno + descenso pleno"
 título: "Inferno — Anti-Inferno + descenso pleno por los círculos"
 slug: Anti_Inferno
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Centauros / Alfa Centauri (Facción)"
 categoria: grupo
 tags:
  - "paris-ucronica"

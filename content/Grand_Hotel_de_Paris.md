@@ -1,4 +1,5 @@
 ---
+title: "Grand Hotel de París"
 categoria: lugar
 tags:
  - "paris-ucronica"

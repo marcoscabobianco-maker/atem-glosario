@@ -1,4 +1,5 @@
 ---
+title: "Barumani"
 aliases:
  - "Barumani"
 en_construccion: true

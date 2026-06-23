@@ -1,4 +1,5 @@
 ---
+title: "La Senda de Drakthar"
 título: "La Senda de Drakthar — misión Shadowfell"
 slug: Senda_de_Drakthar
 aliases:

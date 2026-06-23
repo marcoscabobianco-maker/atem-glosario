@@ -1,4 +1,5 @@
 ---
+title: "El Millón (Avilión)"
 título: "El Millón (Avilión) — las logias de derecha y su mansión neogótica"
 slug: El_Millon_Avilion
 categoria: facción

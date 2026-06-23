@@ -1,4 +1,5 @@
 ---
+title: "Bucarest Ucrónica"
 título: "Bucarest Ucrónica"
 slug: Bucarest_Ucronica
 aliases:

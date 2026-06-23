@@ -1,4 +1,5 @@
 ---
+title: "Pyrexianos (culto)"
 título: "Pyrexianos (culto)"
 slug: Pyrexianos_culto
 categoria: facción

@@ -1,4 +1,5 @@
 ---
+title: "Forma Hibrida"
 aliases:
  - "Forma_hibrida"
 en_construccion: true

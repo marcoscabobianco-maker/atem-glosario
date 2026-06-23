@@ -1,4 +1,5 @@
 ---
+title: "Caravana del Khan"
 aliases:
  - "Caravana del Khan"
 ---

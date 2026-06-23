@@ -1,4 +1,5 @@
 ---
+title: "Latromis"
 título: "Latromis"
 slug: Latromis
 categoria: personaje

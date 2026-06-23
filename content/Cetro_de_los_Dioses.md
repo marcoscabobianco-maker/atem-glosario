@@ -1,4 +1,5 @@
 ---
+title: "Cetro de los Dioses"
 título: "Cetro de los Dioses"
 slug: Cetro_de_los_Dioses
 categoria: artefacto

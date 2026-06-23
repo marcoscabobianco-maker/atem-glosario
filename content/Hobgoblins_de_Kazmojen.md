@@ -1,4 +1,5 @@
 ---
+title: "Hobgoblins De Kazmojen"
 aliases:
  - "Hobgoblins_de_Kazmojen"
 en_construccion: true

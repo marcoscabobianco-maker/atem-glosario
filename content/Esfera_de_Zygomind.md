@@ -1,4 +1,5 @@
 ---
+title: "La Esfera de Zygomind"
 título: "La Esfera de Zygomind"
 slug: Esfera_de_Zygomind
 aliases:

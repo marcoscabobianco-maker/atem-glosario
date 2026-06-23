@@ -1,4 +1,5 @@
 ---
+title: "Drusus IX el Pálido"
 título: "Drusus IX el Pálido — el Basileus avejentado"
 slug: Drusus_IX_El_Palido
 aliases:

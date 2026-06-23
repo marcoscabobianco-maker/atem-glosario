@@ -1,4 +1,5 @@
 ---
+title: "Clara Klein / Kling (TNW)"
 tags:
  - "gary-tnw"
  - "guardian"

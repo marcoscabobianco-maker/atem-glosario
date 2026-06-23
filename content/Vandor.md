@@ -1,4 +1,5 @@
 ---
+title: "Vandor"
 título: "Vandor — el Lobo del metal, la audiencia que el grupo persigue"
 slug: Vandor
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Sagitario"
 título: "Plataforma de Sagitario"
 slug: Plataforma_Sagitario
 aliases:

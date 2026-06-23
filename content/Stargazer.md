@@ -1,4 +1,5 @@
 ---
+title: "Stargazer"
 categoria: personaje
 aliases:
  - "Stargazer"

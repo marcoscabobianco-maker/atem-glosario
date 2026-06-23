@@ -1,4 +1,5 @@
 ---
+title: "Naturaleza Cosmologica"
 aliases:
  - "Naturaleza_cosmologica"
 en_construccion: true

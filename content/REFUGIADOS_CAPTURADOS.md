@@ -1,4 +1,5 @@
 ---
+title: "REFUGIADOS CAPTURADOS"
 categoria: personaje
 aliases:
  - "REFUGIADOS CAPTURADOS"

@@ -1,4 +1,5 @@
 ---
+title: "Bar de Bes (TG)"
 categoria: lugar
 tags:
  - "lugar"

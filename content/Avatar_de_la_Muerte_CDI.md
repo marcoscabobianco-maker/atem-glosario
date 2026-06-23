@@ -1,4 +1,5 @@
 ---
+title: "Avatar de la Muerte (CDI)"
 categoria: lugar
 tags:
  - "cdi"

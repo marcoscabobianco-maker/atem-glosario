@@ -1,4 +1,5 @@
 ---
+title: "Jared el Loco"
 tags:
  - "caldero"
  - "diablos"

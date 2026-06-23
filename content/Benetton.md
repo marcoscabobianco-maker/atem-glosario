@@ -1,4 +1,5 @@
 ---
+title: "Benetton"
 título: "Benetton"
 slug: Benetton
 categoria: personaje

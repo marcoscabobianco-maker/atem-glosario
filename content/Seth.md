@@ -1,4 +1,5 @@
 ---
+title: "Seth"
 título: "Seth"
 slug: Seth
 categoria: entidad

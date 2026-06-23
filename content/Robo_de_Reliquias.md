@@ -1,4 +1,5 @@
 ---
+title: "Robo de Reliquias en el Temple"
 categoria: lugar
 aliases:
  - "Robo de Reliquias TE04"

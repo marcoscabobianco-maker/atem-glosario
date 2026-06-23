@@ -1,4 +1,5 @@
 ---
+title: "Bahamut"
 aliases:
  - "Bahamut"
 ---

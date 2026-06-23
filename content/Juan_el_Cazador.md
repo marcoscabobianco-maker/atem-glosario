@@ -1,4 +1,5 @@
 ---
+title: "Juan el Cazador"
 categoria: personaje
 tags:
  - "personaje"

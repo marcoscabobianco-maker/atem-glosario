@@ -1,4 +1,5 @@
 ---
+title: "Tabletas del Caos del Barrowmaze"
 título: "Tabletas del Caos del Barrowmaze — la Biblia sepultada del dios de la muerte"
 slug: Tabletas_del_Caos_del_Barrowmaze
 categoria: objeto

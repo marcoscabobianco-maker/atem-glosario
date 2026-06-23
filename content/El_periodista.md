@@ -1,4 +1,5 @@
 ---
+title: "El periodista"
 título: "El periodista — la curiosidad como motor y condena"
 slug: El_periodista
 categoria: personaje

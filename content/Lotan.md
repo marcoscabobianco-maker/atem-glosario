@@ -1,4 +1,5 @@
 ---
+title: "Lotan — Litanu / Tiamat ugarítica"
 título: "Lotan — Litanu / Tiamat ugarítica"
 slug: Lotan
 aliases:

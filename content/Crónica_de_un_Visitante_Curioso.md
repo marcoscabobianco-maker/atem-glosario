@@ -1,4 +1,5 @@
 ---
+title: "Crónica De Un Visitante Curioso"
 aliases:
  - "Crónica_de_un_Visitante_Curioso"
 en_construccion: true

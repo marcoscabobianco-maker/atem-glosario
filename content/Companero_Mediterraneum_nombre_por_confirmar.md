@@ -1,4 +1,5 @@
 ---
+title: "compañero Mediterráneum (nombre por confirmar)"
 tags:
  - "personaje"
  - "mediterraneum"

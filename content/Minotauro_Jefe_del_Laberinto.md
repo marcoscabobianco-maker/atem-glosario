@@ -1,4 +1,5 @@
 ---
+title: "Minotauro (Jefe del Laberinto)"
 categoria: personaje
 aliases:
  - "Minotauro (Jefe del Laberinto)"

@@ -1,4 +1,5 @@
 ---
+title: "Alpha Centauri Triangulacion Astronomica"
 aliases:
  - "Alpha_Centauri_Triangulacion_Astronomica"
 en_construccion: true

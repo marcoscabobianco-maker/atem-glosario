@@ -1,4 +1,5 @@
 ---
+title: "Knights Of The Azure Shield"
 aliases:
  - "Knights_of_the_Azure_Shield"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Gustav Mahler"
 aliases:
  - "Gustav_Mahler"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "La Hostia (artefacto)"
 categoria: artefacto
 tags:
  - "artefacto"

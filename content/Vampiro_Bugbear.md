@@ -1,4 +1,5 @@
 ---
+title: "Vampiro Bugbear"
 aliases:
  - "Vampiro_Bugbear"
 en_construccion: true

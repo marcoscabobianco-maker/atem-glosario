@@ -1,4 +1,5 @@
 ---
+title: "Kirios"
 aliases:
  - "Kirios"
 en_construccion: true

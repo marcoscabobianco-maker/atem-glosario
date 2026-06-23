@@ -1,4 +1,5 @@
 ---
+title: "Catedral de la Hostia CDI"
 aliases:
  - "Catedral de la Hostia CDI"
 ---

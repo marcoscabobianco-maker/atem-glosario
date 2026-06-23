@@ -1,4 +1,5 @@
 ---
+title: "Sortianos — la facción de la chispa abierta"
 título: "Sortianos — la facción de la chispa abierta"
 slug: Sortianos
 categoria: organización

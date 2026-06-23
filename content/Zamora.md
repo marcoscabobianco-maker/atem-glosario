@@ -1,4 +1,5 @@
 ---
+title: "Zamora"
 categoria: personaje
 aliases:
  - "Zamora"

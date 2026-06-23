@@ -1,4 +1,5 @@
 ---
+title: "Luquimia"
 título: "Luquimia"
 slug: Luquimia
 categoria: personaje

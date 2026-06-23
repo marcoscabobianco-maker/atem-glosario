@@ -1,4 +1,5 @@
 ---
+title: "Agnimia"
 categoria: personaje
 aliases:
  - "Agnimia"

@@ -1,4 +1,5 @@
 ---
+title: "Pionero"
 categoria: personaje
 tags:
  - "personaje"

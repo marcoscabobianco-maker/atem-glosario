@@ -1,4 +1,5 @@
 ---
+title: "Silvio Serrucho Del Norte"
 aliases:
  - "Silvio_Serrucho_del_Norte"
 en_construccion: true

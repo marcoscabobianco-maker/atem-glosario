@@ -1,4 +1,5 @@
 ---
+title: "Magia Interior"
 aliases:
  - "Magia_interior"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Lord Valanthru"
 título: "Lord Valanthru — el pez más grande del estanque de la corrupción"
 slug: Lord_Valanthru
 aliases:

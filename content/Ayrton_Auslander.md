@@ -1,4 +1,5 @@
 ---
+title: "Ayrton Auslander"
 título: "Ayrton Auslander — el Ladrón de Dagas Rápidas"
 slug: Ayrton_Auslander
 aliases:

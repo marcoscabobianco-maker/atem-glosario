@@ -1,4 +1,5 @@
 ---
+title: "Sleeping Hollow NC"
 aliases:
  - "Sleeping Hollow NC"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Malnati"
 título: "Malnati — el maestro de la logia obrera"
 slug: Malnati
 categoria: personaje

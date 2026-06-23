@@ -1,4 +1,5 @@
 ---
+title: "Chinachenari"
 categoria: lugar
 tags:
  - "cdi"

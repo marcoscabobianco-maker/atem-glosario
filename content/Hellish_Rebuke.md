@@ -1,4 +1,5 @@
 ---
+title: "Hellish Rebuke"
 aliases:
  - "Hellish_Rebuke"
 en_construccion: true

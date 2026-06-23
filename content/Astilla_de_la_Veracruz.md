@@ -1,4 +1,5 @@
 ---
+title: "Astilla de la Veracruz"
 categoria: lugar
 aliases:
  - "Astilla de la Veracruz"

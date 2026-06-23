@@ -1,4 +1,5 @@
 ---
+title: "Barcock"
 aliases:
  - "Barcock"
 ---

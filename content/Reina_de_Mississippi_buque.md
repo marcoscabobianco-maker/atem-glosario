@@ -1,4 +1,5 @@
 ---
+title: "Reina de Mississippi buque"
 aliases:
  - "Reina de Mississippi buque"
 ---

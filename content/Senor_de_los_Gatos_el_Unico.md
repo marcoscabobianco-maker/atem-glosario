@@ -1,4 +1,5 @@
 ---
+title: "Señor de los Gatos (el Único)"
 tags:
  - "personaje"
  - "beastlands"

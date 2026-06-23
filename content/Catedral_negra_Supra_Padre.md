@@ -1,4 +1,5 @@
 ---
+title: "Catedral negra Supra Padre"
 categoria: lugar
 aliases:
  - "Catedral negra Supra Padre"

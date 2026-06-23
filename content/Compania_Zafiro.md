@@ -1,4 +1,5 @@
 ---
+title: "Compañía Zafiro — la compañía más pulenta del sur, arrasada"
 título: "Compañía Zafiro — la compañía más pulenta del sur, arrasada"
 slug: Compania_Zafiro
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Nancon"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Nancon"]

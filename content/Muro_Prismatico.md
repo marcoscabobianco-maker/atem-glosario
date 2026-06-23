@@ -1,4 +1,5 @@
 ---
+title: "Muro Prismatico"
 aliases:
  - "Muro_Prismatico"
 en_construccion: true

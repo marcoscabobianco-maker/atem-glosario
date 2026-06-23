@@ -1,4 +1,5 @@
 ---
+title: "Resolución"
 aliases:
  - "Resolución"
 referenciado_por: 3

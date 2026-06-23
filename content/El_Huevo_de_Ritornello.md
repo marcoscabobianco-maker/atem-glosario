@@ -1,4 +1,5 @@
 ---
+title: "El Huevo de Ritornello"
 título: "El Huevo de Ritornello"
 slug: El_Huevo_de_Ritornelo
 categoria: artefacto

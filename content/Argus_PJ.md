@@ -1,4 +1,5 @@
 ---
+title: "Barón Argus de Ritornello"
 título: "Barón Argus de Ritornello"
 slug: Argus_PJ
 aliases:

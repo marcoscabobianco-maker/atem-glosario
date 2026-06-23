@@ -1,4 +1,5 @@
 ---
+title: "Armadura del Flamenco"
 categoria: lugar
 aliases:
  - "Armadura del Flamenco"

@@ -1,4 +1,5 @@
 ---
+title: "Medallón Melancólico"
 categoria: artefacto
 tags:
  - "corona-del-norte"

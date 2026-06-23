@@ -1,4 +1,5 @@
 ---
+title: "Comunados"
 aliases:
  - "Comunados"
 en_construccion: true

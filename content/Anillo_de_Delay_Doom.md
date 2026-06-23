@@ -1,4 +1,5 @@
 ---
+title: "Anillo de Delay Doom"
 categoria: lugar
 aliases:
  - "Anillo de Delay Doom"

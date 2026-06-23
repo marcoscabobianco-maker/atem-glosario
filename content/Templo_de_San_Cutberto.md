@@ -1,4 +1,5 @@
 ---
+title: "Templo de San Cutberto"
 título: "Templo de San Cutberto — sede de Jenya Urikas"
 slug: Templo_de_San_Cutberto
 aliases:

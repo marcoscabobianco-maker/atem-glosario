@@ -1,4 +1,5 @@
 ---
+title: "Amaltea"
 aliases:
  - "Amaltea"
 en_construccion: true

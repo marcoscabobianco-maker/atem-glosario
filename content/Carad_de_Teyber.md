@@ -1,4 +1,5 @@
 ---
+title: "Carad de Teyber"
 título: "Carad de Teyber"
 slug: Carad_de_Teyber
 categoria: personaje

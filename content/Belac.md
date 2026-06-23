@@ -1,4 +1,5 @@
 ---
+title: "Belac"
 título: "Belac (druida proscrito custodio del Árbol Gulthias)"
 slug: Belac
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "Walter Benjamin R"
 aliases:
  - "Walter_Benjamin_R"
 en_construccion: true

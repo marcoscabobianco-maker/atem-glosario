@@ -1,4 +1,5 @@
 ---
+title: "Godofredo de Saint-Omer (figura, TE)"
 aliases:
  - "Godofredo de Saint-Omer (figura, TE)"
  - "TE"

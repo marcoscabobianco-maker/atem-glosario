@@ -1,4 +1,5 @@
 ---
+title: "Petrobomba"
 aliases:
  - "Petrobomba"
 en_construccion: true

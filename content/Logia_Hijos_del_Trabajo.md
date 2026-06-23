@@ -1,4 +1,5 @@
 ---
+title: "Logia Hijos del Trabajo"
 título: "Logia Hijos del Trabajo — el templo obrero de Barracas"
 slug: Logia_Hijos_del_Trabajo
 categoria: facción

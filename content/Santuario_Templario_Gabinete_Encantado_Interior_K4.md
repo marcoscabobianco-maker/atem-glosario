@@ -1,4 +1,5 @@
 ---
+title: "Santuario Templario — Gabinete Encantado (Interior K4)"
 categoria: lugar
 aliases:
  - "Santuario Templario — Gabinete Encantado (Interior K4)"

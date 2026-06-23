@@ -1,4 +1,5 @@
 ---
+title: "Natalia Petrovna"
 aliases:
  - "Natalia Petrovna"
 referenciado_por: 4

@@ -1,4 +1,5 @@
 ---
+title: "Peter Stuyvesant II"
 tags:
  - "corona-del-norte"
  - "holandés"

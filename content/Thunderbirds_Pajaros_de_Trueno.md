@@ -1,4 +1,5 @@
 ---
+title: "Thunderbirds / Pájaros de Trueno"
 categoria: criatura
 tags:
  - "corona-del-norte"

@@ -1,4 +1,5 @@
 ---
+title: "Emisario"
 tags:
  - "personaje"
  - "neutral"

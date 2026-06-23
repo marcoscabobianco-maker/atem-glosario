@@ -1,4 +1,5 @@
 ---
+title: "Cordero de Andrade"
 categoria: personaje
 tags:
  - "personaje"

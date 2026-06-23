@@ -1,4 +1,5 @@
 ---
+title: "Rol Futuro"
 aliases:
  - "Rol_futuro"
 en_construccion: true

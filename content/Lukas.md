@@ -1,4 +1,5 @@
 ---
+title: "Lukas"
 título: "Lukas — el paladín de Ciudad Estrella"
 slug: Lukas
 aliases:

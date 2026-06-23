@@ -1,4 +1,5 @@
 ---
+title: "El Bastardo Cromas"
 título: "El Bastardo Cromas — la sede de La Jabalina"
 slug: Bastardo_Cromas
 aliases:

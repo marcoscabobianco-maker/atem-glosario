@@ -1,4 +1,5 @@
 ---
+title: "Dimitri Ivanov"
 título: "Dimitri Ivanov"
 slug: Dimitri_TNW
 aliases:

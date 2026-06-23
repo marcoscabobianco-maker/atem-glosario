@@ -1,4 +1,5 @@
 ---
+title: "El castillo en ruinas y las mazmorras"
 título: "El castillo en ruinas y las mazmorras — el subsuelo del faro"
 slug: Castillo_en_ruinas_y_mazmorras
 categoria: lugar

@@ -1,4 +1,5 @@
 ---
+title: "Barkhol y Bazar Balizas"
 categoria: lugar
 tags:
  - "lugar"

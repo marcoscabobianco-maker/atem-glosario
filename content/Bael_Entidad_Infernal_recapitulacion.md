@@ -1,4 +1,5 @@
 ---
+title: "Bael (Entidad Infernal; recapitulación)"
 categoria: lugar
 tags:
  - "cdi"

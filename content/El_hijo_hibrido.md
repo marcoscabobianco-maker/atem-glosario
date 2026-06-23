@@ -1,4 +1,5 @@
 ---
+title: "El hijo híbrido"
 categoria: personaje
 tags:
  - "personaje"

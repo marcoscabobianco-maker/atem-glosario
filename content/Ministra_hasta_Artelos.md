@@ -1,4 +1,5 @@
 ---
+title: "Ministra (hasta Artelos)"
 tags:
  - "cdi"
 aliases:

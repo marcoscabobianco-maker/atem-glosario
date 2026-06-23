@@ -1,4 +1,5 @@
 ---
+title: "Blanqui Celeste"
 categoria: personaje
 tags:
  - "paris-ucronica"

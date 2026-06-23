@@ -1,4 +1,5 @@
 ---
+title: "Michel"
 título: "Michel — el alquimista del Temple"
 slug: Michel
 aliases:

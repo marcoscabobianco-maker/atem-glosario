@@ -1,4 +1,5 @@
 ---
+title: "Franja de la Disolución"
 título: "Franja de la Disolución"
 slug: Franja_de_la_Disolucion_TG
 categoria: lugar

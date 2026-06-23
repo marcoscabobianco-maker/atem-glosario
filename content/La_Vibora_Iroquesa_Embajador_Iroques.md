@@ -1,4 +1,5 @@
 ---
+title: "La Víbora Iroquesa / Embajador Iroqués"
 categoria: criatura
 tags:
  - "corona-del-norte"

@@ -1,4 +1,5 @@
 ---
+title: "Auditori"
 aliases:
  - "Auditori"
 en_construccion: true

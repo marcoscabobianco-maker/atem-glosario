@@ -1,4 +1,5 @@
 ---
+title: "Simon Mago"
 categoria: personaje
 aliases:
  - "Simon Mago"

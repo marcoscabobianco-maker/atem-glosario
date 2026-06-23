@@ -1,4 +1,5 @@
 ---
+title: "Rosa De Cobre"
 aliases:
  - "Rosa_de_Cobre"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Wintons"
 aliases:
  - "Wintons"
 en_construccion: true

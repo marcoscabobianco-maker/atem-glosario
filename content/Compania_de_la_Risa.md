@@ -1,4 +1,5 @@
 ---
+title: "La Compañía de la Risa"
 título: "La Compañía de la Risa — sicarios con caras pintadas"
 slug: Compania_de_la_Risa
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Hipotesis Alternativa"
 aliases:
  - "Hipotesis_alternativa"
 en_construccion: true

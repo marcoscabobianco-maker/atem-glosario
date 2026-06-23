@@ -1,4 +1,5 @@
 ---
+title: "Oratiol Gotland"
 aliases:
  - "Oratiol Gotland"
 ---

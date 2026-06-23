@@ -1,4 +1,5 @@
 ---
+title: "Muerte"
 aliases:
  - "Muerte"
 referenciado_por: 3

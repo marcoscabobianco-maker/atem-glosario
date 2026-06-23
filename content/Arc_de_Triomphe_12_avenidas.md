@@ -1,4 +1,5 @@
 ---
+title: "Arc de Triomphe 12 avenidas"
 aliases:
  - "Arc de Triomphe 12 avenidas"
 ---

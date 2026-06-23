@@ -1,4 +1,5 @@
 ---
+title: "Escenario De Escalada De Horror Sobrenatural"
 aliases:
  - "Escenario_de_escalada_de_horror_sobrenatural"
 en_construccion: true

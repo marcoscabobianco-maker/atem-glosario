@@ -1,4 +1,5 @@
 ---
+title: "Magia Cromatica"
 aliases:
  - "Magia_Cromatica"
 en_construccion: true

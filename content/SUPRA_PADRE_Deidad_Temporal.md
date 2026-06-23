@@ -1,4 +1,5 @@
 ---
+title: "Supra Padre"
 título: "Supra Padre"
 slug: SUPRA_PADRE_Deidad_Temporal
 categoria: entidad

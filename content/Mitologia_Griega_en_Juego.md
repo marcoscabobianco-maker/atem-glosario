@@ -1,4 +1,5 @@
 ---
+title: "Mitología Griega en Juego"
 categoria: lugar
 aliases:
  - "Mitología Griega en Juego"

@@ -1,4 +1,5 @@
 ---
+title: "Alias"
 aliases:
  - "Alias"
 en_construccion: true

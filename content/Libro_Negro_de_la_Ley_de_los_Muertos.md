@@ -1,4 +1,5 @@
 ---
+title: "Libro Negro de la Ley de los Muertos"
 título: "Libro Negro de la Ley de los Muertos"
 slug: Libro_Negro_de_la_Ley_de_los_Muertos
 categoria: artefacto

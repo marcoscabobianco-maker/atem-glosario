@@ -1,4 +1,5 @@
 ---
+title: "Descripcion Detallada"
 aliases:
  - "Descripcion_detallada"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Reynos"
 aliases:
  - "Reynos"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Doce Clubes de París"
 categoria: organización
 tags:
  - "paris-ucronica"

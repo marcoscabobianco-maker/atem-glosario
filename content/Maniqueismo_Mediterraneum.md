@@ -1,4 +1,5 @@
 ---
+title: "Maniqueísmo (Mediterraneum)"
 categoria: concepto
 tags:
  - "religión"

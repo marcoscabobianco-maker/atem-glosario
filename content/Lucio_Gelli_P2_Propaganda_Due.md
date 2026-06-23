@@ -1,4 +1,5 @@
 ---
+title: "Lucio Gelli / Propaganda Due"
 título: "Lucio Gelli y la Propaganda Due — el tablero vaticano del avión a las Malvinas"
 slug: Lucio_Gelli_P2_Propaganda_Due
 categoria: personaje

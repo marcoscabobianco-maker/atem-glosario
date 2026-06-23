@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Escorpio"
 título: "Plataforma de Escorpio"
 slug: Plataforma_Escorpio
 aliases:

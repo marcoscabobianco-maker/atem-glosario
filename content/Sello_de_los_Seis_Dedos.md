@@ -1,4 +1,5 @@
 ---
+title: "Sello De Los Seis Dedos"
 aliases:
  - "Sello_de_los_Seis_Dedos"
 en_construccion: true

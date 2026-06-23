@@ -1,4 +1,5 @@
 ---
+title: "La destrucción de Notre Dame"
 título: "La destrucción de Notre Dame — el explosivo de caos puro"
 slug: Destruccion_de_Notre_Dame
 aliases:

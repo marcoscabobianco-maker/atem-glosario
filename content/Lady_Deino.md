@@ -1,4 +1,5 @@
 ---
+title: "Lady Deino"
 título: "Lady Deino"
 slug: Lady_Deino
 categoria: personaje

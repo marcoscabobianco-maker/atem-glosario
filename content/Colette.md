@@ -1,4 +1,5 @@
 ---
+title: "Colette"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Colette"]

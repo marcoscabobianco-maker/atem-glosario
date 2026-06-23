@@ -1,4 +1,5 @@
 ---
+title: "Guadaña Brilliant Energy"
 aliases:
  - "Guadaña Brilliant Energy"
 ---

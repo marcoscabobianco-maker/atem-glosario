@@ -1,4 +1,5 @@
 ---
+title: "Holy Shot"
 tags:
  - "corona-del-norte"
  - "shawnee"

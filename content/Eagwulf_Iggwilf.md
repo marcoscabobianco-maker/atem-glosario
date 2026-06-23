@@ -1,4 +1,5 @@
 ---
+title: "Eagwulf / Iggwilf"
 tags:
  - "gary-tnw"
  - "archimage"

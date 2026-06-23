@@ -1,4 +1,5 @@
 ---
+title: "Facciones de Colores"
 categoria: faccion
 tags:
  - "paris-ucronica"

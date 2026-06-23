@@ -1,4 +1,5 @@
 ---
+title: "Strahd"
 título: "Strahd (referencia Ravenloft canónica)"
 slug: Strahd
 categoria: referencia

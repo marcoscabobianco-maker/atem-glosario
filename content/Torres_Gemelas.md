@@ -1,4 +1,5 @@
 ---
+title: "Torres Gemelas"
 título: "Torres Gemelas — sede de la Casa Frame Rhivadi"
 slug: Torres_Gemelas
 aliases:

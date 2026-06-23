@@ -1,4 +1,5 @@
 ---
+title: "La Iglesia Gnóstica de Antiterra"
 título: "La Iglesia Gnóstica de Antiterra"
 slug: Iglesia_Gnostica_de_Antiterra
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Panfleto Revolucionario"
 categoria: objeto
 tags:
  - "paris-ucronica"

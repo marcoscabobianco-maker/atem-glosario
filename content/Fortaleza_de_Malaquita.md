@@ -1,4 +1,5 @@
 ---
+title: "La Fortaleza de Malaquita"
 título: "La Fortaleza de Malaquita — el sub-señorío bajo Caldero"
 slug: Fortaleza_de_Malaquita
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Tabaxi Meurona"
 aliases:
  - "Tabaxi Meurona"
 ---

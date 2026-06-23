@@ -1,4 +1,5 @@
 ---
+title: "Emma Goldman"
 categoria: personaje
 tags:
  - "paris-ucronica"

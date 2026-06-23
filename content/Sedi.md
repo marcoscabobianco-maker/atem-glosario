@@ -1,4 +1,5 @@
 ---
+title: "Sedi"
 categoria: personaje
 tags:
  - "personaje"

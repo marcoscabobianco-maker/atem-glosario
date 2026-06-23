@@ -1,4 +1,5 @@
 ---
+title: "Amuleto de los Planos"
 título: "Amuleto de los Planos"
 slug: Amuleto_de_los_Planos
 categoria: artefacto

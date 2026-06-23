@@ -1,4 +1,5 @@
 ---
+title: "Wander"
 categoria: criatura
 tags:
  - "corona-del-norte"

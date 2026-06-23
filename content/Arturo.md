@@ -1,4 +1,5 @@
 ---
+title: "Arturo"
 aliases:
  - "Arturo"
 en_construccion: true

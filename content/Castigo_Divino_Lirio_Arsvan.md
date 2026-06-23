@@ -1,4 +1,5 @@
 ---
+title: "Castigo Divino (Lirio + Ärsvan)"
 categoria: lugar
 aliases:
  - "Smite Divine (Lirio + Ärsvan)"

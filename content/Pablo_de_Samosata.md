@@ -1,4 +1,5 @@
 ---
+title: "Pablo de Samosata"
 categoria: personaje
 tags:
  - "personaje"

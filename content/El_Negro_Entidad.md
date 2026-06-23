@@ -1,4 +1,5 @@
 ---
+title: "EL NEGRO (Entidad demoniaca)"
 categoria: personaje
 aliases:
  - "EL NEGRO (Entidad demoniaca)"

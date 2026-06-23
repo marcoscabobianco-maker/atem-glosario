@@ -1,4 +1,5 @@
 ---
+title: "Cristalización de las Máquinas"
 título: "Cristalización de las Máquinas"
 slug: Cristalizacion_Maquinas
 categoria: evento

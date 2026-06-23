@@ -1,4 +1,5 @@
 ---
+title: "Abraham Wood"
 tags:
  - "corona-del-norte"
  - "magnate"

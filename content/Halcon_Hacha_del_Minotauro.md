@@ -1,4 +1,5 @@
 ---
+title: "Halcón/Hacha del Minotauro"
 aliases:
  - "Halcón/Hacha del Minotauro"
  - "Halcón"

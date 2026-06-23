@@ -1,4 +1,5 @@
 ---
+title: "Gary, Indiana (TNW)"
 categoria: lugar
 tags:
  - "gary-tnw"

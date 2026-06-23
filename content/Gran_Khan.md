@@ -1,4 +1,5 @@
 ---
+title: "Gran Khan"
 título: "Gran Khan"
 slug: Gran_Khan
 categoria: entidad

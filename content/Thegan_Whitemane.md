@@ -1,4 +1,5 @@
 ---
+title: "Thegan Whitemane"
 título: "Thegan Whitemane (Inn of the Lost)"
 slug: Thegan_Whitemane
 categoria: personaje

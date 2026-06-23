@@ -1,4 +1,5 @@
 ---
+title: "Secoya"
 tags:
  - "corona-del-norte"
  - "pocahontas"

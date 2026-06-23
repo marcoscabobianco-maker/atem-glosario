@@ -1,4 +1,5 @@
 ---
+title: "Aprisionada Por Las Decisiones Del Grupo"
 aliases:
  - "Aprisionada_por_las_decisiones_del_grupo"
 en_construccion: true

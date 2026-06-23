@@ -1,4 +1,5 @@
 ---
+title: "Yoel"
 título: "Yoel — el marino mercante galés del avión a las Malvinas"
 slug: Yoel
 categoria: personaje

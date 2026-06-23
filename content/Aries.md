@@ -1,4 +1,5 @@
 ---
+title: "Aries"
 aliases:
  - "Aries"
 en_construccion: true

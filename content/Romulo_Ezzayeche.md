@@ -1,4 +1,5 @@
 ---
+title: "Rómulo Ezzayeche"
 título: "Rómulo Ezzayeche — el vasco del Cóndor, el muchacho de las vocaciones rotas"
 slug: Romulo_Ezzayeche
 categoria: personaje

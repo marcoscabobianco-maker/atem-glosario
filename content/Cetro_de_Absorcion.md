@@ -1,4 +1,5 @@
 ---
+title: "Cetro de Absorción — implemento característico de los Priscians"
 título: "Cetro de Absorción — implemento característico de los Priscians"
 slug: Cetro_de_Absorcion
 aliases:

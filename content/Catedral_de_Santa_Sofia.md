@@ -1,4 +1,5 @@
 ---
+title: "Catedral De Santa Sofia"
 aliases:
  - "Catedral_de_Santa_Sofia"
 en_construccion: true

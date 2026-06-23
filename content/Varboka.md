@@ -1,4 +1,5 @@
 ---
+title: "Varboka, First Thegn"
 título: "Varboka, First Thegn"
 slug: Varboka
 categoria: personaje

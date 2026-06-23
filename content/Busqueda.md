@@ -1,4 +1,5 @@
 ---
+title: "Busqueda"
 aliases:
  - "Busqueda"
 en_construccion: true

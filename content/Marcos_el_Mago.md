@@ -1,4 +1,5 @@
 ---
+title: "Marcos el Mago"
 título: "Marcos el Mago"
 slug: Marcos_el_Mago
 aliases:

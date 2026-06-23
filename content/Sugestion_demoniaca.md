@@ -1,4 +1,5 @@
 ---
+title: "Sugestion Demoniaca"
 aliases:
  - "Sugestion_demoniaca"
 en_construccion: true

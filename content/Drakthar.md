@@ -1,4 +1,5 @@
 ---
+title: "Drakthar"
 título: "Drakthar — el operador shadowfelliano vencido"
 slug: Drakthar
 aliases:

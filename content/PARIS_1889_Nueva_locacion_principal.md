@@ -1,4 +1,5 @@
 ---
+title: "París 1889"
 categoria: lugar
 aliases:
  - "PARÍS 1889"

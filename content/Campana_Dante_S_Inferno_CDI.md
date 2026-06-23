@@ -1,4 +1,5 @@
 ---
+title: "Campana Dante S Inferno CDI"
 aliases:
  - "Campana Dante S Inferno"
  - "Campana_Dante_S_Inferno_CDI"

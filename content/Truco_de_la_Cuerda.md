@@ -1,4 +1,5 @@
 ---
+title: "Truco de la Cuerda (Rope Trick)"
 categoria: concepto
 tags:
  - "paris-ucronica"

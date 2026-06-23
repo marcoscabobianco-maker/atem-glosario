@@ -1,4 +1,5 @@
 ---
+title: "Lavador De Coches"
 aliases:
  - "Lavador_de_coches"
 en_construccion: true

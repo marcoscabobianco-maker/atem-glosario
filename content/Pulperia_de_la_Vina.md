@@ -1,4 +1,5 @@
 ---
+title: "Pulpería de la Viña"
 categoria: lugar
 tags:
  - "lugar"

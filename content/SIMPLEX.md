@@ -1,4 +1,5 @@
 ---
+title: "SIMPLEX"
 categoria: personaje
 tags:
  - "cdi"

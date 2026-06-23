@@ -1,4 +1,5 @@
 ---
+title: "Los pactos oníricos"
 título: "Los pactos oníricos — los contratos faustianos del sueño compartido (1966)"
 slug: Pactos_oniricos
 categoria: concepto

@@ -1,4 +1,5 @@
 ---
+title: "Neferu — la Estranguladora del Nilo"
 título: "Neferu — la Estranguladora del Nilo"
 slug: Neferu_La_Estranguladora_del_Nilo
 aliases:

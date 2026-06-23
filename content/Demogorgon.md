@@ -1,4 +1,5 @@
 ---
+title: "Demogorgon"
 aliases:
  - "Demogorgon"
 ---

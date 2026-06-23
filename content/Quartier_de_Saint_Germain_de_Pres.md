@@ -1,4 +1,5 @@
 ---
+title: "Quartier de Saint-Germain-des-Prés"
 categoria: lugar
 tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Quartier de Saint-Germain-des-Prés", "Saint-Germain-des-Prés", "Faubourg Saint-Germain"]

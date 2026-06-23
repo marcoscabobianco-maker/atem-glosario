@@ -1,4 +1,5 @@
 ---
+title: "Socialismo Utopico"
 aliases:
  - "Socialismo_Utopico"
 en_construccion: true

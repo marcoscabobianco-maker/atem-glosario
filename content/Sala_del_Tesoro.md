@@ -1,4 +1,5 @@
 ---
+title: "Sala del Tesoro"
 categoria: lugar
 tags:
  - "lugar"

@@ -1,4 +1,5 @@
 ---
+title: "Master Rifleman"
 tags:
  - "personaje"
  - "baton-rouge"

@@ -1,4 +1,5 @@
 ---
+title: "Patience Smith"
 tags:
  - "corona-del-norte"
  - "puritano"

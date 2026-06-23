@@ -1,4 +1,5 @@
 ---
+title: "Kazmojen"
 título: "Kazmojen — el señor del Bazar de la Vida"
 slug: Kazmojen
 aliases:

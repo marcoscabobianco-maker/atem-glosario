@@ -1,4 +1,5 @@
 ---
+title: "Mano Dorada"
 aliases:
  - "Mano_Dorada"
 en_construccion: true

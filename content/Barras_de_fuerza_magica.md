@@ -1,4 +1,5 @@
 ---
+title: "Barras De Fuerza Magica"
 aliases:
  - "Barras_de_fuerza_magica"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "La Contienda"
 título: "La Contienda"
 slug: Contienda_la
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Cross-Bow Hang"
 categoria: objeto
 aliases:
  - "Cross-Bow Hang"

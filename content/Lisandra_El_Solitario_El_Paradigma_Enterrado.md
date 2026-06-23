@@ -1,4 +1,5 @@
 ---
+title: "Lisandra / El Solitario / El Paradigma Enterrado"
 categoria: lugar
 tags:
  - "cdi"

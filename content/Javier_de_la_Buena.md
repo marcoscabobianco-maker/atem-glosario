@@ -1,4 +1,5 @@
 ---
+title: "Javier de la Buena"
 tags:
  - "personaje"
  - "capitán"

@@ -1,4 +1,5 @@
 ---
+title: "Biblioteca del Laberinto (Zona 34 subsector)"
 categoria: lugar
 aliases:
  - "Biblioteca del Laberinto (Zona 34 subsector)"

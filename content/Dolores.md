@@ -1,4 +1,5 @@
 ---
+title: "Dolores"
 categoria: personaje
 tags:
  - "personaje"

@@ -1,4 +1,5 @@
 ---
+title: "Compañia De La Lanza Dorada"
 aliases:
  - "Compañia_de_la_Lanza_Dorada"
 en_construccion: true

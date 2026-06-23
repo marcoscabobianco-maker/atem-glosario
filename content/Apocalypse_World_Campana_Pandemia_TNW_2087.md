@@ -1,4 +1,5 @@
 ---
+title: "Apocalypse World — Campaña Pandemia (TNW / 2087)"
 categoria: lugar
 tags:
  - "campaña"

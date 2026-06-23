@@ -1,4 +1,5 @@
 ---
+title: "Templo De La Divina Decada"
 aliases:
  - "Templo_de_la_Divina_Decada"
 en_construccion: true

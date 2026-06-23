@@ -1,4 +1,5 @@
 ---
+title: "Warhol"
 tags:
  - "corona-del-norte"
  - "cherokee"

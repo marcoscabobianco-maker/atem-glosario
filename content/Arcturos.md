@@ -1,4 +1,5 @@
 ---
+title: "Arcturos"
 aliases:
  - "Arcturos"
 en_construccion: true

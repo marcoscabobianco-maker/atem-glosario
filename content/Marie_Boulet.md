@@ -1,4 +1,5 @@
 ---
+title: "Marie Boulet"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Marie Boulet"]

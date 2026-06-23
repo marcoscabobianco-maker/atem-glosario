@@ -1,4 +1,5 @@
 ---
+title: "Palacio del Tiempo"
 título: "Palacio del Tiempo — sede de los Prefectos cronos"
 slug: Palacio_del_Tiempo
 aliases:

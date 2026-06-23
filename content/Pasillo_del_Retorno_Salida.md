@@ -1,4 +1,5 @@
 ---
+title: "Pasillo del Retorno / Salida"
 categoria: lugar
 aliases:
  - "Pasillo del Retorno / Salida"

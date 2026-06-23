@@ -1,4 +1,5 @@
 ---
+title: "Panteon de Tanastias"
 aliases:
  - "Panteon de Tanastias"
 ---

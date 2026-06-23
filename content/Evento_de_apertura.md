@@ -1,4 +1,5 @@
 ---
+title: "Evento De Apertura"
 aliases:
  - "Evento_de_apertura"
 en_construccion: true

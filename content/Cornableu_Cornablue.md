@@ -1,4 +1,5 @@
 ---
+title: "Cornableu / Cornablue"
 tags:
  - "paris-ucronica"
  - "personaje"

@@ -1,4 +1,5 @@
 ---
+title: "(Sistema) (TNW)"
 categoria: personaje
 tags:
  - "gary-tnw"

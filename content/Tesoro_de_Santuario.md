@@ -1,4 +1,5 @@
 ---
+title: "Tesoro de Santuario"
 categoria: objeto
 aliases:
  - "Tesoro de Santuario"

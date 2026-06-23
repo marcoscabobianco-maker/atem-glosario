@@ -1,4 +1,5 @@
 ---
+title: "Hombre Variable / Constantes"
 categoria: concepto
 tags:
  - "paris-ucronica"

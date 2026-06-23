@@ -1,4 +1,5 @@
 ---
+title: "Equis"
 título: "Equis"
 slug: Equis
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "Tableta del Caos — objeto-misión del Abad de Helix"
 título: "Tableta del Caos — objeto-misión del Abad de Helix"
 slug: Tableta_del_Caos
 aliases:

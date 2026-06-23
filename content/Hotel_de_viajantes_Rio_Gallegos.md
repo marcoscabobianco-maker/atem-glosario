@@ -1,4 +1,5 @@
 ---
+title: "Hotel de viajantes, Río Gallegos"
 categoria: lugar
 tags:
  - "lugar"

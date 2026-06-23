@@ -1,4 +1,5 @@
 ---
+title: "Alegría (decreto)"
 categoria: lugar
 tags:
  - "cdi"

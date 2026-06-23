@@ -1,4 +1,5 @@
 ---
+title: "Sir Theobald"
 título: "Sir Theobald — capitán de la guardia del grifo dorado"
 slug: Sir_Theobald
 aliases:

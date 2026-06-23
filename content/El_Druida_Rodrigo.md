@@ -1,4 +1,5 @@
 ---
+title: "El Druida (Rodrigo)"
 título: "El Druida (Rodrigo)"
 slug: El_Druida_Rodrigo
 estado: stub_diegetico

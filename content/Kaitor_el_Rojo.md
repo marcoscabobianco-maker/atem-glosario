@@ -1,4 +1,5 @@
 ---
+title: "Kaitor el Rojo"
 título: "Kaitor el Rojo — portavoz del Consejo de Delvers"
 slug: Kaitor_el_Rojo
 aliases:

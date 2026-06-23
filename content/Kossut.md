@@ -1,4 +1,5 @@
 ---
+title: "Kossut"
 categoria: entidad
 tags:
  - "entidad"

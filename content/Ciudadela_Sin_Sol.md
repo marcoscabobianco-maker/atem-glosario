@@ -1,4 +1,5 @@
 ---
+title: "Ciudadela Sin Sol"
 título: "Ciudadela Sin Sol"
 slug: Ciudadela_Sin_Sol
 categoria: lugar

@@ -1,4 +1,5 @@
 ---
+title: "Mabon gula"
 categoria: entidad
 aliases:
  - "Mabon gula"

@@ -1,4 +1,5 @@
 ---
+title: "El Duque de Blanquist"
 título: "El Duque de Blanquist"
 slug: Duque_de_Blanquist
 aliases:

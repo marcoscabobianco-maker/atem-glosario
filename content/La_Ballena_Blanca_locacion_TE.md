@@ -1,4 +1,5 @@
 ---
+title: "La Ballena Blanca (locación, TE)"
 categoria: lugar
 aliases:
  - "La Ballena Blanca (locación, TE)"

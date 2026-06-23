@@ -1,4 +1,5 @@
 ---
+title: "Historia En-game"
 aliases:
  - "Historia_en-game"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Thel"
 título: "Thel"
 slug: Thel
 categoria: personaje

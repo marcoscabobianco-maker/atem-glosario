@@ -1,4 +1,5 @@
 ---
+title: "Luigi Vampa"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Luigi Vampa"]

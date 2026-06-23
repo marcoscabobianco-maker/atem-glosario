@@ -1,4 +1,5 @@
 ---
+title: "Casa Frame Rhivadi"
 título: "Casa Frame Rhivadi — familia noble de Titti Frame"
 slug: Casa_Frame_Rhivadi
 aliases:

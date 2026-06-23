@@ -1,4 +1,5 @@
 ---
+title: "Copa de Piedra"
 categoria: lugar
 tags:
  - "lugar"

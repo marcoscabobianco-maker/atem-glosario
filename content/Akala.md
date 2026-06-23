@@ -1,4 +1,5 @@
 ---
+title: "Akala (AKL-600)"
 título: "Akala (AKL-600)"
 slug: Akala
 aliases:

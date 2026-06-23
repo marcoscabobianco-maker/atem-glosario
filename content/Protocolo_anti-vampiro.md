@@ -1,4 +1,5 @@
 ---
+title: "Protocolo Anti-vampiro"
 aliases:
  - "Protocolo_anti-vampiro"
 en_construccion: true

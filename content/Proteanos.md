@@ -1,4 +1,5 @@
 ---
+title: "Proteanos"
 aliases:
  - "Proteanos"
  - "Proteano"

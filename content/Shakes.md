@@ -1,4 +1,5 @@
 ---
+title: "Shakes"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Shakes"]

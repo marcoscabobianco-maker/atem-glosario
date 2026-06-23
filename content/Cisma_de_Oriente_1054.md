@@ -1,4 +1,5 @@
 ---
+title: "Cisma De Oriente 1054"
 aliases:
  - "Cisma_de_Oriente_1054"
 en_construccion: true

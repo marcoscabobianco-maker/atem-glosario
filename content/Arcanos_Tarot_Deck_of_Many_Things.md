@@ -1,4 +1,5 @@
 ---
+title: "Arcanos (Tarot — Deck of Many Things)"
 categoria: personaje
 tags:
  - "cdi"

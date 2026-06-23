@@ -1,4 +1,5 @@
 ---
+title: "Caballeros Del Arbol De Armas"
 aliases:
  - "Caballeros_del_Arbol_de_Armas"
 en_construccion: true

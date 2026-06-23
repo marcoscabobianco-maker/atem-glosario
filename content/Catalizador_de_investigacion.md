@@ -1,4 +1,5 @@
 ---
+title: "Catalizador De Investigacion"
 aliases:
  - "Catalizador_de_investigacion"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Belicio"
 título: "Belicio — el Guerrero Siempre Gostoso"
 slug: Belicio
 aliases:

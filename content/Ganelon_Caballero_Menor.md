@@ -1,4 +1,5 @@
 ---
+title: "Ganelon (Caballero Menor)"
 categoria: lugar
 aliases:
  - "Ganelon (Caballero Menor)"

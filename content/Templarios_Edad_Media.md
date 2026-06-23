@@ -1,4 +1,5 @@
 ---
+title: "Templarios Edad Media"
 aliases:
  - "Templarios_Edad_Media"
 en_construccion: true

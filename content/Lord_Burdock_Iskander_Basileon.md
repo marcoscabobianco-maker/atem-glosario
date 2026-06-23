@@ -1,4 +1,5 @@
 ---
+title: "Lord Burdock"
 título: "Lord Burdock — Iskander Basileon, arconte del valle"
 slug: Lord_Burdock_Iskander_Basileon
 aliases:

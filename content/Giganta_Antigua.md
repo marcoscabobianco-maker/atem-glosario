@@ -1,4 +1,5 @@
 ---
+title: "La Giganta Antigua"
 título: "La Giganta Antigua — deidad volcánica protectora del orden natural"
 slug: Giganta_Antigua
 aliases:

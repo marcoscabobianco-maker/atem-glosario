@@ -1,4 +1,5 @@
 ---
+title: "Suga"
 título: "Suga — apodo de mesa del avatar arlequín"
 slug: Suga
 aliases:

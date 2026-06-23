@@ -1,4 +1,5 @@
 ---
+title: "Capitán Skellerang"
 título: "Capitán Skellerang — el financiador imperial de La Jabalina"
 slug: Capitan_Skellerang
 aliases:

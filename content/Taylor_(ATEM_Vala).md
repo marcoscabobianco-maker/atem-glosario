@@ -1,4 +1,5 @@
 ---
+title: "Taylor"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Taylor", "Taylor de Vala"]

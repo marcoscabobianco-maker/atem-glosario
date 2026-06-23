@@ -1,4 +1,5 @@
 ---
+title: "Capitán el Coruña"
 tags:
  - "corona-del-norte"
  - "capitán"

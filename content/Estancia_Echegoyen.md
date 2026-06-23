@@ -1,4 +1,5 @@
 ---
+title: "La estancia Echegoyen"
 título: "La estancia Echegoyen — el casco de Bellocq, refugio junto a las siete cascadas"
 slug: Estancia_Echegoyen
 categoria: lugar

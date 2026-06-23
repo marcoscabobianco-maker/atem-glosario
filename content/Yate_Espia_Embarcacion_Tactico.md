@@ -1,4 +1,5 @@
 ---
+title: "Yate Espía / Embarcación Táctico"
 categoria: artefacto
 tags:
  - "paris-ucronica"

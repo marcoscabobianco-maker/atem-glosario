@@ -1,4 +1,5 @@
 ---
+title: "Marduk paralelo"
 aliases:
  - "Marduk paralelo"
 ---

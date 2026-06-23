@@ -1,4 +1,5 @@
 ---
+title: "Ciudad Estrella"
 título: "Ciudad Estrella — la capital de la revolución mágico-industrial"
 slug: Ciudad_Estrella
 aliases:

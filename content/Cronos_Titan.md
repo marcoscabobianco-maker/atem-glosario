@@ -1,4 +1,5 @@
 ---
+title: "Cronos (titán)"
 título: "Cronos (titán)"
 slug: Cronos_Titan
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "Capitán Cipriano Benítez"
 categoria: personaje
 tags:
  - "personaje"

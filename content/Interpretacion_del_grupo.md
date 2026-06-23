@@ -1,4 +1,5 @@
 ---
+title: "Interpretacion Del Grupo"
 aliases:
  - "Interpretacion_del_grupo"
 en_construccion: true

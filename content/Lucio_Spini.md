@@ -1,4 +1,5 @@
 ---
+title: "Lucio Spini"
 título: "Lucio Spini"
 slug: Lucio_Spini
 aliases:

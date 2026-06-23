@@ -1,4 +1,5 @@
 ---
+title: "La carta del propio yo"
 título: "La carta del propio yo"
 slug: Mensaje_de_si_mismo_carta_temporal
 aliases:

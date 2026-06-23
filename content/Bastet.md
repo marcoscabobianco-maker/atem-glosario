@@ -1,4 +1,5 @@
 ---
+title: "Bastet"
 título: "Bastet — diosa del hogar y el gato"
 slug: Bastet
 aliases:

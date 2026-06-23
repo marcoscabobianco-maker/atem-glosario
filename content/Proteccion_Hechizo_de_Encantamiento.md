@@ -1,4 +1,5 @@
 ---
+title: "Protección (Hechizo de Encantamiento)"
 categoria: lugar
 aliases:
  - "Protección (Hechizo de Encantamiento)"

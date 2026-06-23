@@ -1,4 +1,5 @@
 ---
+title: "Namide"
 categoria: personaje
 tags:
  - "personaje"

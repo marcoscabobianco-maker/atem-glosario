@@ -1,4 +1,5 @@
 ---
+title: "Cornelio · Nazimar"
 título: "Cornelio · Nazimar"
 slug: Cornelio
 imagen: "Imagenes_Tier1/Cornelio.png"

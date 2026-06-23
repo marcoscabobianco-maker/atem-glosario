@@ -1,4 +1,5 @@
 ---
+title: "Nightwalker"
 aliases:
  - "Nightwalker"
 ---

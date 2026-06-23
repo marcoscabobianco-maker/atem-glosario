@@ -1,4 +1,5 @@
 ---
+title: "Caballero de la Oscuridad de Helix — el pozo de maldad sin nombre"
 título: "Caballero de la Oscuridad de Helix — el pozo de maldad sin nombre"
 slug: Caballero_Oscuridad_Helix
 aliases:

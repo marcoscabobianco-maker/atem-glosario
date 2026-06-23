@@ -1,4 +1,5 @@
 ---
+title: "Curiales, los"
 categoria: grupo
 tags:
  - "grupo"

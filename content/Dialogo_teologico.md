@@ -1,4 +1,5 @@
 ---
+title: "Dialogo Teologico"
 aliases:
  - "Dialogo_teologico"
 en_construccion: true

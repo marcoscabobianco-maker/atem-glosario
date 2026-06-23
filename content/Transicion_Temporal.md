@@ -1,4 +1,5 @@
 ---
+title: "Transición Temporal"
 categoria: concepto
 tags:
  - "paris-ucronica"

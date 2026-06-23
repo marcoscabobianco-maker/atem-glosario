@@ -1,4 +1,5 @@
 ---
+title: "Cadenas de Plata / Silver Chains / Shackles of the Pact"
 categoria: artefacto
 tags:
  - "corona-del-norte"

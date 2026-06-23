@@ -1,4 +1,5 @@
 ---
+title: "La Zara"
 título: "La Zara"
 slug: La_Zara
 aliases:

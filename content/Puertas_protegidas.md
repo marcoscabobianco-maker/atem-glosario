@@ -1,4 +1,5 @@
 ---
+title: "Puertas Protegidas"
 aliases:
  - "Puertas_protegidas"
 en_construccion: true

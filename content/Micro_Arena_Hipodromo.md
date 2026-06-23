@@ -1,4 +1,5 @@
 ---
+title: "Micro Arena (Hipódromo)"
 categoria: lugar
 tags:
  - "paris-ucronica"

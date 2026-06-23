@@ -1,4 +1,5 @@
 ---
+title: "Juego en Vala (figura / Encuentro)"
 aliases:
  - "Juego en Vala (figura / Encuentro)"
  - "Juego en Vala"

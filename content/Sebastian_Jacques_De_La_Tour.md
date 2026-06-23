@@ -1,4 +1,5 @@
 ---
+title: "Sebastian Jacques De La Tour"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Sébastien Jacques de la Tour"]

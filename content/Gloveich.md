@@ -1,4 +1,5 @@
 ---
+title: "Gloveich"
 categoria: personaje
 tags:
  - "personaje"

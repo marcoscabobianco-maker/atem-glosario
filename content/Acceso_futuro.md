@@ -1,4 +1,5 @@
 ---
+title: "Acceso Futuro"
 aliases:
  - "Acceso_futuro"
 en_construccion: true

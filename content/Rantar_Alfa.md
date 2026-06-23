@@ -1,4 +1,5 @@
 ---
+title: "Rantar Alfa"
 título: "Rantar Alfa"
 slug: Rantar_Alfa
 categoria: entidad

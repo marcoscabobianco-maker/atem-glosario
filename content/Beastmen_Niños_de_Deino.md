@@ -1,4 +1,5 @@
 ---
+title: "Beastmen (Niños de Deino)"
 título: "Beastmen (Niños de Deino)"
 slug: Beastmen_Niños_de_Deino
 categoria: facción

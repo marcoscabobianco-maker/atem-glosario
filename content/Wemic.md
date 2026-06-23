@@ -1,4 +1,5 @@
 ---
+title: "Wemic"
 aliases:
  - "Wemic"
 ---

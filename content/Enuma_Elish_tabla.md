@@ -1,4 +1,5 @@
 ---
+title: "Enuma Elish tabla"
 aliases:
  - "Enuma Elish tabla"
 ---

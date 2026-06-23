@@ -1,4 +1,5 @@
 ---
+title: "Reich Eterna"
 título: "Reich Eterna"
 slug: Reich_Eterna
 categoria: faccion

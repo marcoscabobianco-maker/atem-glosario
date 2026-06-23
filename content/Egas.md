@@ -1,4 +1,5 @@
 ---
+title: "Egas"
 categoria: personaje
 tags:
  - "personaje"

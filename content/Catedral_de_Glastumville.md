@@ -1,4 +1,5 @@
 ---
+title: "Catedral de Glastumville"
 aliases:
  - "Catedral de Glastumville"
 ---

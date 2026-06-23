@@ -1,4 +1,5 @@
 ---
+title: "Osetia"
 aliases:
  - "Osetia"
 en_construccion: true

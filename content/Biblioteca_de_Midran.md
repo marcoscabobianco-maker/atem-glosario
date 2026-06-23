@@ -1,4 +1,5 @@
 ---
+title: "Biblioteca De Midran"
 aliases:
  - "Biblioteca_de_Midran"
 en_construccion: true

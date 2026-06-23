@@ -1,4 +1,5 @@
 ---
+title: "Nibiru"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Nibiru"]

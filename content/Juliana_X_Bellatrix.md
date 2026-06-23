@@ -1,4 +1,5 @@
 ---
+title: "Juliana X Bellatrix"
 título: "Juliana X Bellatrix — emperatriz de la Reconquista"
 slug: Juliana_X_Bellatrix
 aliases:

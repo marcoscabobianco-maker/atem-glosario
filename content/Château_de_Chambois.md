@@ -1,4 +1,5 @@
 ---
+title: "Château de Chambois"
 categoria: lugar
 tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Château de Chambois", "Chambois"]

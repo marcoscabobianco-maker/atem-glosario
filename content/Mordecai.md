@@ -1,4 +1,5 @@
 ---
+title: "Mordecai"
 título: "Mordecai — el pescador-cultista capturado en la mazmorra"
 slug: Mordecai
 categoria: personaje

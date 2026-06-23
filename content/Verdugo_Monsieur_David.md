@@ -1,4 +1,5 @@
 ---
+title: "Verdugo / Monsieur David"
 tags:
  - "personaje"
  - "libertateurs"

@@ -1,4 +1,5 @@
 ---
+title: "Cinturón de Fuerza de Gigante"
 categoria: personaje
 tags:
  - "cdi"

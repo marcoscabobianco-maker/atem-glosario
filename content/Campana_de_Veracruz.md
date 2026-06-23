@@ -1,4 +1,5 @@
 ---
+title: "Campana de Veracruz"
 categoria: lugar
 aliases:
  - "Campana de Veracruz"

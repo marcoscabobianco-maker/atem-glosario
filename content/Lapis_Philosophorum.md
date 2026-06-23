@@ -1,4 +1,5 @@
 ---
+title: "Lapis Philosophorum"
 categoria: objeto
 tags:
  - "objeto"

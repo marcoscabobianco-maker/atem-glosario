@@ -1,4 +1,5 @@
 ---
+title: "Cvjetko Popović"
 título: "Cvjetko Popović — conspirador histórico de Joven Bosnia"
 slug: Cvjetko_Popovic
 aliases:

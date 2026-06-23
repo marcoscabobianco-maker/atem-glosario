@@ -1,4 +1,5 @@
 ---
+title: "Dietrus"
 categoria: personaje
 tags:
  - "personaje"

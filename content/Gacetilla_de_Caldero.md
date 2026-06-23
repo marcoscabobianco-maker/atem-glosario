@@ -1,4 +1,5 @@
 ---
+title: "Gacetilla de Caldero"
 título: "Gacetilla de Caldero — compilado de Mascor Blancarba"
 slug: Gacetilla_de_Caldero
 aliases:

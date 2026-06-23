@@ -1,4 +1,5 @@
 ---
+title: "Los Boreales"
 título: "Los Boreales"
 slug: Los_Boreales
 categoria: grupo

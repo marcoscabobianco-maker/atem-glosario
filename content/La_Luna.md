@@ -1,4 +1,5 @@
 ---
+title: "La Luna"
 categoria: lugar
 tags:
  - "corona-del-norte"

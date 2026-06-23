@@ -1,4 +1,5 @@
 ---
+title: "Luca de los Medici"
 título: "Luca de los Medici"
 slug: Luca_CI
 imagen: "Imagenes_Tier1/Luca_CI.png"

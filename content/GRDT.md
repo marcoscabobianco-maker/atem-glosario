@@ -1,4 +1,5 @@
 ---
+title: "GRDT"
 título: "GRDT"
 slug: GRDT
 categoria: personaje

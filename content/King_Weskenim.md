@@ -1,4 +1,5 @@
 ---
+title: "King Weskenim"
 título: "King Weskenim (Grand King Goblin)"
 slug: King_Weskenim
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "Gretchyn Tashykk"
 título: "Gretchyn Tashykk — la anciana halfling del orfanato"
 slug: Gretchyn_Tashykk
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Bribaldo (apellido / linaje)"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Bribaldo", "linaje Bribaldo", "casa Bribaldo"]

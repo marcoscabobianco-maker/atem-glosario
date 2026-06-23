@@ -1,4 +1,5 @@
 ---
+title: "Antinoo"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Antinoo"]

@@ -1,4 +1,5 @@
 ---
+title: "Constructo Dorado de Tres Caras"
 categoria: criatura
 tags:
  - "corona-del-norte"

@@ -1,4 +1,5 @@
 ---
+title: "Farruco Arrastrado al Pozo (NC16)"
 categoria: evento
 tags:
  - "corona-del-norte"

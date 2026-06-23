@@ -1,4 +1,5 @@
 ---
+title: "Evento"
 aliases:
  - "Evento"
 en_construccion: true

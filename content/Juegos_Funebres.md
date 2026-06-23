@@ -1,4 +1,5 @@
 ---
+title: "Juegos Fúnebres"
 categoria: evento
 tags:
  - "paris-ucronica"

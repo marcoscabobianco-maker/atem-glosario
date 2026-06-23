@@ -1,4 +1,5 @@
 ---
+title: "Teniente Fausto"
 categoria: personaje
 tags:
  - "personaje"

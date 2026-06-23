@@ -1,4 +1,5 @@
 ---
+title: "Senatus Popularis / Casa del Pueblo"
 categoria: grupo
 tags:
  - "paris-ucronica"

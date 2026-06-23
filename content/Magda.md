@@ -1,4 +1,5 @@
 ---
+title: "Magda — la bruja del azar"
 título: "Magda — la bruja del azar"
 slug: Magda
 aliases:

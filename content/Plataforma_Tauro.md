@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Tauro"
 título: "Plataforma de Tauro"
 slug: Plataforma_Tauro
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Heredeth"
 categoria: lugar
 aliases:
  - "Heredeth"

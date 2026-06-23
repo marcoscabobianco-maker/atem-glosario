@@ -1,4 +1,5 @@
 ---
+title: "Senora"
 aliases:
  - "Senora"
 en_construccion: true

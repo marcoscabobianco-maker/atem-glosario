@@ -1,4 +1,5 @@
 ---
+title: "Vito (Guía)"
 categoria: personaje
 tags:
  - "paris-ucronica"

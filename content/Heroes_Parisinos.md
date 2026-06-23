@@ -1,4 +1,5 @@
 ---
+title: "Héroes Parisinos"
 categoria: grupo
 tags:
  - "grupo"

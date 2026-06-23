@@ -1,4 +1,5 @@
 ---
+title: "Informacion Proporcionada Al Grupo"
 aliases:
  - "Informacion_proporcionada_al_grupo"
 en_construccion: true

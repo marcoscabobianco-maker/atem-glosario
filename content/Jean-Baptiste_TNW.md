@@ -1,4 +1,5 @@
 ---
+title: "Jean-Baptiste (TNW)"
 tags:
  - "gary-tnw"
  - "lords-of-creation"

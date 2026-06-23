@@ -1,4 +1,5 @@
 ---
+title: "La Nobiskrug"
 título: "La Nobiskrug"
 slug: Nobiskrug
 aliases:

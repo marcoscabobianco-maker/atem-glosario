@@ -1,4 +1,5 @@
 ---
+title: "Anarquista Cornablue Salud"
 categoria: personaje
 aliases:
  - "Anarquista Cornablue Salud"

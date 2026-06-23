@@ -1,4 +1,5 @@
 ---
+title: "Sudilis → ACTUALIZAR"
 categoria: personaje
 aliases:
  - "Sudilis → ACTUALIZAR"

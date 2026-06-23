@@ -1,4 +1,5 @@
 ---
+title: "Sauro / Dragón"
 aliases:
  - "Sauro / Dragón"
  - "Sauro"

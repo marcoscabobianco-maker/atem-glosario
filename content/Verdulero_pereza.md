@@ -1,4 +1,5 @@
 ---
+title: "Verdulero pereza"
 categoria: personaje
 aliases:
  - "Verdulero pereza"

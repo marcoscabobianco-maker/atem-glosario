@@ -1,4 +1,5 @@
 ---
+title: "El Círculo Simultáneo"
 título: "El Círculo Simultáneo"
 slug: Circulo_Simultaneo
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Caballeros de la Cicatriz del Sol"
 título: "Caballeros de la Cicatriz del Sol"
 slug: Caballeros_Cicatriz_del_Sol
 categoria: facción

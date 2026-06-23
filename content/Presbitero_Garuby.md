@@ -1,4 +1,5 @@
 ---
+title: "Presbitero Garuby"
 aliases:
  - "Presbitero_Garuby"
 en_construccion: true

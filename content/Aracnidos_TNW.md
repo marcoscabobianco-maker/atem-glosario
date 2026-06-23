@@ -1,4 +1,5 @@
 ---
+title: "Aracnidos TNW"
 aliases:
  - "Aracnidos"
  - "Aracnidos_TNW"

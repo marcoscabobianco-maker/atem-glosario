@@ -1,4 +1,5 @@
 ---
+title: "Catedral de Jerusalén (Interior)"
 categoria: lugar
 aliases:
  - "Catedral de Jerusalén (Interior)"

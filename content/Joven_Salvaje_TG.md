@@ -1,4 +1,5 @@
 ---
+title: "Joven Salvaje TG"
 aliases:
  - "Joven_Salvaje_TG"
 en_construccion: true

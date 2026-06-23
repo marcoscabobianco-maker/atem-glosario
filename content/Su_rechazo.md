@@ -1,4 +1,5 @@
 ---
+title: "Su Rechazo"
 aliases:
  - "Su_rechazo"
 en_construccion: true

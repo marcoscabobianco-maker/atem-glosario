@@ -1,4 +1,5 @@
 ---
+title: "Patriarca"
 aliases:
  - "Patriarca"
 referenciado_por: 2

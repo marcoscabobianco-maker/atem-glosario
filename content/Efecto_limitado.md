@@ -1,4 +1,5 @@
 ---
+title: "Efecto Limitado"
 aliases:
  - "Efecto_limitado"
 en_construccion: true

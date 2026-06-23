@@ -1,4 +1,5 @@
 ---
+title: "Durandal"
 aliases:
  - "Durandal"
 en_construccion: true

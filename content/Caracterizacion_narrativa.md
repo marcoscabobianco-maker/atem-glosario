@@ -1,4 +1,5 @@
 ---
+title: "Caracterizacion Narrativa"
 aliases:
  - "Caracterizacion_narrativa"
 en_construccion: true

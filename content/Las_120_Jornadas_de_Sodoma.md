@@ -1,4 +1,5 @@
 ---
+title: "Las 120 Jornadas De Sodoma"
 aliases:
  - "Las_120_Jornadas_de_Sodoma"
 en_construccion: true

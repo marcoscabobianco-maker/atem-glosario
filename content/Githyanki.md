@@ -1,4 +1,5 @@
 ---
+title: "Los Githyanki"
 título: "Los Githyanki"
 slug: Githyanki
 aliases:

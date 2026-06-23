@@ -1,4 +1,5 @@
 ---
+title: "Teo — el Paladín Sin Brazo"
 título: "Teo — el Paladín Sin Brazo"
 slug: Teo_Paladin_Sin_Brazo
 aliases:

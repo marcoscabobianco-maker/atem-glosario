@@ -1,4 +1,5 @@
 ---
+title: "Lord Soth"
 aliases:
  - "Señor Soth"
  - "Sir Soth"

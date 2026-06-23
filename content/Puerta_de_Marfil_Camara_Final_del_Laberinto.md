@@ -1,4 +1,5 @@
 ---
+title: "Puerta de Marfil (Cámara Final del Laberinto)"
 categoria: lugar
 aliases:
  - "Puerta de Marfil (Cámara Final del Laberinto)"

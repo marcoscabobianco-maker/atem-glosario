@@ -1,4 +1,5 @@
 ---
+title: "Purificación Mágica como Control"
 categoria: lugar
 aliases:
  - "Purificación Mágica como Control"

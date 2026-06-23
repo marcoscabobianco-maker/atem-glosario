@@ -1,4 +1,5 @@
 ---
+title: "Nota narrativa"
 aliases:
  - "Nota narrativa"
 referenciado_por: 3

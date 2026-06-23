@@ -1,4 +1,5 @@
 ---
+title: "Kendall (TNW)"
 tags:
  - "gary-tnw"
  - "lords-of-creation"

@@ -1,4 +1,5 @@
 ---
+title: "Delgrante"
 aliases:
  - "Delgrante"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Pacto: existe la verdad / La realidad es fake news"
 título: "Pacto: existe la verdad / La realidad es fake news"
 slug: Pacto_Existe_la_Verdad
 aliases:

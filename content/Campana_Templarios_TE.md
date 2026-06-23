@@ -1,4 +1,5 @@
 ---
+title: "Campaña Templarios (TE)"
 aliases:
  - "Campaña Templarios (TE)"
  - "TE"

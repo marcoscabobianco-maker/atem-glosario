@@ -1,4 +1,5 @@
 ---
+title: "Corvino"
 título: "Corvino — el de los palomares de guerra de París"
 slug: Corvino
 aliases:

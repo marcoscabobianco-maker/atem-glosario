@@ -1,4 +1,5 @@
 ---
+title: "Kartir"
 categoria: personaje
 tags:
  - "personaje"

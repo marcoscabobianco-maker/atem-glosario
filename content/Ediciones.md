@@ -1,4 +1,5 @@
 ---
+title: "Ediciones"
 aliases:
  - "Ediciones"
 en_construccion: true

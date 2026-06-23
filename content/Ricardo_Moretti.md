@@ -1,4 +1,5 @@
 ---
+title: "Ricardo Moretti"
 título: "Ricardo Moretti — el hombre de la logia que pagaba por el rito"
 slug: Ricardo_Moretti
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "Samsara"
 título: "Samsara"
 slug: Samsara
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "Residencia De Natalia Petrovna"
 aliases:
  - "Residencia_de_Natalia_Petrovna"
 en_construccion: true

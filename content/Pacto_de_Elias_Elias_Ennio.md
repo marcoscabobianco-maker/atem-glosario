@@ -1,4 +1,5 @@
 ---
+title: "Pacto de Elías"
 título: "Pacto de Elías — Ennio y los siete príncipes dracónicos"
 slug: Pacto_de_Elias_Elias_Ennio
 categoria: evento

@@ -1,4 +1,5 @@
 ---
+title: "Starco"
 aliases:
  - "Starco"
 en_construccion: true

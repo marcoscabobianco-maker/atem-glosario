@@ -1,4 +1,5 @@
 ---
+title: "Duquesa Sophie de Hohenberg"
 categoria: personaje
 tags:
  - "historia-real"

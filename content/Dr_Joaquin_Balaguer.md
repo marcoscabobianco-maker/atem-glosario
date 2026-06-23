@@ -1,4 +1,5 @@
 ---
+title: "Dr. Joaquín Balaguer"
 título: "Dr. Joaquín Balaguer — el hombre donde concluye América"
 slug: Dr_Joaquin_Balaguer
 categoria: personaje

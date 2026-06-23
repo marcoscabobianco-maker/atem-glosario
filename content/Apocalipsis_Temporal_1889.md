@@ -1,4 +1,5 @@
 ---
+title: "El Apocalipsis Temporal de 1889"
 título: "El Apocalipsis Temporal de 1889"
 slug: Apocalipsis_Temporal_1889
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Plotino"
 aliases:
  - "Plotino"
 referenciado_por: 3

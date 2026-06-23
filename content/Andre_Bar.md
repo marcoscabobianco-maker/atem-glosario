@@ -1,4 +1,5 @@
 ---
+title: "André Bar"
 título: "André Bar"
 slug: Andre_Bar
 aliases:

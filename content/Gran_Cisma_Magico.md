@@ -1,4 +1,5 @@
 ---
+title: "Gran Cisma Magico"
 aliases:
  - "Gran_Cisma_Magico"
 en_construccion: true

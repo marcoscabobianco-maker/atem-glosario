@@ -1,4 +1,5 @@
 ---
+title: "Monopolio Priscian de la Magia Legítima — la chispa abierta cerrada en custodia"
 título: "Monopolio Priscian de la Magia Legítima — la chispa abierta cerrada en custodia"
 slug: Monopolio_Priscian_Magia_Legitima
 aliases:

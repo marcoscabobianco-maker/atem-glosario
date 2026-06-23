@@ -1,4 +1,5 @@
 ---
+title: "Cosmogonia Gris"
 aliases:
  - "Cosmogonia_Gris"
 en_construccion: true

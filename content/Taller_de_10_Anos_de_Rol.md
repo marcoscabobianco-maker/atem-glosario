@@ -1,4 +1,5 @@
 ---
+title: "Actualizar: Taller de 10 Años de Rol (referencia en GLOSARIO.md)"
 categoria: lugar
 aliases:
  - "Actualizar: Taller de 10 Años de Rol (referencia en GLOSARIO.md)"

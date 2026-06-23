@@ -1,4 +1,5 @@
 ---
+title: "Coyote (Texas Ranger)"
 tags:
  - "personaje"
  - "antagonista"

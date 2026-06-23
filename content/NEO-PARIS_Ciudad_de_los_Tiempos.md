@@ -1,4 +1,5 @@
 ---
+title: "NEO-PARÍS — Ciudad de los Tiempos"
 título: "NEO-PARÍS — Ciudad de los Tiempos"
 slug: NEO-PARIS_Ciudad_de_los_Tiempos
 aliases:

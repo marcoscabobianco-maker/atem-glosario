@@ -1,4 +1,5 @@
 ---
+title: "Lolth"
 aliases:
  - "Lolth"
 ---

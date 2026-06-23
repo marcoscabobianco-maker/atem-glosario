@@ -1,4 +1,5 @@
 ---
+title: "Esclavos Imperiales"
 aliases:
  - "Esclavos_Imperiales"
 en_construccion: true

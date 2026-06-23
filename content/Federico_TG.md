@@ -1,4 +1,5 @@
 ---
+title: "Federico — el Rey de las Tormentas"
 título: "Federico — el Rey de las Tormentas"
 slug: Federico_TG
 aliases:

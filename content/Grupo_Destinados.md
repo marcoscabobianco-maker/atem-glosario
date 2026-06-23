@@ -1,4 +1,5 @@
 ---
+title: "Grupo & \"Destinados\""
 categoria: lugar
 aliases:
  - "Grupo & \"Destinados\""

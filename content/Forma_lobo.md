@@ -1,4 +1,5 @@
 ---
+title: "Forma Lobo"
 aliases:
  - "Forma_lobo"
 en_construccion: true

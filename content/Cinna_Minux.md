@@ -1,4 +1,5 @@
 ---
+title: "Cinna Minux"
 título: "Cinna Minux"
 slug: Cinna_Minux
 categoria: personaje

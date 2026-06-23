@@ -1,4 +1,5 @@
 ---
+title: "El Plano Astral"
 título: "El Plano Astral"
 slug: Plano_Astral
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Sandalias Rojas"
 categoria: objeto
 tags:
  - "paris-ucronica"

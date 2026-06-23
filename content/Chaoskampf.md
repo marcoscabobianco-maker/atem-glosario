@@ -1,4 +1,5 @@
 ---
+title: "Chaoskampf"
 aliases:
  - "Chaoskampf"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Valle de la Muerte Anatolia"
 aliases:
  - "Valle de la Muerte Anatolia"
 ---

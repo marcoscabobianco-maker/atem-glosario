@@ -1,4 +1,5 @@
 ---
+title: "Templarios"
 aliases:
  - "Templarios"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Madeline Boulet"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Madeline Boulet", "Madeline"]

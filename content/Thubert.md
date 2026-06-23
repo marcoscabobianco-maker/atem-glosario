@@ -1,4 +1,5 @@
 ---
+title: "Thubert"
 aliases:
  - "Thubert"
 en_construccion: true

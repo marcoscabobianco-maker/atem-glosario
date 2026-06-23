@@ -1,4 +1,5 @@
 ---
+title: "Vala (mundo)"
 título: "Vala (mundo)"
 slug: Vala
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Wiskinga"
 aliases:
  - "Wiskinga"
 en_construccion: true

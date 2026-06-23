@@ -1,4 +1,5 @@
 ---
+title: "Las Columnas"
 título: "Las Columnas (eje abstracto de las plataformas)"
 slug: Columna_concepto
 aliases:

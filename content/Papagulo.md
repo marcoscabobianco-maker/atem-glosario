@@ -1,4 +1,5 @@
 ---
+title: "Papagulo"
 tags:
  - "personaje"
  - "marinero"

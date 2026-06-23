@@ -1,4 +1,5 @@
 ---
+title: "Historia Real"
 aliases:
  - "Historia_real"
 en_construccion: true

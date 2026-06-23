@@ -1,4 +1,5 @@
 ---
+title: "Hostias blancas y negras"
 categoria: objeto
 tags: ["objeto", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Hostias blancas y negras", "hostia negra", "hostia blanca"]

@@ -1,4 +1,5 @@
 ---
+title: "Mansión de los Justos"
 categoria: lugar
 tags:
  - "lugar"

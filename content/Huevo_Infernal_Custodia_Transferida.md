@@ -1,4 +1,5 @@
 ---
+title: "Huevo Infernal (Custodia Transferida)"
 categoria: lugar
 aliases:
  - "Huevo Infernal (Custodia Transferida)"

@@ -1,4 +1,5 @@
 ---
+title: "Minaya (TG)"
 categoria: entidad
 tags:
  - "deidad"

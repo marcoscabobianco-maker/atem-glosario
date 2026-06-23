@@ -1,4 +1,5 @@
 ---
+title: "Danza del Conocimiento"
 categoria: evento
 tags:
  - "evento"

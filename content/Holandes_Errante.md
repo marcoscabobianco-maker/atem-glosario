@@ -1,4 +1,5 @@
 ---
+title: "Holandes Errante"
 categoria: entidad
 aliases:
  - "Holandes Errante"

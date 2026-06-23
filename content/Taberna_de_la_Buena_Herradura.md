@@ -1,4 +1,5 @@
 ---
+title: "Taberna de la Buena Herradura"
 título: "Taberna de la Buena Herradura"
 slug: Taberna_de_la_Buena_Herradura
 aliases:

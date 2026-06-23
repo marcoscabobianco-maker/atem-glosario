@@ -1,4 +1,5 @@
 ---
+title: "Rolando (Capitán de Caballeros)"
 categoria: lugar
 aliases:
  - "Rolando (Capitán de Caballeros)"

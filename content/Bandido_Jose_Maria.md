@@ -1,4 +1,5 @@
 ---
+title: "Bandido José María"
 categoria: personaje
 tags:
  - "personaje"

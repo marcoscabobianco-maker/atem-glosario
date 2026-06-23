@@ -1,4 +1,5 @@
 ---
+title: "Kosuth (TG)"
 categoria: entidad
 tags:
  - "deidad"

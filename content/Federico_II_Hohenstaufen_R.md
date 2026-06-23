@@ -1,4 +1,5 @@
 ---
+title: "Federico II Hohenstaufen R"
 aliases:
  - "Federico_II_Hohenstaufen_R"
 en_construccion: true

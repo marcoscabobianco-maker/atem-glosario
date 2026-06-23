@@ -1,4 +1,5 @@
 ---
+title: "Castillo del Prisma"
 categoria: lugar
 tags:
  - "ciudades-invisibles"

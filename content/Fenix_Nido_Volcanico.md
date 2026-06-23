@@ -1,4 +1,5 @@
 ---
+title: "El Fénix del Nido Volcánico"
 título: "El Fénix — guardián del Nido Volcánico"
 slug: Fenix_Nido_Volcanico
 aliases:

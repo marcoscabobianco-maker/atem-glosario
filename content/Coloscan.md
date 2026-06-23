@@ -1,4 +1,5 @@
 ---
+title: "Coloscan"
 categoria: lugar
 tags:
  - "cdi"

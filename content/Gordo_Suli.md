@@ -1,4 +1,5 @@
 ---
+title: "Gordo Suli"
 categoria: personaje
 aliases:
  - "Gordo Suli"

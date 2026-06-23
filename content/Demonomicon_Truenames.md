@@ -1,4 +1,5 @@
 ---
+title: "El Demonomicon de los Truenames"
 título: "El Demonomicon de los Truenames"
 slug: Demonomicon_Truenames
 aliases:

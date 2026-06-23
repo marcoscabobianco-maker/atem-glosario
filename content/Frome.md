@@ -1,4 +1,5 @@
 ---
+title: "Frome"
 categoria: personaje
 tags:
  - "personaje"

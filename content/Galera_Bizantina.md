@@ -1,4 +1,5 @@
 ---
+title: "La Galera Bizantina"
 título: "La Galera Bizantina"
 slug: Galera_Bizantina
 aliases:

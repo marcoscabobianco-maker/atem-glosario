@@ -1,4 +1,5 @@
 ---
+title: "Belial"
 aliases:
  - "Belial"
 en_construccion: true

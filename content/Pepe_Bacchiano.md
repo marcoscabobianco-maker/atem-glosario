@@ -1,4 +1,5 @@
 ---
+title: "Pepe Bacchiano"
 categoria: personaje
 tags:
  - "personaje"

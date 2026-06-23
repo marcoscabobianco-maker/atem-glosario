@@ -1,4 +1,5 @@
 ---
+title: "Tamano"
 aliases:
  - "Tamano"
 en_construccion: true

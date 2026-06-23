@@ -1,4 +1,5 @@
 ---
+title: "Natalya"
 título: "Natalya — el fusil que Antonio Portet trata como a una mujer"
 slug: Natalya
 categoria: objeto

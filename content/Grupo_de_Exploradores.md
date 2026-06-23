@@ -1,4 +1,5 @@
 ---
+title: "GRUPO DE EXPLORADORES"
 categoria: lugar
 aliases:
  - "GRUPO DE EXPLORADORES"

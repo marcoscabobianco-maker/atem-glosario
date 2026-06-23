@@ -1,4 +1,5 @@
 ---
+title: "Cristal-llave / Bifrost"
 categoria: personaje
 tags:
  - "cdi"

@@ -1,4 +1,5 @@
 ---
+title: "Marxismo Comunismo"
 aliases:
  - "Marxismo_Comunismo"
 en_construccion: true

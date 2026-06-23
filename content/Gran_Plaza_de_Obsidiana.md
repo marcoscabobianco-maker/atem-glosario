@@ -1,4 +1,5 @@
 ---
+title: "La Gran Plaza de Obsidiana"
 título: "La Gran Plaza de Obsidiana — la planicie estrella de Ciudad Estrella"
 slug: Gran_Plaza_de_Obsidiana
 aliases:

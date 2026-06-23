@@ -1,4 +1,5 @@
 ---
+title: "Bola Cristal comunicacion"
 aliases:
  - "Bola Cristal comunicacion"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Kronamon Church"
 categoria: lugar
 tags:
  - "paris-ucronica"

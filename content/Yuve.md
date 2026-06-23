@@ -1,4 +1,5 @@
 ---
+title: "Yuvé"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Yuvé", "Juvé"]

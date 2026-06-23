@@ -1,4 +1,5 @@
 ---
+title: "Autómatas Siderales (Guardianes Interestelares)"
 categoria: criatura
 tags:
  - "paris-ucronica"

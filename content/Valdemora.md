@@ -1,4 +1,5 @@
 ---
+title: "Valdemora"
 título: "Valdemora"
 slug: Valdemora
 categoria: lugar

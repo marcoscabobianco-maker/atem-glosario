@@ -1,4 +1,5 @@
 ---
+title: "Wyvern Krynn"
 aliases:
  - "Wyvern Krynn"
 ---

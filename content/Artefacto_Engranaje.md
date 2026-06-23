@@ -1,4 +1,5 @@
 ---
+title: "Artefacto Engranaje"
 categoria: artefacto
 tags:
  - "artefacto"

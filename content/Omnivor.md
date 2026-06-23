@@ -1,4 +1,5 @@
 ---
+title: "Omnivor"
 título: "Omnivor"
 slug: Omnivor
 categoria: entidad

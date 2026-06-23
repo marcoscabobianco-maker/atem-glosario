@@ -1,4 +1,5 @@
 ---
+title: "Vinculación narrativa"
 aliases:
  - "Vinculación narrativa"
 referenciado_por: 3

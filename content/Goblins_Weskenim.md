@@ -1,4 +1,5 @@
 ---
+title: "Goblins de King Weskenim"
 título: "Goblins de King Weskenim"
 slug: Goblins_Weskenim
 categoria: facción

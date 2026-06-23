@@ -1,4 +1,5 @@
 ---
+title: "NYC moderno"
 categoria: lugar
 aliases:
  - "NYC moderno"

@@ -1,4 +1,5 @@
 ---
+title: "Imperio Original de Albion"
 aliases:
  - "Imperio Original de Albion"
 ---

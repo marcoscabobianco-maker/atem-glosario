@@ -1,4 +1,5 @@
 ---
+title: "Racho"
 categoria: personaje
 tags:
  - "self-avatar"

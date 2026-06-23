@@ -1,4 +1,5 @@
 ---
+title: "Negociación con Gigantes de Ur"
 aliases:
  - "Negociación con Gigantes de Ur"
 ---

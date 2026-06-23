@@ -1,4 +1,5 @@
 ---
+title: "Imp Trasgo"
 aliases:
  - "Imp Trasgo"
 ---

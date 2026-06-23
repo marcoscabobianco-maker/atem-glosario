@@ -1,4 +1,5 @@
 ---
+title: "Culto de Set"
 título: "Culto de Set — facción del Forum oscuro"
 slug: Culto_de_Set
 aliases:

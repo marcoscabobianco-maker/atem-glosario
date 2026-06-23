@@ -1,4 +1,5 @@
 ---
+title: "Glaucom Maestro"
 aliases:
  - "Glaucom Maestro"
 ---

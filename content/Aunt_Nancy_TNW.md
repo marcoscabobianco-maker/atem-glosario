@@ -1,4 +1,5 @@
 ---
+title: "Aunt Nancy (TNW)"
 tags:
  - "gary-tnw"
  - "faction-leader"

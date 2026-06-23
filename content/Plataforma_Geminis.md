@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Géminis"
 título: "Plataforma de Géminis"
 slug: Plataforma_Geminis
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Valle De Burdock"
 aliases:
  - "Valle_de_Burdock"
 en_construccion: true

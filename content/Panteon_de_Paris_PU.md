@@ -1,4 +1,5 @@
 ---
+title: "Panteón de París (PU)"
 título: "Panteón de París (PU)"
 slug: Panteon_de_Paris_PU
 categoria: lugar

@@ -1,4 +1,5 @@
 ---
+title: "Cronomon Heredeth — el Titán Negro del Tiempo"
 título: "Cronomon Heredeth — el Titán Negro del Tiempo"
 slug: Kronamon_HEREDETH_Titan_Negro
 aliases:

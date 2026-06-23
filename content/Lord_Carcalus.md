@@ -1,4 +1,5 @@
 ---
+title: "Lord Carcalus (Arena Lord)"
 título: "Lord Carcalus (Arena Lord)"
 slug: Lord_Carcalus
 categoria: personaje

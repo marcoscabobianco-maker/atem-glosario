@@ -1,4 +1,5 @@
 ---
+title: "Silas del Umbral"
 título: "Silas del Umbral"
 slug: Silas_del_Umbral
 aliases:

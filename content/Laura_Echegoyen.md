@@ -1,4 +1,5 @@
 ---
+title: "Laura Echegoyen"
 título: "Laura Echegoyen — la hija del Pupe, la rubia vasca de Claromecó"
 slug: Laura_Echegoyen
 categoria: personaje

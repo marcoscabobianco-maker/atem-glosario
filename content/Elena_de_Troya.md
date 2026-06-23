@@ -1,4 +1,5 @@
 ---
+title: "Elena de Troya"
 tags:
  - "cdi"
 aliases:

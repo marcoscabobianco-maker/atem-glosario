@@ -1,4 +1,5 @@
 ---
+title: "Kerubines (Paladinas)"
 categoria: personaje
 tags:
  - "cdi"

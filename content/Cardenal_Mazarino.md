@@ -1,4 +1,5 @@
 ---
+title: "Cardenal Mazarino"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Cardenal Mazarino", "Mazarino"]

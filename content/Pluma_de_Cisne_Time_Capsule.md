@@ -1,4 +1,5 @@
 ---
+title: "Pluma de Cisne Time Capsule"
 aliases:
  - "Pluma de Cisne Time Capsule"
  - "Pluma de Cisne"

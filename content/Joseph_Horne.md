@@ -1,4 +1,5 @@
 ---
+title: "Joseph Horne — Obispo y padre"
 título: "Joseph Horne — Obispo y padre"
 slug: Joseph_Horne
 aliases:

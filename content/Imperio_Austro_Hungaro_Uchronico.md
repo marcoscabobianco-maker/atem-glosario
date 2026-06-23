@@ -1,4 +1,5 @@
 ---
+title: "Imperio Austro Hungaro Uchronico"
 aliases:
  - "Imperio_Austro_Hungaro_Uchronico"
 en_construccion: true

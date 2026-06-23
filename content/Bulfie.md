@@ -1,4 +1,5 @@
 ---
+title: "Bulfie"
 categoria: personaje
 tags:
  - "personaje"

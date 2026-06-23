@@ -1,4 +1,5 @@
 ---
+title: "Combate Nocturno en Cripta"
 aliases:
  - "Combate Nocturno en Cripta"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "K (guardián del Castillo del Prisma)"
 tags:
  - "cdi"
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Gamaliel"
 aliases:
  - "Gamaliel"
 en_construccion: true

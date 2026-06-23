@@ -1,4 +1,5 @@
 ---
+title: "El Milagro de Miles"
 título: "El Milagro de Miles — la innovación del vuelo mágico"
 slug: Milagro_de_Miles
 aliases:

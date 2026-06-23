@@ -1,4 +1,5 @@
 ---
+title: "Farruco"
 tags:
  - "corona-del-norte"
  - "sierra-nevada"

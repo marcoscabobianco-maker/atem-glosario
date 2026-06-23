@@ -1,4 +1,5 @@
 ---
+title: "Misa Negra de Bucarest"
 tags:
  - "paris-ucronica"
  - "event"

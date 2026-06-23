@@ -1,4 +1,5 @@
 ---
+title: "Osfiotauro"
 categoria: criatura
 tags:
  - "paris-ucronica"

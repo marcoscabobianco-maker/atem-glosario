@@ -1,4 +1,5 @@
 ---
+title: "Osporn"
 categoria: personaje
 aliases:
  - "Osporn"

@@ -1,4 +1,5 @@
 ---
+title: "El Universo Dual"
 título: "El Universo Dual"
 slug: Universo_Dual_TG
 aliases:

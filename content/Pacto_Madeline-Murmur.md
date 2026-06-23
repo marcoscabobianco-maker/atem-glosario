@@ -1,4 +1,5 @@
 ---
+title: "Pacto Madeline-Murmur"
 categoria: evento
 tags: ["evento", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Pacto Madeline-Murmur", "Pacto con Murmur"]

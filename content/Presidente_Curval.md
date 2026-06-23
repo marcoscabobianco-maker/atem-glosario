@@ -1,4 +1,5 @@
 ---
+title: "Presidente Curval"
 categoria: personaje
 tags:
  - "cdi"

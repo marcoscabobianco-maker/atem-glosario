@@ -1,4 +1,5 @@
 ---
+title: "Ojo de Minos / Eye of Minos"
 categoria: artefacto
 tags:
  - "cdi"

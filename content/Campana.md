@@ -1,4 +1,5 @@
 ---
+title: "Campana"
 aliases:
  - "Campana"
 en_construccion: true

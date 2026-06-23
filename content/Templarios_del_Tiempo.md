@@ -1,4 +1,5 @@
 ---
+title: "Templarios del Tiempo"
 título: "Templarios del Tiempo — paladines del equilibrio cronológico"
 slug: Templarios_del_Tiempo
 aliases:

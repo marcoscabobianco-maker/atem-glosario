@@ -1,4 +1,5 @@
 ---
+title: "Aldebarán (Estrella / Plataforma)"
 categoria: lugar
 tags:
  - "paris-ucronica"

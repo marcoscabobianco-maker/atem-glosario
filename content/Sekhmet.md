@@ -1,4 +1,5 @@
 ---
+title: "Sekhmet"
 aliases:
  - "Sekhmet"
 en_construccion: true

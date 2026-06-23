@@ -1,4 +1,5 @@
 ---
+title: "Lenin R"
 aliases:
  - "Lenin_R"
 en_construccion: true

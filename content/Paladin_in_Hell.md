@@ -1,4 +1,5 @@
 ---
+title: "Paladin in Hell"
 título: "Paladin in Hell"
 slug: Paladin_in_Hell
 categoria: arco

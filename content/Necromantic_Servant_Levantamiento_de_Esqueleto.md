@@ -1,4 +1,5 @@
 ---
+title: "Necromantic Servant (Levantamiento de Esqueleto)"
 categoria: personaje
 aliases:
  - "Necromantic Servant (Levantamiento de Esqueleto)"

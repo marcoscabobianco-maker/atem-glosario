@@ -1,4 +1,5 @@
 ---
+title: "Armadura de Escamas"
 categoria: artefacto
 tags:
  - "paris-ucronica"

@@ -1,4 +1,5 @@
 ---
+title: "Los Malditos"
 título: "Los Malditos"
 slug: Los_Malditos_Grupo
 aliases:

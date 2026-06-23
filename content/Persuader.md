@@ -1,4 +1,5 @@
 ---
+title: "Persuader"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Persuader"]

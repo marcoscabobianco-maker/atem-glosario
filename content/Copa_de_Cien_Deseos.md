@@ -1,4 +1,5 @@
 ---
+title: "Copa de Cien Deseos"
 categoria: artefacto
 tags:
  - "objeto"

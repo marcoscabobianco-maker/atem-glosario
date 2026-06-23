@@ -1,4 +1,5 @@
 ---
+title: "Clarisa"
 # === Identidad ===
 slug: Clarisa
 canonical_name: "Clarisa"

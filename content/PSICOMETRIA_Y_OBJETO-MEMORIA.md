@@ -1,4 +1,5 @@
 ---
+title: "PSICOMETRÍA Y OBJETO-MEMORIA"
 categoria: personaje
 aliases:
  - "PSICOMETRÍA Y OBJETO-MEMORIA"

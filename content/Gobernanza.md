@@ -1,4 +1,5 @@
 ---
+title: "Gobernanza"
 aliases:
  - "Gobernanza"
 en_construccion: true

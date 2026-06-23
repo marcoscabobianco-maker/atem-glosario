@@ -1,4 +1,5 @@
 ---
+title: "José López Rega — \"Lopecito\""
 título: "José López Rega — 'Lopecito', el cabo que sube hacia la sombra"
 slug: Lopez_Rega
 categoria: personaje

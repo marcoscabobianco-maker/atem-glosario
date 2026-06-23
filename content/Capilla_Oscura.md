@@ -1,4 +1,5 @@
 ---
+title: "La Capilla Oscura"
 título: "La Capilla Oscura — el eco operativo de Notre Dame en Caldero"
 slug: Capilla_Oscura
 aliases:

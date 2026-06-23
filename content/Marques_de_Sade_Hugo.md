@@ -1,4 +1,5 @@
 ---
+title: "El Marqués de Sade — Hugo"
 título: "El Marqués de Sade — Hugo"
 slug: Marques_de_Sade_Hugo
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Idaho"
 aliases:
  - "Idaho"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Posible Figura Recurrente Trans-campana"
 aliases:
  - "Posible_figura_recurrente_trans-campana"
 en_construccion: true

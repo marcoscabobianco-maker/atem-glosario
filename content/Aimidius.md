@@ -1,4 +1,5 @@
 ---
+title: "Aimidius"
 aliases:
  - "Aimidius"
 en_construccion: true

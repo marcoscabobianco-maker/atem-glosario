@@ -1,4 +1,5 @@
 ---
+title: "Ravenloft (Dominio de Ardis Vala) — REDIRECT"
 título: "Ravenloft (Dominio de Ardis Vala) — REDIRECT"
 slug: Ravenloft_Dominio_Ardis_Vala
 categoria: redirect

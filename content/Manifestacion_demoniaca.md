@@ -1,4 +1,5 @@
 ---
+title: "Manifestacion Demoniaca"
 aliases:
  - "Manifestacion_demoniaca"
 en_construccion: true

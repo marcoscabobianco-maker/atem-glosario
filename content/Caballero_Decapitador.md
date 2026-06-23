@@ -1,4 +1,5 @@
 ---
+title: "Caballero Decapitador"
 categoria: lugar
 aliases:
  - "Caballero Decapitador"

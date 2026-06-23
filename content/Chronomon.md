@@ -1,4 +1,5 @@
 ---
+title: "Chronomon"
 título: "Chronomon"
 slug: Chronomon
 aliases:

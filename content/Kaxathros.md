@@ -1,4 +1,5 @@
 ---
+title: "Kaxathros"
 categoria: personaje
 tags:
  - "personaje"

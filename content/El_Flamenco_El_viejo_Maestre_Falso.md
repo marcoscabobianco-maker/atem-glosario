@@ -1,4 +1,5 @@
 ---
+title: "El Flamenco / \"El viejo\" / Maestre Falso"
 categoria: personaje
 aliases:
  - "El Flamenco / \"El viejo\" / Maestre Falso"

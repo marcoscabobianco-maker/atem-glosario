@@ -1,4 +1,5 @@
 ---
+title: "Liddha"
 título: "Liddha"
 slug: Liddha
 categoria: personaje

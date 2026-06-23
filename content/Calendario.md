@@ -1,4 +1,5 @@
 ---
+title: "Calendario"
 # === Identidad ===
 slug: Calendario
 canonical_name: "Calendario"

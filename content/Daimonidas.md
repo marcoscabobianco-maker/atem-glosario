@@ -1,4 +1,5 @@
 ---
+title: "Daimonidas"
 título: "Daimonidas"
 slug: Daimonidas
 categoria: personaje

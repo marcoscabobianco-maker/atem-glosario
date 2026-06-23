@@ -1,4 +1,5 @@
 ---
+title: "Calendario ritual del Año Nuevo de Uruk"
 categoria: concepto
 tags: ["concepto", "vala"]
 aliases: ["Año Nuevo de Uruk", "Calendario ritual de Uruk"]

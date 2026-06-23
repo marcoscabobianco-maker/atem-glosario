@@ -1,4 +1,5 @@
 ---
+title: "Egipciana Revolt"
 categoria: evento
 tags:
  - "evento"

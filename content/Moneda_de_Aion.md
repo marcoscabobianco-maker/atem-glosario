@@ -1,4 +1,5 @@
 ---
+title: "Moneda de Aión"
 categoria: objeto
 tags:
  - "objeto"

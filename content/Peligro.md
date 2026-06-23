@@ -1,4 +1,5 @@
 ---
+title: "Peligro"
 aliases:
  - "Peligro"
 referenciado_por: 3

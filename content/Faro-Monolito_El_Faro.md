@@ -1,4 +1,5 @@
 ---
+title: "Faro-Monolito (El Faro)"
 categoria: lugar
 tags:
  - "paris-ucronica"

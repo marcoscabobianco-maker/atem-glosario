@@ -1,4 +1,5 @@
 ---
+title: "Corporalidad Infernal"
 categoria: personaje
 tags:
  - "cdi"

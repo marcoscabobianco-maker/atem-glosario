@@ -1,4 +1,5 @@
 ---
+title: "Bes (TG)"
 categoria: personaje
 tags:
  - "personaje"

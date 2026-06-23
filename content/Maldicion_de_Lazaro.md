@@ -1,4 +1,5 @@
 ---
+title: "Maldición de Lázaro"
 categoria: evento
 tags:
  - "evento"

@@ -1,4 +1,5 @@
 ---
+title: "Centesimos"
 aliases:
  - "Centesimos"
 en_construccion: true

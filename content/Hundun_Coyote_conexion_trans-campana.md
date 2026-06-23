@@ -1,4 +1,5 @@
 ---
+title: "Hundun ↔ Coyote (conexión trans-campaña)"
 tags:
  - "conexión"
  - "trans-campaña"

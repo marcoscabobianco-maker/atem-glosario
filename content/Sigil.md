@@ -1,4 +1,5 @@
 ---
+title: "Sigil"
 título: "Sigil"
 slug: Sigil
 aliases:

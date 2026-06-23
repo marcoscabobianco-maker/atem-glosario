@@ -1,4 +1,5 @@
 ---
+title: "Caronte"
 aliases:
  - "Caronte"
 en_construccion: true

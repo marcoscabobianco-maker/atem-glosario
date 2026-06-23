@@ -1,4 +1,5 @@
 ---
+title: "Sombra Blanca"
 categoria: personaje
 tags:
  - "cdi"

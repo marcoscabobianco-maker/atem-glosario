@@ -1,4 +1,5 @@
 ---
+title: "Relacion Ariadna"
 aliases:
  - "Relacion_Ariadna"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Spike (el anarquista)"
 título: "Spike (el anarquista)"
 slug: Spike_Anarquista
 aliases:

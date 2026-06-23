@@ -1,4 +1,5 @@
 ---
+title: "Negra Guardaparque"
 aliases:
  - "Negra_guardaparque"
 en_construccion: true

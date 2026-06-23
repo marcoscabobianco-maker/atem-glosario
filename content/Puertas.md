@@ -1,4 +1,5 @@
 ---
+title: "Puertas"
 aliases:
  - "Puertas"
 en_construccion: true

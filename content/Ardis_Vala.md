@@ -1,4 +1,5 @@
 ---
+title: "Ardis Vala — el cristal de diez capas"
 título: "Ardis Vala — el cristal de diez capas"
 slug: Ardis_Vala
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Huarco"
 categoria: lugar
 tags:
  - "cdi"

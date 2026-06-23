@@ -1,4 +1,5 @@
 ---
+title: "Flechas Incendiarias Mágicas"
 categoria: lugar
 aliases:
  - "Flechas Incendiarias Mágicas"

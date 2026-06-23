@@ -1,4 +1,5 @@
 ---
+title: "Analisis Grupal"
 aliases:
  - "Analisis_grupal"
 en_construccion: true

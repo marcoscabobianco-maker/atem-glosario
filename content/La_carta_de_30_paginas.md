@@ -1,4 +1,5 @@
 ---
+title: "La carta de 30 páginas"
 título: "La carta de 30 páginas"
 slug: La_carta_de_30_paginas
 categoria: objeto

@@ -1,4 +1,5 @@
 ---
+title: "Zoro / Dr. Zoulu"
 título: "Zoro / Dr. Zoulu"
 slug: Zoro_Dr_Zoulu
 categoria: personaje

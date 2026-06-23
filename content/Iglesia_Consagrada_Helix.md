@@ -1,4 +1,5 @@
 ---
+title: "Iglesia Consagrada de Helix — el recinto que repele a los grandes muertos"
 título: "Iglesia Consagrada de Helix — el recinto que repele a los grandes muertos"
 slug: Iglesia_Consagrada_Helix
 aliases:

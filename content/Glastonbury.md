@@ -1,4 +1,5 @@
 ---
+title: "Glastonbury"
 aliases:
  - "Glastonbury"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Apis — Coronel vampiro de la Mano Negra"
 título: "Apis — Coronel vampiro de la Mano Negra"
 slug: Apis
 aliases:

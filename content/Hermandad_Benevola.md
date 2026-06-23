@@ -1,4 +1,5 @@
 ---
+title: "Hermandad Benevola"
 título: "Hermandad Benevola — contrabandistas de Glastumville"
 slug: Hermandad_Benevola
 aliases:

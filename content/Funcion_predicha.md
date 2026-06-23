@@ -1,4 +1,5 @@
 ---
+title: "Funcion Predicha"
 aliases:
  - "Funcion_predicha"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Priscians"
 título: "Priscians (Orden Secreta de Hechiceros)"
 slug: Priscians
 categoria: facción

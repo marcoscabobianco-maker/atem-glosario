@@ -1,4 +1,5 @@
 ---
+title: "Diamond Lake"
 aliases:
  - "Diamond_Lake"
 en_construccion: true

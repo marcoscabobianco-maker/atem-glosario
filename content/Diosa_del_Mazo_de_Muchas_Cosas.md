@@ -1,4 +1,5 @@
 ---
+title: "La Diosa del Mazo de Muchas Cosas"
 título: "La Diosa del Mazo de Muchas Cosas — el juego en la Montaña de Fuego"
 slug: Diosa_del_Mazo_de_Muchas_Cosas
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Maristo"
 título: "Maristo"
 slug: Maristo
 aliases:

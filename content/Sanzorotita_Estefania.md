@@ -1,4 +1,5 @@
 ---
+title: "Sanzorotita Estefania"
 aliases:
  - "Sanzorotita_Estefania"
 en_construccion: true

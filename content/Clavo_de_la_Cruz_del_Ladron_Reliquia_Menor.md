@@ -1,4 +1,5 @@
 ---
+title: "Clavo de la Cruz del Ladrón (Reliquia Menor)"
 categoria: lugar
 aliases:
  - "Clavo de la Cruz del Ladrón (Reliquia Menor)"

@@ -1,4 +1,5 @@
 ---
+title: "Novice Cruz"
 título: "Novice Cruz"
 slug: Novice_Cruz
 categoria: facción

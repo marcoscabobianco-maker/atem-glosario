@@ -1,4 +1,5 @@
 ---
+title: "Majestic"
 título: "Majestic — la cofradía sin rostro del norte"
 slug: Majestic
 categoria: facción

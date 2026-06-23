@@ -1,4 +1,5 @@
 ---
+title: "Lobo Criatura De Sombra"
 aliases:
  - "Lobo_Criatura_de_Sombra"
 en_construccion: true

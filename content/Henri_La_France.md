@@ -1,4 +1,5 @@
 ---
+title: "Henri La France"
 título: "Henri La France"
 slug: Henri_La_France
 aliases:

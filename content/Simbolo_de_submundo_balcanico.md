@@ -1,4 +1,5 @@
 ---
+title: "Simbolo De Submundo Balcanico"
 aliases:
  - "Simbolo_de_submundo_balcanico"
 en_construccion: true

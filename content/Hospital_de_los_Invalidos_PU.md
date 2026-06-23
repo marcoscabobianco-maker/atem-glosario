@@ -1,4 +1,5 @@
 ---
+title: "El Hospital de los Inválidos"
 título: "El Hospital de los Inválidos"
 slug: Hospital_de_los_Invalidos_PU
 aliases:

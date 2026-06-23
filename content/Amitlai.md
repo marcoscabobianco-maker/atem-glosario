@@ -1,4 +1,5 @@
 ---
+title: "Amitlai"
 # === Identidad ===
 slug: Amitlai
 canonical_name: "Amitlai"

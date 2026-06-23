@@ -1,4 +1,5 @@
 ---
+title: "Corazón de Plomo — Alquimia de Transmutación"
 título: "Corazón de Plomo — Alquimia de Transmutación"
 slug: Corazon_de_Plomo_Alquimia_de_Transmutacion_TNW
 aliases:

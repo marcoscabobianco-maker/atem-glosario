@@ -1,4 +1,5 @@
 ---
+title: "Portero Capturador Templario"
 categoria: personaje
 aliases:
  - "Portero Capturador Templario"

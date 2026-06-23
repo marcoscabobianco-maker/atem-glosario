@@ -1,4 +1,5 @@
 ---
+title: "Paradoja"
 aliases:
  - "Paradoja"
 en_construccion: true

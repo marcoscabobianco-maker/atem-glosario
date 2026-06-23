@@ -1,4 +1,5 @@
 ---
+title: "Guerrero del Corazón de Oro"
 categoria: personaje
 tags:
  - "cdi"

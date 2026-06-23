@@ -1,4 +1,5 @@
 ---
+title: "Francisco de Cominges"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Francisco de Cominges", "Comminges", "Capitán Cominges", "Teniente Cominges"]

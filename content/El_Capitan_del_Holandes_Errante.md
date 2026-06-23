@@ -1,4 +1,5 @@
 ---
+title: "El Capitán del Holandés Errante"
 título: "El Capitán del Holandés Errante"
 slug: El_Capitan_del_Holandes_Errante
 aliases:

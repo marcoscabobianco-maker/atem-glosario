@@ -1,4 +1,5 @@
 ---
+title: "Quasi — el chiquito de los pactos"
 título: "Quasi — el chiquito de los pactos"
 slug: Quasi_demonio_menor
 aliases:

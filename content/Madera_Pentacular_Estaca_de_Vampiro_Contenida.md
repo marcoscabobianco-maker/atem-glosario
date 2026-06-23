@@ -1,4 +1,5 @@
 ---
+title: "Madera Pentacular (Estaca de Vampiro Contenida)"
 categoria: lugar
 aliases:
  - "Madera Pentacular (Estaca de Vampiro Contenida)"

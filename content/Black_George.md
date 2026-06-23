@@ -1,4 +1,5 @@
 ---
+title: "Black George"
 título: "Black George — la mesa de la Mano Negra"
 slug: Black_George
 aliases:

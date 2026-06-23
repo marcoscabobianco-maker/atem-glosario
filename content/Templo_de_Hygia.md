@@ -1,4 +1,5 @@
 ---
+title: "Templo de Hygia"
 aliases:
  - "Templo de Hygia"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Anarquirón (guión)"
 categoria: personaje
 tags:
  - "elaboración"

@@ -1,4 +1,5 @@
 ---
+title: "Excalibur"
 categoria: artefacto
 tags:
  - "objeto"

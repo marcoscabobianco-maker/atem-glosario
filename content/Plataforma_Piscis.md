@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Piscis"
 título: "Plataforma de Piscis"
 slug: Plataforma_Piscis
 aliases:

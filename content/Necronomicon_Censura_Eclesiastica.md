@@ -1,4 +1,5 @@
 ---
+title: "Necronomicon Censura Eclesiastica"
 aliases:
  - "Necronomicon_Censura_Eclesiastica"
 en_construccion: true

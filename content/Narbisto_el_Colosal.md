@@ -1,4 +1,5 @@
 ---
+title: "Narbisto el Colosal"
 título: "Narbisto el Colosal — Gran Rey de los Goblins Unidos"
 slug: Narbisto_el_Colosal
 aliases:

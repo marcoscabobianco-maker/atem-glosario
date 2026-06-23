@@ -1,4 +1,5 @@
 ---
+title: "Mindflayer Ilithid"
 aliases:
  - "Mindflayer Ilithid"
 ---

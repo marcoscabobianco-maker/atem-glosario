@@ -1,4 +1,5 @@
 ---
+title: "Hallazgo Paradoja"
 aliases:
  - "Hallazgo_paradoja"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Johny Vengador (TG)"
 categoria: personaje
 tags:
  - "personaje"

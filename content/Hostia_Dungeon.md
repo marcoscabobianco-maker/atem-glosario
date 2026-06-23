@@ -1,4 +1,5 @@
 ---
+title: "Hostia Dungeon"
 aliases:
  - "Hostia Dungeon"
 ---

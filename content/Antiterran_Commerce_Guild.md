@@ -1,4 +1,5 @@
 ---
+title: "Antiterran Commerce Guild"
 aliases:
  - "Antiterran_Commerce_Guild"
 en_construccion: true

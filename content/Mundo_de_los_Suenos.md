@@ -1,4 +1,5 @@
 ---
+title: "Mundo De Los Suenos"
 aliases:
  - "Mundo_de_los_Suenos"
 en_construccion: true

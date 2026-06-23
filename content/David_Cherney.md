@@ -1,4 +1,5 @@
 ---
+title: "David Cherney"
 título: "David Cherney — el viejo maestro de la logia Hijos del Trabajo"
 slug: David_Cherney
 categoria: personaje

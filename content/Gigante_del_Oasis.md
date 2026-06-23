@@ -1,4 +1,5 @@
 ---
+title: "Gigante del Oasis"
 tags:
  - "paris-ucronica"
  - "personaje"

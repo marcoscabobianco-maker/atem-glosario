@@ -1,4 +1,5 @@
 ---
+title: "Georgie"
 categoria: personaje
 tags:
  - "paris-ucronica"

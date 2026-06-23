@@ -1,4 +1,5 @@
 ---
+title: "Sala De Control"
 aliases:
  - "Sala_de_control"
 en_construccion: true

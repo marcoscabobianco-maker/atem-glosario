@@ -1,4 +1,5 @@
 ---
+title: "Panfagonia"
 título: "Panfagonia"
 slug: Panfagonia
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Manhattan / New Amsterdam (1662-1666)"
 categoria: lugar
 tags:
  - "corona-del-norte"

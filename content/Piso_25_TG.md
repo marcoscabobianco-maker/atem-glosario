@@ -1,4 +1,5 @@
 ---
+title: "Piso 25 TG"
 aliases:
  - "Piso_25_TG"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Clinamen"
 aliases:
  - "Clinamen"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Little Death (Campamento)"
 categoria: lugar
 tags:
  - "corona-del-norte"

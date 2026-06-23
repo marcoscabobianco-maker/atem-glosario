@@ -1,4 +1,5 @@
 ---
+title: "Wanbag"
 aliases:
  - "Wanbag"
 en_construccion: true

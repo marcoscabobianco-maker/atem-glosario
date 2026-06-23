@@ -1,4 +1,5 @@
 ---
+title: "Leyenda"
 categoria: concepto
 tags:
  - "sistema"

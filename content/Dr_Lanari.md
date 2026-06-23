@@ -1,4 +1,5 @@
 ---
+title: "Dr. Lanari"
 título: "Dr. Lanari — el médico de guardia del Borda"
 slug: Dr_Lanari
 categoria: personaje

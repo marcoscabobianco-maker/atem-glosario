@@ -1,4 +1,5 @@
 ---
+title: "Phlebotomas Plumthorn"
 título: "Phlebotomas Plumthorn"
 slug: Phlebotomas_Plumthorn
 categoria: personaje

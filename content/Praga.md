@@ -1,4 +1,5 @@
 ---
+title: "Praga"
 título: "Praga"
 slug: Praga
 categoria: lugar

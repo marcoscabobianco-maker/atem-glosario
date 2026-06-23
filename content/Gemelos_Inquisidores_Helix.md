@@ -1,4 +1,5 @@
 ---
+title: "Gemelos Inquisidores de Helix — Lucio Bermond y Luke"
 título: "Gemelos Inquisidores de Helix — Lucio Bermond y Luke"
 slug: Gemelos_Inquisidores_Helix
 aliases:

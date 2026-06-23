@@ -1,4 +1,5 @@
 ---
+title: "Horus Dios Archonteo"
 aliases:
  - "Horus_dios_archonteo"
 en_construccion: true

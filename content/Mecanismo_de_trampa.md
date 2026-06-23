@@ -1,4 +1,5 @@
 ---
+title: "Mecanismo De Trampa"
 aliases:
  - "Mecanismo_de_trampa"
 en_construccion: true

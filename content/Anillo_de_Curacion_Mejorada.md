@@ -1,4 +1,5 @@
 ---
+title: "Anillo de Curación Mejorada"
 categoria: personaje
 aliases:
  - "Anillo de Curación Mejorada"

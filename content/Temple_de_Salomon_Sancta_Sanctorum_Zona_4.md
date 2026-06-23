@@ -1,4 +1,5 @@
 ---
+title: "Temple de Salomón — Sancta Sanctorum (Zona 4)"
 categoria: lugar
 aliases:
  - "Temple de Salomón — Sancta Sanctorum (Zona 4)"

@@ -1,4 +1,5 @@
 ---
+title: "Gusano Dimensional"
 categoria: criatura
 tags:
  - "paris-ucronica"

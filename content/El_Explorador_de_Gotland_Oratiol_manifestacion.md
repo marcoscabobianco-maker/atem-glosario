@@ -1,4 +1,5 @@
 ---
+title: "El Explorador de Gotland / Oratiol (manifestación)"
 categoria: personaje
 tags:
  - "personaje"

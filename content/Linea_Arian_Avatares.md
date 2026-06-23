@@ -1,4 +1,5 @@
 ---
+title: "La Línea Arian — avatares y Reunidos"
 título: "La Línea Arian — avatares y Reunidos del cosmos extendido"
 slug: Linea_Arian_Avatares
 aliases:

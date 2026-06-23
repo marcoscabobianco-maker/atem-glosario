@@ -1,4 +1,5 @@
 ---
+title: "El Guerrero (tren)"
 categoria: artefacto
 tags:
  - "objeto"

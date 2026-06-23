@@ -1,4 +1,5 @@
 ---
+title: "Cronomancia"
 aliases:
  - "Cronomancia"
 en_construccion: true

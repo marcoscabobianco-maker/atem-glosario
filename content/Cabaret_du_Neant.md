@@ -1,4 +1,5 @@
 ---
+title: "Cabaret du Néant"
 título: "Cabaret du Néant"
 slug: Cabaret_du_Neant
 aliases:

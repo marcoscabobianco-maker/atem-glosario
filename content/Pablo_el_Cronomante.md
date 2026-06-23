@@ -1,4 +1,5 @@
 ---
+title: "Pablo el Cronomante"
 título: "Pablo el Cronomante — el viajero del tiempo de la Capilla Oscura"
 slug: Pablo_el_Cronomante
 aliases:

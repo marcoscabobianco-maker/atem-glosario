@@ -1,4 +1,5 @@
 ---
+title: "Reina de Mississippi"
 categoria: artefacto
 tags:
  - "objeto"

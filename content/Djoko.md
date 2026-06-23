@@ -1,4 +1,5 @@
 ---
+title: "Djoko"
 aliases:
  - "Djoko"
 en_construccion: true

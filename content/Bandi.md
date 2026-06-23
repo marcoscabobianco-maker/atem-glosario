@@ -1,4 +1,5 @@
 ---
+title: "Bandi"
 categoria: personaje
 tags:
  - "paris-ucronica"

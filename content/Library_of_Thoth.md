@@ -1,4 +1,5 @@
 ---
+title: "Library of Thoth"
 título: "Library of Thoth"
 slug: Library_of_Thoth
 categoria: lugar

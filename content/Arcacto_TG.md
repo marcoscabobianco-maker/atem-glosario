@@ -1,4 +1,5 @@
 ---
+title: "Arcacto — el Gran Carnero del fuego"
 título: "Arcacto — el Gran Carnero del fuego"
 slug: Arcacto_TG
 aliases:

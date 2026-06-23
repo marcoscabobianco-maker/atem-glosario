@@ -1,4 +1,5 @@
 ---
+title: "La Papisa (TNW)"
 tags:
  - "gary-tnw"
  - "guardian"

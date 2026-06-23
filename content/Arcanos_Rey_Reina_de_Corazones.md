@@ -1,4 +1,5 @@
 ---
+title: "Arcanos: Rey y Reina de Corazones"
 título: "Arcanos: Rey y Reina de Corazones"
 slug: Arcanos_Rey_Reina_de_Corazones
 aliases:

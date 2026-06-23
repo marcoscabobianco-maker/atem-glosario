@@ -1,4 +1,5 @@
 ---
+title: "Influencias literarias y de construcción del mundo"
 categoria: personaje
 aliases:
  - "Influencias literarias y de construcción del mundo"

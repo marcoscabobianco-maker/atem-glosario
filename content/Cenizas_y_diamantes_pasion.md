@@ -1,4 +1,5 @@
 ---
+title: "«Cenizas y diamantes, pasión»"
 título: "«Cenizas y diamantes, pasión» — el conjuro que devuelve al polvo"
 slug: Cenizas_y_diamantes_pasion
 categoria: objeto

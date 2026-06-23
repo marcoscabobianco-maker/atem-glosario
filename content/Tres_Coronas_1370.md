@@ -1,4 +1,5 @@
 ---
+title: "Tres Coronas 1370"
 aliases:
  - "Tres_Coronas_1370"
 en_construccion: true

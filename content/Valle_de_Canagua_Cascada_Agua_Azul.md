@@ -1,4 +1,5 @@
 ---
+title: "Valle de Canagua / Cascada Agua Azul"
 categoria: lugar
 tags:
  - "corona-del-norte"

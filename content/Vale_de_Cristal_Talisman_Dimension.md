@@ -1,4 +1,5 @@
 ---
+title: "Vale de Cristal (Talismán / Dimensión)"
 categoria: lugar
 tags:
  - "cdi"

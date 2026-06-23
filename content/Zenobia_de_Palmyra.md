@@ -1,4 +1,5 @@
 ---
+title: "Zenobia de Palmyra"
 categoria: personaje
 tags:
  - "personaje"

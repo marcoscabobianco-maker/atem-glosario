@@ -1,4 +1,5 @@
 ---
+title: "Glob / Glove (TNW)"
 tags:
  - "gary-tnw"
  - "lords-of-creation"

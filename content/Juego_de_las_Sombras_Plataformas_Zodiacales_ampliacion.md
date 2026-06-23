@@ -1,4 +1,5 @@
 ---
+title: "Juego de las Sombras / Plataformas Zodiacales (ampliación)"
 categoria: lugar
 tags:
  - "sistema"

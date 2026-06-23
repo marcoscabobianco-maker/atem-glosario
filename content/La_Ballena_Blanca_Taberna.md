@@ -1,4 +1,5 @@
 ---
+title: "La Ballena Blanca (Taberna)"
 categoria: lugar
 aliases:
  - "La Ballena Blanca (Taberna)"

@@ -1,4 +1,5 @@
 ---
+title: "Angelo De Lagash"
 aliases:
  - "Angelo_de_Lagash"
 en_construccion: true

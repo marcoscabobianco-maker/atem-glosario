@@ -1,4 +1,5 @@
 ---
+title: "Aodh McDuncan"
 categoria: personaje
 aliases:
  - "Aodh McDuncan"

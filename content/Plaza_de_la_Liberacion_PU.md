@@ -1,4 +1,5 @@
 ---
+title: "Plaza de la Liberacion PU"
 aliases:
  - "Plaza de la Liberacion PU"
 ---

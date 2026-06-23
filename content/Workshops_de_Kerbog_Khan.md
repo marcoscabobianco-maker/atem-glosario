@@ -1,4 +1,5 @@
 ---
+title: "Workshops of Kerbog Khan"
 título: "Workshops of Kerbog Khan"
 slug: Workshops_de_Kerbog_Khan
 categoria: lugar

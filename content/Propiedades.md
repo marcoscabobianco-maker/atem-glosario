@@ -1,4 +1,5 @@
 ---
+title: "Propiedades"
 aliases:
  - "Propiedades"
 referenciado_por: 3

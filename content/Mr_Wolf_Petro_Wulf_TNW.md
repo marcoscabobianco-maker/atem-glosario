@@ -1,4 +1,5 @@
 ---
+title: "Mr. Wolf / Petro Wulf (TNW)"
 tags:
  - "gary-tnw"
  - "ally"

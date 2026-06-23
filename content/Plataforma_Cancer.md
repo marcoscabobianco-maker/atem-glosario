@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Cáncer"
 título: "Plataforma de Cáncer"
 slug: Plataforma_Cancer
 aliases:

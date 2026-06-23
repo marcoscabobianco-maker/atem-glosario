@@ -1,4 +1,5 @@
 ---
+title: "Hombres Búfalo / Buffalo Men"
 categoria: grupo
 tags:
  - "corona-del-norte"

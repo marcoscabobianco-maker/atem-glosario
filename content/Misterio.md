@@ -1,4 +1,5 @@
 ---
+title: "Misterio"
 aliases:
  - "Misterio"
 en_construccion: true

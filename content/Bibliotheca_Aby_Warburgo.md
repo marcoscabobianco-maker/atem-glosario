@@ -1,4 +1,5 @@
 ---
+title: "Bibliotheca Aby Warburgo"
 título: "Bibliotheca Aby Warburgo"
 slug: Bibliotheca_Aby_Warburgo
 categoria_diegetica: lugar

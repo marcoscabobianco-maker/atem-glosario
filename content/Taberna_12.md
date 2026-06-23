@@ -1,4 +1,5 @@
 ---
+title: "Taberna 12"
 categoria: lugar
 tags:
  - "ciudades-invisibles"

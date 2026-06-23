@@ -1,4 +1,5 @@
 ---
+title: "Mariano Lobos"
 título: "Mariano Lobos — el suboficial que devuelve el fusil"
 slug: Mariano_Lobos
 categoria: personaje

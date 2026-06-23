@@ -1,4 +1,5 @@
 ---
+title: "Jack Daniels"
 tags:
  - "personaje"
  - "pirata"

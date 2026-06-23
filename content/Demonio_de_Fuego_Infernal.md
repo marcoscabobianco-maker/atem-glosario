@@ -1,4 +1,5 @@
 ---
+title: "Demonio de Fuego Infernal"
 categoria: personaje
 aliases:
  - "Demonio de Fuego Infernal"

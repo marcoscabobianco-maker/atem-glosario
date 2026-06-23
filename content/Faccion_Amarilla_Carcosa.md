@@ -1,4 +1,5 @@
 ---
+title: "Faccion Amarilla Carcosa"
 aliases:
  - "Faccion Amarilla Carcosa"
 ---

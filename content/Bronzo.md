@@ -1,4 +1,5 @@
 ---
+title: "Bronzo"
 título: "Bronzo"
 slug: Bronzo
 imagen: "Imagenes_Tier1/Bronzo.png"

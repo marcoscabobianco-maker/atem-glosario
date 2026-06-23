@@ -1,4 +1,5 @@
 ---
+title: "Harrington"
 título: "Harrington — el geólogo que postuló el nesocratón"
 slug: Harrington
 categoria: personaje

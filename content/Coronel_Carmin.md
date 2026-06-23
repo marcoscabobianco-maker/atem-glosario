@@ -1,4 +1,5 @@
 ---
+title: "Coronel Carmín"
 categoria: personaje
 tags:
  - "personaje"

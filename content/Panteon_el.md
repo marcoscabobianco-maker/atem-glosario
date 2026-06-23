@@ -1,4 +1,5 @@
 ---
+title: "Panteón, el"
 categoria: entidad
 tags:
  - "grupo"

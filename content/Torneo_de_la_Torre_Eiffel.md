@@ -1,4 +1,5 @@
 ---
+title: "Torneo de la Torre Eiffel"
 título: "Torneo de la Torre Eiffel"
 slug: Torneo_de_la_Torre_Eiffel
 categoria: evento

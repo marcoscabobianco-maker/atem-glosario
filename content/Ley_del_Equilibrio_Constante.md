@@ -1,4 +1,5 @@
 ---
+title: "Ley del Equilibrio Constante"
 categoria: lugar
 tags:
  - "cdi"

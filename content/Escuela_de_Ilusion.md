@@ -1,4 +1,5 @@
 ---
+title: "La Escuela de Ilusión"
 título: "La Escuela de Ilusión"
 slug: Escuela_de_Ilusion
 aliases:

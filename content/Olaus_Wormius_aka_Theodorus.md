@@ -1,4 +1,5 @@
 ---
+title: "Olaus Wormius (a.k.a. Theodorus)"
 título: "Olaus Wormius (a.k.a. Theodorus)"
 slug: Olaus_Wormius_aka_Theodorus
 categoria: personaje

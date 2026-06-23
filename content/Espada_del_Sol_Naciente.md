@@ -1,4 +1,5 @@
 ---
+title: "Espada del Sol Naciente"
 categoria: artefacto
 tags:
  - "corona-del-norte"

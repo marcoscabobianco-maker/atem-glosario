@@ -1,4 +1,5 @@
 ---
+title: "Harrison Solar"
 tags:
  - "corona-del-norte"
  - "capitán"

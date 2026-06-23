@@ -1,4 +1,5 @@
 ---
+title: "Gustav Klimt"
 aliases:
  - "Gustav_Klimt"
 en_construccion: true

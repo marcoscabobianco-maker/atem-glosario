@@ -1,4 +1,5 @@
 ---
+title: "Los Curetes"
 título: "Los Curetes"
 slug: Curetes
 aliases:

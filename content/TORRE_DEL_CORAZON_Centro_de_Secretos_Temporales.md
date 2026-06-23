@@ -1,4 +1,5 @@
 ---
+title: "TORRE DEL CORAZÓN (Centro de Secretos Temporales)"
 categoria: lugar
 aliases:
  - "TORRE DEL CORAZÓN (Centro de Secretos Temporales)"

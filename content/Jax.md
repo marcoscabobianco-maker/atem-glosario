@@ -1,4 +1,5 @@
 ---
+title: "Jax"
 título: "Jax"
 slug: Jax
 categoria: personaje

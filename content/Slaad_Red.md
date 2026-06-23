@@ -1,4 +1,5 @@
 ---
+title: "Slaad Red"
 aliases:
  - "Slaad Red"
 ---

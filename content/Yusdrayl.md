@@ -1,4 +1,5 @@
 ---
+title: "Yusdrayl"
 aliases:
  - "Yusdrayl"
 ---

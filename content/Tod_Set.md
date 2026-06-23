@@ -1,4 +1,5 @@
 ---
+title: "Tod-Set"
 título: "Tod-Set — dios sincrético del caos cíclico"
 slug: Tod_Set
 aliases:

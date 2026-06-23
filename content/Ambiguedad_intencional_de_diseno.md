@@ -1,4 +1,5 @@
 ---
+title: "Ambiguedad Intencional De Diseno"
 aliases:
  - "Ambiguedad_intencional_de_diseno"
 en_construccion: true

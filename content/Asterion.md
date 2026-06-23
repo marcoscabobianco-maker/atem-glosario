@@ -1,4 +1,5 @@
 ---
+title: "Asterion"
 aliases:
  - "Asterion"
 en_construccion: true

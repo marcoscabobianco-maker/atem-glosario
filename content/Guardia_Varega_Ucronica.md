@@ -1,4 +1,5 @@
 ---
+title: "La Guardia Varega Ucrónica"
 título: "La Guardia Varega Ucrónica"
 slug: Guardia_Varega_Ucronica
 aliases:

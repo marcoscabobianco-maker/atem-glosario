@@ -1,4 +1,5 @@
 ---
+title: "Nino Rubio"
 aliases:
  - "Nino_Rubio"
 en_construccion: true

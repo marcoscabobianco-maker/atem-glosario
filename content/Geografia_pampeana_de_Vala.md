@@ -1,4 +1,5 @@
 ---
+title: "Geografía pampeana de Vala"
 categoria: concepto
 tags: ["concepto", "vala"]
 aliases: ["Geografía pampeana de Vala", "Geografía mítica de Vala"]

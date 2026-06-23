@@ -1,4 +1,5 @@
 ---
+title: "Lunes Santo"
 categoria: evento
 tags: ["evento", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Lunes Santo"]

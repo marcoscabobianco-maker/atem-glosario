@@ -1,4 +1,5 @@
 ---
+title: "Sheridron"
 título: "Sheridron"
 slug: Sheridron
 estado: stub_diegetico

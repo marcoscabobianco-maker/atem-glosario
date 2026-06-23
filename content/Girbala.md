@@ -1,4 +1,5 @@
 ---
+title: "Girbala"
 título: "Girbala — 31.º tegnu de los Varumani"
 slug: Girbala
 aliases:

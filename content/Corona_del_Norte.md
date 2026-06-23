@@ -1,4 +1,5 @@
 ---
+title: "Corona del Norte"
 título: "Corona del Norte"
 slug: Corona_del_Norte
 categoria_diegetica: ciclo

@@ -1,4 +1,5 @@
 ---
+title: "Jinete de la Guerra"
 categoria: entidad
 tags:
  - "paris-ucronica"

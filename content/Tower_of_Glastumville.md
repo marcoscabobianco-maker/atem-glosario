@@ -1,4 +1,5 @@
 ---
+title: "Tower of Glastumville"
 aliases:
  - "Tower of Glastumville"
 ---

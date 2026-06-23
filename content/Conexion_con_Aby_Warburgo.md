@@ -1,4 +1,5 @@
 ---
+title: "Conexion Con Aby Warburgo"
 aliases:
  - "Conexion_con_Aby_Warburgo"
 en_construccion: true

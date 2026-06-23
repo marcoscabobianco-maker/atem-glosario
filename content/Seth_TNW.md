@@ -1,4 +1,5 @@
 ---
+title: "Seth TNW"
 aliases:
  - "Seth TNW"
 ---

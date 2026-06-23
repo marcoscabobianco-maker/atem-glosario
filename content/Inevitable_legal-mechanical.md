@@ -1,4 +1,5 @@
 ---
+title: "Inevitable legal-mechanical"
 categoria: entidad
 aliases:
  - "Inevitable legal-mechanical"

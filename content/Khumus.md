@@ -1,4 +1,5 @@
 ---
+title: "Khumus"
 aliases:
  - "Khumus"
 en_construccion: true

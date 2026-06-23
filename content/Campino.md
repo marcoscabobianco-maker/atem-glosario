@@ -1,4 +1,5 @@
 ---
+title: "Campino"
 aliases:
  - "Campino"
 en_construccion: true

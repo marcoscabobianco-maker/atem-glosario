@@ -1,4 +1,5 @@
 ---
+title: "Cuerno de Hierro / Iron Raven Token"
 categoria: artefacto
 tags:
  - "corona-del-norte"

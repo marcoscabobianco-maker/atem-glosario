@@ -1,4 +1,5 @@
 ---
+title: "El Chal Mágico de Estela"
 título: "El Chal Mágico de Estela"
 slug: Reliquia_Estela_Chal_Magico
 aliases:

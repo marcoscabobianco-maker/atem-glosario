@@ -1,4 +1,5 @@
 ---
+title: "La caja / el barril"
 título: "La caja / el barril"
 slug: La_caja_el_barril
 categoria: objeto

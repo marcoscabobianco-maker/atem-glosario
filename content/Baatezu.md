@@ -1,4 +1,5 @@
 ---
+title: "Baatezu"
 aliases:
  - "Baatezu"
 en_construccion: true

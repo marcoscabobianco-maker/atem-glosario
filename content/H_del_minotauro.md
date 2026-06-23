@@ -1,4 +1,5 @@
 ---
+title: "H Del Minotauro"
 aliases:
  - "H_del_minotauro"
 en_construccion: true

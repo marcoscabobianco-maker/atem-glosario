@@ -1,4 +1,5 @@
 ---
+title: "Zyruth"
 aliases:
  - "Zyruth"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Contienda Del Multiuniverso"
 aliases:
  - "Contienda_del_Multiuniverso"
 en_construccion: true

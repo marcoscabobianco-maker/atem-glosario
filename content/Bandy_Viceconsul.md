@@ -1,4 +1,5 @@
 ---
+title: "Bandy (Vicecónsul)"
 tags:
  - "paris-ucronica"
  - "personaje"

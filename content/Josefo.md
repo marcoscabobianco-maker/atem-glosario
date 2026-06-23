@@ -1,4 +1,5 @@
 ---
+title: "Josefo"
 aliases:
  - "Josefo"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Trono Negro Central"
 aliases:
  - "Trono_Negro_Central"
 en_construccion: true

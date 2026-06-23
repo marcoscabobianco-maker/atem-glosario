@@ -1,4 +1,5 @@
 ---
+title: "Bloom"
 título: "Bloom"
 slug: Bloom
 aliases:

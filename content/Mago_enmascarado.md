@@ -1,4 +1,5 @@
 ---
+title: "Mago enmascarado"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Mago enmascarado", "El mago enmascarado"]

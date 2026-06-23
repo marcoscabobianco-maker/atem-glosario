@@ -1,4 +1,5 @@
 ---
+title: "Batalla de Kosovo — 28 de junio de 1389"
 título: "Batalla de Kosovo — 28 de junio de 1389"
 slug: Batalla_de_Kosovo_1389
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Ciclope Contraataca"
 aliases:
  - "Ciclope_contraataca"
 en_construccion: true

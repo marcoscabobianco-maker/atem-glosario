@@ -1,4 +1,5 @@
 ---
+title: "Escalada De Amenaza Cosmica"
 aliases:
  - "Escalada_de_amenaza_cosmica"
 en_construccion: true

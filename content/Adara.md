@@ -1,4 +1,5 @@
 ---
+title: "Adara"
 aliases:
  - "Adara"
 ---

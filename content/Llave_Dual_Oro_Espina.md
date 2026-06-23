@@ -1,4 +1,5 @@
 ---
+title: "Llave Dual (oro y espina)"
 título: "Llave Dual (oro y espina)"
 slug: Llave_Dual_Oro_Espina
 categoria: artefacto

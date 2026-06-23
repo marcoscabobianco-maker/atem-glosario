@@ -1,4 +1,5 @@
 ---
+title: "Mitologia"
 aliases:
  - "Mitologia"
 en_construccion: true

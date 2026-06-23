@@ -1,4 +1,5 @@
 ---
+title: "París de los Pasajes — cuaderno parisino"
 título: "París de los Pasajes — cuaderno parisino"
 slug: Paris_de_los_Pasajes
 aliases:

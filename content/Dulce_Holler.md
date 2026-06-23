@@ -1,4 +1,5 @@
 ---
+title: "Dulce Holler"
 título: "Dulce Holler — la alemana del hacha que despertó la piedra"
 slug: Dulce_Holler
 categoria: personaje

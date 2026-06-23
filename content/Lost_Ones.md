@@ -1,4 +1,5 @@
 ---
+title: "Lost Ones"
 título: "Lost Ones — los que perdieron la esperanza"
 slug: Lost_Ones
 aliases:

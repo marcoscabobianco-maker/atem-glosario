@@ -1,4 +1,5 @@
 ---
+title: "Aventureros caballeros"
 aliases:
  - "Aventureros caballeros"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Deck de Cartas"
 categoria: lugar
 tags:
  - "cdi"

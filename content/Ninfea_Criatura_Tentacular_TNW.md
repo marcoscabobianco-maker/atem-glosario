@@ -1,4 +1,5 @@
 ---
+title: "Nínfea / Criatura Tentacular (TNW)"
 categoria: personaje
 tags:
  - "gary-tnw"

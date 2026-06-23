@@ -1,4 +1,5 @@
 ---
+title: "Compania De Ardis Vala"
 aliases:
  - "Compania_de_Ardis_Vala"
 en_construccion: true

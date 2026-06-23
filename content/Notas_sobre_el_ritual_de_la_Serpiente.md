@@ -1,4 +1,5 @@
 ---
+title: "Notas Sobre El Ritual De La Serpiente"
 aliases:
  - "Notas_sobre_el_ritual_de_la_Serpiente"
 en_construccion: true

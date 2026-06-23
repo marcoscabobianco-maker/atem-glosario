@@ -1,4 +1,5 @@
 ---
+title: "Psalor Ki"
 aliases:
  - "Psalor_Ki"
 en_construccion: true

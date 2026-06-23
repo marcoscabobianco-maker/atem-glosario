@@ -1,4 +1,5 @@
 ---
+title: "Mecanismo Especial"
 aliases:
  - "Mecanismo_especial"
 en_construccion: true

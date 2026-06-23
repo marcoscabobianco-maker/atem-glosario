@@ -1,4 +1,5 @@
 ---
+title: "Redcap / Wintercap (TNW)"
 tags:
  - "gary-tnw"
  - "fey"

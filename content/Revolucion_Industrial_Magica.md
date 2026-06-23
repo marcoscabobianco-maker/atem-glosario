@@ -1,4 +1,5 @@
 ---
+title: "La Revolución Industrial Mágica"
 título: "La Revolución Industrial Mágica"
 slug: Revolucion_Industrial_Magica
 aliases:

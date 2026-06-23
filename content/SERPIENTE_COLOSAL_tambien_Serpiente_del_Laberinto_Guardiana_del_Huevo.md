@@ -1,4 +1,5 @@
 ---
+title: "SERPIENTE COLOSAL (también: \"Serpiente del Laberinto\", \"Guardiana del Huevo\")"
 categoria: criatura
 aliases:
  - "SERPIENTE COLOSAL (también: \"Serpiente del Laberinto\", \"Guardiana del Huevo\")"

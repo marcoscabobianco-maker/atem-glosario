@@ -1,4 +1,5 @@
 ---
+title: "Beboto (Behemoth del Tercer Circulo)"
 categoria: lugar
 tags:
  - "cdi"

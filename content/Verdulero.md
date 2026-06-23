@@ -1,4 +1,5 @@
 ---
+title: "Verdulero"
 aliases:
  - "Verdulero"
 referenciado_por: 2

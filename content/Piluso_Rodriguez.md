@@ -1,4 +1,5 @@
 ---
+title: "Piluso Rodríguez"
 título: "Piluso Rodríguez — la bisagra entre el hampa porteña y el culto"
 slug: Piluso_Rodriguez
 categoria: personaje

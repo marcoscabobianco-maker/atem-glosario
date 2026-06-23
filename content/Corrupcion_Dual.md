@@ -1,4 +1,5 @@
 ---
+title: "La Corrupción Dual"
 título: "La Corrupción Dual"
 slug: Corrupcion_Dual
 aliases:

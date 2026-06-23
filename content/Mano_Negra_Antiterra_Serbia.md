@@ -1,4 +1,5 @@
 ---
+title: "La Mano Negra"
 título: "La Mano Negra"
 slug: Mano_Negra_Antiterra_Serbia
 aliases:

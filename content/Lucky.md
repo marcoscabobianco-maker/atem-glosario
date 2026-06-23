@@ -1,4 +1,5 @@
 ---
+title: "Lucky"
 título: "Lucky — el Caballero de la Sagrada Orden"
 slug: Lucky
 aliases:

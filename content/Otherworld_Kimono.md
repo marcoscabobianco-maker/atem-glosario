@@ -1,4 +1,5 @@
 ---
+title: "Otherworld Kimono"
 categoria: artefacto
 tags:
  - "paris-ucronica"

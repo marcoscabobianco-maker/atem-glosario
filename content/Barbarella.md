@@ -1,4 +1,5 @@
 ---
+title: "Barbarella"
 categoria: personaje
 tags:
  - "personaje"

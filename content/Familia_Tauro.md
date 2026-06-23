@@ -1,4 +1,5 @@
 ---
+title: "Tauro (familia)"
 categoria: faccion
 tags:
  - faccion

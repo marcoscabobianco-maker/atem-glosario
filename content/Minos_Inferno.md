@@ -1,4 +1,5 @@
 ---
+title: "Minos (Inferno)"
 categoria: lugar
 tags:
  - "cdi"

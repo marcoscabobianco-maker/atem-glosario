@@ -1,4 +1,5 @@
 ---
+title: "Solucion De Plata Mercurial"
 aliases:
  - "Solucion_de_Plata_Mercurial"
 en_construccion: true

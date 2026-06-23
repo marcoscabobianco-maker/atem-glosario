@@ -1,4 +1,5 @@
 ---
+title: "Datos Historicos Reales"
 aliases:
  - "Datos_historicos_reales"
 en_construccion: true

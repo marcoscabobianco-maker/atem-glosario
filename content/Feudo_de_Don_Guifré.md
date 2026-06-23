@@ -1,4 +1,5 @@
 ---
+title: "Feudo de Don Guifré"
 categoria: lugar
 tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Feudo de Don Guifré"]

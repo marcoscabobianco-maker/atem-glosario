@@ -1,4 +1,5 @@
 ---
+title: "Sucor (TG)"
 categoria: personaje
 tags:
  - "personaje"

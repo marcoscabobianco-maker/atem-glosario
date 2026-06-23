@@ -1,4 +1,5 @@
 ---
+title: "Grial Púrpura"
 categoria: lugar
 tags:
  - "cdi"

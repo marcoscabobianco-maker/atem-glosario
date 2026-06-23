@@ -1,4 +1,5 @@
 ---
+title: "Mindscape Fúngico"
 categoria: concepto
 tags:
  - "paris-ucronica"

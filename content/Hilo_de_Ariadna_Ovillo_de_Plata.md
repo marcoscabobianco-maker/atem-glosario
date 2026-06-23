@@ -1,4 +1,5 @@
 ---
+title: "Hilo de Ariadna (Ovillo de Plata)"
 categoria: lugar
 aliases:
  - "Hilo de Ariadna (Ovillo de Plata)"

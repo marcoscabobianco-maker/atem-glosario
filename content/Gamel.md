@@ -1,4 +1,5 @@
 ---
+title: "Gamel"
 aliases:
  - "Gamel"
 en_construccion: true

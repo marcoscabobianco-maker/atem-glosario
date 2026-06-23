@@ -1,4 +1,5 @@
 ---
+title: "Vala del Medioevo"
 título: "Vala del Medioevo"
 slug: Vala_del_Medioevo
 categoria: lugar

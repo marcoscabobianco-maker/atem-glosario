@@ -1,4 +1,5 @@
 ---
+title: "Contenido Prometido"
 aliases:
  - "Contenido_prometido"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Draga Machine — la Reina enamorada"
 título: "Draga Machine — la Reina enamorada"
 slug: Draga_Machine
 aliases:

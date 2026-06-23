@@ -1,4 +1,5 @@
 ---
+title: "Temple (complejo, TE)"
 categoria: lugar
 aliases:
  - "Temple (complejo, TE)"

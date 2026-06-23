@@ -1,4 +1,5 @@
 ---
+title: "Cuatro Potencias Mundiales (270 A.D.A.)"
 categoria: concepto
 tags:
  - "geopolítica"

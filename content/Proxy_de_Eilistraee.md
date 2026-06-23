@@ -1,4 +1,5 @@
 ---
+title: "Proxy De Eilistraee"
 aliases:
  - "Proxy_de_Eilistraee"
 en_construccion: true

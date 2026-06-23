@@ -1,4 +1,5 @@
 ---
+title: "Yog-Sothoth (TNW)"
 categoria: lugar
 tags:
  - "gary-tnw"

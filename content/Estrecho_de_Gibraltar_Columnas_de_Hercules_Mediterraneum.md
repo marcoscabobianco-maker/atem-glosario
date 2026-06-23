@@ -1,4 +1,5 @@
 ---
+title: "Estrecho de Gibraltar / Columnas de Hércules (Mediterraneum)"
 categoria: lugar
 tags:
  - "lugar"

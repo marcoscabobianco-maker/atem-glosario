@@ -1,4 +1,5 @@
 ---
+title: "Diomirra / Mirra"
 categoria: lugar
 tags:
  - "ciudades-invisibles"

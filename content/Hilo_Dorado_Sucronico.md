@@ -1,4 +1,5 @@
 ---
+title: "El Hilo Dorado Sucrónico"
 título: "El Hilo Dorado Sucrónico"
 slug: Hilo_Dorado_Sucronico
 aliases:

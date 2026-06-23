@@ -1,4 +1,5 @@
 ---
+title: "SOGOL"
 categoria: lugar
 tags:
  - "lugar"

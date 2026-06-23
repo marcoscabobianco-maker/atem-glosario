@@ -1,4 +1,5 @@
 ---
+title: "\"Destejer / Recoser\" (Metáfora temporal)"
 categoria: lugar
 aliases:
  - "\"Destejer / Recoser\" (Metáfora temporal)"

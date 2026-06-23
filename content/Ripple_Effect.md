@@ -1,4 +1,5 @@
 ---
+title: "Ripple Effect"
 categoria: lugar
 tags:
  - "mecánica"

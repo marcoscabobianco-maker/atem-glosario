@@ -1,4 +1,5 @@
 ---
+title: "Stephania"
 título: "Stephania (Suma Sacerdotisa de Set)"
 slug: Stephania_Set
 categoria: personaje

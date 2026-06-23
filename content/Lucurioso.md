@@ -1,4 +1,5 @@
 ---
+title: "Lucurioso"
 aliases:
  - "Lucurioso"
 en_construccion: true

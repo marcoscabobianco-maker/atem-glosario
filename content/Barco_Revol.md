@@ -1,4 +1,5 @@
 ---
+title: "Barco Revol"
 aliases:
  - "Barco_Revol"
 en_construccion: true

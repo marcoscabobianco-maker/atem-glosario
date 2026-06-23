@@ -1,4 +1,5 @@
 ---
+title: "Juan Jerez / Billie Jean"
 título: "Juan Jerez / Billie Jean"
 slug: Juan_Jerez_Billie_Jean
 aliases:

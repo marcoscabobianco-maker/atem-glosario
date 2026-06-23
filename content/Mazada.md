@@ -1,4 +1,5 @@
 ---
+title: "Mazada"
 aliases:
  - "Mazada"
 en_construccion: true

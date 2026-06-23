@@ -1,4 +1,5 @@
 ---
+title: "Foggimer"
 título: "Foggimer — el Clérigo de la Luz"
 slug: Fogimer
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Aries"
 título: "Plataforma de Aries"
 slug: Plataforma_Aries
 aliases:

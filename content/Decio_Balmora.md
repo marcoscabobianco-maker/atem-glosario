@@ -1,4 +1,5 @@
 ---
+title: "Decio Balmora"
 título: "Decio Balmora"
 slug: Decio_Balmora
 estado: stub_diegetico

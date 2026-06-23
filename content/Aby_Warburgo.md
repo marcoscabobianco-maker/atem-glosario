@@ -1,4 +1,5 @@
 ---
+title: "Aby Warburgo"
 título: "Aby Warburgo"
 slug: Aby_Warburgo
 aliases:

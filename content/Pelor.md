@@ -1,4 +1,5 @@
 ---
+title: "Pelor"
 aliases:
  - "Pelor"
 ---

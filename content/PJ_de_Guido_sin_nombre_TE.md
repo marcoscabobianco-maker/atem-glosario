@@ -1,4 +1,5 @@
 ---
+title: "compañero (sin nombre, TE)"
 aliases:
  - "compañero (sin nombre, TE)"
  - "sin nombre"

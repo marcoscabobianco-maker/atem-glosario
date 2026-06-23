@@ -1,4 +1,5 @@
 ---
+title: "Sinspawn (Marca de No-Muerte)"
 categoria: concepto
 tags:
  - "corona-del-norte"

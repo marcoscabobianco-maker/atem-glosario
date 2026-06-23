@@ -1,4 +1,5 @@
 ---
+title: "Mabon"
 aliases:
  - "Mabon"
 en_construccion: true

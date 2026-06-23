@@ -1,4 +1,5 @@
 ---
+title: "Muerte y Transformación de Patience (NC06-NC07a)"
 categoria: evento
 tags:
  - "corona-del-norte"

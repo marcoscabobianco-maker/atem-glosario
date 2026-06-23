@@ -1,4 +1,5 @@
 ---
+title: "Wings of the Gargoyle"
 categoria: lugar
 aliases:
  - "Wings of the Gargoyle"

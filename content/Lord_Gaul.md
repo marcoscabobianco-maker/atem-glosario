@@ -1,4 +1,5 @@
 ---
+title: "Lord Gaul"
 título: "Lord Gaul"
 slug: Lord_Gaul
 categoria_diegetica: personaje

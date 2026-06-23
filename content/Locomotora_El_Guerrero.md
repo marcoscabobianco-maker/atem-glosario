@@ -1,4 +1,5 @@
 ---
+title: "Locomotora El Guerrero"
 aliases:
  - "Locomotora El Guerrero"
 ---

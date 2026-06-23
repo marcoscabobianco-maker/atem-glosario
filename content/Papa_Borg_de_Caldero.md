@@ -1,4 +1,5 @@
 ---
+title: "Papa Borg de Caldero"
 título: "Papa Borg de Caldero — el lich que no fue"
 slug: Papa_Borg_de_Caldero
 aliases:

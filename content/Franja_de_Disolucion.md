@@ -1,4 +1,5 @@
 ---
+title: "Franja de Disolución"
 categoria: concepto
 tags:
  - "cosmologia"

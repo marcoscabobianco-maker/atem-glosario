@@ -1,4 +1,5 @@
 ---
+title: "Cabo Cruz"
 categoria: personaje
 tags:
  - "personaje"

@@ -1,4 +1,5 @@
 ---
+title: "Pugil Atlante"
 título: "Pugil Atlante — el boxeador con tatuajes atlantes"
 slug: Pugil_Atlante_Joven
 aliases:

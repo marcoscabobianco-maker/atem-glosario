@@ -1,4 +1,5 @@
 ---
+title: "Forma Humanoide"
 aliases:
  - "Forma_humanoide"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Libertateurs"
 aliases:
  - "Libertateurs"
 en_construccion: true

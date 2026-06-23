@@ -1,4 +1,5 @@
 ---
+title: "Accesibilidad"
 aliases:
  - "Accesibilidad"
 en_construccion: true

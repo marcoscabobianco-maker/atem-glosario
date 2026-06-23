@@ -1,4 +1,5 @@
 ---
+title: "Tentator"
 aliases:
  - "Tentator"
 en_construccion: true

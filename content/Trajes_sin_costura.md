@@ -1,4 +1,5 @@
 ---
+title: "Trajes sin costura"
 título: "Trajes sin costura"
 slug: Trajes_sin_costura
 categoria: objeto

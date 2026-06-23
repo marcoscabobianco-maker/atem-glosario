@@ -1,4 +1,5 @@
 ---
+title: "Terra vs. Antiterra"
 categoria: personaje
 aliases:
  - "Terra vs. Antiterra"

@@ -1,4 +1,5 @@
 ---
+title: "Tentación vs. Obligación Religiosa"
 categoria: lugar
 aliases:
  - "Tentación vs. Obligación Religiosa"

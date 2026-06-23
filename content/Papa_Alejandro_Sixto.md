@@ -1,4 +1,5 @@
 ---
+title: "Papa Alejandro VI"
 título: "Papa Alejandro VI"
 slug: Papa_Alejandro_Sixto
 aliases:

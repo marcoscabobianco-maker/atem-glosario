@@ -1,4 +1,5 @@
 ---
+title: "Tartaria"
 aliases:
  - "Tartaria"
 en_construccion: true

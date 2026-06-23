@@ -1,4 +1,5 @@
 ---
+title: "Miranda (TG)"
 categoria: personaje
 tags:
  - "personaje"

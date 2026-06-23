@@ -1,4 +1,5 @@
 ---
+title: "Cosmologia Conexa"
 aliases:
  - "Cosmologia_conexa"
 en_construccion: true

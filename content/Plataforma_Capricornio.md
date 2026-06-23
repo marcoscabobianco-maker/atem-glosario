@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Capricornio"
 título: "Plataforma de Capricornio"
 slug: Plataforma_Capricornio
 aliases:

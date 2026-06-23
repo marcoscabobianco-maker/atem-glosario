@@ -1,4 +1,5 @@
 ---
+title: "No-Voy-Yo / Novoyo"
 título: "No-Voy-Yo / Novoyo"
 slug: Novoyo
 aliases:

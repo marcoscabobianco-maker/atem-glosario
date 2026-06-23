@@ -1,4 +1,5 @@
 ---
+title: "El Huevo Negro"
 categoria: objeto
 tags: ["objeto", "vala"]
 aliases: ["El Huevo Negro", "Huevo Negro"]

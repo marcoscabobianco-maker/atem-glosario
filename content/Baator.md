@@ -1,4 +1,5 @@
 ---
+title: "Baator"
 aliases:
  - "Baator"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Teo"
 tags:
  - "caldero"
  - "paladin"

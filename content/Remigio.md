@@ -1,4 +1,5 @@
 ---
+title: "Remigio"
 categoria: personaje
 tags:
  - "personaje"

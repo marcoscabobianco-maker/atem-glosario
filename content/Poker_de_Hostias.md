@@ -1,4 +1,5 @@
 ---
+title: "Poker de Hostias"
 categoria: evento
 tags:
  - "evento"

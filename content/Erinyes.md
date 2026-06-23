@@ -1,4 +1,5 @@
 ---
+title: "Erinyes"
 aliases:
  - "Erinyes"
 ---

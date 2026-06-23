@@ -1,4 +1,5 @@
 ---
+title: "Warzone Spell"
 aliases:
  - "Warzone_spell"
 en_construccion: true

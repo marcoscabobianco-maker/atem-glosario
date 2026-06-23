@@ -1,4 +1,5 @@
 ---
+title: "Arafel"
 tags:
  - "caldero"
  - "espada-de-kas"

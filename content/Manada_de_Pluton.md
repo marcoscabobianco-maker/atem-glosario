@@ -1,4 +1,5 @@
 ---
+title: "Manada (de Plutón)"
 categoria: lugar
 tags:
  - "cdi"

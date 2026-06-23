@@ -1,4 +1,5 @@
 ---
+title: "Contenido Descubierto"
 aliases:
  - "Contenido_descubierto"
 en_construccion: true

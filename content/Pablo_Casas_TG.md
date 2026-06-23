@@ -1,4 +1,5 @@
 ---
+title: "Pablo Casas (TG)"
 categoria: personaje
 tags:
  - "personaje"

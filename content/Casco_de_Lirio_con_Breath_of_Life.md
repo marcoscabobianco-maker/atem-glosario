@@ -1,4 +1,5 @@
 ---
+title: "Casco de Lirio con \"Breath of Life\""
 categoria: lugar
 aliases:
  - "Casco de Lirio con \"Breath of Life\""

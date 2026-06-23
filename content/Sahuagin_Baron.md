@@ -1,4 +1,5 @@
 ---
+title: "Sahuagin Baron"
 aliases:
  - "Sahuagin Baron"
 ---

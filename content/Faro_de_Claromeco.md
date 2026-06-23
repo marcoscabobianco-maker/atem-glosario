@@ -1,4 +1,5 @@
 ---
+title: "Faro de Claromecó"
 título: "Faro de Claromecó"
 slug: Faro_de_Claromeco
 categoria: lugar

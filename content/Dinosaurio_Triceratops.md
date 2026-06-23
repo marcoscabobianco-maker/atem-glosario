@@ -1,4 +1,5 @@
 ---
+title: "DINOSAURIO TRICERATOPS GIGANTE (también: \"Dinosaurio de Piedra\", \"Reptil Titánico\")"
 categoria: personaje
 aliases:
  - "DINOSAURIO TRICERATOPS GIGANTE (también: \"Dinosaurio de Piedra\", \"Reptil Titánico\")"

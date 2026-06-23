@@ -1,4 +1,5 @@
 ---
+title: "Dou-Frome"
 título: "Dou-Frome"
 slug: Dou-Frome
 categoria: personaje

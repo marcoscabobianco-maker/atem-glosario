@@ -1,4 +1,5 @@
 ---
+title: "Bianchi y Neri"
 título: "Bianchi y Neri"
 slug: Bianchi_y_Neri
 aliases:

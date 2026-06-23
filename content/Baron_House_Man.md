@@ -1,4 +1,5 @@
 ---
+title: "Baron House Man"
 categoria: personaje
 tags:
  - "paris-ucronica"

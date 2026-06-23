@@ -1,4 +1,5 @@
 ---
+title: "Hospital Borda"
 título: "Hospital Borda — el manicomio de Barracas como umbral del Mythos"
 slug: Hospital_Borda
 categoria: lugar

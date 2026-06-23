@@ -1,4 +1,5 @@
 ---
+title: "Forbiddence Conjuro (Patriarca/Ángel)"
 categoria: lugar
 aliases:
  - "Forbiddence Conjuro (Patriarca/Ángel)"

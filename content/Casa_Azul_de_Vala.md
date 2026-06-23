@@ -1,4 +1,5 @@
 ---
+title: "Casa Azul de Vala"
 título: "Casa Azul de Vala — el linaje trans-geográfico"
 slug: Casa_Azul_de_Vala
 aliases:

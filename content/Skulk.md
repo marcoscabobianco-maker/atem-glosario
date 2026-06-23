@@ -1,4 +1,5 @@
 ---
+title: "El Skulk"
 título: "Skulk — criatura del Shadowfell"
 slug: Skulk
 aliases:

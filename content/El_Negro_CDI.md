@@ -1,4 +1,5 @@
 ---
+title: "El Negro CDI"
 aliases:
  - "El Negro CDI"
 ---

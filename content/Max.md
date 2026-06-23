@@ -1,4 +1,5 @@
 ---
+title: "Max"
 título: "Max — el guardaespaldas que bajó por la escalera del faro"
 slug: Max
 categoria: personaje

@@ -1,4 +1,5 @@
 ---
+title: "Ubicacion De Bovedas"
 aliases:
  - "Ubicacion_de_bovedas"
 en_construccion: true

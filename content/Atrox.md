@@ -1,4 +1,5 @@
 ---
+title: "Atrox"
 categoria: concepto
 tags: ["concepto", "vala"]
 aliases: ["Atrox"]

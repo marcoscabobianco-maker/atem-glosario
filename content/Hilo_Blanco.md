@@ -1,4 +1,5 @@
 ---
+title: "Hilo Blanco"
 categoria: lugar
 tags:
  - "cdi"

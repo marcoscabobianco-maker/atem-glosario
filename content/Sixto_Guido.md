@@ -1,4 +1,5 @@
 ---
+title: "Sixto"
 título: "Sixto"
 slug: Sixto_Guido
 aliases:

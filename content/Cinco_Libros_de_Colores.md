@@ -1,4 +1,5 @@
 ---
+title: "Los Cinco Libros de Colores"
 título: "Los Cinco Libros de Colores"
 slug: Cinco_Libros_de_Colores
 aliases:

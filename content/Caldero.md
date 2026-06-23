@@ -1,4 +1,5 @@
 ---
+title: "Caldero"
 título: "Caldero — el Nido del Fénix"
 slug: Caldero
 aliases:

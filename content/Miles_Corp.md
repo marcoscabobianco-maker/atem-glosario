@@ -1,4 +1,5 @@
 ---
+title: "Miles Corp"
 título: "Miles Corp — la empresa del vuelo mágico"
 slug: Miles_Corp
 aliases:

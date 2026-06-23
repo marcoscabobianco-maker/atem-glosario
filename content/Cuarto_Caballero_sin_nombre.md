@@ -1,4 +1,5 @@
 ---
+title: "Cuarto Caballero (sin nombre)"
 categoria: lugar
 aliases:
  - "Cuarto Caballero (sin nombre)"

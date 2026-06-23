@@ -1,4 +1,5 @@
 ---
+title: "Rendicion No Combatiente"
 aliases:
  - "Rendicion_no_combatiente"
 en_construccion: true

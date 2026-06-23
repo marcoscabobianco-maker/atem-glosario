@@ -1,4 +1,5 @@
 ---
+title: "CÍCLOPE (también: \"Cíclope del Laberinto\", \"Carcelero Demoniaco\")"
 categoria: personaje
 aliases:
  - "CÍCLOPE (también: \"Cíclope del Laberinto\", \"Carcelero Demoniaco\")"

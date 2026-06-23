@@ -1,4 +1,5 @@
 ---
+title: "Torre Purpura"
 aliases:
  - "Torre_Purpura"
 en_construccion: true

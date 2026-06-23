@@ -1,4 +1,5 @@
 ---
+title: "Adimanto"
 categoria: personaje
 tags:
  - "personaje"

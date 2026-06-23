@@ -1,4 +1,5 @@
 ---
+title: "Field Manual del Buscador de Sombras (TNW)"
 categoria: lugar
 tags:
  - "gary-tnw"

@@ -1,4 +1,5 @@
 ---
+title: "Ai"
 aliases:
  - "Ai"
 en_construccion: true

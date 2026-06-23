@@ -1,4 +1,5 @@
 ---
+title: "Panteon Angariense"
 aliases:
  - "Panteon_Angariense"
 en_construccion: true

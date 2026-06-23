@@ -1,4 +1,5 @@
 ---
+title: "El Águila Asvila"
 título: "El Águila Asvila — heraldo del Sol"
 slug: Aguila_Asvila
 aliases:

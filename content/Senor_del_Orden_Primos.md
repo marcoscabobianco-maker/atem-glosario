@@ -1,4 +1,5 @@
 ---
+title: "Primus / Señor del Orden"
 título: "Primus / Señor del Orden"
 slug: Senor_del_Orden_Primos
 categoria: personaje

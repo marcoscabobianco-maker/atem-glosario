@@ -1,4 +1,5 @@
 ---
+title: "Hallazgos"
 aliases:
  - "Hallazgos"
 en_construccion: true

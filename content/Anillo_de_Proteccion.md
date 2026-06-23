@@ -1,4 +1,5 @@
 ---
+title: "Anillo de Proteccion"
 aliases:
  - "Anillo de Proteccion"
 ---

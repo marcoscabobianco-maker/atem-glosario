@@ -1,4 +1,5 @@
 ---
+title: "Las Dieciséis Posiciones del Juego"
 título: "Las Dieciséis Posiciones del Juego — fragmentos del Ludus Umbrarum"
 slug: Las_Dieciseis_Posiciones
 categoria: obra

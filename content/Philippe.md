@@ -1,4 +1,5 @@
 ---
+title: "Philippe"
 título: "Philippe"
 slug: Philippe
 imagen: "Imagenes_Tier1/Philippe.png"

@@ -1,4 +1,5 @@
 ---
+title: "Cuerno (Reliquia / Objeto Mágico)"
 categoria: lugar
 aliases:
  - "Cuerno (Reliquia / Objeto Mágico)"

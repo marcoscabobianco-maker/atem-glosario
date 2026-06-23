@@ -1,4 +1,5 @@
 ---
+title: "Brumas Magicas"
 aliases:
  - "Brumas_magicas"
 en_construccion: true

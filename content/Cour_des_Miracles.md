@@ -1,4 +1,5 @@
 ---
+title: "Cour des Miracles"
 categoria: lugar
 tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Cour des Miracles", "Corte de los Milagros"]

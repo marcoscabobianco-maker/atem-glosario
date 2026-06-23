@@ -1,4 +1,5 @@
 ---
+title: "Tony Malatesta"
 título: "Tony Malatesta — el mago de las ideas extrañas"
 slug: Tony_Malatesta
 aliases:

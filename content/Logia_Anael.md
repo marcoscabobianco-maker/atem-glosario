@@ -1,4 +1,5 @@
 ---
+title: "Logia Anael"
 título: "Logia Anael — la derecha esotérica del avión a las Malvinas"
 slug: Logia_Anael
 categoria: facción

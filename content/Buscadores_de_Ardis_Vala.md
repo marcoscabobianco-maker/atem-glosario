@@ -1,4 +1,5 @@
 ---
+title: "Los Buscadores de Ardis Vala"
 título: "Los Buscadores de Ardis Vala"
 slug: Buscadores_de_Ardis_Vala
 aliases:

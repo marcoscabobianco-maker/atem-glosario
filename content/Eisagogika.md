@@ -1,4 +1,5 @@
 ---
+title: "Eisagogika"
 título: "Eisagogika"
 slug: Eisagogika
 categoria: artefacto

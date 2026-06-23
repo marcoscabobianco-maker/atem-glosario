@@ -1,4 +1,5 @@
 ---
+title: "Panteon de Tanastias altar"
 categoria: objeto
 aliases:
  - "Panteon de Tanastias altar"

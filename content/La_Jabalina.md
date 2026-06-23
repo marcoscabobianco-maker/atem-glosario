@@ -1,4 +1,5 @@
 ---
+title: "La Jabalina"
 título: "La Jabalina — los ocho que protegen Caldero"
 slug: La_Jabalina
 aliases:

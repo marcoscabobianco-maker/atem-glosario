@@ -1,4 +1,5 @@
 ---
+title: "Solar Pitri"
 título: "Solar Pitri"
 slug: Solar_Pitri
 categoria: entidad

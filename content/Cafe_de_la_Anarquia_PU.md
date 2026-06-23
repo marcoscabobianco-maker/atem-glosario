@@ -1,4 +1,5 @@
 ---
+title: "El Café de la Anarquía"
 título: "El Café de la Anarquía"
 slug: Cafe_de_la_Anarquia_PU
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Scya"
 título: "Scya"
 slug: Scya
 categoria: criatura

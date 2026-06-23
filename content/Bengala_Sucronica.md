@@ -1,4 +1,5 @@
 ---
+title: "Bengala Sucronica"
 aliases:
  - "Bengala_Sucronica"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "La Vela de Invocación de Dou-Frome"
 título: "La Vela de Invocación de Dou-Frome"
 slug: Vela_de_Invocacion_Dou-Frome
 aliases:

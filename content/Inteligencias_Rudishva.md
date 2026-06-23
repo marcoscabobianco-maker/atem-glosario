@@ -1,4 +1,5 @@
 ---
+title: "Inteligencias Rudishva"
 aliases:
  - "Inteligencias_Rudishva"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Salvacion De Las Beastlands"
 aliases:
  - "Salvacion_de_las_Beastlands"
 en_construccion: true

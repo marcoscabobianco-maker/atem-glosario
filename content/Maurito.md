@@ -1,4 +1,5 @@
 ---
+title: "Maurito"
 aliases:
  - "Maurito"
 en_construccion: true

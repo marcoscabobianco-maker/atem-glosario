@@ -1,4 +1,5 @@
 ---
+title: "Fragmento de Madera con Pentáculo"
 categoria: lugar
 aliases:
  - "Fragmento de Madera con Pentáculo"

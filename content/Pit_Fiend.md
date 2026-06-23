@@ -1,4 +1,5 @@
 ---
+title: "Pit Fiend"
 aliases:
  - "Pit Fiend"
 ---

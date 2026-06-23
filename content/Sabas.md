@@ -1,4 +1,5 @@
 ---
+title: "Sabas — rey tirano de Torregrises"
 título: "Sabas — rey tirano de Torregrises"
 slug: Sabas
 aliases:

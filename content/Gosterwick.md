@@ -1,4 +1,5 @@
 ---
+title: "Gosterwick"
 aliases:
  - "Gosterwick"
 en_construccion: true

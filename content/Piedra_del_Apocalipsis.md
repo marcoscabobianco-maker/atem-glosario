@@ -1,4 +1,5 @@
 ---
+title: "Piedra del Apocalipsis"
 título: "Piedra del Apocalipsis"
 slug: Piedra_del_Apocalipsis
 categoria: artefacto

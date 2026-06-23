@@ -1,4 +1,5 @@
 ---
+title: "Primera Plataforma TG"
 aliases:
  - "Primera_Plataforma_TG"
 en_construccion: true

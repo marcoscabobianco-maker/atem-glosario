@@ -1,4 +1,5 @@
 ---
+title: "Sheridan / Sheridrón"
 categoria: lugar
 tags:
  - "cdi"

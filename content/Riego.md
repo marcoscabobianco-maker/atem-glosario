@@ -1,4 +1,5 @@
 ---
+title: "Riego"
 aliases:
  - "Riego"
 en_construccion: true

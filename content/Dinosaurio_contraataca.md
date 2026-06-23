@@ -1,4 +1,5 @@
 ---
+title: "Dinosaurio Contraataca"
 aliases:
  - "Dinosaurio_contraataca"
 en_construccion: true

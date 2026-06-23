@@ -1,4 +1,5 @@
 ---
+title: "El Cruce de los Cárpatos"
 título: "El Cruce de los Cárpatos"
 slug: Cruce_de_los_Carpatos
 aliases:

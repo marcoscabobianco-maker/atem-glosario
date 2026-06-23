@@ -1,4 +1,5 @@
 ---
+title: "Efecto En Fallo"
 aliases:
  - "Efecto_en_fallo"
 en_construccion: true

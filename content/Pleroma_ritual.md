@@ -1,4 +1,5 @@
 ---
+title: "Pleroma ritual"
 aliases:
  - "Pleroma ritual"
 ---

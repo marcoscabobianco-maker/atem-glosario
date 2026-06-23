@@ -1,4 +1,5 @@
 ---
+title: "Gaucho Demonio"
 categoria: personaje
 tags:
  - "personaje"

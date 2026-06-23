@@ -1,4 +1,5 @@
 ---
+title: "Pluma de Thoth"
 título: "Pluma de Thoth"
 slug: Pluma_de_Thoth
 categoria: artefacto

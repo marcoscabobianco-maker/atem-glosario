@@ -1,4 +1,5 @@
 ---
+title: "Alúmine Manwe Finwe \"El Milagroso\""
 título: "Alúmine Manwe Finwe \"El Milagroso\""
 slug: Alumine_Manwe_Finwe
 aliases:

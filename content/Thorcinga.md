@@ -1,4 +1,5 @@
 ---
+title: "Thorcinga"
 aliases:
  - "Thorcinga"
 en_construccion: true

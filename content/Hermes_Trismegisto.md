@@ -1,4 +1,5 @@
 ---
+title: "Hermes Trismegisto"
 aliases:
  - "Hermes_Trismegisto"
 en_construccion: true

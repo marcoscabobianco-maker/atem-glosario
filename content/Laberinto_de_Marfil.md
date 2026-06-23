@@ -1,4 +1,5 @@
 ---
+title: "Laberinto De Marfil"
 aliases:
  - "Laberinto_de_Marfil"
 en_construccion: true

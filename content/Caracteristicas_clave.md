@@ -1,4 +1,5 @@
 ---
+title: "Caracteristicas Clave"
 aliases:
  - "Caracteristicas_clave"
 en_construccion: true

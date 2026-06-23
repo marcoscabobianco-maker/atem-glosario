@@ -1,4 +1,5 @@
 ---
+title: "Santuario Templario (ex-Fortaleza Cruzada)"
 categoria: personaje
 aliases:
  - "Santuario Templario (ex-Fortaleza Cruzada)"

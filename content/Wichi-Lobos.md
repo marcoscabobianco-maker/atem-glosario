@@ -1,4 +1,5 @@
 ---
+title: "Wichi-Lobos"
 título: "Wichi-Lobos"
 slug: Wichi-Lobos
 categoria: entidad

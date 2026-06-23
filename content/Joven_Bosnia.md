@@ -1,4 +1,5 @@
 ---
+title: "Joven Bosnia"
 aliases:
  - "Joven_Bosnia"
 en_construccion: true

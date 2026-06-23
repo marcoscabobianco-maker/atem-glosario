@@ -1,4 +1,5 @@
 ---
+title: "Hannok"
 título: "Hannok"
 slug: Hannok
 categoria: personaje

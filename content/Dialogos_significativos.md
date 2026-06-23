@@ -1,4 +1,5 @@
 ---
+title: "Dialogos Significativos"
 aliases:
  - "Dialogos_significativos"
 en_construccion: true

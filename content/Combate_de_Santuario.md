@@ -1,4 +1,5 @@
 ---
+title: "Combate de Santuario"
 categoria: lugar
 aliases:
  - "Combate de Santuario"

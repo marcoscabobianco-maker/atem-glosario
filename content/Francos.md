@@ -1,4 +1,5 @@
 ---
+title: "Francos"
 aliases:
  - "Francos"
 en_construccion: true

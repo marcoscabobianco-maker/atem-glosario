@@ -1,4 +1,5 @@
 ---
+title: "El Ascensor del Temple"
 título: "El Ascensor del Temple"
 slug: Ascensor_Templo_Niveles
 aliases:

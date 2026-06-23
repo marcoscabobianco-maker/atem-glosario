@@ -1,4 +1,5 @@
 ---
+title: "Vinculacion Dantesca"
 aliases:
  - "Vinculacion_dantesca"
 en_construccion: true

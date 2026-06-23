@@ -1,4 +1,5 @@
 ---
+title: "Operación Patriarcal de Purificación"
 categoria: personaje
 aliases:
  - "Operación Patriarcal de Purificación"

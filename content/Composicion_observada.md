@@ -1,4 +1,5 @@
 ---
+title: "Composicion Observada"
 aliases:
  - "Composicion_observada"
 en_construccion: true

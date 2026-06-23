@@ -1,4 +1,5 @@
 ---
+title: "Wok Magico de Gideon"
 aliases:
  - "Wok Magico de Gideon"
 ---

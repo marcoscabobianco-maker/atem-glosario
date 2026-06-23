@@ -1,4 +1,5 @@
 ---
+title: "Circonio / Piedra Azul"
 título: "Circonio / Piedra Azul"
 slug: Circonio_Piedra_Azul
 categoria: objeto

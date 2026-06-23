@@ -1,4 +1,5 @@
 ---
+title: "La Puerta Dorada"
 título: "La Puerta Dorada"
 slug: Puerta_Dorada
 aliases:

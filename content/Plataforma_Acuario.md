@@ -1,4 +1,5 @@
 ---
+title: "Plataforma de Acuario"
 título: "Plataforma de Acuario"
 slug: Plataforma_Acuario
 aliases:

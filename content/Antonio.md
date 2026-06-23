@@ -1,4 +1,5 @@
 ---
+title: "Antonio"
 título: "Antonio — miembro de La Jabalina nombrado en la convocatoria"
 slug: Antonio
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Novatos Ravenloft (campaña paralela)"
 título: "Novatos Ravenloft (campaña paralela)"
 slug: Novatos_Ravenloft
 categoria: campaña

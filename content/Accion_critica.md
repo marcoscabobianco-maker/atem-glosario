@@ -1,4 +1,5 @@
 ---
+title: "Accion Critica"
 aliases:
  - "Accion_critica"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Diagrama Agregador Montaje Archivo"
 aliases:
  - "Diagrama_Agregador_Montaje_Archivo"
 en_construccion: true

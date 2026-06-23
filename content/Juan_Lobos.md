@@ -1,4 +1,5 @@
 ---
+title: "Juan Lobos"
 aliases:
  - "Juan_Lobos"
 en_construccion: true

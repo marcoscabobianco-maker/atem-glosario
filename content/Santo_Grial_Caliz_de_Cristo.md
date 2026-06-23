@@ -1,4 +1,5 @@
 ---
+title: "Santo Grial / Cáliz de Cristo"
 categoria: artefacto
 tags:
  - "paris-ucronica"

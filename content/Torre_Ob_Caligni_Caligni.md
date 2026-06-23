@@ -1,4 +1,5 @@
 ---
+title: "Torre Ob Caligni"
 categoria: lugar
 tags: ["lugar", "vala"]
 aliases: ["Torre Ob Caligni", "Caligni", "Ob Caligni"]

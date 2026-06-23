@@ -1,4 +1,5 @@
 ---
+title: "Sahuagin Profundo"
 aliases:
  - "Sahuagin Profundo"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Lucrecio R"
 aliases:
  - "Lucrecio_R"
 en_construccion: true

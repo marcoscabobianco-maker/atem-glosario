@@ -1,4 +1,5 @@
 ---
+title: "Panteón Posmoderno — dioses menores (TG)"
 categoria: entidad
 tags:
  - "concepto"

@@ -1,4 +1,5 @@
 ---
+title: "Conexion Con Thomas Cole"
 aliases:
  - "Conexion_con_Thomas_Cole"
 en_construccion: true

@@ -1,4 +1,5 @@
 ---
+title: "Arkane Society"
 categoria: grupo
 tags:
  - "facción"

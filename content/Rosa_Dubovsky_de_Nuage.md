@@ -1,4 +1,5 @@
 ---
+title: "Rosa Dubovsky de Nuage"
 categoria: personaje
 tags:
  - "paris-ucronica"

@@ -1,4 +1,5 @@
 ---
+title: "Pasaje De Los Panoramas"
 aliases:
  - "Pasaje_de_los_Panoramas"
 en_construccion: true

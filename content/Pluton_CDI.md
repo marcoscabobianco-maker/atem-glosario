@@ -1,4 +1,5 @@
 ---
+title: "Plutón (CDI)"
 tags:
  - "cdi"
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Tana del Lupo (TNW)"
 categoria: lugar
 tags:
  - "gary-tnw"

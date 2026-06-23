@@ -1,4 +1,5 @@
 ---
+title: "Kardan Xairas"
 categoria: lugar
 tags: ["lugar", "vala"]
 aliases: ["Kardan Xairas", "Laberinto Qabalah", "Kardan Xairas / Laberinto Qabalah"]

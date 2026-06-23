@@ -1,4 +1,5 @@
 ---
+title: "Les Libertateurs / Pretty Women"
 categoria: grupo
 tags:
  - "grupo"

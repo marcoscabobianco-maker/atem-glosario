@@ -1,4 +1,5 @@
 ---
+title: "Reina Oscura"
 aliases:
  - "Queen Oscura"
  - "Oscura"

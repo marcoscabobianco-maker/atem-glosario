@@ -1,4 +1,5 @@
 ---
+title: "Andromalius como espicería de castigo"
 categoria: objeto
 tags: ["objeto", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Andromalius espicería de castigo", "Andromalius hechizo"]

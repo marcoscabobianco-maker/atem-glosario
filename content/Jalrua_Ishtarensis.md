@@ -1,4 +1,5 @@
 ---
+title: "Jalrua Ishtarensis"
 categoria: personaje
 tags: ["personaje", "vala"]
 aliases: ["Jalrua Ishtarensis", "Halrua Ishtarensis"]

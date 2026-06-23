@@ -1,4 +1,5 @@
 ---
+title: "Jeanne Devossie"
 categoria: personaje
 tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Jeanne Devossie", "Jeanne"]

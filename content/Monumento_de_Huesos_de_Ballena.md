@@ -1,4 +1,5 @@
 ---
+title: "Monumento de Huesos de Ballena"
 título: "Monumento de Huesos de Ballena"
 slug: Monumento_de_Huesos_de_Ballena
 categoria: objeto

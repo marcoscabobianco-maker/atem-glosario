@@ -1,4 +1,5 @@
 ---
+title: "Caudatssa the Tongue"
 título: "Caudatssa the Tongue"
 slug: Caudatssa_the_Tongue
 categoria: personaje

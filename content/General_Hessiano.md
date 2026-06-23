@@ -1,4 +1,5 @@
 ---
+title: "El General Hessiano"
 título: "El General Hessiano"
 slug: General_Hessiano
 aliases:

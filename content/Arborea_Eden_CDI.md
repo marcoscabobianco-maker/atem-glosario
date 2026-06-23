@@ -1,4 +1,5 @@
 ---
+title: "Arbórea — el Edén del Foso"
 título: "Arbórea — el Edén del Foso"
 slug: Arborea_Eden_CDI
 aliases:

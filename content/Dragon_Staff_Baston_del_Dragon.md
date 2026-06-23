@@ -1,4 +1,5 @@
 ---
+title: "Dragon Staff / Bastón del Dragón"
 categoria: artefacto
 tags:
  - "corona-del-norte"

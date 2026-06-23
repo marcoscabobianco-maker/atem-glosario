@@ -1,4 +1,5 @@
 ---
+title: "Gabriel (Guardián de Aries)"
 tags:
  - "personaje"
  - "guardián"

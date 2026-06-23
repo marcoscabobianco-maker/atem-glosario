@@ -1,4 +1,5 @@
 ---
+title: "Lanza Nórdica"
 categoria: lugar
 aliases:
  - "Lanza Nórdica"

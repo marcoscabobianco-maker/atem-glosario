@@ -1,4 +1,5 @@
 ---
+title: "Carrusel de la Cerveza"
 categoria: lugar
 aliases:
  - "Carrusel de la Cerveza"

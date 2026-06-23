@@ -1,4 +1,5 @@
 ---
+title: "Panteón Posmoderno"
 categoria: entidad
 tags:
  - "concepto"

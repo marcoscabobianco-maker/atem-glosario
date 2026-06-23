@@ -1,4 +1,5 @@
 ---
+title: "Subóscuro"
 título: "Subóscuro — geografía cosmológica de las criaturas del Bazar"
 slug: Suboscuro
 aliases:

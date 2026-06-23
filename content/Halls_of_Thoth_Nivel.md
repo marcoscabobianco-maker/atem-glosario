@@ -1,4 +1,5 @@
 ---
+title: "Halls of Thoth"
 título: "Halls of Thoth"
 slug: Halls_of_Thoth_Nivel
 categoria: lugar

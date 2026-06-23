@@ -1,4 +1,5 @@
 ---
+title: "Elizabeth de Beauvois"
 categoria: personaje
 aliases:
  - "Elizabeth de Beauvois"

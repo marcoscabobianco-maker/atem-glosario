@@ -1,4 +1,5 @@
 ---
+title: "Hugo de Payns"
 título: "Hugo de Payns"
 slug: Hugo_de_Payns
 categoria: personaje

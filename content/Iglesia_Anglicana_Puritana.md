@@ -1,4 +1,5 @@
 ---
+title: "Iglesia Anglicana Puritana"
 aliases:
  - "Iglesia_Anglicana_Puritana"
 en_construccion: true

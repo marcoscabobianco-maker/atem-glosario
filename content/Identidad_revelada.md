@@ -1,4 +1,5 @@
 ---
+title: "Identidad Revelada"
 aliases:
  - "Identidad_revelada"
 en_construccion: true

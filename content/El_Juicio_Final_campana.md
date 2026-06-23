@@ -1,4 +1,5 @@
 ---
+title: "El Juicio Final (campaña)"
 categoria: evento
 tags:
  - "evento"

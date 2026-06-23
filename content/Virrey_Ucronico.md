@@ -1,4 +1,5 @@
 ---
+title: "Virrey Ucronico"
 aliases:
  - "Virrey_Ucronico"
 en_construccion: true

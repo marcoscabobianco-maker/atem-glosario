@@ -1,4 +1,5 @@
 ---
+title: "El Pugil Atlante"
 título: "El Pugil Atlante"
 slug: Pugil_Atlante
 aliases:

@@ -1,4 +1,5 @@
 ---
+title: "Elizabeth De Beauvois Introducida"
 aliases:
  - "Elizabeth_de_Beauvois_introducida"
 en_construccion: true

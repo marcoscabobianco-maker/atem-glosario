@@ -1,4 +1,5 @@
 ---
+title: "Papas Borg"
 título: "Papas Borg — la dinastía papal oscura"
 slug: Papas_Borg
 aliases:

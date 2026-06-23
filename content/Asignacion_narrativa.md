@@ -1,4 +1,5 @@
 ---
+title: "Asignacion Narrativa"
 aliases:
  - "Asignacion_narrativa"
 en_construccion: true

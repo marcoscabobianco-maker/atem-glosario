@@ -1,4 +1,5 @@
 ---
+title: "Geolia"
 aliases:
  - "Geolia"
 en_construccion: true

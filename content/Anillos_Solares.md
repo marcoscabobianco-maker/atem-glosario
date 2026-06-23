@@ -1,4 +1,5 @@
 ---
+title: "Anillos Solares"
 título: "Anillos Solares"
 slug: Anillos_Solares
 categoria: artefacto

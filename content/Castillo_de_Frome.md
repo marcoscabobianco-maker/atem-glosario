@@ -1,4 +1,5 @@
 ---
+title: "Castillo De Frome"
 aliases:
  - "Castillo_de_Frome"
 en_construccion: true

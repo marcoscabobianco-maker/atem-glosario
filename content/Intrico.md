@@ -1,4 +1,5 @@
 ---
+title: "Intrico"
 aliases:
  - "Intrico"
 en_construccion: true

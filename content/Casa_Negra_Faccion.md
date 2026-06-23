@@ -1,4 +1,5 @@
 ---
+title: "Casa Negra (Facción)"
 categoria: grupo
 tags:
  - "paris-ucronica"

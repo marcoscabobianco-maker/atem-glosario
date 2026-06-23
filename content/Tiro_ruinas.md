@@ -1,4 +1,5 @@
 ---
+title: "Tiro ruinas"
 aliases:
  - "Tiro ruinas"
 ---

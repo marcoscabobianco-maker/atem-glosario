@@ -1,4 +1,5 @@
 ---
+title: "Combate En Salon Principal"
 aliases:
  - "Combate_en_salon_principal"
 en_construccion: true

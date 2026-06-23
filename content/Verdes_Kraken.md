@@ -1,4 +1,5 @@
 ---
+title: "Verdes Kraken"
 categoria: grupo
 aliases:
  - "Verdes Kraken"

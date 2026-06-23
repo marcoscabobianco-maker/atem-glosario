@@ -1,4 +1,5 @@
 ---
+title: "Gavrilo Princip"
 título: "Gavrilo Princip"
 slug: Gavrilo_Princip
 aliases:

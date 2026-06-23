@@ -1,4 +1,5 @@
 ---
+title: "Elementos Caracteristicos"
 aliases:
  - "Elementos_caracteristicos"
 en_construccion: true

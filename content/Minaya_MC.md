@@ -1,4 +1,5 @@
 ---
+title: "Minaya (MC)"
 tags:
  - "personaje"
  - "semi-drow"

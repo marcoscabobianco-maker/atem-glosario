@@ -1,4 +1,5 @@
 ---
+title: "Comuna De Paris 1870"
 aliases:
  - "Comuna_de_Paris_1870"
 en_construccion: true

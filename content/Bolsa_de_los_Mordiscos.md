@@ -1,4 +1,5 @@
 ---
+title: "Bolsa de los Mordiscos"
 categoria: artefacto
 tags:
  - "objeto"

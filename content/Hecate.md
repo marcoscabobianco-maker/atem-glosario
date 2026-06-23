@@ -1,4 +1,5 @@
 ---
+title: "Hécate"
 título: "Hécate — antagonista de Rintrah y desviadora de los invitados"
 slug: Hecate
 aliases:

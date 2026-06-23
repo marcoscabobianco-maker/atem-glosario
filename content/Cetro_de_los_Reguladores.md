@@ -1,4 +1,5 @@
 ---
+title: "Cetro de los Reguladores"
 aliases:
  - "Cetro de los Reguladores"
 ---

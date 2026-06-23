@@ -1,4 +1,5 @@
 ---
+title: "Wako anillo de Mabron"
 categoria: objeto
 aliases:
  - "Wako anillo de Mabron"

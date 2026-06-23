@@ -1,4 +1,5 @@
 ---
+title: "Implicacion Meta"
 aliases:
  - "Implicacion_meta"
 en_construccion: true

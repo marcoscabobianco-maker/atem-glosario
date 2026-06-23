@@ -1,4 +1,5 @@
 ---
+title: "Mantenientes caballeros"
 aliases:
  - "Mantenientes caballeros"
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Coyote"
 categoria: personaje
 tags:
  - "personaje"
