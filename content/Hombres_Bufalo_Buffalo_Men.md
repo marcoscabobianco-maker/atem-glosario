@@ -1,7 +1,7 @@
 ---
 categoria: grupo
 tags:
- - "northern-crown"
+ - "corona-del-norte"
  - "facción"
  - "emergente"
  - "tecnología"

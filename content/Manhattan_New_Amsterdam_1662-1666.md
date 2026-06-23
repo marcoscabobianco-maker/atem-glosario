@@ -1,7 +1,7 @@
 ---
 categoria: lugar
 tags:
- - "northern-crown"
+ - "corona-del-norte"
  - "nc09-nc13"
  - "lugar"
  - "holandés"

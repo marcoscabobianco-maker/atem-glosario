@@ -13,7 +13,7 @@ tags:
  - grupo
  - mercenarios
  - malditos
- - northern-crown
+ - "corona-del-norte"
  - holandes-errante
  - espejo-oscuro
  - dragon-verde

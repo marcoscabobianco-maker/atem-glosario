@@ -1,7 +1,7 @@
 ---
 categoria: concepto
 tags:
- - "northern-crown"
+ - "corona-del-norte"
  - "setting"
  - "concepto"
  - "cosmología"

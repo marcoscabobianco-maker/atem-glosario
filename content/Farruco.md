@@ -1,6 +1,6 @@
 ---
 tags:
- - "northern-crown"
+ - "corona-del-norte"
  - "sierra-nevada"
  - "mestizo"
  - "chamán-renegado"

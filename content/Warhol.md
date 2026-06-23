@@ -1,6 +1,5 @@
 ---
 tags:
- - "northern-crown"
  - "corona-del-norte"
  - "cherokee"
  - "bardo"
@@ -20,9 +19,3 @@ Bardo cherokee, conocedor de historias, contador de relatos. Puente entre mundos
 ## Notas
 
 Su arco es horizontal (traduce entre mundos) más que vertical (no se transforma personalmente). El [[Necklace_of_Netted_Stars_Teclas_de_Estrellas_en_Red|Necklace of Netted Stars]] es su artefacto principal — counterspell + Pearls of Power.
-
-## ENTRADAS NUEVAS — Campaña Dante's Inferno el Descenso (consolidación 20 mar 2026)
-
-> Consolidación de las entradas nuevas del Descenso.
-> Fuentes: el archivo y los relatos por jornada.
-> Tags uniformes: #el Descenso, por jornada de origen.

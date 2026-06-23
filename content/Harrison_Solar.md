@@ -1,6 +1,6 @@
 ---
 tags:
- - "northern-crown"
+ - "corona-del-norte"
  - "capitán"
  - "ranchero"
  - "california"

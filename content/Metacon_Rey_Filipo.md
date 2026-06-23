@@ -1,6 +1,5 @@
 ---
 tags:
- - "northern-crown"
  - "corona-del-norte"
  - "rey"
  - "indígena"

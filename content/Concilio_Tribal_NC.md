@@ -12,7 +12,7 @@ tags:
  - evento
  - concilio
  - tribal
- - northern-crown
+ - "corona-del-norte"
  - mesa-del-humo
  - colonias
  - decisiones

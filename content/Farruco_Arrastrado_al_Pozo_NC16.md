@@ -1,7 +1,7 @@
 ---
 categoria: evento
 tags:
- - "northern-crown"
+ - "corona-del-norte"
  - "evento"
  - "horror"
  - "infernal"

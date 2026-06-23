@@ -1,7 +1,7 @@
 ---
 categoria: lugar
 tags:
- - "northern-crown"
+ - "corona-del-norte"
  - "lugar"
  - "cósmico"
  - "árbol"

@@ -1,16 +1,17 @@
 ---
 tags:
- - "northern-crown"
  - "corona-del-norte"
  - "holandés"
  - "gobernador"
  - "antagonista"
  - "colonial"
 aliases:
- - " II"
+ - "Peter Stuyvesant II"
+ - "Peter Stuyvesant"
+ - "Pata de Palo"
 ---
 
-# II
+# Peter Stuyvesant II
 
 ## Presentación
 

@@ -1,6 +1,6 @@
 ---
 tags:
- - "northern-crown"
+ - "corona-del-norte"
  - "pocahontas"
  - "linaje-real"
  - "sobrenatural"

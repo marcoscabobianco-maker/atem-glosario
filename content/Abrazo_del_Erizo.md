@@ -1,7 +1,6 @@
 ---
 categoria: concepto
 tags:
- - "northern-crown"
  - "corona-del-norte"
  - "concepto"
  - "metáfora"

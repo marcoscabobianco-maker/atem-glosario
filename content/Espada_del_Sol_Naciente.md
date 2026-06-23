@@ -1,7 +1,6 @@
 ---
 categoria: artefacto
 tags:
- - "northern-crown"
  - "corona-del-norte"
  - "arma"
  - "espada"

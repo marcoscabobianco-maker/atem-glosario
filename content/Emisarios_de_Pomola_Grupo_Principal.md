@@ -1,7 +1,6 @@
 ---
 categoria: grupo
 tags:
- - "northern-crown"
  - "corona-del-norte"
  - "facción"
  - "grupo-principal"

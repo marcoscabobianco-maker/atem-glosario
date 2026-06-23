@@ -1,6 +1,6 @@
 ---
 tags:
- - "northern-crown"
+ - "corona-del-norte"
  - "nc05-nc06"
  - "herrero"
  - "guardián"

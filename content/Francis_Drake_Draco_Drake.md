@@ -17,7 +17,7 @@ tags:
  - california
  - dragon-verde
  - infierno
- - northern-crown
+ - "corona-del-norte"
 imagen: Imagenes_Tier1/Francis_Drake_Draco_Drake.png
 ---
 # Francis Drake — Draco Drake

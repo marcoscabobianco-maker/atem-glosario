@@ -16,7 +16,7 @@ tags:
  - almas
  - luna
  - salem
- - northern-crown
+ - "corona-del-norte"
 imagen: Imagenes_Tier1/Flying_Dutchman_Holandes_Errante.png
 ---
 # Flying Dutchman — el Holandés Errante

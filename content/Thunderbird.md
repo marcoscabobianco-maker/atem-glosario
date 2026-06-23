@@ -4,7 +4,7 @@ aliases:
  - "Thunderbird"
 tags:
  - stub
- - northern-crown
+ - "corona-del-norte"
  - criatura
  - mitico
 ---

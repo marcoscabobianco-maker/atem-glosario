@@ -1,7 +1,6 @@
 ---
 categoria: criatura
 tags:
- - "northern-crown"
  - "corona-del-norte"
  - "criatura"
  - "constructo"

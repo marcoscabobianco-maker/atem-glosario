@@ -1,7 +1,6 @@
 ---
 categoria: evento
 tags:
- - "northern-crown"
  - "corona-del-norte"
  - "evento"
  - "luna"
