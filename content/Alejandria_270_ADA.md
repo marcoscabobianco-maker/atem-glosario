@@ -14,8 +14,6 @@ aliases:
 wikipedia: https://es.wikipedia.org/wiki/Alejandr%C3%ADa
 ---
 
-# Alejandría (270 A.D.A.)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Alejandria_270_ADA.png]]
 <!-- /HEADER_IMG -->

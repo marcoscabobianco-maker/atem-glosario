@@ -10,8 +10,6 @@ aliases:
  - "La Serpiente"
 ---
 
-# La Serpiente
-
 ## Presentación
 
 [[Entidad]] con "sincronía absoluta." Asociada a Proteanismo (caos, mutabilidad, transformación, anti-estructura). Puede asumir múltiples formas e identidades. Opera a través de intermediarios humanos ([[Moni_Vivescu|Moni Vivescu]], posiblemente otros). Motivación aún oscura: ¿aliada del Etrusco o independiente? Representa fuerzas del caos en dualismo cósmico con poderes [[Inevitable|Inevitables]] (orden).

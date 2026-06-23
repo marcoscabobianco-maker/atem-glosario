@@ -23,7 +23,6 @@ tags:
  - presidente-ohio
  - antiterra-trenes-dragones
 ---
-# Banco Boreal
 
 > *El banco que surge del grupo de los Boreales. Créditos a futuro en África con Rosita. Seguros de muerte. Porcentajes con los Mercane. La fortuna del único sobreviviente.*
 

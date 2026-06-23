@@ -13,8 +13,6 @@ aliases:
  - "Padre San Miguel"
 ---
 
-# Padre San Miguel
-
 Jesuita destinado al Fortín de la Estrella Federal y al Palacio del Lodo en la [[Proteccion_Hechizo_de_Encantamiento|Protección]] de la Plata. Hombre negro, de buenas maneras, con un bigote que parece pertenecer a un retrato de otro siglo: esa incongruencia temporal es lo primero que nota quien lo ve. Lee francés y latín sin esfuerzo visible, y maneja la pluma con soltura que pocos en el fortín igualan. No confiesa con dureza ni hostiga a los soldados; cumple sus funciones eclesiásticas con una distancia amable que desconcierta a quienes esperan del cura de frontera o el rigor o la complicidad.
 
 Hay en torno a él una incomodidad que los hombres del fortín no saben articular. El bigote anacrónico, los siglos que parecen habérsele pegado al rostro, la familiaridad con lenguas muertas: todo sugiere que el Padre San Miguel lleva en el mundo más tiempo del que un hombre debería llevar. En la campaña ucrónica de Santa María de [[Torregrises]] circula el rumor —documentado en al menos un testimonio de la partida— de que ciertos jesuitas portan sobre sus espaldas ciento cincuenta años o más, pruebas incluidas. San [[Miguel]] podría ser uno de ellos: un eslabón en la cadena de los eclesiásticos longevos que atraviesan la frontera rosista sin envejecer del todo.

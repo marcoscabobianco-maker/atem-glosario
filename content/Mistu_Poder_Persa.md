@@ -5,8 +5,6 @@ aliases:
  - "Mistu ↔ Poder Persa"
 ---
 
-# Mistu ↔ Poder Persa
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mistu_Poder_Persa.png]]
 <!-- /HEADER_IMG -->

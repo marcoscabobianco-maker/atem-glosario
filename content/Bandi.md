@@ -9,8 +9,6 @@ aliases:
  - "Salven a Bandi"
 ---
 
-# Bandi
-
 ## Presentación
 
 Pederasta y vividor que se mantuvo al margen de situaciones políticas serbias. Asesinado por bala indicada por el [[Red_Negra_Circulo_Rojo|Círculo de Serbia]].

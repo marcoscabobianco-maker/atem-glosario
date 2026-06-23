@@ -10,8 +10,6 @@ aliases:
  - "Buenos Aires"
 ---
 
-# Buenos Aires (Ucrónica)
-
 ## Presentación
 
 Ciudad Refugio en seno de ciudades ocultas/invisibles. Tierra de Neutrales. Primera invasión ucrónica fue inglesa. Desde entonces solo produce poetas de vidrio. Torre gris, sueños imposibles. Asociada a memoria olvidada de [[Claude_Nauge|Claude Nauge]] (pronunciado borracho el nombre en noches de [[Absenta]]).

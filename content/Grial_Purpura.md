@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Grial Púrpura"
 ---
-# Grial Púrpura
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Grial_Purpura.png]]

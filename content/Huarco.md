@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Huarco"
 ---
-# Huarco
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Huarco.png]]

@@ -14,8 +14,6 @@ aliases:
  - "Iron Mountain / Montaña de Hierro"
 ---
 
-# Iron Mountain / Montaña de Hierro (TNW)
-
 ## Presentación
 
 **Ref.:** 9 ("Iron Mountain"), resumen –190.

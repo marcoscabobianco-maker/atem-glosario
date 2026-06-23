@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Plataforma_Acuario.png
 ---
 
-# Plataforma de Acuario
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Acuario.png]]
 <!-- /HEADER_IMG -->

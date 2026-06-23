@@ -8,7 +8,6 @@ aliases:
  - "Diablos Pastores"
  - "Herding Devils"
 ---
-# Herding Devils (Diablos Pastores)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Herding_Devils_Diablos_Pastores.png]]

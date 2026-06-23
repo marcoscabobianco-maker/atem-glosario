@@ -11,8 +11,6 @@ aliases:
  - "Moran Atias"
 ---
 
-# Moran Atias
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Moran_Atias.png]]
 <!-- /HEADER_IMG -->

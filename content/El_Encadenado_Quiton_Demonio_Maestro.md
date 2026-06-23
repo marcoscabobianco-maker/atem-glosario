@@ -13,8 +13,6 @@ aliases:
  - "El Encadenado / Quitón"
 ---
 
-# El Encadenado / Quitón (Demonio Maestro)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Encadenado_Quiton_Demonio_Maestro.png]]
 <!-- /HEADER_IMG -->

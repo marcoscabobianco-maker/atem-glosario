@@ -9,8 +9,6 @@ aliases:
  - "Isla Serpiente"
 ---
 
-# Isla de la Serpiente
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Isla_de_la_Serpiente.png]]
 <!-- /HEADER_IMG -->

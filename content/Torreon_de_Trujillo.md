@@ -8,8 +8,6 @@ aliases:
  - "Torreón de Trujillo"
 ---
 
-# Torreón de Trujillo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torreon_de_Trujillo.png]]
 <!-- /HEADER_IMG -->

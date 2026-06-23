@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Fisostigma venenosum"
 ---
-# Fisostigma venenosum
 
 ## Presentación
 

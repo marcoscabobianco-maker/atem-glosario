@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Los Venerables"
 ---
-# Los Venerables
 
 ## Presentación
 

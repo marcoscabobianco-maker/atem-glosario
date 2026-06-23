@@ -7,8 +7,6 @@ aliases:
  - "Guardián del Árbol"
 ---
 
-# Ser Sombrío / Emisario / Guardián del Árbol
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ser_Sombrio_Emisario_Guardian_del_Arbol.png]]
 <!-- /HEADER_IMG -->

@@ -23,8 +23,6 @@ aliases:
  - "trípode de sacrificio"
 ---
 
-# Las Naves del Caos
-
 ## Presentación
 
 El catálogo más antiguo del archivo las asienta apenas como nombre — *Naves del caos, las* — sin una línea de glosa, entre decenas de nombres que esperaban su historia. La espera se saldó en los dos extremos del registro: una remontada fluvial en el año de la peste y un trípode plantado para el fin del mundo. Son los navíos del Abismo: naves caóticas y malvadas cuya pieza apareada, en el canon del archivo, es el [[Castillo_del_Prisma]] — el cuaderno segundo ya anotaba el interés de unir la pieza legal con su gemela caótica como fuente de un poder dual. La flota no tiene número fijo: el archivo cuenta doce sobre el Támesis y tres en el trípode, y el cronista sospecha que el caos no lleva otra contabilidad que la de cada operación.

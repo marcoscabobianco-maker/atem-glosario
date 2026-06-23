@@ -21,7 +21,6 @@ tags:
  - skulks
 imagen: null
 ---
-# Shadowfell
 
 > *"No es la oscuridad. Es lo que la oscuridad oculta. Quien entra al Shadowfell descubre que la sombra tiene cuerpo, voz, oficio, comercio. Lo que en la superficie es ausencia de luz, allí es presencia distinta."* — del *Tratado de los Lugares Sellados*, sección sobre planos paralelos.
 

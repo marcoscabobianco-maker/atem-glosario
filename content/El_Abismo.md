@@ -15,7 +15,6 @@ aliases:
  - "Abyss"
  - "Abismo"
 ---
-# el Abismo
 
 > Plano exterior caótico-maligno de los demonios (tanar'ri) en D&D. 666+ capas. Hogar de [[Grazzt|Graz'zt]] en [[Azzagrat]] (capas 45-47). Centro narrativo de la cosmología de poder demoníaco en el cosmos compartido.
 

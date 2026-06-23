@@ -23,7 +23,6 @@ tags:
  - cenizas
  - responsabilidad-buscadores
 ---
-# El Huevo de Ritornello
 
 > *Artefacto rudishva de destrucción masiva extraído del módulo de armas. Arrasó [[Ritornello]] hace 15 años en "lo de las cenizas". [[Buscadores_de_Ardis_Vala|Los Buscadores]] tienen responsabilidad parcial por haberlo entregado.*
 

@@ -20,7 +20,6 @@ tags:
  - kronamon
  - ballestazo
 ---
-# Masada
 
 > *La fortaleza famosa por los mártires judíos contra Roma. La que también existe en la época de las cruzadas. Desde acá viene el ballestazo que decapita a [[Kronamon]].*
 

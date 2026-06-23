@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Tierra Santa
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tierra_Santa.png]]
 <!-- /HEADER_IMG -->

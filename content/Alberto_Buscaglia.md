@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# Dr. Alberto Buscaglia
-
 > *Mientras no enfrente lo que lo aterra, el ataque volverá. No hay cura por evitación.*
 
 ---

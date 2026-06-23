@@ -10,8 +10,6 @@ aliases:
  - "Bosque de Álamos Negros"
 ---
 
-# Bosque de Álamos Negros
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bosque_de_Alamos_Negros.png]]
 <!-- /HEADER_IMG -->

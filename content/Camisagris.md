@@ -5,8 +5,6 @@ aliases:
 referenciado_por: 2
 ---
 
-# Camisagris
-
 Criatura del [[Bestiario_de_Torregrises_E|Bestiario de Torregrises]]. Aparece en los Cimientos.
 
 ## Referencias entrantes

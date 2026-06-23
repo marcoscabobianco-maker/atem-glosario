@@ -20,8 +20,6 @@ tags:
  - campaña-activa
 ---
 
-# Bazaar de San Dragón
-
 > *Referencia cosmológica que invoca para situar el poder del [[Papa_Alejandro_Sixto]]. Vinculado al primer Manual of the Planes ( 1e, 1987). Catálogo de criaturas planares clásicas. Campaña activa.*
 
 ## Presentación

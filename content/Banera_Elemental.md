@@ -15,8 +15,6 @@ tags:
  - paris-ucronica
 ---
 
-# Bañera Elemental
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Banera_Elemental.jpeg]]
 <!-- /HEADER_IMG -->

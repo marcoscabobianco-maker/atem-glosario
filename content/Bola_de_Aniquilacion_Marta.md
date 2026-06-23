@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Bola_de_Aniquilacion_Marta.png
 ---
 
-# La Bola de Aniquilación (Marta)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bola_de_Aniquilacion_Marta.png]]
 <!-- /HEADER_IMG -->

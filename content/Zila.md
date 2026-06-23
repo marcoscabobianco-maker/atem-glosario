@@ -12,7 +12,6 @@ tags:
  - wichi-lobos
  - stub
 ---
-# Zila
 
 > *[[Entidad]] relacionada con [[Wichi-Lobos]]. Otro ser terrible del archivo.*
 

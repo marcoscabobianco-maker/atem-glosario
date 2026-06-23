@@ -13,7 +13,6 @@ aliases:
  - "tren"
  - "El Guerrero"
 ---
-# El Guerrero (tren)
 
 ## Presentación
 

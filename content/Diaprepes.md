@@ -11,8 +11,6 @@ aliases:
  - "Diaprepes de la Atlántida"
 ---
 
-# Diaprepes
-
 ## Presentación
 
 **Diaprepes de la [[Atlantida_Alta_y_Baja|Atlántida]]** es el eslabón atlante de la cadena del saber que el [[Rerum_divinarum_et_humanarum]] traza: **Hermes —Mercurio— Trismegisto de Egipto le traspasó su conocimiento**. El nombre pertenece al registro platónico de los reyes atlantes —Diaprepes es el décimo y último de los hijos de Poseidón en el relato de Critias—, y el archivo lo conserva en esa doble cifra: rey del linaje hundido y depositario del hermetismo egipcio.

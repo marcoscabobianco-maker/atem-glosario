@@ -19,7 +19,6 @@ tags:
  - caldero
  - jabalina
 ---
-# Cetro de los Dioses
 
 > *Pieza regia de la [[Vara_del_Infinito]]. El que une a la Gema con la Piedra. Cetro y Trono al mismo tiempo: autoridad cósmica al medio del mega-artefacto.*
 

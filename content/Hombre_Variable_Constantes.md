@@ -14,8 +14,6 @@ aliases:
  - "el hombre variable"
 ---
 
-# Hombre Variable / Constantes
-
 ## Presentación
 
 Marco de cosmología temporal que divide a los viajeros del tiempo en dos naturalezas. Lo enunció [[Teofilo_el_Bactriano_Olaus_Teododetes_Teofides|Teófilo el Bactriano]] ante los [[Time_Bandits|Time Bandits]] durante el ciclo de [[Paris_Ucronica|París Ucrónica]], para dar razón del orden que gobierna el viaje por el tiempo.

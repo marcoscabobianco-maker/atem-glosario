@@ -4,8 +4,6 @@ aliases:
  - "Bastilla uchronica"
 ---
 
-# Bastilla uchronica
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bastilla_uchronica.png]]
 <!-- /HEADER_IMG -->

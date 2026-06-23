@@ -12,8 +12,6 @@ aliases:
  - "Truco de la Cuerda (Rope Trick)"
 ---
 
-# Truco de la Cuerda (Rope Trick)
-
 ## Presentación
 
 Conjuro de refugio: una cuerda que, al treparla, conduce a un espacio situado fuera de las dimensiones ordinarias. Quienes aguardan en su interior resultan indetectables para las criaturas que pasan por debajo; desde ese mirador invisible puede observarse el mundo sin pertenecer a él.

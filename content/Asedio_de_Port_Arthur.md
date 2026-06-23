@@ -16,8 +16,6 @@ aliases:
  - "Lüshunkou"
 ---
 
-# Asedio de Port Arthur
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Asedio_de_Port_Arthur.jpg]]
 <!-- /HEADER_IMG -->

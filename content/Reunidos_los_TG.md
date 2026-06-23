@@ -13,8 +13,6 @@ aliases:
  - "Los Reunidos"
 ---
 
-# Reunidos, los (TG)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Reunidos_los_TG.png]]
 <!-- /HEADER_IMG -->

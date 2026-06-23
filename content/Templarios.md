@@ -5,8 +5,6 @@ aliases:
 en_construccion: true
 ---
 
-# Templarios
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Templarios.jpg]]
 <!-- /HEADER_IMG -->

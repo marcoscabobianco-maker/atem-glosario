@@ -34,8 +34,6 @@ tags:
 imagen: Imagenes_Tier1/Pablo_de_Alejandria.png
 ---
 
-# Pablo de Alejandría
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pablo_de_Alejandria.png]]
 <!-- /HEADER_IMG -->

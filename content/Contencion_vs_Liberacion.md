@@ -5,8 +5,6 @@ aliases:
  - "Contención vs. Liberación"
 ---
 
-# Contención vs. Liberación
-
 ## Presentación
 
 **Concepto central de la [[Jornada_del_Falso_Maestre|jornada del falso Maestre]]:** El Laberinto no es "prisión" sino "contenedor mágico" para criatura infraplanar. El asalto inicial al [[Temple_complejo_TE|Temple]] fue intento de liberar. La madera era "ancla mágica".

@@ -4,8 +4,6 @@ aliases:
  - "CARLOS"
 ---
 
-# CARLOS
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/CARLOS.png]]
 <!-- /HEADER_IMG -->

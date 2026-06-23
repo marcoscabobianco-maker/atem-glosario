@@ -15,7 +15,6 @@ tags:
  - descenso
  - planar
 ---
-# La Nobiskrug
 
 > *La última posada antes del abismo: la casa de los que niegan, donde los muertos del día llenan los bancos y el tabernero sirve mientras espera, de cara a la puerta por la que se entra al cielo o al Infierno.*
 

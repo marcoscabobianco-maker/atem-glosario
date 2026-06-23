@@ -21,8 +21,6 @@ tags:
  - arbol-de-armas
 ---
 
-# Arcanum Forge
-
 > *Forja sortiana del [[Arcanum]]. Ubicada en el Suelo del Gran Abismo dentro del Priscian Compound. Restaurada parcialmente por [[Nerub_Null]]. En jornada documentada generó el [[Arbol_de_Armas_Principal|Árbol de Armas Principal]] a partir de la semilla [[RAJ-750]].*
 
 ## Presentación

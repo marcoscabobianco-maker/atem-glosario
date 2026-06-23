@@ -5,8 +5,6 @@ tags: ["personaje", "vala"]
 aliases: ["Yuvé", "Juvé"]
 ---
 
-# Yuvé
-
 Espía y ladrona, Yuvé opera en [[Vala]] bajo el apellido [[Bribaldo_(apellido_linaje)|Bribaldo]] — linaje de casa menor que lleva con ironía, pues el nombre mismo es una broma sobre el arte del bribón que ella practica con precisión. Tiene algo de serpentino en el modo en que se mueve: una naturaleza que los que la conocen perciben como rasgo de sangre, no solo de oficio. Los Wordbreakers la cuentan entre sus filas desde el comienzo de la campaña, y ella ha sabido sostener ese lugar incluso en los momentos en que la tensión entre compañeros llegó al límite del enfrentamiento abierto.
 
 El encargo que mejor define su habilidad lo recibe del Gobernador de [[Nesut_Biti]]: infiltrarse en la cripta bajo el templo de la ciudad y desactivar un símbolo-trampa que, de mantenerse activo, inundaría la cámara inferior con rayos. El precio pactado — cinco mil monedas, mil quinientas por adelantado — es el de alguien que sabe cuánto vale su destreza. De esa cripta extrae además dos constructos: una máquina de tipo cangrejo, y un contemplador flotante armado con varitas, criatura que acecha desde el vacío. Los dos artefactos son botín inesperado de una misión que debía ser quirúrgica.

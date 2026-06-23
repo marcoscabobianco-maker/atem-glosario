@@ -11,7 +11,6 @@ aliases:
  - "Sandalias rojas de Mony"
  - "Sandalias de Moni Vivescu"
 ---
-# Sandalias Rojas
 
 ## Presentación
 

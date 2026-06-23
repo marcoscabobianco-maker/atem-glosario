@@ -5,8 +5,6 @@ aliases:
  - "Terra vs. Antiterra"
 ---
 
-# Terra vs. Antiterra
-
 ## Presentación
 
 **Definición canónica al ingresar a [[Paris_Ucronica|París Ucrónica]]:**

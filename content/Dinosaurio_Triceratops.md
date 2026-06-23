@@ -8,8 +8,6 @@ aliases:
  - "DINOSAURIO TRICERATOPS GIGANTE"
 ---
 
-# DINOSAURIO TRICERATOPS GIGANTE (también: "Dinosaurio de Piedra", "Reptil Titánico")
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/DINOSAURIO_TRICERATOPS_GIGANTE_tambien_Dinosaurio_de_Piedra_Reptil_Titanico.png]]
 <!-- /HEADER_IMG -->

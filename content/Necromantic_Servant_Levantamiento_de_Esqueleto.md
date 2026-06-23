@@ -7,8 +7,6 @@ aliases:
  - "Necromantic Servant"
 ---
 
-# Necromantic Servant (Levantamiento de Esqueleto)
-
 ## Presentación
 
 **Invocador:** [[Michel|Michel]] 

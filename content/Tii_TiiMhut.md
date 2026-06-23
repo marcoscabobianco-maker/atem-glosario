@@ -24,7 +24,6 @@ tags:
  - linaje-de-dragones
 imagen: Imagenes_Tier1/Tii_TiiMhut.png
 ---
-# Tii (Tii'Mhut)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tii_TiiMhut.png]]

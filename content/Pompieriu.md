@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Pompiériu"
 ---
-# Pompiériu
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pompieriu.png]]

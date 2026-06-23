@@ -12,8 +12,6 @@ aliases:
  - "Cuatro Potencias Mundiales"
 ---
 
-# Cuatro Potencias Mundiales (270 A.D.A.)
-
 ## Presentación
 
 El cronista establece cuatro poderes globales en este período:

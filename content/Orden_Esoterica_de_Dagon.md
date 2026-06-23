@@ -17,8 +17,6 @@ aliases:
  - "Dagón"
 ---
 
-# Orden Esotérica de Dagón
-
 > *La cofradía batracia del Atlántico Sur. La estirpe que adora a Dagón y prepara la venida de Tulu desde el fondo del mar. Se llaman a sí mismos «los Profundos».*
 
 ## Presentación

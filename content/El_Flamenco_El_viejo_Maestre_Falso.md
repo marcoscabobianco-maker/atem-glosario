@@ -8,8 +8,6 @@ aliases:
  - "Maestre Falso"
 ---
 
-# El Flamenco / "El viejo" / Maestre Falso
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Flamenco_El_viejo_Maestre_Falso.png]]
 <!-- /HEADER_IMG -->

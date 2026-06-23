@@ -25,7 +25,6 @@ tags:
  - heteronimo
 imagen: null
 ---
-# Marcos el Mago
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Marcos_el_Mago.png]]

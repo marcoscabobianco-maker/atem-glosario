@@ -17,8 +17,6 @@ tags:
 imagen: Imagenes_Tier1/Castillo_Stejara.png
 ---
 
-# El Castillo de Stejara
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Castillo_Stejara.png]]
 <!-- /HEADER_IMG -->

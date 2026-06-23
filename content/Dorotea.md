@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Dorotea"
 ---
-# Dorotea
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dorotea.png]]

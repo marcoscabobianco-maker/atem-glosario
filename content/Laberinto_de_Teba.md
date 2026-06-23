@@ -9,8 +9,6 @@ aliases:
  - "EL LABERINTO DE TEBA tambien Laberinto de Teseo"
 ---
 
-# Laberinto de Teba
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Laberinto_de_Teba.png]]
 <!-- /HEADER_IMG -->

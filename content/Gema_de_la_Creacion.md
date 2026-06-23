@@ -30,7 +30,6 @@ tags:
 epoca: "Era Primordial — anterior al tiempo"
 aa: "O.1 objeto trans-campana ; O.3 pieza de la Vara del Infinito ; O.5 deposito en banco neutral [MC, A.D.A., TG]"
 ---
-# Gema de la Creación
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gema_de_la_Creacion.png]]

@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Alexine Mangetout"
 ---
-# Alexine Mangetout
 
 ## Presentación
 

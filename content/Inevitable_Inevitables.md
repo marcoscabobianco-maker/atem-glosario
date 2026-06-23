@@ -12,7 +12,6 @@ aliases:
  - "Inevitable"
  - "Inevitables"
 ---
-# Inevitable / Inevitables
 
 ## Presentación
 

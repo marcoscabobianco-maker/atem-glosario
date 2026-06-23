@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Gusano Dimensional"
 ---
-# Gusano Dimensional
 
 ## Presentación
 

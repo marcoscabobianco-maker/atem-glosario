@@ -25,8 +25,6 @@ tags:
 imagen: Imagenes_Tier1/Belgrado_Ucronica.png
 ---
 
-# Belgrado Ucrónica
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Belgrado_Ucronica.png]]
 <!-- /HEADER_IMG -->

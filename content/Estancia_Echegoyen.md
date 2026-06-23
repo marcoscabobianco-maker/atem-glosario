@@ -23,8 +23,6 @@ aliases:
 imagen: null
 ---
 
-# La estancia Echegoyen
-
 > *Tierra adentro, donde el tren ya no llega y el arroyo cae siete veces, el patrón abre las tranqueras y el descanso se vuelve trinchera.*
 
 ---

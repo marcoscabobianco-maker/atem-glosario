@@ -16,7 +16,6 @@ tags:
  - taller-de-arcoms
  - stub
 ---
-# Daimonidas
 
 > *El elfo negador, uno de los aprendices del taller del Maestro Bibliotecario.*
 

@@ -12,8 +12,6 @@ aliases:
 epoca: "Edad de los Reinos Olvidados — Arian, Amdriel, Adimanto, Ariadna"
 ---
 
-# Las 4 A
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Las_4_A.png]]
 <!-- /HEADER_IMG -->

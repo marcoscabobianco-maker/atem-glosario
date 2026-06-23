@@ -21,8 +21,6 @@ tags:
  - graba-conocimiento
 ---
 
-# Pluma de Thoth
-
 > *Pluma ritual sagrada de Thoth. Graba conocimiento en quien la blande. Bayrum la usó en el ritual de muerte de [[Numa_Pompidio]] (el regreso tras el Hiato retrospección).*
 
 ## Presentación

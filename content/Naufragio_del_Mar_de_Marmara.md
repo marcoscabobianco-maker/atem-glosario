@@ -20,7 +20,6 @@ tags:
  - rayo
 imagen: Imagenes_Tier1/Naufragio_del_Mar_de_Marmara.png
 ---
-# El Naufragio del Mar de Mármara
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Naufragio_del_Mar_de_Marmara.png]]

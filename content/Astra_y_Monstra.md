@@ -14,8 +14,6 @@ aliases:
  - "Apocalipsis Astra y Monstra"
 ---
 
-# Astra y Monstra
-
 > *Quizás sos un policía, un Agente Astral. Listo para acabar o remodelar alegorías.*
 
 ## Presentación

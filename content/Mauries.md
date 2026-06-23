@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Mauríes"
 ---
-# Mauríes
 
 ## Presentación
 

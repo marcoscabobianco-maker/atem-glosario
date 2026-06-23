@@ -19,7 +19,6 @@ tags:
  - monte-analogo
  - redencion
 ---
-# Luca de los Medici
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Luca_CI.png]]

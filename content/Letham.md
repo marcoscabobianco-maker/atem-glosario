@@ -5,8 +5,6 @@ aliases:
  - "Letham"
 ---
 
-# Letham
-
 ## Presentación
 
 **Fuentes:** Taller l.309

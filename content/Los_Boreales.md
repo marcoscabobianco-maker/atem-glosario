@@ -21,8 +21,6 @@ tags:
  - antiterra-trenes-dragones
 ---
 
-# Los Boreales
-
 > *El grupo precursor de [[Los_Profundos]]. [[Diamond_Lake]]. Diezmado por un dragón negro. De ellos sobrevivió el Fabuloso.*
 
 ## Presentación

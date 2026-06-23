@@ -11,8 +11,6 @@ aliases:
  - "Juan el Cazador"
 ---
 
-# Juan el Cazador
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Juan_el_Cazador.png]]
 <!-- /HEADER_IMG -->

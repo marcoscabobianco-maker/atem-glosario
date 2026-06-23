@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Galera_Bizantina.png
 ---
 
-# La Galera Bizantina
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Galera_Bizantina.png]]
 <!-- /HEADER_IMG -->

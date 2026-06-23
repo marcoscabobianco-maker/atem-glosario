@@ -22,8 +22,6 @@ tags:
  - bcn
 ---
 
-# Las Columnas
-
 > *"Hay varios ejes abstractos, a partir de ahora llamados columnas, que atraviesan todas las dimensiones."* — anotación del cronista, C1 ROL, hoja del 9 de junio de 1995.
 
 Las **Columnas** son los **ejes abstractos** que sostienen la arquitectura cosmológica del cosmos compartido. Cada columna **es la esencia de un concepto** —violencia, vanidad, codicia, sabiduría, fertilidad, lo que el ciclo necesite—; cada columna **sostiene una plataforma** y, a través de ella, su guardián de turno. *La columna es lo que no cambia. El guardián cambia. La plataforma se reactiva. La columna persiste.*

@@ -7,8 +7,6 @@ aliases:
  - "Campamento de Türcos"
 ---
 
-# Campamento de Türcos (del otro lado del Jordán)
-
 ## Presentación
 
 **Tipo:** [[Little_Death_Campamento|Campamento]] militar enemigo.

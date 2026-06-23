@@ -10,8 +10,6 @@ aliases:
  - "Maldición de Lázaro"
 ---
 
-# Maldición de Lázaro
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Maldicion_de_Lazaro.png]]
 <!-- /HEADER_IMG -->

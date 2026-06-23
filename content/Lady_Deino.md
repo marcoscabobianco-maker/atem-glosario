@@ -18,7 +18,6 @@ tags:
  - beastmen
  - halls-of-thoth
 ---
-# Lady Deino
 
 > *Una mujer madura, profundamente extraña, con la mirada de quien hizo pactos antiguos. Madre de los hombres-bestia. Cohorte cooptada. Lady Bella Penélope.*
 

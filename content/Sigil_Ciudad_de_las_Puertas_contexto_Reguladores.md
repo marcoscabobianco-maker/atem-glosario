@@ -18,8 +18,6 @@ aliases:
 wikipedia: https://en.wikipedia.org/wiki/Sigil_(Planescape)
 ---
 
-# Sigil / Ciudad de las Puertas (contexto Reguladores)
-
 ## Presentación
 
 París estaba en proceso de convertirse en **Sigil** (Ciudad de las [[Puertas]]): el nexo del universo completo, con puertas a todos los lugares, donde los dioses no pueden intervenir. La primera inversión de la mayoría de las facciones del torneo iba dirigida a la resurrección de Sigil. La **[[Dama_del_Dolor]]** (de Planescape) estaba en [[La_Dama_Notre_Dame|Notre Dame]] como la Dama petrificada.

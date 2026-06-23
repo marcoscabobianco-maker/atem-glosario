@@ -19,7 +19,6 @@ tags:
  - ragnarok
 imagen: Imagenes_Tier1/Lamentacion_de_los_que_no_tienen_fe.png
 ---
-# Lamentación de los que no tienen fe
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lamentacion_de_los_que_no_tienen_fe.png]]

@@ -10,8 +10,6 @@ aliases:
  - "Los Yalemari"
 ---
 
-# Los Yalemari
-
 ## Presentación
 
 ## el plano operativo

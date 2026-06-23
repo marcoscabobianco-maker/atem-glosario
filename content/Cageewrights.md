@@ -25,7 +25,6 @@ tags:
  - polo-negativo
 imagen: null
 ---
-# Los Cageewrights
 
 > *"Los rumores apuntan a un grupo siniestro que quizás (aunque no todavía) tiene en sus planes sacrificios. Se habla de un ritual que requiere ciertas 'marcas' y elegidos. El número 'Trece' parece relevante."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

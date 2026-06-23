@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Teo"
 ---
-# Teo
 
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->

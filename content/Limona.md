@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Limona"
 ---
-# Limona
 
 ## Presentación
 

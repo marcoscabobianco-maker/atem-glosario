@@ -11,7 +11,6 @@ aliases:
  - "madre de Swan"
  - "Elizabeth"
 ---
-# Elizabeth (madre de Swan)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Elizabeth_madre_de_Swan.png]]

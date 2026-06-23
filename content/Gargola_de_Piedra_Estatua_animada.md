@@ -7,8 +7,6 @@ aliases:
  - "Gárgola de Piedra"
 ---
 
-# Gárgola de Piedra (Estatua animada)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gargola_de_Piedra_Estatua_animada.png]]
 <!-- /HEADER_IMG -->

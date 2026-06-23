@@ -19,8 +19,6 @@ tags:
 imagen: null
 ---
 
-# Jenya Urikas
-
 > *"Allí, la sacerdotisa Jenya Urikas convocó a un grupo de aventureros, entre ellos Lukas, un paladín de la Ciudad de Estrella, y [[Fogimer|Foggimer]], un clérigo de aspecto rudo, junto con otros aliados de diversas procedencias. En una reunión solemne, la sacerdotisa les habló de una profecía que vinculaba la adivinación producida con su 'maza de seis puntas' con los eventos recientes. También se encuentran [[Scylla]] y [[Antonio]]."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

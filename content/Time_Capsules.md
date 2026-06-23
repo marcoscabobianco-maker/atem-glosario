@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Time Capsules"
 ---
-# Time Capsules
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Time_Capsules.png]]

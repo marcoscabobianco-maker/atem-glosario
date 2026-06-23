@@ -5,8 +5,6 @@ aliases:
  - "Smite Divine (Lirio + Ärsvan)"
 ---
 
-# Castigo Divino (Lirio + Ärsvan)
-
 ## Presentación
 
 - **Lirio (Bendición):** el grupo entero golpea más certero y resiste mejor, por un minuto de gracia

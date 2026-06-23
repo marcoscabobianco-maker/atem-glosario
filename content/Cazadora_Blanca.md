@@ -12,8 +12,6 @@ aliases:
  - "Cazadora Blanca"
 ---
 
-# Cazadora Blanca
-
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->
 <!-- /HEADER_IMG -->

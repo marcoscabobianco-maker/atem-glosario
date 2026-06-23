@@ -23,7 +23,6 @@ tags:
  - sir-circalculo
  - valerius
 ---
-# Caballeros de la Cicatriz del Sol
 
 > *Orden fundada por un vampiro rudishva en 1123 AEP. [[Anillos_Solares]] de cobre y plata escarlata. Ahora liderada por los compañeros tras eliminar la cadena vampírica.*
 

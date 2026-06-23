@@ -7,8 +7,6 @@ aliases:
  - "Hilo de Ariadna"
 ---
 
-# Hilo de Ariadna (Ovillo de Plata)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Hilo_de_Ariadna_Ovillo_de_Plata.png]]
 <!-- /HEADER_IMG -->

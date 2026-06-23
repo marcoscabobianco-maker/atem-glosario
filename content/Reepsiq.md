@@ -22,8 +22,6 @@ tags:
  - cuerno-verde-palido
 ---
 
-# Reepsiq, el Great Tongue
-
 > *Único diplomático posible para los heqeti. Alto sacerdote de Kauket. Espera el cuerno espiral verde pálido para invocar a su príncipe demonio.*
 
 ## Presentación

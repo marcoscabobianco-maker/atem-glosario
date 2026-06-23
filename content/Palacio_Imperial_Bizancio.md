@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Palacio_Imperial_Bizancio.jpg
 ---
 
-# Palacio Imperial de Bizancio
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Palacio_Imperial_Bizancio.jpg]]
 <!-- /HEADER_IMG -->

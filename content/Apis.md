@@ -25,7 +25,6 @@ tags:
  - paris-ucronica
 imagen: Imagenes_Tier1/Apis.png
 ---
-# Apis — Coronel vampiro de la Mano Negra
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Apis.png]]

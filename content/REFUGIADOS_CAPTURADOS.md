@@ -5,8 +5,6 @@ aliases:
  - "REFUGIADOS CAPTURADOS"
 ---
 
-# REFUGIADOS CAPTURADOS
-
 ## Presentación
 
 - Gémen y sollozos

@@ -8,8 +8,6 @@ aliases:
  - "Corporalidad Infernal"
 ---
 
-# Corporalidad Infernal
-
 ## Presentación
 
 **Referencia:** CC1

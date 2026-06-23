@@ -20,7 +20,6 @@ tags:
  - sigil-resarcida
  - ciencia-moderna-y-anarquismo
 ---
-# Kropotkin
 
 > *El anarquista ruso de la maza. La maza de los maillotins de la revuelta de París, escondida en su saco. Aliado de los Reguladores. Después, comisario político en la Sigil resarcida.*
 

@@ -19,8 +19,6 @@ tags:
  - fuente-informacion
 ---
 
-# Library of Thoth
-
 > *Una de las bibliotecas más antiguas del mega-dungeon. Cuevas Aullantes dentro de las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes]]. Fuente de información histórica masiva sobre toda la cosmología MC. Custodiada por Gerrilad el Grey e Isocritis Half-Hand.*
 
 ## Presentación

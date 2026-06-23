@@ -15,8 +15,6 @@ tags:
  - ardis-vala
 ---
 
-# Sub-niveles de Arden Vul (compendio)
-
 > *15 sub-niveles que conectan, complementan y completan el mega-dungeon. Algunos son críticos (Drowned Canyon, Lost Chambers of Arden conectores); otros son zonas de tesoro / facción específica.*
 
 ## Presentación

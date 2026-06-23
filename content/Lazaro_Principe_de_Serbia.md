@@ -11,8 +11,6 @@ aliases:
  - "Lázaro"
 ---
 
-# Lázaro (Príncipe de Serbia)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lazaro_Principe_de_Serbia.png]]
 <!-- /HEADER_IMG -->

@@ -27,7 +27,6 @@ tags:
  - cristalizacion
 imagen: null
 ---
-# Casa Azul de Vala
 
 > *"Hay casas que se quedan en su feudo. Hay casas que el feudo no las contiene. La Casa Azul es de las segundas: cada vez que el cosmos abrió pliegue nuevo, alguien de la Casa apareció con el galón heráldico bordado y se sentó a esperar."* — del *Tratado de las Estirpes Trans-Geográficas*, anotación marginal del archivero de [[Narsileon]].
 

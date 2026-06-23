@@ -17,7 +17,6 @@ tags:
  - constelacion
  - aventureros-nocturnos
 ---
-# Antino
 
 > *Dios de la magia, las estrellas y el cielo. Sobreviviente de [[Vala_Antigua]]. También llamado Antinoo.*
 

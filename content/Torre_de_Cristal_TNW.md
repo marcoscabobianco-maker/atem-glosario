@@ -11,8 +11,6 @@ aliases:
  - "Torre de Cristal"
 ---
 
-# Torre de Cristal (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torre_de_Cristal_TNW.png]]
 <!-- /HEADER_IMG -->

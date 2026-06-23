@@ -12,8 +12,6 @@ aliases:
  - "Jack Daniels"
 ---
 
-# Jack Daniels
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Jack_Daniels.png]]
 <!-- /HEADER_IMG -->

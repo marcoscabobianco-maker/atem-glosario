@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Gavrilo_Princip.png
 ---
 
-# Gavrilo Princip
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gavrilo_Princip.png]]
 <!-- /HEADER_IMG -->

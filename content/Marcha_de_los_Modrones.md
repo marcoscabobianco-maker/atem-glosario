@@ -16,8 +16,6 @@ aliases:
  - "Marcha_de_los_Modrons"
 ---
 
-# Marcha de los Modrones
-
 > Gran Marcha cíclica de los modrones de [[Mechanus]] a través de los planos exteriores cada 289 años. [[Evento]] Planescape canónico que aparece en el cosmos compartido como ciclo cosmológico.
 
 ## Origen en D&D / Planescape

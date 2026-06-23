@@ -10,8 +10,6 @@ aliases:
  - "Leprechaun"
 ---
 
-# El Leprechaun
-
 ## Presentación
 
 El nombre invoca al duende esquivo de las leyendas irlandesas, guardián de oros que nadie atrapa dos veces; el lugar, en cambio, no guarda tesoros sino golpes. El Leprechaun figura en las crónicas de la [[Paris_Ucronica|París Ucrónica]] como plaza de boxeo clandestino, y a ese oficio debe la poca fama que el archivo le concede.

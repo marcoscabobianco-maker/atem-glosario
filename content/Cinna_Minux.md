@@ -19,8 +19,6 @@ tags:
  - posible-pariente-malakita
 ---
 
-# Cinna Minux
-
 > *Vampiro antiguo. Dominio oculto en las capillas de la Corte del Thegn. Charm enhanced. Court de seguidores charmados. Evita a los Sun-Scarred. Posible pariente de Malakita o predecesor.*
 
 ## Presentación

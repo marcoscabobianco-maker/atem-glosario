@@ -14,8 +14,6 @@ aliases:
  - "Torre de Heva"
 ---
 
-# Torre de Heva
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torre_de_Heva.png]]
 <!-- /HEADER_IMG -->

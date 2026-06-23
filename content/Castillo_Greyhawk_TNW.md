@@ -12,8 +12,6 @@ aliases:
  - "Castillo Greyhawk"
 ---
 
-# Castillo Greyhawk (TNW)
-
 ## Presentación
 
 **Ref.:** 9 –4 ("castillo Greyhawk, Greyskull, los magos de la orden").

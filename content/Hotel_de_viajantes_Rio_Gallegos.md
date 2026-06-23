@@ -16,8 +16,6 @@ aliases:
  - "Hospedaje de Río Gallegos"
 ---
 
-# Hotel de viajantes, Río Gallegos
-
 > *El horror se vuelve burocrático —lobbies, cartas, oficinas— sin dejar de ser horror.*
 
 ---

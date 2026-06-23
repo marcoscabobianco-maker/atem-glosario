@@ -7,8 +7,6 @@ aliases:
  - "\"Guardianes del Tiempo\""
 ---
 
-# "[[Guardianes]] del Tiempo" (Grupo rol asignado)
-
 ## Presentación
 
 - **Asignación:** [[Michel|Michel]] propone, Caballeros aceptan

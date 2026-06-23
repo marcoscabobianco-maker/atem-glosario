@@ -5,8 +5,6 @@ aliases:
  - "Desdoblamiento de Hugo de Payns"
 ---
 
-# Desdoblamiento de Hugo de Payns
-
 ## Presentación
 
 **Tipo:** Plot device / Antagonista revelación

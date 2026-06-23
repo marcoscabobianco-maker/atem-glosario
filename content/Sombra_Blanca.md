@@ -7,8 +7,6 @@ aliases:
  - "**Sombra Blanca**"
 ---
 
-# **Sombra Blanca**
-
 ## Presentación
 
 **Categoría**: Numen / Aliada divina

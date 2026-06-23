@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Esperanza recurso mecanica
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Esperanza_recurso_mecanica.png]]
 <!-- /HEADER_IMG -->

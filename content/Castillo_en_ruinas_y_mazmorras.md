@@ -24,8 +24,6 @@ aliases:
 imagen: null
 ---
 
-# El castillo en ruinas y las mazmorras
-
 > *Una ruina que no termina en la superficie. Lo que parece un castillo derrumbado junto al faro es la boca de algo que baja, y baja, hasta donde se guardan los huesos que nadie debía morder.*
 
 ---

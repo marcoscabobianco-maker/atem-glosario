@@ -23,7 +23,6 @@ tags:
  - sleepy-hollow
 imagen: Imagenes_Tier1/General_Hessiano.png
 ---
-# El General Hessiano
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/General_Hessiano.png]]

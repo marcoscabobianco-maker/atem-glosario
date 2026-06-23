@@ -5,8 +5,6 @@ aliases:
  - "Nycols O'Cush"
 ---
 
-# Nycols O'Cush
-
 ## Presentación
 
 **Fuentes:** Taller l.1047, 1054-1056

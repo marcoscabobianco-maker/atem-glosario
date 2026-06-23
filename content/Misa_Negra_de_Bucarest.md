@@ -12,8 +12,6 @@ aliases:
  - "Misa Negra de Bucarest"
 ---
 
-# Misa Negra de Bucarest
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Misa_Negra_de_Bucarest.png]]
 <!-- /HEADER_IMG -->

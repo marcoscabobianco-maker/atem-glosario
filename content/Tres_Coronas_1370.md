@@ -6,8 +6,6 @@ en_construccion: true
 epoca: "1370 DR — Edad de los Reinos Olvidados"
 ---
 
-# Tres Coronas 1370
-
 > *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
 
 ## Referencias entrantes

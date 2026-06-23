@@ -5,8 +5,6 @@ aliases:
  - "Quirón"
 ---
 
-# Quirón
-
 ## Presentación
 
 **Fuentes:** Taller l.1468+

@@ -16,8 +16,6 @@ aliases:
  - "El hijo de la viuda Brockford"
 ---
 
-# El hijo híbrido
-
 ## Presentación
 
 Hijo de [[Betsy_Clark|Betsy Clark]] —la mujer que el cuaderno 99 registra también como la viuda Brockford—, es un joven atrapado en el umbral entre dos linajes. Por su madre es humano; por su padre ausente carga la sangre de los Profundos, esa estirpe anfibia que en las Malvinas de 1966 rinde culto a Tulu bajo la Orden de Dagón. La herencia paterna está ganando: el muchacho se halla en plena metamorfosis, "se va a convertir en algo todavía más pescado y se va a meter en el mar".

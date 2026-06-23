@@ -12,7 +12,6 @@ tags:
 aliases:
  - "Mansión de Natalia Petrovna"
 ---
-# Mansión de Natalia Petrovna
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mansion_de_Natalia_Petrovna.png]]

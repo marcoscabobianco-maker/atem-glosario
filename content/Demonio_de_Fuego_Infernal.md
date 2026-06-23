@@ -5,8 +5,6 @@ aliases:
  - "Demonio de Fuego Infernal"
 ---
 
-# Demonio de Fuego Infernal
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Demonio_de_Fuego_Infernal.png]]
 <!-- /HEADER_IMG -->

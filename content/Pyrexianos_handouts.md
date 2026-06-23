@@ -20,8 +20,6 @@ tags:
  - cdi
 ---
 
-# Pyrexianos (handouts)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pyrexianos_handouts.png]]
 <!-- /HEADER_IMG -->

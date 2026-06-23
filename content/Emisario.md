@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Emisario"
 ---
-# Emisario
 
 ## Presentación
 

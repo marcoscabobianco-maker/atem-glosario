@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Cueva de los Lobos"
 ---
-# Cueva de los Lobos
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cueva_de_los_Lobos.png]]

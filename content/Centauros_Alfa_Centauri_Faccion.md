@@ -12,7 +12,6 @@ aliases:
  - "Facción"
  - "Centauros / Alfa Centauri"
 ---
-# Centauros / Alfa Centauri (Facción)
 
 ## Presentación
 

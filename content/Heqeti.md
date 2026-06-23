@@ -19,8 +19,6 @@ tags:
  - construccion-mas-antigua
 ---
 
-# Heqeti
-
 > *Alienígenas de 3.400 años. Controlan el [[Ziggurat_de_Kauket]]. Su construcción es la capa más antigua del mega-dungeon. [[Reepsiq]] el Great Tongue es su único diplomático.*
 
 ## Presentación

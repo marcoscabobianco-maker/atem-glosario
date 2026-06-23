@@ -6,8 +6,6 @@ aliases:
  - GRUPO_DE_EXPLORADORES_TE01_TE02
 ---
 
-# GRUPO DE EXPLORADORES
-
 ## Presentación
 
 **Tabla de participantes:**

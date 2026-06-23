@@ -16,7 +16,6 @@ tags:
  - traidor
  - balacan
 ---
-# Carad de Teyber
 
 > *"Carad el maldito. Señor de panteras. Una buena verga, boludo."*
 

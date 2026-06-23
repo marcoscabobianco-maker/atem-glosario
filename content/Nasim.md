@@ -11,8 +11,6 @@ aliases:
  - "Nasim"
 ---
 
-# Nasim
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Nasim.png]]
 <!-- /HEADER_IMG -->

@@ -4,8 +4,6 @@ aliases:
  - "Josefo"
 ---
 
-# Josefo
-
 ## Presentación
 
 **Rol:** Pequeño judío, artesano-ladrón, colega de inteligencia.

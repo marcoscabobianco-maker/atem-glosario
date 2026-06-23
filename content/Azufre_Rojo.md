@@ -10,8 +10,6 @@ aliases:
  - "Azufre Rojo"
 ---
 
-# Azufre Rojo
-
 ## Presentación
 
 Alquimista con máscara de marfil, achicharrado. Quiere ir a Sirio como demonio de fuego. Presente en el [[Oasis_de_Siwa|Oasis de Siwa]]. Su corazón de fuego está destinado a ser extraído para propósitos rituales.

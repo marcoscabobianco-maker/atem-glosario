@@ -22,7 +22,6 @@ tags:
  - reloj-torre-eiffel
 imagen: null
 ---
-# Keygan Ghelve
 
 > *"Un gnomo peculiar que caminaba sobre zancos y se ganaba la vida como cerrajero."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

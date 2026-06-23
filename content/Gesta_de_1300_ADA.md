@@ -19,7 +19,6 @@ aliases:
  - "Gesta de Luca, Lucio, Fernandín, Niki, Varys y Alberich"
  - "Florenzen 1300"
 ---
-# Gesta de 1300 A.D.A.
 
 > *"Dante abrió la puerta, vio todo y volvió a escribirlo; pero al escribirlo la dejó entornada. Los Florentinos nacieron para cerrar lo que un poema había abierto."*
 

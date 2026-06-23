@@ -23,8 +23,6 @@ tags:
 imagen: null
 ---
 
-# Kazmojen
-
 > *"El señor de esta fortaleza y maestro del bazar de carne y vida."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

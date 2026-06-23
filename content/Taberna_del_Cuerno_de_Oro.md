@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Taberna del Cuerno de Oro"
 ---
-# Taberna del Cuerno de Oro
 
 ## Presentación
 

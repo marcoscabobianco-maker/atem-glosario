@@ -18,8 +18,6 @@ aliases:
 imagen: null
 ---
 
-# El periodista
-
 > *La pregunta del oficio.*
 
 ---

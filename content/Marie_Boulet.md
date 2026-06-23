@@ -5,8 +5,6 @@ tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Marie Boulet"]
 ---
 
-# Marie Boulet
-
 Mujer de origen humilde, Marie Boulet creció y vivió toda su vida en París. A la edad convenida contrajo matrimonio con un soldado; la vocación de su marido la dejó pronto viuda, pero el corto enlace le dio lo que más atesoró: un hijo único, Pierre. Sola en la ciudad, trabajó sin descanso para alimentar y albergar al muchacho, y se ocupó además de que Pierre conociera la figura de su padre a través de los relatos que ella tejía sobre su valentía en campaña.
 
 Cuando Pierre fue llamado a las guerras del continente —en los últimos años del conflicto que sacudió el Imperio— Marie lo acompañó. La Batalla de Breitenfeld se llevó al joven; el golpe dejó a Marie deshecha. En el desamparo de un campamento enemigo saqueado encontró a una niña abandonada que lloraba en silencio. Tomándola como si fuera sangre propia, la adoptó y la llamó Madeline. Fue la respuesta a una plegaria que Marie nunca esperó ver concedida.

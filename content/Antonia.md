@@ -12,8 +12,6 @@ aliases:
  - "Antonia"
 ---
 
-# Antonia
-
 ## Presentación
 
 Bárbara arquera, 22 años. Voluptuosa, vestida con pieles, brazos tostados. Descrita como tipo [[Barbarella_TG|Barbarella]]. Proviene de montañas lejanas. Su objetivo externo es el tiro con arco; sin descripción psicológica desarrollada en la ficha.

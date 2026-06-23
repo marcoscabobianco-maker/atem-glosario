@@ -8,8 +8,6 @@ aliases:
  - "Rosa Dubovsky de Nuage"
 ---
 
-# Rosa Dubovsky de Nuage
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Rosa_Dubovsky_de_Nuage.png]]
 <!-- /HEADER_IMG -->

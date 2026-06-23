@@ -17,7 +17,6 @@ tags:
  - cdi
 imagen: Imagenes_Tier1/Panfagonia.png
 ---
-# Panfagonia
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Panfagonia.png]]

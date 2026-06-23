@@ -21,7 +21,6 @@ tags:
  - retoño-stejara
  - cross-campaña
 ---
-# Árbol de Armas Principal
 
 > *Árbol crecido en la forja arcanum a partir de la semilla en que se transformó la IA [[RAJ-750]]. el archivo de [[Ardis_Vala]]. Los Priscianos lograron acceso. Retoño emergió como rizoma bajo [[Stejara]] → [[Arbol_Gulthias|Árbol Gulthias]] de.*
 

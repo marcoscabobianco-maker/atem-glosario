@@ -21,7 +21,6 @@ tags:
  - voz-narrativa-mayor
 imagen: null
 ---
-# Mascor Blancarba
 
 > *"Mi nombre es Mascor Blancarba, y hace más de un año dejé mi hogar en la [[Ciudad_Estrella]], un lugar que tras doce ciclos ha logrado sacudirse el yugo de la teocracia y sorprender al mundo con sus avances en la llamada 'revolución mágico-industrial.'"* — *[[Crónica_de_un_Visitante_Curioso]]*.
 

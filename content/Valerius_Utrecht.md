@@ -19,7 +19,6 @@ tags:
  - redencion
  - puertas-oceanicas
 ---
-# Valerius Utrecht (y Roderick)
 
 > *Dos compañeros de figura del archivo en [[Ardis_Vala|Arden Vul]]. Roderick murió cerca de las [[Puertas]] Oceánicas. Valerius llegó después, paladín inquisidor desertor de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]].*
 

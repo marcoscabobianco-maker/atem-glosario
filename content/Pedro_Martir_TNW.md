@@ -10,8 +10,6 @@ aliases:
  - "Pedro Mártir"
 ---
 
-# Pedro Mártir (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pedro_Martir_TNW.png]]
 <!-- /HEADER_IMG -->

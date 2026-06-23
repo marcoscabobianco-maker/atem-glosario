@@ -22,8 +22,6 @@ imagen: Imagenes_Tier1/Antiterra.png
 epoca: "1888-1901 A.D.A. — Edad del Apocalipsis — destrucción"
 ---
 
-# Antiterra — documento setting 2011
-
 > *Este documento es el **setting PDF fundacional del 2011** —firmado por "Un master apurado"—. Para la entrada principal en voz Paulus-Nabokov del mundo Antiterra/Demonia, ver* **[[Antiterra_Demonia]]**.
 
 <!-- HEADER_IMG -->

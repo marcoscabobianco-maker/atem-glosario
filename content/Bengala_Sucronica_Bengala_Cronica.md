@@ -20,7 +20,6 @@ tags:
  - templario
 imagen: Imagenes_Tier1/Bengala_Sucronica_Bengala_Cronica.png
 ---
-# Bengala Sucrónica / Bengala Sucrónica
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bengala_Sucronica_Bengala_Cronica.png]]

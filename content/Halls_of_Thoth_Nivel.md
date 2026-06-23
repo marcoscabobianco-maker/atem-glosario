@@ -20,8 +20,6 @@ tags:
  - mas-accesible
 ---
 
-# Halls of Thoth
-
 > *El piso más grande y accesible de [[Ardis_Vala|Arden Vul]]. Centro de actividad multi-faccional bajo la Gran Pirámide.*
 
 ## Presentación

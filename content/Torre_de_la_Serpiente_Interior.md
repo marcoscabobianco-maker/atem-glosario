@@ -10,7 +10,6 @@ aliases:
  - "Interior"
  - "Torre de la Serpiente"
 ---
-# Torre de la Serpiente (Interior)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torre_de_la_Serpiente_Interior.png]]

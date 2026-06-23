@@ -15,8 +15,6 @@ aliases:
  - "Barco Espía"
 ---
 
-# Yate Espía / Embarcación Táctico
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Yate_Espia_Embarcacion_Tactico.png]]
 <!-- /HEADER_IMG -->

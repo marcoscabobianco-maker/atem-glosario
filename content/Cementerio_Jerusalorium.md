@@ -17,8 +17,6 @@ tags:
 imagen: Imagenes_Tier1/Cementerio_Jerusalorium.png
 ---
 
-# El Cementerio de Jerusalorium
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cementerio_Jerusalorium.png]]
 <!-- /HEADER_IMG -->

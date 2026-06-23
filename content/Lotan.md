@@ -23,7 +23,6 @@ tags:
  - reina-oscura
 imagen: Imagenes_Tier1/Lotan_Tiamat_Ugaritic.png
 ---
-# Lotan — Litanu / Tiamat ugarítica
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lotan_Tiamat_Ugaritic.png]]

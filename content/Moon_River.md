@@ -11,8 +11,6 @@ aliases:
  - "Moon River"
 ---
 
-# Moon River
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Moon_River.png]]
 <!-- /HEADER_IMG -->

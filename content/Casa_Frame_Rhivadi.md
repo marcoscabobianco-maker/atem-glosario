@@ -22,7 +22,6 @@ tags:
  - alianza-valanthru
 imagen: null
 ---
-# Casa Frame Rhivadi
 
 > *"Toda casa noble tiene cara y traspatio. La Frame Rhivadi convirtió su traspatio en segunda cara, y desde entonces, mirar a la familia es siempre ver dos rostros donde el resto ve uno."* — del cuaderno del [[Arkos|archivero del Plata]], cuaderno cuarto.
 

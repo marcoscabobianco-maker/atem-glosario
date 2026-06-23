@@ -18,7 +18,6 @@ tags:
  - dualidad
  - apocalipsis
 ---
-# Corazón de Pablo / Yunque del Tiempo
 
 > *Plano astral donde reside la consciencia de [[Kronamon]]. Montaña donde las edades se apilan unas sobre otras. Lugar de origen de Minaya, prisión de Elías el Hijo.*
 

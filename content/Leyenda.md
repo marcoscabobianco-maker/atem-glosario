@@ -12,8 +12,6 @@ aliases:
  - "Leyenda JDR"
 ---
 
-# Leyenda
-
 ## Presentación
 
 Juego de rol de mesa creado por Omar Pocopis, con diseño de reglas y escritura compartidos con Martín Van Houtte. Producción mayor de la época de pandemia (c. 2020–2022), publicado por Arte [[Dual_Saenz_Premiado|Dual]]. Manual completo de ~56.500 palabras.

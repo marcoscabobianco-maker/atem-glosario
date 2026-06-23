@@ -12,8 +12,6 @@ aliases:
  - "Malakya-Axum"
 ---
 
-# Malakya-Axum
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Malakya-Axum.png]]
 <!-- /HEADER_IMG -->

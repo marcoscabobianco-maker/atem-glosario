@@ -19,7 +19,6 @@ tags:
  - nestoriano
 imagen: Imagenes_Tier1/Grillo_Aleph.png
 ---
-# Grillo Aleph
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Grillo_Aleph.png]]

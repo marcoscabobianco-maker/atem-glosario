@@ -6,8 +6,6 @@ referenciado_por: 3
 epoca: "1119-1120 AD — Edad Templaria — preliminares"
 ---
 
-# Antes del Falso Maestre
-
 ## Referencias entrantes
 
 Esta entrada es mencionada desde:

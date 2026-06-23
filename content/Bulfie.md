@@ -12,8 +12,6 @@ aliases:
  - "Bulfie"
 ---
 
-# Bulfie
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bulfie.png]]
 <!-- /HEADER_IMG -->

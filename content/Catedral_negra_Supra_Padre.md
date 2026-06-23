@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Catedral negra Supra Padre
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Catedral_negra_Supra_Padre.png]]
 <!-- /HEADER_IMG -->

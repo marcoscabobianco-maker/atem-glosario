@@ -5,8 +5,6 @@ aliases:
  - "Desdoblamiento Hugo ↔ Ärsvan futuro"
 ---
 
-# Desdoblamiento Hugo ↔ Ärsvan futuro
-
 ## Presentación
 
 Si [[Marques_de_Sade_Hugo|Hugo]] está desdoblado, ¿es [[Arsvan|Ärsvan]] destinado al mismo patrón? Presagia posible condena de [[Arsvan|Ärsvan]] (conecta con el Descenso donde [[Arsvan|Ärsvan]] es "templario condenado").

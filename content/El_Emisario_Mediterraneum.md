@@ -9,7 +9,6 @@ aliases:
  - "Mediterraneum"
  - "El Emisario"
 ---
-# El Emisario (Mediterraneum)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Emisario_Mediterraneum.png]]

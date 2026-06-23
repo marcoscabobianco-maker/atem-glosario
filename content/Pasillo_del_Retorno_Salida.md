@@ -7,8 +7,6 @@ aliases:
  - "Salida"
 ---
 
-# Pasillo del Retorno / Salida
-
 ## Presentación
 
 **Ubicación:** Rumbo a salida del Laberinto post-[[Puerta_de_Marfil_Camara_Final_del_Laberinto|Puerta de Marfil]]

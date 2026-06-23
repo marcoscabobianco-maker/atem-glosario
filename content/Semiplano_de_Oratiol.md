@@ -12,8 +12,6 @@ aliases:
  - "Semiplano de Oratiol"
 ---
 
-# Semiplano de Oratiol
-
 ## Presentación
 
 [[Oratiol]] construyó un semiplano propio — un refugio con hectáreas de bosque y una especie de catedral-refugio. [[Magda]] y [[Steve_Reyes]] fueron alojados allí mientras el grupo operaba en las plataformas. [[Magda]] custodiaba la Hostia desde el semiplano. Capacidad de scrying (observación remota) desde el semiplano hacia el plano material.

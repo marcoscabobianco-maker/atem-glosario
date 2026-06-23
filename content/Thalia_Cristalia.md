@@ -25,7 +25,6 @@ tags:
  - blake-vala-or-four-zoas
 imagen: null
 ---
-# Thalia Cristalia
 
 > *Madre de [[Vitalis]]. Pareja de Taylor ([[Tailoor]], anagrama de [[Lotario]] y [[Oratiol]]). Identidad oculta: [[Swedenborg]] en el Anti-Inferno. Linaje mayor de la [[Casa_Azul_de_Vala]].*
 

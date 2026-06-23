@@ -11,8 +11,6 @@ aliases:
  - "Brazo de Bane"
 ---
 
-# Brazo de Bane
-
 ## Presentación
 
 Grupo aventurero vinculado al dios Bane, operando en el setting de Reinos Olvidados. El personaje central es **[[Sudilis]]** — sacerdote de Bane, "el tirano" — con **[[Khamul]]** como su henchman asesino (tipo ninja).

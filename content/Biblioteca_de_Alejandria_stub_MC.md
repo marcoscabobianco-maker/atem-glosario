@@ -9,8 +9,6 @@ tags:
  - stub
 ---
 
-# Biblioteca de Alejandria stub MC
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Biblioteca_de_Alejandria_stub_MC.png]]
 <!-- /HEADER_IMG -->

@@ -8,8 +8,6 @@ aliases:
  - "Napoleón Narmer"
 ---
 
-# Napoleón Narmer
-
 ## Presentación
 
 Guardián.

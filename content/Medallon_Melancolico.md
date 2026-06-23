@@ -12,8 +12,6 @@ aliases:
  - "Medallón Melancólico"
 ---
 
-# Medallón Melancólico
-
 ## Presentación
 
 Medallón pesado dado por Drake al [[Dragon_Verde|Dragón Verde]]. Marca "D y D," grabado de los [[Jinetes_del_Apocalipsis]] de Durero. Funciona como llave para acceder a la selva umbría dantesca. Capacidad de conjuración fuerte — conecta con regiones del [[Infierno]]. Actualmente en poder de [[Lope_de_Vega|Lope de Vega]].

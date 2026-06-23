@@ -16,8 +16,6 @@ aliases:
  - "Puerto Stanley"
 ---
 
-# Puerto Rivero
-
 El nombre con que los cóndores rebautizan el asentamiento de las islas, en honor al gaucho **[[Antonio]] Rivero** y su resistencia de 1833. Donde el inglés escribe Stanley, los recién llegados del [[Operativo_Condor|vuelo desviado a las Malvinas]] escriben Rivero: el gesto de rebautizar es ya una manera de reclamar el suelo, de decir en voz alta que el pueblo ordenado y frío que los recibe está levantado sobre una historia argentina expulsada.
 
 ## El estrato intermedio

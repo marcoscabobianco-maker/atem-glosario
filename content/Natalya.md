@@ -19,8 +19,6 @@ aliases:
 imagen: null
 ---
 
-# Natalya
-
 > *A un hombre no se lo separa de su Natalya.*
 
 ---

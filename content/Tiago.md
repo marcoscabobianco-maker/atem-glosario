@@ -7,8 +7,6 @@ aliases:
  - "Tiago"
 ---
 
-# Tiago
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tiago.png]]
 <!-- /HEADER_IMG -->

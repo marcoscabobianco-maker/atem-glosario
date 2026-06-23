@@ -22,7 +22,6 @@ tags:
  - fidelidad-baronial
 imagen: null
 ---
-# Sir Theobald
 
 > *"El capitán que no habla es el capitán que sabe. El que habla mucho aún no ha visto lo bastante. Theobald había visto lo bastante."* — refrán común entre los soldados de la marca occidental, conservado en pliego rural.
 

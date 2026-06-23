@@ -22,8 +22,6 @@ aliases:
  - "La cofradía sin rostro"
 ---
 
-# Majestic
-
 > *Hay un saber que no se persigue ni se castiga: se administra. Y para administrarlo hace falta una mano sin nombre.*
 
 ---

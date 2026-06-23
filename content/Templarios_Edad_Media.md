@@ -5,8 +5,6 @@ aliases:
 en_construccion: true
 ---
 
-# Templarios Edad Media
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Templarios_Edad_Media.jpg]]
 <!-- /HEADER_IMG -->

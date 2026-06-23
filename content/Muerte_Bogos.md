@@ -5,8 +5,6 @@ aliases:
  - "MUERTE / BOGOS (\"Señor de Huesos\")"
 ---
 
-# MUERTE / BOGOS ("Señor de Huesos")
-
 ## Presentación
 
 **Aparición:** En la entrada a [[Paris_Ucronica|París Ucrónica]] (primeros instantes)

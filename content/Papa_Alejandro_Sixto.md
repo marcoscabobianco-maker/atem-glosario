@@ -31,7 +31,6 @@ tags:
  - custodes
 imagen: null
 ---
-# Papa Alejandro VI
 
 > *"El trono de rubí no se levanta cuando recibe. La autoridad eclesial, en este dominio, no necesita pararse para mandar."*
 

@@ -11,8 +11,6 @@ aliases:
  - "Montañas de Humo"
 ---
 
-# Montañas de Humo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Montanas_de_Humo.png]]
 <!-- /HEADER_IMG -->

@@ -12,8 +12,6 @@ aliases:
  - Union
 ---
 
-# Union
-
 ## Presentación
 
 Ciudad de los **[[Mercane_Welcome_Back_Henri|Mercane]]** (gigantes azules). Centro del capitalismo planar: banco multiversal, comercio de magia, pergaminos de alto poder, golems de cañones. Los [[Mercane_Welcome_Back_Henri|Mercane]] son la punta del iceberg de un sistema de comercio cósmico.

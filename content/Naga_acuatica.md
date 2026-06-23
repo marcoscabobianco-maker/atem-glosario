@@ -4,7 +4,6 @@ aliases:
  - "Naga acuática"
 referenciado_por: 3
 ---
-# Naga acuática
 
 ## Referencias entrantes
 

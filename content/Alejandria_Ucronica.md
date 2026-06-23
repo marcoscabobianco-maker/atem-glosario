@@ -10,7 +10,6 @@ aliases:
  - "Alejandría"
 wikipedia: https://es.wikipedia.org/wiki/Alejandr%C3%ADa
 ---
-# Alejandría (Ucrónica)
 
 ## Presentación
 

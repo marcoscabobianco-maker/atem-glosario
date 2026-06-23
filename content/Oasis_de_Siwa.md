@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Oasis de Siwa"
 ---
-# Oasis de Siwa
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Oasis_de_Siwa.png]]

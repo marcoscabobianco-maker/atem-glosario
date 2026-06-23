@@ -5,8 +5,6 @@ aliases:
  - "Anillo de Delay Doom"
 ---
 
-# Anillo de Delay Doom
-
 ## Presentación
 
 **Rareza:** Moderada

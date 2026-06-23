@@ -5,8 +5,6 @@ aliases:
  - "Elizabeth de Beauvois"
 ---
 
-# Elizabeth de Beauvois
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Elizabeth_de_Beauvois.png]]
 <!-- /HEADER_IMG -->

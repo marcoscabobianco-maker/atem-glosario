@@ -7,8 +7,6 @@ aliases:
  - "**Deck de Cartas**"
 ---
 
-# **Deck de Cartas**
-
 ## Presentación
 
 **Categoría**: Tesoro / Objeto de poder aleatorio

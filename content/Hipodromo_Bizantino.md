@@ -4,8 +4,6 @@ aliases:
  - "Hipodromo Bizantino"
 ---
 
-# Hipodromo Bizantino
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Hipodromo_Bizantino.png]]
 <!-- /HEADER_IMG -->

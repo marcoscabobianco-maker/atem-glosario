@@ -11,8 +11,6 @@ aliases:
  - "Lubina"
 ---
 
-# Lubina
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lubina.png]]
 <!-- /HEADER_IMG -->

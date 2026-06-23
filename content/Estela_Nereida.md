@@ -24,8 +24,6 @@ tags:
 imagen: Imagenes_Tier1/Estela_Nereida.png
 ---
 
-# Estela — Nereida del calendario
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Estela_Nereida.png]]
 <!-- /HEADER_IMG -->

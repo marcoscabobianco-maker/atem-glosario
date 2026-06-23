@@ -6,8 +6,6 @@ aliases:
  - Conexion_S06_S07_S08
 ---
 
-# Conexión Belgrado → Isla Serpiente → Sarajevo
-
 ## Presentación
 
 - **Belgrado:** [[Belgrado_Ucronica|Belgrado]], asesinato [[Draga_Machine|Draga Machine]], destrucción [[Apis]], encarcelamiento grupo.

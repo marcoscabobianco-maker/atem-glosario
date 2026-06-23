@@ -15,7 +15,6 @@ aliases:
  - "Kax Athros"
  - "Kax_Athros"
 ---
-# Kaxathros
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kaxathros.png]]

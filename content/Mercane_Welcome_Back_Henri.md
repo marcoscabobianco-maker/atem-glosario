@@ -14,8 +14,6 @@ aliases:
  - "Mercane"
 ---
 
-# Mercane (Welcome Back Henri)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mercane_Welcome_Back_Henri.png]]
 <!-- /HEADER_IMG -->

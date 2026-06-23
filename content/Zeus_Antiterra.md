@@ -20,7 +20,6 @@ tags:
  - rayo
 imagen: Imagenes_Tier1/Zeus_Antiterra.png
 ---
-# Zeus (Antiterra)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Zeus_Antiterra.png]]

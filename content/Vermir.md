@@ -10,8 +10,6 @@ aliases:
  - "Vermir"
 ---
 
-# Vermir
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Vermir.png]]
 <!-- /HEADER_IMG -->

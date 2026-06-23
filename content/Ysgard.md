@@ -12,8 +12,6 @@ aliases:
  - "Gladsheim"
 ---
 
-# Ysgard
-
 > Plano exterior chaotic-neutral-good de la mitología nórdica adaptada por D&D. Hogar de Aesir, Vanir, einherjar. en el ciclo aparece en el contexto de Minaya.
 
 ## Origen en D&D

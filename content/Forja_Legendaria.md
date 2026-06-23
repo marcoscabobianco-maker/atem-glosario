@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Forja Legendaria"
 ---
-# Forja Legendaria
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Forja_Legendaria.png]]

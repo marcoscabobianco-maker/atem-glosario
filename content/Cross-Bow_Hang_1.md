@@ -5,8 +5,6 @@ aliases:
  - "Cross-Bow Hang"
 ---
 
-# Cross-Bow Hang
-
 ## Presentación
 
 **Rareza:** Menor

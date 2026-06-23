@@ -12,7 +12,6 @@ aliases:
  - "Eagwulf / Iggwilf"
  - "Eagwulf Iggwilf TNW"
 ---
-# Eagwulf / Iggwilf
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Eagwulf_Iggwilf.png]]

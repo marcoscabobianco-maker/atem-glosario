@@ -12,7 +12,6 @@ aliases:
  - "Psicopompo"
  - "Dragón Psicopompo"
 ---
-# Psicopompo / Dragón Psicopompo
 
 ## Presentación
 

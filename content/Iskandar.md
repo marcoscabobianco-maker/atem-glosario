@@ -8,8 +8,6 @@ aliases:
  - "Iskandar"
 ---
 
-# Iskandar
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Iskandar.png]]
 <!-- /HEADER_IMG -->

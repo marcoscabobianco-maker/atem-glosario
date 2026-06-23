@@ -13,8 +13,6 @@ aliases:
  - "La ciudad universo"
 ---
 
-# Ouranópolis
-
 ## Presentación
 
 **Ouranópolis** —*la ciudad universo*— es la ciudad doctrinal del marco [[Astra_y_Monstra]]: la urbe cuyo plano coincide con el orden completo de los cielos. El cuaderno la consigna (C57, p. 144) junto a la revelación de Nechepso que organiza toda la vertiente astrológica del archivo: el faraón que, rezando toda la noche bajo el cielo abierto, fue envuelto por **una túnica azul-cielo que mostraba el cielo nocturno** y pudo así *"experimentar el orden completo de los movimientos del universo"* (C57, p. 120).

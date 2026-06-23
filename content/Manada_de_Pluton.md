@@ -8,7 +8,6 @@ aliases:
  - "de Plutón"
  - "Manada"
 ---
-# Manada (de Plutón)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Manada_de_Pluton.png]]

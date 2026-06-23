@@ -7,7 +7,6 @@ tags:
 aliases:
  - "U-Reloj"
 ---
-# U-Reloj
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/U-Reloj.png]]

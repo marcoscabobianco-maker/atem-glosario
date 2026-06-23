@@ -15,7 +15,6 @@ tags:
  - time-bandits
 imagen: Imagenes_Tier1/Bibliotheca_Aby_Warburgo.png
 ---
-# Bibliotheca Aby Warburgo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bibliotheca_Aby_Warburgo.png]]

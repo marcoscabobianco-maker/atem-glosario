@@ -11,8 +11,6 @@ aliases:
  - "Equipo Beta"
 ---
 
-# Equipo Alfa / Equipo Beta
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Equipo_Alfa_Equipo_Beta.png]]
 <!-- /HEADER_IMG -->

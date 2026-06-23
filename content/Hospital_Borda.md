@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# Hospital Borda
-
 > *Las celdas acolchadas también son una puerta. Lo que encierran no siempre quiere salir por donde entró.*
 
 ---

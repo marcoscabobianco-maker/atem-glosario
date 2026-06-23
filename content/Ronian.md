@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Ronian"
 ---
-# Ronian
 
 ## Presentación
 

@@ -19,7 +19,6 @@ tags:
  - heqeti-renegada
  - reptiliano-cuatro-ojos
 ---
-# Tsilliv
 
 > *Líder del [[Kaliyani|Consorcio Doce]] de los [[Kaliyani]]. Hechicero reptiliano de cuatro ojos. Reside en las las [[Kaliyani]] Pits. Acaba de reabrir conflicto con los [[Varumani]] al ser descubiertos sus scouts.*
 

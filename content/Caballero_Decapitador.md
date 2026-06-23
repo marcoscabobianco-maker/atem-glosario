@@ -5,8 +5,6 @@ aliases:
  - "Caballero Decapitador"
 ---
 
-# Caballero Decapitador
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Caballero_Decapitador.png]]
 <!-- /HEADER_IMG -->

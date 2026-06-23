@@ -4,8 +4,6 @@ aliases:
  - "Ala del Cuervo combate"
 ---
 
-# Ala del Cuervo combate
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ala_del_Cuervo_combate.png]]
 <!-- /HEADER_IMG -->

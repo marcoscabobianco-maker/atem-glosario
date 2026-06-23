@@ -20,8 +20,6 @@ aliases:
 imagen: null
 ---
 
-# Arquímedes
-
 > *Dame un punto de apoyo y moveré el mundo —los mundos.*
 
 ---

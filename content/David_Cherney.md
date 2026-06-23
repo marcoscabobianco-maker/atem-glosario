@@ -21,8 +21,6 @@ aliases:
 imagen: null
 ---
 
-# David Cherney
-
 > *El maestro viejo de la logia, grande pero muy sabio. Para 1966 ya no es un hombre: es una pista.*
 
 ---

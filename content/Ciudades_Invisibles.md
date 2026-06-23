@@ -10,7 +10,6 @@ aliases:
  - "Ciudades Invisibles"
 epoca: "1494-1520 A.D.A. — Edad del Renacimiento"
 ---
-# Ciudades Invisibles
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ciudades_Invisibles.png]]

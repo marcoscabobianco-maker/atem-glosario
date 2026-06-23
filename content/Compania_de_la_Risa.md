@@ -21,7 +21,6 @@ tags:
  - valanthru-vinculo-sospechado
 imagen: null
 ---
-# La Compañía de la Risa
 
 > *"Estos hombres, con sus caras pintadas mitad de blanco y mitad de negro, lo torturaban sin piedad."* — [[Mascor_Blancarba]], sobre el ataque a [[Rulfo]] en el callejón de la Avenida del Magma.
 

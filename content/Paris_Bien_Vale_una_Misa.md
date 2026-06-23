@@ -19,7 +19,6 @@ tags:
  - pretty-women
  - pacto-diabolico
 ---
-# París Bien Vale una Misa
 
 > *"Paris vaut bien une messe."*
 

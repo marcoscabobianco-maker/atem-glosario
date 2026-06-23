@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Virgen Guerrera"
 ---
-# Virgen Guerrera
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Virgen_Guerrera.png]]

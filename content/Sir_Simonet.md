@@ -18,8 +18,6 @@ tags:
  - sun-scarred
 ---
 
-# Sir Simonet
-
 > *Sun-Scarred Knight solitario, altamente competente. Vive en una celda apartada de los [[Halls_of_Thoth_Nivel|Halls of Thoth]]. Anomalía o emisario.*
 
 ## Presentación

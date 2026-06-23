@@ -5,8 +5,6 @@ aliases:
  - "Pentagramas/Sellos de Salomón (Suelo Templo)"
 ---
 
-# Pentagramas/Sellos de Salomón (Suelo Templo)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pentagramas_Sellos_de_Salomon_Suelo_Templo.jpg]]
 <!-- /HEADER_IMG -->

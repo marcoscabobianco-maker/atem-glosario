@@ -7,8 +7,6 @@ aliases:
  - "Lanza del Destino"
 ---
 
-# Lanza del Destino (Ubicación Futura)
-
 ## Presentación
 
 - **Descripción revelada en la incursión al plano astral:** "Lanza del Destino" (Spear of Destiny, posible referencia a Lanza de Longinos)

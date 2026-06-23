@@ -26,8 +26,6 @@ tags:
 imagen: Imagenes_Tier1/Iriarte.png
 ---
 
-# Don José de Iriarte
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Iriarte.png]]
 <!-- /HEADER_IMG -->

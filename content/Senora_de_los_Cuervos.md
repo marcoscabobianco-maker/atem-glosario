@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Señora de los Cuervos"
 ---
-# Señora de los Cuervos
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Senora_de_los_Cuervos.png]]

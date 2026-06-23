@@ -13,8 +13,6 @@ aliases:
  - "Las Tullidas"
 ---
 
-# Las Tullidas
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Las_Tullidas.png]]
 <!-- /HEADER_IMG -->

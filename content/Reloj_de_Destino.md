@@ -5,8 +5,6 @@ aliases:
  - "Reloj de Destino"
 ---
 
-# Reloj de Destino
-
 ## Presentación
 
 **[[Propietario]]:** [[Michel|Michel]] (presumiblemente aún en posesión cuando capturado)

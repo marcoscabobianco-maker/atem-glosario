@@ -10,8 +10,6 @@ aliases:
  - "Panfleto Revolucionario"
 ---
 
-# Panfleto Revolucionario
-
 ## Presentación
 
 Documento político de la París revolucionaria. En una ciudad donde la causa se disputa tanto en la calle como en el papel, el panfleto es el instrumento de propaganda por excelencia: hoja impresa que corre de mano en mano y lleva la consigna más rápido que cualquier orador.

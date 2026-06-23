@@ -25,7 +25,6 @@ tags:
  - senado-popular
 imagen: Imagenes_Tier1/Claude_Nauge.jpg
 ---
-# Claude Nauge
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Claude_Nauge.jpg]]

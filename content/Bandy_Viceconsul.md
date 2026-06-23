@@ -11,7 +11,6 @@ aliases:
  - "Vicecónsul"
  - "Bandy"
 ---
-# Bandy (Vicecónsul)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bandy_Viceconsul.png]]

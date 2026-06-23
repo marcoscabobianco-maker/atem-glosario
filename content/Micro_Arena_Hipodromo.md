@@ -10,7 +10,6 @@ aliases:
  - "Hipódromo"
  - "Micro Arena"
 ---
-# Micro Arena (Hipódromo)
 
 ## Presentación
 

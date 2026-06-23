@@ -20,8 +20,6 @@ tags:
  - efeso
 ---
 
-# Philippe
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Philippe.png]]
 <!-- /HEADER_IMG -->

@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Biblioteca Crónica"
 ---
-# Biblioteca Crónica
 
 ## Presentación
 

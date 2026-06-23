@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Gran Grimonio"
 ---
-# Gran Grimonio
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gran_Grimonio.png]]

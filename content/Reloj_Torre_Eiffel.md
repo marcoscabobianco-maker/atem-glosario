@@ -24,7 +24,6 @@ tags:
  - linea-cronomantica
 imagen: null
 ---
-# Reloj de la Torre Eiffel
 
 > *"Aquí hay historia, y mucha."* — [[Tony_Malatesta|Tony]], murmurando ante el reloj en el taller del [[Bastardo_Cromas]].
 

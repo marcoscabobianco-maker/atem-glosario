@@ -8,8 +8,6 @@ aliases:
  - "Trece Brazos"
 ---
 
-# Trece Brazos
-
 ## Presentación
 
 Grupo aventurero. El nombre sugiere un grupo numeroso o una referencia simbólica.

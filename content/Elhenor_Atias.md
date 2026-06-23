@@ -13,8 +13,6 @@ aliases:
  - "Elhenor Atias"
 ---
 
-# Elhenor Atias
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Elhenor_Atias.png]]
 <!-- /HEADER_IMG -->

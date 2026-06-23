@@ -12,8 +12,6 @@ aliases:
 epoca: "1914 — Edad Sinterra"
 ---
 
-# Duquesa Sophie de Hohenberg
-
 ## Presentación
 
 Figura histórica real. Condesa (posteriormente Duquesa) Sophie de Hohenberg. Esposa del [[Archiduque_Francisco_Fernando_de_Austria|Archiduque Francisco Fernando]]. Matrimonio morganático no aceptado por corte imperial austro-húngara.

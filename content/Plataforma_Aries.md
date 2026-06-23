@@ -21,8 +21,6 @@ tags:
 imagen: Imagenes_Tier1/Plataforma_Aries.png
 ---
 
-# Plataforma de Aries
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Aries.png]]
 <!-- /HEADER_IMG -->

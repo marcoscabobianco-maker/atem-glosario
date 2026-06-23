@@ -20,7 +20,6 @@ tags:
  - inferno
  - catacumbas
 ---
-# Tres Brujas Macbeth
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tres_Brujas_Macbeth.png]]

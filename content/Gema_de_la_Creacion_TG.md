@@ -18,7 +18,6 @@ tags:
  - volcan
  - guardianes
 ---
-# Gema de la Creación (TG)
 
 > *Variante [[Torregrises]] de la Gema. [[Corona_activacion_desconocida|Corona]] la lanza de Minaya, fue usada por [[Soluna]] para crear el mundo. Custodiada hoy en el centro del volcán de Arcacto. Donde los dos guardianes se unan, estallará y creará un universo nuevo.*
 

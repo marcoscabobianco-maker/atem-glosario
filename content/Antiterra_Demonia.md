@@ -24,7 +24,6 @@ tags:
  - gnosticismo-sincretico
 imagen: Imagenes_Tier1/Antiterra_Demonia.png
 ---
-# Antiterra (también Demonia)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Antiterra_Demonia.png]]

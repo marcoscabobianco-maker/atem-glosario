@@ -5,8 +5,6 @@ aliases:
  - "Baphomet & Culto Demoníaco"
 ---
 
-# Baphomet & Culto Demoníaco
-
 ## Presentación
 
 **Menciones al llegar a [[Paris_Ucronica|París Ucrónica]]:** 6x (Bafometo, Bafomento)

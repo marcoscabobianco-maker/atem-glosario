@@ -12,7 +12,6 @@ aliases:
  - "Inferno"
  - "Orfeo"
 ---
-# Orfeo (Inferno)
 
 ## Presentación
 

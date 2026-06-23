@@ -8,7 +8,6 @@ aliases:
  - "Behemoth del Tercer Circulo"
  - "Beboto"
 ---
-# Beboto (Behemoth del Tercer Circulo)
 
 ## Presentación
 

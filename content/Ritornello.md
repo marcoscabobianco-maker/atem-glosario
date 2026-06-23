@@ -18,8 +18,6 @@ tags:
  - cenizas
 ---
 
-# Ritornello
-
 > *"Ritornello era el principal foco de donde venían, por eso era el camino imperial. Todos los que estaban regresando a esta edad de plata del imperio... Y la bomba. El huevo. Que salió de un módulo de armas que ustedes lo accionaron."*
 
 ## Presentación

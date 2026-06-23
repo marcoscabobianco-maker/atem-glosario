@@ -7,8 +7,6 @@ aliases:
  - "ORFEO"
 ---
 
-# ORFEO
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/ORFEO.png]]
 <!-- /HEADER_IMG -->

@@ -5,8 +5,6 @@ aliases:
  - "Pluma de Cisne"
 ---
 
-# Pluma de Cisne Time Capsule
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pluma_de_Cisne_Time_Capsule.png]]
 <!-- /HEADER_IMG -->

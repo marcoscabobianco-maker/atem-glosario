@@ -19,7 +19,6 @@ tags:
  - tartaria
 imagen: Imagenes_Tier1/Torcos.png
 ---
-# Los Torcos
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torcos.png]]

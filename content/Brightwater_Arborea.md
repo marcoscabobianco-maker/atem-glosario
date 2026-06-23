@@ -54,8 +54,6 @@ tags:
  - "lugar-de-nacimiento"
 ---
 
-# Brightwater Arborea
-
 > Reino de Tymora en el plano de Arborea (Reinos Olvidados). Lugar de nacimiento de [[Clarisa]] en 1354 DR. Plano de fortuna y aventura, recontextualizado en el cosmos compartido.
 
 ## Origen en D&D / Reinos Olvidados

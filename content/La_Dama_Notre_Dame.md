@@ -24,7 +24,6 @@ tags:
  - sigil
 imagen: Imagenes_Tier1/La_Dama_Notre_Dame.png
 ---
-# La Dama
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Dama_Notre_Dame.png]]

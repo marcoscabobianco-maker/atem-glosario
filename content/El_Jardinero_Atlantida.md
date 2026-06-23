@@ -19,7 +19,6 @@ tags:
  - antiterra
 imagen: Imagenes_Tier1/El_Jardinero_Atlantida.png
 ---
-# El Jardinero de Atlántida
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Jardinero_Atlantida.png]]

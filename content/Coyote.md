@@ -13,8 +13,6 @@ wikipedia: https://es.wikipedia.org/wiki/Coyote_(mitolog%C3%ADa)
 epoca: "1348 DR — Edad de los Reinos Olvidados — llegada a los Reinos"
 ---
 
-# Coyote
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Coyote.png]]
 <!-- /HEADER_IMG -->

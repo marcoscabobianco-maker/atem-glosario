@@ -17,8 +17,6 @@ tags:
  - muerto
 ---
 
-# Numa Pompidio
-
 > *"El primer druida. Tuvo la cuestión de una de las pruebas de las torres. También se convirtió en un vampiro. Se fue mutando."*
 
 ## Presentación

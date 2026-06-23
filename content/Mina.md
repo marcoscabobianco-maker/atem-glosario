@@ -12,7 +12,6 @@ tags:
  - tullidas
  - stub
 ---
-# Mina
 
 > *Aliada de [[Las_Tullidas]].*
 

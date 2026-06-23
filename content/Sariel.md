@@ -8,8 +8,6 @@ aliases:
  - "Sariel Antagonista Final"
 ---
 
-# Sariel
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sariel.png]]
 <!-- /HEADER_IMG -->

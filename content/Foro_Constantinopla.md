@@ -20,8 +20,6 @@ tags:
 imagen: Imagenes_Tier1/Foro_Constantinopla.png
 ---
 
-# El Foro de Constantinopla
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Foro_Constantinopla.png]]
 <!-- /HEADER_IMG -->

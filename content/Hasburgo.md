@@ -9,8 +9,6 @@ aliases:
  - "Habsburgo"
 ---
 
-# Hasburgo
-
 ## Presentación
 
 Casa dinástica cuya capital es Viena. Los papeles del archivo consignan la grafía Hasburgo donde las cancillerías estampan Habsburgo: una y otra forma nombran a la misma familia.

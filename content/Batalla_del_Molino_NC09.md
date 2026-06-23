@@ -13,8 +13,6 @@ aliases:
  - "Batalla del Molino"
 ---
 
-# Batalla del Molino
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Batalla_del_Molino_NC09.png]]
 <!-- /HEADER_IMG -->

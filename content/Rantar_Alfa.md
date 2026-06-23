@@ -14,7 +14,6 @@ tags:
  - 144000-elegidos
  - stub
 ---
-# Rantar Alfa
 
 > *Referencia ligada a Nexus. Ciudad de 144.000 elegidos. Almas raptadas desde el evento de la Torre Eiffel. Lugar del nacimiento de los dioses.*
 

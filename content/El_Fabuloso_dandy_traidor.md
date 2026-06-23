@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# El Fabuloso dandy traidor
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Fabuloso_dandy_traidor.png]]
 <!-- /HEADER_IMG -->

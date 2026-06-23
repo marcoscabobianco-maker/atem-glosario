@@ -9,8 +9,6 @@ aliases:
  - "HIJO DE LA LIBERTAD"
 ---
 
-# HIJO DE LA LIBERTAD (SON OF LIBERTY)
-
 ## Presentación
 
 "Hijo de la libertad": revolucionario simpatizante o insurgente activo en la era de la Guerra de Independencia Americana, en la misma época en que el [[General_Hessiano]] opera como figura de la Revolución en la versión [[Antiterra|Antiterra]] (NY 1784). El arquetipo surge en el horizonte post-[[Anti_Inferno|el Descenso]] como figura de liberación.

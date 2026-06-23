@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Grand Hotel de París"
 ---
-# Grand Hotel de París
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Grand_Hotel_de_Paris.png]]

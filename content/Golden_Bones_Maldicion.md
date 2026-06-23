@@ -15,8 +15,6 @@ aliases:
 aa: "P.10 pacto que protege pero ata ; M.5 cuerpo-archivo ; D.5 llave arbitraria de portal [NC]"
 ---
 
-# Golden Bones (Maldición)
-
 ## Presentación
 
 Maldición de [[StormJay_Idaho|StormJay Idaho]]. Progresión: [[El_Explorador_de_Gotland_Oratiol_manifestacion|manifestación]] parcial → ceguera permanente → Faerie Fire permanente → petrificación como estatuilla dorada → reencarnación como Triaxian. Reinterpretada a través de *The Golden Bough* de Frazer (ramas doradas abren portales) y la *Divina Comedia* (almas vegetales esperando juicio). La ceguera solo se supera con transformación radical, no con "curación."

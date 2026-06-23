@@ -5,8 +5,6 @@ aliases:
  - "Purificación Mágica como Control"
 ---
 
-# Purificación Mágica como Control
-
 ## Presentación
 
 **Tipo:** Trampa política/mágica

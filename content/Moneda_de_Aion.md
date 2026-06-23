@@ -14,8 +14,6 @@ aliases:
  - "La moneda del fénix"
 ---
 
-# Moneda de Aión
-
 > *Fíjate si puedes sentir bajo la lengua una moneda. Ahí está.*
 
 ## Presentación

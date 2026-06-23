@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Jornada Australianos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sesion_Australianos.png]]
 <!-- /HEADER_IMG -->

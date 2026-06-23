@@ -12,8 +12,6 @@ aliases:
  - "Torreluces"
 ---
 
-# Torreluces
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torreluces.png]]
 <!-- /HEADER_IMG -->

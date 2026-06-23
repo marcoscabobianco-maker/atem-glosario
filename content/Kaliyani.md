@@ -21,7 +21,6 @@ tags:
  - enemigo-varumani
  - reptilianos-cuatro-ojos
 ---
-# Kaliyani (Consorcio Doce)
 
 > *Sub-raza heqeti renegada. Cuatro ojos. [[Tsilliv|El Consorcio Doce]] dirigido por Tsilliv. Enemigo ancestral de los [[Varumani]]. Acaban de reaparecer.*
 

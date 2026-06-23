@@ -6,8 +6,6 @@ aliases:
  - Alexio
 ---
 
-# ALEXIO — Anacronismo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Alexio_Anacronismo.jpg]]
 <!-- /HEADER_IMG -->

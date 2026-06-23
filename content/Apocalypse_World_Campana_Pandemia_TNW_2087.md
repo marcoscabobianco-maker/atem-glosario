@@ -16,7 +16,6 @@ aliases:
  - "Apocalypse World — Campaña Pandemia"
 epoca: "2087 — Edad del Mundo Nuevo — pandemia futura"
 ---
-# Apocalypse World — Campaña Pandemia (TNW / 2087)
 
 ## Presentación
 

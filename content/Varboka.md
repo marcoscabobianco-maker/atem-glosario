@@ -21,8 +21,6 @@ tags:
  - recompensa
 ---
 
-# Varboka, First Thegn
-
 > *Rey de un pueblo que se extingue. Busca el [[Beacon_Faro_Brillante|Beacon]] para restaurar a los suyos. Declaró recompensa de 100 piezas de oro por colmillo kaliyani.*
 
 ## Presentación

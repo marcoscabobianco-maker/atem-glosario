@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Kronamon Church"
 ---
-# Kronamon Church
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kronamon_Church.png]]

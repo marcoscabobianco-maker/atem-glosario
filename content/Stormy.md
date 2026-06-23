@@ -11,8 +11,6 @@ aliases:
  - "Stormy"
 ---
 
-# Stormy
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Stormy.png]]
 <!-- /HEADER_IMG -->

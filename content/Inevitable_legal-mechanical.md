@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Inevitable legal-mechanical
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Inevitable_legal-mechanical.png]]
 <!-- /HEADER_IMG -->

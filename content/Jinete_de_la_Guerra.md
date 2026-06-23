@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Jinete de la Guerra"
 ---
-# Jinete de la Guerra
 
 ## Presentación
 

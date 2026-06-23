@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Cornablue"
 ---
-# Cornablue
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cornablue.png]]

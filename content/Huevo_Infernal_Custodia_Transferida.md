@@ -7,8 +7,6 @@ aliases:
  - "Huevo Infernal"
 ---
 
-# Huevo Infernal (Custodia Transferida)
-
 ## Presentación
 
 - **Status al cierre de la incursión astral:** Entregado a [[Carlos_Rey_Carlos_Carlomagno|Carlos]]/Caballeros al final de la jornada

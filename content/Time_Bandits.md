@@ -25,7 +25,6 @@ tags:
  - arsvan
 imagen: Imagenes_Tier1/Time_Bandits.png
 ---
-# Time Bandits
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Time_Bandits.png]]

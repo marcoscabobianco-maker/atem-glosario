@@ -14,8 +14,6 @@ tags:
  - madre-en-luto
 ---
 
-# Mirela Valka
-
 > *Vieja enamorada. Había perdido frente a Lali porque tu mujer era más bella.*
 
 ## Presentación

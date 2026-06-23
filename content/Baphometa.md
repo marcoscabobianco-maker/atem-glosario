@@ -20,7 +20,6 @@ tags:
  - stub
 estado: stub_diegetico
 ---
-# La Baphometa
 
 > *Hija de [[Baphomet_Culto_Demoniaco|Baphomet]]. Operadora del nivel subterráneo de la [[Catedral_Negra|Catedral Negra]].*
 

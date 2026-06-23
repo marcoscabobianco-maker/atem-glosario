@@ -21,7 +21,6 @@ tags:
  - apocalipsis
  - infierno
 ---
-# Niki, la Carmelita
 
 > *La monja descalza que bajó al jardín del Infierno predicando amor y paz, y volvió de él con escamas en la piel y una corona de estrellas que no había pedido.*
 

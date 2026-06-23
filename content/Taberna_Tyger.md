@@ -11,8 +11,6 @@ aliases:
  - "Taberna Tyger"
 ---
 
-# Taberna Tyger
-
 ## Presentación
 
 **Una taberna, como muchos comienzos. Se llama Tyger.** Techo bajo, maderas superpuestas, inscripciones sobre la mesa. Sirven la cerveza con la jarra completa —la llenan hasta el borde— y una marquita más en la cuenta.

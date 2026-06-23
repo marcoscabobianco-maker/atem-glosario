@@ -21,8 +21,6 @@ tags:
 imagen: null
 ---
 
-# Circonio / Piedra Azul
-
 > *El mineral que la isla guarda como un órgano dormido. La ciencia lo cataloga, la historia lo desentierra en suelo disputado, y la Orden lo despierta con sangre. Frío y azul al principio; amarillo y hueco cuando termina de nacer.*
 
 ---

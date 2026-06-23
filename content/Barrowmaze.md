@@ -23,8 +23,6 @@ tags:
 imagen: null
 ---
 
-# Barrowmaze — los túmulos del este de Helix
-
 > *"Está cerca del barro, ¿viste? Te lo conozco bien."* — el demonio Quasi al gemelo guardia, sobre las diez mil monedas escondidas.
 
 ---

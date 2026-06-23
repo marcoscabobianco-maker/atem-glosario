@@ -9,8 +9,6 @@ aliases:
  - "Sasha"
 ---
 
-# Sasha (TNW)
-
 ## Presentación
 
 **Ref.:** apariciones en el ciclo del Mundo Nuevo como ranger del grupo, "Sasha cerrando la marcha".

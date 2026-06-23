@@ -7,7 +7,6 @@ tags:
 aliases:
  - "U-Bengala"
 ---
-# U-Bengala
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/U-Bengala.png]]

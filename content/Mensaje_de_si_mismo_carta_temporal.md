@@ -19,7 +19,6 @@ tags:
  - autorreferencia
 imagen: Imagenes_Tier1/Mensaje_de_si_mismo_carta_temporal.png
 ---
-# La carta del propio yo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mensaje_de_si_mismo_carta_temporal.png]]

@@ -9,7 +9,6 @@ aliases:
  - "Ledham"
  - "Ledham (Rey de Soma)"
 ---
-# Letham (Rey de Soma)
 
 ## Presentación
 

@@ -24,7 +24,6 @@ tags:
  - 1050
 imagen: Imagenes_Tier1/Chronomon.png
 ---
-# Chronomon
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Chronomon.png]]

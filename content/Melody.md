@@ -11,8 +11,6 @@ aliases:
  - "Melody"
 ---
 
-# Melody
-
 ## Presentación
 
 Dinosauria, compañera animal de [[Iriscan]] que sucede o complementa a [[Moon_River|Moon River]]. Mencionada en la secuencia de [[Monte_Analogo|Monte Análogo]].

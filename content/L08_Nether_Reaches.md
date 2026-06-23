@@ -21,8 +21,6 @@ tags:
  - bliss-pollen
 ---
 
-# Nether Reaches
-
 > *El salvaje oeste de [[Ardis_Vala|Arden Vul]]. Sin facción controladora. Laocoon Shadow Lord. Bliss flowers. Forge de Zhorak. Rakshasas disfrazados de rudishva.*
 
 ## Presentación

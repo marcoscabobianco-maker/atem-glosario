@@ -15,8 +15,6 @@ aliases:
  - "Ariadna / Genoveva / Bebona"
 ---
 
-# Ariadna (Templarios)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ariadna_Templarios.png]]
 <!-- /HEADER_IMG -->

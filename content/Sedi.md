@@ -10,8 +10,6 @@ aliases:
  - "Sedi"
 ---
 
-# Sedi
-
 ## Presentación
 
 Hija menor de **[[Amitlai]]**, junto con su hermana **[[Meritaton|Meritatón]]** (heredera del trono). Sedi aparece en los diálogos de corte egipcia como elemento de la dinámica familiar y sucesoria de [[Amitlai]].

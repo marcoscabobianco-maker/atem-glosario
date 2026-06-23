@@ -22,8 +22,6 @@ aliases:
  - "Horacio J. Harrington"
 ---
 
-# Harrington
-
 > *La ciencia de los años sesenta como linaje del saber peligroso: el que mide la roca termina por despertarla.*
 
 ---

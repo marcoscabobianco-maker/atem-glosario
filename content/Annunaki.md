@@ -21,7 +21,6 @@ tags:
  - paul-claudel
  - huitzilopochtli
 ---
-# Annunaki
 
 > *Quizás son los que crearon este mundo contra los Elohim. Doce dragones camuflados. La esperanza del [[Grazzt|Neo Rex]].*
 

@@ -11,7 +11,6 @@ tags:
 aliases:
  - "Oblivión"
 ---
-# Oblivión
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Oblivion.png]]

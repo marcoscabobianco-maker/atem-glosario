@@ -8,8 +8,6 @@ aliases:
  - "Emma Goldman"
 ---
 
-# Emma Goldman
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Emma_Goldman.png]]
 <!-- /HEADER_IMG -->

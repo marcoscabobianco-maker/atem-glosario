@@ -11,8 +11,6 @@ aliases:
  - "Meritatón"
 ---
 
-# Meritatón
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Meritaton.png]]
 <!-- /HEADER_IMG -->

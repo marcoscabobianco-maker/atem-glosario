@@ -22,7 +22,6 @@ tags:
  - andgara
  - glastumville
 ---
-# Dou-Frome
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dou-Frome.png]]

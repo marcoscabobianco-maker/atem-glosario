@@ -21,7 +21,6 @@ tags:
  - desigualdad-social
 imagen: null
 ---
-# La Revolución Industrial Mágica
 
 > *"De joven me impactaron las historias de posibles nuevas máquinas impulsadas por la magia, talleres que mezclan alquimia y vapor, y gremios capaces de forjar artefactos cada vez más asombrosos."* — [[Mascor_Blancarba]], *[[Crónica_de_un_Visitante_Curioso]]*.
 

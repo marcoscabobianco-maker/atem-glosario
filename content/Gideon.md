@@ -12,7 +12,6 @@ tags:
 aliases:
  - "Gideon"
 ---
-# Gideon
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gideon.png]]

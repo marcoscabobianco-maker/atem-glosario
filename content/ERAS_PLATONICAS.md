@@ -9,8 +9,6 @@ tags:
   - eras-platonicas
 ---
 
-# Eras platónicas del archivo
-
 > *El cronista que ordena las eras no inventa: reconoce. El tiempo del cosmos no fluye en una sola dirección — fluye en varios cauces que el archivero del Plata y la amanuense reúnen en una sola sombra.*
 >
 > *— Akala, glosa marginal*

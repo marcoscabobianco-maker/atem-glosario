@@ -24,7 +24,6 @@ tags:
  - panteon-imperial-corrupto
 imagen: null
 ---
-# Culto de Set
 
 > *"Set no es dios menor del panteón. Es dios mayor del polo oscuro. El que pretende que su culto es marginal subestima la operación cosmológica del orden imperial archonteo."*
 

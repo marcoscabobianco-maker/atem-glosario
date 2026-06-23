@@ -22,8 +22,6 @@ tags:
  - trono-rubi
 ---
 
-# Strahd
-
 > *Strahd von Zarovich, darklord canónico de Ravenloft / Barovia. Paralelo del [[Caladan]]-señor-de-Valakhan-de-la-Bruma. Referencia estética del trono de rubí y la fiebre blanca.*
 
 ## Presentación

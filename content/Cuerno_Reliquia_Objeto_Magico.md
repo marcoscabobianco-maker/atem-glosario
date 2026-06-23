@@ -10,8 +10,6 @@ aliases:
  - "Cuerno"
 ---
 
-# Cuerno (Reliquia / Objeto Mágico)
-
 ## Presentación
 
 **Tipo:** Artefacto mágico, posiblemente reliquia de Veracruz, arma sónica

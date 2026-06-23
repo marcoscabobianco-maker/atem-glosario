@@ -22,7 +22,6 @@ tags:
  - apertura-magica
 imagen: null
 ---
-# Drusus V
 
 > *"El nombre Drusus pesa más en quien lo hereda que en quien lo lleva primero. Drusus V abrió la Orden; sus sucesores la administraron; el nombre quedó como obligación cosmológica antes que como apellido dinástico."*
 

@@ -27,7 +27,6 @@ tags:
  - crisalida
 imagen: null
 ---
-# Ardipithecus
 
 > *"El paladín pidió una espada afilada. Le entregaron una crisálida."*
 

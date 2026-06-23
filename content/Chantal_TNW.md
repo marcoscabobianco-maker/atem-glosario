@@ -10,8 +10,6 @@ aliases:
  - "Chantal"
 ---
 
-# Chantal (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Chantal_TNW.png]]
 <!-- /HEADER_IMG -->

@@ -5,8 +5,6 @@ aliases:
  - "Entierro de Alexio"
 ---
 
-# Entierro de Alexio
-
 ## Presentación
 
 **Localización:** Mezquita (¿mezquita del [[Temple_complejo_TE|Temple]] o mezquita separada de Jerusalén?).

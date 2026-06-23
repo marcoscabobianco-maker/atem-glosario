@@ -11,8 +11,6 @@ aliases:
  - "Hardheads"
 ---
 
-# Harmonium
-
 > Una de las facciones canónicas de Sigil (Planescape). Fuerza de orden y unificación. Aparece en el ciclo como facción operativa cuando los compañeros transitan Sigil.
 
 ## Origen en D&D / Planescape

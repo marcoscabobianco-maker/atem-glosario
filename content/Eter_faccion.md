@@ -10,7 +10,6 @@ aliases:
  - "facción"
  - "Éter"
 ---
-# Éter (facción)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Eter_faccion.png]]

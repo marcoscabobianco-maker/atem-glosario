@@ -20,8 +20,6 @@ aliases:
 imagen: null
 ---
 
-# El mesocratón del Deseado
-
 > *Antes que la disputa de banderas, antes que el avión y la turba, antes que el primer hombre que rezó de cara al mar, ya estaba la piedra. Una sola roca arcaica sostiene la Patagonia y las islas como un mismo hueso bajo dos pieles de agua.*
 
 ---

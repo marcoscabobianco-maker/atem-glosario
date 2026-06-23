@@ -12,8 +12,6 @@ aliases:
  - "Pomola"
 ---
 
-# Pomola
-
 ## Presentación
 
 Gran espíritu guardián de las montañas y los pájaros. Conflicto con el [[Flying_Dutchman_Holandes_Errante|Holandés Errante]] cuyo vuelo "usurpa el terreno de los pájaros." Apaciguado previamente por el grupo. El grupo viaja como "emisarios de Pomola."

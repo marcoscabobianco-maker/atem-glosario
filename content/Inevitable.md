@@ -8,8 +8,6 @@ aliases:
  - "Inevitable"
 ---
 
-# Inevitable
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Inevitable.png]]
 <!-- /HEADER_IMG -->

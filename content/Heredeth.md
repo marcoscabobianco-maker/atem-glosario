@@ -6,8 +6,6 @@ aliases:
 imagen: Imagenes_Tier1/Heredeth.jpg
 ---
 
-# Heredeth
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Heredeth.jpg]]
 <!-- /HEADER_IMG -->

@@ -18,7 +18,6 @@ tags:
  - estigia
 imagen: Imagenes_Tier1/Cancerbero_CDI.png
 ---
-# Cancerbero
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cancerbero_CDI.png]]

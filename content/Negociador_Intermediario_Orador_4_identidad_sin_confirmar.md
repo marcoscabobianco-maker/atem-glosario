@@ -7,7 +7,6 @@ aliases:
  - "Intermediario"
  - "Negociador/Intermediario"
 ---
-# Negociador / Intermediario del Descenso
 
 ## Presentación
 

@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Taberna de Cartouche"
 ---
-# Taberna de Cartouche
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Taberna_de_Cartouche.png]]

@@ -23,8 +23,6 @@ aliases:
 imagen: null
 ---
 
-# Operación Northern Lighthouse
-
 > *Un cableado tendido por debajo del mapa. La vieja hermandad de fareros del norte no encendía luces para guiar barcos: encendía clavijas para mantener enchufado el mundo de superficie a lo que duerme en el fondo.*
 
 ---

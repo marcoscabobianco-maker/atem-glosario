@@ -14,8 +14,6 @@ aliases:
  - "Tren del Buitre Risueno TNW"
 ---
 
-# Tren del Buitre Risueño
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tren_del_Buitre_Risueno.png]]
 <!-- /HEADER_IMG -->

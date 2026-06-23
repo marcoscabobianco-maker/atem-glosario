@@ -12,8 +12,6 @@ aliases:
  - "Glob / Glove"
 ---
 
-# Glob / Glove (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Glob_Glove_TNW.png]]
 <!-- /HEADER_IMG -->

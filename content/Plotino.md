@@ -5,8 +5,6 @@ aliases:
 referenciado_por: 3
 ---
 
-# Plotino
-
 ## Referencias entrantes
 
 Esta entrada es mencionada desde:

@@ -5,8 +5,6 @@ aliases:
  - "Anillo de Curación Mejorada"
 ---
 
-# Anillo de Curación Mejorada
-
 ## Presentación
 
 **Rareza:** Moderada-Alta

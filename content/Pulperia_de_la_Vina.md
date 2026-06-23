@@ -13,8 +13,6 @@ aliases:
  - "La Viña"
 ---
 
-# Pulpería de la Viña
-
 Establecimiento de bebidas y sociabilidad enclavado en las inmediaciones de la Ribera porteña, en [[Santa_Maria_de_Torregrises|Santa María de Torregrises]]. La Viña es conocida como refugio del federalismo callejero: sus paredes guardan retratos del Intercesor, sus mesas se llenan de brindis por el régimen del Coronel Carmín, y el aire huele a sebo y vino rancio mezclados con la devoción popular más ruidosa. No existe en ella raza ni estamento que no rinda tributo al Restaurador: el espacio es, en su faz pública, una fiesta permanente de honor al orden federal.
 
 Lo que el visitante ocasional no advierte es la segunda naturaleza del lugar. Bajo la tapa de toneles y guitarras, la Pulpería de la Viña opera como punto de convergencia de conspiradores. Se sabe que masorqueros han caído muertos entre sus bancos, y que ciertos hombres se reúnen allí para concertar movimientos que jamás llegarían a oídos del régimen. La doble vida del establecimiento —lealtad carmesí en la superficie, intriga en los rincones— lo convierte en uno de los nudos más tensos del mapa político de la ciudad.

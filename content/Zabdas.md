@@ -13,8 +13,6 @@ aliases:
  - "Zabdas"
 ---
 
-# Zabdas
-
 ## Presentación
 
 Gran conquistador de Egipto, general de **[[Zenobia_de_Palmyra|Zenobia de Palmyra]]**. Aliado egipcio: Timagenes. Rival romano: Tenagino Probus (prefecto, decapitado). Un allegado suyo, catafracto de la reina e iniciado en los misterios de **[[Mani]]**, habría entregado conocimientos ocultos al rey de **[[Axum]]**.

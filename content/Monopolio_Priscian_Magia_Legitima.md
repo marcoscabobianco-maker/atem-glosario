@@ -22,8 +22,6 @@ tags:
 imagen: null
 ---
 
-# Monopolio Priscian de la Magia Legítima — la chispa abierta cerrada en custodia
-
 > *"Es el principio sortiano de todos tienen acceso. Sí, sí. Pero el principio de los sorteados les estaban prohibiendo la entrada."* — del consenso de la mesa de los [[Buscadores_de_Ardis_Vala|Buscadores]], tras el despojo, intentando nombrar lo que había pasado.
 
 ---

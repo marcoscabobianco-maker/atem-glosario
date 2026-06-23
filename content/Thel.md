@@ -16,7 +16,6 @@ tags:
  - linaje
  - madre
 ---
-# Thel
 
 > *La virgen que rehusó el cuerpo. Hija del leshay. Madre del demonio.*
 

@@ -22,8 +22,6 @@ tags:
 imagen: null
 ---
 
-# Orfanato de la Calle de la Linterna
-
 > *"Cargando a Rulfo, los aventureros llegaron al imponente edificio del orfanato. La fachada de piedra húmeda olía a aceite de lámpara y a sopa hervida; lo de adentro, a niños demasiado callados."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

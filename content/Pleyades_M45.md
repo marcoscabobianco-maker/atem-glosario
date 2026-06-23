@@ -17,8 +17,6 @@ tags:
 imagen: Imagenes_Tier1/Pleyades_M45.jpg
 ---
 
-# Las Pléyades (M45)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pleyades_M45.jpg]]
 <!-- /HEADER_IMG -->

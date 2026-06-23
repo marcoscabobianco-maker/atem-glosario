@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Rue Prony 114"
 ---
-# Rue Prony 114
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Rue_Prony_114.png]]

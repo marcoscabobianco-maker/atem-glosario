@@ -11,7 +11,6 @@ tags:
 aliases:
  - "Calcabrina"
 ---
-# Calcabrina
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Calcabrina.png]]

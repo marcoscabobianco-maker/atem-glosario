@@ -22,8 +22,6 @@ tags:
  - red-bridge
 ---
 
-# Forum of Set
-
 > *El templo / mercado / guarida del culto de Set resurgente. Esclavismo institucional y misterios de la serpiente.*
 
 ## Presentación

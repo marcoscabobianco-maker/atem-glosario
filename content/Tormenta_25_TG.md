@@ -22,7 +22,6 @@ tags:
  - camelot
 imagen: Imagenes_Tier1/Tormenta_25_TG.png
 ---
-# Tormenta 25 — el diluvio y el congelamiento de Torregrises
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tormenta_25_TG.png]]

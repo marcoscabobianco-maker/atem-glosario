@@ -12,8 +12,6 @@ aliases:
  - "Praglava"
 ---
 
-# Praglava
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Praglava.png]]
 <!-- /HEADER_IMG -->

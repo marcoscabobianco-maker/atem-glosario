@@ -23,7 +23,6 @@ tags:
  - orgullo-fundacional
 imagen: null
 ---
-# Girbala
 
 > *"El tegnu no se sienta en trono labrado; se sienta sobre los escudos de los enemigos que el Mantra de Profundidad le entregó. Quien quiera entender el orgullo varumani, mire los escudos."* — Cántico ritual varumani, fragmento traducido al lenguaje imperial por copista anónimo de [[Narsileon]] (~2810 AEP).
 

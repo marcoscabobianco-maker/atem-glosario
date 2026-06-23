@@ -7,8 +7,6 @@ aliases:
  - "Cuarto Caballero"
 ---
 
-# Cuarto Caballero (sin nombre)
-
 ## Presentación
 
 - **Descripción:** "Menor," afectado (emotionally), se vistió túnica templaria "por las dudas"

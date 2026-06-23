@@ -11,8 +11,6 @@ aliases:
  - "Gobernador Caín"
 ---
 
-# Barón Caín / Gobernador Caín
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Baron_Cain_Gobernador_Cain.png]]
 <!-- /HEADER_IMG -->

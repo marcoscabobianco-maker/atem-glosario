@@ -16,8 +16,6 @@ aliases:
 aa: "C.6 la sombra detectada ; J.4 perseguida por el aparato legal [TG]"
 ---
 
-# Barbarella
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Barbarella.png]]
 <!-- /HEADER_IMG -->

@@ -7,8 +7,6 @@ aliases:
  - "EL NEGRO"
 ---
 
-# EL NEGRO (Entidad demoniaca)
-
 ## Presentación
 
 **Tipo:** [[Entidad]] ambigua — posiblemente viajero temporal poseído

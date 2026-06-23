@@ -21,7 +21,6 @@ tags:
  - auditori
  - decadiano
 ---
-# La Iglesia Gnóstica de Antiterra
 
 > *"En Terra el cristianismo se inclinó por Pedro; en [[Antiterra]] se inclinó por Mani. La inclinación cambió todo lo demás."*
 

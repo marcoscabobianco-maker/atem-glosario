@@ -4,8 +4,6 @@ aliases:
  - "Verdugo de Paris"
 ---
 
-# Verdugo de Paris
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Verdugo_de_Paris.png]]
 <!-- /HEADER_IMG -->

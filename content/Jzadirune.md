@@ -20,7 +20,6 @@ tags:
  - mascaras-suspendidas
 imagen: null
 ---
-# Jzadirune
 
 > *"Esto apenas comienza."* — [[Ayrton_Auslander|Ayrton]], antes de cruzar las puertas de engranajes que llevan al enclave.
 

@@ -21,7 +21,6 @@ tags:
  - rutas-clandestinas
 imagen: null
 ---
-# Hermandad Benevola
 
 > *"El nombre engaña. La Hermandad Benevola no opera por benevolencia: opera por ruta. Lo que llaman 'bueno' es lo que circula sin trabar a quien la habita. — del cuaderno de un viajero del valle del Barrado [[Barrado_Balacan|Balacán]]."*
 

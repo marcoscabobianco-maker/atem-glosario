@@ -5,8 +5,6 @@ aliases:
  - "Mistu"
 ---
 
-# Mistu
-
 ## Presentación
 
 **Tipo:** Elemental del aire (Persa antiguo)

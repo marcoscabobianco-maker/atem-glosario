@@ -12,8 +12,6 @@ aliases:
  - "Iron Raven Token"
 ---
 
-# Cuerno de Hierro / Iron Raven Token
-
 ## Presentación
 
 Token metálico de comunicación unidireccional con fuerzas holandesas. Entregado a [[Edward]] como parte del trato mercenario de 37,000 gemas.

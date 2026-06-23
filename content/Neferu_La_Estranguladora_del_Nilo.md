@@ -21,7 +21,6 @@ tags:
  - lich
 imagen: Imagenes_Tier1/Neferu_La_Estranguladora_del_Nilo.png
 ---
-# Neferu — la Estranguladora del Nilo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Neferu_La_Estranguladora_del_Nilo.png]]

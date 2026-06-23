@@ -19,7 +19,6 @@ tags:
  - ad-d-2e
  - canonico
 ---
-# Klyssandral
 
 > *Maestro de Maristo. El que vio arrastrarse un templo entero al quinto nivel del imperio. Figura canónica del arco [[Paladin_in_Hell]].*
 

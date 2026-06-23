@@ -26,8 +26,6 @@ aliases:
  - "Propaganda 2"
 ---
 
-# Lucio Gelli / Propaganda Due
-
 > *Nadie lo vota, nadie lo elige; y sin embargo es él quien decide quién gobierna.*
 
 ## El gran maestre

@@ -5,8 +5,6 @@ aliases:
  - "Campana de Veracruz"
 ---
 
-# Campana de Veracruz
-
 ## Presentación
 
 - **Naturaleza:** Reliquia sagrada de forma de campana, metalwork ortodoxo

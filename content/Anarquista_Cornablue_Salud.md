@@ -9,8 +9,6 @@ tags:
  - antagonista
 ---
 
-# Anarquista Cornablue Salud
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Anarquista_Cornablue_Salud.png]]
 <!-- /HEADER_IMG -->

@@ -9,8 +9,6 @@ aliases:
  - "Polchnikov"
 ---
 
-# Polchnikov (TNW)
-
 ## Presentación
 
 **Ref.:** Resumen

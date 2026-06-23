@@ -25,8 +25,6 @@ imagen: Imagenes_Tier1/Mortan.png
 ![[Imagenes_Tier1/Mortan.png]]
 <!-- /HEADER_IMG -->
 
-# Mortan — clérigo bisagra del santuario de Helix
-
 > *"Yo sigo sirviendo a Dios, lo que fuera, qué sé yo."* — Mortan al cierre, cuando le reprocharon haber participado de la ejecución del altar.
 
 ---

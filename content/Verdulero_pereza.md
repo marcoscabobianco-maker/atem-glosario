@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Verdulero pereza
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Verdulero_pereza.png]]
 <!-- /HEADER_IMG -->

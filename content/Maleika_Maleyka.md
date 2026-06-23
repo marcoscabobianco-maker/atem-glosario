@@ -14,7 +14,6 @@ aliases:
  - "Maleyka"
 aa: "M.2 castracion-apropiacion ; P.7 pacto admirativo ; N.5 serie onomastica pautada ; R.4 usurpacion del sistema ; M.5 cuerpo-archivo [MC, A.D.A.]"
 ---
-# Maleika / Maleyka
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Maleika_Maleyka.png]]

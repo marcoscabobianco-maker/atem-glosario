@@ -13,8 +13,6 @@ aliases:
  - "Melania"
 ---
 
-# Melania (TG)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Melania_TG.png]]
 <!-- /HEADER_IMG -->

@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Demonomicon_Truenames.png
 ---
 
-# El Demonomicon de los Truenames
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Demonomicon_Truenames.png]]
 <!-- /HEADER_IMG -->

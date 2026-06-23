@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Big Berta"
 ---
-# Big Berta
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Big_Berta.png]]

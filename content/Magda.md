@@ -21,7 +21,6 @@ tags:
  - convocadora
  - poker-de-hostias
 ---
-# Magda — la bruja del azar
 
 > *"La bruja de la fortuna —y la desgracia para otros. La carta que se da vuelta sin que la mesa lo espere."*
 

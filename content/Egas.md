@@ -13,8 +13,6 @@ aliases:
  - "Egas"
 ---
 
-# Egas
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Egas.png]]
 <!-- /HEADER_IMG -->

@@ -4,7 +4,6 @@ categoria: personaje
 aliases:
  - "Zamora"
 ---
-# Zamora
 
 ## Presentación
 

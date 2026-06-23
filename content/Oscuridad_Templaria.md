@@ -21,8 +21,6 @@ tags:
 imagen: Imagenes_Tier1/Oscuridad_Templaria.png
 ---
 
-# La Oscuridad Templaria
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Oscuridad_Templaria.png]]
 <!-- /HEADER_IMG -->

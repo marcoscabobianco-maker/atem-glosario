@@ -10,7 +10,6 @@ aliases:
  - "Dama Amarilla"
  - "Señora del Oasis"
 ---
-# Dama Amarilla / Señora del Oasis
 
 ## Presentación
 

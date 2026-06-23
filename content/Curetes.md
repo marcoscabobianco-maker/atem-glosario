@@ -19,7 +19,6 @@ tags:
  - cdi
 imagen: Imagenes_Tier1/Curetes.png
 ---
-# Los Curetes
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Curetes.png]]

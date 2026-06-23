@@ -5,8 +5,6 @@ aliases:
 referenciado_por: 2
 ---
 
-# Patriarca
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Patriarca.jpg]]
 <!-- /HEADER_IMG -->

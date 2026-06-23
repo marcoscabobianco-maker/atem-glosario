@@ -10,8 +10,6 @@ aliases:
  - "Harrison Solar"
 ---
 
-# Harrison Solar
-
 ## Presentación
 
 Capitán al servicio de Álvaro Amador, ranchero de [[California]] colonial. Capacidad de transformación: piel gris, crece de tamaño. Pelea contra escorpiones demoniacos con trabuco. Pragmático — echa a los mercenarios tras el ataque al pozo.

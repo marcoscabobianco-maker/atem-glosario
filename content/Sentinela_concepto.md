@@ -11,8 +11,6 @@ aliases:
  - "Sentinela (concepto)"
 ---
 
-# Sentinela (concepto)
-
 ## Presentación
 
 ## el plano operativo

@@ -20,8 +20,6 @@ aliases:
  - "Urién"
 ---
 
-# Uriel
-
 > *Predica la paz en la mesa de luz, y por debajo de la mesa reparte el trabajo sucio.*
 
 ## El hombre de imprenta

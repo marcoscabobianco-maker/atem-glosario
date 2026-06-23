@@ -17,8 +17,6 @@ aliases:
  - "Vieja bruja / Señora de potentes"
 ---
 
-# Vieja bruja / Señora de potentes
-
 > *"Tuviste que agarrarlo bien del pingo."* — la vieja bruja, a Maleika; cuaderno sesenta y siete, p. 27.
 
 ## Presentación

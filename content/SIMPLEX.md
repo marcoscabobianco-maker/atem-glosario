@@ -9,8 +9,6 @@ aliases:
  - "SIMPLEX"
 ---
 
-# SIMPLEX
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/SIMPLEX.png]]
 <!-- /HEADER_IMG -->

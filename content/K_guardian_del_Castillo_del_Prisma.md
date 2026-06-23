@@ -7,7 +7,6 @@ aliases:
  - "guardián del Castillo del Prisma"
  - "K"
 ---
-# K (guardián del Castillo del Prisma)
 
 ## Presentación
 

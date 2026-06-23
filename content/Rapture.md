@@ -14,8 +14,6 @@ aliases:
  - "Rapture (éxodo de Antiterra)"
 ---
 
-# Rapture
-
 ## Presentación
 
 **Rapture** es el nombre que el archivo conserva para el éxodo pactado de [[Antiterra_Demonia|Antiterra]]: la evacuación de sus habitantes hacia el mundo de refugio de [[Lucifer]], acordada en el [[Carnaval_de_Venecia_1901_ADA|Carnaval de Venecia]] de 1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]], cuando el planeta corría como un cometa hacia la [[Franja_de_Disolucion|Franja de Disolución]] y sus demonios lo sabían con meses de anticipación. La palabra pertenece a las teologías del arrebatamiento — los justos alzados de la tierra antes del fin — y el cronista la asienta en su lengua extranjera porque la torsión que nombra no admite traducción piadosa: en Antiterra, el arrebatamiento de los justos no lo administra el cielo. Lo organiza el infierno.

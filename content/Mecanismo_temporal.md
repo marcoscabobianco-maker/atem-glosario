@@ -4,7 +4,6 @@ categoria: lugar
 aliases:
  - "Mecanismo temporal"
 ---
-# Mecanismo temporal
 
 ## Presentación
 

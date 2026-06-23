@@ -23,7 +23,6 @@ tags:
  - canto-cesion
 imagen: null
 ---
-# Mito de los Amantes y la Serpiente Lunar
 
 > *"Y la novia ofreció un cántico, y el cántico cedió un destello del sol al espejo. La Serpiente, que sabe cuándo basta, retiró la lengua del pacto."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*, fragmento de los mitos fundacionales.
 

@@ -4,8 +4,6 @@ aliases:
  - "Pelor"
 ---
 
-# Pelor
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pelor.png]]
 <!-- /HEADER_IMG -->

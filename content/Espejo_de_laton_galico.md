@@ -20,8 +20,6 @@ tags:
 imagen: null
 ---
 
-# El espejo de latón gálico
-
 > *No devuelve la cara de quien se asoma. Devuelve lo que la cara esconde. Una lámina de bronce alta como dos hombres, escrita en una lengua de piedra, plantada de cara al norte en medio de la turba, esperando que alguien le muestre el huevo.*
 
 ---

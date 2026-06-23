@@ -10,7 +10,6 @@ aliases:
  - "Alsacia-Lorena"
 wikipedia: https://es.wikipedia.org/wiki/Alsacia-Lorena
 ---
-# Alsacia-Lorena
 
 ## Presentación
 

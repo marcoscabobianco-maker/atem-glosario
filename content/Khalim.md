@@ -16,8 +16,6 @@ tags:
  - genetica
 ---
 
-# Khalim
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Khalim_CI.png]]
 <!-- /HEADER_IMG -->

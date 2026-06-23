@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Custodes_Oculis_Solis.png
 ---
 
-# Custodes Oculis Solis
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Custodes_Oculis_Solis.png]]
 <!-- /HEADER_IMG -->

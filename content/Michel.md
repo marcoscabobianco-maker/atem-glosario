@@ -23,8 +23,6 @@ tags:
 imagen: Imagenes_Tier1/Michel.png
 ---
 
-# Michel
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Michel.png]]
 <!-- /HEADER_IMG -->

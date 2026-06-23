@@ -20,8 +20,6 @@ aliases:
 imagen: null
 ---
 
-# La carta de 30 páginas
-
 > *No es una carta dirigida a nadie. Es una carta que sabe demasiado y llega de un emisor que ya no está.*
 
 ---

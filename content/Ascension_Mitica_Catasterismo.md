@@ -10,7 +10,6 @@ aliases:
  - "Catasterismo"
  - "Ascenso Mítico"
 ---
-# Ascensión Mítica / Catasterismo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ascension_Mitica_Catasterismo.jpg]]

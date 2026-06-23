@@ -20,8 +20,6 @@ tags:
 imagen: null
 ---
 
-# Helix — aldea de los túmulos del sur
-
 > *"Helix no es una ciudad. Es un punto de inflexión. Un pueblito con masonería."* — del dictado oral del cronista a quien la aldea le fue mostrada antes de ser nombrada.
 
 ---

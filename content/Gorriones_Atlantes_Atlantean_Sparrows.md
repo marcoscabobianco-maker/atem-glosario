@@ -15,8 +15,6 @@ aliases:
  - "Atlantean Sparrows"
 ---
 
-# Gorriones Atlantes / Atlantean Sparrows
-
 ## Presentación
 
 Entidades atlantes que proveen protección mágica al grupo. Crean esferas de invisibilidad con sus capas. Asisten en la misión de los huevos de dragón (estaño y cobre) para la Gran Obra alquímica del Rey de la [[Atlantida_Alta_y_Baja|Atlántida]]. No pueden ejecutar la operación directamente.

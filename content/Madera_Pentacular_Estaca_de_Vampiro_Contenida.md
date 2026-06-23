@@ -7,8 +7,6 @@ aliases:
  - "Madera Pentacular"
 ---
 
-# Madera Pentacular (Estaca de Vampiro Contenida)
-
 ## Presentación
 
 **Descripción:** Trozo de madera de ~60-70 cm de largo. Originalmente clavada en pedestal de piedra dentro del pentagrama. Superficie marcada con vetas y símbolos. Rústica, oscura, señales de antigüedad.

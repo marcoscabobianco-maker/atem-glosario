@@ -13,8 +13,6 @@ aliases:
  - "Mabrón"
 ---
 
-# Mabrón
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mabron.png]]
 <!-- /HEADER_IMG -->

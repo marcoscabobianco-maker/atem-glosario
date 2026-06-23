@@ -21,7 +21,6 @@ tags:
  - bengala-sucronica
 imagen: Imagenes_Tier1/Bosforo_Ucronico.png
 ---
-# Bósforo Ucrónico
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bosforo_Ucronico.png]]

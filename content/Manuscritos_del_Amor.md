@@ -8,8 +8,6 @@ aliases:
  - "Manuscritos del Amor"
 ---
 
-# Manuscritos del Amor
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Manuscritos_del_Amor.png]]
 <!-- /HEADER_IMG -->

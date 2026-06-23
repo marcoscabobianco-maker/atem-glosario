@@ -14,8 +14,6 @@ aliases:
 epoca: "Edad de los Reinos Olvidados — mentor de las 4 A"
 ---
 
-# Dietrus
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dietrus.png]]
 <!-- /HEADER_IMG -->

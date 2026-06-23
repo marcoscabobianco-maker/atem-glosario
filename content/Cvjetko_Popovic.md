@@ -22,7 +22,6 @@ tags:
  - aby-warburgo
 imagen: null
 ---
-# Cvjetko Popović
 
 > *"En la historia común se le recuerda por su edad. En el archivo uchrónico se le recuerda por su otro cuerpo: el del erudito que lo habitó por unas horas para corregir el atentado."*
 

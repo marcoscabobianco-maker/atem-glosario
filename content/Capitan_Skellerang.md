@@ -20,8 +20,6 @@ tags:
 imagen: null
 ---
 
-# Capitán Skellerang
-
 > *"Con las intrigas políticas y los desafíos místicos convergiendo, [[La_Jabalina]] ha asegurado financiación del Capitán Skellerang, lo que les permitió equipar a sus miembros con túnicas mágicas, armas imbuidas, y botas especializadas para sus misiones."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

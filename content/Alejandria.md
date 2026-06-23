@@ -13,8 +13,6 @@ wikipedia: https://es.wikipedia.org/wiki/Alejandr%C3%ADa
 epoca: "Edad de los Imperios — siglo III-IV d.C."
 ---
 
-# Alejandría
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Alejandria.png]]
 <!-- /HEADER_IMG -->

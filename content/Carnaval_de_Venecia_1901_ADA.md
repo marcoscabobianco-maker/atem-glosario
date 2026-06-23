@@ -13,8 +13,6 @@ aliases:
  - "Carnaval de Venecia"
 ---
 
-# Carnaval de Venecia (~1901 A.D.A.)
-
 ## Presentación
 
 ## el plano operativo

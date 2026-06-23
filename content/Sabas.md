@@ -22,7 +22,6 @@ tags:
  - sabasios
 imagen: Imagenes_Tier1/Sabas.png
 ---
-# Sabas — rey tirano de Torregrises
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sabas.png]]

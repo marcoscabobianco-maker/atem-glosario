@@ -28,8 +28,6 @@ tags:
 imagen: null
 ---
 
-# Caldero
-
 > *"Caldero no es ciudad construida en cráter; es ciudad construida en un Nido. La diferencia importa: el cráter es lo que queda de un volcán; el Nido es lo que queda del Fénix. Toda generación de calderos olvida la diferencia, y toda generación la vuelve a aprender en cuanto la tierra tiembla."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*, diciembre 1824 AE.
 
 ---

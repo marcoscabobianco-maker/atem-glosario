@@ -14,7 +14,6 @@ tags:
  - ambicion
  - hombres-bufalo
 ---
-# Edward
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Edward.png]]

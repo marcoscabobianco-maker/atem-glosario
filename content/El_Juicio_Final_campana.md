@@ -13,8 +13,6 @@ aliases:
  - "El Juicio Final"
 ---
 
-# El Juicio Final (campaña)
-
 ## Presentación
 
 Arco de cierre del cosmos compartido temprano, jugado en dos jornadas bajo Sagitario de 1994. Documentado en el diario del archivo como evento de dos noches.

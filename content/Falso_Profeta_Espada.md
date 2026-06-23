@@ -8,7 +8,6 @@ aliases:
  - "Espada"
  - "Falso Profeta"
 ---
-# Falso Profeta (Espada)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Falso_Profeta_Espada.png]]

@@ -12,8 +12,6 @@ aliases:
  - "faro-monolito"
 ---
 
-# Faro-Monolito (El Faro)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Faro-Monolito_El_Faro.png]]
 <!-- /HEADER_IMG -->

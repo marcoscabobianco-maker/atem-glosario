@@ -14,7 +14,6 @@ tags:
  - taberna
  - arrabal
 ---
-# Taberna de la Buena Herradura
 
 > *Donde los caballeros, al doblar la esquina, dejan de mirar el cielo y empiezan a mirarse las espuelas: ahí, bajo los jamones colgados, empieza Florencia de verdad.*
 

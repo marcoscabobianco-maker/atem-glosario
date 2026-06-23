@@ -15,8 +15,6 @@ aliases:
  - "Shackles of the Pact"
 ---
 
-# Cadenas de Plata / Silver Chains / Shackles of the Pact
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cadenas_de_Plata.png]]
 <!-- /HEADER_IMG -->

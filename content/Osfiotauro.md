@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Osfiotauro"
 ---
-# Osfiotauro
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Osfiotauro.png]]

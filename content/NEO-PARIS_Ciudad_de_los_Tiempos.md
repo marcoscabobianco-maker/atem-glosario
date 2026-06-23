@@ -20,7 +20,6 @@ tags:
  - cdi
 imagen: Imagenes_Tier1/NEO-PARIS_Ciudad_de_los_Tiempos.png
 ---
-# NEO-PARÍS — Ciudad de los Tiempos
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/NEO-PARIS_Ciudad_de_los_Tiempos.png]]

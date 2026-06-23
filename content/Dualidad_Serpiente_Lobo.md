@@ -12,7 +12,6 @@ aliases:
  - "Dualidad Serpiente"
  - "Lobo"
 ---
-# Dualidad Serpiente / Lobo
 
 ## Presentación
 

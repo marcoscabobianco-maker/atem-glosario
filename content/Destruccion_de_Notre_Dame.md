@@ -29,7 +29,6 @@ tags:
  - inferno
 imagen: null
 ---
-# La destrucción de Notre Dame
 
 > *"Hay catedrales que arden por accidente y catedrales que caen por designio. [[Catedral_de_Notre-Dame_PU|Notre Dame]] cayó porque tenía que caer. Lo que se guardaba bajo su suelo —laberintos templarios, esferas que obliteran, sanctorum cuyo aire era ya aire infernal— pedía la apertura de París. La catedral fue la cubierta. Su caída fue la apertura."* — del *[[Anti_Inferno|Coro del Descenso]]*, libro VIII.
 

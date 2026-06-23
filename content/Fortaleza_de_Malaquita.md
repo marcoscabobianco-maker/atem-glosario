@@ -23,7 +23,6 @@ tags:
  - pasillos-malaquita
 imagen: null
 ---
-# La Fortaleza de Malaquita
 
 > *"Los aventureros avanzaban con pasos calculados, rodeados de penumbra en los interminables pasillos de malaquita negra. La tenue luz de su lámpara fosforescente proyectaba sombras alargadas y danzantes sobre las paredes pulidas, creando la ilusión de movimientos donde no los había."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

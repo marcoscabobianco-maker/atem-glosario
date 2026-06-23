@@ -14,8 +14,6 @@ aliases:
  - "Muerte y Transformación de Patience"
 ---
 
-# Muerte y Transformación de Patience (NC06-NC07a)
-
 ## Presentación
 
 [[Anti_Inferno|la figura del segundo círculo]] es capturada a bordo del [[Flying_Dutchman_Holandes_Errante|Flying Dutchman]], sometida a ritual sacrificial donde acepta matar a un infante. Su familiar dice: "Merecés lo que soñás." Transforma en [[Sinspawn_Template|Sinspawn]]. cronista describe como "decisión deliberada hacia la oscuridad, no coerción." [[Evento]] pivotal del Arco I que redefine el personaje moral del grupo.

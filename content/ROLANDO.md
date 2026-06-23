@@ -4,8 +4,6 @@ aliases:
  - "ROLANDO"
 ---
 
-# ROLANDO
-
 ## Presentación
 
 **Tipo:** Caballero Templario (figura)

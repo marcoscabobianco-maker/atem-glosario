@@ -9,8 +9,6 @@ aliases:
  - "Familia Uránica"
 ---
 
-# Uránica
-
 ## Presentación
 
 De la casa Uránica el archivo conserva poco más que el nombre — y el nombre, en este caso, es casi todo. La raíz remite a Urano: cielo primordial para los antiguos, séptimo planeta para los modernos. Eso alcanza para sospechar que el linaje pertenece, o perteneció, al orden de las familias de advocación zodiacal y planetaria: esas casas que llevan por apellido un signo o un astro, como quien declara un destino en la portada.

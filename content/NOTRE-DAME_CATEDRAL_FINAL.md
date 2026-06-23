@@ -7,8 +7,6 @@ aliases:
  - "NOTRE-DAME"
 ---
 
-# NOTRE-DAME (CATEDRAL FINAL)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/NOTRE-DAME_CATEDRAL_FINAL.png]]
 <!-- /HEADER_IMG -->

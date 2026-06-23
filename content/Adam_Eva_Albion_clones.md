@@ -10,8 +10,6 @@ tags:
  - linaje
 ---
 
-# Adam Eva Albion clones
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Adam_Eva_Albion_clones.png]]
 <!-- /HEADER_IMG -->

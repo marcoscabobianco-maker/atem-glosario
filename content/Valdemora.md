@@ -15,8 +15,6 @@ tags:
  - empalizada
 ---
 
-# Valdemora
-
 > *"Valdemora con sus 400 habitantes se había convertido en un bastión de supervivientes y refugiados tras la desaparición de [[Ritornello]]."*
 
 ## Presentación

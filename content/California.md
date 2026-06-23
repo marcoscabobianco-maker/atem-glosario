@@ -10,8 +10,6 @@ aliases:
  - "California"
 ---
 
-# California
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/California.png]]
 <!-- /HEADER_IMG -->

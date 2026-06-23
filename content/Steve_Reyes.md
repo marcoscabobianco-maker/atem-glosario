@@ -12,8 +12,6 @@ aliases:
  - "Steve Reyes"
 ---
 
-# Steve Reyes
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Steve_Reyes.png]]
 <!-- /HEADER_IMG -->

@@ -7,8 +7,6 @@ aliases:
  - "Cambio de sucesos"
 ---
 
-# "Efectos mariposa" / Cambio de sucesos
-
 ## Presentación
 
 - **Debate del consejo templario tras la revelación del Apocalipsis:** Si el grupo identifica "factor causal original" del Apocalipsis, ¿pueden matarlo/prevenirlo?

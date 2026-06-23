@@ -14,8 +14,6 @@ aliases:
  - "David"
 ---
 
-# David
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/David.png]]
 <!-- /HEADER_IMG -->

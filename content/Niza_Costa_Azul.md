@@ -12,7 +12,6 @@ aliases:
  - "Costa Azul"
  - "Niza"
 ---
-# Niza (Costa Azul)
 
 ## Presentación
 

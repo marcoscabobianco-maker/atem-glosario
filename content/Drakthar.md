@@ -20,7 +20,6 @@ tags:
  - derrotado-bajo-tierra
 imagen: null
 ---
-# Drakthar
 
 > *"Algunos nobles —y quizás algo aún más peligroso— se beneficiaban del caos que Drakthar sembraba."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

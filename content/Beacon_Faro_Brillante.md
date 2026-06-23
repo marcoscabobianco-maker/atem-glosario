@@ -22,7 +22,6 @@ tags:
  - teletransportadores
  - chamber-of-beacon
 ---
-# Beacon / Faro Brillante
 
 > *La nave alienígena de los [[Rudishva]]. Se estrelló hace ~3.000 años. El Castillo Cristalino. Faro energético. El módulo de armas dejó la IA [[RAJ-750]] y el huevo que destruyó [[Ritornello]].*
 

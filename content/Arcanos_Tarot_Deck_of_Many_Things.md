@@ -8,7 +8,6 @@ aliases:
  - "Tarot — Deck of Many Things"
  - "Arcanos"
 ---
-# Arcanos (Tarot — [[Deck_of_Many_Things_variante_CDI|Deck of Many Things]])
 
 ## Presentación
 

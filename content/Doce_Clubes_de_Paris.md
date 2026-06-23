@@ -9,8 +9,6 @@ aliases:
  - "Doce Clubes de París"
 ---
 
-# Doce Clubes de París
-
 ## Presentación
 
 Estructura de poder político-religiosa en París post-liberación. Representan a doce dioses que debían sacrificarse para otorgar libertad a la humanidad en un "nuevo Renacer de la razón humana," pero que traicionaron ese pacto y se asentaron en posiciones de poder.

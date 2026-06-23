@@ -12,7 +12,6 @@ aliases:
  - "Elisteo"
 epoca: "1349 DR — Edad de los Reinos Olvidados — nacimiento"
 ---
-# Elisteo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Elisteo.png]]

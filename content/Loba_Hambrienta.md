@@ -5,7 +5,6 @@ tags:
 aliases:
  - "Loba Hambrienta"
 ---
-# Loba Hambrienta
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Loba_Hambrienta.png]]

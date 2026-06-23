@@ -21,8 +21,6 @@ tags:
  - mc
 ---
 
-# Sol-Luna
-
 > *Personaje de la era primordial. Elfo drow mago. Miembro de [[Los_Antiguos]]. Cae en el ataque a [[Mechanus]]. Vence a Takhishis junto a Minaya con la Lanza y la Gema.*
 
 ---

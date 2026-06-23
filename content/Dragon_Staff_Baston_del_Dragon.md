@@ -14,8 +14,6 @@ aliases:
  - "Bastón del Dragón"
 ---
 
-# Dragon Staff / Bastón del Dragón
-
 ## Presentación
 
 Artefacto mágico central del Arco III-IV. Cargarlo exige un conjuro del séptimo grado por cada carga. Vinculado al sistema de [[Cadenas_de_Plata_Silver_Chains_Shackles_of_the_Pact|Silver Chains]]. Creado dentro de la tradición de control de dragones (línea matrilineal [[Sequoia]]-[[Rebeca_Pocahontas|Rebeca]]-[[Secoya]]). Revelado como la espina dorsal de la esposa del [[Dragon_Verde|Dragón Verde]]. Las brujas del Holandés lo usaron obscenamente. Termina en manos del Profeta Negro en Nueva Ámsterdam. Tomwell es despedazado y su columna convertida en segundo Dragon Staff.

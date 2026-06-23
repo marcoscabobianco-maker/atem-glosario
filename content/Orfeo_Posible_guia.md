@@ -10,8 +10,6 @@ aliases:
  - "Orfeo"
 ---
 
-# Orfeo (Posible guía)
-
 ## Presentación
 
 - **Rol:** Emergente figura; posible Redención/[[Vito_Guia|Guía]]

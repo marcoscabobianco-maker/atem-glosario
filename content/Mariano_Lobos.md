@@ -19,8 +19,6 @@ aliases:
 imagen: null
 ---
 
-# Mariano Lobos
-
 > *Antes dormíamos con el fusil al lado. Ahora hay que pedir permiso hasta para acordarse.*
 
 ---

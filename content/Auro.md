@@ -19,7 +19,6 @@ tags:
  - castillo-del-prisma
  - abadon
 ---
-# Auro
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Auro.png]]

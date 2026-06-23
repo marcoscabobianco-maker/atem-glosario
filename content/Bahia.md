@@ -18,7 +18,6 @@ tags:
  - reguladores
 imagen: Imagenes_Tier1/Bahia.png
 ---
-# Bahía
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bahia.png]]

@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Vela_de_Invocacion_Dou-Frome.png
 ---
 
-# La Vela de Invocación de Dou-Frome
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Vela_de_Invocacion_Dou-Frome.png]]
 <!-- /HEADER_IMG -->

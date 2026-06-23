@@ -14,7 +14,6 @@ aliases:
  - "Medawin"
  - "Medawaywin"
 ---
-# Medawin / Medawaywin
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Medawin_Medawaywin.jpg]]

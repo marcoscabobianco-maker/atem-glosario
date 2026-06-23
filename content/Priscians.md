@@ -22,8 +22,6 @@ tags:
  - arcanum-forge
 ---
 
-# Priscians
-
 > *Orden secreta de hechiceros descendientes —o auto-proclamados— de los [[Sortianos]]. Han reocupado el viejo compound Sortian en el Suelo del Gran Abismo. [[Arcanum]] forge restaurada. [[Nerub_Null]] archmage.*
 
 ## Presentación

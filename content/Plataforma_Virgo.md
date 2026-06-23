@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Plataforma_Virgo.png
 ---
 
-# Plataforma de Virgo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Virgo.png]]
 <!-- /HEADER_IMG -->

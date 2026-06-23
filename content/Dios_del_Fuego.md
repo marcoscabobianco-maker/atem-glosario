@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Dios del Fuego"
 ---
-# Dios del Fuego
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dios_del_Fuego.png]]

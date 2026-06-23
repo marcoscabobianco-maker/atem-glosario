@@ -5,8 +5,6 @@ tags: ["concepto", "vala"]
 aliases: ["Casa Blanca", "Listasint", "Dragon Kings", "Dreys"]
 ---
 
-# Casa Blanca / Listasint / Dragon Kings
-
 Entre las siete casas del orbe Vala, la Casa Blanca ocupa una posición singular: es la casa que eligió no gobernar. Su asiento está en la Bahía Blanca, con las Torres Blancas en el sur como marcador visible de su presencia, pero hace generaciones que la Casa Blanca retiró su intención de ser gobernante de este mundo. No fue derrotada ni expulsada — se apartó. Los archivos la describen como guardiana por vocación, dormida por decisión.
 
 Su dominio más propio no está en el mundo principal sino en Listasint, la Luna del orbe Vala. Listasint es un mundo aparte, más pequeño que el mundo bajo, de climas extremos — veranos largos, inviernos largos — y pertenece por herencia y por vínculo a la Casa Blanca. Desde Listasint, y bajo la tutela de la Casa, operan los jinetes de los Dragon Kings: criaturas dracónicas del lado luminoso de la cosmología, que en algún punto de la historia debieron enfrentarse a los Dreys, dragones infieles o de color malvado aliados a entes oscuros de la Luna. Ese enfrentamiento entre Dragon Kings buenos y Dreys es uno de los episodios fundacionales del mapa de poder actual — una guerra que no terminó, que solo cambió de forma.

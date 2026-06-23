@@ -24,7 +24,6 @@ tags:
  - jueces-supra-divinos
 imagen: Imagenes_Tier1/Contienda_la.png
 ---
-# La Contienda
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Contienda_la.png]]

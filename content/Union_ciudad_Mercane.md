@@ -20,8 +20,6 @@ tags:
 imagen: Imagenes_Tier1/Union_ciudad_Mercane.png
 ---
 
-# Union, la ciudad Mercane
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Union_ciudad_Mercane.png]]
 <!-- /HEADER_IMG -->

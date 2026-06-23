@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Crónica Oblivion"
 ---
-# Crónica Oblivion
 
 ## Presentación
 

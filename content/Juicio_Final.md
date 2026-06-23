@@ -81,8 +81,6 @@ tags:
 epoca: "1375 DR — Edad de los Reinos Olvidados — derrota de Tiamat"
 ---
 
-# Juicio Final
-
 > [[Evento]] cosmogónico de 1375 DR. Minaya y [[Soluna]] vencen a Takhishis/Tiamat con la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]]. El tiempo retrocede 27 años (1375 → 1348 DR).
 
 ## Fuente primaria

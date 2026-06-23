@@ -12,7 +12,6 @@ aliases:
  - "conexión trans-campaña"
  - "Hundun ↔ Coyote"
 ---
-# Hundun ↔ Coyote (conexión trans-campaña)
 
 ## Presentación
 

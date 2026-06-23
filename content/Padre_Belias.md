@@ -22,7 +22,6 @@ tags:
  - ferviente-en-la-fe-nueva
 imagen: null
 ---
-# Padre Belias
 
 > *"El que abraza los Diez sin pedir explicaciones por los Doce es el sacerdote que el Imperio necesita en frontera. El que abraza los Diez después de preguntarse por los Doce es el sacerdote que la doctrina necesita en libro. El Padre Belias era de los primeros."* — Glosa marginal del cronista decadiano al *libro IX*, sobre los pastores de la marca.
 

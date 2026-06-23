@@ -20,7 +20,6 @@ tags:
  - jabalina
  - reguladores
 ---
-# Vara del Infinito
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Vara_del_Filosofo_Vara_del_Infinito.png]]

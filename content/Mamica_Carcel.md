@@ -9,8 +9,6 @@ aliases:
  - "Mamica Cárcel"
 ---
 
-# Mamica Cárcel
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mamica_Carcel.png]]
 <!-- /HEADER_IMG -->

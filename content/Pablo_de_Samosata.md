@@ -13,8 +13,6 @@ aliases:
  - "Pablo de Samosata"
 ---
 
-# Pablo de Samosata
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pablo_de_Samosata.png]]
 <!-- /HEADER_IMG -->

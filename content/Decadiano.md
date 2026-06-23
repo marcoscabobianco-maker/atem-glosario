@@ -22,8 +22,6 @@ tags:
 imagen: null
 ---
 
-# El Decadiano
-
 > *"Diez son los nombres que se invocan, ninguno con confianza, todos con disciplina."* — *Misal del Decadiano*, apertura del libro primero.
 
 Catedral nocturna en [[Catedral_de_Glastumville|Glastumville]], invierno temprano. Un copista anónimo —tonsurado, manos amarillas de tabaco helénico— termina una glosa en el margen del libro V. La frase apenas dice: *"el tiempo no es absoluto, es administrado"*. Pasarán meses antes de que esa línea cruce a las paredes del [[Palazzo_del_Tempo|Palazzo del Tempo]] de [[Paris_Ucronica|París]], atornillada al frente del escritorio de [[Iriarte|don José de Iriarte]]. La frase no nació en el aparato burocrático: nació en el silencio del scriptorium.

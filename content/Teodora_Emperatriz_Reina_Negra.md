@@ -11,7 +11,6 @@ aliases:
  - "Emperatriz"
  - "Teodora / Reina Negra"
 ---
-# Teodora (Emperatriz) / Reina Negra
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Teodora_Emperatriz_Reina_Negra.png]]

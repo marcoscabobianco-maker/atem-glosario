@@ -5,8 +5,6 @@ aliases:
  - "Armadura del Flamenco"
 ---
 
-# Armadura del Flamenco
-
 ## Presentación
 
 **Tipo:** Artefacto mágico, posiblemente demoníaco.

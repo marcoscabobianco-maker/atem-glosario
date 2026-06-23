@@ -5,8 +5,6 @@ aliases:
  - "Eje Temporal A.D.A. → ACTUALIZAR"
 ---
 
-# Eje Temporal [[Anno_Domini_Antiterra_ADA|A.D.A.]] → ACTUALIZAR
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Eje_Temporal_ADA.png]]
 <!-- /HEADER_IMG -->

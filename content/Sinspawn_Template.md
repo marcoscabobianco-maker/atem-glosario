@@ -13,8 +13,6 @@ aliases:
  - "Sinspawn"
 ---
 
-# Sinspawn (Marca de No-Muerte)
-
 ## Presentación
 
 Marca de no-muerte aplicada a [[Anti_Inferno|la figura del segundo círculo]] tras su muerte ritual en el [[Flying_Dutchman_Holandes_Errante|Flying Dutchman]]. Semejante al dhampir: fuerza y reflejos sobrehumanos, ingenio agudizado, presencia magnética; el cuerpo deja de ser cosa viva. Hambre sobrenatural, sensibilidad al sol, y un giro en la lealtad del alma. Patrón es entidad serpiente que exige reclutar compañeros.

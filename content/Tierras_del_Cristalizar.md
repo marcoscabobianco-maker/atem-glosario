@@ -24,8 +24,6 @@ tags:
 imagen: Imagenes_Tier1/Tierras_del_Cristalizar.png
 ---
 
-# Las Tierras del Cristalizar
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tierras_del_Cristalizar.png]]
 <!-- /HEADER_IMG -->

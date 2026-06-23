@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Salem
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Salem.png]]
 <!-- /HEADER_IMG -->

@@ -8,8 +8,6 @@ aliases:
  - "León"
 ---
 
-# León (Época Carlomagno, ~800 DC)
-
 ## Presentación
 
 - **Ubicación:** Sur de Granada (topografía: loma, río, futura iglesia)

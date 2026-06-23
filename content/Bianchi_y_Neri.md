@@ -15,7 +15,6 @@ tags:
  - dante
  - politica
 ---
-# Bianchi y Neri
 
 > *Una misma ciudad, una misma fe güelfa, partida en dos por un agravio venido de Pistoia: los Blancos y los Negros, que aprendieron a odiarse antes de saber por qué.*
 

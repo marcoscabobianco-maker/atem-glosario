@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# NYC moderno
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/NYC_moderno.png]]
 <!-- /HEADER_IMG -->

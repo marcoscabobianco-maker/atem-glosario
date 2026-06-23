@@ -11,8 +11,6 @@ aliases:
  - "Utah"
 ---
 
-# Utah
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Utah.png]]
 <!-- /HEADER_IMG -->

@@ -18,8 +18,6 @@ aliases:
 aa: "E.6 registro akashico depositado ; O.3 objeto de triple identificacion ; D.4 el ascenso a buscarlo [MC, A.D.A.]"
 ---
 
-# Lapis Philosophorum
-
 > *"Es la ciudad de los que encontraron la piedra filosofal, y la administran, claro."*
 > — el cuaderno veinticinco, sobre [[Torreluces]]
 

@@ -5,8 +5,6 @@ aliases:
  - "Breath of Life"
 ---
 
-# Breath of Life
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Breath_of_Life.png]]
 <!-- /HEADER_IMG -->

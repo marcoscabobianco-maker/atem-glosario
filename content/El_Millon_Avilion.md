@@ -25,8 +25,6 @@ aliases:
 imagen: null
 ---
 
-# El Millón (Avilión)
-
 > *Diez pisos de piedra neogótica donde se corta el bacalao. Adentro reciben a escritores famosos y, cuando cae la noche, se practica magia negra.*
 
 ---

@@ -5,8 +5,6 @@ aliases:
  - "Celadones"
 ---
 
-# Celadones
-
 ## Presentación
 
 **Tipo:** Criatura/entidad desconocida.

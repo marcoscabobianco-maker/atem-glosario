@@ -7,7 +7,6 @@ aliases:
  - "TE"
  - "La Ballena Blanca"
 ---
-# La Ballena Blanca (locación, TE)
 
 ## Presentación
 

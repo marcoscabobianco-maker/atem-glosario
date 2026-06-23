@@ -18,7 +18,6 @@ tags:
  - ataudes
  - misterio
 ---
-# Cuatro Espejos Negros
 
 > *Naves de unos 450 metros de alto. Ataúdes sobre la hierba. Llegan en 500 años. O estuvieron llegando antes.*
 

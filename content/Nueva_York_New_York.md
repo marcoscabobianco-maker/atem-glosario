@@ -17,8 +17,6 @@ aliases:
  - "New York"
 ---
 
-# Nueva York / New York
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Nueva_York_New_York.png]]
 <!-- /HEADER_IMG -->

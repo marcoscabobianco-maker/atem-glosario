@@ -21,7 +21,6 @@ tags:
  - "corona-del-norte"
 imagen: Imagenes_Tier1/Francis_Drake_Draco_Drake.png
 ---
-# Francis Drake — Draco Drake
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Francis_Drake_Draco_Drake.png]]

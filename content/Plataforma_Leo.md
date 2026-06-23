@@ -20,7 +20,6 @@ tags:
  - antorchas
 imagen: Imagenes_Tier1/Plataforma_Leo.png
 ---
-# Plataforma de Leo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Leo.png]]

@@ -8,7 +8,6 @@ aliases:
  - "CDI"
  - "Avatar de la Muerte"
 ---
-# Avatar de la Muerte (CDI)
 
 ## Presentación
 

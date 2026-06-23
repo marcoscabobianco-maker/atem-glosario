@@ -9,8 +9,6 @@ aliases:
  - "Vorn Kilsek de Rilauven"
 ---
 
-# Vorn
-
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->
 <!-- /HEADER_IMG -->

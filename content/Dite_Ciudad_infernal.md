@@ -8,7 +8,6 @@ aliases:
  - "Ciudad infernal"
  - "Dite"
 ---
-# Dite (Ciudad infernal)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dite_Ciudad_infernal.png]]

@@ -11,7 +11,6 @@ aliases:
  - "Prefectos del Tiempo"
  - "Subprefectura del Tiempo"
 ---
-# Prefectos del Tiempo / Subprefectura del Tiempo
 
 ## Presentación
 

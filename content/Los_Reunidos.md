@@ -12,8 +12,6 @@ aliases:
  - "Los Reunidos"
 ---
 
-# Los Reunidos
-
 ## Presentación
 
 Grupo o colectivo del cosmos compartido, documentado visualmente: usó al artista **[[Mohlitz]]** como inspiración visual para retratar a "los Reunidos alrededor del fuego, cerca del Pico del Águila." El nombre aparece también en el Catálogo MC como stub ("Reunidos los").

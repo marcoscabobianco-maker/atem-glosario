@@ -20,8 +20,6 @@ tags:
 imagen: null
 ---
 
-# Los Buscadores de Ardis Vala
-
 > *"Se llaman a sí mismos buscadores no porque hayan encontrado algo, sino porque saben que lo que vinieron a buscar todavía no está donde están mirando."*
 
 Posada de [[Estellara]], hace un mes. Cinco viajeros tomando vino caliente, [[Decio_Balmora|Decio]] el sexto, dos almas más al rincón anotando en libreta —Arkos entre ellas, recién contratado—. La conversación pasa de la cosecha local al estado de [[Valdemora]] y termina, como termina siempre últimamente, en el [[Palacio_del_Prisma]]. **No están de acuerdo sobre qué hacer.** Ninguno levanta la voz. Se separan a dormir sin haber decidido. *Al día siguiente, igual, descienden.* **Esta es su disciplina operativa.Los Buscadores de Ardis Vala** son **el grupo de aventureros centrales** del ciclo del [[Vala|mundo Vala]] en su fase actual —**la fase del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]** y, después del [[Hiato_15_Años_Ardis_Vala|Hiato]], **la fase de [[Valakhan_de_la_Bruma|Valakhan de la Bruma]]**—. **Heterogéneos por raza, clase y temperamento**, **unidos por la imposibilidad de irse del valle**, **a esta altura por costumbre tanto como por destino**.

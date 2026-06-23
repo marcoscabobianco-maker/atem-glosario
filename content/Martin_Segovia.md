@@ -13,8 +13,6 @@ aliases:
  - "Martín Segovia, baqueano"
 ---
 
-# Martín Segovia
-
 Baqueano de la frontera austral. Martín Segovia es de los que conocen el pastizal palmo a palmo, que leen el viento y el barro antes que cualquier mapa, y que llevan partidas entre fortines por caminos que no figuran en ningún expediente de la Comandancia. Su oficio es guiar; su desgracia, una deuda que ningún rastro ha podido saldar.
 
 Dos de sus hijos servían en el fortín del sur. Las autoridades los registraron como desertores. Segovia no acepta ese veredicto: insiste en que sus hijos no habrían abandonado la bandera, que "se desaparecieron", que algo o alguien los borró del mundo sin dejar cuenta. Esa convicción lo ancla a la frontera y lo convierte en guía para quienes también indagan en las desapariciones del sur, pues su dolor personal y su conocimiento del terreno apuntan en la misma dirección: hacia lo que nadie en la Comandancia quiere nombrar.

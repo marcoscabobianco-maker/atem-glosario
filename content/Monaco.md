@@ -16,7 +16,6 @@ tags:
  - madre
  - papi-balor
 ---
-# Mónaco
 
 > *Tullida aristócrata con látigo-cola en lugar de piernas. La que transformó a [[Cronos]] en gato. Madre de hijos devorados por Papi Balor.*
 

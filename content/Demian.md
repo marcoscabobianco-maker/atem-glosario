@@ -13,8 +13,6 @@ aliases:
  - "Demian"
 ---
 
-# Demian
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Demian.png]]
 <!-- /HEADER_IMG -->

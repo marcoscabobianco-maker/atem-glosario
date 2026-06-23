@@ -20,8 +20,6 @@ tags:
 imagen: null
 ---
 
-# Cetro de Absorción — implemento característico de los Priscians
-
 > *"Cuando este alúmine con nosotros, con el cetro de absorción, los magos a nosotros nos chupan tremendamente las pelotas."* — testimonio del Buscador despojado, tras la cámara octagonal.
 
 ---

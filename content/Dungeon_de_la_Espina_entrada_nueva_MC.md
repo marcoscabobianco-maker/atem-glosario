@@ -19,7 +19,6 @@ tags:
  - travesia
 imagen: Imagenes_Tier1/Dungeon_de_la_Espina_entrada_nueva_MC.png
 ---
-# Dungeon de la Espina — entrada nueva
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dungeon_de_la_Espina_entrada_nueva_MC.png]]

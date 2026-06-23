@@ -10,8 +10,6 @@ aliases:
  - "The Word Breakers"
 ---
 
-# The Word Breakers
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/The_Word_Breakers.png]]
 <!-- /HEADER_IMG -->

@@ -5,8 +5,6 @@ tags: ["personaje", "vala"]
 aliases: ["Nancon"]
 ---
 
-# Nancon
-
 Nancon es un bárbaro de los Wordbreakers cuya singularidad reside en una grieta entre el cuerpo y la voz: en el calor del combate, solo puede hablar en [[Aclo_(idioma)_y_Magia_Salvaje|aclo]], la lengua del más allá del velo, aunque su magia fluya con igual fuerza. Esta doble naturaleza lo sitúa en la frontera entre el mundo visible y aquello que lo bordea.
 
 Posee el don o la carga que se llama [[Atrox]]: cuando se activa, Nancon se vuelve más calculador, más frío, como si una voluntad distinta tomara el timón. Hay quienes dicen que ese estado alberga en su interior a un "niño del vacío", lugar de inocencia preservada en el centro del desorden. Sus dos dagas y el cordón áureo —el hilo astral que camina como sostén de la vida— son sus señas exteriores. La sombra que lo sigue, sin embargo, pertenece al emisario de [[Nyarlathotep]], el que está más allá del umbral.

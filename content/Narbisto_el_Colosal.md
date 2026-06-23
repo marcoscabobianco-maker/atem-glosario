@@ -25,7 +25,6 @@ tags:
  - linaje-weskenim
 imagen: null
 ---
-# Narbisto el Colosal
 
 > *"Los goblins de Ardisvala no son goblins del mito. Son hijos de los esclavos que el Imperio liberó al retirarse, y nietos de hijos abandonados que tuvieron que reinventarse pueblo bajo la piedra. Quien los lea como criaturas naturales del dungeon no entiende ni a los goblins ni al Imperio."* — del *[[Decadiano]]*, libro IX, sobre las poblaciones derivadas de la retirada postCisma.
 

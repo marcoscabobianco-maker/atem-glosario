@@ -5,8 +5,6 @@ aliases:
  - "Forbiddence Conjuro (Patriarca/Ángel)"
 ---
 
-# Forbiddence Conjuro ([[Patriarca]]/Ángel)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Forbiddence_Conjuro_Patriarca_Angel.png]]
 <!-- /HEADER_IMG -->

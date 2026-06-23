@@ -8,8 +8,6 @@ aliases:
  - "CÍCLOPE"
 ---
 
-# CÍCLOPE (también: "Cíclope del Laberinto", "Carcelero Demoniaco")
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/CICLOPE_tambien_Ciclope_del_Laberinto_Carcelero_Demoniaco.png]]
 <!-- /HEADER_IMG -->

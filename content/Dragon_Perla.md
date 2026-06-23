@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Dragón Perla"
 ---
-# Dragón Perla
 
 ## Presentación
 

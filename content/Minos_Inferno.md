@@ -12,7 +12,6 @@ aliases:
  - "Inferno"
  - "Minos"
 ---
-# Minos (Inferno)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Minos_Inferno.png]]

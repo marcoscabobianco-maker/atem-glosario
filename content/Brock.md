@@ -4,8 +4,6 @@ aliases:
  - "Brock"
 ---
 
-# Brock
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Brock.png]]
 <!-- /HEADER_IMG -->

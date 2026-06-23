@@ -13,8 +13,6 @@ aliases:
  - "Dragón Verde"
 ---
 
-# Dragón Verde
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dragon_Verde.jpg]]
 <!-- /HEADER_IMG -->

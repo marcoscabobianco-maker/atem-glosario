@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Princesa Urraca"
 ---
-# Princesa Urraca
 
 **Categoría:** personaje-historico
 

@@ -22,8 +22,6 @@ tags:
  - espina
 ---
 
-# Llave Dual (oro y espina)
-
 > *"La llave de oro y espina". Artefacto de afinación moral. Posesión de Alumine. Conecta con el Circuito de Medianoche / [[Obsidian_Gates_Midnight_Road|Obsidian Gates]]. Una llave que el demonio negoció con la espada en el regreso tras el Hiato.*
 
 ## Presentación

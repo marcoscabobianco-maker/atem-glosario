@@ -13,7 +13,6 @@ aliases:
  - "Plataforma"
  - "Aldebarán"
 ---
-# Aldebarán (Estrella / Plataforma)
 
 ## Presentación
 

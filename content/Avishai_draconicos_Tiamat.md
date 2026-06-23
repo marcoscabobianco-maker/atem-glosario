@@ -10,7 +10,6 @@ aliases:
  - "Avishai"
 wikipedia: https://es.wikipedia.org/wiki/Tiamat
 ---
-# Avishai (dracónicos, Tiamat)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Avishai_draconicos_Tiamat.png]]

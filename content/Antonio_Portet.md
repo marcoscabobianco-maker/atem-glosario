@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# Antonio Portet
-
 > *Perdí mi norte.*
 
 ---

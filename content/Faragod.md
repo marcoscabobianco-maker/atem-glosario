@@ -23,8 +23,6 @@ tags:
  - sven
 ---
 
-# Faragod
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Faragod.png]]
 <!-- /HEADER_IMG -->

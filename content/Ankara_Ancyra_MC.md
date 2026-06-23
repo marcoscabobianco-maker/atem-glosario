@@ -16,8 +16,6 @@ aliases:
  - "Ankara / Ancyra"
 ---
 
-# Ankara / Ancyra (MC)
-
 ## Presentación
 
 "Ancylae" significa ancla. En el cosmos compartido: primer lugar de la Caída. [[Zenobia_de_Palmyra|Zenobia de Palmyra]] la conquistó con ayuda sasánida. Capital del estado de Galatia (280-64 a.C.), creado por galos inmigrantes de Tracia. Hay también una Ankara en Georgia, [[Tartaria]] (tierra de los osetas).

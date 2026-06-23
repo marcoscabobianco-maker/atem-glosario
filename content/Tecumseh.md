@@ -17,8 +17,6 @@ tags:
 imagen: Imagenes_Tier1/Tecumseh.jpg
 ---
 
-# Tecumseh
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tecumseh.jpg]]
 <!-- /HEADER_IMG -->

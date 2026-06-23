@@ -77,7 +77,6 @@ tags:
  - "clarisa"
  - "calendario-megacampana"
 ---
-# Calendario
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Calendario.png]]

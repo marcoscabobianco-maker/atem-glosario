@@ -9,8 +9,6 @@ aliases:
  - Demonio_Nocturna_S14
 ---
 
-# Demonio Nocturna
-
 ## Presentación
 
 Figura femenina demoníaca que aparece durante la guardia nocturna del grupo. Descripción: alas, cuernos, ojos rojos, túnica azul, cola, daga en forma de estrella. Se sienta junto a una pequeña fogata a 20-30 metros del campamento.

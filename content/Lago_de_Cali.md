@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Lago de Cali"
 ---
-# Lago de Cali
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lago_de_Cali.png]]

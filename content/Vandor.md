@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# Vandor
-
 > *Primero golpear, después negociar.*
 
 ---

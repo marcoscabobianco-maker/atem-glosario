@@ -7,8 +7,6 @@ aliases:
  - "ONE DIES"
 ---
 
-# ONE DIES (Símbolo de muerte)
-
 ## Presentación
 
 **Tipo:** Negrománcia / Encantamiento

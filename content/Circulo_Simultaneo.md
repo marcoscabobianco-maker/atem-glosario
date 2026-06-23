@@ -22,7 +22,6 @@ tags:
  - mano-negra
  - inevitable
 ---
-# El Círculo Simultáneo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Circulo_Simultaneo.png]]

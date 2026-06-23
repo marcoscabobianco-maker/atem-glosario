@@ -15,8 +15,6 @@ aliases:
  - "Black Butterfly"
 ---
 
-# Mariposa Negra / Black Butterfly
-
 ## Presentación
 
 Guardiana de todos los mundos (entidad multiversal). **[[Aprisionada_por_las_decisiones_del_grupo]].** Los [[Les_Libertateurs_Pretty_Women|Pretty Women]] priorizaron ESTE mundo sobre infinitos otros. Representa la consecuencia no intencionada de su victoria. Ironía de "[[Libertateurs]]": liberan pero también aprisionan. El resto del cosmos es afectado por su elección. La campaña termina con ambigüedad moral, no con victoria limpia.

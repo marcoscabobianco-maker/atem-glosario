@@ -5,8 +5,6 @@ aliases:
  - "Robe of Useful Items + Duskwalker Cloak"
 ---
 
-# Robe of Useful Items + Duskwalker Cloak
-
 ## Presentación
 
 **Robe:** Contiene herramientas básicas + 14 cubos grises de sustancia volátil

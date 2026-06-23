@@ -9,7 +9,6 @@ tags:
 aliases:
  - "La Londra"
 ---
-# La Londra
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Londra.png]]

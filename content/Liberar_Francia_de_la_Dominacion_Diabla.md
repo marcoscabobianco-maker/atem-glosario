@@ -15,8 +15,6 @@ aliases:
  - "dominación diabla"
 ---
 
-# Liberar Francia de la dominación diabla
-
 ## Presentación
 
 Hacia 1890, París quedó bajo yugo infernal: [[Lord_Gaul]] entró en la ciudad al frente de una legión [[Baatezu]], y sobre [[Francia]] entera se asentó lo que las crónicas llaman la dominación diabla. Contra ese dominio se alzó la empresa central del arco parisino: una conjura que devino revolución, cuyo grito fue «Francia Libre en Antiterra».

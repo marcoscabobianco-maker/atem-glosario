@@ -9,8 +9,6 @@ aliases:
  - "Pape Satan aleppe"
 ---
 
-# **Papé Satàn, papé Satàn, aleppe!**
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pape_Satan_pape_Satan_aleppe.png]]
 <!-- /HEADER_IMG -->

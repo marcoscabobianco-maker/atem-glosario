@@ -14,8 +14,6 @@ aliases:
 imagen: Imagenes_Tier1/Artefacto_Engranaje.png
 ---
 
-# Artefacto Engranaje
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Artefacto_Engranaje.png]]
 <!-- /HEADER_IMG -->

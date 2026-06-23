@@ -18,8 +18,6 @@ aliases:
  - "la inmolación de Terra"
 ---
 
-# Septiembre Negro — 11 de septiembre de 1901 A.D.A.
-
 > *"El sombrero del burgués sale volando de su cabeza puntiaguda. Mil gritos estremecen el aire. Las tejas se salen de los techos y se parten en dos. El nivel del mar sube en la costa. La tormenta ya está aquí. Las locomotoras se caen de los puentes."*
 > — poema famoso entre los históricos de Terra, dicho por primera vez en un oscuro cabaret de Berlín
 

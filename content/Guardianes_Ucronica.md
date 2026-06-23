@@ -10,8 +10,6 @@ aliases:
  - "Guardianes"
 ---
 
-# Guardianes (Ucrónica)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Guardianes_Ucronica.png]]
 <!-- /HEADER_IMG -->

@@ -18,7 +18,6 @@ tags:
  - hostia
  - infiltracion
 ---
-# Krisina
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Krisina.png]]

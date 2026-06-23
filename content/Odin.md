@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Odín"
 ---
-# Odín
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Odin.png]]

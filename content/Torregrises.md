@@ -13,7 +13,6 @@ tags:
 aliases:
  - "Torregrises"
 ---
-# Torregrises
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torregrises.png]]

@@ -10,8 +10,6 @@ aliases:
  - "Plataformas"
 ---
 
-# Plataformas (Ucrónica)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataformas_Ucronica.png]]
 <!-- /HEADER_IMG -->

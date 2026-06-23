@@ -22,8 +22,6 @@ tags:
 imagen: null
 ---
 
-# La Diosa del Mazo de Muchas Cosas
-
 > *"Así quedó establecido el mito fundador de [[Caldero]]: la llama de la sabiduría despertada por la diosa juguetona, unida a la fuerza primigenia del volcán, dio forma a la vida y a la unión de los distintos linajes en una sola ciudad. Aun hoy, los ancianos repiten la historia de la diosa y el Mazo de Muchas Cosas para recordar a cada generación que el fuego de la inteligencia, bien encauzado, puede forjar un hogar común en medio de las adversidades."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*.
 
 ---

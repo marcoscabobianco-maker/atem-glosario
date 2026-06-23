@@ -21,8 +21,6 @@ tags:
 imagen: null
 ---
 
-# Jaromir
-
 > *"Entre ellos, un niño llamado Jaromir parecía ser clave. Estaba visiblemente aterrorizado, perturbado por pesadillas recurrentes que mencionaban figuras oscuras que lo acechaban."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

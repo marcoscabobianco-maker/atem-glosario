@@ -11,8 +11,6 @@ aliases:
  - "El Paradigma Enterrado"
 ---
 
-# Lisandra / El Solitario / El Paradigma Enterrado
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lisandra_El_Solitario_El_Paradigma_Enterrado.png]]
 <!-- /HEADER_IMG -->

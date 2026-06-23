@@ -20,7 +20,6 @@ tags:
  - conspiracion-paralela-torre-obsidiana
 imagen: null
 ---
-# Torres Gemelas
 
 > *"Dos torres que se miran. La una corrige a la otra; la otra niega a la una. Entre ambas hay un pabellón, y en el pabellón ocurre lo que las dos torres no admiten por separado."* — del *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de [[Narsileon]].
 

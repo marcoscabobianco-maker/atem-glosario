@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Kakel Angal"
 ---
-# Kakel Angal
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kakel_Angal.png]]

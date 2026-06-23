@@ -7,7 +7,6 @@ tags:
 aliases:
  - "El Etrusco"
 ---
-# El Etrusco
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Etrusco.png]]

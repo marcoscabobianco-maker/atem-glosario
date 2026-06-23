@@ -11,8 +11,6 @@ aliases:
  - "Wander"
 ---
 
-# Wander
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Wander.png]]
 <!-- /HEADER_IMG -->

@@ -29,7 +29,6 @@ tags:
  - linaje-de-dragones
 imagen: Imagenes_Tier1/Tiamat_MC.png
 ---
-# La Reina Oscura
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tiamat_MC.png]]

@@ -9,8 +9,6 @@ aliases:
  - "GUADANA AXIOMATICA Arsvan"
 ---
 
-# Guadaña Axiomática
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Guadana_Axiomatica.png]]
 <!-- /HEADER_IMG -->

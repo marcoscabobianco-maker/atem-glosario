@@ -21,8 +21,6 @@ aliases:
  - "Amanecer Plateado"
 ---
 
-# Logia Anael
-
 > *Tiene factura, es legal; pero detrás de la escuadra y el compás opera otra cosa, mucho menos clara.*
 
 ## La logia de la derecha

@@ -23,8 +23,6 @@ tags:
  - compañero-
 ---
 
-# Zoro / Dr. Zoulu
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Zoro_Dr_Zoulu.png]]
 <!-- /HEADER_IMG -->

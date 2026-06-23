@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Tempestari"
 ---
-# Tempestari
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tempestari.png]]

@@ -21,7 +21,6 @@ tags:
  - hermenautica
 imagen: Imagenes_Tier1/Cuervos_club_13.png
 ---
-# El Club de los Cuervos
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cuervos_club_13.png]]

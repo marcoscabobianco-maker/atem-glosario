@@ -10,7 +10,6 @@ aliases:
  - "Estilo de Combate"
  - "Ala del Cuervo"
 ---
-# Ala del Cuervo (Estilo de Combate)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ala_del_Cuervo_Estilo_de_Combate.png]]

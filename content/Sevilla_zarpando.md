@@ -4,8 +4,6 @@ aliases:
  - "Sevilla zarpando"
 ---
 
-# Sevilla zarpando
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sevilla_zarpando.png]]
 <!-- /HEADER_IMG -->

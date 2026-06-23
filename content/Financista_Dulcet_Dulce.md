@@ -8,7 +8,6 @@ aliases:
  - "Dulce"
  - "Financista Dulcet"
 ---
-# Financista Dulcet (Dulce)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Financista_Dulcet_Dulce.png]]

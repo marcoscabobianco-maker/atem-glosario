@@ -19,7 +19,6 @@ tags:
  - peace-door
  - rastite-lotus
 ---
-# Thegan Whitemane
 
 > *60 años, pelo plateado, estética rock. Mel Gibson de melena blanca. Dueño de la [[Troll_Lifts_Arena|Inn of the Lost]] en los Troll Lifts. Mantiene secretos profundos bajo la zona de paz.*
 

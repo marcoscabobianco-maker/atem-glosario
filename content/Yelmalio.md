@@ -4,8 +4,6 @@ aliases:
  - "Yelmalio"
 ---
 
-# Yelmalio
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Yelmalio.png]]
 <!-- /HEADER_IMG -->

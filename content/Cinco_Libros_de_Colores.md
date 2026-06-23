@@ -18,8 +18,6 @@ tags:
 imagen: Imagenes_Tier1/Cinco_Libros_de_Colores.png
 ---
 
-# Los Cinco Libros de Colores
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cinco_Libros_de_Colores.png]]
 <!-- /HEADER_IMG -->

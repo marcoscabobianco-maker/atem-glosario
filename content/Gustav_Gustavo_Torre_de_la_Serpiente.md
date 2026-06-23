@@ -13,7 +13,6 @@ aliases:
  - "Torre de la Serpiente"
  - "Gustav / Gustavo"
 ---
-# Gustav / Gustavo (Torre de la Serpiente)
 
 ## Presentación
 

@@ -21,7 +21,6 @@ tags:
  - panteon-posmoderno
 imagen: Imagenes_Tier1/Argivah.png
 ---
-# Argivah — el reino bajo la Gran Mano de Sabas
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Argivah.png]]

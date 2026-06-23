@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Prisión del Toro"
 ---
-# Prisión del Toro
 
 ## Presentación
 

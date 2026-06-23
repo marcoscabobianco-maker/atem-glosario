@@ -8,7 +8,6 @@ aliases:
  - "Sheridan"
  - "Sheridrón"
 ---
-# Sheridan / Sheridrón
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sheridan_Sheridron.png]]

@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Crapulia"
 ---
-# Crapulia
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Crapulia.png]]

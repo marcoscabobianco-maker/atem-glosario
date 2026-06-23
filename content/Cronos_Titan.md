@@ -20,7 +20,6 @@ tags:
  - arian
  - distinto-de-kronamon
 ---
-# Cronos (titán)
 
 > *Titán propietario original de la [[Taberna_de_la_Serpiente_Mundo]]. Transformado en gato por [[Monaco|Mónaco]]. Después, mano de Arian contra los exarcas. NO es [[Kronamon]].*
 

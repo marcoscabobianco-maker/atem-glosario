@@ -8,8 +8,6 @@ aliases:
  - "Emily Larson"
 ---
 
-# Emily Larson (TNW)
-
 ## Presentación
 
 **Ref.:** Resumen

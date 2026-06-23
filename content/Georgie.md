@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Georgie"
 ---
-# Georgie
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Georgie.png]]

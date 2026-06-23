@@ -8,8 +8,6 @@ aliases:
  - "Ejecución de Kronamon"
 ---
 
-# Ejecución de Kronamon
-
 ## Presentación
 
 Disparo y decapitación planeados. [[Astilla_de_la_Veracruz|Astilla Vera Cruz]] alojada en ojo izquierdo, desplomó desde altura tras decapitación (fuerza aún oculta).

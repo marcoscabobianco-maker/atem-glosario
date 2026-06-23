@@ -26,7 +26,6 @@ tags:
  - madre-thorcin
 imagen: null
 ---
-# Lady Alexia Basileon — la Dama Verde
 
 > *"La hermana mayor de las casas que tienen barones no aspira a baronía. Aspira a la silla del padre. El archivo lo entiende cuando empieza a contar las regalias que ella va comprando, una a una, a los anticuarios del valle."* — anotación marginal del cronista decadiano al *libro VII*, sobre las sucesiones laterales del Imperio.
 

@@ -8,8 +8,6 @@ aliases:
  - "Hinauros"
 ---
 
-# Hinauros
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Hinauros.png]]
 <!-- /HEADER_IMG -->

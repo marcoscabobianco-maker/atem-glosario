@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Apkalu"
 ---
-# Apkalu
 
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->

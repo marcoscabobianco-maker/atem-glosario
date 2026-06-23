@@ -12,7 +12,6 @@ aliases:
  - "Coyote"
 wikipedia: https://es.wikipedia.org/wiki/Coyote_(mitolog%C3%ADa)
 ---
-# Coyote (Texas Ranger)
 
 ## Presentación
 

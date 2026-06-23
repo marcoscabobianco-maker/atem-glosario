@@ -14,8 +14,6 @@ tags:
  - ardis-vala
 ---
 
-# Ravenloft (Dominio de Ardis Vala) — REDIRECT
-
 > *Esta entrada redirige a **[[Valakhan_de_la_Bruma]]**, nombre canónico del dominio Ravenloft sobre [[Ardis_Vala]].*
 
 ## Redirige a

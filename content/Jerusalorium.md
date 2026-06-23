@@ -5,8 +5,6 @@ aliases:
  - "Jerusalorium"
 ---
 
-# Jerusalorium
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Jerusalorium.png]]
 <!-- /HEADER_IMG -->

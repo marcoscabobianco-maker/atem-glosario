@@ -20,8 +20,6 @@ tags:
  - arcanum-forge
 ---
 
-# Nerub Null
-
 > *Archmage. Líder de los [[Priscians]] en [[Ardis_Vala|Arden Vul]]. Redescubrió y reocupó el compound Sortiano en el Suelo del Gran Abismo. Restauró parcialmente la [[Arcanum_Forge]].*
 
 ## Presentación

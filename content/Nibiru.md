@@ -5,8 +5,6 @@ tags: ["personaje", "vala"]
 aliases: ["Nibiru"]
 ---
 
-# Nibiru
-
 Nibiru es monje y dragonkin de los Wordbreakers: guerrero de estirpe antigua cuya genealogía lo ata a la [[Casa_Blanca_Listasint_Dragon_Kings|Casa Blanca]], el linaje guardián del sur que hoy permanece ausente del gobierno del mundo. Su nombre es el del punto de cruce, el planeta que señala la intersección de los caminos.
 
 La Casa Blanca está vinculada a la Luna —[[Eilistraee]], la diosa del lado luminoso de los dragones— y dividida en dos naturalezas: los Dreys, dragones de oscuridad que habitan el lado oculto del mundo lunar, y los jinetes de Dragon King, guardianes del lado claro. Nibiru es el signo de quien podría restaurar el linaje: figura mesiánica latente, heredero de una casa que cedió el gobierno pero no olvidó su origen. El camino del monje que practica no es una técnica marcial ordinaria sino una disciplina de vidas pasadas, de estirpe que persiste a través de las encarnaciones.

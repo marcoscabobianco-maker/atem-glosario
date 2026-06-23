@@ -17,7 +17,6 @@ tags:
  - humilde
  - tumba
 ---
-# No-Voy-Yo / Novoyo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Novoyo.png]]

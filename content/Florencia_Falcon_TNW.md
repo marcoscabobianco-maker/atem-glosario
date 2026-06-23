@@ -10,8 +10,6 @@ aliases:
  - "Florencia Falcón"
 ---
 
-# Florencia Falcón (TNW)
-
 ## Presentación
 
 **el plano operativo:** Figura del círculo del archivo. Se incorpora al ciclo en las jornadas finales (7–9). Lleva "la parte de los rusos" — posiblemente la guardiana rusa o un personaje asociado al campamento soviético. Distinta de Flor (la feminista invitada de jornadas anteriores).

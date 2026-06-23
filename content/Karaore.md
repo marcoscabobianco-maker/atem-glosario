@@ -11,8 +11,6 @@ aliases:
  - "Karađorđe"
 ---
 
-# Karađorđe
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Karaore.png]]
 <!-- /HEADER_IMG -->

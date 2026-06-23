@@ -13,8 +13,6 @@ aliases:
  - "Harpers"
 ---
 
-# Harpers (Contexto Mediterraneum)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Harpers_Contexto_Mediterraneum.png]]
 <!-- /HEADER_IMG -->

@@ -32,7 +32,6 @@ linaje:
  maestro: "[[Valteran]]"
 aa: "P.1 voto roto por amor ; F.2 doble perdon estructurante ; Z.4 ascension a la casilla divina ; M.1 decapitacion cosmogonica ; A.2 esquiva las aguas del olvido [MC, CDI]"
 ---
-# Arian
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Arian.png]]

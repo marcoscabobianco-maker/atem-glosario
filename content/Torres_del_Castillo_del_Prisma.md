@@ -5,7 +5,6 @@ tags:
 aliases:
  - "Torres del Castillo del Prisma"
 ---
-# Torres del Castillo del Prisma
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torres_del_Castillo_del_Prisma.png]]

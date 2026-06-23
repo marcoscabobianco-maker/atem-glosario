@@ -19,8 +19,6 @@ tags:
  - forja-arcanum
 ---
 
-# Arcanum
-
 > *Sustancia mágica primordial. Circula en las venas de [[Ardis_Vala]]. Codiciada por todos. Posiblemente durmiente post-hiato.*
 
 ## Presentación

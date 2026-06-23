@@ -22,7 +22,6 @@ tags:
  - tarifas-imperiales
 imagen: null
 ---
-# Mercaderes Factoriales
 
 > *"Los Mercaderes Factoriales no compiten con la Hermandad Benévola: la complementan. Lo oficial necesita lo clandestino para saber dónde no llega; lo clandestino necesita lo oficial para saber qué precio rebajar."*
 

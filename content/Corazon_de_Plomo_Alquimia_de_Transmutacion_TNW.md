@@ -18,7 +18,6 @@ tags:
  - gary-tnw
 imagen: Imagenes_Tier1/Corazon_de_Plomo_Alquimia_de_Transmutacion_TNW.png
 ---
-# Corazón de Plomo — Alquimia de Transmutación
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Corazon_de_Plomo_Alquimia_de_Transmutacion_TNW.png]]

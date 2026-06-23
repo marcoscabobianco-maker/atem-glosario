@@ -4,8 +4,6 @@ aliases:
  - "Diomira"
 ---
 
-# Diomira
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Diomira.png]]
 <!-- /HEADER_IMG -->

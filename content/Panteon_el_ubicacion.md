@@ -11,7 +11,6 @@ aliases:
  - "ubicación"
  - "Panteón, el"
 ---
-# Panteón, el (ubicación)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Panteon_el_ubicacion.png]]

@@ -15,8 +15,6 @@ aliases:
  - "Todos los apocalipsis juntos"
 ---
 
-# Apocalipsis múltiple
-
 ## Presentación
 
 El archivo conserva, en tinta verde del cuaderno sesenta y siete, página veintiséis, una anotación que cabe en un puño y anuncia el fin de todo. Corre sobre la misma página que guarda la genealogía de los doce hijos de [[Maleika_Maleyka]], como si el registro de los nacimientos exigiera, en el mismo folio, el registro de la clausura. Dice:

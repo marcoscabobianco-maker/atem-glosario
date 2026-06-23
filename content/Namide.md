@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Namide"
 ---
-# Namide
 
 ## Presentación
 

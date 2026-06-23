@@ -5,8 +5,6 @@ aliases:
 referenciado_por: 8
 ---
 
-# Axum
-
 ## Referencias entrantes
 
 Esta entrada es mencionada desde:

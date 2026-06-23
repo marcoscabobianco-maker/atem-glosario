@@ -21,7 +21,6 @@ tags:
 
  - caldero
 ---
-# Franja de la Disolución
 
 > *La línea cósmica que separa las dos mitades opuestas dentro de cada plataforma del [[Universo_Dual_TG|Universo Dual]]. Donde Terra y [[Antiterra]] iban a colisionar, donde Vala se talló como arca.*
 

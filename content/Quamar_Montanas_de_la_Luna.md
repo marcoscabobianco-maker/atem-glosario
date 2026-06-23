@@ -13,8 +13,6 @@ aliases:
  - "Quamar, las montañas de la luna"
 ---
 
-# Quamar, las Montañas de la Luna
-
 ## Presentación
 
 **Quamar** —las **montañas de la luna**— es el origen del Nilo en la geografía de la [[Egipciana_Revolt|Revuelta Egipciana]]: montañas de **blancura resplandeciente** donde **se forjan los astros plateados** — y las armas de los rebeldes. El nombre conserva la voz árabe de la luna (*qamar*) y la geografía legendaria de Ptolomeo: las *Lunae Montes* de donde los antiguos hacían nacer el río.

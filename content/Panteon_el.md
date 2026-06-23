@@ -11,8 +11,6 @@ aliases:
  - "Panteón, el"
 ---
 
-# Panteón, el
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Panteon_el.png]]
 <!-- /HEADER_IMG -->

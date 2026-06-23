@@ -18,7 +18,6 @@ tags:
  - peligro-biologico
 imagen: Imagenes_Tier1/Esfera_de_Zygomind.png
 ---
-# La Esfera de Zygomind
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Esfera_de_Zygomind.png]]

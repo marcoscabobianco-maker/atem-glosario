@@ -10,8 +10,6 @@ tags:
  - mitico
 ---
 
-# Thunderbird
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Thunderbird.png]]
 <!-- /HEADER_IMG -->

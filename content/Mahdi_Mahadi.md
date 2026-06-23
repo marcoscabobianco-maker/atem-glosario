@@ -18,8 +18,6 @@ aliases:
  - "Mahdi-Graz'zt"
 ---
 
-# Mahdi / Mahadi
-
 ## Presentación
 
 **Mahadi** — así, con la *a* intermedia que el cuaderno sesenta y siete conserva en su página veintitrés, y que el archivo preserva como forma canónica — es el **rol mesiánico que [[Grazzt|Graz'zt]] asume en su último plan**, fechado el once de septiembre de 1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]], el septiembre que las crónicas llaman negro. El cuaderno lo enuncia entero en una sola línea: *"El poder del Altísimo, una última cruzada de la que él es profeta, el Mahadi."* En las teologías del desierto, *Mahdi* — "el guiado" — nombra al redentor de los últimos días, el que precede al Juicio; la grafía estándar de los archivos es esa, pero el cronista no corrige lo que el cuaderno asienta.

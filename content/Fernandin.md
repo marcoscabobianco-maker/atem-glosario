@@ -18,7 +18,6 @@ tags:
  - reliquia
  - resurreccion
 ---
-# Fernandín
 
 > *El paje del pueblo menudo a quien la selva oscura devoró por dentro y por fuera, y a quien la crónica, que lo vio caer, no supo nombrar de otro modo que santo.*
 

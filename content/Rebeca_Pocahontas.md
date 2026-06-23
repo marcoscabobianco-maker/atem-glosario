@@ -12,8 +12,6 @@ aliases:
  - "Pocahontas"
 ---
 
-# Rebeca / Pocahontas
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Rebeca_Pocahontas.png]]
 <!-- /HEADER_IMG -->

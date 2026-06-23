@@ -14,8 +14,6 @@ tags:
  - stub
 ---
 
-# Los Trece Brazos
-
 > *Grupo aventurero anterior a los Reguladores. Uno de los nombres grandes del mundo aventurero de su época.*
 
 ## Presentación

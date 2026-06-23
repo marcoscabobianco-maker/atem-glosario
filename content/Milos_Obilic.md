@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Miloš Obilic"
 ---
-# Miloš Obilic
 
 **Categoría:** personaje-historico
 

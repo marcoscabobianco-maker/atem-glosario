@@ -10,8 +10,6 @@ aliases:
  - "Reina Zara"
 ---
 
-# Reina Zara
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Reina_Zara.png]]
 <!-- /HEADER_IMG -->

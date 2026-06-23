@@ -14,8 +14,6 @@ tags:
  - taberna-serpiente-mundo
 ---
 
-# Luquimia
-
 > *Tullida con ojos de medusa. Nativa de Limbo. Una de las cuatro miembros principales del grupo de [[Las_Tullidas]].*
 
 ## Presentación

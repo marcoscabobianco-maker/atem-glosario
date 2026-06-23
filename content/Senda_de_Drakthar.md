@@ -22,8 +22,6 @@ tags:
 imagen: null
 ---
 
-# La Senda de Drakthar
-
 > *"Una misión donde se topan con oscuros, [[Drakthar]] y las fuerzas del [[Shadowfell]]. Teo pierde un brazo para salvar a un compañero, lo que forja definitivamente la unión de [[La_Jabalina]]."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

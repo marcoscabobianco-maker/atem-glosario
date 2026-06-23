@@ -12,8 +12,6 @@ aliases:
  - "Círculo Rojo"
 ---
 
-# Red Negra / Círculo Rojo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Red_Negra_Circulo_Rojo.png]]
 <!-- /HEADER_IMG -->

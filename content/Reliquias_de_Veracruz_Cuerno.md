@@ -4,8 +4,6 @@ aliases:
  - "Reliquias de Veracruz Cuerno"
 ---
 
-# Reliquias de Veracruz Cuerno
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Reliquias_de_Veracruz_Cuerno.png]]
 <!-- /HEADER_IMG -->

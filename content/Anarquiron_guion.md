@@ -15,8 +15,6 @@ aliases:
  - "Anarquirón"
 ---
 
-# Anarquirón (guión)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Anarquiron_guion.png]]
 <!-- /HEADER_IMG -->

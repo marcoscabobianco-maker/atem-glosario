@@ -8,7 +8,6 @@ aliases:
  - "TNW"
  - "Ray"
 ---
-# Ray (TNW)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ray_TNW.png]]

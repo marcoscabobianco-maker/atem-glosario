@@ -24,8 +24,6 @@ aliases:
 imagen: null
 ---
 
-# Rómulo Ezzayeche
-
 > *Iba a ser muchas cosas y no fui ninguna; recién ahora me entero de para qué servía.*
 
 ---

@@ -24,7 +24,6 @@ tags:
  - polo-oscuro
 imagen: null
 ---
-# Tod-Set
 
 > *"Set no destruye al orden: lo prueba. La doctrina ortodoxa quiere que el caos sea ausencia de orden. La doctrina archontea sabe que el caos es operador del orden, no su negación."*
 

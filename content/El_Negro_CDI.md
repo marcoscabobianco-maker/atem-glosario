@@ -4,8 +4,6 @@ aliases:
  - "El Negro CDI"
 ---
 
-# El Negro CDI
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Negro_CDI.png]]
 <!-- /HEADER_IMG -->

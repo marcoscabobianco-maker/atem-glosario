@@ -3,7 +3,6 @@ title: "Los Profundos (ANQ1)"
 aliases:
  - "Los Profundos (ANQ1)"
 ---
-# Los Profundos (ANQ1)
 
 ## Presentación
 

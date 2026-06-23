@@ -21,7 +21,6 @@ tags:
  - brazo-teo
 imagen: null
 ---
-# Yathrebu
 
 > *"Bajo [[Caldero]] no se baja. Se desciende. La diferencia la pone la luz, que abajo no opera; lo que opera abajo es otra cosa, y la otra cosa se llama Yathrebu."* — del cuaderno operativo del [[Fogimer|clérigo Foggimer]], anotación marginal posterior a la misión.
 

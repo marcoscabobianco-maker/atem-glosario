@@ -16,8 +16,6 @@ aliases:
  - "Mani"
 ---
 
-# Mani
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mani.png]]
 <!-- /HEADER_IMG -->

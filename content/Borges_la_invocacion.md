@@ -16,8 +16,6 @@ aliases:
  - "Tlön, Uqbar, Orbis Tertius (Tulu)"
 ---
 
-# Borges (la invocación)
-
 > *[[Yog-Sothoth_TNW|Yog-Sothoth]] es la puerta y la llave. El gran Tulú es su primo. Iä, Shub-Niggurath. Y en la biblioteca está el signo y el símbolo.*
 
 Al filo del último descenso, cuando la cofradía del Atlántico Sur ya había dejado de fingir hospitalidad, la gesta no se cierra con un disparo sino con una consulta. La escena final es una visión: alguien acude a **Jorge Luis Borges**, director de la Biblioteca Nacional —entonces todavía en la calle México—, y de su boca, o del aire de la sala, sale un texto. No una respuesta: una fórmula. El hombre que catalogaba el universo entrega, en lugar de un dato, el conjuro que lo abre.

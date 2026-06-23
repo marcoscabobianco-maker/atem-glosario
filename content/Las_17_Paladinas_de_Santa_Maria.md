@@ -8,8 +8,6 @@ aliases:
  - "Las 17 Paladinas de Santa María"
 ---
 
-# Las 17 [[Kerubines_Paladinas|Paladinas]] de Santa María
-
 ## Presentación
 
 - **Rol:** Guerreras custodias de tabernáculo sagrado

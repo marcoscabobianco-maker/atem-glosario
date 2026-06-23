@@ -26,7 +26,6 @@ tags:
  - conocimiento-prohibido
 epoca: "1051-1055 AD — Edad Templaria — copia del Eisagogika"
 ---
-# Libro Negro de la Ley de los Muertos
 
 > *El Necronomicón del cosmos compartido. La copia más fiel del original. Hecho por [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] en Bizancio entre 1051 y 1055. El cruce con Lovecraft y los Mitos de Cthulhu.*
 

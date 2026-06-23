@@ -19,8 +19,6 @@ tags:
  - ptarmis
 ---
 
-# Trocadero de Ritornello
-
 > *"Lord Tarmis, Señor de los Hongos". Mago loco. Se cree reencarnación de Ptarmis. Aliado y enemigo. Pretendiente del bosque fúngico.*
 
 ## Presentación

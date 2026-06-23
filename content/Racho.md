@@ -8,8 +8,6 @@ aliases:
  - "Racho"
 ---
 
-# Racho
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Racho.png]]
 <!-- /HEADER_IMG -->

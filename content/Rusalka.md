@@ -13,8 +13,6 @@ aliases:
  - "Rusalka"
 ---
 
-# Rusalka
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Rusalka.png]]
 <!-- /HEADER_IMG -->

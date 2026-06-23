@@ -20,8 +20,6 @@ aliases:
 imagen: null
 ---
 
-# Trajes sin costura
-
 > *No las cosió ninguna mano. Una inteligencia más vieja que el mar las pensó enteras, y los hombres de la isla las guardan como quien guarda una herencia que no entiende del todo.*
 
 ---

@@ -24,7 +24,6 @@ tags:
  - orbe-purpura
 imagen: null
 ---
-# El Fruto del Conocimiento
 
 > *"El fruto no es prohibido: es transmitido. La doctrina ortodoxa lo lee como pecado; la doctrina cronomántica lo lee como herramienta. Quien come, viaja; quien viaja, recuerda; quien recuerda, configura el pasado."*
 

@@ -11,7 +11,6 @@ tags:
 aliases:
  - "Torchavento"
 ---
-# Torchavento
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torchavento.png]]

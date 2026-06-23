@@ -7,8 +7,6 @@ aliases:
  - "**Hilo Blanco**"
 ---
 
-# **Hilo Blanco**
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Hilo_Blanco.png]]
 <!-- /HEADER_IMG -->

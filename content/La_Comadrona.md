@@ -11,8 +11,6 @@ aliases:
  - "La Comadrona"
 ---
 
-# La Comadrona
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Comadrona.png]]
 <!-- /HEADER_IMG -->

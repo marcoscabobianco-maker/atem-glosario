@@ -23,8 +23,6 @@ tags:
  - multi-mundo
 ---
 
-# Templo y Lugar de los Justos
-
 > *La fortaleza de los Justos del primer nivel del [[Infierno]] de Dante. Donde se cruzan Mediterráneum y el [[Infierno]] antes del setting. Donde está la catedral del asalto.*
 
 ## Presentación

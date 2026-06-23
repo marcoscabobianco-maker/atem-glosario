@@ -20,7 +20,6 @@ tags:
  - ardis-vala
 imagen: Imagenes_Tier1/Vala.png
 ---
-# Vala (mundo)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Vala.png]]

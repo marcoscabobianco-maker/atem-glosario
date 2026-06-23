@@ -23,7 +23,6 @@ tags:
  - circulo-de-la-serpiente
 imagen: Imagenes_Tier1/Aleksandar_I.png
 ---
-# Aleksandar I Karađorđević
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Aleksandar_I.png]]

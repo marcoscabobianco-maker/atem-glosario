@@ -13,8 +13,6 @@ aliases:
  - "Emisarios de Pomola"
 ---
 
-# Emisarios de Pomola (Grupo Principal)
-
 ## Presentación
 
 Grupo principal de aventureros: [[Anti_Inferno|la figura del segundo círculo]], [[Warhol]], [[Neil]], [[StormJay_Idaho|StormJay Idaho]], [[Edward]], y posteriormente [[Dual_Saenz_Premiado|Dual]]. Elegidos por el [[Medawin_Medawaywin|Medawin]] como portadores de su estandarte. Su arco es ascendente — de la frontera colonial a la Luna. Alcanzan paz con el Holandés, recuperan las cadenas, y presuntamente deciden sanar al [[Medawin_Medawaywin|Medawin]].

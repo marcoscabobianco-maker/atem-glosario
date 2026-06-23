@@ -8,7 +8,6 @@ aliases:
  - "variante CDI"
  - "Deck of Many Things"
 ---
-# Deck of Many Things (variante CDI)
 
 ## Presentación
 

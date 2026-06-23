@@ -12,8 +12,6 @@ aliases:
  - "Castillo del Prisma"
 ---
 
-# Castillo del Prisma
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Castillo_del_Prisma.png]]
 <!-- /HEADER_IMG -->

@@ -10,8 +10,6 @@ aliases:
  - "Familia Deva"
 ---
 
-# Deva
-
 ## Presentación
 
 Deva es el nombre que las tradiciones del oriente índico reservan para los seres celestiales, y en esta familia el nombre no parece ornamento sino verdad de sangre: el único miembro del que el archivo conserva noticia es de estirpe angélica.

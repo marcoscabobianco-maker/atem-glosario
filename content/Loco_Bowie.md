@@ -10,8 +10,6 @@ aliases:
  - "Loco Bowie"
 ---
 
-# Loco Bowie
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Loco_Bowie.png]]
 <!-- /HEADER_IMG -->

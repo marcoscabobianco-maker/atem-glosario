@@ -13,8 +13,6 @@ aliases:
  - "Protección de la Plata"
 ---
 
-# Palacio del Lodo / Protección de la Plata
-
 El nombre oficial es [[Proteccion_Hechizo_de_Encantamiento|Protección]] de la Plata: así lo llaman los despachos que salen de [[Torregrises]] y así figura en los formularios del capitán que lo administra. El nombre que le puso la tropa es Palacio del Lodo, y ese nombre es el que sobrevive en la boca de quienes pasaron por allí. La ironía no requiere explicación: un palacio hecho de tierra húmeda, en un punto medio entre la capital y el confín del mundo, donde el régimen envía a los que ya tiene pero no sabe bien dónde poner.
 
 La base funciona como nudo administrativo entre el [[Fortin_de_la_Estrella_Federal]] —el puesto más austral, el de verdad olvidado— y la capital. Los hombres del sur reportan aquí sus novedades; el capitán recibe noticias, las filtra y decide cuánto llega más arriba. El cuartel tiene fama de alojar al peor elemento disponible, lo que en el vocabulario del régimen significa tanto a los peligrosos como a los prescindibles.

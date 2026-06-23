@@ -20,7 +20,6 @@ tags:
  - casco
  - jerico
 ---
-# Alberich el Francosanjuanista
 
 > *Un germano de barba forjada y juicio de acero, que llevaba la cabeza ceñida por un yelmo que no se quita ni con la muerte, porque la muerte era, justamente, lo que el yelmo guardaba dentro.*
 

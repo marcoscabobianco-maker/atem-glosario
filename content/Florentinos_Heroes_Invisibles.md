@@ -18,7 +18,6 @@ aliases:
  - "La designación Héroes Invisibles es tentativa"
 imagen: Imagenes_Tier1/Florentinos_Heroes_Invisibles.png
 ---
-# Florentinos / Héroes Invisibles
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Florentinos_Heroes_Invisibles.png]]

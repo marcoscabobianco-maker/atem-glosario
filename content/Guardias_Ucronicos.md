@@ -11,8 +11,6 @@ aliases:
 aa: "R.2 relevo con herencia de memoria ; A.4 memoria invasora ; H.1 magnicidio compulsivo ; T.3 fecha fatal ; E.6 registros akashicos [PU]"
 ---
 
-# Guardias Ucrónicos
-
 ## Presentación
 
 Rol mágico impuesto en individuos por fuerzas temporales. Quien es proyectado en rol de Guardia [[Mediterraneo_Ucronico|Ucrónico]] debe ejecutar asesinato histórico asignado. Los roles de Guardián son "motivos" ligados a poderes cósmicos siguiendo composición sinfónica (referencias Wagner). No se puede cambiar destino central, solo redirigir quién ocupa el rol.

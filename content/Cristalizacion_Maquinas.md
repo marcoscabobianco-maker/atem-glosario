@@ -22,8 +22,6 @@ tags:
  - campaña-activa
 ---
 
-# Cristalización de las Máquinas
-
 > *[[Evento]] durante el hiato. Las armaduras góticas rudishva y la tecnología de las naves quedaron cristalizadas. [[Kerbog_Khan]] sobrevivió pero refugiado. Mecánica cosmológica completa: campaña activa.*
 
 ## Presentación

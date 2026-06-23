@@ -16,8 +16,6 @@ aliases:
  - Sarajevo_1914_Salto_temporal_Sesion_8
 ---
 
-# Sarajevo 1914 (Salto temporal)
-
 ## Presentación
 
 Ciudad de [[Sarajevo_1914_Ucronica|Sarajevo]], capital de Bosnia y Herzegovina bajo dominio austrohúngaro, junio de [[Sarajevo_1914_Ucronica|1914]]. En la cronología normal, el 28 de junio de [[Sarajevo_1914_Ucronica|1914]] ocurre el atentado al [[Archiduque_Francisco_Fernando_de_Austria|Archiduque Francisco Fernando]], desencadenante histórico de la Primera Guerra Mundial.

@@ -4,7 +4,6 @@ categoria: personaje
 aliases:
  - "Falchavento / Tempestari"
 ---
-# Falchavento / [[Tempestari]]
 
 ## Presentación
 

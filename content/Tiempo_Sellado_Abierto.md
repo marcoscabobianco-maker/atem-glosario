@@ -5,8 +5,6 @@ aliases:
  - "Tiempo \"Sellado\" → \"Abierto\""
 ---
 
-# Tiempo "Sellado" → "Abierto"
-
 ## Presentación
 
 - **Estado anterior:** Viaje temporal era **imposible** (tiempo completamente sellado)

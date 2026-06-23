@@ -23,8 +23,6 @@ aliases:
 imagen: null
 ---
 
-# Malnati
-
 > *Una logia es un equipo; el gran maestre, la AFA. Lo demás es saber de qué lado de la cancha juega cada uno.*
 
 ---

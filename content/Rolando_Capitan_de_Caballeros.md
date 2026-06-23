@@ -7,8 +7,6 @@ aliases:
  - "Rolando"
 ---
 
-# Rolando (Capitán de Caballeros)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Rolando_Capitan_de_Caballeros.png]]
 <!-- /HEADER_IMG -->

@@ -5,8 +5,6 @@ aliases:
  - "Aodh McDuncan"
 ---
 
-# Aodh McDuncan
-
 ## Presentación
 
 **Fuentes:** Taller l.1047

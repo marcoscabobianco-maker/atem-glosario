@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# Abuela Echegoyen
-
 > *Desnuda salí del mar y desnuda me devolvieron a él; lo que vi en el medio no tiene ropa que lo cubra.*
 
 ---

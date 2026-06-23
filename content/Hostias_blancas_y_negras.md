@@ -5,8 +5,6 @@ tags: ["objeto", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Hostias blancas y negras", "hostia negra", "hostia blanca"]
 ---
 
-# Hostias blancas y negras
-
 En un sótano del Quartier de Saint-Germain, bajo la ciudad que se desgarraba entre la Fronda parlamentaria y el poder del cardenal [[Cardenal_Mazarino|Mazarino]], alguien practicaba un ritual que el archivo no puede llamar de otro modo que inversión litúrgica. Las hostias —blancas y negras, en par deliberado— eran el eje de ese rito: el símbolo eucarístico doblado sobre sí mismo, una dualidad que en el lenguaje de los tratados demonológicos de la época señalaba la consagración a fuerzas contrarias a las del altar cristiano.
 
 La iconografía del ritual incorporaba signos astrológicos, lo que sitúa al oficiante dentro de una corriente de magia ceremonial cultivada en los márgenes de la intelectualidad parisina del siglo XVII. La presencia de [[Murmur|Murmur]] —duque del inframundo, vinculado en los grimorios a los muertos y a los músicos— como entidad activa en ese período trama el ritual dentro de su esfera de influencia: las hostias negras como forma de ofrenda o de invocación, las blancas quizás como escudo o como pago.

@@ -22,8 +22,6 @@ tags:
  - water-breathing
 ---
 
-# Anillos Solares
-
 > *Insignia de la Orden de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]. Cobre con plata escarlata. Invocan luz solar, caída de pluma, salto, respiración acuática. [[Paradoja]]: anillos solares creados por un vampiro.*
 
 ## Presentación

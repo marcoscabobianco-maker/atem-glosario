@@ -20,7 +20,6 @@ tags:
  - los-profundos
  - civilizacion
 ---
-# Atlántida — Alta y Baja
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Atlantida_Alta_y_Baja.png]]

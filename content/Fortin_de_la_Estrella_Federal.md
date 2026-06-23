@@ -13,8 +13,6 @@ aliases:
  - "Estrella Federal"
 ---
 
-# Fortín de la Estrella Federal
-
 El Fortín de la Estrella Federal es el punto más austral que las Plataformas Unidas reconocen como propio. Más allá de su empalizada comienza el territorio que el mapa oficial deja en blanco: la pampa sin nombre, los cacicazgos que no pagan tributo, la frontera que se mueve según quién tenga más lanzas esa temporada. El fortín no es un honor sino un destino: se envía allí a los oficiales que cometieron alguna falta que el régimen no perdona del todo pero tampoco quiere exhibir en la capital. Es, en el vocabulario de la tropa, el último lugar que vieron en la protección argentina.
 
 La guarnición que lo ocupa combina resignación y rutina. Los hombres saben que el Palacio del Lodo —base intermedia hacia el norte— está lo suficientemente lejos como para que las órdenes lleguen tarde y las quejas no lleguen nunca. El fortín tiene una función declarada de vigilancia de frontera y una función real de almacenar lo que la jerarquía no quiere cerca: hombres problemáticos, noticias incómodas, misiones que no deben tener demasiados testigos.

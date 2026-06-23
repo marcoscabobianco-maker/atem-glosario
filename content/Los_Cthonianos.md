@@ -23,8 +23,6 @@ aliases:
 imagen: null
 ---
 
-# Los cthonianos
-
 > *No tienen cuerpo que la luz pueda tocar. Moran entre los espacios, en el pliegue que separa una cosa de la cosa de al lado, y esperan a que alguien arda lo suficiente para alimentarlas.*
 
 ---

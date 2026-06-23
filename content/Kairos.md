@@ -13,8 +13,6 @@ aliases:
  - "Kairos"
 ---
 
-# Kairos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kairos.png]]
 <!-- /HEADER_IMG -->

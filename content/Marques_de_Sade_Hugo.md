@@ -22,7 +22,6 @@ tags:
  - hugo
  - antagonista
 ---
-# El Marqués de Sade — Hugo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Marques_de_Sade_Hugo.png]]

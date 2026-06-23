@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Apaches"
 ---
-# Apaches
 
 ## Presentación
 

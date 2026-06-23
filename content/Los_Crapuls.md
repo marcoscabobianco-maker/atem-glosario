@@ -13,8 +13,6 @@ aliases:
  - "Los Crapuls"
 ---
 
-# Los Crapuls
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Los_Crapuls.png]]
 <!-- /HEADER_IMG -->

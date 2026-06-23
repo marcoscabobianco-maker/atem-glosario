@@ -10,8 +10,6 @@ aliases:
  - "familia Tauro"
 ---
 
-# Tauro (familia)
-
 ## Presentación
 
 Familia de nombre zodiacal: lleva el del toro, segundo signo de la rueda, el mismo que designa a la [[Plataforma_Tauro|segunda casa]]. De ella el registro de linajes conserva apenas eso: el nombre. No consigna asiento, ni miembros, ni árbol; la casa figura en los papeles como figura una firma sin carta.

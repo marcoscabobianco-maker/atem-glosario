@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Excavación EL ETRUSCO"
 ---
-# Excavación EL ETRUSCO
 
 ## Presentación
 

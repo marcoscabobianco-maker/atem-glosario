@@ -8,8 +8,6 @@ aliases:
  - "Mack the Sweeper"
 ---
 
-# Mack the Sweeper
-
 ## Presentación
 
 Boxeador de [[El_Leprechaun]]. Derrotó a [[Claude_Nauge|Claude Nauge]] en combate improvisado.

@@ -5,8 +5,6 @@ aliases:
  - ""
 ---
 
-# Ciudadela Hundida
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sunless_Citadel.png]]
 <!-- /HEADER_IMG -->

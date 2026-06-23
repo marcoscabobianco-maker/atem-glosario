@@ -12,7 +12,6 @@ aliases:
  - "Inferno"
  - "Tel"
 ---
-# Tel (Inferno)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tel_Inferno.png]]

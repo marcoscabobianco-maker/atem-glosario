@@ -9,7 +9,6 @@ aliases:
  - "Facciones de Colores (Constantinopla 1055)"
  - "Facciones de Colores"
 ---
-# Facciones de Colores
 
 ## Presentación
 

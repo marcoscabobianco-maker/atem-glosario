@@ -11,8 +11,6 @@ aliases:
  - "Sequoia"
 ---
 
-# Sequoia
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sequoia.png]]
 <!-- /HEADER_IMG -->

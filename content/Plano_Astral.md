@@ -14,7 +14,6 @@ tags:
  - githyanki
  - bahamut
 ---
-# El Plano Astral
 
 > *El mar sin orillas entre los mundos, color de plata vieja, donde flotan los dioses que ya nadie reza, vueltos piedra, esperando un último fiel que los despierte.*
 

@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Wako anillo de Mabron
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Wako_anillo_de_Mabron.png]]
 <!-- /HEADER_IMG -->

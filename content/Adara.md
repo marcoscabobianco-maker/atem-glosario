@@ -4,8 +4,6 @@ aliases:
  - "Adara"
 ---
 
-# Adara
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Adara.png]]
 <!-- /HEADER_IMG -->

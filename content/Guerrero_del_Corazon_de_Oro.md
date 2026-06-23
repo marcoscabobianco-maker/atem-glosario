@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Guerrero del Corazón de Oro"
 ---
-# Guerrero del Corazón de Oro
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Guerrero_del_Corazon_de_Oro.png]]

@@ -21,7 +21,6 @@ tags:
  - advertencias-rituales
 imagen: null
 ---
-# La Cámara de las Máscaras Susurrantes
 
 > *"Están... advirtiéndonos de algo."* — Sila, ante las máscaras vigilantes.
 

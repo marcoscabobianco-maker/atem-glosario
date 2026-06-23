@@ -24,8 +24,6 @@ tags:
 imagen: Imagenes_Tier1/Akala.png
 ---
 
-# Akala (AKL-600)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Akala.png]]
 <!-- /HEADER_IMG -->

@@ -7,7 +7,6 @@ aliases:
  - "hasta Artelos"
  - "Ministra"
 ---
-# Ministra (hasta Artelos)
 
 ## Presentación
 

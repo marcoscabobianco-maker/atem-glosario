@@ -4,8 +4,6 @@ aliases:
  - "Vapor Tortura"
 ---
 
-# Vapor Tortura
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Vapor_Tortura.png]]
 <!-- /HEADER_IMG -->

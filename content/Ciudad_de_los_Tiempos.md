@@ -7,8 +7,6 @@ aliases:
  - "CIUDAD DE LAS PUERTAS"
 ---
 
-# CIUDAD DE LOS TIEMPOS / CIUDAD DE LAS PUERTAS
-
 ## Presentación
 
 - **Nombres:** "[[NEO-PARIS_Ciudad_de_los_Tiempos|Ciudad de los Tiempos]]" (acuñada en el último encuentro templario), analog "[[Sigil]]" (City of Doors)

@@ -9,8 +9,6 @@ aliases:
  - "Juegos Fúnebres"
 ---
 
-# Juegos Fúnebres
-
 ## Presentación
 
 Combate catártico tras muerte de [[Zoe_Emperatriz|Zoe]]. [[Time_Bandits|Time Bandits]] triunfaron contra coalición 5 dragones cromáticos ([[Micro_Arena_Hipodromo|Hipódromo]] [[Constantinopla_Ucronica_1055_CE|Constantinopla]]). Resarcimiento y festejo.

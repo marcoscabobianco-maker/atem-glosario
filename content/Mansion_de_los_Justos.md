@@ -11,8 +11,6 @@ aliases:
  - "Mansión de los Justos"
 ---
 
-# Mansión de los Justos
-
 ## Presentación
 
 Fortaleza-santuario dentro del reino infernal. Siete muros concéntricos con colores prismáticos, siete puertas, una sola entrada hacia abajo. Los demonios no pueden penetrar. Descrita como "punto blanco en el símbolo Yin-Yang" — faro de esperanza en la oscuridad. Habitada por almas justas (voluntarios que eligen ayudar a otros), poetas clásicos (Horacio, Virgilio, Homero ciego pero invocador de musas), y visitantes temporales.

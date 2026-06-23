@@ -19,7 +19,6 @@ tags:
  - linchador
 imagen: Imagenes_Tier1/Kal-el.png
 ---
-# Kal-el
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kal-el.png]]

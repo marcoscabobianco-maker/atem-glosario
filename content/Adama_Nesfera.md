@@ -13,8 +13,6 @@ aliases:
  - "Adama / Nesfera"
 ---
 
-# Adama / Nesfera
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Suga.png]]
 <!-- /HEADER_IMG -->

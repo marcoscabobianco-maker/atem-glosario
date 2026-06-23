@@ -21,7 +21,6 @@ tags:
  - portero-gnostico
  - neferu
 ---
-# Barbatos
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Barbatos.png]]

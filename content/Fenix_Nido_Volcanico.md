@@ -22,8 +22,6 @@ tags:
 imagen: null
 ---
 
-# El Fénix del Nido Volcánico
-
 > *"En el centro de estos relatos, el Fénix juega un papel crucial. Se dice que antes de que existieran los humanos, el Fénix anidaba en el cráter volcánico que ahora alberga a [[Caldero]]. Su fuego no solo moldeó el paisaje, sino que purificó el terreno para que las civilizaciones pudieran florecer."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*.
 
 ---

@@ -20,7 +20,6 @@ tags:
  - reinos-olvidados
 imagen: null
 ---
-# Helm
 
 > *"El que cierra el yelmo no parpadea. La doctrina del vigilante exige que la mirada no se interrumpa. Helm es el dios al que se invoca cuando la guardia importa más que el sueño."*
 

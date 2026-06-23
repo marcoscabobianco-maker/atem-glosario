@@ -13,8 +13,6 @@ aliases:
  - "Imperia Alta Ra"
 ---
 
-# Imperia Alta Ra (portal principal)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Imperia_Alta_Ra_portal_principal.png]]
 <!-- /HEADER_IMG -->

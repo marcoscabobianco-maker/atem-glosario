@@ -11,8 +11,6 @@ aliases:
  - "Taberna de la Serpiente Mundo"
 ---
 
-# Taberna de la Serpiente Mundo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Taberna_de_la_Serpiente_Mundo.png]]
 <!-- /HEADER_IMG -->

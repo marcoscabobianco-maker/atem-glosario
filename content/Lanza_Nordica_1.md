@@ -5,8 +5,6 @@ aliases:
  - "Lanza Nórdica"
 ---
 
-# Lanza Nórdica
-
 ## Presentación
 
 **Portador:** [[Negociador_Intermediario_Orador_4_identidad_sin_confirmar|Negociador / Intermediario del Descenso]] (identidad aún no confirmada)

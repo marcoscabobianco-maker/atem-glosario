@@ -5,8 +5,6 @@ aliases:
  - "Bóvedas de Ur"
 ---
 
-# Bóvedas de Ur
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bovedas_de_Ur.png]]
 <!-- /HEADER_IMG -->

@@ -5,8 +5,6 @@ aliases:
  - "Guantes de Fuerza Mágica"
 ---
 
-# Guantes de Fuerza Mágica
-
 ## Presentación
 
 **Rareza:** Menor

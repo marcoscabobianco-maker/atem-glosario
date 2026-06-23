@@ -20,7 +20,6 @@ tags:
  - partida
 imagen: Imagenes_Tier1/Embarcadero_de_Levante.png
 ---
-# El Embarcadero de Levante
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Embarcadero_de_Levante.png]]

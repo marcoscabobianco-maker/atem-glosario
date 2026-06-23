@@ -29,7 +29,6 @@ tags:
  - teofilo-el-bactriano
 epoca: "1051-1055 AD — Edad Templaria — Constantinopla"
 ---
-# Olaus Wormius (a.k.a. Theodorus)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Olaus_Wormius_aka_Theodorus.png]]

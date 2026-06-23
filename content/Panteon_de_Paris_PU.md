@@ -20,8 +20,6 @@ tags:
  - sin-resurreccion
 ---
 
-# Panteón de París (PU)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Panteon_de_Paris_PU.png]]
 <!-- /HEADER_IMG -->

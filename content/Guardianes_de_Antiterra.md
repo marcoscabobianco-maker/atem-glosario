@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Guardianes_de_Antiterra.png
 ---
 
-# Los Guardianes de Antiterra
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Guardianes_de_Antiterra.png]]
 <!-- /HEADER_IMG -->

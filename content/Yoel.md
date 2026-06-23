@@ -19,8 +19,6 @@ aliases:
 imagen: null
 ---
 
-# Yoel
-
 > *El mar enseña el oficio y, de paso, deja oír lo que esconde.*
 
 ---

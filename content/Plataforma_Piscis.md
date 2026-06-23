@@ -22,7 +22,6 @@ tags:
  - antiterra
 imagen: Imagenes_Tier1/Plataforma_Piscis.png
 ---
-# Plataforma de Piscis
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Piscis.png]]

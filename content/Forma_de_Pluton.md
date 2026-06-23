@@ -8,7 +8,6 @@ aliases:
  - "de Plutón"
  - "Forma"
 ---
-# Forma (de Plutón)
 
 ## Presentación
 

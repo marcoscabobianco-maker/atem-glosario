@@ -13,8 +13,6 @@ aliases:
  - "Wako"
 ---
 
-# Wako
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Wako.png]]
 <!-- /HEADER_IMG -->

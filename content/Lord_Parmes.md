@@ -17,7 +17,6 @@ tags:
  - L03
  - gran-caverna
 ---
-# Lord Parmes
 
 > *Gobernador del reino fúngico. Trono sobre plataforma de mármol elevada en la caverna colosal. Reino de bioluminiscencia y silencio.*
 

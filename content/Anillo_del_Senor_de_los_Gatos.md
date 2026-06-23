@@ -9,8 +9,6 @@ tags:
  - beastlands
 ---
 
-# Anillo del Señor de los Gatos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Anillo_del_Senor_de_los_Gatos.png]]
 <!-- /HEADER_IMG -->

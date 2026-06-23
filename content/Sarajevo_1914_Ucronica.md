@@ -21,7 +21,6 @@ tags:
  - time-bandits
 imagen: Imagenes_Tier1/Sarajevo_1914_Ucronica.png
 ---
-# Sarajevo, 28 de junio de 1914
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sarajevo_1914_Ucronica.png]]

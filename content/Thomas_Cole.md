@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Thomas Cole"
 ---
-# Thomas Cole
 
 ## Presentación
 

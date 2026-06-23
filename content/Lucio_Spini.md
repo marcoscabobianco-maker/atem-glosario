@@ -19,7 +19,6 @@ tags:
  - templarios
  - sacrificio
 ---
-# Lucio Spini
 
 > *Llamadle La Rosa, que así lo nombran los que no saben su otro nombre; y el otro nombre se lo dio una voz entre las estrellas, y no se escribe.*
 

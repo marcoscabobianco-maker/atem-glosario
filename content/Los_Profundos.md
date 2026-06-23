@@ -13,8 +13,6 @@ aliases:
  - "Los Profundos"
 ---
 
-# Los Profundos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Los_Profundos.png]]
 <!-- /HEADER_IMG -->

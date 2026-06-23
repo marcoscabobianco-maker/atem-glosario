@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Plataforma_Libra.png
 ---
 
-# Plataforma de Libra
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Libra.png]]
 <!-- /HEADER_IMG -->

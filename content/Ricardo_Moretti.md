@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# Ricardo Moretti
-
 > *Veinte mil dólares por subir la piedra a la torre. Lo que cuesta de verdad no se paga en dólares.*
 
 ---

@@ -13,7 +13,6 @@ aliases:
  - "Danza del Conocimiento"
 epoca: "1368 DR — Edad de los Reinos Olvidados — Marpenoth 6"
 ---
-# Danza del Conocimiento
 
 > [[Evento]] de 1368 DR (Marpenoth 6). A Minaya se le revela su pasado y el de sus progenitores. [[Coyote]] es sacrificado por [[Kaxathros]]; su alma queda atrapada en una gema entregada a [[Grazzt|Graz'zt]].
 

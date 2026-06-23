@@ -13,8 +13,6 @@ aliases:
  - "Sadi y Madi"
 ---
 
-# Sadi y Madi (TG)
-
 ## Presentación
 
 "El dúo nazi de la academia de [[Sabas]]" (Bestiario). Guardianas de la sub-plataforma del Sadomasoquismo en el **[[Liceo_Sabasio|Liceo Sabasio]]**. "Ejemplo menor de la potencia que dos opuestos pueden encarnar cuando fallan en la reunión."

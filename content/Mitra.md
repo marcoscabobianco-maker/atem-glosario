@@ -21,7 +21,6 @@ tags:
  - mitra-jamalio
 imagen: null
 ---
-# Mitra
 
 > *"El juramento no obliga al que jura: obliga al sol que lo escuchó. Por eso Mitra opera con luz, no con palabra."*
 

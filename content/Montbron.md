@@ -18,7 +18,6 @@ tags:
  - umbral
 imagen: Imagenes_Tier1/Montbron.png
 ---
-# Montbron
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Montbron.png]]

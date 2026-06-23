@@ -9,8 +9,6 @@ aliases:
  - "Gobernador de Aquea y Tesalia"
 ---
 
-# Gobernador de Aquea y Tesalia
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gobernador_de_Aquea_y_Tesalia.png]]
 <!-- /HEADER_IMG -->

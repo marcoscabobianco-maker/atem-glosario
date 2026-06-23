@@ -14,8 +14,6 @@ aliases:
  - "Cimientos, los"
 ---
 
-# Cimientos, los (TG)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cimientos_los_TG.png]]
 <!-- /HEADER_IMG -->

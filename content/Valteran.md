@@ -4,8 +4,6 @@ aliases:
  - "Valteran"
 ---
 
-# Valteran
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Valteran.png]]
 <!-- /HEADER_IMG -->

@@ -12,8 +12,6 @@ aliases:
  - "Shen"
 ---
 
-# Shen
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Shen.png]]
 <!-- /HEADER_IMG -->

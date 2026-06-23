@@ -18,8 +18,6 @@ tags:
  - blake
 ---
 
-# Vala Antigua
-
 > *El mundo previo al cierre cósmico. Jugado aproximadamente en 2019. Base de [[Vala_del_Medioevo]] y de [[Ardis_Vala|Arden Vul]]. De ahí salieron los sobrevivientes que después fueron deificados.*
 
 ## Narrativa de los Word Breakers

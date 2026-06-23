@@ -14,7 +14,6 @@ aliases:
  - "Las dos chicas"
  - "Las dos almas"
 ---
-# Las dos chicas / Las dos almas
 
 ## Presentación
 

@@ -9,8 +9,6 @@ aliases:
  - "Tántalo**"
 ---
 
-# **Tantalus / Tántalo**
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tantalus_Tantalo.png]]
 <!-- /HEADER_IMG -->

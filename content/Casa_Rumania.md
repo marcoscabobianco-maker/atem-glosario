@@ -10,8 +10,6 @@ aliases:
  - "Casa Rumania"
 ---
 
-# Casa Rumania
-
 ## Presentación
 
 Entre las casas que el archivo del ciclo ucrónico registra figura la que lleva por nombre Rumania: un apellido que es también un país, como si el linaje hubiera querido confundirse con la tierra entera que lo nombra. El registro la consigna en el tejido de familias del oriente de Europa, en vecindad de las casas que se reparten los Balcanes y sus capitales.

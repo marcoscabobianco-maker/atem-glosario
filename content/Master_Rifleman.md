@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Master Rifleman"
 ---
-# Master Rifleman
 
 ## Presentación
 

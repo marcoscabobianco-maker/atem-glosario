@@ -20,8 +20,6 @@ tags:
 imagen: null
 ---
 
-# El Skulk
-
 > *"El ataque fue instantáneo. Un Skulk, invisible hasta entonces, saltó desde las sombras del piso superior, moviéndose con rapidez y letalidad hacia [[Scylla]]."* — [[Mascor_Blancarba]].
 
 ---

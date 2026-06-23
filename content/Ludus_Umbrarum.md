@@ -12,8 +12,6 @@ aliases:
  - "El Juego de las Sombras (obra)"
 ---
 
-# Ludus Umbrarum
-
 > *"Los muertos no viven, las sombras no se alzan, aunque tú lo jugaste y luego el vivir lo extirpó de tu memoria."*
 
 ## Presentación

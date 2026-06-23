@@ -11,7 +11,6 @@ tags:
 aliases:
  - "Ripple Effect"
 ---
-# Ripple Effect
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ripple_Effect.png]]

@@ -18,7 +18,6 @@ tags:
  - saba
  - linaje-oscuro
 ---
-# La Zara
 
 > *La matriarca que Florencia llamó Donatella Donati y la Escritura habría llamado Sara: madre de un linaje oscuro que se dice venido de la reina de Saba, y de Eva por la rama que nadie reza en voz alta.*
 

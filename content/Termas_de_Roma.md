@@ -18,8 +18,6 @@ tags:
 imagen: Imagenes_Tier1/Termas_de_Roma.png
 ---
 
-# Las Termas de Roma
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Termas_de_Roma.png]]
 <!-- /HEADER_IMG -->

@@ -10,8 +10,6 @@ aliases:
  - "ALMAS LIBERADAS"
 ---
 
-# TESTIGOS / ALMAS LIBERADAS
-
 ## Presentación
 
 **Tipo:** figuras — Civiles / Espíritus

@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# Logia Hijos del Trabajo
-
 > *Una logia de obreros que juntó plata, libros y candelabros durante ochenta años para terminar, sin saberlo del todo, guardando una piedra que zumba bajo una lona aceitosa.*
 
 ---

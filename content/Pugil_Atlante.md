@@ -18,7 +18,6 @@ tags:
  - figura-breve
 imagen: Imagenes_Tier1/Pugil_Atlante.png
 ---
-# El Pugil Atlante
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pugil_Atlante.png]]

@@ -21,8 +21,6 @@ aliases:
  - "El templo de Barracas"
 ---
 
-# Basílica del Sagrado Corazón (Barracas)
-
 En el sur de [[Buenos_Aires_Ucronica|Buenos Aires]], en el barrio de Barracas, se levanta una basílica neogótica de tamaño desmesurado, rematada por un **rosetón** que el ojo recuerda mucho después de haberlo visto. Quien la mira de día no ve más que una iglesia. Pero la moneda-tótem que pasó de mano en mano desde las islas, y los hilos que el grupo fue tirando entre contactos políticos, la señalan como otra cosa: bajo la nave se guarda un **depósito de armas**, y el templo entero hace de tapadera y de base para la logia **Anael**, esa derecha esotérica de cordón anticomunista con padrinazgo norteamericano. Debajo del piso bendecido hay actividad "para la guerra". El edificio queda marcado como objetivo —de investigación primero, de golpe después— para los recién llegados del descenso.
 
 ## La fachada y lo que esconde

@@ -22,7 +22,6 @@ tags:
  - polo-femenino-oscuro
 imagen: null
 ---
-# Hécate
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Hecate.png]]

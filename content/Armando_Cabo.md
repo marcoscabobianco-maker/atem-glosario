@@ -20,8 +20,6 @@ aliases:
 imagen: null
 ---
 
-# Armando Cabo
-
 > *A mi hijo lo tienen en el fin del mundo. Tráiganme con qué sacarlo.*
 
 ---

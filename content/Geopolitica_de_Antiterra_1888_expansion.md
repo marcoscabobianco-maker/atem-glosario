@@ -21,7 +21,6 @@ tags:
  - dragones
  - atlantida
 ---
-# Geopolítica de Antiterra — 1888 (expansión)
 
 > *"En 1888 la balanza ya no era balanza: era cuesta. Los gobiernos se gobernaban entre sí mucho antes de gobernar a sus pueblos."*
 

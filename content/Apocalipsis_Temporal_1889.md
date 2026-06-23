@@ -23,7 +23,6 @@ tags:
  - 25-diciembre
 imagen: Imagenes_Tier1/Apocalipsis_Temporal_1889.png
 ---
-# El Apocalipsis Temporal de 1889
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Apocalipsis_Temporal_1889.png]]

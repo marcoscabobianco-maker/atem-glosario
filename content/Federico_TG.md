@@ -21,7 +21,6 @@ tags:
  - hidromiel-de-la-inspiracion
 imagen: Imagenes_Tier1/Federico_TG.png
 ---
-# Federico — el Rey de las Tormentas
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Federico_TG.png]]

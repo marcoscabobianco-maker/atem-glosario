@@ -8,8 +8,6 @@ aliases:
  - "Kissander"
 ---
 
-# Kissander
-
 ## Presentación
 
 - **[[Identidad_revelada]]:** [[Maristo]] = Kissander (maestro/alumno conjugados)

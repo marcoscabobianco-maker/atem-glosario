@@ -21,8 +21,6 @@ aliases:
 imagen: null
 ---
 
-# Lic. Néstor Falkowski
-
 > *Sacá tu emoción. No la guardes: descargala.*
 
 ---

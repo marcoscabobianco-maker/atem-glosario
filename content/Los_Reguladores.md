@@ -27,7 +27,6 @@ tags:
  - los-supremos
 epoca: "1888 A.D.A. — Edad del Apocalipsis — enfrentan Aries y Tauro"
 ---
-# Los Reguladores
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Los_Reguladores.png]]

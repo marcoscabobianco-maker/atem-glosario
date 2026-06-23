@@ -14,8 +14,6 @@ aliases:
  - "Señores de York (primer nombre"
 ---
 
-# Rintrah
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Rintrah.png]]
 <!-- /HEADER_IMG -->

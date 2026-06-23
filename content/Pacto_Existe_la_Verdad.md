@@ -18,7 +18,6 @@ tags:
  - realidad
  - pacto
 ---
-# Pacto: existe la verdad / La realidad es fake news
 
 > *"Hubo un pacto: existe la verdad. La realidad: fake news."* — anotación al cierre del último plan de Graz'zt, C67, p. 25.
 

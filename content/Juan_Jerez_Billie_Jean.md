@@ -17,7 +17,6 @@ tags:
  - half-orc
  - dos-nombres
 ---
-# Juan Jerez / Billie Jean
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Juan_Jerez_Billie_Jean.png]]

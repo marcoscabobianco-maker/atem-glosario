@@ -11,6 +11,4 @@ tags:
  - consolidacion
 ---
 
-# Alejandro VI Borgia
-
 → Consolidado en **[[Papa_Alejandro_Sixto|Papa Alejandro VI]]**. *Alejandro VI Borgia = [[Papa_Alejandro_Sixto|Papa Alejandro VI]] = [[Papa_Alejandro_Sixto]]: el mismo pontífice (VI = el sexto = Sixto).*

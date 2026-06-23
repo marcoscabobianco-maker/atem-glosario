@@ -19,8 +19,6 @@ aliases:
 imagen: null
 ---
 
-# Jorge Moreno
-
 > *El campo es del patrón; el orden, mío.*
 
 ---

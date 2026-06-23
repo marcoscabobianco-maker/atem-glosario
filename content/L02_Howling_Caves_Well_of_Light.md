@@ -21,8 +21,6 @@ tags:
  - gerrilad
 ---
 
-# Howling Caves & Well of Light
-
 > *Nivel privado de los sacerdotes de Thoth. Luz vs Oscuridad. Babuinos inteligentes. [[Library_of_Thoth]].*
 
 ## Presentación

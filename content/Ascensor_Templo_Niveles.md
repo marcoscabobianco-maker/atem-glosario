@@ -18,8 +18,6 @@ tags:
 imagen: Imagenes_Tier1/Ascensor_Templo_Niveles.png
 ---
 
-# El Ascensor del Temple
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ascensor_Templo_Niveles.png]]
 <!-- /HEADER_IMG -->

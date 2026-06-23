@@ -11,7 +11,6 @@ aliases:
  - "Kumal"
  - "Armenia Libre"
 ---
-# Kumal / Armenia Libre
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kumal_Armenia_Libre.png]]

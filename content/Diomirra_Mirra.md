@@ -14,8 +14,6 @@ aliases:
  - "Mirra"
 ---
 
-# Diomirra / Mirra
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Diomirra_Mirra.png]]
 <!-- /HEADER_IMG -->

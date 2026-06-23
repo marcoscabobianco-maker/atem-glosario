@@ -11,8 +11,6 @@ aliases:
  - "Einar"
 ---
 
-# Einar
-
 ## Presentación
 
 Personaje Descrito como nórdico, con referencia "devil" en el nombre de archivo de su intro. Continuidad temática con [[Sven]] (Reguladores/el Descenso), otro personaje nórdico de la misma mano, aunque el archivo señala que Einar es "más bien rival" de [[Sven]] — no continuación directa sino contrapunto.

@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Murad I"
 ---
-# Murad I
 
 **Categoría:** personaje-historico
 

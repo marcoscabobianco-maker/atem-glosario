@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Hurcacta"
 ---
-# Hurcacta
 
 ## Presentación
 

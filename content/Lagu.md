@@ -12,8 +12,6 @@ aliases:
  - "Lagu"
 ---
 
-# Lagu
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lagu.png]]
 <!-- /HEADER_IMG -->

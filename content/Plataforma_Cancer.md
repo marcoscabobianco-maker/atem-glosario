@@ -21,7 +21,6 @@ tags:
  - guardian
 imagen: Imagenes_Tier1/Plataforma_Cancer.png
 ---
-# Plataforma de Cáncer
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Cancer.png]]

@@ -27,8 +27,6 @@ tags:
 imagen: Imagenes_Tier1/Innombrable.png
 ---
 
-# El Innombrable
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Innombrable.png]]
 <!-- /HEADER_IMG -->

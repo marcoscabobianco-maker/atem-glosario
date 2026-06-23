@@ -9,8 +9,6 @@ aliases:
  - "Estampado de Placa / Ritual de Iconografía"
 ---
 
-# Estampado de Placa / Ritual de Iconografía ( casteo)
-
 ## Presentación
 
 - **Tipo:** Ritual menor, canalización de imagen

@@ -10,8 +10,6 @@ aliases:
  - "Elaina / Elaina Sladivier"
 ---
 
-# Elaina / Elaina Sladivier
-
 ## Presentación
 
 ## el plano operativo

@@ -5,8 +5,6 @@ aliases:
  - "Clavo de la Cruz del Ladrón (Reliquia Menor)"
 ---
 
-# Clavo de la Cruz del Ladrón (Reliquia Menor)
-
 ## Presentación
 
 - **Descripción:** Fragmento de reliquia cristiana (clavo de crucifixión, asociado a ladrón penitente)

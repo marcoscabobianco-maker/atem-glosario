@@ -9,8 +9,6 @@ aliases:
  - "Francis Le Pen"
 ---
 
-# Francis Le Pen (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Francis_Le_Pen_TNW.png]]
 <!-- /HEADER_IMG -->

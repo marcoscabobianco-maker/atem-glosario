@@ -23,8 +23,6 @@ aliases:
 imagen: null
 ---
 
-# Dulce Holler
-
 > *Todo lo resuelve con el hacha. Lo demás —el encanto, la coartada, la mentira bien dicha— es apenas el filo de antes.*
 
 ---

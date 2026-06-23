@@ -23,7 +23,6 @@ tags:
  - prefectura-del-tiempo
 imagen: Imagenes_Tier1/Circulo_de_la_Serpiente.png
 ---
-# El Círculo de la Serpiente
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Circulo_de_la_Serpiente.png]]

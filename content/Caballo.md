@@ -9,8 +9,6 @@ aliases:
  - "CABALLO"
 ---
 
-# CABALLO (HORSE)
-
 ## Presentación
 
 En el nuevo setting, los caballos son recursos escasos: pueden ser poseídos individualmente o provistos por el estado. Existe la especialidad de "Médico de Caballos" como oficio reconocido.

@@ -13,8 +13,6 @@ aliases:
  - "Nyarlathotep TNW"
 ---
 
-# Nyarlathotep
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Nyarlathotep.png]]
 <!-- /HEADER_IMG -->

@@ -13,8 +13,6 @@ aliases:
  - "Yog-Sothoth"
 ---
 
-# Yog-Sothoth (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Yog-Sothoth_TNW.png]]
 <!-- /HEADER_IMG -->

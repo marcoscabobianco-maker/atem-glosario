@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Portero Capturador Templario
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Portero_Capturador_Templario.png]]
 <!-- /HEADER_IMG -->

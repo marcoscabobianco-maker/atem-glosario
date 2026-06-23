@@ -23,7 +23,6 @@ tags:
  - mundo-gemelo
 imagen: Imagenes_Tier1/Ucronica_NC_Northern_Crown.png
 ---
-# El Northern Crown
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ucronica_NC_Northern_Crown.png]]

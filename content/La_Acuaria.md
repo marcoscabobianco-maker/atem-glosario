@@ -9,7 +9,6 @@ tags:
 aliases:
  - "La Acuaria"
 ---
-# La Acuaria
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Acuaria.png]]

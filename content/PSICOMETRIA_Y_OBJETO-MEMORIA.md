@@ -5,8 +5,6 @@ aliases:
  - "PSICOMETRÍA Y OBJETO-MEMORIA"
 ---
 
-# PSICOMETRÍA Y OBJETO-MEMORIA
-
 ## Presentación
 
 - **Objeto:** Huevo infernal

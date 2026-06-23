@@ -8,8 +8,6 @@ aliases:
  - "Tíndalo"
 ---
 
-# Tíndalo
-
 ## Presentación
 
 Sabueso Temporal, Perro Temporal.

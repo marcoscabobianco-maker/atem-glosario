@@ -6,8 +6,6 @@ aliases:
  - Operacion_Patriarcal_de_Purificacion_TE07
 ---
 
-# Operación Patriarcal de Purificación
-
 ## Presentación
 
 - **Organizador:** [[Patriarca_Heirmano|Patriarca Heirmano]]

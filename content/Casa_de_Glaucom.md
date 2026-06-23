@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Casa_de_Glaucom.png
 ---
 
-# La Casa de Glaucom
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Casa_de_Glaucom.png]]
 <!-- /HEADER_IMG -->

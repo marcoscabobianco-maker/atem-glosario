@@ -10,8 +10,6 @@ aliases:
  - "Ecol"
 ---
 
-# Ecol (Capitán de la Resistencia)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ecol_Capitan_de_la_Resistencia.png]]
 <!-- /HEADER_IMG -->

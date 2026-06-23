@@ -12,8 +12,6 @@ aliases:
  - "La Luna"
 ---
 
-# La Luna
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Luna.png]]
 <!-- /HEADER_IMG -->

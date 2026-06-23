@@ -18,8 +18,6 @@ tags:
  - cakravartin
 ---
 
-# Ariel
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ariel_Profundos.png]]
 <!-- /HEADER_IMG -->

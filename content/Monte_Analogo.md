@@ -13,8 +13,6 @@ aliases:
  - "Monte Análogo"
 ---
 
-# Monte Análogo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Monte_Analogo.png]]
 <!-- /HEADER_IMG -->

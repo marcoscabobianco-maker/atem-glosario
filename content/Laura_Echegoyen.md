@@ -21,8 +21,6 @@ aliases:
 imagen: null
 ---
 
-# Laura Echegoyen
-
 > *Lo vasco me tira; será la sangre, que reconoce su orilla.*
 
 ---

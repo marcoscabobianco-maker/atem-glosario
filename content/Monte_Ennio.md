@@ -22,7 +22,6 @@ tags:
  - peregrinacion-dinastica
 imagen: null
 ---
-# Monte Ennio
 
 > *"El Monte Ennio no es geografía: es bisagra. Cada emperador que lo sube, baja con autoridad. Cada emperador que no lo sube, baja con duda. La diferencia importa para el cosmos imperial entero."*
 

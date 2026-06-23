@@ -16,8 +16,6 @@ tags:
  - avatar-arlequin
 ---
 
-# Suga
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Suga.png]]
 <!-- /HEADER_IMG -->

@@ -7,8 +7,6 @@ aliases:
  - "Semíramis"
 ---
 
-# Cleopatra / Semíramis
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cleopatra_Semiramis.png]]
 <!-- /HEADER_IMG -->

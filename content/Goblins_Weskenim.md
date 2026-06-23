@@ -19,8 +19,6 @@ tags:
  - aliados-kerbog-khan
 ---
 
-# Goblins de King Weskenim
-
 > *El Grand King Weskenim gobierna desde Goblin Warrens. Fecundos, expansivos. Aliados de [[Kerbog_Khan]]. Pelean contra halflings de Plumthorn en los Halls of Thoth.*
 
 ## Presentación

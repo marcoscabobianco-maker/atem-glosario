@@ -13,7 +13,6 @@ tags:
  - cristalizacion
  - anacronismo
 ---
-# Cristalización Temporal
 
 ## Presentación
 

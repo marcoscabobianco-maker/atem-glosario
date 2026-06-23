@@ -8,8 +8,6 @@ aliases:
  - "Baron House Man"
 ---
 
-# Baron House Man
-
 ## Presentación
 
 Arquitecto y urbanista de París. Famoso por ampliar plazas, construir Bulevares y proporcionar opciones de limpieza acuática en márgenes del Sena. Uno de los pocos funcionarios ennoblecidos que logró pasar de dominación británica a liberación francesa sin ser destituido. Beneficiario de Time Capsule 1 (Pluma de Cisne + carta de [[Claude_Nauge|Claude Nauge]]).

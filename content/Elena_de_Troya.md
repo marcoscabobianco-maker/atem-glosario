@@ -5,7 +5,6 @@ tags:
 aliases:
  - "Elena de Troya"
 ---
-# Elena de Troya
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Elena_de_Troya.png]]

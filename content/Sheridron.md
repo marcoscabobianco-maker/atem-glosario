@@ -16,7 +16,6 @@ tags:
  - antiterra
  - stub
 ---
-# Sheridron
 
 > *La serpiente del paraíso al revés. La que mira con visión positiva. Compañera de [[Bronzo]] en el rescate del ciclo final.*
 

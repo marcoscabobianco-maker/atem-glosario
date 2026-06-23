@@ -20,7 +20,6 @@ tags:
  - extorsion
  - Ritornello
 ---
-# Phlebotomas Plumthorn
 
 > *Halfling líder de los matones de la entrada de los Halls of Thoth. Fabricante de veneno virulento. Buscado en [[Ritornello]] y [[Narsileon]]. Recién asentado en el dungeon.*
 

@@ -5,7 +5,6 @@ tags:
 aliases:
  - "Duque de Amor"
 ---
-# Duque de Amor
 
 ## Presentación
 

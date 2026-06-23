@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Predators"
 ---
-# Predators
 
 ## Presentación
 

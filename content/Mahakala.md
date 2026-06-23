@@ -10,7 +10,6 @@ aliases:
  - "Mahakala"
 wikipedia: https://es.wikipedia.org/wiki/Mahakala
 ---
-# Mahakala
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mahakala.png]]

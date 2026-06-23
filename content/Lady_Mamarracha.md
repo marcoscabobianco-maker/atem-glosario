@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Lady Mamarracha"
 ---
-# Lady Mamarracha
 
 ## Presentación
 

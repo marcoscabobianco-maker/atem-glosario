@@ -5,8 +5,6 @@ aliases:
  - "Agnimia"
 ---
 
-# Agnimia
-
 ## Presentación
 
 **Fuentes:** Taller l.1416

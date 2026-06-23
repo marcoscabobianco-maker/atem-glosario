@@ -24,8 +24,6 @@ tags:
  - sobreviviente
 ---
 
-# El Fabuloso
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Fabuloso.png]]
 <!-- /HEADER_IMG -->

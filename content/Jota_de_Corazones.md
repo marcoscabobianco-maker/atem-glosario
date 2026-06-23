@@ -5,7 +5,6 @@ tags:
 aliases:
  - "Jota de Corazones"
 ---
-# Jota de Corazones
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Jota_de_Corazones.png]]

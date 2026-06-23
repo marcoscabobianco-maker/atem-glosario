@@ -17,8 +17,6 @@ tags:
 imagen: Imagenes_Tier1/Kairos_Homo_Magus.png
 ---
 
-# Kairos, Homo Magus
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kairos_Homo_Magus.png]]
 <!-- /HEADER_IMG -->

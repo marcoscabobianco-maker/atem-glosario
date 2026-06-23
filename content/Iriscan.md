@@ -10,8 +10,6 @@ aliases:
  - "Iriscan"
 ---
 
-# Iriscan
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Iriscan.png]]
 <!-- /HEADER_IMG -->

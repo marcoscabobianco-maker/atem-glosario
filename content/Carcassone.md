@@ -5,8 +5,6 @@ tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Carcassone", "Carcassonne"]
 ---
 
-# Carcassone
-
 Ciudad amurallada del Languedoc, Carcassone lleva siglos siendo simbolo de la frontera interior de [[Francia]]: la frontera entre el norte capeto y el sur occitano, entre la lengua d'oil y la lengua d'oc, entre la corona y los reinos que esta devoro. En 1648 su nombre evoca todavia ese pasado de resistencia y de herejia sometida.
 
 Durante la Fronda, la ciudad aparece en el horizonte de los asuntos meridionales: no es el centro de los combates parlamentarios — esos se libran en Paris — pero las redes nobiliarias del sur, incluidos los Felon y los señores de los condados vecinos, la nombran como referencia geografica y como punto de paso. Quien controla las ciudades del Languedoc controla las rutas que alimentan a Paris con trigo, sal y reclutas.

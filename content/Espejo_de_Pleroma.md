@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Espejo_de_Pleroma.png
 ---
 
-# El Espejo de Pleroma
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Espejo_de_Pleroma.png]]
 <!-- /HEADER_IMG -->

@@ -22,7 +22,6 @@ tags:
  - bellaca
  - belac
 ---
-# Árbol Gulthias
 
 > *El árbol vampirico del. En el setting del ciclo, manifestación local del [[Arbol_de_Armas_Principal|Árbol de Armas Principal]] vía rizoma. [[Bellaca]] como su reina. Belac como su custodio terrenal.*
 

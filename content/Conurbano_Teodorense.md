@@ -9,8 +9,6 @@ aliases:
  - "Conurbano Teodorense"
 ---
 
-# Conurbano Teodorense
-
 ## Presentación
 
 Grupo aventurero asociado a la ciudad de [[Teodora]].

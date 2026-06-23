@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Escarabajo Protector"
 ---
-# Escarabajo Protector
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Escarabajo_Protector.png]]

@@ -21,7 +21,6 @@ tags:
  - marsella
  - narbona
 ---
-# Carcasona
 
 > *El castillo tomado por diablos en el camino del 300 Atlantes hacia París. Punto crucial de la hilera de batallas de los Reguladores. Donde se defendieron hasta que llegó el dragón.*
 

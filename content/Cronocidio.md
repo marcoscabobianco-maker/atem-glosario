@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Cronocidio"
 ---
-# Cronocidio
 
 ## Presentación
 

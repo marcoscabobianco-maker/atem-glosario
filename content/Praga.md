@@ -17,8 +17,6 @@ tags:
  - stub
 ---
 
-# Praga
-
 > *La ciudad donde el Juego de las Sombras se instaló por primera vez. Punto de entrada de los [[Libertateurs]].*
 
 ## Presentación

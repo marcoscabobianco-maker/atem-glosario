@@ -12,8 +12,6 @@ aliases:
 wikipedia: https://es.wikipedia.org/wiki/Abraxas
 ---
 
-# Abraxas
-
 ## Presentación
 
 [[Entidad]] gnóstica de la tradición del gnosticismo tardío (especialmente en Basílides, siglo II d.C.), asociada al tiempo, los ciclos y el poder supremo. En el cosmos compartido de , Abraxas aparece integrado al universo compartido como referencia cosmológica de peso.

@@ -29,7 +29,6 @@ tags:
  - infraestructura-cosmologica
 imagen: null
 ---
-# Las Plataformas de Vala-Ely
 
 > *"Hay zonas del mundo-gema que ya no operan como antes. Las Plataformas son de esas: piedras que recuerdan haber sido pasarela, río que recuerda haber sido frontera, aire que recuerda haber tenido función. La memoria opera; la operación se ha cerrado."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*, diciembre de 1824 AE.
 

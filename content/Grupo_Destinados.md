@@ -5,8 +5,6 @@ aliases:
  - "Grupo & \"Destinados\""
 ---
 
-# Grupo & "Destinados"
-
 ## Presentación
 
 **Hipótesis:** Grupo es ciclo de encarnaciones de viajeros anteriores. Están predestinados a resolver apocalipsis temporal.

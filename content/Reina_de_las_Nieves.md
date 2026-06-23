@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Reina de las Nieves"
 ---
-# Reina de las Nieves
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Reina_de_las_Nieves.png]]

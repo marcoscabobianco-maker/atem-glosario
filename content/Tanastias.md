@@ -13,8 +13,6 @@ aliases:
 epoca: "Edad de los Reinos Olvidados — sede de la Sagrada Orden"
 ---
 
-# Tanastias
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tanastias.png]]
 <!-- /HEADER_IMG -->

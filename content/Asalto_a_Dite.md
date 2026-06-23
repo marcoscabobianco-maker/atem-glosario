@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Asalto a Dite"
 ---
-# Asalto a Dite
 
 ## Presentación
 

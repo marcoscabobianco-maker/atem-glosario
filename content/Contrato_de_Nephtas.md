@@ -10,8 +10,6 @@ aliases:
  - "Contrato de Nephtas"
 ---
 
-# Contrato de Nephtas
-
 ## Presentación
 
 Objeto mágico recurrente en el cosmos compartido. Un contrato que obliga totalmente a quienes lo firman voluntariamente. Utilizado por figuras de autoridad para vincular a los firmantes a misiones o compromisos de manera irrevocable.

@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Fanchon"
 ---
-# Fanchon
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Fanchon.png]]

@@ -25,7 +25,6 @@ tags:
  - reinado-trunco
 imagen: null
 ---
-# Phocion IV
 
 > *"Hay emperadores cuyo nombre el aparato graba en piedra junto a una sola fecha, y la fecha no es la del reinado sino la del fracaso. Eso es Phocion IV. Es figura honorable, pero archivada de pie ante una losa."* — del *[[Decadiano]]*, libro VIII, sobre los reinados truncos.
 

@@ -5,8 +5,6 @@ aliases:
 referenciado_por: 2
 ---
 
-# Ubicación en Laberinto
-
 ## Referencias entrantes
 
 Esta entrada es mencionada desde:

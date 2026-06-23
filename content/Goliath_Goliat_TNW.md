@@ -19,7 +19,6 @@ tags:
  - campamento-ruso
 imagen: Imagenes_Tier1/Goliath_Goliat_TNW.png
 ---
-# El Goliat
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Goliath_Goliat_TNW.png]]

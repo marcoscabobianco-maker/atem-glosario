@@ -13,8 +13,6 @@ aliases:
  - "Sigil + Logos"
 ---
 
-# SOGOL
-
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->
 <!-- /HEADER_IMG -->

@@ -12,7 +12,6 @@ aliases:
  - "Hombres Búfalo"
  - "Buffalo Men"
 ---
-# Hombres Búfalo / Buffalo Men
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Hombres_Bufalo_Buffalo_Men.png]]

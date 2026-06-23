@@ -12,8 +12,6 @@ aliases:
  - "Panteón Posmoderno"
 ---
 
-# Panteón Posmoderno
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Panteon_Posmoderno.png]]
 <!-- /HEADER_IMG -->

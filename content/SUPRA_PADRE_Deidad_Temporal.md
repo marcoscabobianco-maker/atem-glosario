@@ -20,7 +20,6 @@ tags:
  - kronamon
  - stub
 ---
-# Supra Padre
 
 > *El padre de Pablo. [[Entidad]] de rango superior en la jerarquía de los viajeros temporales. La catedral negra donde fue torturado.*
 

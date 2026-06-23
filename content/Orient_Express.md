@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Orient Express"
 ---
-# Orient Express
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Orient_Express.png]]

@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Cronotime"
 ---
-# Cronotime
 
 ## Presentación
 

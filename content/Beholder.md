@@ -4,8 +4,6 @@ aliases:
  - "Beholder"
 ---
 
-# Beholder
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Beholder.png]]
 <!-- /HEADER_IMG -->

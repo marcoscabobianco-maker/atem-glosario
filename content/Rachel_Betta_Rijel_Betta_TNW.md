@@ -21,7 +21,6 @@ tags:
  - feminista
 imagen: Imagenes_Tier1/Rachel_Betta_Rijel_Betta_TNW.png
 ---
-# Rachel Betta — Rijel Betta
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Rachel_Betta_Rijel_Betta_TNW.png]]

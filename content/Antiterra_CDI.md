@@ -7,7 +7,6 @@ aliases:
  - "Antiterra (CDI)"
  - "CDI"
 ---
-# Antiterra (CDI)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Antiterra_CDI.png]]

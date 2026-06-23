@@ -16,7 +16,6 @@ tags:
  - crossover
  - inferno
 ---
-# Cristo León
 
 > *Co-cronista. Dueño del Mundo de Krile. Hermano de crónica en las Convergencias (Masters) donde reaparecen los hilos de [[Paladin_in_Hell]] y del [[Vala_Cristalis]].*
 

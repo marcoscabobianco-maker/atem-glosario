@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Prefectos del Tiempo"
 ---
-# Prefectos del Tiempo
 
 ## Presentación
 

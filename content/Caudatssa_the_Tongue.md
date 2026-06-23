@@ -19,8 +19,6 @@ tags:
  - heqeti-pequeño-equipo
 ---
 
-# Caudatssa the Tongue
-
 > *Tongue heqeti subordinado a [[Reepsiq]]. Líder del pequeño equipo heqeti en el Upper [[Temple_complejo_TE|Temple]] de la Corte del Thegn. Restauración cautelosa del antiguo zigurat heqeti.*
 
 ## Presentación

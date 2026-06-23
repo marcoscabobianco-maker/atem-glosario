@@ -24,7 +24,6 @@ tags:
  - estela-ceniza-dorada
 imagen: null
 ---
-# La Giganta Antigua
 
 > *"Aquella entidad colosal —nacida de las antiguas deidades volcánicas y protectoras del orden natural— había sido apresada desde tiempos remotos."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

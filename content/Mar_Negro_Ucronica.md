@@ -9,7 +9,6 @@ aliases:
  - "Ucrónica"
  - "Mar Negro"
 ---
-# Mar Negro (Ucrónica)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mar_Negro_Ucronica.png]]

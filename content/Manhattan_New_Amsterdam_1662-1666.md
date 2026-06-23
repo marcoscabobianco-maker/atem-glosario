@@ -17,8 +17,6 @@ aliases:
  - "Manhattan / New Amsterdam"
 ---
 
-# Manhattan / New Amsterdam (1662-1666)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Manhattan_New_Amsterdam_1662-1666.png]]
 <!-- /HEADER_IMG -->

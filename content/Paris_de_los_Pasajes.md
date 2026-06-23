@@ -24,7 +24,6 @@ tags:
  - apollinaire
 imagen: null
 ---
-# París de los Pasajes — cuaderno parisino
 
 > *"Puede ser verdad que París funcione como ciudad de las puertas. Cada pequeña vida, incluso, entra en resonancia con su futuro."* — del cuaderno C42, entrada del 16 de diciembre.
 

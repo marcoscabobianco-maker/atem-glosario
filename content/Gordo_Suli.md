@@ -5,8 +5,6 @@ aliases:
  - "Gordo Suli"
 ---
 
-# Gordo Suli
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gordo_Suli.png]]
 <!-- /HEADER_IMG -->

@@ -6,7 +6,6 @@ tags:
 aliases:
  - "**Mushushu**"
 ---
-# **Mushushu**
 
 ## Presentación
 

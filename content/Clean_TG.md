@@ -13,8 +13,6 @@ aliases:
  - "Clean"
 ---
 
-# Clean (TG)
-
 ## Presentación
 
 Rectora del **[[Liceo_Sabasio|Liceo Sabasio]]**. "Bajo su cargo eficientista muchos han perdido miembros, esperanzas y calor. Su gestión es pulcra por definición y la sangre de sus castigos se absorbe sin dejar mancha alguna en su blanco atuendo" (Bestiario).

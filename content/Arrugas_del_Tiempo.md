@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Arrugas del Tiempo"
 ---
-# Arrugas del Tiempo
 
 ## Presentación
 

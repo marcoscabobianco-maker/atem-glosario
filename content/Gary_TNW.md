@@ -27,7 +27,6 @@ tags:
 imagen: Imagenes_Tier1/Gary_TNW.png
 epoca: "Edad del Mundo Nuevo — corpus Gary"
 ---
-# Gary TNW (campaña)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gary_TNW.png]]

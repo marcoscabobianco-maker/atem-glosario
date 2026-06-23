@@ -20,7 +20,6 @@ tags:
  - posesion-mental
 imagen: Imagenes_Tier1/Dimitri_TNW.png
 ---
-# Dimitri Ivanov
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dimitri_TNW.png]]

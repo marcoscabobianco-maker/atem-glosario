@@ -17,7 +17,6 @@ tags:
  - alejandria
  - infierno
 ---
-# El Libro de Ptolomeo
 
 > *Donde Dante bajó, este libro se queda en la superficie del mundo: no canta el descenso sino la vuelta de la Tierra entera, río por río, costa por costa. El que lo lea no verá el Infierno; verá el mapa de lo que el Infierno quiere tragarse.*
 

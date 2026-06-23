@@ -18,7 +18,6 @@ tags:
  - rio-ucronos
  - pimienta
 ---
-# Bayrum Quar'amon Cristalia
 
 > *Hijo de mercader de pimienta del Río [[Rio_Ucronos|Ucronos]]. Parte drow. Sacerdote de Thoth y hechicero. Sortiano sin declaración formal.*
 

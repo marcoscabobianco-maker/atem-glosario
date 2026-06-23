@@ -11,8 +11,6 @@ aliases:
  - "Arkane Society"
 ---
 
-# Arkane Society
-
 ## Presentación
 
 Organización que busca [[La_Hostia_artefacto|la Hostia]]. Facción antagónica durante la fase del Dungeon. Agenda pendiente de clarificación.

@@ -14,7 +14,6 @@ tags:
  - golpe-retributivo
  - destructor
 ---
-# Latromis
 
 > *El que partió caminos con el [[Elias|Magíster]], y volvió con la Vara del Mago.*
 

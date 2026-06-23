@@ -4,8 +4,6 @@ aliases:
  - "Sancta Sanctorum Templarios"
 ---
 
-# Sancta Sanctorum Templarios
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sancta_Sanctorum_Templarios.png]]
 <!-- /HEADER_IMG -->

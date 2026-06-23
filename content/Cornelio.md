@@ -18,7 +18,6 @@ tags:
  - muerto
  - asesino-frances
 ---
-# Cornelio · Nazimar
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cornelio.png]]

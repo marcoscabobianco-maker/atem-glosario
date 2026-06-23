@@ -22,7 +22,6 @@ tags:
  - reguladores
 imagen: null
 ---
-# Templarios del Tiempo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Templarios_del_Tiempo.png]]

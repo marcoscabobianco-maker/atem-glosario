@@ -20,8 +20,6 @@ tags:
 imagen: Imagenes_Tier1/Concilio_Tribal_NC.png
 ---
 
-# Concilio Tribal — la noche del fuego
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Concilio_Tribal_NC.png]]
 <!-- /HEADER_IMG -->

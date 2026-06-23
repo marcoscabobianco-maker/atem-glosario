@@ -14,8 +14,6 @@ aliases:
  - "Mortai"
 ---
 
-# Mortai (Espíritu de los Vientos)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mortai_Espiritu_de_los_Vientos.png]]
 <!-- /HEADER_IMG -->

@@ -7,8 +7,6 @@ aliases:
  - "El Viejo"
 ---
 
-# El Viejo (Constructo Doméstico)
-
 ## Presentación
 
 **Tipo:** Espíritu doméstico / Dodi (duende de casa)

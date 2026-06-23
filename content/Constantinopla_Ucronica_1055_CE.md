@@ -25,7 +25,6 @@ tags:
  - cristalizacion-temporal
 imagen: Imagenes_Tier1/Constantinopla_Ucronica_1055_CE.png
 ---
-# Constantinopla Ucrónica (1050–1055)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Constantinopla_Ucronica_1055_CE.png]]

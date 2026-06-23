@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Henriette"
 ---
-# Henriette
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Henriette.png]]

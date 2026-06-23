@@ -18,7 +18,6 @@ tags:
  - tibre
 imagen: Imagenes_Tier1/Puente_Sublicio.png
 ---
-# El Puente Sublicio
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Puente_Sublicio.png]]

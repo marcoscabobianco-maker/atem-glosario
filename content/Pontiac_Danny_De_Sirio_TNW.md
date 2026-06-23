@@ -11,8 +11,6 @@ aliases:
  - "Pontiac / Danny De Sirio"
 ---
 
-# Pontiac / Danny De Sirio (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pontiac_Danny_De_Sirio_TNW.png]]
 <!-- /HEADER_IMG -->

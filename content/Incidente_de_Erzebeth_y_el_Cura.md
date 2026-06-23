@@ -11,8 +11,6 @@ aliases:
  - "Incidente de Erzebeth y el Cura"
 ---
 
-# Incidente de Erzebeth y el Cura
-
 ## Presentación
 
 **Ref.:** jornada documentada (erzebetha escopetea al cura mexicano).

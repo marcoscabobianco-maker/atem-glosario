@@ -11,8 +11,6 @@ aliases:
  - "Roc (Ave de Gula)"
 ---
 
-# **Roc (Ave de Gula)**
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Roc_Ave_de_Gula.png]]
 <!-- /HEADER_IMG -->

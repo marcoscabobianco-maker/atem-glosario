@@ -20,8 +20,6 @@ aliases:
 imagen: null
 ---
 
-# Citroën 2CV (robado)
-
 > *Quinientos treinta kilómetros de ripio en un cascarón de chapa prestada y patente ajena. El auto no es de nadie y por eso sirve: lo que va adentro tampoco quiere que lo encuentren.*
 
 ---

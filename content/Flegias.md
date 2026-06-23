@@ -5,7 +5,6 @@ tags:
 aliases:
  - "Flegias"
 ---
-# Flegias
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Flegias.png]]

@@ -5,8 +5,6 @@ aliases:
  - "Demonio Capuchado (Forma Andrógeno Fuego/Escama)"
 ---
 
-# Demonio Capuchado (Forma Andrógeno Fuego/Escama)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Demonio_Capuchado_Forma_Androgeno_Fuego_Escama.png]]
 <!-- /HEADER_IMG -->

@@ -19,7 +19,6 @@ tags:
  - muerto
  - en-rex
 ---
-# Primus / Señor del Orden
 
 > *Primus, el dios-máquina de los Modrons y señor del [[Mechanus|Plano de la Ley]]. (El archivo lo registró a veces como "Primos", por error de transcripción.) Muerto por el Rex en el arco del [[Amuleto_de_los_Planos]].*
 

@@ -14,8 +14,6 @@ aliases:
  - "Sucor"
 ---
 
-# Sucor (TG)
-
 ![[Imagenes_Tier1/Sucor_Moto.png]]
 
 ![[Imagenes_Tier1/Sucor_TG_Wrath.png]]

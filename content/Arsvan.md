@@ -22,8 +22,6 @@ tags:
 epoca: "1119 AD — Edad Templaria — hasta su sacrificio en 1889 A.D.A."
 ---
 
-# Ärsvan
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Arsvan.png]]
 <!-- /HEADER_IMG -->

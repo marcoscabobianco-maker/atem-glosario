@@ -20,8 +20,6 @@ aliases:
 imagen: null
 ---
 
-# Piluso Rodríguez
-
 > *El que metió al marino en el avión sin decirle hacia dónde iba.*
 
 ---

@@ -16,8 +16,6 @@ aliases:
 wikipedia: https://es.wikipedia.org/wiki/Profundos_(Mitos_de_Cthulhu)
 ---
 
-# La Princesa (Profundos)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Princesa_Profundos.png]]
 <!-- /HEADER_IMG -->

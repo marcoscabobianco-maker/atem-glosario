@@ -24,7 +24,6 @@ tags:
  - ravenloft
 imagen: Imagenes_Tier1/Valakhan_de_la_Bruma.png
 ---
-# Valakhan de la Bruma
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Valakhan_de_la_Bruma.png]]

@@ -9,7 +9,6 @@ tags:
  - personaje
  - stub
 ---
-# Scilla
 
 > *Compañero del cosmos. No es Scya, el monstruo femenino de [[Galia_Narbonensis]].*
 

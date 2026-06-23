@@ -8,8 +8,6 @@ aliases:
  - "Los Elegidos"
 ---
 
-# Los Elegidos
-
 ## Presentación
 
 Grupo aventurero.

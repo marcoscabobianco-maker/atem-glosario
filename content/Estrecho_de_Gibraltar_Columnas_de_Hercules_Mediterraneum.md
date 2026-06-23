@@ -15,8 +15,6 @@ aliases:
  - "Estrecho de Gibraltar / Columnas de Hércules"
 ---
 
-# Estrecho de Gibraltar / Columnas de Hércules (Mediterraneum)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Estrecho_de_Gibraltar_Columnas_de_Hercules_Mediterraneum.png]]
 <!-- /HEADER_IMG -->

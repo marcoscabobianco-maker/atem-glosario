@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Warhol"
 ---
-# Warhol
 
 ## Presentación
 

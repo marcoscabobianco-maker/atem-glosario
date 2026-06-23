@@ -5,8 +5,6 @@ tags: ["personaje", "vala"]
 aliases: ["Midori"]
 ---
 
-# Midori
-
 Entre los Wordbreakers, Midori fue figura de primer rango: guerrera de exploración cuya presencia atravesó los arcos mayores del ciclo —la audiencia con el Rey del Mediodía, la persecución del [[Bogeyman]], el asalto a la Torre Ob Caligni, el arco del Huevo Negro. Su nombre lleva el color del crecimiento; el motivo que la define es el faro.
 
 El faro de Midori es topónimo y destino a la vez: un faro costero de la orilla atlántica del mundo Vala, trasunto del gran Faro de Alejandría, que reaparece como imagen recurrente a lo largo de su historia individual. El episodio conocido como "Midori faro" marca el momento en que la guerrera se aleja del grupo y emprende un arco solitario ligado a esa luz remota.

@@ -25,7 +25,6 @@ tags:
  - draga
 imagen: Imagenes_Tier1/Draga_Machine.png
 ---
-# Draga Machine — la Reina enamorada
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Draga_Machine.png]]

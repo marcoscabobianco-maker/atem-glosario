@@ -5,8 +5,6 @@ aliases:
  - "Tesoro de Santuario"
 ---
 
-# Tesoro de Santuario
-
 ## Presentación
 
 Conjunto de objetos dispersos en el suelo del [[Santuario_Templario_ex-Fortaleza_Cruzada|santuario]] tras el combate, aún sin catalogar en su totalidad. Entre ellos podrían contarse artefactos mágicos y reliquias de origen templario.

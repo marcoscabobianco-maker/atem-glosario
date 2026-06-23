@@ -5,8 +5,6 @@ tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Madeline Boulet", "Madeline"]
 ---
 
-# Madeline Boulet
-
 Nació en el lado alemán de la Guerra de los Treinta Años, durante la batalla del Puente de Dessau, mientras su padre biológico combatía. La familia sucumbió al tifus; Madeline sobrevivió sola hasta que un asalto de la armada francesa la puso en el camino de [[Marie_Boulet|Marie Boulet]], una mujer que acababa de perder a su hijo Pierre. Marie la adoptó, y en ese gesto de una pérdida que se convierte en amparo quedó sellado el carácter de Madeline.
 
 Criada entre soldados y campamentos, aprendió a disparar, a cargar armas y a saquear si la situación lo exigía. Nunca bajó la guardia frente a los hombres que la miraban con desprecio, y forjó en cambio camaradería con los que la trataron como igual: entre ellos, el salvaje [[Bernard]] y el carismático [[Marcel]], su hermano de armas de toda la campaña. Cuando la orden de regresar a [[Paris|París]] llegó, la ciudad le resultó intolerable en su bullicio. Con los ahorros y el botín de años reunidos, compró una casa de campo en las afueras y la convirtió en la [[St_Pierre_Inn|Posada de Saint Pierre]], donde [[Marie_Boulet|Marie]] pasó sus últimos años y donde nació una nueva chispa de rebeldía.

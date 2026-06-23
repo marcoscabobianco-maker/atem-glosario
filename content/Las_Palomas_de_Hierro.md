@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Las Palomas de Hierro"
 ---
-# Las Palomas de Hierro
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Las_Palomas_de_Hierro.png]]

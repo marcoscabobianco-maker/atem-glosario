@@ -23,7 +23,6 @@ tags:
  - vampirismo
  - san-vito
 ---
-# La Mano Negra
 
 > *"Ujedinjenje ili Smrt — Unión o Muerte. La consigna no es eslogan: es fórmula de pacto."*
 

@@ -12,8 +12,6 @@ aliases:
  - "el Caos"
 ---
 
-# Limbo
-
 > Plano exterior del Caos puro en cosmología D&D. Hogar de slaadi y githzerai. Materia prima moldeable por voluntad. Aparece en el ciclo vía [[Taberna_de_la_Serpiente_Mundo]].
 
 ## Origen en D&D

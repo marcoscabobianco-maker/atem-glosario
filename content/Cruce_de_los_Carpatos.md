@@ -21,8 +21,6 @@ tags:
 imagen: Imagenes_Tier1/Cruce_de_los_Carpatos.png
 ---
 
-# El Cruce de los Cárpatos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cruce_de_los_Carpatos.png]]
 <!-- /HEADER_IMG -->

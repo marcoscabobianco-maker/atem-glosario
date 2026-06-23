@@ -26,8 +26,6 @@ tags:
  - archontean
 ---
 
-# Court of Troll Thegn
-
 > *Donde **[[Varboka]] [[Varboka|First Thegn]]** preside sobre los [[Varumani]] que aún quedan. Pasaportes obligatorios. Cuatro culturas superpuestas.*
 
 ## Presentación

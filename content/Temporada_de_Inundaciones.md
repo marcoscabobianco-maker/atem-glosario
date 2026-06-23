@@ -23,8 +23,6 @@ tags:
 imagen: null
 ---
 
-# La Temporada de Inundaciones
-
 > *"En nuestra ciudad construida dentro de la caldera de un volcán inactivo, las lluvias de noviembre se convierten en amenazas constantes que inundan las casas de los más pobres."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

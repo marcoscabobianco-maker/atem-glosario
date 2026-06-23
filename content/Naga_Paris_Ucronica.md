@@ -24,7 +24,6 @@ tags:
  - hipnosis
 imagen: Imagenes_Tier1/Naga_Paris_Ucronica.png
 ---
-# Las Nagas (de París Ucrónica)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Naga_Paris_Ucronica.png]]

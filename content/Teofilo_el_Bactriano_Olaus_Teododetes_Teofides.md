@@ -14,8 +14,6 @@ aliases:
  - "Teófides"
 ---
 
-# Teófilo el Bactriano / Olaus / Teododetes / Teófides
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Teofilo_el_Bactriano_Olaus_Teododetes_Teofides.png]]
 <!-- /HEADER_IMG -->

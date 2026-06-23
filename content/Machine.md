@@ -8,8 +8,6 @@ aliases:
  - "Machine"
 ---
 
-# Machine
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Machine.png]]
 <!-- /HEADER_IMG -->

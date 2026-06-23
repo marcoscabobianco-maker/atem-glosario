@@ -10,8 +10,6 @@ aliases:
  - "Destejer / Recoser"
 ---
 
-# "Destejer / Recoser" (Metáfora temporal)
-
 ## Presentación
 
 - **Referencia:** describe tiempo como "alfombra desplegada" con patrón que puede "destejer"

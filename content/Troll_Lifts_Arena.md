@@ -24,7 +24,6 @@ tags:
  - frost-mother
  - whitemane
 ---
-# Troll Lifts & Arena
 
 > *Tres islas de paz en un mar de muerte. Los ascensores troll de los [[Varumani]], la Posada de los Perdidos de Whitemane, y la Arena del Lord — más todo lo que está afuera.*
 

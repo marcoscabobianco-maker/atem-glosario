@@ -27,7 +27,6 @@ tags:
  - pliegues-paralelos
 imagen: null
 ---
-# La Línea Arian — avatares y Reunidos
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Linea_Arian_Avatares.png]]

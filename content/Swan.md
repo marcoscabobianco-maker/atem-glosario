@@ -6,8 +6,6 @@ aliases:
  - "Swan"
 ---
 
-# Swan
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Swan.png]]
 <!-- /HEADER_IMG -->

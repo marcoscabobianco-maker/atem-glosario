@@ -12,8 +12,6 @@ aliases:
  - "Johny Vengador"
 ---
 
-# Johny Vengador (TG)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Johny_Vengador_TG.png]]
 <!-- /HEADER_IMG -->

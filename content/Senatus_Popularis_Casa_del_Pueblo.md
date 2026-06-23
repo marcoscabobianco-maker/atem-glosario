@@ -11,7 +11,6 @@ aliases:
  - "Senatus Popularis"
  - "Casa del Pueblo"
 ---
-# Senatus Popularis / Casa del Pueblo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Senatus_Popularis_Casa_del_Pueblo.png]]

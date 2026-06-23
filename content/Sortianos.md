@@ -26,7 +26,6 @@ tags:
  - bayrum-inclinacion
 imagen: null
 ---
-# Sortianos — la facción de la chispa abierta
 
 > *"La chispa no consulta heráldica antes de prenderse en el dedo del aprendiz. La política mágica, si quiere ser justa, tampoco."* — del libro perdido *De Magia Distributa*, atribuido a [[Priscus_Pulcher]]; cita conservada en glosa al *[[Decadiano]]*, libro III.
 

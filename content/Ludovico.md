@@ -12,8 +12,6 @@ aliases:
  - "Ludovico"
 ---
 
-# Ludovico
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ludovico.png]]
 <!-- /HEADER_IMG -->

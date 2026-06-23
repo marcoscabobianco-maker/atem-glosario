@@ -5,8 +5,6 @@ tags: ["lugar", "vala"]
 aliases: ["Valle de la Tempestad"]
 ---
 
-# Valle de la Tempestad
-
 El Valle de la Tempestad se abre cerca de Tres Arroyos, del lado de las montañas del sur. En su interior descansan las ruinas de un templo consagrado a un dios de las tormentas —ni bueno ni malo, anterior al orden imperial— que fue destruido por los adoradores de Gilgamesh cuando el culto solar avanzó sobre los cultos autóctonos. Bajo esas ruinas permanece enterrada una tecnología perdida: la capacidad de crear constructos que recuerdan a criaturas antiguas, secretos vinculados a la electricidad y a las máquinas que el viejo templo supo custodiar.
 
 Los Wordbreakers llegaron al Valle siguiendo el rastro de la paladina [[Thalia_Cristalia|Talia Cristalia]], quien había entrado en busca del anillo y la vara que controlan a un ser capturador de almas. Talia cayó y quedó en animación suspendida; los viajeros descendieron a rescatarla y al hacerlo despertaron al dragón guardián que custodiaba el lugar. Cuatro jornadas registra el archivo en torno a ese arco: el descenso, el combate, la reunión del grupo y su resolución.

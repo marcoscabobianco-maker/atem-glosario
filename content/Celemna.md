@@ -12,8 +12,6 @@ aliases:
  - "Celemna"
 ---
 
-# Celemna
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Celemna.png]]
 <!-- /HEADER_IMG -->

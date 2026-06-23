@@ -16,8 +16,6 @@ aliases:
  - "Axum"
 ---
 
-# Axum (MC)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Axum_MC.png]]
 <!-- /HEADER_IMG -->

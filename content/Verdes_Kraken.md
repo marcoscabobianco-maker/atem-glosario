@@ -5,8 +5,6 @@ aliases:
  - "Verdes Kraken"
 ---
 
-# Verdes Kraken
-
 ## Presentación
 
 **Fuentes:** Taller l.1549, 1594, 1605

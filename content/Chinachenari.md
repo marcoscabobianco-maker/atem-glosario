@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Chinachenari"
 ---
-# Chinachenari
 
 ## Presentación
 

@@ -12,8 +12,6 @@ aliases:
  - "Portales de Iron Mountain"
 ---
 
-# Portales de Iron Mountain (TNW)
-
 ## Presentación
 
 1. **1987** — presente ([[Gary_Indiana_TNW|Gary, Indiana]])

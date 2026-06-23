@@ -20,8 +20,6 @@ tags:
 imagen: null
 ---
 
-# Templo de San Cutberto
-
 > *"De San Cutberto, el guardián, se dice que cuidó nidos antes que rebaños y rebaños antes que reinos. El templo que lleva su nombre en [[Caldero]] hace lo mismo, pero en orden inverso: cuida primero el reino, después los rebaños, y los nidos sólo cuando la sacerdotisa los recuerda."* — del *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de [[Narsileon]].
 
 ---

@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Criaturas Prismáticas"
 ---
-# Criaturas Prismáticas
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Criaturas_Prismaticas.png]]

@@ -17,7 +17,6 @@ tags:
  - decio-balmora
  - grieta
 ---
-# Ciudadela Sin Sol
 
 > *"En ese risco es donde antes estaba justamente tu castillo, que se hundió unos 20, 30, 40 metros hacia abajo y quedó como en escombros."*
 

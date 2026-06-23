@@ -24,7 +24,6 @@ tags:
  - pareja-thalia-cristalia
  - tercer-avatar
 ---
-# Tailoor
 
 > *Dios del amor, del juego y de los pactos. La libertad es su camino. Sobreviviente de [[Vala_Antigua]]. Tercer avatar del padre triple, anagrama de [[Lotario]] y [[Oratiol]]. Pareja cosmológica de [[Thalia_Cristalia]], padre de [[Vitalis]].*
 

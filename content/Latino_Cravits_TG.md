@@ -14,8 +14,6 @@ aliases:
  - "Latino Cravits"
 ---
 
-# Latino Cravits (TG)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Latino_Cravits_TG.png]]
 <!-- /HEADER_IMG -->

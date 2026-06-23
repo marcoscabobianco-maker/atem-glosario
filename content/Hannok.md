@@ -15,7 +15,6 @@ tags:
  - beastlands
  - stub
 ---
-# Hannok
 
 > *Compañero de [[Las_Tullidas]]. Aparece también en el arco de [[Agatha]] en las Beastlands.*
 

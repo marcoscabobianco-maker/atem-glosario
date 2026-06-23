@@ -5,8 +5,6 @@ aliases:
  - "Gigantes de Ur"
 ---
 
-# Gigantes de Ur
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gigantes_de_Ur.png]]
 <!-- /HEADER_IMG -->

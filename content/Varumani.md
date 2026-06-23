@@ -22,7 +22,6 @@ tags:
  - troll-market
  - tres-castas
 ---
-# Varumani (pueblo)
 
 > *Los trolls de [[Ardis_Vala|Arden Vul]]. Tres castas: true, lesser, bestial. Cien true que quedan. Pueblo en declive bajo [[Varboka]]. Operadores de [[Troll_Lifts_Arena|Troll Lifts]], [[Troll_Lifts_Arena|Inn of the Lost]], Arena.*
 

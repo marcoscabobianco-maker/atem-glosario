@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Natalio Ruiz"
 ---
-# Natalio Ruiz
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Natalio_Ruiz.png]]

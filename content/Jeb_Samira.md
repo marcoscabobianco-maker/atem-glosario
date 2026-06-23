@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Jeb Samira"
 ---
-# Jeb Samira
 
 ## Presentación
 

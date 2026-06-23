@@ -23,7 +23,6 @@ tags:
  - dios-imperial
 imagen: null
 ---
-# Thoth
 
 > *"Thoth no habla con palabras. Habla con marcas. Quien aprende a leer las marcas que él dejó, deja de necesitar palabras."* — del cuaderno operativo del [[Fogimer|clérigo Foggimer]], anotación marginal sobre los manuscritos.
 

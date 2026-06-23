@@ -8,8 +8,6 @@ aliases:
  - "Araspel"
 ---
 
-# Arafel
-
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->
 <!-- /HEADER_IMG -->

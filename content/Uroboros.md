@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Uroboros"
 ---
-# Uroboros
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Uroboros.png]]

@@ -10,8 +10,6 @@ aliases:
  - "StormJay Idaho"
 ---
 
-# StormJay Idaho
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/StormJay_Idaho.png]]
 <!-- /HEADER_IMG -->

@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Crónicas Familiares"
 ---
-# Crónicas Familiares
 
 ## Presentación
 

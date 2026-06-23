@@ -29,7 +29,6 @@ tags:
  - hechicero
 imagen: Imagenes_Tier1/Arkos.png
 ---
-# Arkos (el Archivero del Plata)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Arkos.png]]

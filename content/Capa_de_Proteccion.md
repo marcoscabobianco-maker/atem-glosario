@@ -7,8 +7,6 @@ aliases:
  - "**Capa de Protección**"
 ---
 
-# **Capa de Protección**
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Capa_de_Proteccion.png]]
 <!-- /HEADER_IMG -->

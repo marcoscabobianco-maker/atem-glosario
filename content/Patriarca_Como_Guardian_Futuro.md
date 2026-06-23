@@ -5,8 +5,6 @@ aliases:
  - "Patriarca Como Guardián Futuro"
 ---
 
-# Patriarca Como Guardián Futuro
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Patriarca_Como_Guardian_Futuro.png]]
 <!-- /HEADER_IMG -->

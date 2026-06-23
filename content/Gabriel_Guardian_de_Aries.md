@@ -12,7 +12,6 @@ aliases:
  - "Guardián de Aries"
  - "Gabriel"
 ---
-# Gabriel (Guardián de Aries)
 
 ## Presentación
 

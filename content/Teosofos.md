@@ -25,7 +25,6 @@ tags:
  - permeacion-imperial
 imagen: null
 ---
-# Teósofos — la facción del don sagrado
 
 > *"La chispa no se distribuye en el mercado. Se hereda en el atrio, junto al fuego del altar y la sangre del padre que enseñó a leer el nombre verdadero del dios. Quien no respeta esa transmisión, profana."* — Fragmento de la *Apologia ad Magos*, atribuida a un hierofante teósofo anónimo del Cisma; conservada en biblioteca privada de [[Glastumville]].
 

@@ -12,7 +12,6 @@ aliases:
  - "TG"
  - "Panteón Posmoderno — dioses menores"
 ---
-# Panteón Posmoderno — dioses menores (TG)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Panteon_Posmoderno_dioses_menores_TG.png]]

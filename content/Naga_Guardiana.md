@@ -4,8 +4,6 @@ aliases:
  - "Naga Guardiana"
 ---
 
-# Naga Guardiana
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Naga_Guardiana.png]]
 <!-- /HEADER_IMG -->

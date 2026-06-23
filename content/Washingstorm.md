@@ -13,8 +13,6 @@ aliases:
  - "Washingstorm"
 ---
 
-# Washingstorm
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Washingstorm.png]]
 <!-- /HEADER_IMG -->

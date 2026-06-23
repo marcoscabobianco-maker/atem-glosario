@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Meteora"
 ---
-# Meteora
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Meteora.png]]

@@ -20,7 +20,6 @@ tags:
  - linea-paterna-perdida
 imagen: null
 ---
-# Masracht del Prism Keep
 
 > *"Un padre puede ser figura ausente. Un padre puede ser figura corruptora. Masracht fue ambas, y la primera no canceló a la segunda: la complementó."*
 

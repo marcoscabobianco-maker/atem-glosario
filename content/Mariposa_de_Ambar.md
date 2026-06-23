@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Mariposa de Ámbar"
 ---
-# Mariposa de Ámbar
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mariposa_de_Ambar.png]]

@@ -16,8 +16,6 @@ aliases:
 epoca: "1368-1375 DR — Edad de los Reinos Olvidados — Danza del Conocimiento y Juicio Final"
 ---
 
-# Minaya (MC)
-
 ## Presentación
 
 Personaje de **el **. Semi-drow, hijo de **[[Coyote]]** (el Plateado) y **Zara** (drow que representa a [[Eilistraee]]). Nacido en 1348 DR en los Reinos Olvidados. Clase dual clérigo/guardabosque. No sabía su pasado hasta la **[[Danza_del_Conocimiento]]** (Marpenoth 6, 1368 DR — "caída de hojas"). Portador de la espada de **[[Eilistraee]]**, encarnación misma de la diosa de la luna.

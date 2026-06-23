@@ -10,7 +10,6 @@ aliases:
  - "TNW"
  - "Clara Klein / Kling"
 ---
-# Clara Klein / Kling (TNW)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Clara_Klein_Kling_TNW.png]]

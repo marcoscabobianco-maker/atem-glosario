@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Suite Forgot"
 ---
-# Suite Forgot
 
 ## Presentación
 

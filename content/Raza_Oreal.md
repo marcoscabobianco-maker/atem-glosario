@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Raza Oreal"
 ---
-# Raza Oreal
 
 ## Presentación
 

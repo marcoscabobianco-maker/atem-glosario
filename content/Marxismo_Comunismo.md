@@ -5,8 +5,6 @@ aliases:
 en_construccion: true
 ---
 
-# Marxismo Comunismo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Marxismo_Comunismo.jpg]]
 <!-- /HEADER_IMG -->

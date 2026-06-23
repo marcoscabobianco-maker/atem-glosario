@@ -29,7 +29,6 @@ tags:
  - fundacion-imperio
 imagen: null
 ---
-# Pacto de Elías
 
 > *"En la noche del vino ensangrentado, siete bocas dracónicas se cerraron sobre la misma copa que la boca humana del Primer Señor había acabado de tocar. La copa no se vació ni se llenó. Permaneció. Quien quiera entender al Imperio Archonteo, empiece por esa copa que no se vacía."* — del *Códice del [[Monte_Ennio]]*, redacción primera; cita conservada en el *[[Decadiano]]*, libro I.
 

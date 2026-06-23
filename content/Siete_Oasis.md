@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Siete Oasis"
 ---
-# Siete Oasis
 
 ## Presentación
 

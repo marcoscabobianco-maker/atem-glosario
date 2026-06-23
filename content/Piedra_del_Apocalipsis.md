@@ -22,7 +22,6 @@ tags:
  - guerra-de-troya
  - taller-de-rol
 ---
-# Piedra del Apocalipsis
 
 > *Pieza terminal de la [[Vara_del_Infinito]]. La que estaba en poder de [[Barbatos]]. La Manzana de la Discordia del Taller, la que generó la Guerra de Troya en su mundo de origen.*
 

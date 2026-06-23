@@ -14,7 +14,6 @@ tags:
  - noche
  - susurros
 ---
-# Juve
 
 > *Dios serpiente —o no—. Lo único que todos aceptan es que se lleva los secretos.*
 

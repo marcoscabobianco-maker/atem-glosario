@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Encierro, invocación del"
 ---
-# Encierro, invocación del
 
 ## Presentación
 

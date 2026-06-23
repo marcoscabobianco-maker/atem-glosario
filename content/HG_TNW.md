@@ -11,8 +11,6 @@ aliases:
  - "HG"
 ---
 
-# HG (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/HG_TNW.png]]
 <!-- /HEADER_IMG -->

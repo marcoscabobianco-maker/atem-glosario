@@ -11,8 +11,6 @@ aliases:
  - "Viejos de la Montaña"
 ---
 
-# Hasán-i Sabbah / Viejos de la Montaña
-
 ## Presentación
 
 **Contexto:**

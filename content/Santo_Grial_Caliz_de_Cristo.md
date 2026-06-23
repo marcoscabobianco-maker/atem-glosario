@@ -13,7 +13,6 @@ aliases:
  - "Cáliz de Cristo"
 wikipedia: https://es.wikipedia.org/wiki/Santo_Grial
 ---
-# Santo Grial / Cáliz de Cristo
 
 ## Presentación
 

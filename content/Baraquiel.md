@@ -11,8 +11,6 @@ aliases:
  - "Baraquiel"
 ---
 
-# Baraquiel
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Baraquiel.png]]
 <!-- /HEADER_IMG -->

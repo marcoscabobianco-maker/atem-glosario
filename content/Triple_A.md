@@ -25,8 +25,6 @@ aliases:
  - "El super-comisario"
 ---
 
-# La Triple A — el comisario-brujo
-
 > *Hacer oro… que ciertos que se creen inmortales desaparezcan en el momento adecuado.*
 
 ---

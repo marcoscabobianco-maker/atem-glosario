@@ -15,7 +15,6 @@ tags:
  - mongoles
  - asmodeus
 ---
-# Jacques de Molay
 
 > *El último Gran Maestre del Temple, que embarcó a los héroes hacia el dragón y, según se supo después, llevaba la muerte cosida bajo la cruz de su manto.*
 

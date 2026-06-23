@@ -11,7 +11,6 @@ aliases:
  - "Grima-Luna"
  - "Madre Luna Grima"
 ---
-# Madre Grima / Grima-Luna / Madre Luna Grima
 
 ## Presentación
 

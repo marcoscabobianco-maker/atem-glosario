@@ -10,8 +10,6 @@ aliases:
  - "Flor — La Feminista"
 ---
 
-# Flor (TNW) — La Feminista
-
 ## Presentación
 
 **Ref.:** 3_intro (6 menciones "dedos"), 3c ("Mirate vos también tu tiempo, Flor"), 4b ("tortur"), 7a ("el personaje de Amus. De Amus, Ivo, Ivo y Flor").

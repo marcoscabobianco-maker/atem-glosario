@@ -19,8 +19,6 @@ aliases:
  - "La viuda de Casa Brockford"
 ---
 
-# Betsy Clark
-
 > *La isleña que abre la puerta. Hospitalaria de fachada, dueña del umbral por donde la gesta del Atlántico Sur baja a lo profundo.*
 
 ## Presentación

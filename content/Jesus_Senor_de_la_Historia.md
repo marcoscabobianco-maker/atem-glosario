@@ -15,8 +15,6 @@ aliases:
  - "Christus Dominus Historiae"
 ---
 
-# JSH (Jesús Señor de la Historia)
-
 ## Presentación
 
 **JSH** —*Jesús [[Pablo_de_Alejandria|Señor de la Historia]]*— es el nombre de un cómputo calendárico: uno de los dos sistemas de datación que conviven en el cosmos compartido. La expresión que la sigla despliega es de cuño teológico —*Christus Dominus Historiae*, Cristo Señor de la Historia— y bautiza al calendario entero: las fechas del eje histórico se cuentan bajo ese señorío.

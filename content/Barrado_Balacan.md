@@ -22,8 +22,6 @@ tags:
  - post-hiato
 ---
 
-# Barrado Balacán
-
 > *Territorio actual donde está Ardisvala. Antes "Balacán", ahora "Barrado Balacán" post-hiato. Está dentro del dominio [[Valakhan_de_la_Bruma]]. Hogar de [[Valdemora]], [[Estellara]], [[Ciudadela_Sin_Sol]], [[Ritornello]] (en ruinas).*
 
 ## Presentación

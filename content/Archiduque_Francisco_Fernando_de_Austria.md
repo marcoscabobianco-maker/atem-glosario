@@ -22,7 +22,6 @@ tags:
  - sophie
 imagen: Imagenes_Tier1/Archiduque_Francisco_Fernando.png
 ---
-# Archiduque Francisco Fernando de Austria
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Archiduque_Francisco_Fernando.png]]

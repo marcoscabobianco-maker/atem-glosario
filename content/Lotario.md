@@ -22,8 +22,6 @@ linaje:
 epoca: "1888-1890 A.D.A. — Belle Époque — Antiterra"
 ---
 
-# Lotario
-
 > *Pelirrojo de ojos verdes, amnésico en Gotland. Hijo de un rey y una diosa, criado por una doncella cisne. El gato con botas que convirtió anarquistas en caballeros.*
 
 ## Presentación

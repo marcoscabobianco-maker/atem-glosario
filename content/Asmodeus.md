@@ -17,7 +17,6 @@ tags:
  - lex
  - poder-mayor
 ---
-# Asmodeus
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Asmodeus.png]]

@@ -23,7 +23,6 @@ tags:
  - homo-ludens
 imagen: null
 ---
-# Venecia de los Estratos — cuaderno C63
 
 > *"El tiempo es un curador. Te deja las cosas en estratos, en medio de procesos."* — del cuaderno C63, p. 18, entrada del 21 de noviembre, escrita en violeta.
 

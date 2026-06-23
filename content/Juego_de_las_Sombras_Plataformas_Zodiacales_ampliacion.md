@@ -13,8 +13,6 @@ aliases:
  - "Juego de las Sombras / Plataformas Zodiacales (ampliación)"
 ---
 
-# [[Juego_de_las_Sombras|Juego de las Sombras]] / [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]] (ampliación)
-
 ## Presentación
 
 No es un juego sino una **secuencia de sellado de 13 plataformas** que: sella una realidad fracturada (dualidad) contra incursión planar; previene que el Antagonista de las Sombras (señor del dominio onírico, sin nombre) tome control; requiere elección democrática de guardianes (no nombramiento autoritario); testea si el grupo respeta la libre elección sobre juramentos individuales.

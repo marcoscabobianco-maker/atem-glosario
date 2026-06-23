@@ -21,8 +21,6 @@ aliases:
  - "El pacto faustiano del sueño"
 ---
 
-# Los pactos oníricos
-
 > *A cada uno le ofrecen, en el sueño, exactamente aquello que de despierto jamás se atrevería a pedir.*
 
 ---

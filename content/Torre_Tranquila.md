@@ -9,8 +9,6 @@ aliases:
  - "Torre Tranquila"
 ---
 
-# Torre Tranquila
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Torre_Tranquila.png]]
 <!-- /HEADER_IMG -->

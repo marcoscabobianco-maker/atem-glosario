@@ -9,8 +9,6 @@ aliases:
  - "Dallas"
 ---
 
-# Dallas
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dallas.png]]
 <!-- /HEADER_IMG -->

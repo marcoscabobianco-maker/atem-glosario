@@ -14,7 +14,6 @@ tags:
  - tradicion
  - stub
 ---
-# Novice Cruz
 
 > *Una cuestión de posadas infernales con su propia tradición. Las novice cruz.*
 

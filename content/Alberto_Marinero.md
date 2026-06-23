@@ -10,8 +10,6 @@ aliases:
  - "Alberto"
 ---
 
-# Alberto (Marinero)
-
 ## Presentación
 
 Marinero superviviente del naufragio del yate de [[Meteora]] en el Mar de Mármara. Agarró el lanzador de bengala en modo automático durante el ataque del [[Pulpo_Negro_Entidad_Marina_Colosal|Pulpo Negro]]. Uno de los cuatro marineros que sobrevivieron al naufragio.

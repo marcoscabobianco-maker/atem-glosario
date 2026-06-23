@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Embajada Flotante"
 ---
-# Embajada Flotante
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Embajada_Flotante.png]]

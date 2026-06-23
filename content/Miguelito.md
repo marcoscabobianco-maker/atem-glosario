@@ -18,7 +18,6 @@ tags:
  - españa
 imagen: Imagenes_Tier1/Miguelito.png
 ---
-# Miguelito
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Miguelito.png]]

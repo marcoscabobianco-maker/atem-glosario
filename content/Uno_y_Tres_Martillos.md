@@ -9,8 +9,6 @@ aliases:
  - "Uno y Tres Martillos"
 ---
 
-# Uno y Tres Martillos
-
 ## Presentación
 
 Objeto de la materia de [[Paris_Ucronica|París Ucrónica]], ligado de manera directa a la [[Revuelta_de_los_Martillos|Revuelta de los Martillos]]: acaso el artefacto-insignia del levantamiento, el emblema material de una revuelta que lleva el martillo en el nombre.

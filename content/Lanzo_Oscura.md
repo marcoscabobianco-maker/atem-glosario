@@ -9,8 +9,6 @@ aliases:
  - "Lanzo Oscura"
 ---
 
-# Lanzo Oscura
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lanzo_Oscura.png]]
 <!-- /HEADER_IMG -->

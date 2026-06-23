@@ -16,8 +16,6 @@ aliases:
  - "Antioquia_de_Siria_stub_MC"
 ---
 
-# Antioquía de Siria
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Antioquia_de_Siria_stub_MC.png]]
 <!-- /HEADER_IMG -->

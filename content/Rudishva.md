@@ -21,7 +21,6 @@ tags:
  - kerbog-khan
  - tecnologia-avanzada
 ---
-# Rudishva
 
 > *Alienígenas llegados con el crash del Beacon hace ~3.000 años. Tecnología avanzada. [[Master_Malakita|Melok-Ri]] fundó la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]. Los [[Varumani]] descienden de sus servidores.*
 

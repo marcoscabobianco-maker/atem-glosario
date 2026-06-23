@@ -8,8 +8,6 @@ aliases:
  - "Kratz"
 ---
 
-# Kratz
-
 ## Presentación
 
 Criatura creada por magos para proteger haciendas aisladas. Campesinos la piden a [[Demonio_Nocturna|demonios]] a cambio de almas.

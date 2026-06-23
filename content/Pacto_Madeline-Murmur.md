@@ -5,8 +5,6 @@ tags: ["evento", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Pacto Madeline-Murmur", "Pacto con Murmur"]
 ---
 
-# Pacto Madeline-Murmur
-
 En algún momento de la tumultuosa primavera de 1648, [[Madeline_Boulet|Madeline Boulet]] selló un trato con el Duque [[Murmur]]: a cambio de llegar al final de su máxima expectativa de vida humana sana, salva y cuerda, Madeline comprometió algo que el demonio consideró de valor equivalente. Los términos exactos del acuerdo no fueron testificados por nadie que los haya repetido con exactitud.
 
 La confirmación visible llegó en un encuentro posterior: un abrazo desde atrás en el que la figura de [[Murmur]], con máscara de calavera, se cernió sobre Madeline con la familiaridad de quien ya tiene lo que quiere. Ese gesto fue el sello, la firma corporal sobre lo que las palabras habían acordado.

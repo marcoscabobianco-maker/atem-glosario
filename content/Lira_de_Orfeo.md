@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Lira de Orfeo"
 ---
-# Lira de Orfeo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lira_de_Orfeo.png]]

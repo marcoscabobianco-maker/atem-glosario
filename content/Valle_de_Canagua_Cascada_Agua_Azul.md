@@ -14,8 +14,6 @@ aliases:
  - "Cascada Agua Azul"
 ---
 
-# Valle de Canagua / Cascada Agua Azul
-
 ## Presentación
 
 Valle con cascadas (Agua Azul). Contiene entrada secreta detrás de las cascadas que da a la cámara de [[Secoya]] — prisión del [[Dragon_Verde|Dragón Verde]]. Galería vasta con estatuas animadas, gong, mecanismos de trampa. [[Escenario]] del combate contra dragones.

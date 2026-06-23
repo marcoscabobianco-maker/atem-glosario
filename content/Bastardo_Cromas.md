@@ -24,7 +24,6 @@ tags:
  - taller-arcano
 imagen: null
 ---
-# El Bastardo Cromas
 
 > *"Tras firmar un jugoso contrato de 600 monedas de oro por tres meses, estos héroes en ascenso se han mudado a la ex-casa de un mago (¿un brujo? ¿un bribón arcano?) conocida cariñosamente como 'El Bastardo Cromas'."* — *Gossip & Style: [[Caldero]] Edition*.
 

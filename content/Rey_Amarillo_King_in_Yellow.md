@@ -21,8 +21,6 @@ tags:
 imagen: Imagenes_Tier1/Rey_Amarillo_King_in_Yellow.png
 ---
 
-# El Rey Amarillo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Rey_Amarillo_King_in_Yellow.png]]
 <!-- /HEADER_IMG -->

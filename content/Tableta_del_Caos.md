@@ -21,8 +21,6 @@ tags:
 imagen: null
 ---
 
-# Tableta del Caos — objeto-misión del Abad de Helix
-
 > *"Deseo saber el lugar de la tableta del caos."* — última palabra del brujo del umbral antes de la maza. *"Vas a morir antes"*, respondió el vicario.
 
 ---

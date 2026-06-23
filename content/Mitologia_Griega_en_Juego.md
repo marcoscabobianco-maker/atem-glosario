@@ -5,8 +5,6 @@ aliases:
  - "Mitología Griega en Juego"
 ---
 
-# Mitología Griega en Juego
-
 ## Presentación
 
 El [[Isla_del_Jardin_de_Hesperides|Jardín de Hespérides]], Atlas, los [[Cronos_Titan|Titanes]], las Manzanas de Oro y los Lotófagos de Odiseo se revelaron como realidades del mundo durante la travesía templaria a [[Tiro_ruinas|Tiro]] y la incursión a la isla de los Lotófagos. La mitología clásica no es aquí alegoría sino geografía viva: los enclaves míticos coexisten con el [[Mediterraneo_Ucronico|Mediterráneo]] Ucrónico, y las potencias preolímpicas —Titanes, Uros, las fuerzas que habitarán el [[Nekeia_Descenso_al_Inframundo_Mediterraneum|Descenso]]— forman parte del mismo esqueleto cósmico.

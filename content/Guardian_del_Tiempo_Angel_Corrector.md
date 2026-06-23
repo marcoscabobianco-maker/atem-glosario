@@ -7,8 +7,6 @@ aliases:
  - "\"Guardián del Tiempo\""
 ---
 
-# "Guardián del Tiempo" (Ángel Corrector)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Guardian_del_Tiempo_Angel_Corrector.png]]
 <!-- /HEADER_IMG -->

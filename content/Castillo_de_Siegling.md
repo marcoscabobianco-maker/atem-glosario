@@ -7,8 +7,6 @@ aliases:
  - "Castillo de Siegling"
 ---
 
-# Castillo de Siegling
-
 ## Presentación
 
 **Ref.:** jornada de descripcion y exploracion; primera mencion como "[[Castillo_del_Prisma|Castillo del Apocalipsis]]"

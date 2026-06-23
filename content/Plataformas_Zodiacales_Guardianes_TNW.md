@@ -24,7 +24,6 @@ tags:
  - revelacion
 epoca: "Edad del Mundo Nuevo — sistema cosmológico"
 ---
-# Plataformas Zodiacales y Guardianes
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png]]

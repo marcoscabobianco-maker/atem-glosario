@@ -24,7 +24,6 @@ tags:
 imagen: Imagenes_Tier1/Juego_de_las_Sombras_Plataformas_Zodiacales.png
 aa: "R.1 relevo por victoria ; R.5 el arbitro que mira desde afuera ; C.1 universo dual ; C.6 simetria que se contagia ; J.5 examen de admision [A.D.A., TG, TNW, MC]"
 ---
-# El Juego de las Sombras (las Doce Plataformas Zodiacales)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Juego_de_las_Sombras_Plataformas_Zodiacales.png]]

@@ -18,8 +18,6 @@ tags:
  - expedicion-montana-invertida
 ---
 
-# Equis
-
 > *Espía egipcio. El que acompañó a [[Samsara]] a la montaña invertida. El que conoce los pasos del Bajo Egipto.*
 
 ## Presentación

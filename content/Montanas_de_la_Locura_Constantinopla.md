@@ -11,7 +11,6 @@ aliases:
  - "Montañas de la Locura"
 wikipedia: https://es.wikipedia.org/wiki/Constantinopla
 ---
-# Montañas de la Locura (Constantinopla)
 
 ## Presentación
 

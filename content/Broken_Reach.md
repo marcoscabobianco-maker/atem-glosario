@@ -14,8 +14,6 @@ aliases:
  - "Broken Reach"
 ---
 
-# Broken Reach
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Broken_Reach.png]]
 <!-- /HEADER_IMG -->

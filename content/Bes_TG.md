@@ -12,8 +12,6 @@ aliases:
  - "Bes"
 ---
 
-# Bes (TG)
-
 ## Presentación
 
 Dueño del **[[Bar_de_Bes_TG|Bar de Bes]]**, local emblemático de [[Torregrises]]. Nombrado en la lista final de personajes de "[[Torregrises]]." El capítulo "El [[Bar_de_Bes_TG|Bar de Bes]]" es uno de los más extensos de la novela (pág 110-124 en la EDICION FINAL). Nombre evoca al dios egipcio Bes (protector del hogar, la alegría, la danza — ironía en contexto de [[Torregrises]] invernal).

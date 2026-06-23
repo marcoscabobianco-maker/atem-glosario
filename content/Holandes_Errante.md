@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Holandes Errante
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Holandes_Errante.png]]
 <!-- /HEADER_IMG -->

@@ -30,7 +30,6 @@ tags:
  - cristal-vala
 imagen: null
 ---
-# La Capilla Oscura
 
 > *"Hay catedrales que arden por accidente, hay catedrales que caen por designio, y hay catedrales que se cierran sin caer. La Capilla Oscura es de las terceras: sus muros se conservan, pero la liturgia se ha vuelto eco. Quien entra escucha lo que ningún oficio actual canta."* — del *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de [[Narsileon]].
 

@@ -18,7 +18,6 @@ tags:
  - papado
  - resurreccion
 ---
-# Zenobio de Florencia
 
 > *El obispo de Florencia que llevaba en la sangre a una reina cautiva, y en las manos el poder de devolverle a un muerto su aliento.*
 

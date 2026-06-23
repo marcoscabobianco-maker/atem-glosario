@@ -8,8 +8,6 @@ aliases:
  - "LABERINTO OMNIPORAL Zona 34"
 ---
 
-# Laberinto Omniporal
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Laberinto_Omniporal.png]]
 <!-- /HEADER_IMG -->

@@ -11,7 +11,6 @@ aliases:
  - "Watchers"
  - "Los Vigilantes"
 ---
-# Los Vigilantes (Watchers)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Los_Vigilantes_Watchers.png]]

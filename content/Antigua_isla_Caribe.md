@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Antigua isla Caribe
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Antigua_isla_Caribe.png]]
 <!-- /HEADER_IMG -->

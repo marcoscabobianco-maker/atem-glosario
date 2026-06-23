@@ -9,8 +9,6 @@ aliases:
  - "Doña Ilva"
 ---
 
-# Doña Ilva (TNW)
-
 ## Presentación
 
 **Ref.:** Resumen

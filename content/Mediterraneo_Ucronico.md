@@ -12,8 +12,6 @@ aliases:
  - "Mediterráneo"
 ---
 
-# Mediterráneo (Ucrónico)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mediterraneo_Ucronico.png]]
 <!-- /HEADER_IMG -->

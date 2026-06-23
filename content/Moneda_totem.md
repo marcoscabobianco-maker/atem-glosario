@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# La moneda-tótem
-
 > *Una sola cara, repetida de los dos lados. Una moneda que no se acuñó: se soñó.*
 
 ---

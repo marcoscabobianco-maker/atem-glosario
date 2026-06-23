@@ -11,8 +11,6 @@ aliases:
  - "Sati"
 ---
 
-# Sati
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sati.png]]
 <!-- /HEADER_IMG -->

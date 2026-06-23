@@ -6,7 +6,6 @@ aliases:
  - "Juego en Bala"
  - "Juego en Bala (figura / Encuentro)"
 ---
-# Juego en Vala (figura / Encuentro)
 
 ## Presentación
 

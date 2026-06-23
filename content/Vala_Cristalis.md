@@ -21,7 +21,6 @@ tags:
  - vala-or-the-four-zoas
 epoca: "Edad del Cristal — mundo-gema primigenio"
 ---
-# Vala Cristalis
 
 > *La capa de cristal que protege lo que no debe entrar. Nace del Valis Cristal de [[Paladin_in_Hell]], sostiene el mundo-gema Vala Cristalis, vuelve a estar en disputa en el Sancta Sanctorum del Inferno.*
 

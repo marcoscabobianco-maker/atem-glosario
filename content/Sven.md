@@ -22,7 +22,6 @@ tags:
  - inferno
  - macbeth
 ---
-# Sven
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sven.png]]

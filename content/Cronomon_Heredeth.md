@@ -20,7 +20,6 @@ tags:
  - apocalipsis
 imagen: Imagenes_Tier1/Kronamon_HEREDETH_Titan_Negro.png
 ---
-# Cronomon Heredeth — el Titán Negro del Tiempo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kronamon_HEREDETH_Titan_Negro.png]]

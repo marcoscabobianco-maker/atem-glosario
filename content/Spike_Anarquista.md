@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Spike_Anarquista.png
 ---
 
-# Spike (el anarquista)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Spike_Anarquista.png]]
 <!-- /HEADER_IMG -->

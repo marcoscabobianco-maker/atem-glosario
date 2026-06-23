@@ -23,8 +23,6 @@ tags:
  - oziman
 ---
 
-# Obsidian Gates & Midnight Road
-
 > *El corazón rudishva del dungeon. Hall of Forty Pillars + Obsidian Gates + Midnight Road. [[Psalor_Ki]] el vivisector. Oziman 'avatar de Thoth' = demonio tipo III.*
 
 ## Presentación

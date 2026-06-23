@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Sigil.png
 ---
 
-# Sigil
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sigil.png]]
 <!-- /HEADER_IMG -->

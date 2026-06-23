@@ -22,8 +22,6 @@ tags:
 imagen: null
 ---
 
-# Miles Corp
-
 > *"Tony de [[La_Jabalina]] posa con su nueva escoba voladora de Miles Corp, un símbolo del progreso mágico-industrial en [[Caldero]]. Pero, ¿es esta tecnología el futuro de la aventura, o simplemente una forma más de las élites de controlar el poder?"* — *City Star Magazine*.
 
 ---

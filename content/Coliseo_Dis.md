@@ -9,8 +9,6 @@ aliases:
  - "Coliseo"
 ---
 
-# Coliseo (Dis)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Coliseo_Dis.png]]
 <!-- /HEADER_IMG -->

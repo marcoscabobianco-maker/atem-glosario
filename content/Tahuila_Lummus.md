@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Tahuila Lummus"
 ---
-# Tahuila Lummus
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tahuila_Lummus.png]]

@@ -12,8 +12,6 @@ tags:
  - imperio
 ---
 
-# Reich Eterna
-
 ## Presentación
 
 De la Reich Eterna el Archivo conserva poco más que el nombre — y el nombre es ya una proclama. *Reich*: imperio, en la lengua de las cancillerías germánicas. *Eterna*: la pretensión de no terminar nunca. Una potencia que se bautiza así no describe un territorio; declara un programa.

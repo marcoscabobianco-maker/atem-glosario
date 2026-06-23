@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Simon Mago
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Simon_Mago.png]]
 <!-- /HEADER_IMG -->

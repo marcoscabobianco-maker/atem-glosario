@@ -14,8 +14,6 @@ aliases:
  - Compania de David
 ---
 
-# Compañía de David, la
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Compania_de_David_la.png]]
 <!-- /HEADER_IMG -->

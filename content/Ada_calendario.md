@@ -19,8 +19,6 @@ tags:
 imagen: Imagenes_Tier1/Ada_calendario.png
 ---
 
-# El Calendario A.D.A.
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ada_calendario.png]]
 <!-- /HEADER_IMG -->

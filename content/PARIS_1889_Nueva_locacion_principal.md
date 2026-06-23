@@ -5,8 +5,6 @@ aliases:
  - "PARÍS 1889"
 ---
 
-# París 1889
-
 ## Presentación
 
 **Fecha en-game:** 19 diciembre 1889 (una semana antes apocalipsis 25 dic)

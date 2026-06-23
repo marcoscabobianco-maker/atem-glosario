@@ -8,7 +8,6 @@ aliases:
  - "torre roja"
  - "Poción Roja"
 ---
-# Poción Roja (torre roja)
 
 ## Presentación
 

@@ -14,8 +14,6 @@ aliases:
  - "Zaira"
 ---
 
-# Zaira
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Zaira.png]]
 <!-- /HEADER_IMG -->

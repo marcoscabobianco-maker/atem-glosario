@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# Monumento de Huesos de Ballena
-
 > *Cuatro costillas de ballena clavadas como un pórtico, izadas allá donde una bandera reclama lo que no le pertenece. Parecen hueso viejo y son piedra azul; parecen un adorno colonial y son una marca puesta para que el sitio fuese elegido.*
 
 ---

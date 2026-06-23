@@ -11,8 +11,6 @@ aliases:
  - "Gladiators"
 ---
 
-# Gladiators (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gladiators_TNW.png]]
 <!-- /HEADER_IMG -->

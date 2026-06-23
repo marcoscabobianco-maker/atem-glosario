@@ -13,8 +13,6 @@ aliases:
 epoca: "Edad de los Reinos Olvidados — una de las 4 A"
 ---
 
-# Amdriel
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Amdriel.png]]
 <!-- /HEADER_IMG -->

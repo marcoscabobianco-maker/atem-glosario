@@ -5,7 +5,6 @@ tags:
 aliases:
  - "Mage Khan"
 ---
-# Mage Khan
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mage_Khan.png]]

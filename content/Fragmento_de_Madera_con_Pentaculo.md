@@ -5,8 +5,6 @@ aliases:
  - "Fragmento de Madera con Pentáculo"
 ---
 
-# Fragmento de Madera con Pentáculo
-
 ## Presentación
 
 **Tipo:** Artefacto mágico, ancla de contención.

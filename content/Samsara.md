@@ -23,7 +23,6 @@ tags:
  - taller-de-rol
  - rol-mamba-1
 ---
-# Samsara
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Samsara.png]]

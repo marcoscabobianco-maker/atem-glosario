@@ -12,8 +12,6 @@ aliases:
  - "Bacchiano"
 ---
 
-# Pepe Bacchiano
-
 Pasquinero de oficio y vocación, Pepe Bacchiano es uno de los agitadores más activos de la resistencia en el entramado urbano de Santa María de [[Torregrises]]. Su pluma —ácida, ilustre, capaz de ridiculizar al régimen en cuatro líneas— le ganó reputación en los sótanos donde circulan los panfletos impresos a escondidas. Quienes lo conocen señalan que ayudó a curar a más de uno y que tiene el crédito acumulado de hombre que no abandona a los suyos; también señalan, con cierta indulgencia, que antes de una misión de riesgo Bacchiano suele tomarse un momento para pensar.
 
 Opera como bisagra entre células heterogéneas: mantiene lazos con ladrones del Mercado de Abasto, con estibadores del puerto y con cuanto corrillo se reúne en la [[Pulperia_de_la_Vina|Pulpería de la Viña]]. Ese tejido de contactos lo convierte en algo más que un periodista clandestino: es el nodo por donde fluye la información antes de que alguien decida actuar. Se le atribuyen también movimientos en el comercio de contrabando, aunque él no lo confirma ni lo niega.

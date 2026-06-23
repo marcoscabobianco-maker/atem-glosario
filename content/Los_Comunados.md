@@ -11,7 +11,6 @@ tags:
 aliases:
  - "Los Comunados"
 ---
-# Los Comunados
 
 ## Presentación
 

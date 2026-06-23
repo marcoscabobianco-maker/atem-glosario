@@ -14,8 +14,6 @@ tags:
  - taberna
 ---
 
-# Carrusel de la Cerveza
-
 ## Presentación
 
 Café-bar en piso bajo de una plaza con arcadas de [[Bucarest_Ucronica|Bucarest]], la "[[Bucarest_Ucronica|París de Oriente]]". El archivo del Plata lo registra con economía de tabernero: ajenjo en las mesas, botellas vacías al ras del suelo, posadero violento. Es la clase de establecimiento que la Pequeña París produce sin esfuerzo —piso bajo, arcadas, mesas donde los abogados se sientan con los conspiradores sin que la mesa lo note—.

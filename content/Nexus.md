@@ -18,7 +18,6 @@ tags:
  - tribunal
  - constante
 ---
-# Nexus
 
 > *Nunca estuvo definido del todo. Puede pensarse como unión de Sigil, Sogol y Logos —la posibilidad de conexiones cósmicas entre universos de bases cósmico-numéricas diferentes.*
 

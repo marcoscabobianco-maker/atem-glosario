@@ -6,8 +6,6 @@ aliases:
  - Robo_de_Reliquias_TE04
 ---
 
-# Robo de Reliquias en el Temple
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Robo_de_Reliquias.png]]
 <!-- /HEADER_IMG -->

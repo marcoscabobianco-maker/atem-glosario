@@ -11,7 +11,6 @@ aliases:
  - "Nube de Mármol"
  - "Nube de Entropía"
 ---
-# Nube de Mármol / Nube de Entropía
 
 ## Presentación
 

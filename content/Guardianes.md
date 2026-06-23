@@ -8,8 +8,6 @@ aliases:
  - "Guardianes"
 ---
 
-# Guardianes
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Guardianes.png]]
 <!-- /HEADER_IMG -->

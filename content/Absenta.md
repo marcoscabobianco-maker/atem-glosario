@@ -10,8 +10,6 @@ aliases:
  - "Absenta"
 ---
 
-# Absenta
-
 ## Presentación
 
 Bebida emblemática del París de fin de siglo: el licor verde que la capital destila, sirve y respira. El archivo la cuenta entre los objetos propios de la ciudad ucrónica, tan inseparable de sus noches como el gas de sus faroles.

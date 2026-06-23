@@ -9,8 +9,6 @@ tags:
  - lugar
 ---
 
-# Stargazer
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Stargazer.png]]
 <!-- /HEADER_IMG -->

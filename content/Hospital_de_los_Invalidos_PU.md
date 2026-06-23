@@ -18,7 +18,6 @@ tags:
  - silencio
 imagen: Imagenes_Tier1/Hospital_de_los_Invalidos_PU.png
 ---
-# El Hospital de los Inválidos
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Hospital_de_los_Invalidos_PU.png]]

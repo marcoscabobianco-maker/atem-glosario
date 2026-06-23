@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Serpiente Voladora del Valle"
 ---
-# Serpiente Voladora del Valle
 
 ## Presentación
 

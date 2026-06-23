@@ -4,8 +4,6 @@ aliases:
  - "Klemidius"
 ---
 
-# Klemidius
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Klemidius.png]]
 <!-- /HEADER_IMG -->

@@ -9,8 +9,6 @@ aliases:
  - "Piso Frugio Calpurnis"
 ---
 
-# Piso Frugio Calpurnis
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Piso_Frugio_Calpurnis.png]]
 <!-- /HEADER_IMG -->

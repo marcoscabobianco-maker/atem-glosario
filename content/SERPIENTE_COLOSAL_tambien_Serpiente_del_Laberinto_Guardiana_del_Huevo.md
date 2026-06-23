@@ -8,8 +8,6 @@ aliases:
  - "SERPIENTE COLOSAL"
 ---
 
-# SERPIENTE COLOSAL (también: "Serpiente del Laberinto", "Guardiana del Huevo")
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/SERPIENTE_COLOSAL_tambien_Serpiente_del_Laberinto_Guardiana_del_Huevo.png]]
 <!-- /HEADER_IMG -->

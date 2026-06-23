@@ -21,7 +21,6 @@ tags:
  - california
  - infierno-dantesco
 ---
-# Los Malditos
 
 > *"Fueron contratados como carne de cañón. Lo que el Holandés no calculó es que la carne, a veces, escribe su propia letra."*
 

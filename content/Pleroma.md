@@ -13,8 +13,6 @@ aliases:
  - "Pleroma"
 ---
 
-# Pleroma
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pleroma.png]]
 <!-- /HEADER_IMG -->

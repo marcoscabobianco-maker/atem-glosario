@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Randy Boudreaux"
 ---
-# Randy Boudreaux
 
 ## Presentación
 

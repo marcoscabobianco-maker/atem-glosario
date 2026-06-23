@@ -11,8 +11,6 @@ aliases:
  - "Lope de Vega"
 ---
 
-# Lope de Vega
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lope_de_Vega.png]]
 <!-- /HEADER_IMG -->

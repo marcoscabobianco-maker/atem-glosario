@@ -9,8 +9,6 @@ aliases:
  - "Neil"
 ---
 
-# Neil
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Neil.png]]
 <!-- /HEADER_IMG -->

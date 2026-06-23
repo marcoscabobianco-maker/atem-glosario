@@ -9,8 +9,6 @@ aliases:
  - "Concha de Venus"
 ---
 
-# Concha de Venus
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Concha_de_Venus.png]]
 <!-- /HEADER_IMG -->

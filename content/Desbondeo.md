@@ -10,7 +10,6 @@ aliases:
  - "Desbondeo"
  - "Desbondear"
 ---
-# Desbondeo
 
 ## Presentación
 

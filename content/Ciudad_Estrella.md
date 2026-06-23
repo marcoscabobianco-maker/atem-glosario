@@ -26,7 +26,6 @@ tags:
  - nobles-industriales
 imagen: null
 ---
-# Ciudad Estrella
 
 > *"De joven me impactaron las historias de posibles nuevas máquinas impulsadas por la magia, talleres que mezclan alquimia y vapor, y gremios capaces de forjar artefactos cada vez más asombrosos. Pero siempre el culto de los ahora conocidos como Papas Malos impedía todo progreso. Afortunadamente, tras la justicia impartida por la Espada de la Giganta, eso se terminó."* — [[Mascor_Blancarba]], *[[Crónica_de_un_Visitante_Curioso]]*, sobre su juventud en Ciudad Estrella.
 

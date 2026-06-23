@@ -8,7 +8,6 @@ aliases:
  - "Johnny el Imp"
  - "Johnny"
 ---
-# Johnny (Johnny el Imp)
 
 ## Presentación
 

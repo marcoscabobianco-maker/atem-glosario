@@ -7,8 +7,6 @@ aliases:
  - "Mittelfeid"
 ---
 
-# Mittelfeid (Hechizo de Miedo Religioso)
-
 ## Presentación
 
 **Invocador:** [[Michel|Michel]] 

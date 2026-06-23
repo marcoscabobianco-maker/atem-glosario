@@ -11,8 +11,6 @@ aliases:
  - "Fort Henry"
 ---
 
-# Fort Henry
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Fort_Henry.png]]
 <!-- /HEADER_IMG -->

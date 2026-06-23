@@ -7,8 +7,6 @@ aliases:
  - "Recinto Monástico"
 ---
 
-# Recinto Monástico (Biblioteca subsector)
-
 ## Presentación
 
 - **Configuración:** Múltiples habitaciones, "cuartito paralelo" (donde [[Ariadna_Genoveva|Ariadna]] colocada)

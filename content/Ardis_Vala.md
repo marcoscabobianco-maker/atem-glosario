@@ -24,7 +24,6 @@ tags:
  - hobbit-camina
 imagen: null
 ---
-# Ardis Vala — el cristal de diez capas
 
 > *"Ardis Vala fue un cristal que tuvo un mundo. Ahora, bajo la cascada de la plataforma de Acuario, está mostrando por lo menos diez capas sucesivas, las plataformas anteriores. Abajo está el inicio: un Aries de carneros, de primeros abismos. También subniveles."* — del dictado de quien, en otra mesa, también lo había soñado.
 

@@ -15,8 +15,6 @@ aliases:
 epoca: "Edad de los Reinos Olvidados — una de las 4 A, drow"
 ---
 
-# Ariadna
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ariadna.png]]
 <!-- /HEADER_IMG -->

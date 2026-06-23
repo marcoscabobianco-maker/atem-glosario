@@ -24,7 +24,6 @@ tags:
  - medio-hermano-juliana
 imagen: null
 ---
-# Lord Burdock
 
 > *"El arconte que delega es figura sin sombra: en el suelo del feudo cae la sombra del barón delegado, no la suya. Es nobleza por inscripción, no por presencia. El archivo la registra; el valle no la ve."* — del *[[Decadiano]]*, libro VII, sobre las arcontías nominales del Imperio.
 

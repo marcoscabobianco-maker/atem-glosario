@@ -5,8 +5,6 @@ aliases:
  - "Isla del Jardín de Hespérides"
 ---
 
-# Isla del Jardín de Hespérides
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Isla_del_Jardin_de_Hesperides.png]]
 <!-- /HEADER_IMG -->

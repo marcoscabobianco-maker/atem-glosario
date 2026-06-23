@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Mariette"
 ---
-# Mariette
 
 ## Presentación
 

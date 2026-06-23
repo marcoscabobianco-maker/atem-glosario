@@ -5,8 +5,6 @@ aliases:
  - "Infiltración y Posesión Sistemática"
 ---
 
-# Infiltración y Posesión Sistemática
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Infiltracion_y_Posesion_Sistematica.png]]
 <!-- /HEADER_IMG -->

@@ -21,8 +21,6 @@ aliases:
 imagen: null
 ---
 
-# Faro de Claromecó
-
 > *Una luz que debería guiar a los barcos a puerto y que, manchada de sangre, aprende a guiar otra cosa de vuelta desde el fondo. La baliza que se da vuelta como un guante: deja de llamar a casa y empieza a llamar a lo que duerme bajo el mar.*
 
 ---

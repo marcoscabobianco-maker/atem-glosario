@@ -7,8 +7,6 @@ aliases:
  - "Torre de Flegias"
 ---
 
-# Torre de Flegias
-
 ## Presentación
 
 **Ubicación:** Sixto círculo (Dis), centro de ciudad

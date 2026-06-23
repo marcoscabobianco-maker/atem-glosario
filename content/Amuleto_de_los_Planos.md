@@ -17,7 +17,6 @@ tags:
  - grazzt
  - tiamat
 ---
-# Amuleto de los Planos
 
 > *La llave separada de la puerta. La grieta dual al origen. La que cayó al abismo donde vivía la diosa de los dragones.*
 

@@ -8,8 +8,6 @@ aliases:
  - "Defarge"
 ---
 
-# Defarge
-
 ## Presentación
 
 Proletario. [[La_Ballena_Blanca_Taberna|Taberna]] expendedora vino barato [[Cour_des_Miracles|Marais]]. Prosapia combatiente: [[REVOLUCION_REVOLUTION|Revolución]], Toma [[Bastilla_uchronica|Bastilla]], LA Fronda.

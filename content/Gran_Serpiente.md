@@ -12,8 +12,6 @@ aliases:
  - "Gran Serpiente"
 ---
 
-# Gran Serpiente
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gran_Serpiente.png]]
 <!-- /HEADER_IMG -->

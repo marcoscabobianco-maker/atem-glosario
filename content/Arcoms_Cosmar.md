@@ -35,7 +35,6 @@ linaje:
  - "[[Moran_Atias|Moran Atias]]"
  linaje_lejano: "[[Elias|Elías]]"
 ---
-# Arcoms Cosmar
 
 > *"Cuidaba la biblioteca como se cuida una herida que cicatriza despacio: con luz tasada, con humedad medida, y sin nombrarla cada mañana."*
 

@@ -12,8 +12,6 @@ aliases:
  - "Intro Arian Inferno"
 ---
 
-# Intro Arian Inferno
-
 ## Presentación
 
 Jornada de introducción meta-teatral centrada en **[[Arian]]**. (cronista) discute la naturaleza de la introducción narrativa: el tono y la psicología del personaje importan más que el setting. [[Arian]] aparece perdido en un bosque oscuro ("en medio del camino de una de sus vidas" — reencarnación explícita). Oscuridad física como presión espiritual. Crisis existencial: ¿puede [[Arian]] amar, si su capacidad de amar todo le impide elegir?

@@ -20,7 +20,6 @@ tags:
  - venganza
 imagen: Imagenes_Tier1/Mercane_001.png
 ---
-# Mercane 001
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mercane_001.png]]

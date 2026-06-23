@@ -14,7 +14,6 @@ tags:
  - america
  - receptoras
 ---
-# Cabezas de Piedra
 
 > *Figuras receptoras americanas. Reciben a los [[Annunaki]] en su llegada al territorio.*
 

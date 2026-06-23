@@ -12,8 +12,6 @@ aliases:
  - "el Engranaje (ambos nombres son canónicos"
 ---
 
-# Artefacto, el
-
 ## Presentación
 
 También conocido como **el [[Artefacto_Engranaje|Engranaje]]**. Elemento crucial de control del

@@ -15,8 +15,6 @@ aliases:
  - "Sitar"
 ---
 
-# Sitar (sátiro)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sitar_satiro.png]]
 <!-- /HEADER_IMG -->

@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Ouroboros del Castillo del Prisma"
 ---
-# Ouroboros del Castillo del Prisma
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ouroboros_del_Castillo_del_Prisma.png]]

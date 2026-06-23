@@ -6,8 +6,6 @@ aliases:
  - "Capturador"
 ---
 
-# Portero / Capturador
-
 ## Presentación
 
 Guardián del [[Temple_complejo_TE|Temple]]. Hechizado o poseído, participa en la defensa final del santuario. Capturado vivo por el grupo, se convierte en candidato para exorcismo y en fuente de información sobre el santuario, sus enemigos, [[Flamenco]] y [[Marques_de_Sade_Hugo|Hugo]].

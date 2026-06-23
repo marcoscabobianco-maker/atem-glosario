@@ -5,8 +5,6 @@ aliases:
  - "Cuerno de Rolando"
 ---
 
-# Cuerno de Rolando
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cuerno_de_Rolando.png]]
 <!-- /HEADER_IMG -->

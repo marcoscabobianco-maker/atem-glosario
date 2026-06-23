@@ -14,8 +14,6 @@ aliases:
  - "Reina de las Nieves"
 ---
 
-# Reina de las Nieves (TG)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Reina_de_las_Nieves_TG.png]]
 <!-- /HEADER_IMG -->

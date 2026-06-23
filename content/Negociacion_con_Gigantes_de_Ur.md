@@ -4,8 +4,6 @@ aliases:
  - "Negociación con Gigantes de Ur"
 ---
 
-# Negociación con Gigantes de Ur
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Negociacion_con_Gigantes_de_Ur.png]]
 <!-- /HEADER_IMG -->

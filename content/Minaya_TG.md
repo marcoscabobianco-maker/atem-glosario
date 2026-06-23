@@ -13,8 +13,6 @@ aliases:
  - "Minaya"
 ---
 
-# Minaya (TG)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Minaya_TG.png]]
 <!-- /HEADER_IMG -->

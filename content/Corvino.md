@@ -24,8 +24,6 @@ tags:
  - rive-droite
 ---
 
-# Corvino
-
 > *"Corvino lleva una paloma viva en el bolsillo del chaleco. Cuando uno cree que ha terminado de hablar con él, la paloma ya partió con el mensaje. El cronista del Plata insiste en que la conversación con Corvino dura más en el aire que en la mesa."*
 
 ---

@@ -19,7 +19,6 @@ tags:
  - signo-doctrinal
 imagen: null
 ---
-# La Espada de Juicio
 
 > *"[[Giganta_Antigua|La Giganta]] le asestó el castigo merecido."* — [[Mascor_Blancarba]], sobre el aplastamiento del Papa Borg en 1812 AE.
 

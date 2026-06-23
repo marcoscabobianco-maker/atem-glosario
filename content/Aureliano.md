@@ -14,8 +14,6 @@ aliases:
  - "Aureliano"
 ---
 
-# Aureliano
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Aureliano.png]]
 <!-- /HEADER_IMG -->

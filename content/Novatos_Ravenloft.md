@@ -19,7 +19,6 @@ tags:
  - kerbog-khan
  - cristalizacion
 ---
-# Novatos Ravenloft (campaña paralela)
 
 > *Ciclo paralelo del cosmos: una compañía de aventureros bisoños en las tierras de Valachhan, con el [[Barrowmaze]] como territorio actual. Cruce con [[Ardis_Vala]]: rescataron al "Elfo Troll" = [[Kerbog_Khan]].*
 

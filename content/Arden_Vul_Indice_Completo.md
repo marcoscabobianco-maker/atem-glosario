@@ -15,7 +15,6 @@ tags:
  - navegacion
  - dungeon-completo
 ---
-# ARDEN VUL — Índice Maestro Completo
 
 > *Toda la entrada del mega-dungeon de la campaña [[Arden_Vul|Ardis Vala]] indexada. 10 niveles + 15 sub-niveles + 5 exteriores + 12 facciones + figuras centrales + recursos. 1.161 hojas de pliegos en el archivo.*
 

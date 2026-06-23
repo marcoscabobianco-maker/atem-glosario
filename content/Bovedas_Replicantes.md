@@ -5,8 +5,6 @@ aliases:
  - "Bóvedas Replicantes"
 ---
 
-# Bóvedas Replicantes
-
 ## Presentación
 
 **Concepto:** [[Lords_of_Creation_Sistema_TNW|Sistema]] de almacenamiento mágico de 7 bóvedas, cada una con 8 Portales.

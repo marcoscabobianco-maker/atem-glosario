@@ -12,8 +12,6 @@ aliases:
  - "Sáenz Premiado"
 ---
 
-# Dual / Sáenz Premiado
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dual_Saenz_Premiado.png]]
 <!-- /HEADER_IMG -->

@@ -22,7 +22,6 @@ tags:
  - raj-750-ia
 imagen: null
 ---
-# El Huevo de Ritornelo
 
 > *"Hay armas que matan a quien las dispara. Hay armas que matan al disparar. El Huevo de Ritornelo es de las terceras: el que dispara queda intacto, pero el mundo donde dispara cambia para siempre."*
 

@@ -12,8 +12,6 @@ aliases:
  - "Rey Filipo"
 ---
 
-# Metacón / Rey Filipo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Metacon_Rey_Filipo.jpg]]
 <!-- /HEADER_IMG -->

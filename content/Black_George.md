@@ -22,7 +22,6 @@ tags:
  - serbia
 imagen: Imagenes_Tier1/Black_George.png
 ---
-# Black George
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Black_George.png]]

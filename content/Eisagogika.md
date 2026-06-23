@@ -26,7 +26,6 @@ tags:
  - conjugacion-canonica
 epoca: "378 d.C. — Edad de los Imperios — firmado por Paulus en Alejandría"
 ---
-# Eisagogika
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Eisagogika.png]]

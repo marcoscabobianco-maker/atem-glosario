@@ -20,8 +20,6 @@ aliases:
 imagen: null
 ---
 
-# Top Malo
-
 > *Top Malo… Top Malo, Bottom también malo.*
 
 ---

@@ -76,7 +76,6 @@ tags:
  - "brightwater"
  - "generación-intermedia"
 ---
-# Clarisa
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Clarisa.png]]

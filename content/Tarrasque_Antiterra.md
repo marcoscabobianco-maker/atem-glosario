@@ -20,7 +20,6 @@ tags:
  - torneo
 imagen: Imagenes_Tier1/Tarrasque_Antiterra.png
 ---
-# Tarrasque
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tarrasque_Antiterra.png]]

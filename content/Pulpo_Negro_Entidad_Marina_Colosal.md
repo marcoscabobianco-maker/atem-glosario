@@ -11,7 +11,6 @@ aliases:
  - "Entidad Marina Colosal"
  - "Pulpo Negro"
 ---
-# Pulpo Negro (Entidad Marina Colosal)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pulpo_Negro_Entidad_Marina_Colosal.png]]

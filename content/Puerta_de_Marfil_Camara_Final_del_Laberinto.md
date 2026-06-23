@@ -7,8 +7,6 @@ aliases:
  - "Puerta de Marfil"
 ---
 
-# Puerta de Marfil (Cámara Final del Laberinto)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Puerta_de_Marfil_Camara_Final_del_Laberinto.png]]
 <!-- /HEADER_IMG -->

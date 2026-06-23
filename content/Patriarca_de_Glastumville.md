@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Patriarca de Glastumville"
 ---
-# Patriarca de Glastumville
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Patriarca_de_Glastumville.png]]

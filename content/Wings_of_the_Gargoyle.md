@@ -5,8 +5,6 @@ aliases:
  - "Wings of the Gargoyle"
 ---
 
-# Wings of the Gargoyle
-
 ## Presentación
 
 **Forma:** Alas de gárgola; tres objetos en uno (shoulders/body)

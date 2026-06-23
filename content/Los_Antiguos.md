@@ -10,8 +10,6 @@ aliases:
 epoca: "Era Primordial — antes del registro"
 ---
 
-# Los Antiguos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Los_Antiguos.png]]
 <!-- /HEADER_IMG -->

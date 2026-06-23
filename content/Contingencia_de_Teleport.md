@@ -5,8 +5,6 @@ aliases:
  - "Contingencia de Teleport"
 ---
 
-# Contingencia de Teleport
-
 ## Presentación
 
 **Invocador:** [[El_Flamenco_El_viejo_Maestre_Falso|Flamenco/viejo Maestre]]

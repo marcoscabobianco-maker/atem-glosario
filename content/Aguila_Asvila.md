@@ -21,7 +21,6 @@ tags:
  - rey-del-firmamento
 imagen: null
 ---
-# El Águila Asvila
 
 > *"En lo más alto del firmamento, el Águila, conocida como Asvila, reina como símbolo del Sol y de la energía diurna. Representada como un ave gigante de alas extendidas, el Águila se asocia con la protección, la justicia y el renacimiento diario de la luz."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*.
 

@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Viejo Laus"
 ---
-# Viejo Laus
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Viejo_Laus.png]]

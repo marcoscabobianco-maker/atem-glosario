@@ -15,8 +15,6 @@ aliases:
  - "Los cóndores"
 ---
 
-# Operativo Cóndor
-
 La gesta de las islas no entra al mundo por una puerta inventada, sino por una herida real de la historia argentina. A la medianoche del 28 de septiembre de 1966, dieciocho militantes —los que se llamaron a sí mismos *los cóndores*— secuestran el vuelo de Aerolíneas Argentinas y lo desvían a las Malvinas para plantar siete banderas sobre la turba. El avión aterriza a los tumbos sobre un campo que no es pista. En la diégesis ese hecho deja de ser efeméride y se vuelve umbral: el aterrizaje forzoso es también el cruce de los recién llegados hacia un territorio donde lo inglés, lo frío y lo acristalado guardan algo mucho más viejo que la disputa de soberanía. La superficie es la política del Atlántico Sur; el fondo, debajo del agua y debajo de la hospitalidad isleña, es otra cosa.
 
 ## Quiénes

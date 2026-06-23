@@ -16,8 +16,6 @@ aliases:
  - "Joe"
 ---
 
-# Joe Garfield
-
 > *El sargento isleño que conduce a los recién llegados sin decirles a dónde. Mano derecha de la viuda; engranaje de la Orden que recibe a los argentinos para estudiarlos.*
 
 ## Presentación

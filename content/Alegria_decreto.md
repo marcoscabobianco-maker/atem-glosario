@@ -8,7 +8,6 @@ aliases:
  - "decreto"
  - "Alegría"
 ---
-# Alegría (decreto)
 
 ## Presentación
 

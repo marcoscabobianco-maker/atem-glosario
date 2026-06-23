@@ -12,7 +12,6 @@ aliases:
  - "Unchino de Pazzi"
  - "Richardino"
 ---
-# Unchino de Pazzi / Richardino
 
 ## Presentación
 

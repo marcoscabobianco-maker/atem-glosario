@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Cangrejo de Cristal"
 ---
-# Cangrejo de Cristal
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cangrejo_de_Cristal.png]]

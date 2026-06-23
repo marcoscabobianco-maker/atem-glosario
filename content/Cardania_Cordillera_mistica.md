@@ -13,8 +13,6 @@ aliases:
  - "Cardania"
 ---
 
-# Cardania (Cordillera mística)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cardania_Cordillera_mistica.png]]
 <!-- /HEADER_IMG -->

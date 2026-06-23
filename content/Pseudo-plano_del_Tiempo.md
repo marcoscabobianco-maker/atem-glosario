@@ -12,8 +12,6 @@ aliases:
  - "Pseudo-plano del Tiempo"
 ---
 
-# Pseudo-plano del Tiempo
-
 ## Presentación
 
 Plano de existencia donde el tiempo tiene corporeidad. Los compañeros son

@@ -7,8 +7,6 @@ aliases:
  - "**Ley del Equilibrio Constante**"
 ---
 
-# **Ley del Equilibrio Constante**
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ley_del_Equilibrio_Constante.png]]
 <!-- /HEADER_IMG -->

@@ -5,8 +5,6 @@ aliases:
  - "Temple de Salomón — Sancta Sanctorum (Zona 4)"
 ---
 
-# [[Temple_complejo_TE|Temple]] de Salomón — Sancta Sanctorum (Zona 4)
-
 ## Presentación
 
 - **Descripción:** Cámara principal de culto, 400-475 metros, rodeada de carpas de refugiados (~300-400 personas a lo largo del ciclo templario en Jerusalén)

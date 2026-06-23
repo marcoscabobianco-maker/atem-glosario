@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Oximec"
 ---
-# Oximec
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Oximec.png]]

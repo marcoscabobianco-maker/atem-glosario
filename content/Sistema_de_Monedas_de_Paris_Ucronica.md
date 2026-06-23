@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Sistema de Monedas de París Ucrónica"
 ---
-# Sistema de Monedas de [[Paris_Ucronica|París Ucrónica]]
 
 ## Presentación
 

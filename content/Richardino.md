@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Richardino"
 ---
-# Richardino
 
 ## Presentación
 

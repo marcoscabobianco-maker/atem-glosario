@@ -5,8 +5,6 @@ aliases:
  - "TECNOLOGÍA MÁGICA DEL LABERINTO"
 ---
 
-# TECNOLOGÍA MÁGICA DEL LABERINTO
-
 ## Presentación
 
 - **[[Warzone_spell]]:** Manipulación de arquitectura, ruptura/camuflaje de paredes

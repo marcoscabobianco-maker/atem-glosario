@@ -5,8 +5,6 @@ tags: ["lugar", "vala"]
 aliases: ["Torre Ob Caligni", "Caligni", "Ob Caligni"]
 ---
 
-# Torre Ob Caligni
-
 En el extremo más oscuro del arco de los Wordbreakers se levanta la Torre Ob Caligni: estructura y fuerza al mismo tiempo, nombre de un lugar y nombre de lo que habita ese lugar. Los Caligni son criaturas de la niebla y de la oscuridad subterránea, cuyo nombre lleva en sí la memoria del latín: *caligo*, la bruma que no deja ver. La torre concentra ese principio y lo vuelve fortaleza.
 
 El archivo registra cuatro grandes confrontaciones libradas en torno a la Torre, de las cuales la última cerró el ciclo completo de los Wordbreakers en Vala. En el umbral de ese cierre, [[Belial]] irrumpió desde el exterior como si la victoria de los viajeros hubiese atraído una potencia mayor. La nemesis personal de [[Nancon]] tiene su raíz en este lugar.

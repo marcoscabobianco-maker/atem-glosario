@@ -20,8 +20,6 @@ aliases:
 imagen: null
 ---
 
-# Malena
-
 > *Quería ver lo que hay adentro de la montaña. No sabía que la montaña también mira.*
 
 ---

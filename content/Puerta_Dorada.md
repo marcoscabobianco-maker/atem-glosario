@@ -20,8 +20,6 @@ tags:
 imagen: Imagenes_Tier1/Puerta_Dorada.png
 ---
 
-# La Puerta Dorada
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Puerta_Dorada.png]]
 <!-- /HEADER_IMG -->

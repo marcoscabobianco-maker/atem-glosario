@@ -10,8 +10,6 @@ aliases:
  - "Zoe"
 ---
 
-# Zoe (Emperatriz)
-
 ## Presentación
 
 Gobernanta de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] durante época dorada (mediados siglo XI). Compañera de emperatriz principal ([[Teodora]]). Dríade; enfermó cuando árbol vinculado a sus esporas fue contaminado por [[Zygomind]]. Su muerte cataliza [[Juegos_Funebres|Juegos Fúnebres]] y duelo de [[Teodora]].

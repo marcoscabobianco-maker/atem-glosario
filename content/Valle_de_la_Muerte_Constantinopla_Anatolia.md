@@ -16,8 +16,6 @@ aliases:
 wikipedia: https://es.wikipedia.org/wiki/Constantinopla
 ---
 
-# Valle de la Muerte (Constantinopla/Anatolia)
-
 ## Presentación
 
 Área desértica a unas 10-15 millas de la costa de Anatolia oriental (zona entre Paflagonia y Teodosiopolis, cerca de Georgia y el Cáucaso). Terreno pedregoso, sin arena, cubierto de hierba seca y rocas oscuras erosionadas. Sin fauna observable: ni pájaros, ni insectos, ni rastros de vida animal. Viento constante que "suspira como una maldición." Árboles muertos y podridos, sin hojas.

@@ -11,8 +11,6 @@ aliases:
  - "Corporación de las Sombras"
 ---
 
-# Corporación de las Sombras
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Corporacion_de_las_Sombras.png]]
 <!-- /HEADER_IMG -->

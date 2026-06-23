@@ -5,8 +5,6 @@ tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Marsilio Fountaine"]
 ---
 
-# Marsilio Fountaine
-
 Nacido en París en 1620, Marsilio Fountaine es el hijo menor de Pier Fountaine, comerciante de libros, y de su segunda esposa Adeline, hija de un impresor alemán. La casa familiar se pobló así de volúmenes poco ordinarios, varios de ellos prohibidos por la Iglesia, que circulaban entre nobles dispuestos a pagar su precio. Marsilio aprendió a leer a los cinco años y terminó por preferir precisamente aquellos libros que la autoridad eclesiástica proscribía.
 
 La muerte por disentería de sus padres en 1630 dejó a Marsilio bajo la tutela de su hermano mayor Phillipe, pintor en ciernes. La llegada y muerte prematura de Marinette —la esposa de Phillipe, tan amante de los libros como Marsilio y tan combativa con el mundo como para quedar grabada en su memoria— marcó un giro en la trayectoria de ambos hermanos: los cuadros de Phillipe se oscurecieron y dejaron de venderse; Marsilio recurrió a la astrología y al ocultismo como sustento, ganándose reputación en ciertos círculos discretos de la ciudad.

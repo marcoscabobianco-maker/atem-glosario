@@ -5,8 +5,6 @@ aliases:
  - "Moneda de Judas como Foco de Poder"
 ---
 
-# Moneda de Judas como Foco de Poder
-
 ## Presentación
 
 **Concepto:** [[Michel|Michel]] usa "moneda de Judas" como foco de nigromancia/miedo. Traidor por excelencia → poder sobre traición.

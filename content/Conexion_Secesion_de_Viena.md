@@ -5,8 +5,6 @@ aliases:
 en_construccion: true
 ---
 
-# Conexion Secesion De Viena
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Conexion_Secesion_de_Viena.jpg]]
 <!-- /HEADER_IMG -->

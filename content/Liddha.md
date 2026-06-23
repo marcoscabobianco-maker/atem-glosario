@@ -13,7 +13,6 @@ tags:
  - papi-balor
  - taberna-serpiente-mundo
 ---
-# Liddha
 
 > *Tullida drow. Brazo congelado al torso. Madre de hijos devorados por Papi Balor. Una de las cuatro miembros principales del grupo de [[Las_Tullidas]].*
 

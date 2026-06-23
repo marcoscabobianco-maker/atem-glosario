@@ -9,7 +9,6 @@ aliases:
  - "TNW"
  - "Kendall"
 ---
-# Kendall (TNW)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kendall_TNW.png]]

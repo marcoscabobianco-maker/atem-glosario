@@ -22,7 +22,6 @@ tags:
  - decapitado
  - alumine
 ---
-# Master Malakita / Melok-Ri
 
 > *[[Rudishva]] vampiro. Fundador de la Orden de los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]. Calavera flotante con IA embebida. Decapitado por [[Alumine_Manwe_Finwe|Alúmine]] en la fase media del ciclo primero.*
 

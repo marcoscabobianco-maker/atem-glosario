@@ -11,7 +11,6 @@ tags:
 aliases:
  - "Delcan"
 ---
-# Delcan
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Delcan.png]]

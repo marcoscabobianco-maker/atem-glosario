@@ -8,7 +8,6 @@ aliases:
  - "Cristal-llave"
  - "Bifrost"
 ---
-# Cristal-llave / Bifrost
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cristal-llave_Bifrost.png]]

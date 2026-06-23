@@ -8,8 +8,6 @@ aliases:
  - "Temple"
 ---
 
-# Temple (complejo, TE)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Temple_complejo_TE.png]]
 <!-- /HEADER_IMG -->

@@ -11,8 +11,6 @@ aliases:
  - "Curiales, los"
 ---
 
-# Curiales, los
-
 ## Presentación
 
 [[Lords_of_Creation_Sistema_TNW|Sistema]] de correspondencias pecados/virtudes asignado a los miembros

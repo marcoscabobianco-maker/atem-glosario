@@ -8,7 +8,6 @@ aliases:
  - "del Infierno"
  - "Primer Nivel"
 ---
-# Primer Nivel (del Infierno)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Primer_Nivel_del_Infierno.png]]

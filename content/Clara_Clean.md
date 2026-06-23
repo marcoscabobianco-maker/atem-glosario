@@ -10,8 +10,6 @@ aliases:
  - "Clara Clean TNW"
 ---
 
-# Clara Clean
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Clara_Clean.png]]
 <!-- /HEADER_IMG -->

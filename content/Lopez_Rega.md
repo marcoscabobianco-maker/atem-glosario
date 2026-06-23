@@ -21,8 +21,6 @@ aliases:
  - "El Brujo"
 ---
 
-# José López Rega — "Lopecito"
-
 La crónica de las islas no lo pone en escena: lo nombra de lejos, como quien señala una nube que todavía está sobre el horizonte y ya promete tormenta. En el rumor de aquellos días de 1966, en torno al [[Operativo_Condor|vuelo desviado a las Malvinas]], aparece la figura de un cabo de la guardia al que llaman **"Lopecito"**: un hombre menor en apariencia, de los que cuidan una puerta, que sin embargo viene escalando con una paciencia que inquieta a los que la advierten.
 
 ## El ascenso desde la guardia

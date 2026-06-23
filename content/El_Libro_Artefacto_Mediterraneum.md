@@ -13,8 +13,6 @@ aliases:
  - "El Libro"
 ---
 
-# El Libro (Artefacto — Mediterraneum)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Libro_Artefacto_Mediterraneum.png]]
 <!-- /HEADER_IMG -->

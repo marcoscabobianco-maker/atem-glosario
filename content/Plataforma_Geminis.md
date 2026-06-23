@@ -21,7 +21,6 @@ tags:
  - tercera-casa
 imagen: Imagenes_Tier1/Plataforma_Geminis.png
 ---
-# Plataforma de Géminis
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Geminis.png]]

@@ -4,7 +4,6 @@ categoria: lugar
 aliases:
  - "Atropal Matt"
 ---
-# Atropal Matt
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Atropal_Matt.png]]

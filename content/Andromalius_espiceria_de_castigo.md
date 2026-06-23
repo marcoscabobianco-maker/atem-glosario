@@ -5,8 +5,6 @@ tags: ["objeto", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Andromalius espicería de castigo", "Andromalius hechizo"]
 ---
 
-# Andromalius como espicería de castigo
-
 Además de manifestarse como entidad poseedora, el Earl demoníaco [[Andromalius]] admite un uso ritual secundario: la preparación de una espicería de castigo, una operación goética dirigida específicamente contra ladrones. En este empleo el demonio no toma cuerpo ni voz; actúa como fuerza invisible que persigue y abate al culpable, devolviendo al agraviado lo que le fue sustraído.
 
 El procedimiento, conocido entre los operadores del arte hermético que circulan por el [[Quartier_de_Saint_Germain_de_Pres]], se distingue con cuidado de la invocación plena de [[Andromalius]]: requiere materiales simples, puede ejecutarse a cualquier hora y no exige círculo de contención. Es, en palabras de quienes lo practican, un uso menor del mismo pacto mayor.

@@ -25,7 +25,6 @@ tags:
  - eco-doctrinal
 imagen: null
 ---
-# Priscus Pulcher
 
 > *"Yo, Priscus Pulcher, he hablado."* — última cláusula del único discurso completo del mártir conservado en el archivo, grabado en mítrico sobre placa interior de la cámara octogonal del [[Forum_de_Set|Foro de Set]].
 

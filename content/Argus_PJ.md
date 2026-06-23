@@ -26,7 +26,6 @@ tags:
  - paradigma-caido
 imagen: null
 ---
-# Barón Argus de Ritornello
 
 > *"Los buenos barones no se hacen de imperio; se hacen del polvo que dejan los caminos cuando se cierra la puerta de su torre."* — máxima atribuida a Paulus en glosa lateral al *[[Decadiano]]*, libro VII.
 

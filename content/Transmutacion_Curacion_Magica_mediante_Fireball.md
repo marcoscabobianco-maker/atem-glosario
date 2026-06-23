@@ -7,8 +7,6 @@ aliases:
  - "Curación Mágica mediante bola de fuego"
 ---
 
-# Transmutación / Curación Mágica mediante bola de fuego
-
 ## Presentación
 
 **Tipo:** Variante mágica — alquimia/magia hermética

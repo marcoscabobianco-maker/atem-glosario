@@ -10,7 +10,6 @@ aliases:
  - "Baton Rouge (Antiterra)"
  - "Baton Rouge"
 ---
-# Baton Rouge (Antiterra)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Baton_Rouge_Antiterra.png]]

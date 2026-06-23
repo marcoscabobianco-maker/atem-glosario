@@ -12,8 +12,6 @@ aliases:
  - "Palia"
 ---
 
-# Palia
-
 ## Presentación
 
 Rosedales al este de **[[Torregrises]]**. Guardada por **[[Celemna]]** (ex-[[Sagrada_Orden|Sagrada Orden]],

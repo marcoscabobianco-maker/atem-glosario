@@ -19,7 +19,6 @@ tags:
  - 1-metro-20
  - pies-de-pato
 ---
-# Melvino Calvino
 
 > *Pingüinoide de 1.20 m con pies de pato. Blaster, comunicador, lanzacohetes. Percepción de movimiento a 100 m. Conexión con Spelljammer y otros mundos.*
 

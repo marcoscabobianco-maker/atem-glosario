@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Panteon de Tanastias altar
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Panteon_de_Tanastias_altar.png]]
 <!-- /HEADER_IMG -->

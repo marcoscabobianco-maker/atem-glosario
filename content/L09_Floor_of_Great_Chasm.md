@@ -22,8 +22,6 @@ tags:
  - rudishva-bastion
 ---
 
-# Floor of Great Chasm
-
 > *El suelo del Gran [[Abismo]]. Bosques de hongos colosales bifurcados por waterfalls. Walid ogre magi. [[Sekhmet]] vengeance aspect. [[Nerub_Null]] y los [[Priscians]]. [[Heqeti]] Old Father.*
 
 ## Presentación

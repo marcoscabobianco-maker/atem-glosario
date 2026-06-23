@@ -5,8 +5,6 @@ aliases:
  - "Osporn"
 ---
 
-# Osporn
-
 ## Presentación
 
 **Fuentes:** Taller l.1032

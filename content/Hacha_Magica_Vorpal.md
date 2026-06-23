@@ -11,8 +11,6 @@ aliases:
  - "Hacha Mágica (¿Vorpal?)"
 ---
 
-# **Hacha Mágica (¿Vorpal?)**
-
 ## Presentación
 
 **Categoría**: Tesoro / Arma mágica

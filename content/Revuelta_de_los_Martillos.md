@@ -8,8 +8,6 @@ aliases:
  - "Revuelta de los Martillos"
 ---
 
-# Revuelta de los Martillos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Revuelta_de_los_Martillos.png]]
 <!-- /HEADER_IMG -->

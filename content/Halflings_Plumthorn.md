@@ -19,7 +19,6 @@ tags:
  - veneno
  - extorsion
 ---
-# Halflings de Plumthorn
 
 > *Matones halflings de la entrada de los Halls of Thoth. Fabrica de veneno. Phlebotomas Plumthorn es el jefe. Recientes intrusos, ya en conflicto con goblins.*
 

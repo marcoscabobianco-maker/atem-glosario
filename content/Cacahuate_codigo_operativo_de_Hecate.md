@@ -8,7 +8,6 @@ aliases:
  - "código operativo de Hécate"
  - "Cacahuate"
 ---
-# Cacahuate (código operativo de Hécate)
 
 ## Presentación
 

@@ -23,8 +23,6 @@ tags:
  - campaña-activa
 ---
 
-# Labresu
-
 > *Criatura demoníaca a la que Valerius pidió un deseo. La espada compañera (sangrante de ácido) y la llave del Circuito de Medianoche fueron las ofertas. Acepta y abre brecha de poder oscuro. Grafía aproximada — campaña activa.*
 
 ## Presentación

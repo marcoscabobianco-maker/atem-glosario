@@ -25,7 +25,6 @@ tags:
  - aliado-del-alcaide
 imagen: null
 ---
-# Kaitor el Rojo
 
 > *"Los delvers no necesitan jerarquía permanente. Pero necesitan a alguien que hable por todos cuando el alcaide pregunta. Esa figura existe en cada villa frontera de Irthuin con dungeon respirando debajo. En [[Glastumville]] se llama Kaitor el Rojo, y la barba le hace honor al nombre."* — pliego de la cofradía mercenaria de [[Narsileon]], comentario al margen.
 

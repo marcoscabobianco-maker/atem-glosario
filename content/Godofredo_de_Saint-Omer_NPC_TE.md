@@ -6,8 +6,6 @@ aliases:
  - "Godofredo de Saint-Omer"
 ---
 
-# Godofredo de Saint-Omer (figura, TE)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Godofredo_de_Saint-Omer_NPC_TE.png]]
 <!-- /HEADER_IMG -->

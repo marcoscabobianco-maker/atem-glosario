@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Puerto de Feliz Regreso"
 ---
-# Puerto de Feliz Regreso
 
 ## Presentación
 

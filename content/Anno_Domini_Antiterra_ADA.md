@@ -14,7 +14,6 @@ tags:
  - calendario
  - antiterra
 ---
-# Anno Domini Antiterra (A.D.A.)
 
 > *El calendario propio de [[Antiterra]]. Corre paralelo al Anno Domini terrestre, no se traduce. Donde la Tierra cuenta sus años, Antiterra cuenta los suyos.*
 

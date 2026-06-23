@@ -18,7 +18,6 @@ tags:
  - maleika
  - hijos
 ---
-# Lucifer
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lucifer.png]]

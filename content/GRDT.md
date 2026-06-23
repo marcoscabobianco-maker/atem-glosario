@@ -23,7 +23,6 @@ tags:
  - maleika
  - disminucion
 ---
-# GRDT
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/GRDT.png]]

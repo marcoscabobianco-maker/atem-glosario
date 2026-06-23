@@ -23,7 +23,6 @@ tags:
  - magos-artes-arcanas
 imagen: null
 ---
-# La Serpiente-Luna Auna
 
 > *"En oposición al Águila, la Serpiente-Luna representa la noche, los ciclos ocultos y los secretos de la existencia. Su forma alargada y curvilínea se observa en los diagramas de fases lunares y mareas. Según las leyendas, la Serpiente descansa en las entrañas de la tierra, controlando los flujos volcánicos y la energía oculta del subsuelo."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*.
 

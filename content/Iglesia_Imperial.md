@@ -33,7 +33,6 @@ tags:
  - mitra
 imagen: null
 ---
-# Iglesia Imperial — la unidad aparente
 
 > *"Una iglesia es una decisión cosmológica congelada en arquitectura. Cambias la decisión, no cambias la arquitectura — y por eso quien entra al templo nuevo sigue oliendo el incienso del templo viejo."* — Glosa del *[[Decadiano]]*, libro IV, sobre las reformas religiosas archonteas.
 

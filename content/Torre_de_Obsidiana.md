@@ -20,7 +20,6 @@ tags:
  - corrupcion-noble
 imagen: null
 ---
-# Torre de Obsidiana
 
 > *"El que mira la torre desde la plaza no la mira: la torre lo mira a él. Eso es lo que la obsidiana hace cuando está bien pulida."* — anotación marginal en cuaderno operativo de [[Ayrton_Auslander|Ayrton]], tras la infiltración fallida.
 

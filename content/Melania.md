@@ -5,8 +5,6 @@ aliases:
 referenciado_por: 2
 ---
 
-# Melania
-
 ## Referencias entrantes
 
 Esta entrada es mencionada desde:

@@ -22,7 +22,6 @@ tags:
  - mercurio
 imagen: Imagenes_Tier1/Aby_Warburgo.png
 ---
-# Aby Warburgo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Aby_Warburgo.png]]

@@ -12,8 +12,6 @@ aliases:
  - "Little Death"
 ---
 
-# Little Death (Campamento)
-
 ## Presentación
 
 Campamento de la expedición de [[Abraham_Wood|Abraham Wood]]. Punto de llegada y base de operaciones inicial del grupo.

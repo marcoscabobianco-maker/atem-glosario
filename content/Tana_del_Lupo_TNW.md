@@ -13,8 +13,6 @@ aliases:
  - "Tana del Lupo"
 ---
 
-# Tana del Lupo (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tana_del_Lupo_TNW.png]]
 <!-- /HEADER_IMG -->

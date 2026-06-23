@@ -13,7 +13,6 @@ aliases:
  - "Oratiol"
 aa: "P.2 pacto opaco ; A.1 amnesia electiva ; N.1 anagrama de continuidad ; E.1 cronista interno [MC, A.D.A.]"
 ---
-# Oratiol
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Oratiol.png]]

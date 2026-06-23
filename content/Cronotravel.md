@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Cronotravel"
 ---
-# Cronotravel
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cronotravel.png]]

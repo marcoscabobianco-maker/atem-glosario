@@ -20,7 +20,6 @@ tags:
  - mascara
  - inmortal
 ---
-# Lord Carcalus (Arena Lord)
 
 > *Uno de los rudishva supervivientes sin edad aparente. Máscara estética cruzada-Balduino. Dirige la Arena heqeti con mano de hierro y neutralidad estricta.*
 

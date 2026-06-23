@@ -12,8 +12,6 @@ aliases:
  - "Cloeh"
 ---
 
-# Cloeh
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cloeh.png]]
 <!-- /HEADER_IMG -->

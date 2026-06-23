@@ -15,8 +15,6 @@ aliases:
  - "Mauritius / San Mauricio"
 ---
 
-# Mauritius / San Mauricio
-
 ## Presentación
 
 Jefe de legionarios, martirizado en 287 en Auganum, Suiza. Trasladado con sus hombres desde el Alto Egipto hasta los Alpes, se negó a reprimir cristianos. Por esa negativa sus legiones fueron decimadas —uno de cada diez ejecutado— y después la legión entera fue inmolada; Mauritius murió último, sobre los cadáveres de sus seguidores. Es santo patrono de órdenes militares, incluidos los piqueros suizos que guardan al Vaticano.

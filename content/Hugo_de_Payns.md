@@ -18,7 +18,6 @@ tags:
  - cruzada
 epoca: "1119-1120 AD — Edad Templaria — primer Maestre"
 ---
-# Hugo de Payns
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Hugo_de_Payns.png]]

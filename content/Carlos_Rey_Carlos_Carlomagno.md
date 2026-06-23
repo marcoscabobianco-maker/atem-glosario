@@ -19,7 +19,6 @@ tags:
  - guardian-temporal
  - referencia-cosmologica
 ---
-# Carlos / Carlomagno
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Carlos_Rey_Carlos_Carlomagno.png]]

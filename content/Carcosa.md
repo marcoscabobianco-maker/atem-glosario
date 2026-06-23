@@ -9,8 +9,6 @@ aliases:
  - "El sueño compartido"
 ---
 
-# Carcosa
-
 > *Una ciudad que no está en otro plano, sino en un pliegue de éste: se abre cuando alguien lee mal cierta obra, o cuando una piedra robada del fondo del mar aprende a soñar en voz alta.*
 
 ## Lo que es

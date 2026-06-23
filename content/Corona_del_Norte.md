@@ -14,8 +14,6 @@ tags:
  - corona-del-norte
 ---
 
-# Corona del Norte
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Corona_del_Norte.png]]
 <!-- /HEADER_IMG -->

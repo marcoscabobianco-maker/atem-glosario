@@ -7,8 +7,6 @@ aliases:
  - "Santuario Templario"
 ---
 
-# Santuario Templario (ex-Fortaleza Cruzada)
-
 ## Presentación
 
 **Tipo:** Estructura militar-religiosa abandonada, base de poder enemigo, zona de posesión demoníaca

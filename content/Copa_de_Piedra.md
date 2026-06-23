@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Copa de Piedra"
 ---
-# Copa de Piedra
 
 ## Presentación
 

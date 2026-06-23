@@ -16,7 +16,6 @@ tags:
  - sir-sixto
  - collar-maldito
 ---
-# Sixto
 
 > *Humano fighter. Pelo blanco, ojos de miel. Tanque del grupo. Comparte nombre con un figura: Sir Sixto de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]].*
 

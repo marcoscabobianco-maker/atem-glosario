@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Joseph_Horne.png
 ---
 
-# Joseph Horne — Obispo y padre
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Joseph_Horne.png]]
 <!-- /HEADER_IMG -->

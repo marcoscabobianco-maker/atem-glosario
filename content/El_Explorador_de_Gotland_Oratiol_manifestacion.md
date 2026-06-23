@@ -16,7 +16,6 @@ aliases:
  - "manifestación"
  - "El Explorador de Gotland / Oratiol"
 ---
-# El Explorador de Gotland / Oratiol (manifestación)
 
 ## Presentación
 

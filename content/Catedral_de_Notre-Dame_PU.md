@@ -24,7 +24,6 @@ tags:
  - 1901-ada
 imagen: Imagenes_Tier1/Catedral_de_Notre-Dame_PU.png
 ---
-# Catedral de Notre-Dame de París
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Catedral_de_Notre-Dame_PU.png]]

@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Guardia_Varega_Ucronica.png
 ---
 
-# La Guardia Varega Ucrónica
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Guardia_Varega_Ucronica.png]]
 <!-- /HEADER_IMG -->

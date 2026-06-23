@@ -10,8 +10,6 @@ aliases:
  - "Cosmarca"
 ---
 
-# Cosmarca
-
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->
 <!-- /HEADER_IMG -->

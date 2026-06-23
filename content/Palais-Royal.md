@@ -5,8 +5,6 @@ tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Palais-Royal"]
 ---
 
-# Palais-Royal
-
 Palacio construido por el Cardenal Richelieu y legado a la corona, el Palais-Royal es en 1648 la residencia de la regente Ana de Austria y el [[Cardenal_Mazarino]], y por tanto el centro nervioso del poder en [[Francia]]. Desde sus salones se dictan los edictos que el Parlamento rechaza, se tramitan las negociaciones secretas con las potencias extranjeras y se administra la guerra con España que sangra al reino. Cuando la Fronda parlamentaria estalla en agosto de 1648 y la población de París levanta barricadas, el Palais-Royal queda virtualmente sitiado en el corazón de la ciudad.
 
 Es un lugar de acceso restringido y vigilancia constante: guardianes, chambelanes y espías pueblan sus antecámaras. Llegar ante Mazarino requiere mediación o audacia. La tensión entre el poder que emana del palacio y la indignación que fermenta en las calles de París constituye el eje político de toda la campaña de Saint-Germain.

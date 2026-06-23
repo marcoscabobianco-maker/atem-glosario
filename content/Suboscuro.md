@@ -20,7 +20,6 @@ tags:
  - membrana-porosa
 imagen: null
 ---
-# Subóscuro
 
 > *"Una galería repleta de actividad, donde criaturas del Subóscuro y esclavistas discutían en susurros."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*, sobre el [[Bazar_de_la_Vida]].
 

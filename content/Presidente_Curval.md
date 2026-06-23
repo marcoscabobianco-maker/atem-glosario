@@ -7,8 +7,6 @@ aliases:
  - "Presidente Curval"
 ---
 
-# Presidente Curval
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Presidente_Curval.png]]
 <!-- /HEADER_IMG -->

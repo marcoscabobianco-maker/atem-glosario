@@ -22,8 +22,6 @@ tags:
 imagen: null
 ---
 
-# Fortaleza Azur
-
 > *"El color azur del nombre no es ornamento heráldico: es advertencia. La piedra de la fortaleza se ve azul cuando el sol cae directo sobre ella, y el sol cae directo sólo cuando el aparato imperial necesita recordar que el valle es suyo."*
 
 ---

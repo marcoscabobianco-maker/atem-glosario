@@ -11,8 +11,6 @@ aliases:
  - "Constructo Dorado de Tres Caras"
 ---
 
-# Constructo Dorado de Tres Caras
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Constructo_Dorado_de_Tres_Caras.png]]
 <!-- /HEADER_IMG -->

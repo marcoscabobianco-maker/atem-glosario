@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Gargolas del Tercer Circulo"
 ---
-# Gargolas del Tercer Circulo
 
 ## Presentación
 

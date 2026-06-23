@@ -24,8 +24,6 @@ tags:
 ---
 > *compañero María. Ranger de [[Valdemora]]. Esposo viudo de Lali (= [[Bellaca]]). Vuelto al valle con los [[Buscadores_de_Ardis_Vala|Buscadores]] en el regreso tras el Hiato.*
 
-# Decio Balmora
-
 > *Ranger / Montaraz de [[Valdemora]]. Hijo de granjeros. Capa de camuflaje verde-marrón, arco largo de tejo. "Trancos del Bri" del setting. Esposa Lali perdida.*
 
 ## Presentación

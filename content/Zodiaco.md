@@ -10,8 +10,6 @@ aliases:
  - "el Zodíaco"
 ---
 
-# Zodíaco
-
 ## Presentación
 
 Del Zodíaco como organización el registro conserva el nombre y, alrededor del nombre, una constelación de señas: ni asiento, ni jerarquía, ni propósito declarado. Lo que el archivo puede trazar es la órbita. En los papeles de [[Paris_Ucronica|París Ucrónica]] gravitan en torno suyo las familias de nombre zodiacal —la línea Acuaria, la línea Piscis, la [[Sucubo_Taurina|Taurina]] y la casa [[Familia_Tauro|Tauro]]—, como si la rueda de los signos fuera, además de manera de contar los días, parentesco.

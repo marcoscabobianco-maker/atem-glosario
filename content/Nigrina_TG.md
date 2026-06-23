@@ -20,7 +20,6 @@ tags:
  - matrimonio-de-sangre
 imagen: Imagenes_Tier1/Nigrina_TG.png
 ---
-# Nigrina de Torregrises
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Nigrina_TG.png]]

@@ -12,7 +12,6 @@ aliases:
  - "Cronamon"
  - "Kronamon"
 ---
-# Kronamon
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kronamon.png]]

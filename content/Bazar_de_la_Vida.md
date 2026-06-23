@@ -23,8 +23,6 @@ tags:
 imagen: null
 ---
 
-# El Bazar de la Vida
-
 > *"Desde allí, pudieron observar una vista que los llenó de rabia e impotencia: el bazar de esclavos. Una galería repleta de actividad, donde criaturas del Subóscuro y esclavistas discutían en susurros. En el centro de la galería, un grupo de niños, encadenados y aterrorizados, esperaba su destino. Entre ellos estaban los cuatro pequeños que habían desaparecido del orfanato de la Calle de la Linterna."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

@@ -10,8 +10,6 @@ aliases:
  - "Sandra"
 ---
 
-# Sandra (Sacerdotisa Templaria)
-
 ## Presentación
 
 - **Rol:** Guardiana de la Orden; traidor por amor

@@ -23,8 +23,6 @@ tags:
 imagen: null
 ---
 
-# Pugil Atlante
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pugil_Atlante_Joven.png]]
 <!-- /HEADER_IMG -->

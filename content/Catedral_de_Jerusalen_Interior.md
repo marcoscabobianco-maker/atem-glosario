@@ -7,8 +7,6 @@ aliases:
  - "Catedral de Jerusalén"
 ---
 
-# Catedral de Jerusalén (Interior)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Catedral_de_Jerusalen_Interior.jpg]]
 <!-- /HEADER_IMG -->

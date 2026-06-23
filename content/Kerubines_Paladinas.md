@@ -8,7 +8,6 @@ aliases:
  - "Paladinas"
  - "Kerubines"
 ---
-# Kerubines (Paladinas)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kerubines_Paladinas.png]]

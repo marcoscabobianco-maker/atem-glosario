@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Estrella de la Mañana"
 ---
-# Estrella de la Mañana
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Estrella_de_la_Manana.png]]

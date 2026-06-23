@@ -4,8 +4,6 @@ aliases:
  - "Bermudas isla de entrada"
 ---
 
-# Bermudas isla de entrada
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bermudas_isla_de_entrada.png]]
 <!-- /HEADER_IMG -->

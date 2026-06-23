@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Despacho Sideral"
 ---
-# Despacho Sideral
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Despacho_Sideral.png]]

@@ -7,7 +7,6 @@ tags:
 aliases:
  - "NEHEOD ZAIBEY KU"
 ---
-# NEHEOD ZAIBEY KU
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/NEHEOD_ZAIBEY_KU.png]]

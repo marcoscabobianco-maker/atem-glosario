@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Cukulín"
 ---
-# Cukulín
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cukulin.png]]

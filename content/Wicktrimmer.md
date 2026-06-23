@@ -23,7 +23,6 @@ tags:
  - perseguido-por-argus
 imagen: null
 ---
-# Wicktrimmer
 
 > *"Hay quien apaga la mecha de la vela para conservar la cera. Hay quien la apaga para evitar que la luz revele lo que estaba bajo la mesa. Wicktrimmer apaga por la segunda razón."* — refrán que circula en [[Glastumville]], atribuido por algunos a un capitán mercenario veterano y por otros al mismo Wicktrimmer.
 

@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Mabon gula
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mabon_gula.png]]
 <!-- /HEADER_IMG -->

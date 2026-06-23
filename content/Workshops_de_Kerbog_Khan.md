@@ -22,8 +22,6 @@ tags:
  - cristalizacion
 ---
 
-# Workshops of Kerbog Khan
-
 > *Laboratorios de [[Kerbog_Khan]]. En las entrañas del mega-dungeon. Producción de autómatas (incluida la libélula que arrasó [[Ritornello]]). Estado post-cristalización: degradado.*
 
 ## Presentación

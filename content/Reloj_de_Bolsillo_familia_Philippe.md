@@ -4,8 +4,6 @@ aliases:
  - "Reloj de Bolsillo familia Philippe"
 ---
 
-# Reloj de Bolsillo familia Philippe
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Reloj_de_Bolsillo_familia_Philippe.png]]
 <!-- /HEADER_IMG -->

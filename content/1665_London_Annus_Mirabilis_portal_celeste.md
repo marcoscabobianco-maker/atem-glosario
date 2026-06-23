@@ -17,8 +17,6 @@ aliases:
  - "1665 London / Annus Mirabilis"
 ---
 
-# 1665 London / Annus Mirabilis (portal celeste)
-
 ## Presentación
 
 **Ref.:** Confirmación de (23 mar 2026, dictado oral). Portal #3 de la lista celeste.

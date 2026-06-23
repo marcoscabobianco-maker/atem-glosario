@@ -22,7 +22,6 @@ tags:
  - sellos
  - hilador
 ---
-# Cakravartin
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cakravartin.png]]

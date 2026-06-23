@@ -8,8 +8,6 @@ aliases:
  - "Otto"
 ---
 
-# Otto
-
 ## Presentación
 
 Aduanero en jefe en Metz (ciudad fronteriza). Contactos con [[Inevitable|Inevitables]]. Conoce despropósitos oscuros del caos.

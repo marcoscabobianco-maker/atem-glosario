@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Glastumville"
 ---
-# Glastumville
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Glastumville.png]]

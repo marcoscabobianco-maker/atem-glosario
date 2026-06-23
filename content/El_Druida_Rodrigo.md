@@ -15,7 +15,6 @@ tags:
  - olor-a-tierra
  - stub
 ---
-# El Druida (Rodrigo)
 
 > *Humano druida. Alto, delgado, olor a tierra. Magia de piedra: "¡Piedra en piedra!"*
 

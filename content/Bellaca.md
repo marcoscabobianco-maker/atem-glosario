@@ -23,7 +23,6 @@ tags:
  - penanggalan
  - cross-dominio
 ---
-# Bellaca (en su vida mortal, Lali)
 
 > *"Toda mujer que fue muy querida en su valle y muy perdida después tiene, en este mundo, un final que el cronista habría preferido no transcribir. Pero el oficio es el oficio."*
 

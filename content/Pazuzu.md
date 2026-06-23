@@ -4,8 +4,6 @@ aliases:
  - "Pazuzu"
 ---
 
-# Pazuzu
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pazuzu.png]]
 <!-- /HEADER_IMG -->

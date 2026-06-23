@@ -20,8 +20,6 @@ tags:
 imagen: null
 ---
 
-# Tabletas del Caos del Barrowmaze
-
 > *"El propio archivillano, amnésico y mutilado, escribe tabletas bilingües —su Biblia— para que cualquier versión futura de sí mismo pueda recordar."*
 > — [[Las_Dieciseis_Posiciones|Las Dieciséis Posiciones del Juego]], posición Φ15
 

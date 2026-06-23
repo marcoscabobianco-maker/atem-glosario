@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Reliquia_Estela_Chal_Magico.png
 ---
 
-# El Chal Mágico de Estela
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Reliquia_Estela_Chal_Magico.png]]
 <!-- /HEADER_IMG -->

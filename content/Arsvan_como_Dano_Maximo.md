@@ -5,8 +5,6 @@ aliases:
  - "Ärsvan como Daño Máximo"
 ---
 
-# Ärsvan como Daño Máximo
-
 ## Presentación
 
 **Antes de la jornada del falso Maestre:** Alto daño ofensivo consistente

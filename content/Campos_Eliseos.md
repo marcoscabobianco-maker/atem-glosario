@@ -8,7 +8,6 @@ aliases:
  - "Campos Eliseos"
  - "Campos Elíseos"
 ---
-# Campos Elíseos
 
 ## Presentación
 

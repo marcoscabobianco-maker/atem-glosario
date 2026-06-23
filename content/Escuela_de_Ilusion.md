@@ -18,7 +18,6 @@ tags:
  - paulus
  - sigil
 ---
-# La Escuela de Ilusión
 
 > *"La facultad de pasar de una región del mundo a otra sin cruzar el espacio que las separa no es atributo del lector mortal: es iniciación menor en esta Escuela."* — apertura del *Manual de los Tonos Azules*, fragmentariamente conservado
 

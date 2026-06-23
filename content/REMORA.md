@@ -8,8 +8,6 @@ aliases:
  - "REMORA"
 ---
 
-# REMORA
-
 ## Presentación
 
 [[Entidad]] u objeto asociado al segundo círculo del [[Anti_Inferno|Descenso]], en el tramo del [[Castillo_del_Prisma]]. Su naturaleza y función permanecen oscuras.

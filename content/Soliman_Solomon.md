@@ -12,8 +12,6 @@ aliases:
  - "Solomon"
 ---
 
-# Soliman / Solomon
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Soliman_Solomon.png]]
 <!-- /HEADER_IMG -->

@@ -5,8 +5,6 @@ aliases:
 en_construccion: true
 ---
 
-# Escenario De Escalada De Horror Sobrenatural
-
 > *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
 
 ## Referencias entrantes

@@ -11,8 +11,6 @@ aliases:
  - "La Transición Temporal"
 ---
 
-# Transición Temporal
-
 ## Presentación
 
 Se llama [[Transicion_Temporal_Concepto_narrativo_de_S07_S08|Transición Temporal]] al mecanismo por el cual el grupo de los [[Time_Bandits|Time Bandits]] fue trasladado desde la [[Isla_de_la_Serpiente|Isla de la Serpiente]] (septiembre de 1901) hasta [[Sarajevo_1914_Ucronica|Sarajevo]] (junio de 1914): un salto de trece años. El archivo no la registra como accidente; todo indica una manipulación cuidadosamente preparada.

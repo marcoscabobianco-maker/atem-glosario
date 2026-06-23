@@ -21,8 +21,6 @@ tags:
  - cinco
 ---
 
-# Pyrexianos (culto)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pyrexianos_culto.png]]
 <!-- /HEADER_IMG -->

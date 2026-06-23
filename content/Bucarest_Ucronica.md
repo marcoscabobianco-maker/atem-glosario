@@ -23,7 +23,6 @@ tags:
  - horror-balcanico
 imagen: Imagenes_Tier1/Bucarest_Ucronica.png
 ---
-# Bucarest Ucrónica
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bucarest_Ucronica.png]]

@@ -12,8 +12,6 @@ aliases:
  - "Liceo Sabasio"
 ---
 
-# Liceo Sabasio
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Liceo_Sabasio.png]]
 <!-- /HEADER_IMG -->

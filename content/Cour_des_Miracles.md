@@ -5,8 +5,6 @@ tags: ["lugar", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Cour des Miracles", "Corte de los Milagros"]
 ---
 
-# Cour des Miracles
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cour_des_Miracles.jpg]]
 <!-- /HEADER_IMG -->

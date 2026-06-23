@@ -14,8 +14,6 @@ aliases:
  - "Sugestion_mecanica_homebrew_Inferno"
 ---
 
-# Sugestión
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sugestion_mecanica_homebrew_Inferno.png]]
 <!-- /HEADER_IMG -->

@@ -23,7 +23,6 @@ tags:
  - 1812-ae
 imagen: null
 ---
-# Papa Borg de Caldero
 
 > *"El maldito, aferrado a su trono portátil, no pudo concretar su transformación y fue aplastado por la fuerza implacable de la giganta, que implosionó dejando un breve cráter."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

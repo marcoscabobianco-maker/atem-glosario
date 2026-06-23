@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Club des Gorriones"
 ---
-# Club des Gorriones
 
 ## Presentación
 

@@ -16,8 +16,6 @@ aliases:
  - "Nekeia / Descenso al Inframundo"
 ---
 
-# Nekeia / Descenso al Inframundo (Mediterraneum)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Nekeia_Descenso_al_Inframundo_Mediterraneum.png]]
 <!-- /HEADER_IMG -->

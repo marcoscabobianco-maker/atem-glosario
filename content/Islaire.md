@@ -11,8 +11,6 @@ aliases:
  - "Islaire"
 ---
 
-# Islaire
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Islaire.png]]
 <!-- /HEADER_IMG -->

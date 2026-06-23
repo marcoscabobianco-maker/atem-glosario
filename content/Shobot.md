@@ -23,8 +23,6 @@ aliases:
 imagen: null
 ---
 
-# Shobot
-
 > *El nombre que volvió pegado a las visiones. No una cara: un ojo. Y detrás del ojo, lo mismo que se tragó el barco.*
 
 ---

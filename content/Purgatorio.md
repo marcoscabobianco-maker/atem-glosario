@@ -12,7 +12,6 @@ tags:
  - purgatorio
  - descenso
 ---
-# Purgatorio
 
 > *"Cuando llegamos al purgatorio..."* — frase de viajeros, conservada en la crónica del Descenso.
 

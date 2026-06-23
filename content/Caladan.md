@@ -24,7 +24,6 @@ tags:
  - fiebre-blanca
 imagen: Imagenes_Tier1/Caladan.png
 ---
-# Caladan
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Caladan.png]]

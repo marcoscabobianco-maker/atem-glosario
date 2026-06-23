@@ -18,8 +18,6 @@ tags:
 imagen: Imagenes_Tier1/Cabaret_du_Neant.jpg
 ---
 
-# Cabaret du Néant
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cabaret_du_Neant.jpg]]
 <!-- /HEADER_IMG -->

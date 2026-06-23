@@ -11,8 +11,6 @@ aliases:
  - "Sisi"
 ---
 
-# Sisi (CI)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sisi_CI.png]]
 <!-- /HEADER_IMG -->

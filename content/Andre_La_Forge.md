@@ -7,7 +7,6 @@ tags:
 aliases:
  - "André La Forge"
 ---
-# André La Forge
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Andre_La_Forge.png]]

@@ -10,8 +10,6 @@ aliases:
  - "Bael"
 ---
 
-# Bael (Entidad Infernal; recapitulación)
-
 ## Presentación
 
 - **Rol:** Principado infernal; recibe alma de [[Maristo]] en contrato final

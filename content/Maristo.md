@@ -23,7 +23,6 @@ tags:
 imagen: Imagenes_Tier1/Maristo.png
 aa: "F.1 perdon de la daga ; F.3 inversion de la misericordia ; P.5 pacto sustitutivo ; A.3 dormicion secular ; Z.3 representante del dios ; C.4 eco condenado ; N.6 nombre devenido arquetipo [MC, A.D.A., CDI]"
 ---
-# Maristo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Maristo.png]]

@@ -12,8 +12,6 @@ aliases:
  - "York"
 ---
 
-# York
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/York.png]]
 <!-- /HEADER_IMG -->

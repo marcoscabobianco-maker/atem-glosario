@@ -12,8 +12,6 @@ aliases:
  - "KAXA"
 ---
 
-# KAXA
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/KAXA.png]]
 <!-- /HEADER_IMG -->

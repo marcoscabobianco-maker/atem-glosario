@@ -15,8 +15,6 @@ tags:
  - luna-negra
 ---
 
-# Garkhan
-
 > *Dios dragón de la muerte y la noche. Sus dragones llevan las almas a la torre negra; las hacen pasar por la luna negra; las llevan al descanso final.*
 
 ## Presentación

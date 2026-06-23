@@ -5,8 +5,6 @@ aliases:
  - "Cámara del Demonio de Fuego"
 ---
 
-# Cámara del Demonio de Fuego
-
 ## Presentación
 
 **[[Ubicacion_en_Laberinto|Ubicación en Laberinto]]:** Post-cámara de Dinosaurio, pre-[[Puerta_de_Marfil_Camara_Final_del_Laberinto|Puerta de Marfil]] (geográficamente: escalada progresiva)

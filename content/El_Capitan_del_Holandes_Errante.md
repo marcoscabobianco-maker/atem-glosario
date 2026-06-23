@@ -19,7 +19,6 @@ tags:
  - "corona-del-norte"
 imagen: Imagenes_Tier1/El_Capitan_del_Holandes_Errante.png
 ---
-# El Capitán del Holandés Errante
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Capitan_del_Holandes_Errante.png]]

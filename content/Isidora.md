@@ -12,8 +12,6 @@ aliases:
  - "Isidora"
 ---
 
-# Isidora
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Isidora.png]]
 <!-- /HEADER_IMG -->

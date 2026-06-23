@@ -21,7 +21,6 @@ tags:
  - simetria-imperfecta
 imagen: Imagenes_Tier1/Universo_Dual_TG.png
 ---
-# El Universo Dual
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Universo_Dual_TG.png]]

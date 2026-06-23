@@ -5,8 +5,6 @@ aliases:
  - "Dian Cecht"
 ---
 
-# Dian Cecht
-
 ## Presentación
 
 **Fuentes:** Taller l.913, 935, 1061

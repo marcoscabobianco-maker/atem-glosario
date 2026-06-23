@@ -15,8 +15,6 @@ aliases:
  - "Akashic Communion"
 ---
 
-# Akashic Records
-
 ## Presentación
 
 Concepto/habilidad de **divination cósmica** usada por [[Michel|Michel]] en el ciclo templario. Acceso a los "registros akáshicos" — conocimiento ancestral universal (tradición teosófica/budista incorporada a como habilidad planar de clérigo o bardo).

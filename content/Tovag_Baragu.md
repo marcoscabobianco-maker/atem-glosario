@@ -13,8 +13,6 @@ aliases:
  - "Tovag Baragu"
 ---
 
-# Tovag Baragu
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tovag_Baragu.png]]
 <!-- /HEADER_IMG -->

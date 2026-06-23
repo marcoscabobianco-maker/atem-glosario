@@ -27,7 +27,6 @@ tags:
  - cdi
 imagen: null
 ---
-# Arbórea — el Edén del Foso
 
 > *"Cuando el alma baja al Foso recuerda Arbórea. No sabe que la recuerda. La paloma que se le posa en el hombro al cruzar el portal viene de Arbórea, aunque el portal no lo sepa. Quien quiera entender el descenso, empiece por entender el jardín que precedió al fango."* — del *[[Anti_Inferno|Coro del Descenso]]*, libro III.
 

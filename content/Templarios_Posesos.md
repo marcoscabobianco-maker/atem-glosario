@@ -4,8 +4,6 @@ aliases:
  - "Templarios Posesos"
 ---
 
-# Templarios Posesos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Templarios_Posesos.png]]
 <!-- /HEADER_IMG -->

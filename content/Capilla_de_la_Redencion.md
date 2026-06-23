@@ -23,8 +23,6 @@ tags:
 imagen: null
 ---
 
-# Capilla de la Redención
-
 > *"No es capilla de arrepentimiento. Es capilla de pago. La Redención de su nombre es la que la Serpiente cobró aquella primera noche, y la que sigue cobrando, en silencio, cada noche que un visitante mira al espejo sin saberlo."* — *Tratado de los Lugares Sellados*, atribuido al cronista decadiano de [[Narsileon]].
 
 ---

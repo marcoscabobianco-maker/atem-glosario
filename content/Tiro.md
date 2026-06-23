@@ -5,8 +5,6 @@ aliases:
  - "Tiro"
 ---
 
-# Tiro
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tiro.png]]
 <!-- /HEADER_IMG -->

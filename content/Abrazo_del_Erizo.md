@@ -11,8 +11,6 @@ aliases:
  - "Abrazo del Erizo"
 ---
 
-# Abrazo del Erizo
-
 ## Presentación
 
 Parábola articulada por [[Warhol]]: "El erizo es la criatura más afectuosa del mundo pero cuando te abraza te lastima. Nosotros somos los erizos — ayudamos a las Primeras Naciones pero traemos guerra y destrucción." Cristaliza el dilema central de la campaña.

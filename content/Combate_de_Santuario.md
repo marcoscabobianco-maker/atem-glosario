@@ -5,8 +5,6 @@ aliases:
  - "Combate de Santuario"
 ---
 
-# Combate de Santuario
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Combate_de_Santuario.png]]
 <!-- /HEADER_IMG -->

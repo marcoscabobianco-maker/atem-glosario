@@ -11,7 +11,6 @@ tags:
 aliases:
  - "Taller de Rol, el"
 ---
-# Taller de Rol, el
 
 ## Presentación
 

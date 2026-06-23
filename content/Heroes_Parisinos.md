@@ -12,8 +12,6 @@ aliases:
  - "Héroes Parisinos"
 ---
 
-# Héroes Parisinos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Heroes_Parisinos.png]]
 <!-- /HEADER_IMG -->

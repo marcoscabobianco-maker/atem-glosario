@@ -11,8 +11,6 @@ aliases:
  - "Líneas de vida"
 ---
 
-# Líneas de vida
-
 ## Presentación
 
 Las "hebras" que constituyen la existencia temporal de cada ser en

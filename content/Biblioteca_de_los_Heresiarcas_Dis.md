@@ -8,7 +8,6 @@ aliases:
  - "Dis"
  - "Biblioteca de los Heresiarcas"
 ---
-# Biblioteca de los Heresiarcas (Dis)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Biblioteca_de_los_Heresiarcas_Dis.png]]

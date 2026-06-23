@@ -23,8 +23,6 @@ tags:
 imagen: null
 ---
 
-# Iglesia Consagrada de Helix — el recinto que repele a los grandes muertos
-
 > *"No pueden entrar en la iglesia los seres así malditos más grandes. Por algo es la iglesia."* — el [[Vicario_Otar]] al pueblo, en la antesala del cerco.
 
 ---

@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Coloscan"
 ---
-# Coloscan
 
 ## Presentación
 

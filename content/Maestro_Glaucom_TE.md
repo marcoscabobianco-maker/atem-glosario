@@ -5,7 +5,6 @@ aliases:
  - "TE"
  - "Maestro Glaucom"
 ---
-# Maestro Glaucom (figura, TE)
 
 ## Presentación
 

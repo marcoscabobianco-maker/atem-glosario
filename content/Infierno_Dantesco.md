@@ -5,8 +5,6 @@ aliases:
 en_construccion: true
 ---
 
-# Infierno Dantesco
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Infierno_Dantesco.jpg]]
 <!-- /HEADER_IMG -->

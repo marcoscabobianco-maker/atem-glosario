@@ -4,8 +4,6 @@ aliases:
  - "Patriarca Heirmano"
 ---
 
-# Patriarca Heirmano
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Patriarca_Heirmano.png]]
 <!-- /HEADER_IMG -->

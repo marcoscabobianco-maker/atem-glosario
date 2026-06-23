@@ -10,8 +10,6 @@ aliases:
  - "Eurodico"
 ---
 
-# Eurodico
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Eurodico.png]]
 <!-- /HEADER_IMG -->

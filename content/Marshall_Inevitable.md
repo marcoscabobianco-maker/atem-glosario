@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Marshall Inevitable"
 ---
-# Marshall Inevitable
 
 ## Presentación
 

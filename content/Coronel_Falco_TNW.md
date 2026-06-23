@@ -9,8 +9,6 @@ aliases:
  - "Coronel Falco"
 ---
 
-# Coronel Falco (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Coronel_Falco_TNW.png]]
 <!-- /HEADER_IMG -->

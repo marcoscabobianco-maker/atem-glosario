@@ -7,8 +7,6 @@ aliases:
 epoca: "Edad del Descenso — nuevo compañero post-sacrificio"
 ---
 
-# Viajero de Planos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Viajero_de_Planos.png]]
 <!-- /HEADER_IMG -->

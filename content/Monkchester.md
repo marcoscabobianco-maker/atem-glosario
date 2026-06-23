@@ -12,8 +12,6 @@ aliases:
  - "Monkchester"
 ---
 
-# Monkchester
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Monkchester.png]]
 <!-- /HEADER_IMG -->

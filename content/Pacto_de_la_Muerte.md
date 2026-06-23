@@ -11,8 +11,6 @@ aliases:
  - "Pacto de la Muerte"
 ---
 
-# Pacto de la Muerte
-
 ## Presentación
 
 Pacto cosmológico revelado en jornada por Olaus corrompido y el dragón psicopompo. Premisa: si los [[Time_Bandits|Time Bandits]] alteran la historia y previenen la Primera Guerra Mundial ([[Sarajevo_1914_Ucronica|1914]]), anulan millones de almas "prometidas" a los poderes de la muerte. La [[Muerte]] no dejará escapar esas almas que ya le "pertenecen." Los compañeros son considerados "en rebeldía" si intentan cambiar el flujo.

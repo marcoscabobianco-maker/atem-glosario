@@ -7,8 +7,6 @@ aliases:
  - "VIAJEROS DEL TIEMPO"
 ---
 
-# VIAJEROS DEL TIEMPO (Encarnaciones Cíclicas)
-
 ## Presentación
 
 **Definición:** Entidades que viajan a través de tiempo mediante ciclos de encarnación, envejecimiento, muerte, y renacimiento. NO son inmortales tradicionales. Son sujetos a tiempo pero pueden manipularlo en ciertos contextos.

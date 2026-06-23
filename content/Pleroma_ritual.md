@@ -4,8 +4,6 @@ aliases:
  - "Pleroma ritual"
 ---
 
-# Pleroma ritual
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pleroma_ritual.png]]
 <!-- /HEADER_IMG -->

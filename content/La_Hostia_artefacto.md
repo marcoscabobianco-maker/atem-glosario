@@ -15,8 +15,6 @@ aliases:
  - "La Hostia"
 ---
 
-# La Hostia (artefacto)
-
 ## Presentación
 
 Artefacto sagrado católico, macguffin central de la campaña. Eucaristía consagrada con propiedades sobrenaturales duales: bendita Y maldita simultáneamente (paradoja del **[[Pharmakon]]** — remedio y veneno). Cursada con el hechizo "The Call of Guilt" que permite rastreo sobrenatural. Requiere 5+ Dispel Magic para removerla. Buscada por la [[Arkane_Society|Arkane Society]] y múltiples facciones.

@@ -20,8 +20,6 @@ tags:
  - hombres-bestia
 ---
 
-# Beastmen (Niños de Deino)
-
 > *Hombres-bestia disciplinados de [[Lady_Deino]]. ~115 soldados + 40 civiles. Cohorte militar más profesional de los Halls of Thoth.*
 
 ## Presentación

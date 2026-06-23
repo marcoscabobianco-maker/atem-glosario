@@ -25,8 +25,6 @@ tags:
 imagen: null
 ---
 
-# Gemelos Inquisidores de Helix — Lucio Bermond y Luke
-
 > *"Somos unos hermanos que aprendimos a batallar desde muy jóvenes. Y a día de hoy somos unos mercenarios que hacemos trabajo para el Abad."* — uno de los gemelos a su propia descripción.
 
 ---

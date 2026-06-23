@@ -17,8 +17,6 @@ aliases:
  - "Herofanía"
 ---
 
-# Forma mítica y herofanía
-
 ## Presentación
 
 El archivo conserva, en tinta amarilla del cuaderno sesenta y siete, página veintiséis, una pregunta tendida junto al pasaje que el cuaderno rotula «Strange rocks» — las rocas extrañas. Comparte el folio con la genealogía de los doce hijos de [[Maleika_Maleyka]], con la tinta verde que anuncia todos los apocalipsis juntos y con la azul que asienta la neutralidad de los mercane; entre todas ellas, el amarillo ni narra ni anuncia: interroga. Dice:

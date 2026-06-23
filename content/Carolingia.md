@@ -14,8 +14,6 @@ tags:
  - dinastia
 ---
 
-# Carolingia
-
 ## Presentación
 
 De la familia Carolingia el Archivo conserva poco más que el nombre — y el nombre, en este caso, vale por un blasón: remite a la vieja estirpe imperial de los Carolingios. Un linaje no se llama así por azar; ese apellido se hereda o se reclama, y cualquiera de las dos cosas declara una pretensión.

@@ -15,7 +15,6 @@ tags:
  - peregrino
  - templarios
 ---
-# Lirio
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lirio.png]]

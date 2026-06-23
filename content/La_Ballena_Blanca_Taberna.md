@@ -7,8 +7,6 @@ aliases:
  - "La Ballena Blanca"
 ---
 
-# La Ballena Blanca (Taberna)
-
 ## Presentación
 
 **Primera aparición:** Operación al [[Temple_complejo_TE|Temple]] (al alquilar habitación para el portero capturado)

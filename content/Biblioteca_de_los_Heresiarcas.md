@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Biblioteca de los Heresiarcas"
 ---
-# Biblioteca de los Heresiarcas
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Biblioteca_de_los_Heresiarcas.png]]

@@ -21,7 +21,6 @@ tags:
  - postura-predatoria
 imagen: null
 ---
-# El Howler
 
 > *"Una figura imponente y aterradora: un Howler, mitad troll y mitad bestia infernal. Su pelaje oscuro y su postura predatoria lo hacían parecer una sombra viviente."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

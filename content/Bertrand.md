@@ -27,7 +27,6 @@ tags:
  - ante-inferno
 imagen: Imagenes_Tier1/Bertrand.png
 ---
-# Bertrand
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bertrand.png]]

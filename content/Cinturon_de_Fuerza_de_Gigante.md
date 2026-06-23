@@ -7,8 +7,6 @@ aliases:
  - "**Cinturón de Fuerza de Gigante**"
 ---
 
-# **Cinturón de Fuerza de Gigante**
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cinturon_de_Fuerza_de_Gigante.png]]
 <!-- /HEADER_IMG -->

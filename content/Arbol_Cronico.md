@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Árbol Crónico"
 ---
-# Árbol Crónico
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Arbol_Cronico.png]]

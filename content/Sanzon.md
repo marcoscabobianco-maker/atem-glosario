@@ -11,8 +11,6 @@ aliases:
  - "Sanzón"
 ---
 
-# Sanzón
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sanzon.png]]
 <!-- /HEADER_IMG -->

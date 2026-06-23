@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Papagulo"
 ---
-# Papagulo
 
 ## Presentación
 

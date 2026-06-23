@@ -21,8 +21,6 @@ tags:
 imagen: null
 ---
 
-# Quasi — el chiquito de los pactos
-
 > *"Si te voy a pinchar, te pincho. Tienes como un aguijoncito, ¿viste? A mí no me vas a pinchar, bichito. No te hagas loco, porque yo tengo... parece que no, pero yo tengo poder también."* — diálogo entre Quasi y el primer gemelo guardia tentado, al borde de la celda.
 
 ---

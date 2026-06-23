@@ -11,8 +11,6 @@ aliases:
  - "Simón"
 ---
 
-# Simón (figura demoníaco)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Simon_NPC_demoniaco.png]]
 <!-- /HEADER_IMG -->

@@ -22,7 +22,6 @@ tags:
  - mujer-entre-lobos
  - estandartes-de-lobo
 ---
-# Scya
 
 > *El monstruo femenino entre lobos de la [[Galia_Narbonensis]]. [[Golden_Bones_Maldicion|Maldición]] griega traída por los Inevitables sobre los atlantes. No es la [[Scilla]] del compañero.*
 

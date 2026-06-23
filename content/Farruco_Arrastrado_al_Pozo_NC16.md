@@ -14,8 +14,6 @@ aliases:
  - "Farruco Arrastrado al Pozo"
 ---
 
-# Farruco Arrastrado al Pozo (NC16)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Farruco_Arrastrado_al_Pozo_NC16.png]]
 <!-- /HEADER_IMG -->

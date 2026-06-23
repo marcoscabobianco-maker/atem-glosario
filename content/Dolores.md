@@ -13,8 +13,6 @@ aliases:
  - "Dolores"
 ---
 
-# Dolores
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dolores.png]]
 <!-- /HEADER_IMG -->

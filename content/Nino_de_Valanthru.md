@@ -22,7 +22,6 @@ tags:
  - figura-anticipada
 imagen: null
 ---
-# El niño que Valanthru adoptó
 
 > *"Adoptó a uno de los niños rescatados, sin que [[La_Jabalina]] pueda demostrar aún que sus intenciones son siniestras."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

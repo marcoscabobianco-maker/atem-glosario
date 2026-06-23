@@ -19,8 +19,6 @@ aliases:
  - "Presidente de la República Dominicana"
 ---
 
-# Dr. Joaquín Balaguer
-
 > *Donde concluye América. Quinientos años desde la primera luz.*
 
 ---

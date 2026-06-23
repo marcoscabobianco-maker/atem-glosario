@@ -5,8 +5,6 @@ aliases:
  - "TORRE EIFFEL"
 ---
 
-# TORRE EIFFEL
-
 ## Presentación
 
 - **Estado en el último encuentro templario:** Arde. Símbolo del apocalipsis en progreso

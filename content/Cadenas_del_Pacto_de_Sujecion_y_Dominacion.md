@@ -12,8 +12,6 @@ aliases:
  - "Cadenas del Pacto de Sujeción y Dominación"
 ---
 
-# Cadenas del Pacto de Sujeción y Dominación
-
 ## Presentación
 
 Cadenas mágicas creadas por ritual de las Cinco Naciones Iroquesas. Transforman a los encadenados en criaturas demoníacas. Los hijos de [[Nicaramsa_Leonino_El_Ultimo_Manhattan|Nicaramsa]] están atados por estas cadenas. No se pueden romper con magia simple. Distintas de las [[Cadenas_de_Plata_Silver_Chains_Shackles_of_the_Pact|Cadenas de Plata]] — son cadenas de dominación, no alianza.

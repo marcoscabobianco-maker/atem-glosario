@@ -17,8 +17,6 @@ aliases:
  - "Bautismo de Graz'zt"
 ---
 
-# Río del Olvido
-
 ## Presentación
 
 El **Río del Olvido** es el agua donde **[[Grazzt|Graz'zt]] fue bautizado**, hacia 1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]], en la línea africana de sus crónicas — el once de septiembre que los archivos llaman negro. El señor del Triple Reino llegó a la orilla siendo ya lo que la disminución había hecho de él: un eunuco de hecho, por obra de [[Maleika_Maleyka|Maleika]]. El rito corrió por cuenta de la [[Magia_dual|magia dual]], y el cuaderno sesenta y siete, en su página veintitrés, conserva el paralelo escriturario con que la escena quedó asentada: *"como el que Felipe bautiza al emisario de la reina de Saba"* — el eunuco etíope de los Hechos (8, 26-40), que era en rigor oficial de Candace. La elisión entre Saba y Candace el archivo la comete a sabiendas, o converge sin saberlo con la tradición salomónica etíope que ya corre por sus páginas; el cronista anota ambas posibilidades y no zanja.

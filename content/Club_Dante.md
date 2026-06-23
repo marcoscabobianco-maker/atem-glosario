@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Club Dante"
 ---
-# Club Dante
 
 ## Presentación
 

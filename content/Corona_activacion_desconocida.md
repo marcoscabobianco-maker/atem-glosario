@@ -8,7 +8,6 @@ aliases:
  - "activación desconocida"
  - "**Corona**"
 ---
-# **Corona (activación desconocida)**
 
 ## Presentación
 

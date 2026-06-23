@@ -15,8 +15,6 @@ aliases:
  - "Zenobia de Palmyra"
 ---
 
-# Zenobia de Palmyra
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Zenobia_de_Palmyra.png]]
 <!-- /HEADER_IMG -->

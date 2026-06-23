@@ -23,8 +23,6 @@ tags:
  - underearth
 ---
 
-# Ziggurat de Kauket
-
 > *Tres mil cuatrocientos años, dos limpiezas en antigüedad, ahora reocupado. Piso terminal del dungeon, 100% bajo control [[Heqeti]]. La culminación.*
 
 ## Presentación

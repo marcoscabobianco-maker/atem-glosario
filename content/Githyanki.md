@@ -15,7 +15,6 @@ tags:
  - planescape
  - tiamat
 ---
-# Los Githyanki
 
 > *Caballeros de un vacío sin orillas, montados en naves que respiran, en guerra desde antes de la memoria contra la madre de los dragones. No quieren el mundo: quieren clausurarlo.*
 

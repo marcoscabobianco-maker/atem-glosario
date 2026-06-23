@@ -13,8 +13,6 @@ aliases:
  - "Kossut"
 ---
 
-# Kossut
-
 > *El tirano del fuego. El que retuvo el cuerpo de un paladín como botín de un concilio que salió mal.*
 
 ## Presentación

@@ -14,8 +14,6 @@ aliases:
 wikipedia: https://es.wikipedia.org/wiki/Excalibur
 ---
 
-# Excalibur
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Excalibur.png]]
 <!-- /HEADER_IMG -->

@@ -32,7 +32,6 @@ tags:
  - nodo-inter-generacional
 imagen: Imagenes_Tier1/Vitalis.png
 ---
-# Vitalis
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Vitalis.png]]

@@ -25,7 +25,6 @@ tags:
  - benetton
  - maleika
 ---
-# Torneo de la Torre Eiffel
 
 > *El palo enjabonado más alto del mundo. Tres porciones de la Gema, siete facciones, una sola Copa. El día en que un Ñomo trepó dentro de un golem y un dios cayó del cielo a clavar a otro dios.*
 

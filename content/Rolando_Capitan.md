@@ -18,8 +18,6 @@ tags:
 imagen: Imagenes_Tier1/Rolando_Capitan.png
 ---
 
-# Rolando, Capitán Templario
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Rolando_Capitan.png]]
 <!-- /HEADER_IMG -->

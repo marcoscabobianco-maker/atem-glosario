@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Anciano Volador del Desierto"
 ---
-# Anciano Volador del Desierto
 
 ## Presentación
 

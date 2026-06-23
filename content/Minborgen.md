@@ -24,7 +24,6 @@ tags:
  - generosidad
 imagen: Imagenes_Tier1/Minborgen.png
 ---
-# Minborgen — el enano de las hachas
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Minborgen.png]]

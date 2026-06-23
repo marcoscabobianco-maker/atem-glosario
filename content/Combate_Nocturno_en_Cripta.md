@@ -4,8 +4,6 @@ aliases:
  - "Combate Nocturno en Cripta"
 ---
 
-# Combate Nocturno en Cripta
-
 ## Presentación
 
 **Participantes:** [[Arsvan|Ärsvan]], [[Alexio]] vs. Criatura infraplanar.

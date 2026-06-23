@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Pepsico"
 ---
-# Pepsico
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pepsico.png]]

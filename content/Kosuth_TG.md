@@ -13,8 +13,6 @@ aliases:
  - "Kosuth"
 ---
 
-# Kosuth (TG)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kosuth_TG.png]]
 <!-- /HEADER_IMG -->

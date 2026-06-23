@@ -8,7 +8,6 @@ aliases:
  - "Crónica Familiar"
  - "Thunderbird"
 ---
-# Thunderbird (Crónica Familiar)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Thunderbird_Cronica_Familiar.png]]

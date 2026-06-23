@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Reloj Ucrónico"
 ---
-# Reloj Ucrónico
 
 ## Presentación
 

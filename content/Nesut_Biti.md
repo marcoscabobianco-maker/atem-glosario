@@ -5,8 +5,6 @@ tags: ["lugar", "vala"]
 aliases: ["Nesut Biti", "Nesut"]
 ---
 
-# Nesut Biti
-
 Nesut Biti es una provincia del orbe Vala: territorio rico pero no capital, cuya prosperidad descansa sobre acantilados de mármol, bosques de viveros y un templo mayor consagrado a Nesu-Ishtar. Su nombre encierra la doble corona —el alto y el bajo— en un sincretismo que el orbe Vala hereda de los grandes reinos del este. [[Barrado_Balacan|El territorio]] se articula en dos aldeas gemelas a ambos lados del río, imagen especular de una misma comunidad dividida por el agua.
 
 El gobierno nominal lo ejerce un Gobernador de nobleza provincial, cuya autoridad palidece frente a la capital Uruk. Pero las figuras de peso real en Nesut Biti son otras: la sacerdotisa [[Jalrua_Ishtarensis]] del templo de Nesu, y la [[Capitana_Andreas|Capitana Andreas]], autoridad militar de la zona. Fue el Gobernador quien encomendó a Yuvé la desactivación de un símbolo-trampa oculto en la cripta del templo, misión que marcó el primer contacto del grupo con este territorio.

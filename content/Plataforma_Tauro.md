@@ -23,8 +23,6 @@ tags:
 imagen: Imagenes_Tier1/Plataforma_Tauro.png
 ---
 
-# Plataforma de Tauro
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Tauro.png]]
 <!-- /HEADER_IMG -->

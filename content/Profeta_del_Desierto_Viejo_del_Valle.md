@@ -9,7 +9,6 @@ aliases:
  - "Profeta del Desierto"
  - "Viejo del Valle"
 ---
-# Profeta del Desierto / Viejo del Valle
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Profeta_del_Desierto_Viejo_del_Valle.png]]

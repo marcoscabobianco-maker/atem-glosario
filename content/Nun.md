@@ -12,8 +12,6 @@ aliases:
  - "Nun"
 ---
 
-# Nun
-
 ## Presentación
 
 Aguas primordiales que preceden a [[Antiterra_Demonia|Antiterra]] en la cosmología del cosmos compartido. Concepto de

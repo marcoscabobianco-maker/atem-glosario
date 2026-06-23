@@ -19,7 +19,6 @@ tags:
  - prision-cosmica
 aa: "R.1 relevo por victoria ; C.6 la simetria que se contagia [A.D.A., TG, TNW]"
 ---
-# La Corrupción Dual
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Corrupcion_Dual.png]]

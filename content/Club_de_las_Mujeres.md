@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Club de las Mujeres"
 ---
-# Club de las Mujeres
 
 ## Presentación
 

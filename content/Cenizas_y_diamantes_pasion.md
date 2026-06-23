@@ -21,8 +21,6 @@ aliases:
 imagen: null
 ---
 
-# «Cenizas y diamantes, pasión»
-
 > *Parado aquí escucho los colores… cenizas y diamantes, pasión.*
 
 ---

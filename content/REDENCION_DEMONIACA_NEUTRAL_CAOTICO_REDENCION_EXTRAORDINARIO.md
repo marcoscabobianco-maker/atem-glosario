@@ -7,8 +7,6 @@ aliases:
  - "NEUTRAL CAÓTICO REDENCIÓN EXTRAORDINARIO"
 ---
 
-# REDENCIÓN DEMONÍACA / NEUTRAL CAÓTICO REDENCIÓN EXTRAORDINARIO
-
 ## Presentación
 
 - **[[Alineamiento_nuevo]]:** [[Arsvan|Ärsvan]] post-sacrificio = "Neutral Caótico Redención Extraordinario"

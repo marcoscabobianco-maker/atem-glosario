@@ -12,8 +12,6 @@ aliases:
  - "Cyrilo de Alejandría"
 ---
 
-# Cyrilo de [[Alejandria|Alejandría]] (stub)
-
 ## Presentación
 
 [[Patriarca]] de [[Alejandria|Alejandría]] como su tío **Teófilo**. Nació en 376 en Theodosios, Egipto. Sobrino de Teófilo de [[Alejandria|Alejandría]] (patriarca 385-412). Contemporáneo de la época de [[Pablo_de_Alejandria|Pablo de Alejandría]].

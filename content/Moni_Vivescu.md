@@ -12,8 +12,6 @@ aliases:
  - "Mony"
 ---
 
-# Moni Vivescu
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Moni_Vivescu.png]]
 <!-- /HEADER_IMG -->

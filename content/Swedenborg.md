@@ -24,7 +24,6 @@ tags:
  - talia-cristalia
 imagen: Imagenes_Tier1/Swedenborg.png
 ---
-# Swedenborg
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Swedenborg.png]]

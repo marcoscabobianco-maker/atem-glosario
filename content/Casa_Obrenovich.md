@@ -17,8 +17,6 @@ aliases:
  - "Familia Obrenovich"
 ---
 
-# Casa Obrenovich
-
 ## Presentación
 
 Dinastía serbia. El registro de familias del archivo asienta bajo este apellido tres nombres, los tres con título real o militar: [[Aleksandar_I|Aleksandar I]], rey; [[Draga_Machine|Draga Machine]], reina consorte, consignada con doble filiación —Obrenovich por matrimonio, [[Machine]] por hechura—; y [[Milano]], ex rey y comandante del ejército, trasladado a Viena. Tres coronas en una sola casa, y el archivero anota el dato sin sorpresa: en la historia común las casas reales de Serbia no se miden por sus reinados sino por sus finales.

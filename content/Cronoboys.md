@@ -16,7 +16,6 @@ tags:
  - cronoputas
 imagen: Imagenes_Tier1/Cronoboys.png
 ---
-# Cronoboys
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cronoboys.png]]

@@ -7,8 +7,6 @@ aliases:
  - "Ganelon"
 ---
 
-# Ganelon (Caballero Menor)
-
 ## Presentación
 
 - **Identidad:** Posible referencia a Ganelon (traidor histórico de Canción de Roldán)

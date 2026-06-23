@@ -21,8 +21,6 @@ tags:
 imagen: null
 ---
 
-# Compañía Zafiro — la compañía más pulenta del sur, arrasada
-
 > *"La compañía más pulenta de la zona. Estaban veniendo a ocupar estos terrenos."* — referencia oral del cronista local, antes del humo que cubrió el fuerte.
 
 ---

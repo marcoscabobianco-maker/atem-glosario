@@ -7,8 +7,6 @@ aliases:
  - "Santuario Templario — Gabinete Encantado"
 ---
 
-# Santuario Templario — Gabinete Encantado (Interior K4)
-
 ## Presentación
 
 **Primera aparición:** En el santuario templario descubierto durante la travesía a Tiro (introducción física)

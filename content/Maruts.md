@@ -20,7 +20,6 @@ tags:
  - prism-keep
  - masracht
 ---
-# Maruts
 
 > *Criaturas axiales de la legalidad cósmica. Catálogo planar clásico. Custodian al Masracht prisionero en el Prism Keep. Referencia del [[Bazaar_de_San_Dragon|Bazaar de San Dragón]].*
 

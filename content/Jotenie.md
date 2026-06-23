@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Jotenie"
 ---
-# Jotenie
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Jotenie.png]]

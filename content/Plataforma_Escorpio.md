@@ -23,8 +23,6 @@ tags:
 imagen: Imagenes_Tier1/Plataforma_Escorpio.png
 ---
 
-# Plataforma de Escorpio
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Escorpio.png]]
 <!-- /HEADER_IMG -->

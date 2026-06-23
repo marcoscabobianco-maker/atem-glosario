@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Reina de Mississippi"
 ---
-# Reina de Mississippi
 
 ## Presentación
 

@@ -23,8 +23,6 @@ tags:
 imagen: Imagenes_Tier1/Bloom.png
 ---
 
-# Bloom
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bloom.png]]
 <!-- /HEADER_IMG -->

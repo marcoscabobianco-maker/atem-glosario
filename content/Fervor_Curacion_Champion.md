@@ -7,8 +7,6 @@ aliases:
  - "Fervor"
 ---
 
-# Fervor (Curación Champion)
-
 ## Presentación
 
 **Invocador:** [[Alexio]] 

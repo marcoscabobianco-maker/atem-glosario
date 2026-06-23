@@ -24,7 +24,6 @@ tags:
  - magia-arcana
 imagen: null
 ---
-# Lucky
 
 > *"De nombre real reservado, Lucky combina la nobleza de un paladín con la sutileza de la magia arcana. Sus golpes imbuidos de poder divino —los tremendos smites— son temidos por todo aquel que se atreva a alzarse contra el bien. Se rumorea que proviene de un antiguo linaje de caballeros relacionados con Arian, aunque pocos se arriesgan a que cuente más."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

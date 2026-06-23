@@ -24,7 +24,6 @@ tags:
  - sin-pacto
 imagen: Imagenes_Tier1/Sagrada_Orden.png
 ---
-# La Sagrada Orden
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sagrada_Orden.png]]

@@ -18,8 +18,6 @@ tags:
 imagen: Imagenes_Tier1/Hilo_Dorado_Sucronico.png
 ---
 
-# El Hilo Dorado Sucrónico
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Hilo_Dorado_Sucronico.png]]
 <!-- /HEADER_IMG -->

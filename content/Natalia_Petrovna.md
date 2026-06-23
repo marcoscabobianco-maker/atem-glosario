@@ -5,8 +5,6 @@ aliases:
 referenciado_por: 4
 ---
 
-# Natalia Petrovna
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Natalia_Petrovna.png]]
 <!-- /HEADER_IMG -->

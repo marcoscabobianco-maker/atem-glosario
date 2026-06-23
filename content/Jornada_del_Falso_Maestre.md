@@ -6,8 +6,6 @@ referenciado_por: 4
 epoca: "1119-1120 AD — Edad Templaria — recuperación del Libro Azul"
 ---
 
-# Jornada del falso Maestre
-
 ## Referencias entrantes
 
 Esta entrada es mencionada desde:

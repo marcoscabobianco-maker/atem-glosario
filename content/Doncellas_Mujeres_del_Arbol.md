@@ -7,8 +7,6 @@ aliases:
  - "Mujeres del Árbol"
 ---
 
-# Doncellas / Mujeres del Árbol
-
 ## Presentación
 
 Jóvenes figuras —posiblemente ilusiones mágicas o seres cautivos— que habitan los alrededores del Árbol. Se presentan adornadas con manzanas doradas, y bajo ciertos efectos de sugestión su apariencia se vuelve casi etérea: "bombachitas rosadas hechas de pétalo." Una de ellas escapó en el pasado, según referencia oscura preservada en los registros.

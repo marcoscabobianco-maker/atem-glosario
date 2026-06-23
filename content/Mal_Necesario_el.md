@@ -10,8 +10,6 @@ aliases:
  - "Mal Necesario, el"
 ---
 
-# Mal Necesario, el
-
 ## Presentación
 
 Nombre intermedio adoptado por el grupo que luego sería **[[Rintrah]]**. Progresión de

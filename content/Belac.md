@@ -23,8 +23,6 @@ tags:
  - bellaca
 ---
 
-# Belac
-
 > *Druida proscrito custodio terrenal del [[Arbol_Gulthias|Árbol Gulthias]]. [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana y Camino de Medianoche]]. Convertido al culto del árbol vampirizado. figura de los pliegos antiguos, adaptada al ciclo.*
 
 ## Presentación

@@ -8,8 +8,6 @@ aliases:
  - "Consultorio Pocopis"
 ---
 
-# Consultorio Pocopis
-
 ## Presentación
 
 **Referencia:** CC1 título

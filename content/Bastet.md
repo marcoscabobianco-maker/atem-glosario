@@ -19,7 +19,6 @@ tags:
  - proteccion-domestica
 imagen: null
 ---
-# Bastet
 
 > *"Bastet no exige altar mayor. Pide que el gato del hogar tenga lugar tibio cerca del fuego. La doctrina popular del Imperio Archonteo opera con esa exigencia menor sin protestar."*
 

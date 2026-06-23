@@ -15,8 +15,6 @@ aliases:
 wikipedia: https://en.wikipedia.org/wiki/Albion
 ---
 
-# Albión
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Albion.png]]
 <!-- /HEADER_IMG -->

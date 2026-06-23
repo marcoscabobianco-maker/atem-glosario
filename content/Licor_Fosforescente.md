@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Licor Fosforescente"
 ---
-# Licor Fosforescente
 
 ## Presentación
 

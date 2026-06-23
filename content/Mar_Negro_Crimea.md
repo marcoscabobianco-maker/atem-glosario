@@ -18,8 +18,6 @@ tags:
 imagen: Imagenes_Tier1/Mar_Negro_Crimea.png
 ---
 
-# El Mar Negro frente a Crimea
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mar_Negro_Crimea.png]]
 <!-- /HEADER_IMG -->

@@ -8,8 +8,6 @@ aliases:
  - "Zygomind"
 ---
 
-# Zygomind
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Zygomind.png]]
 <!-- /HEADER_IMG -->

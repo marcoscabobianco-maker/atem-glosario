@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Historiadoras"
 ---
-# Historiadoras
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Historiadoras.png]]

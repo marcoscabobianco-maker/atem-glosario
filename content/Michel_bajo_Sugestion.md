@@ -5,8 +5,6 @@ aliases:
  - "Michel bajo Sugestión"
 ---
 
-# Michel bajo Sugestión
-
 ## Presentación
 
 **Antes de la jornada del falso Maestre:** Libre, rol de Alquimista

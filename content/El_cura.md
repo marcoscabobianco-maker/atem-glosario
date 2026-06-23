@@ -15,8 +15,6 @@ aliases:
  - "El seminarista"
 ---
 
-# El cura
-
 > *La fe y la patria entran por el mismo gesto; el horror, por una revista.*
 
 ## El que sube con sotana

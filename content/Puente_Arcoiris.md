@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Puente Arcoíris"
 ---
-# Puente Arcoíris
 
 ## Presentación
 

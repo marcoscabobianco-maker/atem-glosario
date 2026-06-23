@@ -23,7 +23,6 @@ tags:
  - blackwater-tributario
 imagen: null
 ---
-# El Río Ucronos
 
 > *"Las ciudades que cruzan el río Ucronos siguen brillando por sus materias primas y ciencia arcana."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

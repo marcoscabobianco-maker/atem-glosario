@@ -20,8 +20,6 @@ tags:
 imagen: null
 ---
 
-# El Milagro de Miles
-
 > *"Innovaciones en vuelo impulsadas por magia, que permiten a las élites moverse rápidamente por la ciudad sin depender de los medios convencionales. Aunque todavía es una tecnología en desarrollo, ya está transformando la forma en que las personas más ricas se desplazan."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

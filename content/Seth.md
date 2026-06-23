@@ -19,7 +19,6 @@ tags:
  - gema-de-la-creacion
  - profundos
 ---
-# Seth
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Seth.png]]

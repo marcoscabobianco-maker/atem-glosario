@@ -26,8 +26,6 @@ tags:
 imagen: Imagenes_Tier1/Libro_Azul.png
 ---
 
-# El Libro Azul
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Libro_Azul.png]]
 <!-- /HEADER_IMG -->

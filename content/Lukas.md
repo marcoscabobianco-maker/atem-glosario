@@ -21,7 +21,6 @@ tags:
  - protector
 imagen: null
 ---
-# Lukas
 
 > *"Lukas, con su porte solemne, dio un paso al frente, mostrando calma a pesar del peligro."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*, sobre el encuentro con el [[Howler]].
 

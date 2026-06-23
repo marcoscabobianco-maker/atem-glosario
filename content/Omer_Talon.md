@@ -5,8 +5,6 @@ tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Omer Talón"]
 ---
 
-# Omer Talon
-
 Abogado y magistrado, Omer Talon ocupa el cargo de avocat général ante el Parlamento de París en los años convulsos de la Regencia. Nacido en el oficio —viene de una larga estirpe de hombres de leyes—, comenzó su carrera en Poitiers antes de ascender a la arena política de la capital. Su voz es tenida por la más elocuente del Palacio de Justicia: argumenta con precisión de escolástico y fervor de predicador, sin que ninguno de los dos registros le resulte ajeno.
 
 Su posición en la Fronda es la del moderado incómodo para todos: defiende la prerrogativa del Parlamento de registrar los edictos reales y limitar el poder de la [[Corona_activacion_desconocida|Corona]], pero no comulga con la agitación de los príncipes ni con el tumulto de las barricadas. El 15 de enero de 1648, en respuesta a la invocación del lit de justice por el cardenal [[Cardenal_Mazarino|Mazarino]], Talon pronuncia ante la corte un discurso que sacude los muros del [[Palais-Royal]]: arremete contra la práctica de gobernar sembrando el terror, compara la [[Francia]] del momento con los despotismos de los medos y los persas, y afirma que el Parlamento es el único dique que queda entre el pueblo y la arbitrariedad del fisco. Se dice que la reina regente [[Ana_de_Austria|Ana de Austria]], presente en la sala, no pudo contener las lágrimas.

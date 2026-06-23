@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Culculine"
 ---
-# Culculine
 
 ## Presentación
 

@@ -9,7 +9,6 @@ aliases:
  - "Guardianes Interestelares"
  - "Autómatas Siderales"
 ---
-# Autómatas Siderales (Guardianes Interestelares)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Automatas_Siderales_Guardianes_Interestelares.png]]

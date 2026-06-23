@@ -24,7 +24,6 @@ tags:
  - cifra-de-quince
 imagen: null
 ---
-# El Hiato de los Quince Años
 
 > *"El silencio entre actos no es ausencia de música. Es la música que sostiene el aire para que vuelva a haber acto."*
 

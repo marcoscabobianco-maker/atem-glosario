@@ -28,7 +28,6 @@ tags:
  - cosmologia
 imagen: null
 ---
-# Papas Borg
 
 > *"El Papado oscuro no es un papado: es un patrón. Sale por el polo negativo cuando hay un Papa que pide lichificarse; sale por el polo positivo cuando hay uno que pide solidificar luz dorada. Cambia la dirección del rito; la doctrina no cambia."* — del *[[Decadiano]]*, anotación marginal sobre las dinastías eclesiales heterodoxas.
 

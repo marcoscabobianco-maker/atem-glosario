@@ -14,8 +14,6 @@ aliases:
  - "Pájaros de Trueno"
 ---
 
-# Thunderbirds / Pájaros de Trueno
-
 ## Presentación
 
 Seres míticos mencionados en los guantes de [[Sequoia]], referenciados como aliados potenciales para alcanzar al [[Flying_Dutchman_Holandes_Errante|Holandés Errante]]. [[Pomola]] es su espíritu guardián. Rol proyectado: transporte aéreo, aliados contra la usurpación del territorio de los pájaros.

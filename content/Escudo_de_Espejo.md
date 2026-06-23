@@ -9,8 +9,6 @@ aliases:
  - "ESCUDO DE ESPEJO REFLEX REVERSAL"
 ---
 
-# Escudo de Espejo
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Escudo_de_Espejo.png]]
 <!-- /HEADER_IMG -->

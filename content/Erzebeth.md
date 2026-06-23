@@ -11,7 +11,6 @@ aliases:
  - "Erzebeth"
 aa: "R.3 el companero que deviene casilla [A.D.A.]"
 ---
-# Erzebeth
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Erzebeth.png]]

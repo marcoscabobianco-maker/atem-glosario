@@ -13,7 +13,6 @@ tags:
  - papi-balor
  - taberna-serpiente-mundo
 ---
-# Chan
 
 > *Tullida mujer dragón. Brazo transformado en serpiente sentiente. Una de las cuatro miembros principales del grupo de [[Las_Tullidas]].*
 

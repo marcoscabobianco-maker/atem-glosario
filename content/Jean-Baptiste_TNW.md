@@ -9,7 +9,6 @@ aliases:
  - "TNW"
  - "Jean-Baptiste"
 ---
-# Jean-Baptiste (TNW)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Jean-Baptiste_TNW.png]]

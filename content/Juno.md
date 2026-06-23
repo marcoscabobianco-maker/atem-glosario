@@ -13,8 +13,6 @@ aliases:
  - "Juno"
 ---
 
-# Juno
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Juno.png]]
 <!-- /HEADER_IMG -->

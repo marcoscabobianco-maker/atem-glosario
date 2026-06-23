@@ -5,8 +5,6 @@ aliases:
  - "Temple de Salomón — Zona 5 (Cúpula Norte/Minarete)"
 ---
 
-# [[Temple_complejo_TE|Temple]] de Salomón — Zona 5 (Cúpula Norte/Minarete)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Temple_de_Salomon_Zona_5_Cupula_Norte_Minarete.png]]
 <!-- /HEADER_IMG -->

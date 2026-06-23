@@ -21,8 +21,6 @@ tags:
 imagen: Imagenes_Tier1/Arcacto_TG.png
 ---
 
-# Arcacto — el Gran Carnero del fuego
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Arcacto_TG.png]]
 <!-- /HEADER_IMG -->

@@ -21,8 +21,6 @@ aliases:
 imagen: null
 ---
 
-# Irene Kowalski
-
 > *Bajé a cerrar el capítulo y volví hablando de lo que vi abajo.*
 
 ---

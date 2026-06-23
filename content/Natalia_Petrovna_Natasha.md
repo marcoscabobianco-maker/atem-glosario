@@ -14,7 +14,6 @@ aliases:
  - "Natalia Petrovna"
  - "Natasha Petrovna"
 ---
-# Natalia Petrovna (Natasha)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Natalia_Petrovna_Natasha.png]]

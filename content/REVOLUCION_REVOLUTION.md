@@ -9,8 +9,6 @@ aliases:
  - "REVOLUCION"
 ---
 
-# REVOLUCION (REVOLUTION)
-
 ## Presentación
 
 Levantamiento político armado que define el nuevo ciclo de campaña nacido del [[Anti_Inferno|Descenso]]. Sus combatientes portan panfletos de reclutamiento popular y armamento de campaña. El conflicto coincide con la era de la Revolución Americana — la misma guerra en la que el [[General_Hessiano]] opera como antagonista en la versión [[Antiterra|Antiterra]] de Nueva York, 1784.

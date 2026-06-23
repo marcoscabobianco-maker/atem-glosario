@@ -9,8 +9,6 @@ aliases:
  - "Sarpaoli"
 ---
 
-# Sarpaoli
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sarpaoli.png]]
 <!-- /HEADER_IMG -->

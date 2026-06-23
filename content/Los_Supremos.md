@@ -33,7 +33,6 @@ tags:
  - lords-of-creation
  - heidegger
 ---
-# Los Supremos
 
 > *El Triunvirato fuera del Tiempo. Arian, Elías, el [[Innombrable]]. Marcaron el comienzo del tiempo después de la creación de todo lo que hicieron con la Vara. No hay nada por detrás.*
 

@@ -21,7 +21,6 @@ tags:
  - franja-de-disolucion
 imagen: Imagenes_Tier1/Paris_Ucronica.png
 ---
-# París Ucrónica
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Paris_Ucronica.png]]

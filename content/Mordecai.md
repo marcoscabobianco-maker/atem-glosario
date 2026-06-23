@@ -21,8 +21,6 @@ aliases:
 imagen: null
 ---
 
-# Mordecai
-
 > *Dagón es mi padre y la Hidra mi madre; yo no hago más que lo que el fondo me manda.*
 
 ---

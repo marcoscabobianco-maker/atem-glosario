@@ -11,8 +11,6 @@ aliases:
  - "Redcap / Wintercap"
 ---
 
-# Redcap / Wintercap (TNW)
-
 ## Presentación
 
 **Ref.:** 5d (Redcap), 6 (Redcap), 9 ("Redcat y los dos amigos").

@@ -13,8 +13,6 @@ aliases:
  - "El Último Manhattan"
 ---
 
-# Nicaramsa / Leonino / El Último Manhattan
-
 ## Presentación
 
 Guerrero Lenape, "Último de los Lenape" (del Conquino). Porte imponente, melena leonina, cicatrices de scalping fallido, pieles de lince. Sus hijos están encadenados como rehenes de [[Peter_Stuyvesant_II|Peter Stuyvesant II]], transformados en criaturas demoníacas por Pacto de Sujeción iroqués. Su arco es el del padre que sacrifica todo: erupciona en furia al ver a sus hijos poseídos, los arrastra fuera del combate mientras lo apuñalan. [[Propietario]] de la morada sagrada en [[Manhattan_New_Amsterdam_1662-1666|Manhattan]] norte (futuro Central Park). Identificado como "El Último Manhattan" — último habitante indígena de la isla.

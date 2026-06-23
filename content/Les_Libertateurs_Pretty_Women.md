@@ -15,8 +15,6 @@ aliases:
 epoca: "1717-1784 A.D.A. — Edad de las Revoluciones — paso por Aries"
 ---
 
-# Les Libertateurs / Pretty Women
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Les_Libertateurs_Pretty_Women.png]]
 <!-- /HEADER_IMG -->

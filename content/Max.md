@@ -17,8 +17,6 @@ aliases:
 imagen: null
 ---
 
-# Max
-
 > *Primero la pistola, después las preguntas.*
 
 ---

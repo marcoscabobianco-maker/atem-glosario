@@ -7,8 +7,6 @@ aliases:
  - "Protección"
 ---
 
-# Protección (Hechizo de Encantamiento)
-
 ## Presentación
 
 **Invocador:** Múltiples ([[Arsvan|Ärsvan]], [[Alexio]])

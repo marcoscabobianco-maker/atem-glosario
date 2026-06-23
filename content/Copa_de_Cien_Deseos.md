@@ -12,8 +12,6 @@ aliases:
  - "Copa de Cien Deseos"
 ---
 
-# Copa de Cien Deseos
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Copa_de_Cien_Deseos.png]]
 <!-- /HEADER_IMG -->

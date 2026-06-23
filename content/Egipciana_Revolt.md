@@ -14,8 +14,6 @@ aliases:
  - "La revuelta del Heliakos"
 ---
 
-# Egipciana Revolt
-
 > *Somos los rebeldes, y el 20 de julio de 139 d.C. los gobernantes traidores conocerán la venganza.*
 
 ## Presentación

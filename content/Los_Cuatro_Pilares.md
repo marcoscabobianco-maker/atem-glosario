@@ -8,8 +8,6 @@ aliases:
  - "Los Cuatro Pilares"
 ---
 
-# Los Cuatro Pilares
-
 ## Presentación
 
 Estructura fundamental del universo de rol compartido. Cuatro pilares que constituyen el cosmos compartido:

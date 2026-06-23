@@ -19,7 +19,6 @@ tags:
  - forum-of-set
  - mascara
 ---
-# Stephania
 
 > *"Sanzorotita Suma Estefanía. Una mujer enmascarada, estética [[Marques_de_Sade_Hugo|Marqués de Sade]]. Les ofreció una elección: sacrificar a [[Sir_Circalculo]] o enfrentar la ejecución."*
 

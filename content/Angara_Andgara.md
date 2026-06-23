@@ -22,7 +22,6 @@ tags:
  - tiamat
  - drenaje
 ---
-# Angara / Andgara
 
 > *"Continente primero. Lo que estaba antes de los reinos divididos. Lo que se vació sin hundirse, y por eso no admite restauración."*
 

@@ -20,8 +20,6 @@ tags:
 imagen: Imagenes_Tier1/Ciacco_Ciacco.png
 ---
 
-# Ciacco
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ciacco_Ciacco.png]]
 <!-- /HEADER_IMG -->

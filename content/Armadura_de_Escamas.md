@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Armadura de Escamas"
 ---
-# Armadura de Escamas
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Armadura_de_Escamas.png]]

@@ -7,8 +7,6 @@ aliases:
  - "Demonio Capuchado ↔ El Negro"
 ---
 
-# Demonio Capuchado (zona 5) ↔ El Negro
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Demonio_Capuchado_zona_5_El_Negro.png]]
 <!-- /HEADER_IMG -->

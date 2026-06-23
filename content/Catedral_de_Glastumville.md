@@ -4,8 +4,6 @@ aliases:
  - "Catedral de Glastumville"
 ---
 
-# Catedral de Glastumville
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Catedral_de_Glastumville.png]]
 <!-- /HEADER_IMG -->

@@ -8,7 +8,6 @@ aliases:
  - "Gula"
  - "Tercer Circulo"
 ---
-# Tercer Circulo (Gula)
 
 ## Presentación
 

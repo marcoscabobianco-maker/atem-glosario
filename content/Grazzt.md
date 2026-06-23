@@ -35,7 +35,6 @@ tags:
  - nucleo
 imagen: Imagenes_Tier1/Grazzt.png
 ---
-# Graz'zt
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Grazzt.png]]

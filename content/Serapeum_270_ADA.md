@@ -13,8 +13,6 @@ aliases:
  - "Serapeum"
 ---
 
-# Serapeum (270 A.D.A.)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Serapeum_270_ADA.png]]
 <!-- /HEADER_IMG -->

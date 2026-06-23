@@ -24,8 +24,6 @@ tags:
 imagen: null
 ---
 
-# Lord Valanthru
-
 > *"El pez más grande del estanque de la corrupción. Aparentemente intocable, sus contactos se extienden por los callejones y palacios de [[Caldero]]. Adoptó a uno de los niños rescatados, sin que [[La_Jabalina]] pueda demostrar aún que sus intenciones son siniestras. Hasta que existan pruebas irrefutables, se mantiene en la cima del poder."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

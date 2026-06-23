@@ -4,8 +4,6 @@ aliases:
  - "Guadaña Brilliant Energy"
 ---
 
-# Guadaña Brilliant Energy
-
 ## Presentación
 
 **Forma inicial:** Guadaña ósea encantada (dormida)

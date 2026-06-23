@@ -25,7 +25,6 @@ tags:
  - vala-cristalis
 imagen: null
 ---
-# La Jabalina
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Jabalina.png]]

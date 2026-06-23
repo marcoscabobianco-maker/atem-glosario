@@ -5,8 +5,6 @@ aliases:
  - "Astilla de la Veracruz"
 ---
 
-# Astilla de la Veracruz
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Astilla_de_la_Veracruz.png]]
 <!-- /HEADER_IMG -->

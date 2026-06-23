@@ -12,8 +12,6 @@ aliases:
  - "Anomalía Temporal"
 ---
 
-# Anomalía Temporal (10 años)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Anomalia_Temporal_10_anos.png]]
 <!-- /HEADER_IMG -->

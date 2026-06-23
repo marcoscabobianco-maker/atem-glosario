@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Encadenado demonio Alejandria
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Encadenado_demonio_Alejandria.png]]
 <!-- /HEADER_IMG -->

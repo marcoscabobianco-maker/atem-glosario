@@ -14,8 +14,6 @@ aliases:
 aa: "R.4 usurpacion del sistema de casillas ; N.5 serie onomastica pautada ; V.1 los demonios organizan el rescate [A.D.A.]"
 ---
 
-# Sentinelas
-
 ## Presentación
 
 Las doce plataformas del zodíaco de [[Antiterra_Demonia|Antiterra]] están custodiadas de a pares: dos guardianes por casilla, malditos por la dualidad. La regla del relevo es sangrienta — quien mata al guardián ocupa su casilla y hereda su corrupción — y, si los dos custodios se destruyen entre sí, la plataforma cae con todos sus habitantes. Por eso los Guardianes se odian pero no se matan. Los **Sentinelas** son la única alternativa que el archivo conserva frente a ese círculo: si los dos custodios de una plataforma se unieran voluntariamente y cedieran su doble condición a un solo ser, ese ser — un Sentinela — gobernaría la casilla de manera activa. Con doce Sentinelas en los doce timones, Antiterra dejaría de estar a la deriva: podría navegar "como una nave" hacia donde quisiera, lejos de la [[Franja_de_Disolucion|Franja de Disolución]] que la aguarda.

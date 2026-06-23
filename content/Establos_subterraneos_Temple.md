@@ -18,8 +18,6 @@ tags:
 imagen: Imagenes_Tier1/Establos_subterraneos_Temple.png
 ---
 
-# Los Establos Subterráneos del Temple
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Establos_subterraneos_Temple.png]]
 <!-- /HEADER_IMG -->

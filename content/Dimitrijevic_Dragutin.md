@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Dimitrijević, Dragutin"
 ---
-# Dimitrijević, Dragutin
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Dimitrijevic_Dragutin.png]]

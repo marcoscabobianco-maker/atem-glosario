@@ -22,8 +22,6 @@ aliases:
 imagen: null
 ---
 
-# Ernesto «el Pupe» Echegoyen
-
 > *Les abrí las tranqueras de mi casa: ahora suelten la mala compañía y déjenme hacer justicia a mi manera.*
 
 ---

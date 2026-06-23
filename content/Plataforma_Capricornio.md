@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Plataforma_Capricornio.png
 ---
 
-# Plataforma de Capricornio
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Capricornio.png]]
 <!-- /HEADER_IMG -->

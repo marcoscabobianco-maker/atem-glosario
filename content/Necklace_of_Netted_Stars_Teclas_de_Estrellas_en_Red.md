@@ -13,8 +13,6 @@ aliases:
  - "Teclas de Estrellas en Red"
 ---
 
-# Necklace of Netted Stars / Teclas de Estrellas en Red
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Necklace_of_Netted_Stars_Teclas_de_Estrellas_en_Red.png]]
 <!-- /HEADER_IMG -->

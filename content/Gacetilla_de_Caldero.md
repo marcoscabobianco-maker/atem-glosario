@@ -21,7 +21,6 @@ tags:
  - voz-polifonica
 imagen: null
 ---
-# Gacetilla de Caldero
 
 > *"Mi nombre es [[Mascor_Blancarba]], y hace más de un año dejé mi hogar en la [[Ciudad_Estrella]]... comencé a crear gacetas sobre los principales implicados en los dolores de parto de una nueva sociedad."* — [[Mascor_Blancarba]], introducción autobiográfica al compilado.
 

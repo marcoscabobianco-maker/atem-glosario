@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Tony"
 ---
-# Tony
 
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->

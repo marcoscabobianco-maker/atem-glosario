@@ -24,8 +24,6 @@ tags:
  - archontos
 ---
 
-# Mega-Dungeon Arden Vul
-
 > *3.600 años de historia bajo las cascadas. Diez pisos principales, quince sub-niveles, cinco ubicaciones exteriores. 12 facciones; 1.161 hojas de pliegos en el archivo.*
 
 ## Presentación

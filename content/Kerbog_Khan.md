@@ -26,8 +26,6 @@ tags:
 imagen: Imagenes_Tier1/Kerbog_Khan.png
 ---
 
-# Kerbog Khan
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Kerbog_Khan.png]]
 <!-- /HEADER_IMG -->

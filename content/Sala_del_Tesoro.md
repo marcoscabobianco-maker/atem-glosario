@@ -13,8 +13,6 @@ aliases:
  - "Sala del Tesoro"
 ---
 
-# Sala del Tesoro
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sala_del_Tesoro.png]]
 <!-- /HEADER_IMG -->

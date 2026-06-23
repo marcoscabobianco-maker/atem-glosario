@@ -11,8 +11,6 @@ aliases:
  - "Facción Macriani"
 ---
 
-# Facción Macriani
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Faccion_Macriani.png]]
 <!-- /HEADER_IMG -->

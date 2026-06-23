@@ -10,8 +10,6 @@ aliases:
  - "Patience Smith"
 ---
 
-# Patience Smith
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Patience_Smith.png]]
 <!-- /HEADER_IMG -->

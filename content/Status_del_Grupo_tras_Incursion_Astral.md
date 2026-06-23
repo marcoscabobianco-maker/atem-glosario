@@ -6,8 +6,6 @@ aliases:
  - "Status del Grupo post-TE09"
 ---
 
-# Status del Grupo tras la Incursión Astral
-
 ## Presentación
 
 1. **Ubicación:** Aún en [[Laberinto_Omniporal]] (zona 34, biblioteca subsector)

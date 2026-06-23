@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Para Allá de las Cenizas Danzantes"
 ---
-# Para Allá de las Cenizas Danzantes
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Para_Alla_de_las_Cenizas_Danzantes.png]]

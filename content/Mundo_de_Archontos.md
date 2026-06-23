@@ -21,8 +21,6 @@ tags:
  - idiomas
 ---
 
-# Mundo de Archontos
-
 > *El setting de campaña de [[Ardis_Vala]]. Panteón bizantino + Melniboné. Geografía política propia. El imperio archontean dejó su huella en la ciudad caída de Ardisvala.*
 
 ## Presentación

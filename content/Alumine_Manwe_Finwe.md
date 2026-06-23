@@ -19,7 +19,6 @@ tags:
  - oro-y-espina
  - abuelito
 ---
-# Alúmine Manwe Finwe "El Milagroso"
 
 > *"Abuelito" de la familia adoptiva. Rockseer Elf bladesinger. El que decapitó a [[Master_Malakita]]. Portador de la llave dual de oro y espina.*
 

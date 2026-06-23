@@ -13,8 +13,6 @@ aliases:
  - "Abordaje del Holandés en la Luna"
 ---
 
-# Abordaje del Holandés en la Luna
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Abordaje_del_Holandes_en_la_Luna_NC14.png]]
 <!-- /HEADER_IMG -->

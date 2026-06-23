@@ -18,7 +18,6 @@ tags:
  - fin-de-siglo
 imagen: Imagenes_Tier1/Cafe_de_la_Anarquia_PU.png
 ---
-# El Café de la Anarquía
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cafe_de_la_Anarquia_PU.png]]

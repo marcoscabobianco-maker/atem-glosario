@@ -21,8 +21,6 @@ tags:
 imagen: null
 ---
 
-# Vicario Otar — la mano firme del Abad ausente
-
 > *"Yo sé que todavía puedes dar vuelta al maldito. El maldito puede ser revivido. Entonces... Si hay algo de bien, eres el único que lo puede despertar."* — Otar al clérigo [[Mortan]], antes del cerco.
 
 ---

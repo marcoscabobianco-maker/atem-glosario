@@ -4,7 +4,6 @@ aliases:
  - "Misa Negra"
 referenciado_por: 3
 ---
-# Misa Negra
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Misa_Negra.png]]

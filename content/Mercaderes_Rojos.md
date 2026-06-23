@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Mercaderes Rojos"
 ---
-# Mercaderes Rojos
 
 ## Presentación
 

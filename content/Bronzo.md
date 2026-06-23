@@ -19,7 +19,6 @@ tags:
  - sheridron
  - agente
 ---
-# Bronzo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Bronzo.png]]

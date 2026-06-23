@@ -9,8 +9,6 @@ aliases:
  - "Patriarca Dionisio de Alejandría"
 ---
 
-# Patriarca Dionisio de Alejandría
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Patriarca_Dionisio_de_Alejandria.png]]
 <!-- /HEADER_IMG -->

@@ -25,7 +25,6 @@ tags:
  - lovecraftiano-mutacion-posible
 imagen: null
 ---
-# Belicio
 
 > *"Fuerza, bravura y una sonrisa seductora. Belicio se presenta siempre con su característica frase '¡Belleza!' y un carisma fuera de lo común. Sus hazañas cuerpo a cuerpo son legendarias en la taberna '[[Bastardo_Cromas|El Bastardo Cromas]]', donde se cuentan anécdotas de cómo consiguió doble sueldo del templo y de la guardia sin perder la compostura ni la galantería."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

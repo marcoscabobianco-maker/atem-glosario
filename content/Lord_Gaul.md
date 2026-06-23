@@ -23,7 +23,6 @@ tags:
  - pelado
 imagen: Imagenes_Tier1/Lord_Gaul.png
 ---
-# Lord Gaul
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lord_Gaul.png]]

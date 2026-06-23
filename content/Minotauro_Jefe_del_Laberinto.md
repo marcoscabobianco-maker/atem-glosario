@@ -7,8 +7,6 @@ aliases:
  - "Minotauro"
 ---
 
-# Minotauro (Jefe del Laberinto)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Minotauro_Jefe_del_Laberinto.png]]
 <!-- /HEADER_IMG -->

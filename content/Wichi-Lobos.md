@@ -16,7 +16,6 @@ tags:
  - paul-claudel
  - america
 ---
-# Wichi-Lobos
 
 > *Ser terrible. Forma deformada de Huitzilopochtli, como se burlaba [[Pablo_de_Alejandria|Paul Claudel]]. Posible [[Annunaki]]. Relacionado con Zila.*
 

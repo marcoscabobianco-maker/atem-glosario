@@ -23,7 +23,6 @@ tags:
  - estela-ceniza-dorada
 imagen: null
 ---
-# La Gran Plaza de Obsidiana
 
 > *"Una planicie pétrea con forma de estrella, venerada por los ciudadanos como foco de energía celestial."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

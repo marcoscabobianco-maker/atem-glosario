@@ -21,7 +21,6 @@ tags:
  - corpus-mitico
 imagen: null
 ---
-# Mitos Fundacionales de Caldero
 
 > *"Los mitos preceden a las crónicas. La crónica que no se asienta sobre mito propio no se sostiene: cae al primer compilado contradictorio. [[Caldero]], en cambio, tiene mitos suficientes para sostener varios ciclos seguidos."* — [[Mascor_Blancarba]], *Apéndices & Delirios Varios*, glosa introductoria.
 

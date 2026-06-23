@@ -7,8 +7,6 @@ aliases:
  - "Obispo de O"
 ---
 
-# Obispo de O
-
 ## Presentación
 
 **Ref.:** jornada de caída registrada

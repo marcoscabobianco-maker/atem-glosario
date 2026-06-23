@@ -8,8 +8,6 @@ aliases:
  - "Zenobia"
 ---
 
-# Zenobia
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Zenobia.png]]
 <!-- /HEADER_IMG -->

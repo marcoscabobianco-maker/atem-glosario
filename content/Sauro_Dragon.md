@@ -6,8 +6,6 @@ aliases:
  - "Dragón"
 ---
 
-# Sauro / Dragón
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Sauro_Dragon.png]]
 <!-- /HEADER_IMG -->

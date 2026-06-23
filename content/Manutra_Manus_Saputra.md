@@ -10,7 +10,6 @@ aliases:
  - "Manutra"
  - "Manus Saputra"
 ---
-# Manutra / Manus Saputra
 
 ## Presentación
 

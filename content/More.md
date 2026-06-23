@@ -15,8 +15,6 @@ aliases:
 aa: "P.3 pacto demoniaco con victima inocente ; O.4 portador doble: Excalibur ; F.4 segunda oportunidad condicionada [MC]"
 ---
 
-# More
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/More.png]]
 <!-- /HEADER_IMG -->

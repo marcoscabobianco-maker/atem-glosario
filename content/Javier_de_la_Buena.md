@@ -12,8 +12,6 @@ aliases:
  - "Javier de la Buena"
 ---
 
-# Javier de la Buena
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Javier_de_la_Buena.png]]
 <!-- /HEADER_IMG -->

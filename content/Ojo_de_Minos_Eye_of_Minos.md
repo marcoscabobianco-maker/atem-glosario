@@ -11,7 +11,6 @@ aliases:
  - "Ojo de Minos"
  - "Eye of Minos"
 ---
-# Ojo de Minos / Eye of Minos
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ojo_de_Minos_Eye_of_Minos.png]]

@@ -5,8 +5,6 @@ aliases:
 en_construccion: true
 ---
 
-# Francisco Jose I R
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Francisco_Jose_I_R.jpg]]
 <!-- /HEADER_IMG -->

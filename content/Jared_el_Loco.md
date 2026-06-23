@@ -8,8 +8,6 @@ aliases:
  - "Jared"
 ---
 
-# Jared el Loco
-
 <!-- HEADER_IMG -->
 <!-- Imagen pendiente. -->
 <!-- /HEADER_IMG -->

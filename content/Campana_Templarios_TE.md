@@ -6,8 +6,6 @@ aliases:
  - "Campaña Templarios"
 ---
 
-# Campaña Templarios (TE)
-
 ## Presentación
 
 - **el plano operativo:** Sub-campaña ambientada en Jerusalén durante las Cruzadas, c. 1119-1120 AD. Los compañeros son miembros o asociados de la Orden del [[Temple_complejo_TE|Temple]] en sus primeros años, bajo el mando de [[Hugo_de_Payns|Hugo de Payns]].. Nivel de inicio: 1.

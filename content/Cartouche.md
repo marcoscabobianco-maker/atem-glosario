@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Cartouche"
 ---
-# Cartouche
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cartouche.png]]

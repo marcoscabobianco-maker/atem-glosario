@@ -10,8 +10,6 @@ aliases:
  - "El Profeta Negro"
 ---
 
-# El Profeta Negro
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/El_Profeta_Negro.png]]
 <!-- /HEADER_IMG -->

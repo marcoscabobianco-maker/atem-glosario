@@ -14,8 +14,6 @@ tags:
  - baba-iliana
 ---
 
-# Estellara
-
 > *"Fueron a visitar gracias a los contactos en Estellara, una posada. Estuvieron ahí con la gente del lugar."*
 
 ## Presentación

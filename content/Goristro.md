@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Goristro"
 ---
-# Goristro
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Goristro.png]]

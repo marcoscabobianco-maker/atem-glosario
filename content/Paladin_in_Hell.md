@@ -23,7 +23,6 @@ tags:
  - quinto-nivel
  - templo-arrastrado
 ---
-# Paladin in Hell
 
 > *El arco fundacional. De ahí salen [[Maristo]] y Arian juntos. [[Klyssandral]] arrastró un templo al quinto nivel del imperio. El [[Vala_Cristalis|Valis Cristal]] nació allí.*
 

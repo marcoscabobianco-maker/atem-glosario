@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Dragón Ophaio"
 ---
-# Dragón Ophaio
 
 ## Presentación
 

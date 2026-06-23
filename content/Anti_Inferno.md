@@ -35,8 +35,6 @@ tags:
 imagen: null
 ---
 
-# Inferno — Anti-Inferno + descenso pleno
-
 > *"Per me si va ne la città dolente, / per me si va ne l'etterno dolore, / per me si va tra la perduta gente. //... Lasciate ogne speranza, voi ch'intrate."* — versos del portal del [[Infierno]], *Inferno III*, conservados textuales como inscripción litúrgica del umbral.
 
 > *"Nel mezzo del cammin di nostra vita / mi ritrovai per una selva oscura."* — verso primero del *Inferno* dantesco, conservado en los archivos doctrinales como cita ineludible del Foso.

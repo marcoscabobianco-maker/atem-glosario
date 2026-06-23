@@ -25,7 +25,6 @@ tags:
  - linea-pablo
 imagen: Imagenes_Tier1/Pablo_el_Cronomante.jpg
 ---
-# Pablo el Cronomante
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Pablo_el_Cronomante.jpg]]

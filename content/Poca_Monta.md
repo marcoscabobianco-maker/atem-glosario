@@ -8,8 +8,6 @@ aliases:
  - "Poca Monta"
 ---
 
-# Poca Monta
-
 ## Presentación
 
 Grupo aventurero. El nombre irónico o autodepreciativo es consistente con el humor de denominación de otros grupos MC (cf. [[Les_Libertateurs_Pretty_Women|Pretty Women]]).

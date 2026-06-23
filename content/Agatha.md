@@ -11,7 +11,6 @@ tags:
 aliases:
  - "Agatha"
 ---
-# Agatha
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Agatha.png]]

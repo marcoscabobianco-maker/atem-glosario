@@ -10,7 +10,6 @@ aliases:
  - "Teodora"
 wikipedia: https://es.wikipedia.org/wiki/Teodora_(emperatriz_del_siglo_XI)
 ---
-# Teodora
 
 ## Presentación
 

@@ -25,7 +25,6 @@ tags:
  - reinado-fundacional
 imagen: null
 ---
-# Juliana X Bellatrix
 
 > *"La emperatriz no escribió el mapa nuevo; recogió el mapa antiguo del suelo donde había caído y le dio espalda recta. Eso, en el aparato decadiano, no se llama conquista. Se llama Reconquista. Y exige otra clase de monarca."* — del *[[Decadiano]]*, libro VI, sobre los reinados restauradores del Imperio.
 

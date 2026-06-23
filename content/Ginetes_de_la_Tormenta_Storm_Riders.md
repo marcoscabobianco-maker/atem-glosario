@@ -20,7 +20,6 @@ tags:
  - antiterra
 imagen: Imagenes_Tier1/Ginetes_de_la_Tormenta_Storm_Riders.png
 ---
-# Los Jinetes de la Tormenta
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ginetes_de_la_Tormenta_Storm_Riders.png]]

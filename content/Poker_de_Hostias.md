@@ -13,7 +13,6 @@ tags:
 aliases:
  - "Poker de Hostias"
 ---
-# Poker de Hostias
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Poker_de_Hostias.png]]

@@ -10,7 +10,6 @@ tags:
 aliases:
  - "Valle de la Serpiente Amarilla"
 ---
-# Valle de la Serpiente Amarilla
 
 ## Presentación
 

@@ -24,7 +24,6 @@ tags:
  - rivalidad-fraterna
 imagen: null
 ---
-# Sir Glastum
 
 > *"Hay nobles que se quedan en su patio. Y hay nobles que el patio los desconoce desde el día que firmaron el destino del segundo hijo. A esos los llaman aventureros, porque la palabra 'desheredado' fue prohibida por la Décima Sátira del [[Decadiano]]."* — glosa marginal anónima al *libro VII* del [[Decadiano]], atribuida por algunos al archivero del Plata.
 

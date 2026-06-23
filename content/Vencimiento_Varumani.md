@@ -21,8 +21,6 @@ tags:
  - troll-lifts
 ---
 
-# El Vencimiento de los Varumani
-
 > *[[Buscadores_de_Ardis_Vala|Los Buscadores]] derrotaron a los [[Varumani|trolls]] de los Troll Lifts y la Corte del Thegn. [[Varboka]] depuesto. [[Court_of_Troll_Thegn]] cae. Cómo y cuándo: durante el cierre original o durante el [[Hiato_15_Años_Ardis_Vala|hiato]]. Cambia la Corte del Thegn hacia abajo radicalmente.*
 
 ## Presentación

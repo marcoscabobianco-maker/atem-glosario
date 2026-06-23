@@ -20,7 +20,6 @@ tags:
  - los-trece-brazos
  - 
 ---
-# Benetton
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Benetton.png]]

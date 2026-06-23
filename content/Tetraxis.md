@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Tetraxis"
 ---
-# Tetraxis
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Tetraxis.png]]

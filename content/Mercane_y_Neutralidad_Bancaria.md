@@ -17,8 +17,6 @@ aliases:
  - "Como Suiza"
 ---
 
-# Mercane y neutralidad bancaria
-
 ## Presentación
 
 El archivo conserva, en tinta azul del cuaderno sesenta y siete, página veintiséis, una pregunta con su respuesta en seco — apenas una línea, en el folio más estratificado que el archivo recuerde: la misma página guarda, de otra mano, la genealogía de los doce hijos de [[Maleika_Maleyka]], y en verde, el anuncio de todos los apocalipsis juntos. La azul pregunta:

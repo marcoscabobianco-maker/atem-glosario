@@ -12,8 +12,6 @@ aliases:
  - "Vale de Cristal"
 ---
 
-# Vale de Cristal (Talismán / Dimensión)
-
 ## Presentación
 
 Lugar misterioso del [[Anti_Inferno|Descenso]] en el que el grupo logró establecerse. Presumiblemente el mismo locus que el "Cristal Facetado" — un objeto descrito como algo que "parecía tener un universo en un puño". Las referencias al Vale apuntan a un espacio dimensional contenido dentro de un cristal literal, fuente de poder cosmogónico análogo a [[Vala_Cristalis|Vala Cristalis]]. Una semilla de mostaza guardada en su interior podría constituir la llave de salida del infierno hacia el [[Castillo_del_Prisma|Castillo del Prisma]].

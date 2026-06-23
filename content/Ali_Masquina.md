@@ -5,7 +5,6 @@ tags:
 aliases:
  - "Alí Másquina"
 ---
-# Alí Másquina
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Ali_Masquina.png]]

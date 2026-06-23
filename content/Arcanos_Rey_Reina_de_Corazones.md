@@ -21,7 +21,6 @@ tags:
  - asmodeus
 imagen: Imagenes_Tier1/Arcanos_Rey_Reina_de_Corazones.png
 ---
-# Arcanos: Rey y Reina de Corazones
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Arcanos_Rey_Reina_de_Corazones.png]]

@@ -12,8 +12,6 @@ aliases:
  - "Amonio Sacas"
 ---
 
-# Amonio Sacas
-
 ## Presentación
 
 Uno de los fundadores del neoplatonismo. De orígenes humildes —acarreaba sacos en el puerto de [[Alejandria|Alejandría]]—, llegó a ser maestro de [[Plotino]], de Casio Longino, de Erenius y de los dos Orígenes, el cristiano y el pagano. Estaba impregnado de filosofía persa.

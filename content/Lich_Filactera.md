@@ -4,8 +4,6 @@ aliases:
  - "Lich Filactera"
 ---
 
-# Lich Filactera
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Lich_Filactera.png]]
 <!-- /HEADER_IMG -->

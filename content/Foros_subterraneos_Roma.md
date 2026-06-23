@@ -20,8 +20,6 @@ tags:
 imagen: Imagenes_Tier1/Foros_subterraneos_Roma.png
 ---
 
-# Los Foros Subterráneos de Roma
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Foros_subterraneos_Roma.png]]
 <!-- /HEADER_IMG -->

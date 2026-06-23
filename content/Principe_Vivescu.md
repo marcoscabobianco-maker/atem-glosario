@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Príncipe Vivescu"
 ---
-# Príncipe Vivescu
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Principe_Vivescu.png]]

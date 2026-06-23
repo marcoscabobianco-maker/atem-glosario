@@ -10,7 +10,6 @@ aliases:
  - "Facción"
  - "Casa Negra"
 ---
-# Casa Negra (Facción)
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Casa_Negra_Faccion.png]]

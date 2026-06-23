@@ -9,8 +9,6 @@ aliases:
  - "Abraham Wood"
 ---
 
-# Abraham Wood
-
 ## Presentación
 
 Magnate maderero de Virginia. Interés en tierras Shawnee. Ensambla la expedición que envía al grupo a [[Fort_Henry|Fort Henry]]. Envía comitiva liderada por su hijo Thomas.

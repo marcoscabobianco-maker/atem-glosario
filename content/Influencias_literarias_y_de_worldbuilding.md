@@ -5,8 +5,6 @@ aliases:
  - "Influencias literarias y de construcción del mundo"
 ---
 
-# Influencias literarias y de construcción del mundo
-
 ## Presentación
 
 - **[[Naga_Paris_Ucronica|Nagas]]:** Mitología hindu (serpientes sabias, protectoras). [[Naga_Paris_Ucronica|Ruta de la Seda]] (comercio mágico). Planos de sueño (fantasy d&d clásico, pero con giro ucrónico).

@@ -12,8 +12,6 @@ aliases:
 wikipedia: https://en.wikipedia.org/wiki/Dark_Sun
 ---
 
-# Athas
-
 ## Presentación
 
 Nombre que recibe el mundo devastado de [[Angara_Andgara|Angara]] una vez transcurridos mil

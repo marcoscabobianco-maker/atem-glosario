@@ -15,7 +15,6 @@ tags:
  - annunaki
  - los-supremos
 ---
-# Solar Pitri
 
 > *Criatura de la mitología hindú que opera en lo que hace las veces de América. La superposición de mitologías en el nuevo cosmos.*
 

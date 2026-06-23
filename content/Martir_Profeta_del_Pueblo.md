@@ -23,7 +23,6 @@ tags:
  - polo-luminoso-primigenio
 imagen: null
 ---
-# El mártir profeta del pueblo
 
 > *"Las tradiciones del pueblo de [[Caldero]] enseñaban que besar el centro de la estrella de obsidiana abriría la senda hacia un plano más profundo... Cuando los peregrinos irrumpieron en la plaza durante el ritual del Papa Borg, portando reliquias del mártir profeta, besaron el centro de la estrella."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]* (paráfrasis del compilado sobre la liberación de la Giganta).
 

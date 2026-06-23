@@ -23,8 +23,6 @@ tags:
 imagen: null
 ---
 
-# Palacio del Tiempo
-
 > *"En el Palacio del Tiempo, el reloj no marca: registra. La burocracia de [[Paris_Ucronica|París Ucrónica]] administra el cronos como otras ciudades administran el agua: con prefectos, con tarifas, con paciencia de oficio."*
 
 ---

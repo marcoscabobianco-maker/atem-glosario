@@ -12,8 +12,6 @@ aliases:
  - "La Escalera"
 ---
 
-# Escalera Infinita
-
 > Conexión inter-planar de Planescape. Escalera sin fin que enlaza realidades. Aparece en el ciclo vía Minaya como mecanismo de viaje entre planos.
 
 ## Origen en D&D / Planescape

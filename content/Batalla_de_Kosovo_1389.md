@@ -24,7 +24,6 @@ tags:
  - paris-ucronica
 imagen: Imagenes_Tier1/Batalla_de_Kosovo_1389.png
 ---
-# Batalla de Kosovo — 28 de junio de 1389
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Batalla_de_Kosovo_1389.png]]

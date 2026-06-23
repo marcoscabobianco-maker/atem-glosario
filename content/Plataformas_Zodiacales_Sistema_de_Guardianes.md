@@ -24,7 +24,6 @@ tags:
  - antiterra
 imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 ---
-# Plataformas Zodiacales — sistema cósmico de guardianes
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png]]

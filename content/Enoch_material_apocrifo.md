@@ -17,8 +17,6 @@ aliases:
  - "Enoch"
 ---
 
-# Enoch (material apócrifo)
-
 ## Presentación
 
 Marco cosmológico del documento Skronamon, derivado del Libro 1 de Enoch (versión etiópica). Composición original semítica (hebreo/arameo), traducida al griego, versión etiópica del 350-600 d.C. **[[Pablo_de_Alejandria|Pablo de Alejandría]]** pudo haber tenido acceso. Primer manuscrito llevado a Europa por James Bruce en 1773, publicado en Oxford en 1838.

@@ -12,8 +12,6 @@ aliases:
  - "Nightmare"
 ---
 
-# Nightmare (montura)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Nightmare_montura.png]]
 <!-- /HEADER_IMG -->

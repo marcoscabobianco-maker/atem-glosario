@@ -20,8 +20,6 @@ aliases:
  - "La caja / el barril"
 ---
 
-# La caja / el barril
-
 > *De acá no sale más.*
 
 ---

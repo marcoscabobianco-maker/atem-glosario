@@ -7,7 +7,6 @@ tags:
 aliases:
  - "Guardiana de Fuego Verde"
 ---
-# Guardiana de Fuego Verde
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Guardiana_de_Fuego_Verde.png]]

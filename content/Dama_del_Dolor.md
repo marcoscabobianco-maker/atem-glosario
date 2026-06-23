@@ -13,8 +13,6 @@ aliases:
  - "La Dama"
 ---
 
-# Dama del Dolor
-
 > Regente silenciosa de Sigil, la Ciudad de las [[Puertas]]. [[Entidad]] cosmológica de poder incalculable. Su presencia en el cosmos compartido opera vía Sigil como nodo planar accesible a múltiples campañas.
 
 ## Origen en D&D / Planescape

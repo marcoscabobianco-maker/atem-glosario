@@ -21,7 +21,6 @@ tags:
  - dominado-vampiro
 imagen: Imagenes_Tier1/Andre_Bar.png
 ---
-# André Bar
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Andre_Bar.png]]

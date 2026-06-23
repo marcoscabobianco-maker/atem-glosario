@@ -19,7 +19,6 @@ tags:
  - demonio-helter
 imagen: Imagenes_Tier1/Duque_de_Blanquist.png
 ---
-# El Duque de Blanquist
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Duque_de_Blanquist.png]]

@@ -61,7 +61,6 @@ tags:
  - dinastia-xviii
 imagen: Imagenes_Tier1/Amitlai.png
 ---
-# Amitlai
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Amitlai.png]]

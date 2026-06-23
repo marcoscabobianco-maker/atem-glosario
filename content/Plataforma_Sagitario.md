@@ -22,8 +22,6 @@ tags:
 imagen: Imagenes_Tier1/Plataforma_Sagitario.png
 ---
 
-# Plataforma de Sagitario
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plataforma_Sagitario.png]]
 <!-- /HEADER_IMG -->

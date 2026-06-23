@@ -4,8 +4,6 @@ aliases:
  - "Yusdrayl"
 ---
 
-# Yusdrayl
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Yusdrayl.png]]
 <!-- /HEADER_IMG -->

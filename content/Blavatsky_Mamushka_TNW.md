@@ -17,7 +17,6 @@ tags:
  - cadena-autorial
  - eslabon
 ---
-# Helena Blavatsky / Mamushka
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Blavatsky_Mamushka_TNW.png]]

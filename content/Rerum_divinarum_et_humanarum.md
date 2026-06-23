@@ -12,8 +12,6 @@ aliases:
  - "Rerum Divinarum"
 ---
 
-# Rerum divinarum et humanarum
-
 > *Obra perdida de [[Marcos_el_Mago]]: por ella las plumas se mojan en Sangre y las espadas en tinta.*
 
 ## Presentación

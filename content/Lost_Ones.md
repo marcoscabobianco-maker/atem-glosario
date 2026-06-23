@@ -27,7 +27,6 @@ tags:
  - dante
 imagen: null
 ---
-# Lost Ones
 
 > *"El Lost One es alma que ya no opera la esperanza como acto activo. No se ha condenado todavía a un círculo; tampoco se ha salvado al cosmos extendido. Está. Lo cual, en geografía infernal, es ya una posición doctrinal."* — del *[[Anti_Inferno|Coro del Descenso]]*, libro VI, antífona de los perdidos.
 

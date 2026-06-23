@@ -7,8 +7,6 @@ aliases:
  - "Biblioteca del Laberinto"
 ---
 
-# Biblioteca del Laberinto (Zona 34 subsector)
-
 ## Presentación
 
 - **Descripción revelada en la incursión al plano astral:** Biblioteca planar dentro del [[Laberinto_Omniporal]]

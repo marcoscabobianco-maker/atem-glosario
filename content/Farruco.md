@@ -11,8 +11,6 @@ aliases:
  - "Farruco"
 ---
 
-# Farruco
-
 ## Presentación
 
 Indio Sierra Nevada mestizo, estaba destinado a ser chamán pero rompió con su tradición. "Refinado pendenciero," armas ligeras. Tatuaje circular con estrellas. Último compañero introducido en la [[Corona_activacion_desconocida|Corona]] del Norte. Arrastrado al pozo por manos infernales tras leer contratos de almas junto al aljibe — escena de body horror donde le susurran algo "re importante, clave, crucial" que no puede recordar. [[California]] lo protege del chamán Winton que lo marcó como sacrificio.

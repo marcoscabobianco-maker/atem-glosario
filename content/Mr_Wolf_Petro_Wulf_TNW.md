@@ -11,8 +11,6 @@ aliases:
  - "Mr. Wolf / Petro Wulf"
 ---
 
-# Mr. Wolf / Petro Wulf (TNW)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Mr_Wolf_Petro_Wulf_TNW.png]]
 <!-- /HEADER_IMG -->

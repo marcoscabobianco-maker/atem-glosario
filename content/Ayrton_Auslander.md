@@ -23,7 +23,6 @@ tags:
  - tienda-souvenirs
 imagen: null
 ---
-# Ayrton Auslander
 
 > *"Ingenioso y carismático, Ayrton puede encandilar con una sonrisa antes de desaparecer entre las sombras con un botín... o meter sendas dagas en sobacos de enemigos. Fue crucial en '[[Bazar_de_la_Vida|El Bazar de la Vida]]', infiltrándose en los subterráneos para liberar a los niños capturados."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

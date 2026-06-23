@@ -21,8 +21,6 @@ tags:
 imagen: null
 ---
 
-# Gretchyn Tashykk
-
 > *"Anciana halfling arrugada como una pasa. Aunque desconfió inicialmente de ellos, al ver el estado de Rulfo y reconocer a los aventureros como enviados del templo, les permitió la entrada, aunque seguía cautelosa."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 
 ---

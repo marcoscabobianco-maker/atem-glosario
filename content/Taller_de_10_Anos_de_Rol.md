@@ -6,7 +6,6 @@ aliases:
  - "referencia en GLOSARIO.md"
  - "Actualizar: Taller de 10 Años de Rol"
 ---
-# Actualizar: Taller de 10 Años de Rol (referencia en GLOSARIO.md)
 
 ## Presentación
 

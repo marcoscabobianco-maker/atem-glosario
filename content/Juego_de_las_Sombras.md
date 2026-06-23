@@ -20,7 +20,6 @@ tags:
  - cakravartin
  - reguladores
 ---
-# Juego de las Sombras
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Juego_de_las_Sombras.png]]

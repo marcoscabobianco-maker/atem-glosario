@@ -11,8 +11,6 @@ tags:
  - "stub"
 ---
 
-# Druida Negro
-
 > *Druida de signo oscuro, compañero de la gesta mediterránea. Entró en escena junto a [[Sudilis]].*
 
 ## Presentación

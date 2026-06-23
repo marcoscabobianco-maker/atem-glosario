@@ -8,7 +8,6 @@ tags:
 aliases:
  - "Bolsa de los Mordiscos"
 ---
-# Bolsa de los Mordiscos
 
 ## Presentación
 

@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Otherworld Kimono"
 ---
-# Otherworld Kimono
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Otherworld_Kimono.png]]

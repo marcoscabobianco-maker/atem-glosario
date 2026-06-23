@@ -26,7 +26,6 @@ tags:
  - cisma-magico
  - 3000-años
 ---
-# Archontean (pueblo, imperio, arquitectura)
 
 > *El imperio mediterráneo del mundo de Archontos. Capital: Archontos en [[Mithruin]]. Cuna del Cisma Mágico entre [[Sortianos]] y Teósofos. Constructores de Ardisvala y de la mayoría del [[Mega_Dungeon_Arden_Vul]].*
 

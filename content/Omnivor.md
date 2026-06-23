@@ -16,7 +16,6 @@ tags:
  - lords-of-creation
  - 1987
 ---
-# Omnivor
 
 > *El devorador. Devoró a los hijos de [[Mahakala]], el Señor del tiempo.*
 

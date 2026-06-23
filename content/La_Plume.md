@@ -11,7 +11,6 @@ tags:
 aliases:
  - "La Plume"
 ---
-# La Plume
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Plume.png]]

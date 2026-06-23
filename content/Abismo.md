@@ -12,8 +12,6 @@ aliases:
 wikipedia: https://es.wikipedia.org/wiki/Abismo_(Dragones_y_Mazmorras)
 ---
 
-# Abismo
-
 ## Presentación
 
 Plano de existencia maléfica y caótica. Destino de almas, monstruos y

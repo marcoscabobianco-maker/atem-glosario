@@ -9,7 +9,6 @@ tags:
 aliases:
  - "Vuk Brankovic"
 ---
-# Vuk Brankovic
 
 **Categoría:** personaje-historico
 

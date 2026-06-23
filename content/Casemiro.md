@@ -12,8 +12,6 @@ aliases:
  - "Casemiro"
 ---
 
-# Casemiro
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Casemiro.png]]
 <!-- /HEADER_IMG -->

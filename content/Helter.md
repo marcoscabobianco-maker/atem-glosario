@@ -21,7 +21,6 @@ tags:
  - reguladores
  - inferno
 ---
-# Helter
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Helter.png]]

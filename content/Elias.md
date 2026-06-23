@@ -21,7 +21,6 @@ tags:
  - linaje
  - magister
 ---
-# Elías
 
 > *Viejo maldito que se hacía llamar Magíster. Con G, para que se notara.*
 

@@ -16,7 +16,6 @@ tags:
  - archontean
  - lankios
 ---
-# The Basement
 
 > *Sótanos de un edificio thotiano administrativo arruinado. Piso iniciático. Sin facciones.*
 

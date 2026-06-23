@@ -9,8 +9,6 @@ aliases:
  - "Franja de Disolución"
 ---
 
-# Franja de Disolución
-
 ## Presentación
 
 Zona o fenómeno cosmológico al que [[Antiterra_Demonia|Antiterra]] se acerca en 1901, causando su destrucción (o proceso de destrucción). Representa un límite cosmológico más allá del cual la existencia se disuelve. [[Evento]] que marca la "separación mayor" entre Terra y [[Antiterra_Demonia|Antiterra]].

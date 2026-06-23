@@ -4,8 +4,6 @@ aliases:
  - "Plaza de la Liberacion PU"
 ---
 
-# Plaza de la Liberacion PU
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Plaza_de_la_Liberacion_PU.png]]
 <!-- /HEADER_IMG -->

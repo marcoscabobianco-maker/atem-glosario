@@ -7,8 +7,6 @@ aliases:
  - "Libro Azul"
 ---
 
-# Libro Azul (Custodializado)
-
 ## Presentación
 
 - **Status tras la incursión al plano astral:** Parcialmente investigado via [[Akashic_Records|Akashic Records]]

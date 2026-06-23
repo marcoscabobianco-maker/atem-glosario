@@ -5,8 +5,6 @@ tags: ["concepto", "vala"]
 aliases: ["Atrox"]
 ---
 
-# Atrox
-
 Atrox es el nombre que los registros dan a una de las dos presencias que cohabitan a [[Nancon]], la más fría de las dos. Cuando Atrox toma el control, [[Nancon]] se vuelve calculador — la rabia no desaparece, sino que se ordena, se afila, se convierte en instrumento de precisión. Los que lo han visto en ese estado hablan de ojos que miden antes de actuar, de una demora apenas perceptible entre el impulso y el golpe.
 
 El otro modo es el "joven niño del vacío", más instintivo, más cercano al frenesí puro y al habla en aclo. Atrox y el niño del vacío se alternan en Nancon como dos manos del mismo cuerpo: ninguno es el Nancon de base, y entre los dos lo constituyen por completo. La estructura recuerda a aquellos portadores de doble alma que los archivos del orbe registran en otras campañas y otros tiempos — el motivo del umbral entre dos naturalezas, una brillante y una oscura, aparece con insistencia en los márgenes del universo conocido.

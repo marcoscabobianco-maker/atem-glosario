@@ -22,8 +22,6 @@ tags:
  - aliado-kerbog-khan
 ---
 
-# King Weskenim
-
 > *Grand King de los goblins. Reside en las las Goblin Warrens. Aliado de [[Kerbog_Khan]]. Enemigo declarado de los [[Halflings_Plumthorn|Halflings de Plumthorn]]. Fecundo y expansivo.*
 
 ## Presentación

@@ -21,8 +21,6 @@ aliases:
  - "Nave del Caos"
 ---
 
-# Evan / Ada / Nave del caos
-
 ## Presentación
 
 El archivo conserva, en el cuaderno sesenta y siete, página veintitrés, el nombre que el señor del Triple Reino tomó al salir del [[Rio_del_Olvido|Río del Olvido]]. La escena pertenece al once de septiembre de 1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]] —el [[Septiembre_Negro_1901|septiembre negro]], la jornada del último plan—. Disminuido por [[Maleika_Maleyka|Maleika]], bautizado por obra de la [[Magia_dual|magia dual]], [[Grazzt|Graz'zt]] renació **eunuco maldito** —como aquel emisario de la reina de Saba que Felipe bautizó sin completarlo— y se volvió religioso. El cuaderno asienta el nombre nuevo con la vacilación de lo recién oído: *"Tal vez tiene un nuevo nombre: Evan. Evan y Ada o Nave, como la del caos."*

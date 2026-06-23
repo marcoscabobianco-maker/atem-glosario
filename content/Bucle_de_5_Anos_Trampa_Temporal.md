@@ -12,7 +12,6 @@ aliases:
  - Bucle_de_5_Anos_Constantinopla
  - Bucle de 5 Anos Constantinopla
 ---
-# Bucle de 5 Años (Trampa Temporal)
 
 ## Presentación
 

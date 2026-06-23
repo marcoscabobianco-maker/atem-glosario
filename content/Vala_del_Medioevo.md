@@ -16,8 +16,6 @@ tags:
  - stub
 ---
 
-# Vala del Medioevo
-
 > *Fase intermedia del setting Vala. Entre [[Vala_Antigua]] (~2019) y [[Ardis_Vala|Arden Vul]] (2024-26).*
 
 ## Presentación

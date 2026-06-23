@@ -16,7 +16,6 @@ tags:
  - figura-pendiente-expansion
 imagen: null
 ---
-# Antonio
 
 > *"También se encuentran [[Scylla]] y Antonio."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]* (cierre de la cita sobre la convocatoria de [[Jenya_Urikas]]).
 

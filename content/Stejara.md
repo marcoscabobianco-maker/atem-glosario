@@ -23,7 +23,6 @@ tags:
  - jabali-gris
  - ravenloftizado
 ---
-# Stejara
 
 > *Pueblo vivo de [[Novatos_Ravenloft|Novatos]]. Adaptación ravenloftizada de Oakhurst. [[Mirela_Valka|Mirela]] Vălcan, Vasile el tabernero, Baba Ileana. Cross-campaña con [[Estellara]]/[[Valdemora]] de [[Ardis_Vala]].*
 

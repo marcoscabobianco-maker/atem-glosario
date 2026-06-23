@@ -14,8 +14,6 @@ aliases:
  - "13 Ángeles"
 ---
 
-# 13 Ángeles
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/13_Angeles.png]]
 <!-- /HEADER_IMG -->

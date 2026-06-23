@@ -9,7 +9,6 @@ aliases:
  - "Mindscape Fúngico"
  - "mindscape fúngico"
 ---
-# Mindscape Fúngico
 
 ## Presentación
 

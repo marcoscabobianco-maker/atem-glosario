@@ -5,8 +5,6 @@ aliases:
 en_construccion: true
 ---
 
-# Cronomancia
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Cronomancia.jpg]]
 <!-- /HEADER_IMG -->

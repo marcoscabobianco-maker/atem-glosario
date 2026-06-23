@@ -6,7 +6,6 @@ tags:
 aliases:
  - "Intrusión Cuaternaria"
 ---
-# Intrusión Cuaternaria
 
 ## Presentación
 

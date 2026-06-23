@@ -9,7 +9,6 @@ tags:
 aliases:
  - "La Modelo"
 ---
-# La Modelo
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Modelo.png]]

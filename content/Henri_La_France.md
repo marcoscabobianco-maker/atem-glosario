@@ -23,7 +23,6 @@ tags:
  - baton-rouge
 imagen: Imagenes_Tier1/Henri_La_France.png
 ---
-# Henri La France
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Henri_la_France.png]]

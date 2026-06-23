@@ -14,8 +14,6 @@ aliases:
  - "Embajador Iroqués"
 ---
 
-# La Víbora Iroquesa / Embajador Iroqués
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/La_Vibora_Iroquesa_Embajador_Iroques.png]]
 <!-- /HEADER_IMG -->

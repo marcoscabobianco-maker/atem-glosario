@@ -7,8 +7,6 @@ aliases:
  - "Psicometría"
 ---
 
-# Psicometría (Lectura de Objetos)
-
 ## Presentación
 
 **Invocador:** [[Michel|Michel]] 

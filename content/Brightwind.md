@@ -19,8 +19,6 @@ tags:
  - portal-teleportacion
 ---
 
-# Brightwind
-
 > *El legendario pegaso de Asgard. El corcel que llega en lugar de Sombra Gris cuando [[Benetton]] lo llama. El que abre el portal en Labrador.*
 
 ## Presentación

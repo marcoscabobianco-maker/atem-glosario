@@ -18,8 +18,6 @@ aliases:
 imagen: null
 ---
 
-# Dr. Lanari
-
 ---
 
 ## El médico de guardia

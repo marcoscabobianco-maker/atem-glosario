@@ -14,8 +14,6 @@ aliases:
 aa: "P.4 pacto por proxy ; C.2 el doble: es lo que no es ; A.1 amnesia operativa [MC]"
 ---
 
-# Pablo Mono
-
 ## Presentación
 
 Como toda entrada paulina, ésta no la escribe el cronista: la asume el archivero del Plata, y Paulus la ha leído sin corregirla, lo cual, en él, es una forma del consentimiento. **Pablo Mono** es el nombre que los archivos reservan para la única máscara que [[Pablo_de_Alejandria|Pablo de Alejandría]] no eligió: el tramo en que el Maestro Alterador operó como agente involuntario de [[Grazzt|Graz'zt]]. Si el nombre designa al hombre intervenido o a la forma del avatar que el Príncipe del [[Abismo]] manejaba a través de él, los registros no lo deciden; el archivero consigna las dos lecturas y no falla el pleito. La palanca del dominio no fue pacto ni cadena: fue el vínculo que unía a Pablo con [[Sati]], semidiós del panteón angariense y manipulador de oficio. Graz'zt no necesitó tocar al conjurador: le bastó con tener tomado ese hilo.

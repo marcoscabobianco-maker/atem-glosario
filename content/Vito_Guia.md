@@ -10,8 +10,6 @@ aliases:
  - "Vito"
 ---
 
-# Vito (Guía)
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Vito_Guia.png]]
 <!-- /HEADER_IMG -->

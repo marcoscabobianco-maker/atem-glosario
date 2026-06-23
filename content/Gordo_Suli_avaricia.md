@@ -7,8 +7,6 @@ tags:
  - stub
 ---
 
-# Gordo Suli avaricia
-
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Gordo_Suli_avaricia.png]]
 <!-- /HEADER_IMG -->
