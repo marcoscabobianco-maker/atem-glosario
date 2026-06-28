@@ -18,7 +18,12 @@ tags:
  - hermetismo
  - boston
  - misterio
+imagen: Imagenes_Tier1/Brutus_Alcusi.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Brutus_Alcusi.png]]
+<!-- /HEADER_IMG -->
 
 > *"Alguien que busca la verdad. Como tú."*
 

@@ -19,7 +19,12 @@ tags:
  - guardaespaldas
  - aleman
  - fuerza-bruta
+imagen: Imagenes_Tier1/Hermanos_Staufenberg.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Hermanos_Staufenberg.png]]
+<!-- /HEADER_IMG -->
 
 > *"Su alojamiento. El señor Morand confía en que estarán... cómodos."* — Otto.
 
