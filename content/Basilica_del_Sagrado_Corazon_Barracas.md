@@ -37,4 +37,4 @@ La basílica no pertenece al Mythos por su piedra, sino por su función: es el p
 
 ## Notas
 
-Los nombres históricos y políticos que rozan a la basílica —las logias de la derecha esotérica de los años sesenta, su matriz anticomunista, su padrinazgo extranjero— se conservan tal como la campaña los hereda de la historia argentina. El registro de su origen salesiano y su atribución apócrifa al arquitecto del Colón provienen de la crónica de mesa (cuaderno 99); la diégesis los guarda como parte de la doble naturaleza del lugar: una iglesia que es, por debajo, otra cosa.
+Los nombres históricos y políticos que rozan a la basílica —las logias de la derecha esotérica de los años sesenta, su matriz anticomunista, su padrinazgo extranjero— se conservan tal como la gesta los hereda de la historia argentina. El registro de su origen salesiano y su atribución apócrifa al arquitecto del Colón provienen de la crónica de mesa (cuaderno 99); la diégesis los guarda como parte de la doble naturaleza del lugar: una iglesia que es, por debajo, otra cosa.

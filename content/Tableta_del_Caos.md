@@ -35,7 +35,7 @@ imagen: null
 
 Cuando el grupo fue encarcelado por la **Inquisición del Abad** por sacrificios humanos y culto demoníaco, **la Tableta del Caos seguía sin recuperar**. *El plazo seguía corriendo*. **El brujo [[Silas_del_Umbral|Silas]]** —en su pacto con el demonio [[Quasi_demonio_menor|Quasi]] sellado en la celda— **negoció el conocimiento de la ubicación de la Tableta** como parte de las ofertas demoníacas.
 
-*Quasi prometió guiarlo*. **Silas no alcanzó a recibir la guía**. Cuando entró a la [[Iglesia_Consagrada_Helix|iglesia consagrada]] junto a los [[Gemelos_Inquisidores_Helix|gemelos guardias]] corrompidos y pidió el deseo —*"Deseo saber el lugar de la tableta del caos"*—, **el [[Vicario_Otar]] respondió**: *"Vas a morir antes"*. **El conjuro Hold Person sincronizado con [[Mortan]] paralizó al brujo, y la maza al cráneo cerró el deseo sin entregarlo**.
+*Quasi prometió guiarlo*. **Silas no alcanzó a recibir la guía**. Cuando entró a la [[Iglesia_Consagrada_Helix|iglesia consagrada]] junto a los [[Gemelos_Inquisidores_Helix|gemelos guardias]] corrompidos y pidió el deseo —*"Deseo saber el lugar de la tableta del caos"*—, **el [[Vicario_Otar]] respondió**: *"Vas a morir antes"*. **El conjuro que sujeta el cuerpo, sincronizado con [[Mortan]], paralizó al brujo, y la maza al cráneo cerró el deseo sin entregarlo**.
 
 *El cronista anota sin glosa*: **el deseo se interrumpió en su umbral verbal**. **La palabra estaba dicha**; *la respuesta divina llegó antes de la respuesta demoníaca*. **Silas murió sabiendo qué quería saber, no sabiendo dónde estaba lo que quería**.
 
@@ -74,3 +74,8 @@ Al cierre del ciclo presente, **la Tableta del Caos sigue desconocida y no recup
 - **Negociada por Quasi en pacto demoníaco** — ofrecida a Silas en la celda como información
 - **Pedida como deseo sobre el altar** — interrumpida por la palabra del vicario
 - **No recuperada** — al cierre del ciclo presente, sigue desconocida y ausente
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Objeto que el Abad de [[Helix]] exige y nadie recupera; [[Silas_del_Umbral|Silas]] muere sabiendo qué quería saber pero no dónde, cuando el [[Vicario_Otar]] cierra su deseo con la maza antes que [[Quasi_demonio_menor|Quasi]] lo entregue. Su nombre —Caos— delata lectura cosmológica antigua: el archivo sospecha que conecta con el mundo-gema [[Vala_Cristalis]], la cosmología del [[Caldero]] previo, y no con la geografía local del valle. Donde A vio sólo un objeto local (AA-O.3) y B un eco del cosmos gemelo (AKB-A.2), el archivo deja abierta la costura entre las dos vertientes.* — glosa del cronista del Plata.
+<!-- /CICLO -->

@@ -55,3 +55,8 @@ imagen: Imagenes_Tier1/Bengala_Sucronica_Bengala_Cronica.png
 - **Tránsito PU — entrega del Jinete de la Guerra** — el trueque por la Lamentación
 - **Disparo nocturno en cerro alejado** — episodio que la lámina conserva, tirador anónimo
 - **Bucle de Constantinopla — uso por agentes paganos** — apariciones acústicas posteriores
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Hay armas que cobran sangre; esta cobra tiempo. La Bengala no convoca al azar: llama por nombre al que el tirador «tiene atrasado», y quien la dispara siempre adelanta o atrasa la hora siguiente —cronomancia hecha disparo dorado. Su tránsito es el de una mercancía temporal que pasa de mano en mano: el [[Jinete_de_la_Guerra]] la trueca por la [[Lamentacion_de_los_que_no_tienen_fe|Lamentación]], y reaparece disparándose en la noche del [[Bucle_de_5_Anos_Constantinopla|bucle de cinco años]]. El doble nombre, Crónica y Sucrónica, es el mismo objeto en dos lenguas del oficio.* — glosa atribuida al libro V del [[Decadiano]].
+<!-- /CICLO -->

@@ -8,11 +8,4 @@ aliases:
 
 ## Presentación
 
-- **el plano operativo:** Personaje mencionado solo en el mapa del [[Temple_complejo_TE|Temple]] (zona 10: "Habitación del Maestro Glaucom"). No aparece en el archivos. Posible instructor/académico del [[Temple_complejo_TE|Temple]].
-- **Ref.:** Mapa del [[Temple_complejo_TE|Temple]]
-
-### el plano operativo
-
-Personaje mencionado solo en el mapa del [[Temple_complejo_TE|Temple]] (zona 10: "Habitación del Maestro Glaucom"). No aparece en el archivos. Posible instructor/académico del [[Temple_complejo_TE|Temple]].
-
-**Ref.:** Mapa del [[Temple_complejo_TE|Temple]]
+Figura nombrada solo en el plano del [[Temple_complejo_TE|Temple]] —zona 10, "Habitación del Maestro Glaucom"—, que el archivo no llega a documentar de otro modo. Probable instructor o académico del [[Temple_complejo_TE|Temple]].

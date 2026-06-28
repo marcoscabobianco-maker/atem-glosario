@@ -38,3 +38,8 @@ Queda, sin embargo, abierto en el archivo, y fue la propia Maleika quien formul�
 - [[Lucifer]] — su mundo de refugio condiciona los tiempos del plan
 - [[Los_Yalemari]] — los trece señores de la sombra que fueron tras los hijos
 - [[Elaina_Elaina_Sladivier|Elaina]] · [[Erebo]] — la intervención que abortó el plan
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⟳
+> *La regla de las doce plataformas de [[Antiterra_Demonia|Antiterra]] es sangrienta: dos guardianes por casilla, y quien mata al guardián ocupa la casilla y hereda su corrupción ([[Corrupcion_Dual|relevo por asesinato]]). El Plan Sentinela de [[Grazzt|Graz'zt]] propone usurpar el oficio sin sangre —doce hijos de [[Maleika_Maleyka|Maleika]] cediendo su doble condición a un solo timonel por cada plataforma—, para que Antiterra deje de ir a la deriva sobre la [[Franja_de_Disolucion|Franja de Disolución]] y navegue como nave. La doctrina toca las dos faces del mundo, pues su éxito esperaría a que el [[Rapture]] vacíe el hemisferio hacia el refugio de [[Lucifer]].* — glosa del Decadiano.
+<!-- /CICLO -->

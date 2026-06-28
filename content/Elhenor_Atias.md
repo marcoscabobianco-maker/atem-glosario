@@ -36,7 +36,7 @@ con origen changeling similar pero trayectoria narrativa distinta. Su origen
 adoptivo marca tema recurrente de identidad recherchée (cf. [[Amdriel]], [[Adimanto]]
 como forasteros en busca de instrucción).
 
-En *La familia Atias* (Taller l.1468+), se revela que [[Elhenor]] decidió 'comerse su corazón' — un acto de violación de ley ancestral que lleva a su juicio. [[Melania]], reformada, le da una hija: Moran. En el enfrentamiento definitivo contra [[Grazzt|Graz'zt]] a bordo del Barco de los Reunidos, '[[Elhenor]] decapita a [[Grazzt|Graz'zt]]' (Taller l.1468). [[La_Dama_Notre_Dame|La Dama]] del Dolor es identificada en su entorno.
+En *La familia Atias* se revela que [[Elhenor]] decidió 'comerse su corazón' — un acto de violación de ley ancestral que lleva a su juicio. [[Melania]], reformada, le da una hija: Moran. En el enfrentamiento definitivo contra [[Grazzt|Graz'zt]] a bordo del Barco de los Reunidos, '[[Elhenor]] decapita a [[Grazzt|Graz'zt]]'. [[La_Dama_Notre_Dame|La Dama]] del Dolor es identificada en su entorno.
 
 ## Ver también
 

@@ -84,3 +84,8 @@ Tras el rescate, el grupo continuó la operación hasta el **[[Bazar_de_la_Vida]
 - **Rescate de los huérfanos en el [[Bazar_de_la_Vida]]** — restitución de los cuatro niños
 - **Fundación de la ONG de Teo** — sede operativa del polo luminoso del grupo
 - **1824 AE — ciclo presente** — orfanato activo, ONG operando, vínculo continuado con La Jabalina
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⟳
+> *La sede luminosa de [[La_Jabalina]] en [[Caldero]]: la banda interviene cuando la [[Compania_de_la_Risa|Compañía de la Risa]] tortura a [[Rulfo]], lo carga al orfanato y sigue hasta el [[Bazar_de_la_Vida]] a rescatar a los niños de la red de [[Keygan_Ghelve]] y [[Kazmojen]]. Después [[Teo_Paladin_Sin_Brazo|Teo]], mutilado en la Senda de Drakthar, funda aquí su ONG —el rol de custodia rota del guerrero al cuidador, y la casa pasa de refugio pasivo a polo operativo del grupo en la ciudad.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

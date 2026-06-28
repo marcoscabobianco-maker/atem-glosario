@@ -58,3 +58,8 @@ La fórmula exacta del archivo es **"una mujer acostada entre lobos"**. Scya se 
 - Post-21 diciembre 1889 — desembarco de los Reguladores y los 300 atlantes en la [[Galia_Narbonensis]]
 - Aparición de Scya como maldición de los Inevitables — derrota por los Reguladores
 - Estandartes de lobo ganados — usados después en la hilera de batallas hacia París
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ⌖
+> *El monstruo femenino del mito griego replantado en la costa de la [[Galia_Narbonensis|Galia Narbonensis]]: la mujer acostada entre lobos, con Caribdis por detrás, no es accidente del terreno sino maldición desplegada —los Inevitables la activan sobre los descendientes de la [[Atlantida_Alta_y_Baja|Atlántida]] por lo que intentaron hace 9000 años. La memoria vengativa duerme nueve milenios y se despierta cuando [[Los_Reguladores]] desembarcan; el mito clásico (Escila/Caribdis, el Timeo de Platón) entra verbatim, y vencerla deja los estandartes de Lupus cambiando de bando.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

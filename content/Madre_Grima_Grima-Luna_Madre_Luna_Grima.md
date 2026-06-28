@@ -26,7 +26,7 @@ Criatura o mujer gigantesca (tamaño mayor que humano normal) encontrada por el 
 
 **Diálogo clave con [[Swan]]:** El grupo negoció con ella: le ofrecieron libertad y recompensa a cambio de información. Ella aceptó a condición de no ser "usada" como sus amos. Le dijeron que [[Chronomon]] les indicó que encontrarían una aliada en el camino.
 
-**[[Acordaron]]:** Reencontrarse en la misma colina en dos días.
+**Acordaron:** Reencontrarse en la misma colina en dos días.
 
 ## Apariciones notables
 
@@ -38,6 +38,3 @@ Criatura o mujer gigantesca (tamaño mayor que humano normal) encontrada por el 
 
 ## Ver también
 
-- [[Informacion_proporcionada_al_grupo|Información proporcionada al grupo]]
-- [[Dialogo_clave_con_Swan|Diálogo clave con Swan]]
-- [[Acordaron|Acordaron]]

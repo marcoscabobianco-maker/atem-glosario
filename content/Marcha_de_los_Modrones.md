@@ -16,57 +16,41 @@ aliases:
  - "Marcha_de_los_Modrons"
 ---
 
-> Gran Marcha cíclica de los modrones de [[Mechanus]] a través de los planos exteriores cada 289 años. [[Evento]] Planescape canónico que aparece en el cosmos compartido como ciclo cosmológico.
+> La gran Marcha cíclica de los modrones de [[Mechanus]] a través de los planos exteriores. [[Evento]] cosmológico que aparece en el cosmos compartido como ciclo del mundo.
 
-## Origen en D&D / Planescape
+## La gran Marcha
 
-**The Great Modron March** es un evento canónico Planescape:
-- **Cronología**: cada **289 años** (17 × 17 — número sagrado de los modrones).
-- **Ruta**: los modrones (criaturas geométricas de **[[Mechanus]]**, plano de orden absoluto) marchan en formación perfecta a través de **todos los 17 planos exteriores**, incluyendo Limbo (caos puro).
-- **Función diegética**: censo cosmológico — los modrones registran cambios planares ocurridos en el ciclo previo.
-- **Choque cosmológico**: la marcha de orden absoluto a través del caos puro genera fricción, batallas, transformaciones de modrones.
+La **Marcha de los Modrones** es un evento del calendario cosmológico:
+- **Su ciclo**: cada **289 años** —diecisiete por diecisiete, número sagrado de los modrones—.
+- **Su ruta**: los modrones, las criaturas geométricas de **[[Mechanus]]** (el plano del orden absoluto), marchan en formación perfecta a través de todos los planos exteriores, incluido el caos de [[Limbo]].
+- **Su sentido**: un censo cosmológico —los modrones registran los cambios que el multiverso sufrió en el ciclo anterior—.
+- **Su fricción**: el orden absoluto atravesando el caos puro genera batallas y transformaciones entre los propios modrones.
 
-> Fuente externa: *The Great Modron March* (TSR, 1997, módulo Planescape), *[[Modron]] Manual*.
+## En la gesta
 
-## Acepción en el cosmos compartido
+La Marcha aparece como evento cosmológico recurrente, referido desde varias fichas:
+- **[[Taberna_de_la_Serpiente_Mundo]]**: la Marcha como hito planar.
+- Arco de [[Clarisa]] (C25): *Las Tullidas, Sigil, la Marcha de los Modrones, Grecia* —la Marcha como uno de los hilos de esa temporada—.
+- **[[Sigil]]**: la Marcha pasa por la ciudad en su ruta, y la altera a su paso.
 
-La Marcha de los Modrones aparece en el cosmos compartido como **evento cosmológico recurrente** referenciado desde múltiples fichas:
-
-- **[[Taberna_de_la_Serpiente_Mundo]]**: mención de la Marcha como hito planar.
-- **INDICE C25**: contexto de [[Clarisa]] compañero — *"[[Las_Tullidas]], Sigil, La Marcha Modron, Grecia"* (la Marcha aparece como uno de los arcos de esa temporada).
-- **[[Sigil]]**: la Marcha pasa por Sigil en su ruta, evento que altera la ciudad.
-
-## Función diegética en el ciclo
+## Función en el ciclo
 
 La Marcha opera como:
-- **Marcador temporal cosmológico**: el ciclo de 289 años da estructura macro-cronológica al multiverso MC.
-- **Generador de aventuras**: los compañeros encuentran modrones extraviados, batallas planares, oportunidades de modrón-fragments como artefactos.
-- **Conexión con Sigil**: la marcha pasa por Sigil, posibilidad de interactuar con la **[[Dama_del_Dolor|Dama del Dolor]]** (que canónicamente la deja pasar).
-- **Conexión con el [[Juego_de_las_Sombras|Juego de las Sombras]]**: ambos son **ciclos cosmológicos** recurrentes — posible parentesco estructural a confirmar con.
+- **Reloj cosmológico**: el ciclo de 289 años da una estructura macro al tiempo del multiverso.
+- **Ocasión de aventura**: los compañeros encuentran modrones extraviados, batallas planares, fragmentos de modrón como artefactos.
+- **Lazo con Sigil**: pasa por la ciudad, y con ella la posibilidad de tratar con la [[Dama_del_Dolor|Dama del Dolor]], que la deja pasar.
+- **Eco del [[Juego_de_las_Sombras|Juego de las Sombras]]**: ambos son ciclos cosmológicos recurrentes —parentesco estructural a confirmar—.
 
-## Apariciones documentadas
+## Apariciones
 
-- **Jornadas C25**: arco con [[Clarisa]] como compañero, contextualizado con La Marcha Modron junto con [[Las_Tullidas]], Sigil y Grecia.
-- Pendiente catalogar otras apariciones.
-
-## Recontextualización MC
-
-La Marcha entra al cosmos compartido **sin reescritura** del canon Planescape. la usa cuando necesita el evento cosmológico de orden cíclico.
-
-Pendiente para :
-- ¿En qué año diegético MC ocurre la Marcha que se jugó en C25? (¿1375 DR? ¿1888 ADA? ¿otro?)
-- ¿La Marcha tiene paralelo con las **[[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]** (otro mecanismo cíclico)?
-- ¿Los modrones aparecen también en la cosmogonía pre-Tiamat?
-
-## Nota lateral
-
-> Marcha integrada en C25, arco de [[Clarisa]] como compañero. Pendiente: detalles de las jornadas específicas.
+- **Arco de [[Clarisa]] (C25)**, junto con [[Las_Tullidas|Las Tullidas]], Sigil y Grecia.
+- Pendiente catalogar otras.
 
 ## Ver también
 
 - [[Sigil]] (paso obligado de la Marcha)
-- [[Limbo]] (plano caótico cruzado por la Marcha)
-- [[Dama_del_Dolor|Dama del Dolor]] (regente que tolera la Marcha)
-- [[Clarisa]] (compañero en C25 durante la Marcha)
-- [[Juego_de_las_Sombras|Juego de las Sombras]] (otro ciclo cosmológico — posible parentesco)
-- [[Las_Tullidas|Las Tullidas]] (arco paralelo a C25)
+- [[Limbo]] (plano caótico que cruza)
+- [[Dama_del_Dolor|Dama del Dolor]] (regente que la tolera)
+- [[Clarisa]] (compañero en C25)
+- [[Juego_de_las_Sombras|Juego de las Sombras]] (otro ciclo cosmológico)
+- [[Las_Tullidas|Las Tullidas]] (arco paralelo)

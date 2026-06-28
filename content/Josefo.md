@@ -17,7 +17,7 @@ aliases:
 - No cristiano, pero ofrece servicios (problematizado por su no-cristianismo)
 - Habla de "traición" de hermanos
 
-**Rol en campaña:**
+**Rol en gesta:**
 - Reclutado por [[Arsvan|Ärsvan]] como "colega" (no sirviente) de inteligencia
 - Propone esquema de mensajería con palomas y halcón adiestrado
 - Equipado por [[Arsvan|Ärsvan]] (armas, equipo de artesano)
@@ -31,5 +31,3 @@ aliases:
 ## Ver también
 
 - Background
-- [[Rol_en_campana|Rol en campaña]]
-- [[Asignacion_narrativa|Asignación narrativa]]

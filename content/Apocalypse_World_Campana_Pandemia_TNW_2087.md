@@ -1,32 +1,30 @@
 ---
-title: "Apocalypse World — Campaña Pandemia (TNW / 2087)"
+title: "2087 — la Pandemia del Mundo Nuevo"
+título: "2087 — la Pandemia del Mundo Nuevo"
+slug: Apocalypse_World_Campana_Pandemia_TNW_2087
 categoria: lugar
 tags:
  - "campaña"
  - "2087"
- - "apocalypse-world"
  - "pandemia"
  - "portal"
+ - "mundo-nuevo"
 aliases:
- - "Apocalypse World — Campaña Pandemia (TNW / 2087)"
- - "Apocalypse World — Campaña Pandemia (TNW"
- - "2087)"
- - "TNW"
+ - "Pandemia del Mundo Nuevo"
  - "2087"
- - "Apocalypse World — Campaña Pandemia"
+ - "Pandemia del Mundo Nuevo (TNW)"
 epoca: "2087 — Edad del Mundo Nuevo — pandemia futura"
 ---
 
 ## Presentación
 
-**Ref.:** Confirmación del archivo oral. Portal #6 de la lista celeste de [[Portales_de_Iron_Mountain_TNW|Portales de Iron Mountain]].
-**Nota lateral:** Jugada bajo el Gran Encierro — espejo del 2087 que narra. El archivo de voces conserva sus registros, pendientes de asentar.
-**Nota:** Expande la Secuencia Terra: [[Gary_TNW|Gary del Mundo Nuevo]] (1987) no solo *señala* a 2087 como posibilidad futura, sino que se jugó efectivamente. Apocalypse World como sistema es coherente con un futuro posapocalíptico. También aparece como influencia de diseño en el archivo.
+El **sexto portal** de la lista celeste de [[Portales_de_Iron_Mountain_TNW|Iron Mountain]] no apunta a un pasado: apunta a un **futuro**. Año **2087**, el Mundo Nuevo arrasado por una pandemia —el porvenir que se abre si [[Grazzt|Grast]], el Dios de Hierro, no es detenido en 1987—. No es una posibilidad teórica: es una línea de tiempo divergente que se recorrió, espejo de un encierro que la narra.
+
+[[Gary_TNW|Gary, el Mundo Nuevo]] no solo *señala* a 2087 como amenaza: lo despliega. Si el eclipse del 14 de abril consuma la fusión de las cinco versiones de Grast, este desierto posapocalíptico es lo que queda.
 
 ## Vínculos
 
-- [[Gary_TNW|Gary TNW (campaña)]] — la campaña que ancla el portal al 2087; si [[Grazzt|Grast]] no es detenido, este es el futuro
-- [[Portales_de_Iron_Mountain_TNW|Portales de Iron Mountain]] — el portal #6 apunta a 2087 como línea de tiempo divergente
-- [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain / Montaña de Hierro]] — epicentro del viaje temporal que conecta con este futuro
+- [[Gary_TNW|Gary, el Mundo Nuevo]] — la saga que ancla este porvenir; su desenlace decide si 2087 ocurre
+- [[Portales_de_Iron_Mountain_TNW|Portales de Iron Mountain]] — el sexto portal apunta a esta línea divergente
+- [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]] — el eje del viaje temporal que conecta con este futuro
 - [[Grazzt|Grast / Dios de Hierro]] — su victoria en 1987 es la condición del apocalipsis de 2087
-- [[Lords_of_Creation_Sistema_TNW|Lords of Creation (sistema)]] — sistema de [[Gary_TNW]] que tematiza la creación y destrucción de mundos

@@ -81,7 +81,7 @@ El **arco final declarado** de los Reguladores converge sobre **[[Barbatos]]**, 
 
 ### Eco en el Inferno
 
-Las decisiones del ciclo no quedan donde se tomaron. **En la campaña [[Anti_Inferno|Inferno]]** (sistema Acheron, [[Lost_Ones]], Dante), varios Reguladores reaparecen como **condenados residentes** del [[Infierno]]: **Ärsvan** como templario condenado en el [[Castillo_de_Siegling]]; **[[Sven]]** como [[Lost_Ones|Lost One]] brutal de hacha sangrienta (condenado por haber tomado la sangre de Seth, ejecutado por su propio grupo); **[[Helter]]** encadenado al lado de Sven; **[[Ariadna_Genoveva|Ariadna]]** recaída en su costado oscuro. El episodio de las bombas en las Catacumbas del primer nivel del Inferno —tentación de Sven por las **[[Tres_Brujas_Macbeth|tres brujas Macbeth]]**, Ärsvan deteniendo, [[Ariadna]] con la guadaña— es el **eco diegético** del episodio único de bombas vivido en Antiterra.
+Las decisiones del ciclo no quedan donde se tomaron. **En la gesta [[Anti_Inferno|Inferno]]** (sistema Acheron, [[Lost_Ones]], Dante), varios Reguladores reaparecen como **condenados residentes** del [[Infierno]]: **Ärsvan** como templario condenado en el [[Castillo_de_Siegling]]; **[[Sven]]** como [[Lost_Ones|Lost One]] brutal de hacha sangrienta (condenado por haber tomado la sangre de Seth, ejecutado por su propio grupo); **[[Helter]]** encadenado al lado de Sven; **[[Ariadna_Genoveva|Ariadna]]** recaída en su costado oscuro. El episodio de las bombas en las Catacumbas del primer nivel del Inferno —tentación de Sven por las **[[Tres_Brujas_Macbeth|tres brujas Macbeth]]**, Ärsvan deteniendo, [[Ariadna]] con la guadaña— es el **eco diegético** del episodio único de bombas vivido en Antiterra.
 
 ### Agentes del tiempo hacia 1946
 
@@ -115,7 +115,7 @@ El arco de los Reguladores converge —en línea larga— con el **cierre del ci
 - [[Pyrexianos_culto|Pyrexianos]] — culto coordinador de las bombas
 - [[Mercane_Welcome_Back_Henri|Mercane]] — socios planares de la operación del [[Banco_Boreal]]
 - [[Union]] — destino de la Gema (bóveda U-5-7-1)
-- [[Anti_Inferno|Campaña Inferno]] — eco de los Reguladores condenados
+- [[Anti_Inferno|Gesta Inferno]] — eco de los Reguladores condenados
 - [[Los_Supremos]] — cierre cósmico que las piezas dejadas abiertas habilitan
 - [[Sucesos_de_Antiterra]] — fuente primaria del itinerario
 - [[Sigil]] — la fundación planar incompleta tras el deseo del Fabuloso
@@ -138,3 +138,8 @@ El arco de los Reguladores converge —en línea larga— con el **cierre del ci
 - Hacia 1901 A.D.A. — confrontación con Barbatos, recuperación de la Piedra
 - 1946? A.D.A. — agentes del tiempo, pistas sobre Syl desde castillo en Polonia
 - Inferno (el Descenso) — eco condenado de varios miembros
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ △ ☷ ☯
+> *La banda que cierra el ciclo de [[Antiterra]] —del [[Mediterraneo_Ucronico|Mediterráneo]] a París— y deviene agente del tiempo hacia 1946. Recuperan de [[Barbatos]] la [[Piedra_del_Apocalipsis]] y [[El_Fabuloso]] redirige la [[Gema_de_la_Creacion|Gema]] a la bóveda de [[Union]]: dos de las tres piezas de la [[Vara_del_Infinito]] que dejan el cierre cósmico abierto. Bajan, condenados, al [[Anti_Inferno|Inferno]], donde [[Sven]] y [[Helter]] reaparecen encadenados —y el cielo enrojecido por Terra que estalla es el mismo cosmos gemelo que Antiterra refleja.* — glosa de Sucesos.
+<!-- /CICLO -->

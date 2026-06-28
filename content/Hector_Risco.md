@@ -12,8 +12,8 @@ Bardo de unos treinta y tantos años, laúd a la espalda. Compañero activo de l
 
 ## Vínculos
 
-- [[Novatos_Ravenloft|Novatos Ravenloft (ACKS)]] — la campaña en la que opera
-- [[Barrowmaze|Barrowmaze]] — el mega-dungeon principal del entorno de campaña
-- [[Ravenloft_Dominio_Ardis_Vala|Ravenloft — Dominio de Ardis Vala]] — el dominio de dread en el que se encuadra la campaña
+- [[Novatos_Ravenloft|Novatos]] — la gesta en la que opera
+- [[Barrowmaze|Barrowmaze]] — el gran laberinto de túmulos del entorno de gesta
+- [[Ravenloft_Dominio_Ardis_Vala|Ravenloft — Dominio de Ardis Vala]] — el dominio de dread en el que se encuadra la gesta
 - [[Helix|Helix]] — la aldea de los túmulos, base de operaciones del grupo
 - [[Ardis_Vala|Ardis Vala]] — la mega-estructura cristalizada cuyo dominio enmarca Ravenloft en este cosmos

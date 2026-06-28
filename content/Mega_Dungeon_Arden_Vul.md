@@ -28,7 +28,7 @@ tags:
 
 ## Presentación
 
-El **Mega-Dungeon Arden Vul** —*Ardisvala*— es **el escenario subterráneo de la campaña [[Arden_Vul|Ardis Vala]]**, asentado sobre el **[[Mundo_de_Archontos]]** (panteón "bizantino + Melniboné", geografía política propia). Los pliegos del archivo le dedican 1.161 hojas en cinco volúmenes.
+El **Mega-Dungeon Arden Vul** —*Ardisvala*— es **el escenario subterráneo de la gesta [[Arden_Vul|Ardis Vala]]**, asentado sobre el **[[Mundo_de_Archontos]]** (panteón "bizantino + Melniboné", geografía política propia). Los pliegos del archivo le dedican 1.161 hojas en cinco volúmenes.
 
 ### Estado post-hiato (revelación del archivo)
 
@@ -143,18 +143,16 @@ El dungeon superpone **cuatro tradiciones arquitectónicas** según el orden his
 
 ## Vínculos
 
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Ardis_Vala]] — ciudad imperial caída
-- [[Mundo_de_Archontos]] — setting de campaña
+- [[Mundo_de_Archontos]] — el mundo de la saga
 - [[Heqeti]], [[Rudishva]], [[Archontean]], [[Varumani]] — cuatro construcciones
 - [[Lady_Deino]], [[Count_Skleros]], [[Stephania_Set]], [[Belisarius]], [[Varboka]], [[Kerbog_Khan]], [[Reepsiq]], [[Tsilliv]], [[Lord_Parmes]], [[Lord_Carcalus]] — figuras centrales
 - [[Caballeros_Cicatriz_del_Sol]] — orden tomada por los compañeros en la fase media del ciclo primero
 - [[Beacon_Faro_Brillante]] — nave alienígena de origen rudishva
-- **Ardisvala** (Richard Barton) — módulo 
-- ** 2da edición** — sistema de mesa
 
 ## Apariciones
 
-- — campaña [[Ardis_Vala]]
+- Escenario subterráneo de la saga de [[Ardis_Vala]]
 - Jornadas 1-18 (al último cierre del archivo)
 - 1.161 hojas de pliegos en el archivo

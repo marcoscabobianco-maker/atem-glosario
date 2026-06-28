@@ -24,6 +24,11 @@ Su tragedia no es cósmica sino doméstica. Quiere seguir a su padre a lo profun
 
 ## Notas
 
-El cuaderno 99 conserva el registro del híbrido y de su madre bajo el apellido Brockford; en el desarrollo de la mesa la madre se nombra como [[Betsy_Clark]]. Ambas grafías designan a la misma viuda y al mismo hijo. Su arco queda abierto: la metamorfosis no se ha consumado y la decisión del muchacho —el mar del padre o la tierra de la madre— pende todavía sobre la campaña.
+El cuaderno 99 conserva el registro del híbrido y de su madre bajo el apellido Brockford; en el desarrollo de la gesta la madre se nombra como [[Betsy_Clark]]. Ambas grafías designan a la misma viuda y al mismo hijo. Su arco queda abierto: la metamorfosis no se ha consumado y la decisión del muchacho —el mar del padre o la tierra de la madre— pende todavía sobre la gesta.
 
-[[Sagrada_Orden|La Orden]] de Dagón y los Profundos a los que pertenece el padre son la facción anfibia del culto a Tulu en las Malvinas; no comparten identidad con el grupo homónimo de otra gesta del archivo, sino que remiten directamente al sustrato lovecraftiano de esta sub-campaña.
+[[Sagrada_Orden|La Orden]] de Dagón y los Profundos a los que pertenece el padre son la facción anfibia del culto a Tulu en las Malvinas; no comparten identidad con el grupo homónimo de otra gesta del archivo, sino que remiten directamente al sustrato lovecraftiano de esta gesta.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *El muchacho es la costura de dos mundos que se contagian: humano por [[Betsy_Clark|Betsy Clark]], su madre, que lo retiene en la tierra; Profundo por el padre ausente, que lo llama al mar bajo el culto a Tulu de la Orden de Dagón. La metamorfosis es el contagio en acto —«se va a convertir en algo todavía más pescado»— y la pelea con la madre es el cosmos gemelo reducido a tragedia doméstica: superficie contra abismo, tierra contra olas, en un solo cuerpo a medio cambiar.* — glosa de Sucesos.
+<!-- /CICLO -->

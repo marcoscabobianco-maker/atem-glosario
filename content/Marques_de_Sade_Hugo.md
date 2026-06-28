@@ -80,3 +80,8 @@ La voz que todavía no ha consignado en lámina **se sostiene aquí en palabra e
 - **Arco anatolio del ciclo [[Paris_Ucronica|París Ucrónica]]** — encuentro en la torre del Valle
 - **Zona de esporas / mindscape fúngico** — escenario condicionante del testimonio
 - **Revelaciones sobre la cadena cronomántica Kosovo→Sarajevo** — exposición mayor
+
+<!-- CICLO -->
+> **Casas del ciclo** · ※ ⌖ ⏳ ✒
+> *Una sola persona, dos apellidos: el libertino del XVIII y el victorhugo del XIX viviendo en el mismo cuerpo sin acuerdo sobre cuál habla —el nombre doble es la cosa, no metáfora. Expositor que revela desde la torre del [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]] cómo el magnicidio verbatim de [[Sarajevo_1914_Ucronica|Sarajevo 1914]] se cocinó setenta años desde 1050, encadenado a [[Batalla_de_Kosovo_1389|Kosovo]] y a la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] —cierto, falso o ambas cosas bajo la espora del mindscape.* — glosa del libro V del Decadiano.
+<!-- /CICLO -->

@@ -27,3 +27,8 @@ Estructura antigua con ruinas romanas/etruscas, ubicada en [[Paris_Ucronica|Par�
 ## Notas
 
 Ubicación DISTINTA de "El [[Panteon_el|Panteón]]" (grupo de héroes). Nexo arqueológico-temporal. [[Leyenda]] de París = herencia troyana (conexión a mitología clásica y ucronía). Explosiones de hace doce años = evento de 1901 o relacionado.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ☷
+> *Una excavación bajo [[Paris_Ucronica|París Ucrónica]] que descodifica eras: ascensores que bajan a ruinas romanas y etrusco-tempranas, una [[Concha_de_Venus|concha fosilizada]] de era geológica anterior, y al fondo la [[Leyenda]] de la fundación troyana de la ciudad por el héroe París. El derrumbe «fuera de fase» de hace doce años delata el evento de 1901: el subsuelo guarda el tiempo en capas, y descender es leer hacia atrás.* — glosa del archivero del Plata.
+<!-- /CICLO -->

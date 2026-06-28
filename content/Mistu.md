@@ -17,10 +17,9 @@ aliases:
 - Barrera de viento (deflecta proyectiles)
 **Alineamiento:** No confirmado (probable neutral maligno por contexto)
 **[[Nota_narrativa|Nota narrativa]]:** Probablemente guardián/trampa de gabinete. Origen y propósito últimos desconocidos. ¿[[Entidad]] independiente o ligada a poder más grande?
-**[[Rol_futuro]]:** Potencial reaparición si grupo retorna a Santuario; posible aliado arcano si contactado apropiadamente.
+**Rol futuro:** Potencial reaparición si grupo retorna a Santuario; posible aliado arcano si contactado apropiadamente.
 
 ## Ver también
 
 - Alineamiento
 - [[Nota_narrativa|Nota narrativa]]
-- [[Rol_futuro|Rol futuro]]

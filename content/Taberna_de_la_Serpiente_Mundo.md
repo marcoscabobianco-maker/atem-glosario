@@ -42,3 +42,8 @@ En el Epílogo del Taller, la taberna aparece destruida por la Gran [[Marcha_de_
 - [[Lagu|Lagu]]
 - [[Wako|Wako]]
 - [[Bulfie|Bulfie]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *La taberna dimensional fue de [[Cronos]] hasta que [[Las_Tullidas]] convirtieron a [[Monaco|Mónaco]]-Cronos en gato y se la quedaron como base operativa: el local que vuelve a una banda nombrada sujeto del cosmos, con portales propios a [[Limbo]] y [[Baator]]. Por sus puertas pasan [[Lagu]] tras la caída de [[Monkchester]] y los de [[Rintrah]] —[[Wako]], [[Bulfie]]—, hasta que la [[Marcha_de_los_Modrones|Marcha de los Modrones]] la astilla y el control del grupo sobre sus recursos se quiebra.* — glosa del Decadiano.
+<!-- /CICLO -->

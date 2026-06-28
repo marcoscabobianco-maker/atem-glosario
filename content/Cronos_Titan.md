@@ -16,7 +16,6 @@ tags:
  - gato
  - monaco
  - exarca
- - lords-of-creation
  - arian
  - distinto-de-kronamon
 ---
@@ -37,18 +36,18 @@ El momento más recordado del personaje es su **transformación en gato por [[Mo
 
 ### Mano de Arian contra los exarcas
 
- declaró (2026-05-20) que en algún momento del arco de **[[Lords_of_Creation]]** —la campaña paralela T2.5 donde se disputan los **cuatro cargos de exarca**—, **Arian ganó usando la "mano de Cronos titán propietario de la taberna de serpientes"**. La fórmula sugiere que Cronos (incluso en forma de gato, o reactivado en su forma titán) operó como **arma o aliado de Arian** en la disputa contra los [[Jinetes_del_Apocalipsis]] y otros candidatos a exarca. La **"mano" de un titán** —metáfora o literal: el titán dejó una extremidad usable, o prestó su fuerza— le da a Arian la ventaja decisiva.
+El archivo registra que en algún momento del arco de **[[Lords_of_Creation|los Señores de la Creación]]** —el ciclo paralelo donde se disputan los **cuatro cargos de exarca**—, **Arian ganó usando la "mano de Cronos titán propietario de la taberna de serpientes"**. La fórmula sugiere que Cronos (incluso en forma de gato, o reactivado en su forma titán) operó como **arma o aliado de Arian** en la disputa contra los [[Jinetes_del_Apocalipsis]] y otros candidatos a exarca. La **"mano" de un titán** —metáfora o literal: el titán dejó una extremidad usable, o prestó su fuerza— le da a Arian la ventaja decisiva.
 
 ### Distinción CRÍTICA frente a Kronamon
 
-**Cronos titán ≠ [[Kronamon]]**. La distinción es declarada por (2026-05-20): *"Cronos titán propietario de la taberna de serpientes. Todo eso ya está en la narrativa, no confundir con Kronamon."* Las diferencias:
+**Cronos titán ≠ [[Kronamon]]**. El archivo insiste en la distinción: Cronos titán, propietario de la taberna de serpientes, ya está en la narrativa y no debe confundirse con Kronamon. Las diferencias:
 
 | Cronos titán | Kronamon |
 |---|---|
 | Titán propietario de bar planar | Hijo de [[Pablo_de_Alejandria|Pablo de Alejandría]] |
 | Transformado en gato por Mónaco | Decapitado en 1120 por ballestazo de [[Grazzt|Graz'zt]] desde [[Masada]] |
-| Mano usada por Arian en | Dios del Tiempo cuyo asesinato es nodo trans-temporal del cosmos compartido |
-| Personaje del Taller / Las Tullidas | Personaje cosmológico del cosmos compartido primigenio |
+| Mano usada por Arian en la disputa de exarcas | Dios del Tiempo cuyo asesinato es nodo trans-temporal del cosmos compartido |
+| Figura ligada a [[Las_Tullidas]] | Personaje cosmológico del cosmos compartido primigenio |
 | Referencia: Cronos griego (titán, no dios del tiempo) | Referencia: [[Chronomon]] / Cronos como Dios del Tiempo (Skronamon) |
 
 El nombre del titán evoca al **Cronos griego original** (Κρόνος, titán hijo de Urano y Gaia, padre de los Olímpicos), no a Chronos (Χρόνος, personificación del Tiempo) que sí está asociado a Kronamon. La confusión entre ambos es **etimológicamente sostenida** (Cronos = Chronos en algunas tradiciones romanas tardías) pero **canónicamente excluida** en el cosmos compartido.
@@ -58,8 +57,8 @@ El nombre del titán evoca al **Cronos griego original** (Κρόνος, titán h
 - [[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]] — su propiedad original
 - [[Monaco|Mónaco]] — la Tullida que lo transformó en gato
 - [[Las_Tullidas]] — grupo que tomó la taberna tras la transformación
-- [[Arian]] — quien usó su "mano" en 
-- [[Lords_of_Creation]] — campaña donde Arian gana usando la mano de Cronos
+- [[Arian]] — quien usó su "mano" en la disputa de exarcas
+- [[Lords_of_Creation|los Señores de la Creación]] — ciclo donde Arian gana usando la mano de Cronos
 - **[[Jinetes_del_Apocalipsis]]** — opositores en la disputa por los cuatro exarcas
 - **Cuatro exarcas** — cargos cósmicos disputados
 - [[Klyssandral]] — uno de los exarcas en algún momento
@@ -71,5 +70,5 @@ El nombre del titán evoca al **Cronos griego original** (Κρόνος, titán h
 
 - Taberna de la Serpiente Mundo — propiedad inicial
 - Transformación en gato por Mónaco — adquisición de la taberna por Las Tullidas
-- — mano de Arian en la disputa de exarcas
+- Ciclo de los Señores de la Creación — mano de Arian en la disputa de exarcas
 - [[Marcha_de_los_Modrones]] — destrucción de la taberna (su forma post-titán pendiente)

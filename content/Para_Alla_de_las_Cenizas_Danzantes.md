@@ -27,3 +27,8 @@ aliases:
 ## Notas
 
 ¿Mismo ser que el [[Jinete_de_la_Guerra|Jinete de la Guerra]], avatar, o subordinado? Ver también **[[Jinete_de_la_Guerra|Jinete de la Guerra]]**, **[[Cangrejo_de_Cristal|Cangrejo de Cristal]]**, **[[Cronocidio]]**.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Su negocio es el tiempo: exige por rescate los prisioneros de [[Batalla_de_Kosovo_1389|1389]], apuesta un millón de almas parisinas y desliza esos «19 años» que mueven la cuenta de [[Paris_Ucronica|París Ucrónica]] hacia 1889. El djinn no combate, factura — y lo que reclama, lo que arrastra y lo que amenaza es siempre tiempo convertido en moneda, el cobro que el [[Cronocidio]] lleva al límite.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -56,3 +56,8 @@ imagen: Imagenes_Tier1/El_Capitan_del_Holandes_Errante.png
 - **El ritual de [[Anti_Inferno|Patience]]** — primera presencia documentada del Capitán
 - **El interrogatorio de [[Edward]]** — el grupo lo confronta
 - **El abordaje del Holandés en la Luna** — negociación pacífica; cesión de las Cadenas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ⏳
+> *Lo que la marina llama maldito, la cronomancia lo llama deudor de un pacto irresoluble: el Capitán no puede detenerse porque el trato que mantuvo a flote su madera más de lo debido lo condena a no anclar jamás. El pacto que sostiene es el mismo que castiga. Y de su boca sale la primera confirmación del [[Cronotravel]] en el siglo XVII —el [[Flying_Dutchman_Holandes_Errante|Holandés]] trae "no sólo de otro espacio, sino de otro tiempo"—; al cederle pacíficamente las [[Cadenas_de_Plata_Silver_Chains_Shackles_of_the_Pact|Cadenas de Plata]] al grupo de [[Northern_Crown_NC|Northern Crown]] abre el tiempo como mercancía navegable.* — glosa de Paulus.
+<!-- /CICLO -->

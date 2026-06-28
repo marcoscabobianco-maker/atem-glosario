@@ -84,9 +84,14 @@ Los **Nether Reaches** son el **territorio salvaje del [[Mega_Dungeon_Arden_Vul]
 - [[Besa]] — divinidad arconteana del placer/dolor (templo perdido)
 - **Rimmaq-Isfet** — greater god entity
 - [[Sun-Scarred_Knights|Caballeros Cicatriz del Sol]] — Sir Discord es uno
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - Tránsito mencionado en jornadas intermedias
 - **Pendiente**: exploración profunda
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Octavo estrato numerado del [[Mega_Dungeon_Arden_Vul]]: el salvaje oeste sin facción donde se baja a lo desconocido. Cada cámara estratifica una era distinta — el templo refugio de [[Bastet]] guardado por sacerdotisas pre-Cisma, el templo perdido de [[Besa]] usurpado por rakshasas, la forja muerta de Zhorak — y por el Hall of Chaotic Feasters se abre un pozo aún más hondo: el portal directo a Rimmaq-Isfet, cuyo veneno repercute en la consagración del [[Ziggurat_de_Kauket]] niveles abajo. El descenso no es un pasillo sino un apilado de mundos: bajar un piso es caer en otro siglo.* — glosa del Decadiano.
+<!-- /CICLO -->

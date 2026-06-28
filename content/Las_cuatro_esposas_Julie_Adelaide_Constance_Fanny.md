@@ -18,8 +18,4 @@ aliases:
 
 ## Presentación
 
-**Ref.:** el archivo (exploracion individual, [[Maristo]] + Constance)
-
-### el plano operativo
-
-Cuatro figuras femeninas dentro del [[Castillo_de_Siegling|Castillo de Siegling]], correspondientes a las cuatro esposas de la novela de Sade. Intermediarias entre los libertinos y las victimas. Constance es la mas desarrollada en el archivo: [[Maristo]] dialoga con ella y obtiene informacion sobre los ninos y la rutina del castillo. En la novela de Sade, Constance es la unica que muestra resistencia moral.
+Cuatro figuras femeninas dentro del [[Castillo_de_Siegling|Castillo de Siegling]], las cuatro esposas que la tradición sadiana enumera. Intermediarias entre los libertinos y las víctimas. Constance es la más desarrollada en el archivo: [[Maristo]] dialoga con ella y le saca información sobre los niños y la rutina del castillo. Es, de las cuatro, la única que muestra resistencia moral.

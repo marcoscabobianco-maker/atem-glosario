@@ -23,8 +23,8 @@ Criatura enfrentada en [[Paris_Ucronica|París]], presumiblemente vinculada al r
 
 ## Vinculos
 
-- [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] — campaña en la que se registra el combate contra la Rusalka en París
-- [[Paris_Ucronica|París Ucrónica]] — ciudad y sub-campaña donde ocurre el enfrentamiento; las riberas del Sena y las alcantarillas son el hábitat natural de este tipo de criatura
+- [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] — gesta en la que se registra el combate contra la Rusalka en París
+- [[Paris_Ucronica|París Ucrónica]] — ciudad y gesta donde ocurre el enfrentamiento; las riberas del Sena y las alcantarillas son el hábitat natural de este tipo de criatura
 - [[Catacumbas_de_Paris|Catacumbas de París]] — geografía subterránea húmeda de París que puede albergar criaturas acuáticas y espectrales como la Rusalka
 - [[Estela_Nereida|Estela — Nereida del calendario]] — otra criatura/entidad acuática femenina de París; contraste de naturaleza (elemental benigna vs. espíritu vengativo ahogado)
 - [[Shadowfell|Shadowfell]] — en cosmología Planescape, los espíritus de ahogados como las rusalkas conectan con el [[Shadowfell|Plano de las Sombras]] como plano de los muertos no reconciliados

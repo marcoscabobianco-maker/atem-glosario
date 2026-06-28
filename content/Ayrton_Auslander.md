@@ -119,3 +119,8 @@ imagen: null
 - **Establecimiento de tienda en Bastardo Cromas** — operación de "souvenirs" tras la mudanza
 - **Operación frustrada en Torre de Obsidiana** — intento de infiltración a Lord Valanthru
 - **1824 AE — ciclo presente** — operativo, tienda activa, secretos no comunicados
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El pícaro de la mano más veloz, miembro fundador de [[La_Jabalina]] —la banda nombrada que asciende de aventureros de [[Caldero]] a sujeto cosmológico—. Es su filo silencioso: en el [[Bazar_de_la_Vida]] ejecutó a [[Keygan_Ghelve]] y leyó las cerraduras intactas que delataron los secuestros, y opera la tienda del [[Bastardo_Cromas]] como antena de la banda. Quien entra habla; Ayrton escucha por el grupo.* — glosa de Arkos, el archivero del Plata.
+<!-- /CICLO -->

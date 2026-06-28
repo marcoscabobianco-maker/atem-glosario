@@ -26,3 +26,8 @@ Figura equivalente a George Washington en la ucronía de [[Antiterra_Demonia|Ant
 ### Posible Guardián de plataforma
 
  sugirió (2026-05-20) que **Washingstorm aparece como guardián de alguna de las plataformas zodiacales del [[Juego_de_las_Sombras]]** en algún momento del arco de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]: *"creo que incluso aparece como guardian Washing storm."* La fórmula del Juego —*"el que mata al guardián, se vuelve guardián"*— es consistente con la trayectoria de Washingstorm: liberado de la corrupción mágica/demoníaca por el grupo, **queda atado a otra estructura de poder** (el Congreso). La hipótesis de extiende esa atadura al sistema de plataformas: Washingstorm como **guardián cósmico atrapado** de uno de los signos zodiacales —signo específico pendiente de identificar—. Junto con las reinas (jeva, eslava, otras) y la [[Kimchi_Princess]] (Sagitario), Washingstorm completaría el cuadro de guardianes activos en la fase [[Les_Libertateurs_Pretty_Women|Les Libertateurs]].
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ⌖
+> *Washington fundido con Storm: la figura equivalente al padre fundador de la nueva América en [[Antiterra_Demonia|Antiterra]], liberado por [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] de una corrupción mágica para quedar atado a otra —baila ahora por orden del Congreso. La fórmula del [[Juego_de_las_Sombras|Juego de las Sombras]] —«el que mata al guardián se vuelve guardián»— lo alcanza: el archivo lo sospecha guardián de una de las plataformas zodiacales, junto a la [[Kimchi_Princess]]. Liberar a uno es ocupar su puesto; ningún trono queda vacante.* — glosa del archivero del Plata.
+<!-- /CICLO -->

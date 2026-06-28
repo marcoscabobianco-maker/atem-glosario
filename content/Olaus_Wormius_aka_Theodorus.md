@@ -38,7 +38,7 @@ epoca: "1051-1055 AD — Edad Templaria — Constantinopla"
 
 ## Presentación
 
-**Olaus Wormius** —también llamado **Theodorus** en su forma griega— es **hechicero-cronomante de Constantinopla**, perseguido en el ciclo ucrónico de 1055 por **traducir al griego una compilación extraña de conjuros blasfemos**. Vive entre alambiques y libros aún no prohibidos. En su laboratorio sopla un **sirviente invisible que mueve extraños vientos como arenas del desierto**. Viste y aconseja a los que llegan a él en el momento de presentarse en la corte imperial. Es **Hechicero Crónico** —su poder se mueve sobre el eje del tiempo— y eso lo hace **anomalía operativa** dentro de la mesa: aparece más joven o más viejo según el momento del cruce.
+**Olaus Wormius** —también llamado **Theodorus** en su forma griega— es **hechicero-cronomante de Constantinopla**, perseguido en el ciclo ucrónico de 1055 por **traducir al griego una compilación extraña de conjuros blasfemos**. Vive entre alambiques y libros aún no prohibidos. En su laboratorio sopla un **sirviente invisible que mueve extraños vientos como arenas del desierto**. Viste y aconseja a los que llegan a él en el momento de presentarse en la corte imperial. Es **Hechicero Crónico** —su poder se mueve sobre el eje del tiempo— y eso lo hace **una anomalía**: aparece más joven o más viejo según el momento del cruce.
 
 ### La copia del Libro Azul (Bizancio-Constantinopla, 1051-1055)
 

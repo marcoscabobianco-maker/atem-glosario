@@ -24,3 +24,8 @@ Isla rocosa en el [[Mar_Negro_Ucronica|Mar Negro]], presuntamente cerca de Crime
 ## Notas
 
 Posible referencia a la histórica Isla de las Serpientes (Zmiinyi) en el [[Mar_Negro_Ucronica|Mar Negro]], frente a la desembocadura del Danubio, territorio disputado entre Rumania y Ucrania. En la ucronía, la isla funciona como nexo geopolítico y arcano donde convergen nagas, vampiros (Círculo de Serbia) y rituales temporales. Ver también **[[Faro-Monolito_El_Faro|Faro-Monolito]]**, **[[Naga_Paris_Ucronica|Naga (París Ucrónica)]]**, **[[Circulo_de_la_Serpiente|Círculo de la Serpiente]]**.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Reducto del Círculo de Serbia en [[Paris_Ucronica|París Ucrónica]] cuyo [[Faro-Monolito_El_Faro|Faro-Monolito]] no es un faro: es una máquina de proyección temporal accionada por el [[Circulo_Simultaneo|Círculo Simultáneo]]. El piso cuatro entero —círculo de quince metros, abjuración y conjuración— existe para gastar y desplazar el tiempo; los conspiradores serbios y rusos disputan la isla por su reloj, no por su roca. Lo que A leyó como locación de un arco (AA-T.1), en C es la casa del tiempo-mercancía: una isla que vale por las eras que su torre puede traficar.* — glosa de Sucesos.
+<!-- /CICLO -->

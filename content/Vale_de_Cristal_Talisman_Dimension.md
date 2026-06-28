@@ -18,9 +18,14 @@ Lugar misterioso del [[Anti_Inferno|Descenso]] en el que el grupo logró estable
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña en la que el Vale funciona como refugio o llave de salida
+- [[Anti_Inferno|el Descenso (CDI)]] — gesta en la que el Vale funciona como refugio o llave de salida
 - [[Vala_Cristalis|Vala Cristalis]] — dimensión cristalina análoga; posiblemente el mismo locus bajo otro nombre
 - [[Ardis_Vala|Ardis Vala]] — el cristal de diez capas cuya naturaleza eco-dimensional resuena con el Vale
 - [[Castillo_del_Prisma|Castillo del Prisma]] — estructura cristalina mayor que podría contener o proyectar este Vale
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — la fortaleza infernal de la que el Vale sería una vía de escape
 - [[Semiplano_de_Oratiol|Semiplano de Oratiol]] — otro semiplano encapsulado de referencia cosmológica en el ATEM
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Refugio cristalino encajado en el fondo del [[Anti_Inferno|Descenso]], el Vale es un escalón más en la bajada por estratos: desde la [[Ciudad_de_Dis_CDI|Ciudad de Dis]] hacia arriba, la semilla de mostaza guardada en su interior es la llave que abre la salida hacia el [[Castillo_del_Prisma|Castillo del Prisma]]. Un universo entero metido en un puño —eco menor de [[Vala_Cristalis|Vala Cristalis]]—: el infierno no se atraviesa de un salto sino capa por capa, y cada capa esconde su propia puerta.* — glosa del Decadiano.
+<!-- /CICLO -->

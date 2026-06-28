@@ -85,16 +85,21 @@ El culto moderno se divide en dos unidades **cuasi-independientes**:
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Stephania_Set]] — suma sacerdotisa
 - [[Culto_de_Set]] — facción dominante
 - [[Halls_of_Thoth_Nivel|Halls of Thoth]] — Templo de Set superior está en los Halls of Thoth
 - [[Sanzorotita_Estefania|Sanzorotita Suma Estefanía]] — mujer enmascarada estética [[Marques_de_Sade_Hugo|Marqués de Sade]], posible identidad / aspecto de Stephania (a verificar)
 - [[Sir_Circalculo]] — Sun-Scarred Knight que pujó por el collar
-- [[Mundo_de_Archontos]] — setting cosmológico
+- [[Mundo_de_Archontos]] — el mundo cosmológico de fondo
 
 ## Apariciones
 
 - **Jornada documentada** — Subasta del collar maldito, los [[Buscadores_de_Ardis_Vala|Buscadores]] presentes
 - Jornadas posteriores — pasajes ocasionales, no como base
 - Referencias constantes en archivos
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El L04 del [[Mega_Dungeon_Arden_Vul|mega-dungeon]]: un piso numerado bajo los [[Halls_of_Thoth_Nivel|Halls of Thoth]] y sobre las [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]], donde el templo archonteano de Set se hundió en eras y el culto de [[Stephania_Set|Stephania]] resurgió noventa años atrás. El descenso estratifica la historia: cada nivel guarda una era distinta —la archonteana, la necrópolis de momias, los túneles rudishva del fondo— apilada como capa de tiempo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

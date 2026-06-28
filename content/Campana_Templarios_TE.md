@@ -1,28 +1,20 @@
 ---
-title: "Campaña Templarios (TE)"
+title: "Los Templarios del Tiempo (TE)"
 aliases:
- - "Campaña Templarios (TE)"
+ - "Los Templarios del Tiempo (TE)"
  - "TE"
+ - "Templarios del Tiempo"
  - "Campaña Templarios"
 ---
 
 ## Presentación
 
-- **el plano operativo:** Sub-campaña ambientada en Jerusalén durante las Cruzadas, c. 1119-1120 AD. Los compañeros son miembros o asociados de la Orden del [[Temple_complejo_TE|Temple]] en sus primeros años, bajo el mando de [[Hugo_de_Payns|Hugo de Payns]].. Nivel de inicio: 1.
-- **Ref.:**
-- **Nota lateral:** Primer ciclo del grupo corrido enteramente a distancia —voces reunidas sin cuerpo, en los días del Gran Encierro—. Funciona como ensayo antes de la gesta larga de [[Paris_Ucronica|París Ucrónica]]. Once jornadas conservadas en el archivo de voces. Siete voces + el cronista Pocopis.
-- **Nota:** La relación con el cosmos compartido es deliberadamente ambigua: "No sabemos si es el mundo que jugamos antes, o si es como una inserción o es otra versión". Sin embargo, al menos un compañero ([[Arsvan|Ärsvan]], ) reaparece en el Descenso como "templario condenado", lo que sugiere retroactivamente que TE es canónica.
-
-### el plano operativo
-
-Sub-campaña ambientada en Jerusalén durante las Cruzadas, c. 1119-1120 AD. Los compañeros son miembros o asociados de la Orden del [[Temple_complejo_TE|Temple]] en sus primeros años, bajo el mando de [[Hugo_de_Payns|Hugo de Payns]].. Nivel de inicio: 1.
+Crónica ambientada en Jerusalén durante las Cruzadas, c. 1119-1120 AD. Los compañeros son miembros o asociados de la Orden del [[Temple_complejo_TE|Temple]] en sus primeros años, bajo el mando de [[Hugo_de_Payns|Hugo de Payns]]. Es un ciclo breve: los protagonistas parten como noveles, recién entrados en la milicia del Temple.
 
 ### Nota lateral
 
-Primer ciclo del grupo corrido enteramente a distancia —voces reunidas sin cuerpo, en los días del Gran Encierro—. Funciona como ensayo antes de la gesta larga de [[Paris_Ucronica|París Ucrónica]]. Once jornadas conservadas en el archivo de voces. Siete voces + el cronista Pocopis.
+Primer ciclo del grupo levantado enteramente a distancia —voces reunidas sin cuerpo, en los días del Gran Confinamiento—. Funciona como ensayo antes de la saga larga de [[Paris_Ucronica|París Ucrónica]]. Once jornadas conservadas en el archivo de voces, recogidas por el cronista [[Pocopis]].
 
 ### Notas
 
-La relación con el cosmos compartido es deliberadamente ambigua: "No sabemos si es el mundo que jugamos antes, o si es como una inserción o es otra versión". Sin embargo, al menos un compañero ([[Arsvan|Ärsvan]], ) reaparece en el Descenso como "templario condenado", lo que sugiere retroactivamente que TE es canónica.
-
-**Ref.:**
+La relación con el cosmos compartido es deliberadamente ambigua: el archivo no resuelve si esta Jerusalén es una era anterior del mismo mundo, una inserción o una versión paralela. Sin embargo, al menos un compañero ([[Arsvan|Ärsvan]]) reaparece en el Descenso como "templario condenado", lo que sugiere retroactivamente que TE es canónica.

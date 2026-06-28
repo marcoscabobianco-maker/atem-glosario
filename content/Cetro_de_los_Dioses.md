@@ -32,7 +32,7 @@ Es **el elemento vinculante**: el que une la pieza fundacional (origen, creació
 
 ### La oscilación Cetro/Trono
 
-La grafía del artefacto oscila en las fuentes. Algunas registran **Cetro**, otras **Trono**. La diferencia no es solo nominal: cetro indica **vara regia portable**, trono indica **asiento de autoridad fijo**. Las dos formas conservan la **función de regencia** pero proyectan imaginarios distintos. La grafía canónica queda en cotejo pendiente con la mesa; el archivo registra ambas formas como válidas.
+La grafía del artefacto oscila en las fuentes. Algunas registran **Cetro**, otras **Trono**. La diferencia no es solo nominal: cetro indica **vara regia portable**, trono indica **asiento de autoridad fijo**. Las dos formas conservan la **función de regencia** pero proyectan imaginarios distintos. La grafía canónica queda pendiente de cotejo; el archivo registra ambas formas como válidas.
 
 ### Torneo de la Torre Eiffel
 
@@ -50,10 +50,15 @@ El Cetro como componente de la Vara fue **declarado en el registro segundo** de 
 - [[Gran_Khan]] — posible portador en el Torneo Eiffel (dos porciones)
 - [[Tarrasque_Antiterra|Tarrasque]] — posible portador (tercera porción)
 - [[Torneo_de_la_Torre_Eiffel]] — escenario de la disputa de las tres porciones
-- [[La_Jabalina|Caldero / La Jabalina]] — campaña 2024-25 donde se declara
+- [[La_Jabalina|Caldero / La Jabalina]] — gesta 2024-25 donde se declara
 
 ## Apariciones
 
 - Era primordial — junto a la Gema y la Piedra como componente original de la Vara
 - [[Torneo_de_la_Torre_Eiffel]] (1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]]) — una de las tres porciones disputadas
 - [[Caldero]] / [[La_Jabalina]] registro cont.2 — declaración canónica de la composición de la Vara
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *Sin esta pieza el mega-artefacto no está armado: el Cetro es el eje regio que une la [[Gema_de_la_Creacion|Gema]] con la [[Piedra_del_Apocalipsis|Piedra]] dentro de la [[Vara_del_Infinito]]. La triada se dispersa para poder cruzar campañas —dos porciones en manos del [[Gran_Khan]] como premio del [[Torneo_de_la_Torre_Eiffel]], la tercera dentro del [[Tarrasque_Antiterra|Tarrasque]] por cuenta de [[Seth]]— y sólo vuelve a ser una cosa cuando se reensambla en [[La_Jabalina]].* — glosa del Decadiano.
+<!-- /CICLO -->

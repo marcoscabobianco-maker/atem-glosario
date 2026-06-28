@@ -71,3 +71,8 @@ tags:
 - **Era primordial** — pertenece a [[Los_Antiguos]] con [[Wintons]], Vera, [[Mentol]], Zlbra
 - **Ataque a [[Mechanus]]** — cae en el ataque o en sus inmediaciones
 - **Juicio Final 1375 DR** — vence con [[Minaya_MC|Minaya]] a Takhishis usando Lanza y Gema; los dioses retroceden el tiempo a 1348 DR
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ✦
+> *Drow mago de [[Los_Antiguos]] que junto a [[Minaya_MC|Minaya]] empuñó la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]] —pieza fundacional de la Vara triádica— para vencer a Takhishis en el [[Juicio_Final]] y forzar a los dioses a retroceder veintisiete años en el tiempo. Cae en el ataque a [[Mechanus]], el robo del [[Artefacto_Engranaje|Engranaje]] sin el cual no hay [[Contienda_la|Contienda]]: muere primordial como mueren los que el ciclo siguiente recuerda como dioses.* — glosa de Amitlai.
+<!-- /CICLO -->

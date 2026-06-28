@@ -31,7 +31,7 @@ tags:
 
 ## Presentación
 
-Los **Archonteanos** son el **pueblo imperial dominante del [[Mundo_de_Archontos]]** —el setting de campaña de [[Ardis_Vala]]—. Su **capital es [[Archontos]]**, ciudad de **125.000 habitantes** sobre siete colinas y media en la isla **[[Mithruin]]**, en el centro del **Wine-Dark Sea**.
+Los **Archonteanos** son el **pueblo imperial dominante del [[Mundo_de_Archontos]]** —el mundo de gesta de [[Ardis_Vala]]—. Su **capital es [[Archontos]]**, ciudad de **125.000 habitantes** sobre siete colinas y media en la isla **[[Mithruin]]**, en el centro del **Wine-Dark Sea**.
 
 ### El imperio en cifras
 
@@ -47,7 +47,7 @@ El gran evento histórico que **fragmentó a Ardisvala** y **causó el retroceso
 
 - **Año 1775 AEP** — Agoreon destruida en la Guerra de los Sortianos y Teósofos
 - **2639 AEP** — retorno del imperio a Irthuin (~350 años antes de el regreso tras el Hiato-el archivo)
-- **Año actual de campaña**: **2993 AEP** (después del **[[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc/Elías]]**)
+- **Año actual de gesta**: **2993 AEP** (después del **[[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc/Elías]]**)
 
 **Las dos facciones del cisma**:
 
@@ -108,9 +108,9 @@ Los Sortianos están vinculados a **[[Priscus_Pulcher|Prisco Electe]]** (figura 
 
 ## Vínculos
 
-- [[Mundo_de_Archontos]] — setting completo
+- [[Mundo_de_Archontos]] — mundo completo
 - [[Mega_Dungeon_Arden_Vul]] — su construcción mayoritaria
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Ardis_Vala]] — ciudad imperial caída
 - [[Archontos]] — capital
 - [[Mithruin]] — isla capital
@@ -125,6 +125,11 @@ Los Sortianos están vinculados a **[[Priscus_Pulcher|Prisco Electe]]** (figura 
 
 ## Apariciones
 
-- **Trasfondo de toda la campaña Ardis Vala** — los [[Buscadores_de_Ardis_Vala|Buscadores]] son ciudadanos imperiales (Valerius, Bayrum) o foráneos ([[Caladan]], Alumine)
+- **Trasfondo de toda la gesta Ardis Vala** — los [[Buscadores_de_Ardis_Vala|Buscadores]] son ciudadanos imperiales (Valerius, Bayrum) o foráneos ([[Caladan]], Alumine)
 - **el archivo** — encuentro con mensaje sortiano de [[Priscus_Pulcher|Prisco Electe]]
 - **el regreso tras el Hiato** — referencias a la edad de plata imperial que intenta reocupar [[Ritornello]] (interrumpida por la bomba)
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]] es un corte geológico de eras, y la capa archonteana es la más reciente y predominante: bajo ella yacen la [[Heqeti]] (~3.400 años) y la [[Rudishva]] (~3.000), sobre ella la [[Varumani]] moderna. El imperio de [[Archontos]] que la construyó cuenta él mismo ~3.000 años de estratos —con el retroceso temporal de la Guerra de [[Sortianos]] y [[Teosofos|Teósofos]]—, y excavar sus Halls of Thoth es bajar por las edades del mundo de [[Mundo_de_Archontos|Archontos]].* — glosa del archivero del Plata.
+<!-- /CICLO -->

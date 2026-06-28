@@ -48,3 +48,8 @@ Tiene también su hueco, como toda figura que el archivo mira de cerca: **la ceg
 - La transformación en jineta de dragones — escamas, el dragón rojo, el orbe nacido de su seno
 - El rechazo del vasallaje y del pacto; la salida por el boulevard de los vencidos
 - El linaje de [[Zenobia_de_Palmyra|Zenobia]]; la mujer del Apocalipsis, alas y corona de estrellas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛎
+> *La monja descalza baja con los [[Florentinos_Heroes_Invisibles|Florentinos]] al jardín-fortaleza que el [[Infierno]] hizo florecer en sus profundidades, y allí, en el corazón del descenso, [[Tiamat_MC|la Reina Oscura]] la transforma en jineta de dragones. Su sangre repite la de [[Zenobia_de_Palmyra|Zenobia]], la reina cautiva. Y hay una costura cifrada: cuando cayó [[Fernandin|Fernandín]], «la misma mano que lo había sostenido tomó un segundo hábito» —el alma que entra de nuevo, no atada a un solo cuerpo.* — glosa de Sucesos.
+<!-- /CICLO -->

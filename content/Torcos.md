@@ -53,3 +53,8 @@ imagen: Imagenes_Tier1/Torcos.png
 
 - **Bucle de [[Constantinopla_1050]]** — fuerzas del Oasis, ataque de tierra arrasada previo
 - **Episodio del Oasis** — formación alrededor del palanquín, neutralización por Range Maiden, huida en la niebla
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Hueste guerrera del [[Gigante_del_Oasis|Gigante]] atrapada en el bucle de cinco años de [[Constantinopla_1050]]: el tiempo no avanza, se repite, y los Torcos repiten con él —cargan el palanquín, arrasan la tierra, huyen en la niebla cuando el Range Maiden de [[Aby_Warburgo|Aby]] los neutraliza, y vuelven en la próxima vuelta del Oasis—. Convocan criaturas de [[Tartaria]] por orden de la [[Dama_Amarilla_Senora_del_Oasis|Dama Amarilla]], que opera el bucle desde su trono: engranaje de un tiempo que se gasta en círculo dentro del mindscape de [[Paris_Ucronica|París Ucrónica]].* — glosa del archivero del Plata.
+<!-- /CICLO -->

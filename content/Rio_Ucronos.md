@@ -63,3 +63,8 @@ imagen: null
 - **Era primigenia** — cauce activo del tiempo, intercambio entre planos vigente
 - **Fase de estancamiento** — flujo residual pero continuado
 - **1824 AE — ciclo presente** — río activo, energía cosmológica residual sostenida
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ☯
+> *Un río que no lleva agua sino tiempo: cauce primigenio del mundo-gema [[Vala_Cristalis]], del que beben todas las operaciones cronománticas del cosmos —[[Vitalis]] con la balsa, [[Tony_Malatesta]] con el reloj de la Torre Eiffel, [[Pablo_el_Cronomante|Pablo]] en la [[Capilla_Oscura]]—. Su lecho conserva vestigios de capas antiguas que susurran épocas donde el río corría por otros cauces: el tiempo prestado y gastado, y a la vez la simetría del mundo-gema que refleja al otro hemisferio.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

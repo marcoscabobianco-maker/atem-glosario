@@ -30,7 +30,7 @@ Pero el conjuro no se conforma con citar a los antiguos: los cruza con la propia
 
 En el texto se nombra a **[[Miguel]] Cázares**, figura imprecisa que ronda los anaqueles. El archivo no establece con certeza si fue otro bibliotecario de la casa, una máscara más del que mueve los hilos de la consulta, o un nombre puesto para que el lector que sabe lo reconozca y el que no lo deje pasar. La ambigüedad no es un descuido del registro: en una escena donde el oráculo es un catalogador y el conjuro es una ficha, conviene que el guardián del signo no tenga rostro fijo.
 
-## Eco trans-campaña
+## Eco trans-gesta
 
 Borges no aparece por primera vez en el archivo cuando lo visita la gesta malvinense. Es de esas figuras que el cronista encuentra cruzando umbrales en más de un ciclo: el bibliotecario universal cuya función es siempre la misma —entregar la llave verbal, custodiar la obra cuya lectura completa daña, señalar en qué estante late lo que no conviene despertar. La mesa que conserva estos hechos anota que tocarlo aquí *combinó dos historias suyas*: el mismo hombre, el mismo gesto de catalogar el abismo, atado por los dos extremos a tramas distintas del Archivo. La invocación de 1966 es uno de esos extremos.
 
@@ -40,7 +40,7 @@ La fórmula no es un adorno literario: traza el mapa de la gesta. Yog-Sothoth co
 
 ## Notas
 
-Jorge Luis Borges dirigió efectivamente la Biblioteca Nacional —en esos años aún en su sede de la calle México— y la diégesis lo conserva tal cual, sin seudónimo, igual que conserva el resto de los nombres verdaderos por donde la campaña entra al Mythos. La fórmula invocada es un calco argentinizado de *El horror de Dunwich* trenzado con motivos del propio Borges (Tlön, Uqbar, Orbis Tertius; el signo en la biblioteca). El registro físico de la escena se guarda en el cuaderno 99.
+Jorge Luis Borges dirigió efectivamente la Biblioteca Nacional —en esos años aún en su sede de la calle México— y la diégesis lo conserva tal cual, sin seudónimo, igual que conserva el resto de los nombres verdaderos por donde la gesta entra al Mythos. La fórmula invocada es un calco argentinizado de *El horror de Dunwich* trenzado con motivos del propio Borges (Tlön, Uqbar, Orbis Tertius; el signo en la biblioteca). El registro físico de la escena se guarda en el cuaderno 99.
 
 ## Ver también
 

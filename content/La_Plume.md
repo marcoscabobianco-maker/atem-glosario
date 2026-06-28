@@ -37,3 +37,8 @@ Sucesos de [[Antiterra_Demonia|Antiterra]] pp. 4-6 (gesta de
 [[Les_Libertateurs_Pretty_Women|Les Libertateurs]], 1715-1784 [[Anno_Domini_Antiterra_ADA|A.D.A.]]).
 
 ## Presentación
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *«El espadachín del siglo» no pesa por su biografía —escasa en el archivo— sino por su lugar en la sigla: es la hoja de [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]], la destreza que [[Oratiol]] nombra una y otra vez en su crónica epistolar, al lado del diplomático [[Casemiro]]. El individuo casi desaparece; lo que dura es la banda que lo cita.* — glosa de Sucesos.
+<!-- /CICLO -->

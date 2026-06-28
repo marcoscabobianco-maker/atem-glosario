@@ -51,7 +51,6 @@ Lo que la guía no te explica —*porque las guías de viaje no explican lo que 
 > — **Ardis** = *"lugar de la flecha"* en griego etíope del **Libro 1 de Enoc / Libro de los Vigilantes**: monte donde los Vigilantes descendieron a tomar mujer y enseñar artes prohibidas. **Eco simultáneo en Nabokov**: *[[Ardis_Hall]]*, paraíso perdido de Van y Ada en *Ada or Ardor*. **Una sola palabra, dos referencias literales**. El [[Rerum_divinarum_et_humanarum]] conserva la escena con su cifra exacta: *"eran **doscientos** los que bajaron a Ardis en [[Antiterra_Demonia|Antiterra]] — la cima del monte Hermón, al que llamaron así porque en él **juraron y se comprometieron bajo anatema**"*.
 > — **Vala** = *Vala, or The Four Zoas* de William Blake (poema inacabado, libreta cosida a mano, doce años de corrección). **Da nombre al mundo trans-fases**.
 > — **Ardis Vala y Ardis Vala son dos caras del mismo evento**: la flecha (Ardis) cae sobre **el par Vala/Vala** simultáneamente. **Vala** = mundo blakeano de tres fases; **Vala** = mundo-gema de [[Caldero]]. *Se ven separados porque Vala y Vala son mundos hermanos*, pero **la flecha es una sola**. *Se confunden con razón*.
-> — *Advertencia operativa*: **en transcripciones de dictado a Wispr (y herramientas afines)**, las variantes **"Ardis Vala"** o **"Arden Bull"** suelen ser **errores de transcripción del audio donde el cronista dijo "Ardis Vala"**. *Caso ambiguo*: chequear contra contexto antes de tratar como entidad distinta.
 
 Las tres lecturas son una sola, si uno aprende a leerlas sin apuro. **Pero el apuro existe**, anota el cronista, *y por eso los doctrinarios suelen elegir una y pelearse con las otras dos*.
 
@@ -143,9 +142,9 @@ Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] regresen —si regresan, dice
 
 ---
 
-## La campaña operativa — los diez niveles del Mega-Dungeon
+## La gesta operativa — los diez niveles del Mega-Dungeon
 
-**Lo que los Buscadores tienen entre manos** —*lo que la crónica presente recorre en su ciclo más reciente*— **es la cartografía descendente de Ardisvala como mega-dungeon**. *La superficie del setting es [[Gosterwick]] / [[Glastonbury]]*, **al pie de la Gran Cascada**, **con dos estatuas colosales (una arrodillada con espada y yelmo corintio, otra encapuchada)**, *ruinas de la ciudad antigua arriba*.
+**Lo que los Buscadores tienen entre manos** —*lo que la crónica presente recorre en su ciclo más reciente*— **es la cartografía descendente de Ardisvala como mega-dungeon**. *La superficie del mundo es [[Gosterwick]] / [[Glastonbury]]*, **al pie de la Gran Cascada**, **con dos estatuas colosales (una arrodillada con espada y yelmo corintio, otra encapuchada)**, *ruinas de la ciudad antigua arriba*.
 
 Bajo y dentro de esas ruinas, **diez niveles principales**:
 
@@ -193,7 +192,7 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 3. **El Cisma Mágico** — [[Sortianos]] democráticos vs Teósofos elitistas.
 4. **El Conflicto con Set** — enemigos del culto tras el robo de los rubíes.
 5. **La Diplomacia Subterránea** — navegación faccional, propuesta de Feria.
-6. **El [[Misterio]] Tecnológico** — los **[[Rudishva]]**, el **[[Beacon]]** (nave alienígena de ~3000 años).
+6. **El Misterio Tecnológico** — los **[[Rudishva]]**, el **[[Beacon]]** (nave alienígena de ~3000 años).
 7. **"El Tiempo se Vuelve Espacio"** — doctrina del dungeon-cristal.
 8. **La Redención de la Orden** — [[Caladan]] vampirizado por Malakita; los Buscadores eliminan a Malakita y al [[Masracht_Prism_Keep|Masracht del Prism Keep]] (padre del Arian/[[Caladan]]), toman la Orden.
 9. **La Bomba / Huevo / Destrucción de [[Ritornello]]** — [[RAJ-750]] IA, los trolls la usan para destruir [[Ritornello]], "fecha fatídica" de 18 días activa al cierre del ciclo primero.
@@ -231,13 +230,13 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 
 ## Caldero como antecedente
 
-**Ardisvala es secuela narrativa de [[La_Jabalina|Caldero / La Jabalina]]**. *Los compañeros de [[Caldero]] dejaron el mundo-gema [[Vala_Cristalis|Vala Cristalis]] y **emergen en el setting Vala / Ardisvala***. **La [[Vala_Cristalis]] sigue siendo capa cosmológica activa**; *el mundo-gema interior continúa como referencia*. Ardisvala opera **arriba o afuera** del mundo-gema, con la geografía propia del setting Vala.
+**Ardisvala es secuela narrativa de [[La_Jabalina|Caldero / La Jabalina]]**. *Los compañeros de [[Caldero]] dejaron el mundo-gema [[Vala_Cristalis|Vala Cristalis]] y **emergen en el mundo Vala / Ardisvala***. **La [[Vala_Cristalis]] sigue siendo capa cosmológica activa**; *el mundo-gema interior continúa como referencia*. Ardisvala opera **arriba o afuera** del mundo-gema, con la geografía propia del mundo Vala.
 
 ---
 
 ## Vínculos
 
-- [[Vala]] — setting trans-fases del que Ardisvala es la actual
+- [[Vala]] — mundo trans-fases del que Ardisvala es la actual
 - [[Vala_Antigua]] · [[Vala_del_Medioevo]] — fases anteriores
 - [[Vala_Cristalis]] — la capa de cristal que explica la cifra
 - [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]] — mundo-gema hermano (lectura "Ardis Vala")
@@ -266,7 +265,7 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 - **Gran Cisma Mágico** — caída por guerra civil
 - **Hundimiento del cristal** — cristalización en diez capas zodiacales (Acuario superficial, Aries en el fondo)
 - **Beacon caído hace 3000 años** — sub-nivel pre-imperial
-- **Año 2993 después del [[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc]]** — fecha de juego canónica del ciclo primero
+- **Año 2993 después del [[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc]]** — fecha canónica del ciclo primero
 - **Ciclo primero — descenso de los Buscadores** — mapeo de los diez niveles
 - **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — silencio y formación de Valakhan
 - **Ciclo presente — bruma sobre la cristalería** — Caladan arriba, Papa abajo, fiebre blanca, sospecha de la decimoprimera capa

@@ -23,11 +23,11 @@ tags:
  - campaña-activa
 ---
 
-> *Criatura demoníaca a la que Valerius pidió un deseo. La espada compañera (sangrante de ácido) y la llave del Circuito de Medianoche fueron las ofertas. Acepta y abre brecha de poder oscuro. Grafía aproximada — campaña activa.*
+> *Criatura demoníaca a la que Valerius pidió un deseo. La espada compañera (sangrante de ácido) y la llave del Circuito de Medianoche fueron las ofertas. Acepta y abre brecha de poder oscuro. Grafía aproximada — saga activa.*
 
 ## Presentación
 
-**Labresu** —grafía aproximada, dictada por — es **criatura demoníaca / extra-planar** a la que **[[Valerius_Utrecht]]pidió un deseo / hizo un pacto** durante la corrida original de [[Arden_Vul|Ardis Vala]]. Su intervención fue **clave en el arco de poderes oscuros** que llevó al paladín a duda ética profunda.
+**Labresu** —grafía aproximada— es **criatura demoníaca / extra-planar** a la que **[[Valerius_Utrecht]] pidió un deseo / hizo un pacto** durante la corrida original de [[Arden_Vul|Ardis Vala]]. Su intervención fue **clave en el arco de poderes oscuros** que llevó al paladín a duda ética profunda.
 
 ### El pacto
 
@@ -35,7 +35,7 @@ tags:
 
 > *"La espada afilada, sangrante de ácido, que había obtenido con un deseo o pedido a un labresu, el paladín que está tan en duda por sus fallos de poderes oscuros y por su ética, que permitió que entrara en este mundo. O mejor dicho, que este mundo cayera a Ravenloft de la mano de [[Caladan]], alguien en quien confió y que terminó siendo la devastación con la fiebre blanca de todo este pueblo."*
 
-**Mecánica del deseo**:
+**El trato**:
 
 1. **Valerius pidió un deseo** a Labresu
 2. Labresu ofreció **dos artefactos**:
@@ -51,14 +51,7 @@ tags:
 
 ### Identidad del Labresu
 
-**Grafía**: dictado *"Labresu"* puede corresponder a:
-
-- **Lasher** —tipo de demonio menor del *Manual of the Planes* / *Monstrous Manual*
-- **Pseudonatural / Aberrant fiend** —criatura extra-planar híbrida
-- **Wish-granting outsider** específico custom 
-- Variante regional de **larva / lemur** abismales
-
-**A verificar grafía con el archivo en jornadas siguientes**. Por ahora, **Labresu = entidad demoníaca otorgadora de deseos** con preferencia por contratos con paladines en momento de debilidad.
+La grafía *"Labresu"* queda **por confirmar con el archivo en jornadas siguientes**. Por ahora, **Labresu = entidad demoníaca otorgadora de deseos**, con predilección por los pactos con paladines en su hora de debilidad —de las que tientan ofreciendo justo lo que el caído cree necesitar—.
 
 ### Conexión con Graz'zt / Ardipithecus
 
@@ -68,15 +61,9 @@ La **espada que Labresu entregóportaba dentro a [[Ardipithecus|Graz'zt como pro
 - **El "deseo" era trampa**: Valerius recibió ítems de poder a cambio de **abrir vía al abismo**
 - **[[Grazzt|Graz'zt]] durmió en la espada** hasta su despertar en el regreso tras el Hiato ([[Ardipithecus]] emergente del incidente con la espada de Valerius)
 
-### Función narrativa
+### Su lugar en la trama
 
-Labresu es **el demonio menor de la trampa cosmológica mayor**. Mecánicamente equivalente a:
-
-- **Devils contractuales** ([[Baatezu]]) ofreciendo poder con costo de alma
-- **Ginsey** (deseo) con costo cósmico
-- **Dybbuk / Possessor** que entra vía pacto
-
-Su **función estructural**: **disparar el arco trágico de Valerius** desde paladín íntegro hacia paladín en duda con poderes oscuros. **Su intervención es el "pecado original" del retorno post-hiato** —junto a la entrega del huevo bomba por los [[Buscadores_de_Ardis_Vala|Buscadores]]—.
+Labresu es **el demonio menor de una trampa cosmológica mayor** —de la estirpe de los que conceden deseos a cambio del alma, o se infiltran en un mundo por la rendija de un pacto—. Lo que su trato desató fue **el arco trágico de Valerius**, que de paladín íntegro pasó a paladín en duda, con sus poderes oscurecidos. **Su intervención es el "pecado original" del retorno post-hiato** —junto a la entrega del huevo bomba por los [[Buscadores_de_Ardis_Vala|Buscadores]]—.
 
 ## Vínculos
 
@@ -88,7 +75,7 @@ Su **función estructural**: **disparar el arco trágico de Valerius** desde pal
 - [[Valakhan_de_la_Bruma]] — dominio resultante
 - [[Palacio_del_Prisma]] — círculo de invocación donde Valerius peleó con el demonio el regreso tras el Hiato
 - [[Ardipithecus]] — entidad emergente del contenedor de la espada
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

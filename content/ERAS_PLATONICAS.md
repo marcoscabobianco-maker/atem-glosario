@@ -148,3 +148,8 @@ La cronología del archivo —reunida en `Cronica_del_Archivo.md`— se escribe 
 Conforme se vayan etiquetando, la [[Cronica_del_Archivo]] se actualiza automáticamente. El campo `epoca:` es el único requisito.
 
 *— Akala*
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷ ✒
+> *Las catorce eras son el andamio del cosmos gemelo: corren en cauces paralelos que no se traducen entre sí —1375 DR y 1888 [[Anno_Domini_Antiterra_ADA|A.D.A.]] son tiempos de subcosmos distintos que el archivero reúne en una sola sombra—, y entre ellas la Edad del Descenso opera en tiempo invertido, estratificada como el [[Anti_Inferno|Foso]] que se baja de a un círculo. Quien las ordena no es neutral: la voz que escribe la cronología es [[Akala]], amanuense del cronista del Plata, personaje del propio mundo que glosa desde un final que no puede declarar.* — glosa de Akala.
+<!-- /CICLO -->

@@ -41,7 +41,7 @@ A la vez, Mordecai no reniega de sus amos verdaderos. Invoca a **Dagón** y a la
 
 ## Notas
 
-El registro físico de la gesta —el cuaderno 99— guarda a este cultista bajo el nombre de Mordecai, sin más filiación que su oficio de pescador y su pertenencia a la Orden. Su captura y su confesión son una de las bisagras de la campaña malvinense: el instante en que la conspiración deja de ser sólo batracia y se revela también humana, política y porteña, con la cofradía del abismo trabajando por encargo de una logia del continente.
+El registro físico de la gesta —el cuaderno 99— guarda a este cultista bajo el nombre de Mordecai, sin más filiación que su oficio de pescador y su pertenencia a la Orden. Su captura y su confesión son una de las bisagras de la gesta malvinense: el instante en que la conspiración deja de ser sólo batracia y se revela también humana, política y porteña, con la cofradía del abismo trabajando por encargo de una logia del continente.
 
 ---
 

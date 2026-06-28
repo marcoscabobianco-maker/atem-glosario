@@ -97,6 +97,11 @@ En la puerta de la Torre, mientras esto ocurre, aparece clavado el cuerpo de **[
 
 - 1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]] — el torneo (fecha diegética declarada)
 - *[[Sucesos_de_Antiterra]]* — referencias del cierre del ciclo
-- WelcomeBackHENRILAFRANCE.pdf — contexto previo, llegada de Henri
-- Unión Arian y la [[Gema_de_la_Creacion|Gema de la Creación]].txt — desenlace del deseo del Ñomo
-- C50 p.22 — ilustración de cuaderno
+- El regreso de Henri a Francia — contexto previo, su llegada
+- La unión de Arian y la [[Gema_de_la_Creacion|Gema de la Creación]] — desenlace del deseo del Ñomo
+- Ilustración conservada en el archivo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ △ ☷
+> *El evento donde [[Los_Reguladores]] —la banda nombrada del ciclo— se consagran como sujeto cosmológico: ganan París, el millón de almas y el control del eclipse, y la ciudad empieza a volverse [[Sigil]]. La condición de victoria es triádica: ensamblar las tres porciones de la [[Gema_de_la_Creacion|Gema de la Creación]] en la [[Copa_de_Cien_Deseos|Copa de Cien Deseos]] —una en el [[Tarrasque_Antiterra|Tarrasque]] que carga a [[Seth]]— para abrir un orden cosmológico. Y la torre misma es descenso por estratos invertido: mil cien metros de palo enjabonado prismático que estratifica la prueba, hasta que [[Faragod]] cae del cielo y clava a Seth en la cima.* — glosa del Decadiano.
+<!-- /CICLO -->

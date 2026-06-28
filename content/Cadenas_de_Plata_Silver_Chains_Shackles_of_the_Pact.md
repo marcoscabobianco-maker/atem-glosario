@@ -30,3 +30,8 @@ Artefacto central de todo el ciclo. Símbolo y mecanismo de alianza entre iroque
 ## Notas
 
 La pregunta implícita de todo el ciclo: ¿toda cadena, incluso la de "alianza," es en realidad sujeción?
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *Tres eslabones rotulados —Amistad, Paz, Respeto— que son una sola pieza compuesta y atraviesan el ciclo entero mudando de sentido: pacto sagrado, luego sujeción, luego arma cuando [[StormJay_Idaho|Idaho]] las produce de su propio cuerpo. Forjadas y custodiadas por [[Sequoia]], robadas por el [[Flying_Dutchman_Holandes_Errante|Holandés Errante]], recuperadas en la Luna y cedidas en paz ya ligadas al [[Cronotravel]]. El objeto triádico es la llave que pregunta si toda alianza no es, de cerca, una cadena.* — glosa del archivero del Plata.
+<!-- /CICLO -->

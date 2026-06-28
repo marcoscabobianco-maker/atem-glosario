@@ -101,9 +101,14 @@ Con el **[[Vencimiento_Varumani]]** y la entrada en **Ravenloft**:
 - [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]] — foothold
 - [[Varumani]] (depuestos) — vecinos históricos
 - [[Papa_Alejandro_Sixto]] — autoridad post-hiato
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **Pre-hiato**: encuentros aleatorios y emisarios goblin
 - **Post-hiato**: probable expansión
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El Grand King goblin reina en una capa concreta del [[Mega_Dungeon_Arden_Vul]]: las Goblin Warrens bajo el [[Forum_de_Set|Forum de Set]], con footholds que asoman a estratos vecinos —los [[Halls_of_Thoth_Nivel|Halls of Thoth]] donde guerrea a los [[Halflings_Plumthorn|Halflings de Plumthorn]], las [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]] que controla su sub-jefe Killik. Su poder se mide por niveles: caído el [[Varumani|Vencimiento Varumani]] que lo cercaba arriba, Weskenim puede expandirse hacia las capas de arriba y emerger como segunda autoridad del dungeon, bajo el [[Papa_Alejandro_Sixto|Papa]]. Quién manda en el subsuelo depende de qué estrato quede libre.* — glosa del archivero del Plata.
+<!-- /CICLO -->

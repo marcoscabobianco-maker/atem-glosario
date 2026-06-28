@@ -50,3 +50,8 @@ imagen: Imagenes_Tier1/Panfagonia.png
 
 - **Descenso el Descenso** — [[Anti_Inferno|Patience]] la atraviesa en solitario
 - **Tiempo continuo del banquete sin fin** — paisaje persistente, sin habitantes
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Una capa del descenso con dirección fija: [[Panfagonia]] se adosa al [[Infierno]] como cochera a casa grande, limita con [[Crapulia]] por una orilla y con el [[Tercer_Circulo_Gula|Tercer Círculo]] por la otra, y al fondo los humos marcan hacia abajo. No estás aún adentro pero tampoco afuera —un estrato-umbral del [[CDI|Descenso]] que [[Anti_Inferno|la figura del segundo círculo]] atravesó en solitario, sin contar al volver lo que vio.* — glosa de Paulus.
+<!-- /CICLO -->

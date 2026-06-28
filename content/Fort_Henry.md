@@ -27,4 +27,4 @@ Fuerte colonial en Virginia, punto de partida de la expedición. Enclave de la f
 
 ## Notas
 
-Lugar donde se establece el primer conflicto colonial de la campaña.
+Lugar donde se establece el primer conflicto colonial de la gesta.

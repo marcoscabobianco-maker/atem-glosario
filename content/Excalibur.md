@@ -45,3 +45,8 @@ de posesión de poder en contexto de guerra y endemoniamiento.
 ## Links externos
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Excalibur)
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *Espada del gran rey que el archivo importa entera de la materia artúrica y enchufa a su propio cosmos: objeto-llave que viaja de una leyenda a otra. Su gracia es que la misma hoja sirve a dos manos opuestas en [[Torregrises]] —[[Dolores]] la porta como prenda noble de poder legítimo, [[More]] endemoniado por [[Lubina]] la lleva como "espada de la vergüenza"—, de modo que el artefacto trans-campaña juzga moralmente a quien lo empuña.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -25,3 +25,8 @@ Matón colosal, "de pocas pulgas." Acompañante del [[Moni_Vivescu|Príncipe Viv
 ## Notas
 
 Minion grotesco típico de Steampunk. Rasgos sobrenaturales (piel azul, cornamentas) sugieren transformación mágica o naturaleza infernal. Junto a [[La_Salud|La Salud]] forma par de antagonistas menores.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Matón colosal al servicio del [[Moni_Vivescu|Príncipe Vivescu]], con su piel azulada y sus cornamentas: ese cuerpo es la marca del hemisferio. La piel azul no es deformidad sino el sello de la [[Paris_Ucronica|ucronía]], el lado contagiado del cosmos gemelo; en [[Les_Halles|Les Halles]] oficia con [[La_Salud|La Salud]] un ritual de harina y maldición, porque el otro hemisferio respira por sus agentes infernales.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

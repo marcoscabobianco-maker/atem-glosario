@@ -76,7 +76,7 @@ Apareció en escena durante el episodio de la taberna en jornada [[Paris_Ucronic
 | Bonus por identificar a [[La_Serpiente|La Serpiente]] | 1000 francos | si se logra |
 | **Total potencial** | **2000 francos** | |
 
-**[[Escenario]] físico del encuentro**: **escritorio de caoba** *(lujo, poder)*, **globo terráqueo** *(alcance global)*, **guardias de palacio en puertas**, **atmósfera de autoridad estatal**.
+**Escenario físico del encuentro**: **escritorio de caoba** *(lujo, poder)*, **globo terráqueo** *(alcance global)*, **guardias de palacio en puertas**, **atmósfera de autoridad estatal**.
 
 **Objeción ideológica de Claude**: [[Claude_Nauge|Claude]] **rehúsa firmar el contrato formal** por objeción a trabajar para aristocracia ancestral, **pero acepta los 500 francos como civil**. *Distinción jurídica fina que el archivero del Plata anota como manifiesto político*.
 
@@ -86,3 +86,8 @@ Apareció en escena durante el episodio de la taberna en jornada [[Paris_Ucronic
 - **Ministerio de Asuntos Exteriores** — revelación del Etrusco como contratante real
 - **Jornadas siguientes** — contratos sucesivos, contacto del grupo durante viaje a [[Bucarest_Ucronica|Bucarest]]
 - **Ciclo presente** — el [[Palacio_del_Tiempo|Palazzo del Tempo]] sigue operativo bajo su dirección
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *El funcionario que administra el tiempo como otras oficinas administran certificados de nacimiento: en su mesa del [[Palazzo_del_Tempo]] pasan, antes de ocurrir, las Richieste di Diramazione Temporale, y lo no autorizado no acontece. "El tiempo no es absoluto, es administrado" no es metáfora sino descripción técnica —doctrina del [[Decadiano]] atornillada al escritorio—. Cobra el viaje por contrato: quinientos francos por cabeza a los [[Time_Bandits]], aunque [[Claude_Nauge|Claude]] se niegue a firmar.* — glosa del archivero del Plata.
+<!-- /CICLO -->

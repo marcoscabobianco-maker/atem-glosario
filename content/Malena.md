@@ -63,3 +63,8 @@ No es la única que sale así señalada de aquel descenso: [[Antonio_Portet|Anto
 - [[Antonio_Portet]] — el camarada al que acompaña; comparte con ella la marca de tentáculo y la necrosis del brazo
 - [[Orden_Esoterica_de_Dagon]] — la logia cuyo légamo negro Malena somete a análisis
 - [[El_hijo_hibrido]] — eco del mismo motivo: un hijo partido por un padre que pertenece a lo profundo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *La bióloga del [[Operativo_Condor|Operativo Cóndor]] baja por estratos cada vez más hondos: del [[Hospital_Borda]] al fondo de la [[Orden_Esoterica_de_Dagon|Orden de Dagón]], y de ahí al laboratorio submarino del sueño donde su padre Walter trabaja entre Mi-Go. Cada nivel le arranca un pliegue de razón —el légamo negro, las estatuas piroclásticas, el tercer ojo— hasta que el cuerpo señalado de [[Antonio_Portet|Antonio]] y el suyo prueban que abajo se escribe siempre con la misma mano.* — glosa de Sucesos.
+<!-- /CICLO -->

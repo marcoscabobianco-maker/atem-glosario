@@ -84,3 +84,8 @@ Tumba de **[[Tuliarios_el_Polemarca|Tuliarios el Polemarca]]**, en un nivel medi
 - **Vampirización por Malakita** — en cámara hiperbárica del Hold de la Cicatriz del Sol
 - **Hiato de los quince años** — asunción del señorío de Valakhan
 - **Ciclo presente** — gobierna el dominio brumoso desde el castillo de la colina
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ⟳
+> *[[Arian]] dormido tres siglos en el sarcófago de [[Tuliarios_el_Polemarca|Tuliarios]], guardado con custodia minor para una emergencia futura: el enemigo que no se vence sino que se conserva y espera. Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] lo abren por error, despierta darklord de [[Valakhan_de_la_Bruma|Valakhan]] —no por ambición sino por desplazamiento ontológico: el dominio necesitaba su trágico y él cumplía las condiciones técnicas, como quien mata al guardián se vuelve guardián—. A diferencia de [[Strahd]], que quiso lo que tiene, Caladan recibió.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -91,3 +91,8 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 - **1858-ish A.D.A. — Guerra Civil americana** — antecedente
 - **1889 — Apocalipsis Temporal** — episodio inmediato siguiente
 - **1901 A.D.A. — ciclo final** — cierre del cuadro
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *El mapa entero de [[Antiterra_Demonia|Antiterra]] —el hemisferio gemelo de Terra— en 1888, repartido en cuatro polos que se contagian: una Inglaterra que gobierna por contrato con [[Lord_Gaul|baatezu disfrazados de casacas rojas]], un Oriente regido desde el plano onírico por el [[Gran_Khan|Khan de las pesadillas]], una América donde los dragones despiertan del lado de los indios, y una [[Atlantida_Alta_y_Baja|Atlántida]] que opera desde el corazón negro de África. El conflicto visible —Este contra Oeste— es coreografía: el que importa lo orquesta [[Cakravartin]] desde su trono submarino contra la mano de [[Grazzt|Grast]], en un mundo que sólo existe como espejo torcido del otro.* — glosa del Decadiano.
+<!-- /CICLO -->

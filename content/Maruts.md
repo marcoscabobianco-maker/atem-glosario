@@ -21,15 +21,15 @@ tags:
  - masracht
 ---
 
-> *Criaturas axiales de la legalidad cósmica. Catálogo planar clásico. Custodian al Masracht prisionero en el Prism Keep. Referencia del [[Bazaar_de_San_Dragon|Bazaar de San Dragón]].*
+> *Criaturas axiales de la legalidad cósmica. Custodian al Masracht prisionero en el Prism Keep. Referencia del [[Bazaar_de_San_Dragon|Bazaar de San Dragón]].*
 
 ## Presentación
 
-Los **Maruts** son **criaturas planares axiales** del catálogo clásico **[[Bazaar_de_San_Dragon|Bazaar de San Dragón]] / Manual of the Planes ( 1e, Jeff Grubb, 1987)**. **Inevitables** —*Inevitables of Law*— = ejecutores de la legalidad cósmica primordial.
+Los **Maruts** son **criaturas planares axiales**, registradas en el catálogo del [[Bazaar_de_San_Dragon|Bazaar de San Dragón]]. **Inevitables** —ejecutores de la legalidad cósmica primordial—: allí donde una ley del cosmos se quiebra, ellos comparecen a cobrarla.
 
 ### Su rol en Ardis Vala
 
-**Custodian al [[Masracht_Prism_Keep|Masracht]]** —vampiro padre de [[Caladan]]— en su **prisión del [[Prism_Keep]]** (módulo Dungeon Magazine #45 de Richard Baker, inserto en [[Ardis_Vala|Arden Vul]]). **Seis Maruts** lo mantienen capturado.
+**Custodian al [[Masracht_Prism_Keep|Masracht]]** —vampiro padre de [[Caladan]]— en su **prisión del [[Prism_Keep]]**, inserta en [[Ardis_Vala|Arden Vul]]. **Seis Maruts** lo mantienen capturado.
 
 **Función estructural**: los Maruts son **el polo legal-axial** del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] —contraparte del caos infernal abismal—. Su presencia en el [[Palacio_del_Prisma]] indica **estructura legal cósmica intacta** vigilando a los seres-trampa.
 
@@ -37,14 +37,13 @@ Los **Maruts** son **criaturas planares axiales** del catálogo clásico **[[Baz
 
 - Humanoides masivos, **constructos** o **criaturas-engranaje**
 - **Armaduras pesadas** ornamentadas con símbolos axiales
-- **Inmortales / regenerativos**
-- **Inmunes a charm/hold/mind-affecting**
-- **Pueden usar dimensional anchors / antimagic** sobre prisioneros
+- **Inmortales**, sus heridas se cierran solas
+- La mente no se les puede torcer: ni hechizo de encanto ni sujeción hacen mella en ellos
+- Sobre sus prisioneros tienden un cerco que **clava al cautivo en el plano y le ahoga toda magia**
 
 ## Vínculos
 
 - [[Bazaar_de_San_Dragon]] — catálogo planar
-- **Manual of the Planes** ( 1e, 1987) — fuente
 - [[Masracht_Prism_Keep]] — prisionero que custodian
 - [[Prism_Keep]] / [[Castillo_del_Prisma]] / [[Palacio_del_Prisma]] — sede de la prisión
 - [[Caballeros_Cicatriz_del_Sol]] — orden vinculada (toma del Hold)

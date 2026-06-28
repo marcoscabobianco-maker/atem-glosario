@@ -29,11 +29,11 @@ tags:
 
 **Master Malakita** —también escrito **Malaquita, Maraquita** o **Master Malachite**, con su nombre verdadero **Melok-Ri**— es **uno de los antagonistas centrales de [[Arden_Vul]]**. Su naturaleza es triple:
 
-1. **[[Rudishva]]** —**alienígena llegado con el crash del Beacon hace milenios**, raza no-humana del setting Vala—
+1. **[[Rudishva]]** —**alienígena llegado con el crash del Beacon hace milenios**, raza no-humana del mundo Vala—
 2. **Vampiro** —no-muerto chupasangre, líder de cadena vampírica que incluyó a [[Caladan]]—
 3. **Calavera flotante con inteligencia artificial embebida** —su forma real, revelada cuando [[Alumine_Manwe_Finwe|Alúmine]] le cercena la cabeza en la fase media del ciclo primero—
 
-La triple naturaleza —**alienígena + vampiro + máquina**— es declaración del setting: lo que parecía vampiro tradicional resulta ser **tecnología antigua mantenida con sangre**.
+La triple naturaleza —**alienígena + vampiro + máquina**— es una declaración del mundo: lo que parecía vampiro tradicional resulta ser **tecnología antigua mantenida con sangre**.
 
 ### Fundador de la Orden de la Cicatriz del Sol
 
@@ -81,7 +81,7 @@ La victoria templó a cada uno de los miembros como pocas gestas.
 
 ## Vínculos
 
-- [[Arden_Vul]] — campaña
+- [[Arden_Vul]] — gesta
 - [[Caballeros_Cicatriz_del_Sol]] — orden que fundó en 1123 AEP
 - [[Caladan]] — vampirizado por él
 - [[Masracht_Prism_Keep|Masracht]] — eslabón superior de la cadena vampírica, padre de Caladan
@@ -104,3 +104,8 @@ La victoria templó a cada uno de los miembros como pocas gestas.
 - **el archivo** — decapitado por Alúmine
 - Jornadas posteriores — cabeza arcanum flotante residual, derrotada
 - el archivo (audio pendiente) — el grupo cierra la cadena con el [[Masracht_Prism_Keep|Masracht del Prism Keep]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ⟳
+> *Vampiro rudishva que funda la Orden de los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]] para disfrazarse de su enemigo solar: cuando [[Alumine_Manwe_Finwe|Alúmine]] lo decapita en [[Arden_Vul]], lo que cae al suelo es una calavera flotante con máquina dentro que aún intenta operar sin cuerpo. Y la cadena que sostiene —[[Masracht_Prism_Keep|Masracht]] → Malakita → [[Caladan]]— es la llave del oficio: tomar el eslabón es tomar la Orden, que pasa de él a los compañeros.* — glosa de Arkos.
+<!-- /CICLO -->

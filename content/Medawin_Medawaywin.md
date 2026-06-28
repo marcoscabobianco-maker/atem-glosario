@@ -23,7 +23,7 @@ aliases:
 
 ## Presentación
 
-Fuerza vital de la tierra, resonancia de la tierra viviente (del sourcebook de Doug Anderson). En la campaña de: literalmente un ser vivo enfermo y muriendo. La enfermedad es la colonización — cada acto de violencia europea crea "zonas de energía destructiva" que matan la magia natural. Opera a escala cosmológica: la Luna tiene conciencia propia y un árbol propio. El pacto de tres lunas establece calendario cósmico. La decisión final del grupo principal — sanar al Medawin — es la conclusión ética proyectada de la campaña (no jugada).
+Fuerza vital de la tierra, resonancia de la tierra viviente (del sourcebook de Doug Anderson). En la ciclo de: literalmente un ser vivo enfermo y muriendo. La enfermedad es la colonización — cada acto de violencia europea crea "zonas de energía destructiva" que matan la magia natural. Opera a escala cosmológica: la Luna tiene conciencia propia y un árbol propio. El pacto de tres lunas establece calendario cósmico. La decisión final del grupo principal — sanar al Medawin — es la conclusión ética proyectada de la ciclo (no jugada).
 
 *Apariciones:* primera articulación como ser vivo; el pacto de tres lunas (insistente, casi medio centenar de menciones en una sola jornada); la jornada del [[Farruco_Arrastrado_al_Pozo_NC16|pozo de Farruco]] (decisión de sanarlo).
 *Conexiones:* Luna, [[Cadenas_de_Plata_Silver_Chains_Shackles_of_the_Pact|Cadenas de Plata]], [[Cronocidio]] (posible precursor), colonización, [[Thunderbirds_Pajaros_de_Trueno|Thunderbirds]]

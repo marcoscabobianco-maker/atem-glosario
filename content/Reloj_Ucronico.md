@@ -23,3 +23,8 @@ Hay quienes sostienen que se trata del mecanismo que habilita la ucronía misma,
 - [[Philippe]] — el relojero con quien el registro asocia la pieza
 - [[Time_Capsules]] — la empresa de cápsulas temporales vinculada al reloj
 - [[Paris_Ucronica|París Ucrónica]] — acaso le debe su nombre
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ☯
+> *No mide el tiempo: lo navega de costado. Uno de los tres relojes del registro —junto a [[El_Primer_Reloj|El Primer Reloj]] y el [[U-Reloj]]—, pero su nombre lo aparta: la ucronía es la historia que pudo ser, y la pieza permite moverse entre las líneas alternativas del acontecer, entre los cursos que el mundo tomó y los que dejó. Hay quienes lo tienen por el mecanismo que habilita la ucronía misma, y de él tomaría su nombre la [[Paris_Ucronica|París Ucrónica]] entera. El registro lo asocia a [[Philippe]] el relojero y a las [[Time_Capsules]].* — glosa del archivero del Plata.
+<!-- /CICLO -->

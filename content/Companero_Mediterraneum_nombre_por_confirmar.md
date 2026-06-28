@@ -18,7 +18,7 @@ Jovencito griego, compañero de la gesta. Muere devorado por una **leucrota** �
 
 ## Vinculos
 
-- [[Mediterraneo_Ucronico|Mediterráneo (Ucrónico)]] — el teatro de operaciones de la sub-campaña donde perece
+- [[Mediterraneo_Ucronico|Mediterráneo (Ucrónico)]] — el teatro de operaciones de la gesta donde perece
 - [[El_Emisario_Mediterraneum|El Emisario (Mediterraneum)]] — figura que convoca a los compañeros a la misión de salvar Alejandría; el jovencito forma parte de ese grupo
-- [[El_Mentor_Mediterraneum|El Mentor (Mediterraneum)]] — figura guía de la campaña en cuyo contexto ocurre la muerte
+- [[El_Mentor_Mediterraneum|El Mentor (Mediterraneum)]] — figura guía de la gesta en cuyo contexto ocurre la muerte
 - [[Alejandria|Alejandría]] — la ciudad que la gesta del Mediterraneum busca salvar; destino final que este compañero no alcanzó

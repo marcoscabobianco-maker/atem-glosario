@@ -37,7 +37,7 @@ imagen: Imagenes_Tier1/Grillo_Aleph.png
 
 ---
 
-**Lo que se sabe del Aleph en este mundo** —si es lugar, si es estado, si es santo— **pertenece a la enseñanza interna de la Orden y no se transcribe**. *Grillo no ha alcanzado el Aleph*; **la Orden tampoco se preocupa por eso**: la regla del monasterio dice que el Aleph viene cuando viene, **y el oficio del monje es el camino, no el punto**. La jornada que el archivo conserva sobre él **establece el setting general de las Ciudades Invisibles** —reinado japónico de tipo Tokugawa, [[Colina_de_los_Exarcas]] como núcleo, Cerezos Blancos como faro doctrinal— **más que un arco personal**.
+**Lo que se sabe del Aleph en este mundo** —si es lugar, si es estado, si es santo— **pertenece a la enseñanza interna de la Orden y no se transcribe**. *Grillo no ha alcanzado el Aleph*; **la Orden tampoco se preocupa por eso**: la regla del monasterio dice que el Aleph viene cuando viene, **y el oficio del monje es el camino, no el punto**. La jornada que el archivo conserva sobre él **dibuja el mundo general de las Ciudades Invisibles** —reinado japónico de tipo Tokugawa, [[Colina_de_los_Exarcas]] como núcleo, Cerezos Blancos como faro doctrinal— **más que un arco personal**.
 
 [*Algunos personajes pasan una sola vez por el archivo y bastan; Grillo es de ésos. La función de su paso fue mostrar el mundo, no atravesarlo. — Glosa coloquial del archivero del Plata.*]
 
@@ -51,5 +51,5 @@ imagen: Imagenes_Tier1/Grillo_Aleph.png
 
 ## Apariciones
 
-- **Jornada introductoria de las Ciudades Invisibles** — establece setting general
+- **Jornada introductoria de las Ciudades Invisibles** — dibuja el mundo general
 - **Vida monástica continua en la [[Colina_de_los_Exarcas]]** — sin arco propio posterior

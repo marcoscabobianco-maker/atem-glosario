@@ -15,3 +15,8 @@ Hombre Variable. Antes arreglaba cosas a domicilio en Nebraska. Devaneos ucróni
 ## Apariciones notables
 
 [[Paris_Ucronica|París Ucrónica]] jornada posterior: marinero espía acompañando [[Meteora]] en yate, superviviente del naufragio en Mar de Mármara, lanzador de bengala sucrónica que provoca salto temporal a [[Constantinopla_Ucronica_1055_CE|Constantinopla]] 1055. jornada posterior: reconocido como "hombre variable" con conocimientos técnico-mágicos, perseguido por centauros de Alfa Centauri, defensa de grupo [[Time_Bandits|Time Bandits]], preparación de ritual sucrónico. jornada posterior: [[Alejandria|Alejandría]] (reparaciones a [[U-Reloj]]), búsqueda de componentes arcanos, viajes a Oasis Al [[Oraculo_de_Amon_Siwa|Siwa]]. Nebraska (inicio histórico). [[Nueva_York_New_York|Nueva York]] (s. XXII). Viajes en barco. [[Alejandria|Alejandría]] (reparaciones). Oasis Al [[Oraculo_de_Amon_Siwa|Siwa]] (muerte a manos del [[Jinete_de_la_Guerra|Jinete de la Guerra]]).
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *El Hombre Variable es una herramienta del tiempo hecha persona: su capacidad de «arreglar cosas» altera el FTL, su bengala sucrónica gasta una jornada y dispara el salto a [[Constantinopla_Ucronica_1055_CE|Constantinopla]] 1055, y en [[Alejandria|Alejandría]] ajusta el [[U-Reloj]] como quien repara el mecanismo del cronos mismo. Anda con los [[Time_Bandits|Time Bandits]] —los bandidos del tiempo— hasta que el [[Jinete_de_la_Guerra|Jinete de la Guerra]] lo corta en trozos.* — glosa del archivero del Plata.
+<!-- /CICLO -->

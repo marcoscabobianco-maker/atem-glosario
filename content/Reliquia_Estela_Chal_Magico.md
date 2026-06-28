@@ -74,3 +74,8 @@ El chal es **un objeto, dos estados**: **órgano técnico** mientras lo lleva al
 - [[Time_Bandits]] — portadores ocasionales en estado reliquia
 - [[Orient_Express]] — escenario del intento de robo
 - [[Mar_Negro_Crimea]] — uno de los mares cuya memoria el chal podría recoger
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑
+> *Un órgano que no se pierde: se guarda. Mientras lo lleva [[Estela_Nereida|Estela]], el chal manda elementales contra los soldados del [[Orient_Express]] y abre las aguas profundas; cuando la nereida se retira tras [[Niza_Costa_Azul|Niza]], la facultad no muere, se aquieta en un aparador como diapasón dormido. Los [[Time_Bandits]] que lo rescatan para una travesía despiertan brevemente lo que fue: el poder espera su época, no se vence.* — glosa del archivero del Plata.
+<!-- /CICLO -->

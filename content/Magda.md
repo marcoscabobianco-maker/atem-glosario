@@ -68,3 +68,8 @@ La voz que todavía no ha consignado en lámina **sostiene aquí la entrada en p
 - **Gesta de Les Libertateurs / Pretty Women — [[Sucesos_de_Antiterra]] pp. 4-7** — operación en grupo
 - **[[Poker_de_Hostias]]** — convocatoria mayor, invocación de Kimchi Princess
 - **Relato de [[Oratiol]]** — figura afectiva protectora
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Bruja de azar que existe como casilla de una banda: [[Les_Libertateurs_Pretty_Women|Pretty Women]] reparte a cada miembro una carta de la baraja como sigla operativa, y Magda es la Q♣ que invoca a su par la Q♥, [[Kimchi_Princess]]. El [[Poker_de_Hostias]] muestra que el código de cartas no es adorno: es el sujeto colectivo el que opera, y cada Reina convoca a la otra.* — glosa del archivero del Plata.
+<!-- /CICLO -->

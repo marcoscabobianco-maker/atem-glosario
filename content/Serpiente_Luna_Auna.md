@@ -94,3 +94,8 @@ imagen: null
 - **[[Mito_de_los_Amantes_y_la_Serpiente_Lunar]]** — pacto entre Sol y Luna sellado en Capilla de la Redención
 - **Siglos de operación ritual** — magos arcanos y teósofos clandestinos operando bajo su bendición
 - **1824 AE — ciclo presente** — presencia mítica continuada en rituales nocturnos y arcanos
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *No hay noche sin día que la conteste: Auna y el [[Aguila_Asvila|Águila Asvila]] son los dos hemisferios de un solo cielo, la luna y el sol que se reparten el firmamento del mundo-gema. La doctrina lo vuelve geología en [[Caldero]] —el [[Fenix_Nido_Volcanico|Fénix]] guarda el sueño del volcán desde arriba, la Serpiente desde abajo— y mito en el pacto de Ishen y Nalía, donde el brillo diurno se cede al reflejo lunar para sellar la unión. El par no es rivalidad: es el contagio que sostiene el cosmos gemelo.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

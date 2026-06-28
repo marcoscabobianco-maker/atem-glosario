@@ -68,3 +68,8 @@ Lo que el demonio aprende encadenado no es sólo que existe: es que descender es
 - **[[Antiterra_Demonia|Antiterra]]** — Reguladores, hacia 1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]] ([[Torneo_de_la_Torre_Eiffel]])
 - **[[Castillo_del_Prisma|Castillo del Prisma]] / [[Castillo_de_Siegling]]** — capilla profanada
 - **Inferno** — Segundo Círculo, Torre Púrpura
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛧ ⛓
+> *Descender es heredar: Helter cae al Segundo Círculo del Inferno por los estratos dantescos, sobrevive al precipicio con Minos y entra a la [[Torre_Purpura|Torre Púrpura]], donde le dice a [[Elena_de_Troya]] «yo también estaba cadenado por amor». La marca de seis dedos que hereda de su padre [[Elias|Elías]] —y que reaparece en el sello del [[Duque_de_Blanquist]]— es la firma de la condena que arrastra en las cadenas. Llegó a los [[Los_Reguladores|Reguladores]] joven, y dio la vida por la gema antes de renacer demonio.* — glosa de Paulus.
+<!-- /CICLO -->

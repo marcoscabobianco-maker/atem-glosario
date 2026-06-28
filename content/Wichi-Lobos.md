@@ -49,3 +49,8 @@ El archivo registra la hipótesis: **Wichi-Lobos puede ser uno de los [[Annunaki
 - Hipótesis cosmogónica del nuevo cosmos post-Triunvirato
 - Mención en burla de Paul Claudel
 - Posible operación en territorio americano del Multiverso
+
+<!-- CICLO -->
+> **Casas del ciclo** · ※ ✦
+> *El nombre hace la cosa: «Huitzilopochtli» —el colibrí zurdo mexica— deformado en boca de [[Pablo_de_Alejandria|Paul Claudel]] suena «Wichi-Lobos», y la deformación fonética arrastra al dios al campo del lobo, junto a [[Scya]] y los estandartes de la Galia. La hipótesis lo inscribe entre los [[Annunaki]], doce dragones-creadores camuflados del [[Grazzt|Néorex]]: un dios de un panteón (el mexica) reabsorbido como dios atrapable de otro (el sumerio), y emparentado con [[Zila]]. La apoteosis al revés —la deidad de una era vuelta criatura de la siguiente.* — glosa de Akala.
+<!-- /CICLO -->

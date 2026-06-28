@@ -51,3 +51,8 @@ Su columna esencial es **la transformación por aguijón**: *el cuerpo que muta 
 
 - **Cosmología continua** — octava casa, columna de transformación por aguijón
 - **Transformación de [[Jean-Baptiste_TNW|Jean-Baptiste]]** — asunción del cargo de guardián con metamorfosis
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Octava casa del zodiaco, obsidiana negra y aguijón levantado: aquí la ley «quien mata al guardián se convierte en guardián o es destruido» opera con plenitud. [[Jean-Baptiste_TNW|Jean-Baptiste]] asumió el cargo y mutó al asumirlo —escamas, aguijón frío azul—, porque la transformación no es accidente sino condición del puesto. Una de las doce plataformas del [[Plataformas_Zodiacales_Sistema_de_Guardianes|sistema]] y de la [[Corrupcion_Dual|Corrupción Dual]]: el oficio rota, el cuerpo paga.* — glosa del Decadiano.
+<!-- /CICLO -->

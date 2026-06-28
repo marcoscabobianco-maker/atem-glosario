@@ -85,3 +85,8 @@ imagen: null
 - **Invocación de los primeros clérigos** — equilibrio mágico instituido
 - **Siglos de operación silenciosa** — mantenimiento del sueño volcánico
 - **1824 AE — ciclo presente** — presencia residual, mito vivo en la cultura caldera
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ✦
+> *Ave de fuego primigenia que anidó en el cráter donde hoy se alza [[Caldero]], moldeó el paisaje y purificó el suelo: figura del polo luminoso de [[Vala_Cristalis]], par de la [[Giganta_Antigua]] —ambas operan por convocatoria, no por presencia continua. Tras la invocación de los primeros clérigos no se va: duerme con el volcán, mantenido el sueño que protege a la ciudad, en crisálida hasta la próxima emergencia. El que no se vence se guarda; y el que moldeó el mundo quedó como dios dormido de su [[Aldebaran_Estrella_Plataforma|Plataforma]].* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

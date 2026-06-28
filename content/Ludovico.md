@@ -27,3 +27,8 @@ En el viaje marítimo propone convertir la nave en pirata y amenaza a quienes no
 ## Notas
 
 No continúa después de la fase fundacional: se autolesiona con una granada y además coincide con el cambio de dirección ( → ). No aparece en la lista de miembros de [[Los_Profundos|Los Profundos]] del GLOSARIO actual ni en Sucesos de [[Antiterra_Demonia|Antiterra]].
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El enano panadero de las bombas-factura entró al [[Los_Profundos|Los Profundos]] como miembro fundacional y la banda lo expulsó del propio nombre: cuando descubre que la [[Atlantida_Alta_y_Baja|Atlántida]] es un reino justo, su anarquismo no resiste la evidencia y se autolesiona con una granada. La sigla colectiva sigue; él se borra de la lista. La banda dura más que el integrante.* — glosa de Sucesos.
+<!-- /CICLO -->

@@ -43,7 +43,7 @@ Mansión/palacete ubicado en suburbios Noroeste de [[Bucarest_Ucronica|Bucarest 
 - **Combate en salón principal:** enfrentamiento contra [[Natalia_Petrovna|Natalia Petrovna]] (vampiresa con colmillos, forma gaseosa), pope corrupto (sacerdote ortodoxo con rifle), guardias pálidos/fríos, posibles entidades sombrías. [[Andre_Bar|André Bar]] (periodista aliado) es hipnotizado por [[Natalia]] y ataca a Claude. Combate es intenso, multiple rondas.
 - **Escape de [[Natalia]]:** tras recibir daño crítico (disparos mágicos de [[Philippe|Philip]]), [[Natalia]] adopta forma gaseosa y escapa hacia sótanos.
 - **Persecución a sótano:** [[Time_Bandits|Time Bandits]] desciende a subterráneos, localiza [[Natalia]] en su ataúd fúnebre (malherida, debilitada). Claude atraviesa su corazón con estacón improvisado.
-- **[[Protocolo_anti-vampiro]]:** [[Corvino]] y Aby ejecutan decapitación y riego con agua bendita. Negociación con sacerdote local (soborno) para rito ortodoxo discreto. Cuerpo de [[Natalia]] enterrado/desaparecido.
+- **Protocolo anti-vampiro:** [[Corvino]] y Aby ejecutan decapitación y riego con agua bendita. Negociación con sacerdote local (soborno) para rito ortodoxo discreto. Cuerpo de [[Natalia]] enterrado/desaparecido.
 
 **Significado narrativo:**
 - **[[Escenario_de_escalada_de_horror_sobrenatural]]:** Mansión de [[Natalia]] representa transición tonal de [[Paris_Ucronica|París Ucrónica]] — de conspiración política steampunk a horror gótico balcánico. Descripción de enfatiza elementos góticos: terciopelo negro, candelabros escarlata, ventanas de color sangre, subterráneos húmedos, ataúdes, agua bendita.
@@ -56,19 +56,19 @@ Mansión/palacete ubicado en suburbios Noroeste de [[Bucarest_Ucronica|Bucarest 
 
 ## Notas
 
-Mansión de [[Natalia]] Petrovna es laberinto de jornada posterior —locación de enfrentamiento y exploración—. Arquetecturalmente evoca Castillo de Drácula / literatura gótica balcánica (Bram Stoker, etc.), aunque integrada en setting urbano ucrónico ([[Bucarest_Ucronica|Bucarest]] con faroles eléctricos, periódistas socialistas, bancos modernos coexisten con horror vampírico ancestral). La posibilidad de "Príncipes Polares" como anteriores dueños sugiere linaje noble asociado a vampirismo — clase aristocrática balcánica históricamente vinculada a oscuridad/poder oculto. [[Presencia_de]] multiple ataúdes en sótano sugiere que vampirismo es endemismo regional, posiblemente vinculado a [[GRDT]]/[[Grazzt|Graz'zt]] o poder demoníaco mayor.
+Mansión de [[Natalia]] Petrovna es laberinto de jornada posterior —locación de enfrentamiento y exploración—. Arquetecturalmente evoca Castillo de Drácula / literatura gótica balcánica (Bram Stoker, etc.), aunque integrada en un entorno urbano ucrónico ([[Bucarest_Ucronica|Bucarest]] con faroles eléctricos, periodistas socialistas, bancos modernos coexisten con horror vampírico ancestral). La posibilidad de "Príncipes Polares" como anteriores dueños sugiere linaje noble asociado a vampirismo — clase aristocrática balcánica históricamente vinculada a oscuridad/poder oculto. Presencia de multiple ataúdes en sótano sugiere que vampirismo es endemismo regional, posiblemente vinculado a [[GRDT]]/[[Grazzt|Graz'zt]] o poder demoníaco mayor.
 
 ## Ver también
 
 - [[Natalia_Petrovna|Natalia Petrovna]]
 - [[Coronel_Apis|Coronel Apis]]
-- [[Localizacion_de_Misa_Negra|Localización de Misa Negra]]
 - [[Residencia_de_Natalia_Petrovna|Residencia de Natalia Petrovna]]
 - [[Misa_Negra_en_curso|Misa Negra en curso]]
-- [[Combate_en_salon_principal|Combate en salón principal]]
-- [[Escape_de_Natalia|Escape de Natalia]]
 - [[Persecucion_a_sotano|Persecución a sótano]]
-- [[Protocolo_anti-vampiro|Protocolo anti-vampiro]]
 - [[Escenario_de_escalada_de_horror_sobrenatural|Escenario de escalada de horror sobrenatural]]
 - [[Simbolo_de_submundo_balcanico|Símbolo de submundo balcánico]]
-- [[Locus_de_poder_demonico|Locus de poder demónico]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ◑
+> *A la mansión no se entra por la puerta sino por el trayecto que dura años, y dentro se desciende por estratos: salón de terciopelo en el piso alto, sala de la [[Misa_Negra|Misa Negra]], y bajo todo los sótanos húmedos de ataúdes y agua bendita donde el vampirismo se revela tradición ancestral, no fenómeno reciente. [[Natalia_Petrovna|Natalia]] juega la otra casa: malherida por [[Philippe|Philip]], se vuelve gas y se guarda en su ataúd —la crisálida del que espera— hasta que [[Claude_Nauge|Claude]] le atraviesa el corazón antes de que el ciclo la devuelva. Lo que A leyó como el dungeon que estratifica eras (AA-D.1) y B como el enemigo en su capullo (AKB-F.1) conviven aquí.* — glosa del archivero del Plata.
+<!-- /CICLO -->

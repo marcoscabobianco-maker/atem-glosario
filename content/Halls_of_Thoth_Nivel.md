@@ -24,7 +24,7 @@ tags:
 
 ## Presentación
 
-Los **Halls of Thoth** —*Salas de Thoth*— son el **piso central y de mayor accesibilidad** del [[Mega_Dungeon_Arden_Vul]]. Entrada principal vía la **Gran Pirámide de Thoth** (`la Gran Pirámide de Thoth`). Múltiples conexiones con [[L01_The_Basement|El Sótano]], las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes]], el [[Forum_de_Set|Forum de Set]] y las [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]], con varios sub-niveles, y con la superficie por varias escaleras. Los pliegos del archivo le dedican 86 hojas y catalogan 166 áreas (la mayor concentración del dungeon).
+Los **Halls of Thoth** —*Salas de Thoth*— son el **piso central y de mayor accesibilidad** del [[Mega_Dungeon_Arden_Vul]]. Entrada principal vía la **Gran Pirámide de Thoth** (`la Gran Pirámide de Thoth`). Múltiples conexiones con [[L01_The_Basement|El Sótano]], las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes]], el [[Forum_de_Set|Forum de Set]] y las [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]], con varios sub-niveles, y con la superficie por varias escaleras. Los pliegos del archivo le dedican 86 hojas y catalogan 166 áreas (la mayor concentración del laberinto).
 
 ### Cuatro regiones
 
@@ -80,9 +80,9 @@ Las paredes archonteanas estaban **pintadas con frescos** que celebraban a Thoth
 
 ## Vínculos
 
-- [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
-- [[Arden_Vul|Ardis Vala (campaña)]]
-- [[Mundo_de_Archontos]] — setting cosmológico
+- [[Mega_Dungeon_Arden_Vul]] — el laberinto que lo contiene
+- [[Arden_Vul|Ardis Vala (gesta)]]
+- [[Mundo_de_Archontos]] — el mundo cosmológico de fondo
 - [[Lady_Deino]] — central figura
 - [[Sir_Simonet]] — Sun-Scarred Knight presente
 - [[Caballeros_Cicatriz_del_Sol]] — [[Sir_Simonet]] pertenece
@@ -98,3 +98,8 @@ Las paredes archonteanas estaban **pintadas con frescos** que celebraban a Thoth
 - Jornadas 1-18 — tránsito constante de los [[Buscadores_de_Ardis_Vala|Buscadores]]
 - Especialmente: Pirámide de Thoth como entrada, [[Forum_de_Set]] (vía Forum de Set), Bosque Fúngico de la Gran Caverna
 - Templo de Thoth — muerte de [[Numa_Pompidio]] frente a procesión celestial
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El L03 del [[Mega_Dungeon_Arden_Vul|mega-dungeon]], piso más grande y accesible: entre las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes]] arriba y el [[Forum_de_Set|Forum de Set]] abajo, atravesado por el Gran Abismo que comunica todos los estratos profundos. Bajo la Gran Pirámide se apilan las eras —cámaras heqeti, una sola rudishva, frescos archonteanos de Thoth con sus acertijos—, capa numerada del laberinto que estratifica el tiempo en pisos.* — glosa del archivero del Plata.
+<!-- /CICLO -->

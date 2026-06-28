@@ -33,18 +33,17 @@ Sus miembros documentados: **Kaino**, **Arthur**, **Iun**, y **[[El_Fabuloso]]**
 
 Lo que pasó con el grupo es **lo peor que puede pasarle a una banda**: **fueron diezmados por un dragón negro**. El enemigo no fue criatura cualquiera —**ese dragón negro**, en una versión específica de [[Antiterra]] *"donde aparecen trenes y dragones"*, **terminó siendo el presidente de Ohio**, y después **presidente de los Estados Unidos de América**—. La historia del grupo se interrumpe ahí: el dragón los mató, el grupo se disolvió como banda activa.
 
-**[[El_Fabuloso]] quedó como único sobreviviente** —o **apenas sobrevivió**, o fue **revivido** después—. El detalle exacto la mesa no lo cierra del todo. Lo que sí queda: **el resto cayó, él no**. Sobre el linaje de Los Boreales —sobre la pérdida del grupo— el Ñomo fundó después el **[[Banco_Boreal|Banco Boreal]]**, institución financiera trans-campaña que opera con créditos a futuro, seguros de muerte y porcentajes con los Mercane.
+**[[El_Fabuloso]] quedó como único sobreviviente** —o **apenas sobrevivió**, o fue **revivido** después—. El detalle exacto el archivo no lo cierra del todo. Lo que sí queda: **el resto cayó, él no**. Sobre el linaje de Los Boreales —sobre la pérdida del grupo— el Ñomo fundó después el **[[Banco_Boreal|Banco Boreal]]**, institución financiera trans-gesta que opera con créditos a futuro, seguros de muerte y porcentajes con los Mercane.
 
 ## Vínculos
 
-- [[Los_Profundos]] — el grupo sucesor en el mismo setting
+- [[Los_Profundos]] — el grupo sucesor en el mismo mundo
 - [[El_Fabuloso]] — único sobreviviente, fundador del [[Banco_Boreal]]
 - [[Banco_Boreal]] — institución que surge sobre el linaje del grupo
 - **Kaino**, **Arthur**, **Iun** — otros miembros documentados
 - **[[Sauro_Dragon|Dragón]] negro / Presidente de Ohio / Presidente de Estados Unidos** — antagonista que los diezmó
-- **Antiterra con trenes y dragones** — versión específica del setting
+- **Antiterra con trenes y dragones** — versión específica del mundo
 - **Diamond Lake / Chicago / Grandes Lagos** — territorio de operación
-- **Age of Worms** — base suelta del setting
 
 ## Apariciones
 

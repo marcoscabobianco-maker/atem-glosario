@@ -45,7 +45,7 @@ La declaración canónica del archivo es **conjugadora**: el Eisagogika **conjug
 
 ### La entrega de París
 
-En **París, 1886**, Pablo —disfrazado de **Paul Claudel**, parisino con bigote convertido al cristianismo dentro de [[Catedral_de_Notre-Dame_PU|Notre Dame]]— **entrega un ejemplar de la Eisagogika a [[Henri_La_France|Henri La France]]** en una jornada que la mesa preserva con detalle. La advertencia que acompaña la entrega es que **la Dama dentro de [[Catedral_de_Notre-Dame_PU|Notre Dame]] es sagrada y el [[Gran_Khan]] quiere profanarla**. Henri debe viajar en el tiempo, al pasado, a Alejandría, llevando el libro. El libro funciona, entonces, como **llave del viaje temporal**: la guía que permite cruzar las edades sin perderse.
+En **París, 1886**, Pablo —disfrazado de **Paul Claudel**, parisino con bigote convertido al cristianismo dentro de [[Catedral_de_Notre-Dame_PU|Notre Dame]]— **entrega un ejemplar de la Eisagogika a [[Henri_La_France|Henri La France]]** en una jornada que el archivo preserva con detalle. La advertencia que acompaña la entrega es que **la Dama dentro de [[Catedral_de_Notre-Dame_PU|Notre Dame]] es sagrada y el [[Gran_Khan]] quiere profanarla**. Henri debe viajar en el tiempo, al pasado, a Alejandría, llevando el libro. El libro funciona, entonces, como **llave del viaje temporal**: la guía que permite cruzar las edades sin perderse.
 
 ### La cadena autorial
 
@@ -91,3 +91,8 @@ La tradición conserva además el espejo arquitectónico del **Argentum Palace**
 - Ciclo templario — recuperado por los [[Templarios]] en mano del [[Flamenco]], llevado a Constantinopla y después a Ur
 - Bóvedas de Ur — guardado tras la fase templaria
 - París, Notre Dame, 1886 — entregado por Paul Claudel a [[Henri_La_France]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ※
+> *El libro que [[Pablo_de_Alejandria|Paulus]] firmó en Alejandría es la llave del viaje temporal: con él [[Henri_La_France|Henri]] cruza las edades sin perderse. Y bajo sus muchos nombres —[[Libro_Azul]], Al Azif, [[Libro_Negro_de_la_Ley_de_los_Muertos|Necronomicón]] que copió [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] en Bizancio— es siempre el mismo libro: en este ciclo el nombre no disfraza la cosa, la confirma.* — glosa de Paulus.
+<!-- /CICLO -->

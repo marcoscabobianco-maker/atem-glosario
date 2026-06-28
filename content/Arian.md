@@ -177,3 +177,8 @@ El acto que el archivo conserva del Foso: **Adam lanzó Sugestión contra [[Bert
 - **El sarcófago de Tuliarios** — tres siglos de sueño bajo Ardisvala
 - **[[Anti_Inferno|El Foso]] del [[Anti_Inferno|Descenso]]** — manifestación como Adam, el paladín-arlequín; el despojo de la linterna de [[Bertrand]]
 - **Ciclo presente** — emergencia bajo el nombre de [[Caladan]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦ ◑ ⛎ ※
+> *El 25º sol que bajó al Foso a buscar a los condenados y subió hecho dios sin dejar de ser el que bajó: alma de ciclo largo que el Archivo lee como [[Linea_Arian_Avatares|una sola distribuida en pliegues]], reaparecida luego como [[Caladan]]. Donde A vio la reencarnación trans-campaña (AA-C.3) y B la transmigración del que vuelve (AKB-G.2), se cifra la misma mano: la línea que nunca se nombra por quien la sostiene.* — glosa del [[Decadiano]].
+<!-- /CICLO -->

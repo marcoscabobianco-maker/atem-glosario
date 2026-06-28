@@ -19,9 +19,4 @@ aliases:
 
 ## Presentación
 
-**Ref.:** Confirmación de (23 mar 2026, dictado oral).
-**Nota:** El vínculo egipcio conecta con [[Pablo_de_Alejandria|Pablo de Alejandría]], [[Kronamon]]/[[Chronomon]], y la vertiente egipcia de la cosmología ATEM. Si Imperia Alta Ra es un plano solar/egipcio, podría ser el origen del sistema de plataformas zodiacales. Pendiente de confirmar.
-
-## Entradas integradas — 23 Mar 2026
-
-*Integración automática de 394 entradas desde additions files.*
+Portal principal de raíz solar y egipcia. Su vínculo egipcio lo enlaza con [[Pablo_de_Alejandria|Pablo de Alejandría]] y con [[Kronamon]]/[[Chronomon]]. Si Imperia Alta Ra es un plano solar, bien podría ser el origen del sistema de plataformas zodiacales —cuestión que el archivo deja abierta—.

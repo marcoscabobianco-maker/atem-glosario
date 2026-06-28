@@ -20,11 +20,11 @@ tags:
  - puertas-oceanicas
 ---
 
-> *Dos compañeros de figura del archivo en [[Ardis_Vala|Arden Vul]]. Roderick murió cerca de las [[Puertas]] Oceánicas. Valerius llegó después, paladín inquisidor desertor de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]].*
+> *Dos figuras hermanadas del archivo en [[Ardis_Vala|Arden Vul]]. Roderick murió cerca de las [[Puertas]] Oceánicas. Valerius llegó después, paladín inquisidor desertor de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]].*
 
 ## Presentación
 
-**figura del archivo** —llamado también "Rodri" en algunas transcripciones por confusión con el personaje Roderick— jugó **dos compañeros sucesivos** en la campaña **[[Arden_Vul]]**:
+El archivo registra **dos compañeros sucesivos** de la misma mano dentro del ciclo de **[[Arden_Vul]]** —dos figuras que el relato encarnó una tras otra—:
 
 1. **Roderick** —Paladín, **el diplomático del grupo**— **muere cerca de las [[Puertas]] Oceánicas** en algún momento del arco mediano.
 2. **Valerius Utrecht** —Paladín Inquisidor del séptimo grado de su temple—, el reemplazo, con un perfil completamente distinto y un arco moral propio.
@@ -52,7 +52,7 @@ Cuando **[[Alumine_Manwe_Finwe|Alúmine]] decapita a Malakita en la fase media d
 
 ## Vínculos
 
-- [[Arden_Vul]] — campaña
+- [[Arden_Vul]] — gesta
 - [[Master_Malakita|Master Malakita / Melok-Ri]] — vampiro rudishva, cabeza que cae
 - [[Caballeros_Cicatriz_del_Sol]] — orden de la que Valerius desertó y a la que vuelve purificada
 - [[Roderick]] — su compañero anterior, muerto en las Puertas Oceánicas

@@ -39,7 +39,7 @@ epoca: "1368 DR — Edad de los Reinos Olvidados — Marpenoth 6"
 La Danza del Conocimiento es **preludio cosmogónico** del [[Juicio_Final|Juicio Final]] de 1375 DR:
 
 1. **1368 DR (Danza del Conocimiento)**: Minaya descubre su linaje. Coyote muere y queda en gema (luego tributo a [[Grazzt]]).
-2. **1375 DR ([[Juicio_Final]])**: Minaya (ahora 27 años, alineamiento, conoce su origen) + [[Soluna]] vencen a Tiamat con la Lanza + [[Gema_de_la_Creacion|Gema de la Creación]].
+2. **1375 DR ([[Juicio_Final]])**: Minaya (ahora 27 años, dueña de su origen) + [[Soluna]] vencen a Tiamat con la Lanza + [[Gema_de_la_Creacion|Gema de la Creación]].
 
 La revelación del pasado en 1368 DR es **condición narrativa** de la victoria de 1375 DR: Minaya solo puede liderar la victoria una vez ha asumido su identidad híbrida (Coyote agente de Tiamat × Zara drow).
 
@@ -49,15 +49,11 @@ La revelación del pasado en 1368 DR es **condición narrativa** de la victoria 
 
 La fórmula **"secretos duales"** liga este evento explícitamente con la [[Magia_dual|Magia Dual]] robada por Pablo. La gema de Coyote contiene principio de dualidad — Grazzt no sabe descifrarla todavía, lo que sugiere arco narrativo posterior pendiente.
 
-## Nota lateral
-
-> Pendiente: identificar jornada(es) en que se jugó la Danza del Conocimiento. ¿Es figura del archivo como Minaya quien revive la revelación de su pasado en jornada? ¿Quién jugaba Coyote en 1368 DR canónico? confirma rol asertórico.
-
 ## Notas
 
 - **Marpenoth** es octubre en el calendario de Reinos Olvidados — *"otoño/caída de hojas"* explícito en el Calendario refuerza la estética de descenso/revelación.
-- La gema-receptáculo del alma de Coyote NO es la [[Gema_de_la_Creacion|Gema de la Creación]] (que viene del Monte de Rubí de Tiamat). Son dos gemas distintas — pendiente clarificación con sobre si tienen alguna relación cosmológica.
-- La Danza del Conocimiento puede ser un **ritual recurrente** y no solo el de 1368 DR — pendiente investigar otras apariciones.
+- La gema-receptáculo del alma de Coyote NO es la [[Gema_de_la_Creacion|Gema de la Creación]] (que viene del Monte de Rubí de Tiamat). Son dos gemas distintas — su relación cosmológica queda pendiente de clarificar.
+- La Danza del Conocimiento puede ser un **ritual recurrente** y no solo el de 1368 DR — pendiente rastrear otras apariciones en el archivo.
 
 ## Ver también
 
@@ -68,4 +64,4 @@ La fórmula **"secretos duales"** liga este evento explícitamente con la [[Magi
 - [[Grazzt|Graz'zt]] (receptor de la gema-tributo)
 - [[Magia_dual|Magia Dual]] ("secretos duales")
 - [[Juicio_Final|Juicio Final 1375 DR]] (consecuencia narrativa)
-- Cadena de Reencarnación trans-campaña (Coyote eslabón)
+- Cadena de Reencarnación trans-gesta (Coyote eslabón)

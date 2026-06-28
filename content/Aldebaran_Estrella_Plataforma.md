@@ -20,7 +20,7 @@ Estrella que "guiñó el ojo" a uno de los compañeros pero también "se llevó 
 
 **Revelaciones de jornada:**
 - El mapa estelar inscrito en la piel de la serpiente voladora muerta señala a Aldebarán como destino de un "tesoro astral"
-- Fue la estrella que durante un momento clave "le cortaron la cabeza con Ramón" (referencia a evento de otra campaña: la fecha donde le cortaron la cabeza a Clona)
+- Fue la estrella que durante un momento clave "le cortaron la cabeza con Ramón" (referencia a evento de otra ciclo: la fecha donde le cortaron la cabeza a Clona)
 - A exactamente 65 [coordenadas]: dato verificable que señala como no inventado
 
 **Revelaciones de jornada:**
@@ -42,3 +42,8 @@ Aldebarán (Alpha Tauri) es la estrella más brillante de la constelación de Ta
 
 - el archivo revelaciones
 - el archivo revelaciones
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Una estrella que es a la vez puesto de guardia: Aldebarán, el ojo del Toro a 65 años-luz, figura entre las [[Plataformas_Zodiacales_Guardianes_TNW|plataformas zodiacales]] que acechan sobre los cielos vacíos, cada una con su custodio y su tesoro astral. De ella procede [[Zygomind]] en el [[Lago_de_Cali]], y la torre del [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]] se alinea con su luz como ancla del que navega el tiempo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

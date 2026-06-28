@@ -26,3 +26,8 @@ el Descenso el archivo (primera aparición), el Descenso el archivo líneas ~113
 ## Notas
 
 El ritual finalmente se completa usando la espada mágica obtenida del [[Tempestari]]. [[Bertrand]] narra la historia de [[Paolo_y_Francesca_Inferno|Paolo y Francesca]], hace check de Noble History. Las chicas reciben esperanza y quedan unidas. Resonancia con el tema central del segundo círculo: el amor que condena pero que también puede redimir a través de la esperanza.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ※
+> *Dos almas del segundo círculo (Lujuria) que piden repetir un molde: quieren ser unidas eternamente como [[Paolo_y_Francesca_Inferno|Paolo y Francesca]] —la condena tomando la forma exacta de los amantes que la preceden—, hasta sus nombres con la misma inicial «M». La unión exige bajar al estrato correcto del rito: daga de hueso equivocada primero, después la espada larga del [[Tempestari]], cantos y esperanza que sólo dan los no-condenados. [[Bertrand]] narra el modelo y el corte se vuelve consagración, no castigo.* — glosa de Paulus.
+<!-- /CICLO -->

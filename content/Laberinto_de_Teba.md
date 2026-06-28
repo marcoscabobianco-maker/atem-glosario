@@ -22,19 +22,8 @@ aliases:
 - Dinosaurio tipo Triceratops
 - [[Minotauro_Jefe_del_Laberinto|Minotauro]] (enemigo final no aún enfrentado)
 
-Paredes de roca sólida pero algunas son ilusiones de arquitectura mágica (warzone spell). Brumas densas en todo el complejo. [[Lords_of_Creation_Sistema_TNW|Sistema]] de "ovillo de [[Ariadna_Genoveva|Ariadna]]" (hilo de plata) utilizado como protección y marcador de ruta de salida.
+Paredes de roca sólida, aunque algunas son ilusiones de arquitectura mágica que disfrazan el campo de batalla. Brumas densas en todo el complejo. Un "ovillo de [[Ariadna_Genoveva|Ariadna]]" —hilo de plata— se usa como protección y marca la ruta de salida.
 
-**Ref.:** Líneas 31-722 (jornada completa, estructura primaria)
+Construcción posiblemente infernal, quizás pre-medieval: las menciones de Amón y los [[Rollos_del_Mar_Muerto]] sugieren sincretismo antiguo-cristiano. El cronista lo plantea deliberadamente como una **inversión del mito de Teseo**: en vez de un héroe solitario contra un monstruo singular, un grupo de cruzados contra una escalada de criaturas —el mito clásico releído en clave cristiana y gnóstica—.
 
-**Capa [R]:** Construcción posiblemente infernal, quizás pre-medieval (menciones de Amón, [[Rollos_del_Mar_Muerto]] sugieren sincretismo antiguo-cristiano). El cronista establece deliberadamente que es una **inversión del mito de Teseo**: en vez de un héroe solitario contra un monstruo singular, un grupo de cruzados contra escalada de criaturas. Estructura narrativa paralela: mito clásico → interpretación cristiana / gnóstica.
-
-**Nota trans-campaña:** Similar en función al "[[Infierno]] de 9 círculos" en el Descenso (descenso, pruebas, escalada de adversarios). Ambas campañas estructuran conflicto como *purgatorio subterráneo progresivo*.
-
-### el plano operativo
-
-- Piedestal con inscripciones hieráticas (Amón, referencias a cabezas cortadas, tropas acuáticas)
-- Serpiente colosal custodio del huevo infernal
-- [[Leon_Epoca_Carlomagno_800_DC|León]] gigante en jaula de fuerza mágica
-- Cíclope postor de refugiados
-- Dinosaurio tipo Triceratops
-- [[Minotauro_Jefe_del_Laberinto|Minotauro]] (enemigo final no aún enfrentado)
+**Eco trans-saga:** cumple una función similar al "[[Infierno]] de 9 círculos" del Descenso —bajada, pruebas, escalada de adversarios—. Ambas sagas estructuran el conflicto como *purgatorio subterráneo progresivo*.

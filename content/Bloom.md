@@ -29,16 +29,16 @@ imagen: Imagenes_Tier1/Bloom.png
 
 > *"Hay armaduras que llegan tarde y por eso llegan a tiempo."*
 
-**Paladín negro**, **liberador**. Viene **de lejos** —de la campaña de **[[Los_Boreales]]**— y trae todavía puesta la **armadura de placas** del medievo, anacronismo deliberado que el cosmos compartido tolera por mérito propio: *en la víspera de la Guerra Civil norteamericana, una figura de orden caballeresco precede el oficio que la historia confiaría a otros*.
+**Paladín negro**, **liberador**. Viene **de lejos** —de la gesta de **[[Los_Boreales]]**— y trae todavía puesta la **armadura de placas** del medievo, anacronismo deliberado que el cosmos compartido tolera por mérito propio: *en la víspera de la Guerra Civil norteamericana, una figura de orden caballeresco precede el oficio que la historia confiaría a otros*.
 
 Su arco de mesa lo lleva de **[[Los_Boreales|los Boreales]]** al ciclo de **[[Los_Reguladores|los Reguladores]] —donde regula— y de allí a [[Les_Libertateurs_Pretty_Women|los Libertateurs]] —donde libera—**. *La rima de los dos oficios no es casual*: regular y liberar son, en [[Antiterra]], dos formas de la misma vocación.
 
 ## Vínculos
 
-- [[Los_Boreales]] — campaña de origen
+- [[Los_Boreales]] — gesta de origen
 - [[Los_Reguladores]] — paso intermedio
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] — destino del arco
-- [[Ray_TNW|Ray (TNW)]] — eco trans-campaña en otra línea del cosmos
+- [[Ray_TNW|Ray (TNW)]] — eco trans-gesta en otra línea del cosmos
 - [[Akala]]
 
 ## Apariciones
@@ -47,3 +47,8 @@ Su arco de mesa lo lleva de **[[Los_Boreales|los Boreales]]** al ciclo de **[[Lo
 - **Reguladores** — fase intermedia
 - **[[Libertateurs]]** — fase culminante
 - **Anacronismo persistente** — la armadura de placas que no se quita
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ⛓
+> *El paladín negro de armadura anacrónica cuyo arco lo pasa de banda en banda: de [[Los_Boreales]] a [[Los_Reguladores]] —donde regula— y de allí a [[Les_Libertateurs_Pretty_Women|los Libertateurs]] —donde libera—. La rima de los dos oficios no es casual: regular y liberar son en [[Antiterra]] dos turnos de la misma vocación, y Bloom los va heredando como quien pasa de un puesto al siguiente. Su eco trans-gesta en [[Ray_TNW|Ray]] cierra la figura: la misma función reaparece en otra línea del cosmos, otro nombre en el mismo oficio.* — glosa del Decadiano.
+<!-- /CICLO -->

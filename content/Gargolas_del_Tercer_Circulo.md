@@ -9,16 +9,6 @@ aliases:
 
 ## Presentación
 
-**Ref.:** el archivo (interaccion completa)
+Criaturas voladoras del tercer círculo, en bandadas de media docena o más. No son simples enemigos: negocian, tienen jerarquías y responden a una autoridad dentro del círculo. Trabajan para el [[Cancerbero_CDI|Cancerbero]] u otro señor del círculo, y tratan con los compañeros —alas de [[Arian|Adam]] a cambio de escolta y paso seguro—. Son "servientes crueles" de reputación mortífera, capaces de transportar personas en vuelo.
 
-**Nota:** No son simples enemigos — negocian, tienen jerarquias, y responden a un sistema de autoridad dentro del circulo. Su rol como intermediarios recuerda a los [[Tempestari]] pero a escala menor.
-
-### el plano operativo
-
-Criaturas voladoras del tercer circulo. el archivo de transcripción las distorsiona como "cargolas," "garmonas," "gargoros." Grupo de 6+. Tienen motivaciones propias: trabajan para el [[Cancerbero_CDI|Cancerbero]] u otro senor del circulo. Negocian con los compañeros: alas de [[Arian|Adam]] a cambio de escolta y paso seguro. Son "servientes crueles" con "deadly reputation". Pueden transportar personas en vuelo.
-
-### Notas
-
-No son simples enemigos — negocian, tienen jerarquias, y responden a un sistema de autoridad dentro del circulo. Su rol como intermediarios recuerda a los [[Tempestari]] pero a escala menor.
-
-**Ref.:** el archivo (interaccion completa)
+Su papel como intermediarios recuerda al de los [[Tempestari]], pero a escala menor.

@@ -36,7 +36,5 @@ aliases:
 ## Ver también
 
 - Sinónimos
-- [[Elementos_caracteristicos|Elementos característicos]]
-- [[Naturaleza_cosmologica|Naturaleza cosmológica]]
 - Estatus
 - [[Primeras_apariciones]]

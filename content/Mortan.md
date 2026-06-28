@@ -49,9 +49,9 @@ En la primera fase del juicio, **Mortan defendió al brujo [[Silas_del_Umbral|Si
 
 En **la jornada del altar partido**, cuando Silas regresó a la [[Iglesia_Consagrada_Helix|iglesia]] con los dos gemelos corrompidos a pedir el deseo sobre la [[Tableta_del_Caos]], **Mortan estaba con Otar al pie del altar**. *El cronista del Plata anota la escena con precisión*: *"Mortan, aunque hubo dudas, y como dudas entre ellos, tipo... 'No, pero vos no, por tu culpa...' 'No, yo sigo sirviendo a Dios, lo que fuera, qué sé yo'"*.
 
-*La duda existió*. **Pero fue duda interna, no titubeo operativo**. Cuando el vicario lanzó Hold Person, **Mortan lanzó la misma palabra simultáneamente**. *"Casi como si se sincronizaron, decían a los tres"*. **Los tres invasores fallaron sus tres tiradas de salvación** —*"medio Dios quiso"*—. *La sincronía liturgia operó*: **dos voces sacerdotales sobre la misma palabra, palabra terminal**.
+*La duda existió*. **Pero fue duda interna, no titubeo en el acto**. Cuando el vicario pronunció la palabra que paraliza, **Mortan pronunció la misma palabra a la vez**. *"Casi como si se sincronizaron, decían a los tres"*. **Los tres invasores no pudieron resistirla** —*"medio Dios quiso"*—. *La sincronía litúrgica operó*: **dos voces sacerdotales sobre la misma palabra, palabra terminal**.
 
-A los dos gemelos los perdonaron al calabozo. **A Silas le abrieron el cráneo de un golpe seco con maza sobre el altar consagrado**. *El cronista del Plata anota la figura como inscripción doctrinal*: **la sincronía de Hold Person ejecutada por dos clérigos** es **figura litúrgica del régimen divino del Abad**. *La voluntad divina se confirma cuando dos sacerdotes invocan la misma palabra al mismo tiempo*. **Sin la sincronía, el conjuro no opera con la fuerza terminal que operó**. *La muerte del brujo umbral fue obra de dos sacerdotes en la misma palabra, no de uno solo*.
+A los dos gemelos los echaron al calabozo. **A Silas le abrieron el cráneo de un golpe seco con maza sobre el altar consagrado**. *El cronista del Plata anota la figura como inscripción doctrinal*: **la sujeción ejecutada al unísono por dos clérigos** es **figura litúrgica del régimen divino del Abad**. *La voluntad divina se confirma cuando dos sacerdotes invocan la misma palabra al mismo tiempo*. **Sin la sincronía, el conjuro no opera con la fuerza terminal que operó**. *La muerte del brujo umbral fue obra de dos sacerdotes en la misma palabra, no de uno solo*.
 
 ## La defensa de Héctor Risco
 
@@ -91,5 +91,5 @@ Tras la ejecución, *cuando la turba de Helix avanzó sobre los demás del grupo
 - **Antes del cerco** — clérigo sanador del grupo del santuario, veterano que ancla al grupo
 - **La audiencia del juicio** — designado por Otar como "sacerdote del día", confesó parcialmente, defendió a Silas
 - **La noche de la huida** — se quedó en el santuario, defendió su versión, ganó la confianza del vicario
-- **La jornada del altar partido** — sincronizó Hold Person con Otar, participó de la ejecución de Silas
-- **Después** — defendió a Héctor Risco de la turba, operativo como bisagra entre santuario y sobrevivientes
+- **La jornada del altar partido** — pronunció al unísono con Otar la palabra que paraliza, participó de la ejecución de Silas
+- **Después** — defendió a Héctor Risco de la turba, bisagra entre santuario y sobrevivientes

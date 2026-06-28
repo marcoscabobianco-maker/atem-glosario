@@ -14,7 +14,7 @@ aliases:
 
 **Tema:** Seguridad de reliquias.
 
-**Resultado:** Acuerdo de depósito en bóvedas de Ur. Reliquias transferidas fuera de [[Temple_complejo_TE|Temple]]. [[Protocolo_de_acceso]] establecido.
+**Resultado:** Acuerdo de depósito en bóvedas de Ur. Reliquias transferidas fuera de [[Temple_complejo_TE|Temple]]. Protocolo de acceso establecido.
 
 **Implicación:** Control de reliquias fuera de [[Temple_complejo_TE|Temple]]. Dependencia en fuerzas extraplanares.
 

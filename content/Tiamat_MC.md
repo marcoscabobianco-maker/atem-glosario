@@ -165,3 +165,8 @@ La Reina opera, además, como **referente operativo de los antagonistas mayores*
 - **1401 D.R.** — el avatar abandona el culto y toma el poder en Egipto con Ai como consorte
 - **Ciclo presente** — esperando la cabeza que aún no se ha mostrado
 - **Orbe de Vala** — sustrato del *Enuma Elish* reactualizado en el Año Nuevo de Uruk; madre de los dragones de Tiamat; sombra del [[Valle_de_la_Tempestad]] y del Huevo Negro
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ※
+> *La madre del Caos no se vence, se posterga: [[Arian]] le cortó una sola de sus cabezas, [[Soluna|Soluna]] y [[Minaya_MC|Minaya]] cerraron su tiranía en el [[Juicio_Final]] sin destruirla, y ella se guarda en sus avatares —Ti Mut, Tii, la viuda de negro que tomó Egipto— a la espera de la cabeza que aún no mostró. Su firma onomástica es la cosa misma: las cinco cabezas riman con las cinco eras de [[Grazzt|Graz'zt]] en el mismo [[Ardipithecus|pentáculo abisinio]], y en [[Uruk_(capital)_y_Casa_Azul|Uruk]] su nombre entero vuelve cada Año Nuevo a convocarla.* — glosa de Arkos.
+<!-- /CICLO -->

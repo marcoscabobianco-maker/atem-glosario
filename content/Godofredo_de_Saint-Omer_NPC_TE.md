@@ -12,16 +12,8 @@ aliases:
 
 ## Presentación
 
-- **el plano operativo:** Segundo al mando de la Orden del [[Temple_complejo_TE|Temple]] bajo [[Hugo_de_Payns|Hugo de Payns]]. Apodado "güelfo blanco". Encargado de la parte militar. [[Flamenco]] de origen.
-- **Ref.:**
-- **Nota lateral:** Personaje histórico real. Godofredo de Saint-Omer fue co-fundador de los [[Templarios]] junto con [[Hugo_de_Payns|Hugo de Payns]].
+Segundo al mando de la Orden del [[Temple_complejo_TE|Temple]] bajo [[Hugo_de_Payns|Hugo de Payns]], encargado de la parte militar. Apodado "güelfo blanco". [[Flamenco]] de origen.
 
-### el plano operativo
+## Nota lateral
 
-Segundo al mando de la Orden del [[Temple_complejo_TE|Temple]] bajo [[Hugo_de_Payns|Hugo de Payns]]. Apodado "güelfo blanco". Encargado de la parte militar. [[Flamenco]] de origen.
-
-### Nota lateral
-
-Personaje histórico real. Godofredo de Saint-Omer fue co-fundador de los [[Templarios]] junto con [[Hugo_de_Payns|Hugo de Payns]].
-
-**Ref.:**
+Personaje histórico real: Godofredo de Saint-Omer fue co-fundador de los [[Templarios]] junto con [[Hugo_de_Payns|Hugo de Payns]].

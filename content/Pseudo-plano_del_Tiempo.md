@@ -33,3 +33,8 @@ plano, criaturas, mecánicas), [212] (expulsión por deseo de [[Arian]]),
 ## Notas
 
 El concepto se operacionaliza en un sistema temporal ucrónico: [[El_Primer_Reloj|EL PRIMER RELOJ]] (legendario, canaliza poder de [[Kronamon]], modelo primigenio de [[U-Reloj]]), Reloj [[Mediterraneo_Ucronico|Ucrónico]], [[U-Reloj]] (medidor de corrientes témpicas), [[Philippe]] (relojero), quest [[Time_Capsules|Time Capsules]], timeline [[Cronotime]], calendarios [[Frome]] Kalendar y JSH. [[Tindalo|Tíndalo]] (Sabueso Temporal) es amenaza inherente al viaje temporal.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *El plano donde el tiempo tiene cuerpo: las líneas de vida cuelgan como cablerío tubular y el [[Tindalo|Sabueso Temporal]] caza por sus ángulos, mientras el Death Harpist cercena esas hebras de existencia. Aquí el tiempo no se viaja: se corta, se gasta, se preda. Se operacionaliza en la cronomancia ucrónica —[[El_Primer_Reloj|el Primer Reloj]] que canaliza a [[Kronamon]], el [[U-Reloj]] que mide corrientes témpicas—, y solo los cronomantes hallan salida; los demás quedan presos del tiempo hecho materia, expulsados allí por el deseo de [[Arian]].* — glosa de Amitlai.
+<!-- /CICLO -->

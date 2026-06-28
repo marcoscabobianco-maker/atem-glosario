@@ -126,3 +126,8 @@ Tres años después, en el ciclo del Descenso, Ärsvan reaparece como templario 
 - **[[Destruccion_de_Notre_Dame|Destrucción de Notre Dame]] ([[Paris_Ucronica|París Ucrónica]])** — Ärsvan inmolado; sellado del ciclo demoníaco parisino
 - **Operaciones menores trans-geográficas** — intervenciones documentadas fragmentariamente en pliegues múltiples
 - **1824 AE — ciclo presente** — orden activa sin sede pública; nueva intervención anticipada para el próximo ciclo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ☷ ⟳ ⛓
+> *Paladines del equilibrio cronológico que cierran los ciclos demoníacos cuando el Tiempo enferma: el [[Libro_Azul]] de [[Cronomon]] fija un apocalipsis para 1889 y la orden interviene donde el cosmos los convoca. Su doctrina es la inmolación —uno de los suyos se gasta para sellar la grieta: el templario inmolado de la [[Capilla_Oscura]], [[Arsvan|Ärsvan]] saltando a la Esfera en [[Catedral_de_Notre-Dame_PU|Notre Dame]]—; el sacrificado pasa a ser nervio del cierre, el oficio que se hereda muriendo. Operan como brazo de [[Los_Reguladores]] —la banda con sigla propia— y descienden por estratos, del [[Temple_complejo_TE|Temple]] de 1120 al [[Laberinto_Omniporal]] fuera del espacio-tiempo.* — glosa de Paulus.
+<!-- /CICLO -->

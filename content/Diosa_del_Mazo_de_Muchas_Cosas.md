@@ -85,3 +85,8 @@ imagen: null
 - **Fundación de Caldero** — último golpe del Mazo marca el sitio de la ciudad
 - **Siglos de operación residual** — inteligencia y diversidad sostenidas como herencia
 - **1824 AE — ciclo presente** — mito vivo en boca de ancianos, rituales artesanales menores
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ✦
+> *El Mazo de Muchas Cosas es el artefacto cosmológico que decide un mundo: jugando en el cráter, la diosa golpea la roca incandescente y de cada chispa nace la inteligencia humana, y el último golpe marca el sitio de [[Caldero]] —la ciudad no se construye, responde a la marca. El nombre evoca el famoso Deck of Many Things, pero el mito lo lee al revés: el Mazo primigenio fue la fuente, el Deck de cartas la operación tardía derivada. Hoy la deidad se retiró al estado cosmológico y opera como ausencia activa, presente en cada golpe del forjador sobre la obsidiana de [[Vala_Cristalis|la forma volcánica]].* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

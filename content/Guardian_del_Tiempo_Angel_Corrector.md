@@ -26,4 +26,3 @@ aliases:
 - [[Epiteto|Epíteto]]
 - Trigger
 - Arma
-- [[Relacion_Ariadna|Relación Ariadna]]

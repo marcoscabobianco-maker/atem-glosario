@@ -10,5 +10,5 @@ Primo mayor de [[Alphonse]], con quien comparte el tejido social del barrio pari
 Poco dado a los asuntos del momento, Gérard circula entre los mismos espacios que Alfonse frecuenta, más por inercia de parentesco que por inclinación propia. Su figura, anciana y algo distante, aparece en los registros como testigo involuntario antes que como actor.
 
 ## Vínculos
-- [[Alphonse]] — primo menor; vínculo familiar que lo ancla al círculo de la campaña
+- [[Alphonse]] — primo menor; vínculo familiar que lo ancla al círculo de la gesta
 - [[Paris]] — ciudad donde transcurren sus escasas apariciones en el registro

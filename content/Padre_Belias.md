@@ -107,3 +107,8 @@ La forma **[[Belial]]** —*del panteón pre-[[Decadiano]] archonteo*— **era n
 - **Caída de Ritornello (primer año del Hiato)** — destrucción del templo; destino del sacerdote en discusión (tres versiones)
 - **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — paradero objeto de pregunta abierta
 - **Ciclo presente** — sin confirmación de supervivencia o muerte
+
+<!-- CICLO -->
+> **Casas del ciclo** · ※ ✒
+> *La inquietud de la ficha es su nombre: «Belias» roza a [[Belial]], la deidad pre-decadiana que la reforma neutralizó, y los teósofos clandestinos sospechan un sacerdote del culto antiguo rebautizado, que conservó el nombre con modificación menor. La coincidencia onomástica como sospecha de identidad es la casa donde el nombre es la cosa. Y Belias es también figura de registro interno: lleva un diario donde anota la confesión del [[Argus_PJ|Barón Argus]] antes del paso del huevo bomba —«El barón teme algo que sus soldados no pueden detener»—, fragmento que sobrevive a la caída de [[Ritornello]] en el legajo de [[Narsileon]].* — glosa de Arkos.
+<!-- /CICLO -->

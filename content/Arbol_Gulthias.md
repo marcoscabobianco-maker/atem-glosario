@@ -15,7 +15,6 @@ tags:
  - novatos-ravenloft
  - ardis-vala
  - mc
- - sunless-citadel
  - rizoma
  - retoño
  - cross-campaña
@@ -23,27 +22,26 @@ tags:
  - belac
 ---
 
-> *El árbol vampirico del. En el setting del ciclo, manifestación local del [[Arbol_de_Armas_Principal|Árbol de Armas Principal]] vía rizoma. [[Bellaca]] como su reina. Belac como su custodio terrenal.*
+> *El árbol vampírico de la [[Ciudadela_Hundida]]. En el cosmos compartido, manifestación local del [[Arbol_de_Armas_Principal|Árbol de Armas Principal]] vía rizoma. [[Bellaca]] como su reina. Belac como su custodio terrenal.*
 
 ## Presentación
 
-El **Árbol Gulthias** —*The Gulthias Tree*— es el **árbol vampírico antagonista** del módulo **[[Ciudadela_Hundida|The ]]** (Bruce R. Cordell, D&D 3e 2000). En el setting del ciclo y **bajo el reveal de (2026-05-20)**, es **manifestación local de algo mayor**: **rizoma del [[Arbol_de_Armas_Principal|Árbol de Armas Principal]]** crecido en la [[Arcanum_Forge|Forja Arcanum]] a partir de la semilla [[RAJ-750]].
+El **Árbol Gulthias** es el **árbol vampírico antagonista** que crece en las profundidades de la **[[Ciudadela_Hundida]]**. Bajo la **revelación del archivo (2026-05-20)**, es **manifestación local de algo mayor**: **rizoma del [[Arbol_de_Armas_Principal|Árbol de Armas Principal]]** crecido en la [[Arcanum_Forge|Forja Arcanum]] a partir de la semilla [[RAJ-750]].
 
-### En el módulo canónico 
+### El árbol del barranco
 
-**Árbol Gulthias canónico**:
+En su forma conocida, el Árbol Gulthias es:
 
 - **Vampiro vegetal antiguo**
 - Crece en una caverna profunda bajo la Ciudadela
 - **Custodiado por [[Belac]]** —druida proscrito del quinto grado de su temple—
-- **Genera Twig/Needle/Vine Blights** como soldados-extensiones
+- **Genera retoños espinosos** (de ramita, de aguja, de zarcillo) como soldados-extensiones
 - **Produce manzanas mágicas** del solsticio:
- - **Roja** (curación con powers check Ravenloft)
- - **Blanca** (veneno mortal con salvación -2)
-- Vulnerable al fuego
-- Mecánica clásica: "muere si se quema, los blights se desmoronan"
+ - **Roja**, que sana a quien la come
+ - **Blanca**, veneno mortal
+- Vulnerable al fuego: si arde, el árbol muere y sus retoños se desmoronan
 
-### En el setting del ciclo (revelación del archivo)
+### En el cosmos compartido (revelación del archivo)
 
 **Identidad ampliada**:
 
@@ -59,7 +57,7 @@ En la versión MC, el árbol **incorpora armas como frutos**:
 
 > *"Un árbol enorme, gris, sin hojas. Pero no estaba vacío. De sus ramas colgaban armas. Espadas, hachas, dagas, cosas sin nombre. Una panoplia viva, creciendo de la madera como frutos. Brillaban con una luz que no debería existir en la oscuridad."*
 
-**Diferencia con el canónico Gulthias**: las **manzanas son secundarias** al **arsenal de armas frutales**. integra la mecánica de **producción de armas** propia del módulo de armas rudishva ([[RAJ-750]]).
+**Diferencia con la versión conocida**: las **manzanas son secundarias** al **arsenal de armas frutales**. El árbol integra la **producción de armas** propia del módulo de armas rudishva ([[RAJ-750]]).
 
 ### La reina
 
@@ -74,14 +72,14 @@ En la versión MC, el árbol **incorpora armas como frutos**:
 El árbol-rizoma produce:
 
 - **Armas como frutos** (espadas, hachas, dagas, "cosas sin nombre")
-- **Twig/Needle/Vine Blights** (canónico)
-- **Manzanas del solsticio** (roja curación, blanca veneno)
-- **Hongos del Grove** (no en versión MC, posible adaptación)
+- **Retoños espinosos** (de ramita, de aguja, de zarcillo)
+- **Manzanas del solsticio** (roja sanadora, blanca venenosa)
+- **Hongos del soto** (no en la versión MC, posible adaptación)
 - **Caballeros del [[Arbol_de_Armas_Principal|Árbol de Armas]]** —orden cuasi-vampírica consagrada por Bellaca
 
 ## Vínculos
 
-- [[Ciudadela_Hundida]] — módulo donde aparece
+- [[Ciudadela_Hundida]] — el lugar donde se alza
 - [[Arbol_de_Armas_Principal]] — árbol madre del cual es rizoma
 - [[RAJ-750]] — semilla original
 - [[Arcanum_Forge|Forja Arcanum]] — locus de crecimiento del árbol madre
@@ -89,13 +87,12 @@ El árbol-rizoma produce:
 - [[Bellaca]] — reina del árbol
 - [[Bellaca|Lali]] — identidad original de Bellaca
 - [[Belac]] — custodio druídico canónico
-- [[Novatos_Ravenloft]] — campaña que lo visita
+- [[Novatos_Ravenloft]] — gesta que lo visita
 - el archivo [[Ardis_Vala]] — origen
 - [[Caballeros_del_Arbol_de_Armas]] — orden nueva consagrada por Bellaca
 - [[Arcanum]] — sustancia mágica primordial
 - [[Valakhan_de_la_Bruma]] — dominio donde opera
-- [[Arden_Vul|Ardis Vala]] — campaña
-- **Bruce R. Cordell** (autor original)
+- [[Arden_Vul|Ardis Vala]] — gesta
 
 ## Apariciones
 

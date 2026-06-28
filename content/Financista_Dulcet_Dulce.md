@@ -15,10 +15,4 @@ aliases:
 
 ## Presentación
 
-**Ref.:** el archivo (propiedad), (Lannister), (combate detallado)
-
-### el plano operativo
-
-Uno de los cuatro libertinos del [[Castillo_de_Siegling|Castillo de Siegling]]. Correspondencia con el banquero Durcet de Sade. Descrito "como Lannister". [[Propietario]] de la "miserable aldea de carboneros" que rodea el castillo (: "la aldea le pertenece. Dulcet"). Ataque de mordida brutal contra [[Arsvan]]: un tarascón que casi lo parte en dos. Derrotado tras un combate largo. Tiene capacidad de recargar "esforas" (esferas de energia? — transcripcion confusa,).
-
-**Ref.:** el archivo (propiedad), (Lannister), (combate detallado)
+Uno de los cuatro libertinos del [[Castillo_de_Siegling|Castillo de Siegling]], eco del banquero Durcet de Sade y descrito "como Lannister". [[Propietario]] de la "miserable aldea de carboneros" que rodea el castillo —"la aldea le pertenece, a Dulcet"—. Lanzó contra [[Arsvan]] una mordida brutal, un tarascón que casi lo parte en dos, y fue derrotado tras un combate largo. Tiene capacidad de recargar "esforas" —al parecer esferas de energía—.

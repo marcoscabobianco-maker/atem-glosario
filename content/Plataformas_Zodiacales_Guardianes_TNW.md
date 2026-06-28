@@ -41,7 +41,7 @@ Es esto lo que el **[[Cakravartin]]** entrega como revelación en la pirámide c
 
 El sistema, sin embargo, fue **cooptado por una entidad extradimensional**. Lo que originalmente era guardianía del orden cosmológico ha sido infiltrado por **[[Yog-Sothoth_TNW|Yog-Sothoth]]** —presencia lovecraftiana que se introdujo en el mecanismo y ahora lo opera, en parte, desde sus propios fines—. Lo que impide el cierre definitivo, lo que el cuaderno C73 conserva como sentencia, es esto: *"el secreto de la magia dual"*. La magia dual robada por Pablo al panteón es la defensa originaria contra la cooptación. Quien conozca el secreto, defiende. Quien lo ignore, es presa.
 
-Las plataformas se conectan, en distintas campañas, con momentos centrales: el **Juego de las Sombras** de los [[Libertateurs]] en Praga es —se ha confirmado tras múltiples cruces— el mismo sistema, jugado en otro siglo y bajo otro nombre. La plataforma de Aries, donde [[Los_Profundos]] enfrentaron a las mercenarias mexicanas en el templo del Ouroboros, es la misma plataforma que en otras épocas sostuvo otras gestas. La de Scorpio, guardada por [[Jean-Baptiste_TNW|Jean-Baptiste]], aparece en el Mundo Nuevo. El sistema atraviesa los siglos sin romperse del todo.
+Las plataformas se conectan, en distintas gestas, con momentos centrales: el **Juego de las Sombras** de los [[Libertateurs]] en Praga es —se ha confirmado tras múltiples cruces— el mismo sistema, jugado en otro siglo y bajo otro nombre. La plataforma de Aries, donde [[Los_Profundos]] enfrentaron a las mercenarias mexicanas en el templo del Ouroboros, es la misma plataforma que en otras épocas sostuvo otras gestas. La de Scorpio, guardada por [[Jean-Baptiste_TNW|Jean-Baptiste]], aparece en el Mundo Nuevo. El sistema atraviesa los siglos sin romperse del todo.
 
 Una coincidencia que el archivo deja apuntada y no termina de explicar: **doce plataformas, doce hijos de Maleika**. Seis con el demonio etíope, seis con [[Lucifer]]. Pueden ser azar. Pueden ser arquitectura. Pendiente.
 
@@ -70,3 +70,8 @@ El **Faro de Alejandría**, en algunas referencias, aparece como **mecanismo ope
 - Praga, siglo XVIII — el Juego de las Sombras de los Libertateurs (mismo sistema, otro nombre)
 - el Mundo Nuevo — confirmación de la cooptación por [[Yog-Sothoth_TNW|Yog-Sothoth]]
 - Eclipses — activación de plataformas en distintas épocas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ⛓ ☯
+> *Doce o trece plataformas zodiacales, cada una con dos [[Guardianes]] enfrentados por la dualidad de su signo: si se odian sin matarse, el mundo se sostiene; si se unen, paren un Sentinela que vuelve navegable a [[Antiterra]] como una nave. El oficio es rotativo y puesto a prueba —[[Los_Profundos]] aprenden a moverse en el Juego cuando el [[Cakravartin]] les revela el sistema, el mismo que los [[Libertateurs]] juegan siglos después como [[Juego_de_las_Sombras]] en Praga—, y la banda nombrada es la que cruza las casas. El cosmos aquí es par: doce signos, doce hijos de [[Maleika_Maleyka|Maleika]], el mundo entero sostenido por odios apareados.* — glosa del Decadiano.
+<!-- /CICLO -->

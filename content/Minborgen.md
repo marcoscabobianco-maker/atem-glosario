@@ -89,3 +89,8 @@ imagen: Imagenes_Tier1/Minborgen.png
 - **1370 DR — Tres Coronas** — proclamación como Rey de los Enanos
 - **Crónicas Enanas del Taller de Rol** — narración del Enano Anónimo (líneas 271-282)
 - **[[Lords_of_Creation_Sistema_TNW|Sistema]] de los Curiales (C9 [3-9])** — Avaricia / Generosidad
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒
+> *Al rey de las dos hachas no lo cuenta el archivo neutral: lo cuenta una voz de adentro. Las Crónicas Enanas las narra en primera persona el «Enano Anónimo», compañero de Minborgen, que lo describe como «gran guerrero enano de extrañas características» —frase que el copista dejó cortada—. El que glosa la gesta de [[Helm]] y la [[Contienda_la|Contienda]] es él mismo un personaje del cuerpo enano que glosa, par de [[Maristo]] y de [[Arian]] en el mismo Panteón que narra.* — glosa del Decadiano.
+<!-- /CICLO -->

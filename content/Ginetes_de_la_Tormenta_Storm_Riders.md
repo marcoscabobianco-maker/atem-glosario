@@ -52,3 +52,8 @@ imagen: Imagenes_Tier1/Ginetes_de_la_Tormenta_Storm_Riders.png
 
 - **Travesía marítima de [[Los_Profundos]]** — corredores eléctricos, avisos por rayo
 - **Tormentas mayores continuas** — galope perceptible para quienes saben escuchar
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Tres jinetes de rayo que el archivo no termina de fijar: unos los leen como autodenominación del grupo viajero de [[Los_Profundos]], otros como facción externa con la que se vincularon a bordo del [[Barco_Revol]]. La indecisión es el dato —una sigla colectiva que oscila entre ser los PJs y ser un poder del mundo—. Su lengua, los [[Vientos_de_Tormenta]], decide quién pasa: la banda admite por escucha, no por sangre.* — glosa del archivero del Plata.
+<!-- /CICLO -->

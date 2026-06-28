@@ -27,7 +27,7 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 ![[Imagenes_Tier1/Aby_Warburgo.png]]
 <!-- /HEADER_IMG -->
 
-> *"[[Notas_sobre_el_ritual_de_la_Serpiente]]. Por Aby Warburgo, descendiente de la casa de acero, miembro silencioso de las academias improbables, lector pasional de los ciclos."*
+> *"Notas sobre el ritual de la Serpiente. Por Aby Warburgo, descendiente de la casa de acero, miembro silencioso de las academias improbables, lector pasional de los ciclos."*
 
 **De pie frente al mural de imágenes**: *anteojos redondos, saco oscuro de tres botones, corbata negra, bigote breve*, **la mano derecha señala una de las láminas pinchadas con alfileres en la pared**; **al fondo**, **decenas de imágenes pequeñas dispuestas en filas y conectadas por hilos finos** —*el atlas mnemónico de Aby*—; **sobre la mesa del primer plano**, **libros encuadernados en cuero, papeles desplegados, una pluma sobre el tintero**. *El gesto del señalamiento es el oficio*: **se pone uno a explicar una figura y aparece la red que la sostiene en otras**.
 
@@ -39,7 +39,7 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 
 **Su oficio doble** —*académico de día, monje-guerrero cuando la situación lo pide*— **no es excentricidad**: **es continuidad disciplinar**. *Las artes marciales que practica son las del cuerpo formado para la observación*; **las técnicas del Atlas Mnemónico que pincha en la pared son las del cuerpo formado para la concentración**. *El golpe y la imagen comparten la misma respiración*: **Aby aprendió ambas a la vez, en el monasterio mixto que su prima Alexine ayudó a fundar**.
 
-**Su Journal** —*"[[Notas_sobre_el_ritual_de_la_Serpiente]]"*— **es la obra mayor del archivo aby-warburgiano**: *estudio de la descomposición elemental y de la ambivalencia de razas como [[Naga_Paris_Ucronica|Nagas]] y [[Proteanos]]*; **investigación de patrones cíclicos**; **desconfianza de los Güelfos como cuerpo doctrinal**; **obsesión con ciclos zodiacales que pesa más que la doctrina religiosa común**.
+**Su Journal** —*"Notas sobre el ritual de la Serpiente"*— **es la obra mayor del archivo aby-warburgiano**: *estudio de la descomposición elemental y de la ambivalencia de razas como [[Naga_Paris_Ucronica|Nagas]] y [[Proteanos]]*; **investigación de patrones cíclicos**; **desconfianza de los Güelfos como cuerpo doctrinal**; **obsesión con ciclos zodiacales que pesa más que la doctrina religiosa común**.
 
 ---
 
@@ -85,7 +85,6 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 - [[Time_Bandits]] — su grupo
 - [[Warburga]] — familia industrial de Hamburgo
 - [[Alexine_Mangetout]] — prima
-- [[Notas_sobre_el_ritual_de_la_Serpiente|Notas sobre el ritual de la Serpiente]] — Journal
 - [[Naga_Paris_Ucronica|Nagas]] · [[Proteanos]] — razas estudiadas
 - [[Claude_Nauge|Claude Nauge]] · [[Corvino|Corvino]] · [[Philippe]] · [[Nagant_M1895_Swann|Swann]] — compañeros del grupo
 - [[Zygomind]] — ente [[Aldebaran_Estrella_Plataforma|Aldebarán]] identificado
@@ -106,3 +105,8 @@ imagen: Imagenes_Tier1/Aby_Warburgo.png
 - **[[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]** — regencia y operaciones cronománticas mayores
 - **[[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]** — ejecución de generales malditos, Range Maiden
 - **Debate post-Juegos Fúnebres** — posicionamiento cohesionador
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⟳
+> *El académico-monje de los [[Time_Bandits]], cohesionador entre la posición revolucionaria de [[Claude_Nauge|Claude]] y la estratégica de [[Philippe]] —la banda nombrada que cruza de París a [[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]] como sujeto único—. Su planeta asignado es Mercurio: en el reparto de los astros que el cosmos hace entre los compañeros, a Aby le toca el oficio del intermediario, el puente entre mensajes, la casa que se ocupa por función y no por azar.* — glosa del libro V del [[Decadiano]].
+<!-- /CICLO -->

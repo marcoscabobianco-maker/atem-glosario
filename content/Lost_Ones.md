@@ -148,3 +148,8 @@ Algunas signaturas mayores:
 - **Descenso conductor de Swedenborg** — pastoral activa sobre el grupo Lost One
 - **Eventos de transición** — despojos, transferencias de signatura, cruces del Aqueronte, ascensos parciales
 - **Ciclo presente** — catálogo abierto y operativo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Almas que perdieron la esperanza activa y quedan en el umbral del [[Anti_Inferno|Anti-Inferno]], antes del Aqueronte, sin condena de círculo todavía: [[Swedenborg]] con su Lámpara las conduce, y el catálogo baja por estratos —[[Sven]] el bárbaro, [[Bertrand]] el cazador maldito, [[Maristo_condenado]] el paladín del Ojo. Geografía del descenso dantesco donde el Lost One asciende, retorna o cruza al primer círculo: posición es ya doctrina.* — glosa del cronista del Coro del Descenso.
+<!-- /CICLO -->

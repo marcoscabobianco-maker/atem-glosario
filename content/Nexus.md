@@ -29,9 +29,9 @@ tags:
 
 Las tres palabras que el archivo conjuga en Nexus operan en planos distintos:
 
-- **[[Sigil]]** — la Ciudad de las [[Puertas]] del lore Planescape. Centro planar conocido, nodo de portales. Lo que el setting **tiene de fáctico** como nexo entre planos.
-- **Sogol** — *Sigil* leída al revés (anagrama especular). Lo que el setting tiene de **inverso, oculto, refractado**. La forma especular de la ciudad de las puertas.
-- **Logos** — la palabra, la razón, el principio griego del orden inteligible. Lo que el setting tiene de **fundamento conceptual** —la idea como sustancia, el verbo como creador—.
+- **[[Sigil]]** — la Ciudad de las [[Puertas]]. Centro planar conocido, nodo de portales. Lo que el mundo **tiene de fáctico** como nexo entre planos.
+- **Sogol** — *Sigil* leída al revés (anagrama especular). Lo que el mundo tiene de **inverso, oculto, refractado**. La forma especular de la ciudad de las puertas.
+- **Logos** — la palabra, la razón, el principio griego del orden inteligible. Lo que el mundo tiene de **fundamento conceptual** —la idea como sustancia, el verbo como creador—.
 
 La unión de los tres bajo el nombre Nexus apunta a **una entidad que es a la vez geográfica (Sigil), especular (Sogol) y conceptual (Logos)**. No es ciudad, no es espejo, no es idea: es las tres a la vez, conjugadas.
 
@@ -73,3 +73,8 @@ El archivo lista cabos pendientes:
 - Big Bang del nuevo cosmos — designación como constante por el Triunvirato
 - Acta del Tribunal: Multiuniverso → Multiverso con Nexus como pilar
 - Lugar del nacimiento de los dioses del panteón inicial
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ☯
+> *Una sola ciudad que es tres nombres ensamblados: [[Sigil]] (la Ciudad de las [[Puertas]], lo fáctico), Sogol (Sigil al revés, lo especular) y Logos (el verbo, lo conceptual); sólo cuando se conjugan los tres hay nexo entre universos de bases cósmico-numéricas distintas. [[Los_Supremos]] la fijan como «constante del Multiverso» y la [[Vara_del_Infinito]] la habilita —el punto donde dos cosmos incompatibles se tocan sin colapsar es, también, la cuna donde nace el panteón ([[Tailoor]], [[Antino]], [[Sheridron]]).* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -38,3 +38,8 @@ Bandy es una de varias figuras políticas serbias manipuladas/eliminadas por [[C
 
 - [[Moni_Vivescu|Moni Vivescu]]
 - [[Circulo_de_la_Serpiente|Círculo de la Serpiente]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *Un vicecónsul serbio en [[Bucarest_Ucronica|Bucarest]] asesinado para mover una herencia: la trama inscribe el verbatim histórico de la corte serbia de fin de siglo —magnicidios y conjuras balcánicas— como engranaje del cosmos. El [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] lo elimina en la misma serie que relega a [[Milano]], presiona a [[Aleksandar_I|Aleksandar I]] y manda matar a [[Draga_Machine|Draga Machine]]: la Historia real provee el catálogo de víctimas, y su muerte vuelve a [[Moni_Vivescu|Vivescu]] heredero involuntario en un juego mortal.* — glosa del archivero del Plata.
+<!-- /CICLO -->

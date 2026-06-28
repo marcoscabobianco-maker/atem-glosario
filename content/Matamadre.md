@@ -16,7 +16,7 @@ Soldado del ejército federal. El apodo que carga —Matamadre— suena a blasó
 
 Hay en su pasado al menos un episodio en que actuó de modo que no debía, y hubo testigos que le vieron la cara. Esos testigos siguen sueltos. La paranoia de ser reconocido pesa sobre sus movimientos más que cualquier orden del Coronel Carmín. Continuó en el ejército —en las filas federales, con sus obligaciones y sus silencios— pero la lista de quienes saben quién es se convirtió en el contador invisible de sus días.
 
-Cuando [[Teniente_Fausto]] y [[Pepe_Bacchiano]] asumieron el riesgo de la imprenta, Matamadre eligió quedar en la ciudad, visitando al padre con quien no se habla. El gesto define su posición en el grupo: alguien capaz de combatir pero también capaz de retirarse a tiempo, lo que en el idioma de la campaña rosista puede ser cobardía o puede ser sobrevivencia.
+Cuando [[Teniente_Fausto]] y [[Pepe_Bacchiano]] asumieron el riesgo de la imprenta, Matamadre eligió quedar en la ciudad, visitando al padre con quien no se habla. El gesto define su posición en el grupo: alguien capaz de combatir pero también capaz de retirarse a tiempo, lo que en el idioma de la gesta rosista puede ser cobardía o puede ser sobrevivencia.
 
 ## Vínculos
 - [[Torregrises]] — el cosmos troncal bajo cuyo nombre (Santa María de [[Torregrises]]) opera la capital rosista

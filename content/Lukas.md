@@ -110,3 +110,8 @@ imagen: null
 - **[[Camara_de_las_Mascaras_Susurrantes|Cámara de las Máscaras]] Susurrantes** — apoyo a Teo en el pozo octogonal
 - **Reencuentro de subgrupos** — coordinación de la salida
 - **1824 AE — ciclo presente** — portavoz y paladín solemne operativo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Es la voz de la banda: cuando [[La_Jabalina]] tiene que hablar ante [[Kazmojen]] o el [[Howler]], habla Lukas. Esa función —ser el rostro con que la sigla colectiva se dirige al mundo— es lo que lo inscribe en el tropo de la banda nombrada. Forma cuarteto luminoso con [[Foggimer]], [[Teo_Paladin_Sin_Brazo|Teo]] y [[Lucky]]; no carga linaje cosmológico propio, y precisamente por eso encarna a la banda más que ninguno: su solidez es la del grupo, no la del avatar.* — glosa de Arkos, el archivero del Plata.
+<!-- /CICLO -->

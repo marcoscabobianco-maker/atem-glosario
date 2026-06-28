@@ -16,11 +16,11 @@ aliases:
 
 ## Presentación
 
-[[La_Ballena_Blanca_Taberna|Taberna]] de "mala muerte" pero grande, ubicada en Montparnasse, triángulo sur cercano a [[Panteon_el|Panteón]], Bulevar Parnas, Gare Montparnasse. [[Escenario]] inicial de [[Paris_Ucronica|París Ucrónica]] (donde compañeros se conocen y actúan primera jornada). Frecuentada por obreros, marginados, gente peligrosa. Hay prostitución (cronoputas). Mantenida por posadera que "conoce otros tiempos" — seria, digna, ha golpeado a algunos clientes. Cercana a excavaciones del [[Panteon_el|Panteón]]. Ambiente ahumado, bullicioso, sin música formal pero bullicio constante. Subterránea o semi-subterránea (descrita como "caverna").
+[[La_Ballena_Blanca_Taberna|Taberna]] de "mala muerte" pero grande, ubicada en Montparnasse, triángulo sur cercano a [[Panteon_el|Panteón]], Bulevar Parnas, Gare Montparnasse. Escenario inicial de [[Paris_Ucronica|París Ucrónica]] (donde compañeros se conocen y actúan primera jornada). Frecuentada por obreros, marginados, gente peligrosa. Hay prostitución (cronoputas). Mantenida por posadera que "conoce otros tiempos" — seria, digna, ha golpeado a algunos clientes. Cercana a excavaciones del [[Panteon_el|Panteón]]. Ambiente ahumado, bullicioso, sin música formal pero bullicio constante. Subterránea o semi-subterránea (descrita como "caverna").
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] — apertura de campaña, encuentro de grupo, envenenamiento, pelea.
+[[Paris_Ucronica|París Ucrónica]] — apertura de gesta, encuentro de grupo, envenenamiento, pelea.
 
 ## Notas
 

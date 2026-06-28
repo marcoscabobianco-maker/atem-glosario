@@ -40,7 +40,7 @@ entre poder político regio y autoridad espiritual-mágica.
 En los cuadernos se la trabaja como cosmología y destrucciones cíclicas, escenario de
 enseñanza (C18, C19, C20), heroína de Torregrises (C23) y construcción extensiva del
 mundo (C25): "ciudad invisible", paralelo de [[Buenos_Aires_Ucronica|Buenos Aires]],
-"a nivel D&D es como un Mythal" (C48). **Hallazgo clave** (C25):
+una urbe envuelta en un velo arcano protector, un Mythal (C48). **Hallazgo clave** (C25):
 "Hay una [[Buenos_Aires_Ucronica|Buenos Aires]] que es Torregrises, y una Torregrises que es [[Buenos_Aires_Ucronica|Buenos Aires]]" —
 declaración de equivalencia simbólica entre ciudad real y ciudad ficcional.
 

@@ -71,3 +71,8 @@ El templo se asienta en el trazado urbano alto de [[Caldero]], lejos del cráter
 - **Convocatoria de [[La_Jabalina]]** — reunión solemne en la nave principal
 - **Adivinación con maza de seis puntas** — jornadas reservadas vinculando eventos recientes con profecía mayor
 - **1824 AE — ciclo presente** — sede activa, refugio operativo del grupo, doble registro sostenido
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El templo importa porque es la partera de una sigla: bajo su bóveda [[Jenya_Urikas]] convoca a [[Lukas]], [[Fogimer|Foggimer]], [[Scylla|Sila]] y [[Antonio]], y el grupo que sale de esa reunión se llamará [[La_Jabalina]]. La adivinación de la maza de seis puntas —seis sombras, una marca central, la cifra trece por horizonte— ata la profecía a la banda recién nacida, y desde entonces la nave es refugio y base operativa de la cuadrilla. El lugar queda definido por el sujeto colectivo que engendró.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

@@ -28,12 +28,12 @@ Posada de [[Estellara]], hace un mes. Cinco viajeros tomando vino caliente, [[De
 
 - **[[Caladan]]** — Wonderwalker Noviriano, vampirizado por [[Master_Malakita|Malakita]], señor involuntario del dominio Valakhan. **Caso aparte**: forma parte del grupo y a la vez gobierna el dominio donde el grupo opera, paradoja que el grupo ha aprendido a no nombrar en voz alta.
 - **[[Bayrum_Cristalia|Bayrum Quar'amon Cristalia]]** — parte drow, escriba de oficio reconocido, **funcionario lateral de los archivos sortianos**. Carga el escudo y el hacha que **[[Argus_PJ|Argus]]** le legó.
-- **[[Alumine|Alumine Manwe Finwe]]** — Rockseer Elf, Bladesinger, *"la Milagrosa"*. **Decapitó a Malakita** en la cámara hiperbárica del Sub-Nivel décimo. Armadura semicristalizada después del paso por el plano cuyo nombre no se transcribe.
+- **[[Alumine|Alumine Manwe Finwe]]** — elfo buscador de roca, canta-espadas, *"la Milagrosa"*. **Decapitó a Malakita** en la cámara hiperbárica del Sub-Nivel décimo. Armadura semicristalizada después del paso por el plano cuyo nombre no se transcribe.
 - **[[Valerius_Utrecht|Valerius Utrecht]]** — paladín/inquisidor de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]], *"Primer Caballero"* según el bibliotecario del Papa. Carga la espada compañera de [[Ardipithecus|Ardipithecus / Graz'zt-proto]] obtenida por pacto con [[Labresu]]. Fiebre blanca incipiente.
 - **[[Sixto_Guido]]** — guerrero humano, presencia intermitente, homónimo del noble que se transformó en [[Papa_Alejandro_Sixto|Papa Alejandro VI]]. **La coincidencia del nombre todavía no se ha resuelto**.
 - **[[Melvino_Calvino]]** — pingüinoide tecnológico, interfaz natural con las inteligencias rudishva.
 - **[[El_Druida_Rodrigo]]** — humano, llegado tarde al grupo, primer druida convertido en vampiro y muerto en el Templo de Thoth durante el Hiato.
-- **[[Decio_Balmora]]** — Ranger / Montaraz de [[Valdemora]], ex-Lord de [[Ciudadela_Sin_Sol]], viudo de [[Bellaca|Lali]]. **Anexado al grupo en el regreso** como guía del valle.
+- **[[Decio_Balmora]]** — Montaraz de [[Valdemora]], ex-Lord de [[Ciudadela_Sin_Sol]], viudo de [[Bellaca|Lali]]. **Anexado al grupo en el regreso** como guía del valle.
 - **[[Argus_PJ|Argus]]** — Barón de [[Ritornello]], paradigma caído. **No integrante activo del grupo** sino noble cercano al Papa, presencia tutelar más que operativa.
 
 ## La condición del regreso
@@ -66,3 +66,8 @@ Posada de [[Estellara]], hace un mes. Cinco viajeros tomando vino caliente, [[De
 - **Ciclo presente** — operativos en Valakhan bajo el ojo del [[Papa_Alejandro_Sixto|Papa Alejandro VI]]
 - **La jornada del despojo en la cámara octagonal** — derrota ante la partida Priscian dirigida por [[Nerub_Null]]; los [[Cetro_de_Absorcion|cetros de absorción]] de los magos Priscian neutralizaron el arcano del grupo; los Buscadores quedaron inconscientes pero vivos; los objetos mágicos personales fueron confiscados íntegramente; oro, gemas, raciones y armas no mágicas quedaron en su poder. **Acto fundacional del [[Monopolio_Priscian_Magia_Legitima|Monopolio Priscian]]**
 - **La marcha al sur** — al cierre de la jornada del despojo, el grupo decidió marchar a [[Helix]] al sur con plan de operar los túmulos del [[Barrowmaze]] como reserva de arcano fuera del monopolio y forjar armas épicas con material recuperable contra Caladán. **Convergencia anunciada con la mesa del santuario de Helix**, donde la jornada del altar partido había dejado al grupo del sur diezmado por la sincronía liturgia del [[Vicario_Otar]] y [[Mortan]] sobre el brujo [[Silas_del_Umbral]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☷ ◑
+> *Banda bautizada por lo que aún no halló —[[Caladan]], [[Alumine]], [[Valerius_Utrecht|Valerius]], [[Bayrum_Cristalia|Bayrum]]— que no puede salir del valle: desciende por el [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]] sin parar de bajar, estrato tras estrato. Y a [[Master_Malakita|Malakita]] lo decapitó [[Alumine]] sin vencerlo: volvió como [[Caladan]] darklord, porque al que se guarda no se lo mata, se lo demora. Lo que B leyó como la banda con sigla (AKB-J.1) cruza acá con el que espera en crisálida.* — glosa del archivero del Plata.
+<!-- /CICLO -->

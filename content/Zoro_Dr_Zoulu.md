@@ -59,3 +59,8 @@ El cierre del arco es abrupto y violento. En algún punto tardío de su paso por
 - Antiterra ~1889-1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]] — fase Reguladores
 - [[Torneo_de_la_Torre_Eiffel]] ~1890 A.D.A. — acierta el golpe crítico contra el titán de 35 metros, rompiendo sus defensas mágicas
 - Resolución paradoja temporal — su muerte
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⏳ ◑
+> *El médico de [[Los_Reguladores]] partido por el tiempo: a sus treinta y un años en [[Antiterra_Demonia|Antiterra]] le corresponde, del otro lado del océano, un Zoro niño de un año —el mismo hombre desdoblado por el salto que el general Tasker Bliss operó desde 1919 hacia 1889, maletín y cinta de película mediante. La banda lo lleva como pieza, pero su cierre es el del enemigo que se guarda invertido: agotada su voluntad, una [[Corona_activacion_desconocida|corona de Demilich]] entra y guarda otra cosa en su carne, que estalla en fuego junto al [[Faragod]] robado.* — glosa de Sucesos.
+<!-- /CICLO -->

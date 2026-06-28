@@ -66,3 +66,8 @@ El archivo conserva la hipótesis: **el episodio del Taller (concilio, [[Latromi
 - 1901 A.D.A. (aprox.) — [[Benetton]] da muerte a Barbatos, Piedra cambia de manos
 - Mundo de origen (anterior) — Manzana de la Discordia, Guerra de Troya
 - [[Caldero]] / [[La_Jabalina]] (2024-25) — pieza componente de la [[Vara_del_Infinito]] en el hilo retomado
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ⟳ ⛓
+> *Lado terminal de la [[Vara_del_Infinito]] —Gema más Cetro más Piedra—: una sola pieza no existe entera, decide el destino del cosmos sólo ensamblada. La misma que fue Manzana de la Discordia y desató Troya, disputada cada vez que aparece: [[Benetton]] mata a [[Barbatos]] para quitársela y los [[Los_Reguladores|Reguladores]] se la llevan, y en el concilio del Taller se la niegan a [[Grazzt|Graz'zt]] dándosela a [[Latromis]]. Quien custodia la Piedra hereda la custodia: el que mata al guardián se vuelve guardián.* — glosa de Arkos.
+<!-- /CICLO -->

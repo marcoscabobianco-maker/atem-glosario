@@ -17,4 +17,4 @@ Vasta caravana del [[Gran_Khan|Gran Khan]] cruzando estepa; embajada ([[Khalim]]
 - [[Iriscan]] — integrante de la embajada de la Caravana
 - [[Auro]] — miembro de la embajada; portador del talisman Garra
 - [[Gesta_de_Khalim|Gesta de Khalim]] — relato épico de la expedición ligada a esta caravana
-- [[Ardis_Vala|Ardis Vala]] — campaña en la que la caravana del Khan es evento central
+- [[Ardis_Vala|Ardis Vala]] — gesta en la que la caravana del Khan es evento central

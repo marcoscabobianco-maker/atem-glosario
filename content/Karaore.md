@@ -44,3 +44,8 @@ Inclusión de figura histórica real en ucronía sugiere que desea vincular even
 - [[Historia_real|Historia real]]
 - [[En_Paris_Ucronica|En París Ucrónica]]
 - Implicación narrativa
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ※
+> *El líder revolucionario serbio de 1804-1817, figura histórica real inscrita verbatim en la ucronía: muerto hacia 1817, reaparece vivo y activo en [[Sarajevo_1914_Salto_Temporal|Sarajevo 1914]] como [[Jorge_Negro_Black_George_Rey|Black George]], noventa y siete años después de su asesinato. El nombre es la prueba de continuidad — Karađorđe vuelve donde la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] retoma su guerra, como si la misma alma encarnara la revolución serbia indefinidamente. La Historia entra al archivo sin disfraz, y la coincidencia onomástica la delata.* — glosa de Sucesos.
+<!-- /CICLO -->

@@ -10,10 +10,4 @@ aliases:
 
 ## Presentación
 
-**Referencia:** CC1 título
-
-**Contexto:** Ubicación principal de jornada CC1.
-
-**Descripción:** Clínica o lugar de consejería en infierno. Presumiblemente ubicada en sexto nivel (Hécate, [[Dite_Ciudad_infernal|Dite]]). Funciona como "consultorio" — lugar de investigación y diagnosis de problemas espirituales.
-
-**Importancia:** Punto de contacto entre infierno y corporalidad — donde cuerpos infernales son "consultados" sobre su condenación.
+Clínica o lugar de consejería en el infierno —presumiblemente en el sexto círculo, la [[Dite_Ciudad_infernal|Ciudad de Dite]] de Hécate—. Funciona como **"consultorio"**: el lugar donde se investiga y diagnostica la condición espiritual de los condenados. Punto de contacto entre el infierno y la corporalidad, donde los cuerpos infernales son "consultados" sobre su condenación.

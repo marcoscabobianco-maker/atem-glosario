@@ -16,8 +16,8 @@ Ciudad Invisible: domos de bronce, minaretes, jardines en terraza. Pertenece al 
 
 ## Vinculos
 
-- [[Ciudades_Invisibles|Ciudades Invisibles]] — la campaña y el corpus de urbes invisibles al que Diomira pertenece como ciudad redimida.
+- [[Ciudades_Invisibles|Ciudades Invisibles]] — la gesta y el corpus de urbes invisibles al que Diomira pertenece como ciudad redimida.
 - [[Gran_Khan|Gran Khan]] — el soberano cuyos emisarios llegan en caravana a Diomira.
 - [[Caravana_del_Khan|Caravana del Khan]] — el grupo viajero representado en primer plano, llegando a la ciudad.
-- [[Ciudades_Invisibles_CI|Ciudades Invisibles CI]] — la sub-campaña que agrupa las fichas de urbes invisibles exploradas.
+- [[Ciudades_Invisibles_CI|Ciudades Invisibles CI]] — la gesta que agrupa las fichas de urbes invisibles exploradas.
 - [[Melvino_Calvino|Melvino Calvino]] — el emisario/personaje que lleva el nombre del autor literario referencial del corpus.

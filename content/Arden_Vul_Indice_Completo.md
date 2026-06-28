@@ -16,20 +16,20 @@ tags:
  - dungeon-completo
 ---
 
-> *Toda la entrada del mega-dungeon de la campaña [[Arden_Vul|Ardis Vala]] indexada. 10 niveles + 15 sub-niveles + 5 exteriores + 12 facciones + figuras centrales + recursos. 1.161 hojas de pliegos en el archivo.*
+> *Toda la entrada del mega-dungeon de la saga [[Arden_Vul|Ardis Vala]] indexada. 10 niveles + 15 sub-niveles + 5 exteriores + 12 facciones + figuras centrales + recursos. 1.161 hojas de pliegos en el archivo.*
 
 ---
 
 ## ⚡ REVELACIÓN COSMOLÓGICA DEL ARCHIVO (wildcards)
 
-**4 cambios mayores que reescriben todo el setting post-hiato**:
+**4 cambios mayores que reescriben todo el mundo post-hiato**:
 
 1. **[[Papa_Alejandro_Sixto|Sir Sixto]] → [[Papa_Alejandro_Sixto]] ★★★** — el Caballero perdido se transformó en autoridad eclesial suprema durante el [[Hiato_15_Años_Ardis_Vala|hiato de 15 años]]
 2. **Los [[Varumani]] fueron vencidos** ([[Vencimiento_Varumani]]) — los Troll Lifts y la Corte del Thegn sin gobierno troll
 3. **Todo el dominio está bajo [[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]** — demiplano activo
-4. **Castillo del Prisma trans-campaña = [[Palacio_del_Prisma]] el regreso tras el Hiato** — sede actual del Papa
+4. **Castillo del Prisma trans-gesta = [[Palacio_del_Prisma]] el regreso tras el Hiato** — sede actual del Papa
 
-**Lectura obligada para entender el estado actual del setting**: las 5 entradas reveal arriba.
+**Lectura obligada para entender el estado actual del mundo**: las 5 entradas reveal arriba.
 
 ---
 
@@ -37,11 +37,11 @@ tags:
 
 - **[[Mega_Dungeon_Arden_Vul]]** ★ — entrada maestra del dungeon (10 niveles, 15 sublevels, 5 exteriores, 12 facciones, 4 tradiciones arquitectónicas)
 
-## 1. La campaña
+## 1. La gesta
 
-- **[[Arden_Vul|Ardis Vala (campaña)]]** — el ciclo activo del archivo
+- **[[Arden_Vul|Ardis Vala (gesta)]]** — el ciclo activo del archivo
 - **[[Ardis_Vala]]** — ciudad imperial caída (superficie)
-- **[[Mundo_de_Archontos]]** — setting cosmológico de la campaña
+- **[[Mundo_de_Archontos]]** — mundo cosmológico de la gesta
 - **[[Archontean]]** — pueblo, imperio, arquitectura
 
 ## 2. Los 10 Niveles principales
@@ -195,7 +195,7 @@ tags:
 - **[[Pluma_de_Thoth]]** — pluma con poder de grabar conocimiento (Bayrum la usó en ritual [[Numa_Pompidio]])
 - **[[Llave_Dual_Oro_Espina]]** — llave de afinación moral de Alumine (conecta con [[Obsidian_Gates_Midnight_Road|Midnight Road]])
 
-### Lugares fuera de dungeon canónico (campaña)
+### Lugares fuera de dungeon canónico (gesta)
 
 - **[[Palacio_del_Prisma]]** — fortaleza volante, prisión cósmica
 - **[[Ciudadela_Sin_Sol]]** — castillo Balmora hundido (el regreso tras el Hiato)
@@ -213,7 +213,7 @@ Cuatro hechos cosmológicos canónicos confirmados:
 1. **[[Papa_Alejandro_Sixto|Sir Sixto]] → [[Papa_Alejandro_Sixto]]** durante el [[Hiato_15_Años_Ardis_Vala|hiato de 15 años]]
 2. **[[Vencimiento_Varumani|Vencimiento de los Varumani]]** — los Troll Lifts y la Corte del Thegn sin gobierno troll
 3. **[[Ravenloft_Dominio_Ardis_Vala|Ravenloft]] envuelve todo el dominio** — trono de rubí, religión de Baret, niebla
-4. **[[Castillo_del_Prisma|Castillo del Prisma]] trans-campaña = [[Palacio_del_Prisma|Palacio del Prisma]] el regreso tras el Hiato** — sede del Papa
+4. **[[Castillo_del_Prisma|Castillo del Prisma]] trans-gesta = [[Palacio_del_Prisma|Palacio del Prisma]] el regreso tras el Hiato** — sede del Papa
 
 ### Activación de Kauket
 
@@ -239,43 +239,9 @@ El **paradigma caído** revelado en el regreso tras el Hiato. Posible **ancestro
 
 Los **[[Buscadores_de_Ardis_Vala|Buscadores]] tienen responsabilidad parcial** por la **destrucción de Ritornello** hace 15 años. El bombero villano (anónimo) era **herético sortiano radicalizado**. El huevo salió del **módulo de armas de [[RAJ-750]]**.
 
-## 9. PCs principales — Buscadores de Ardis Vala
+## 9. Los Buscadores de Ardis Vala
 
-- **[[Caladan]]** — Noviriano Wonderwalker, vampirizado por Malakita ★
-- **[[Bayrum_Cristalia|Bayrum Quar'amon Cristalia]]** — parte drow, Scrivener Nv.7
-- **[[Alumine|Alúmine Manwe Finwe "El Milagroso"]]** — Rockseer Elf, Bladesinger
-- **[[Valerius_Utrecht|Valerius Utrecht]]** — Paladin/Inquisidor Nv.7 (sucesor de [[Valerius_Utrecht|Roderick]])
-- **Sixto** — Humano Fighter
-- **[[Melvino_Calvino]]** — Pingüinoide tecnológico
-- **[[El_Druida_Rodrigo|El Druida]]** Rodrigo (compañero) — Druid
-- **[[Decio_Balmora]]** (el regreso tras el Hiato) — Ranger / Montaraz de [[Valdemora]] ★
-- **[[Argus_PJ|Argus]]** (el regreso tras el Hiato) — paradigma caído ★
-
-## 10. Material de bruto / fuentes
-
-### Drive — Mi unidad/02_ROL_Y_MEGACAMPAÑA
-
-- `Biblioteca_Absoluta/Ardisvala (1e,).pdf` — 1.161 páginas, 5 volúmenes (Richard Barton)
- - **ROUTER_ARDEN_VUL.md** — índice maestro original del módulo (en inglés/español)
- - **APP_New_Monsters.md** — 69 páginas
- - **APP_New_Magic_Items.md** — 45 páginas
- - **APP_New_Technological_Items.md** — 10 páginas
- - **APP_New_Spells.md** — 9 páginas
- - **APP_New_Flora.md** — 3 páginas
- - **APP_Arden_Vul_Items.md** — 3 páginas
- - **APP_Arden_Vul_Books.md** — 30 páginas
- - **APP_NPC_Appendix.md** — 36 páginas
- - **APP_World_of_Archontos.md** — 20 páginas
- - **APP_Index_Proper_Names.md** — 8 páginas
-- `Campañas/ARDIS VALA/` — archivos el archivo-el regreso tras el Hiato + reportes + audios
- - `REPORTE_ARDIS_VALA_v1.md` — 485 líneas, reporte principal
- - `Ardis_Vala_recapt_y_dossier_unificado.docx`
- - `18ArdisVala.txt` — última jornada procesada (el regreso tras el Hiato)
- - `Campañas/The Searchers Chronicles of the Descent to Arden Vul.gdoc`
-
-### Sistema de mesa
-
-** 2da edición** sobre módulo /1e. Compatibilidad documentada en el ROUTER del Working folder.
+El grupo que desciende al mega-dungeon: **[[Caladan]]** (vampirizado por Malakita ★), **[[Bayrum_Cristalia|Bayrum Quar'amon Cristalia]]** (parte drow, escriba), **[[Alumine|Alúmine Manwe Finwe "El Milagroso"]]** (elfo buscador de roca, canta-espadas), **[[Valerius_Utrecht|Valerius Utrecht]]** (paladín-inquisidor, sucesor de [[Valerius_Utrecht|Roderick]]), **Sixto** (guerrero humano), **[[Melvino_Calvino]]** (pingüinoide tecnológico), **[[El_Druida_Rodrigo|El Druida Rodrigo]]**, **[[Decio_Balmora]]** (montaraz de [[Valdemora]], el regreso tras el Hiato ★) y **[[Argus_PJ|Argus]]** (paradigma caído, el regreso tras el Hiato ★). Detalle de cada uno en [[Buscadores_de_Ardis_Vala]] y en su entrada propia.
 
 ---
 
@@ -286,15 +252,15 @@ Los **[[Buscadores_de_Ardis_Vala|Buscadores]] tienen responsabilidad parcial** p
 3. **Para una facción** → click en la celda "Facciones"
 4. **Para un figura** → click en el nombre en "figuras centrales"
 5. **Para sub-niveles** → [[Sub_Niveles_Arden_Vul]]
-6. **Para el setting / mundo** → [[Mundo_de_Archontos]], [[Archontean]]
-7. **Para la campaña** → [[Arden_Vul|Ardis Vala (campaña)]]
+6. **Para el mundo** → [[Mundo_de_Archontos]], [[Archontean]]
+7. **Para la gesta** → [[Arden_Vul|Ardis Vala (gesta)]]
 8. **Para el regreso tras el Hiato / pendientes** → [[Palacio_del_Prisma]], [[Argus_PJ|Argus]], [[Custodes_Oculis_Solis]]
 
 ---
 
 ## Estado de compilación
 
-**Cierre (revelación del archivo)**: [[Ardis_Vala|Arden Vul]] compilado en el Glosario. Diez pisos + quince sub-niveles (compendio) + 12 facciones documentadas + 30+ figuras nombrados + setting + tradiciones arquitectónicas + artefactos críticos + hilos cosmológicos abiertos.
+**Cierre (revelación del archivo)**: [[Ardis_Vala|Arden Vul]] compilado en el Glosario. Diez pisos + quince sub-niveles (compendio) + 12 facciones documentadas + 30+ figuras nombrados + el mundo + tradiciones arquitectónicas + artefactos críticos + hilos cosmológicos abiertos.
 
 **Actualización (revelación del archivo)**: integrado el **reveal cosmológico mayor** (Sir Sixto → [[Papa_Alejandro_Sixto]], Hiato 15 años, [[Vencimiento_Varumani]], Ravenloft activo). 20 entradas nuevas + 13 ediciones a entradas previas. **Glosario al cierre**: ~165 entradas tocadas en la jornada completa de la revelación.
 

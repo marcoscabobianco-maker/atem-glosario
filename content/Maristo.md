@@ -95,3 +95,8 @@ aa: "F.1 perdon de la daga ; F.3 inversion de la misericordia ; P.5 pacto sustit
 - **1370 DR — Tres Coronas** — promoción a Edecán del Único Dios
 - **Antiterra ciclo final** — operación continuada como figura de Panteón
 - **[[Anti_Inferno|El Descenso]] — ante el tribunal del Foso** — la faceta condenada desconoce su autoridad (ver [[Maristo_condenado]])
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ◑ ✦
+> *El paladín del Ojo de [[Helm]] que la [[Contienda_la|Contienda]] nomina como figura «a quien hay que matar» —su sacrificio era pieza del concilio supra-divino—, y que durmió ~1600 años tras la purga de los sacerdotes de Amón hasta el [[Sol_Invictus_Culto_Mediterraneum|Sol Invictus]]: el enemigo que no se vence sino que se guarda. Aun condenado en el Foso —el [[Maristo_condenado]] que desconoce al tribunal— sigue representando al dios que lo gastó, edecán del Único Dios tras las Tres Coronas. [[Kaxathros]] y [[Coyote]] conservan la facultad de ofrecerle la vida.* — glosa de Paulus.
+<!-- /CICLO -->

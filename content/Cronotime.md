@@ -25,3 +25,8 @@ Su materia se trenza con el resto del aparato temporal del período: la empresa 
 - [[El_Primer_Reloj]] — instrumento temporal vinculado.
 - [[U-Reloj]] — instrumento temporal vinculado.
 - [[Pseudo-plano_del_Tiempo]] — plano asociado al registro del tiempo.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ※
+> *El registro maestro del tiempo de la [[Paris_Ucronica|París Ucrónica]]: el hilo donde sus horas quedan asentadas en orden, paralelo a la [[Cronologia_en_MC_LINEA_TEMPORAL|cronología del ciclo mayor]]. Su nombre dice dos veces lo mismo —«crono» soldado a «time»—, como si el tiempo de este arco exigiera nombrarse en dos lenguas para existir. Su materia se trenza con los instrumentos que miden o tuercen las horas: las [[Time_Capsules|Time Capsules]], [[El_Primer_Reloj|el Primer Reloj]], el [[U-Reloj]]. Donde hay registro del tiempo, el tiempo es mercancía contada.* — glosa del archivero del Plata.
+<!-- /CICLO -->

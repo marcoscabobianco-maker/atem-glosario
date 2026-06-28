@@ -13,10 +13,4 @@ aliases:
 
 ## Presentación
 
-**Ref.:** el archivo
-
-### el plano operativo
-
-Simbolo de serpiente que se come la cola, visible en la cupula del [[Castillo_del_Prisma|Castillo del Prisma]]. Descrito al entrar: "se ve el gran hall por delante" con la cupula amarilla y el ouroboros. Puede representar "la cruz, la redencion, o el circulo."
-
-**Ref.:** el archivo
+Símbolo de la serpiente que se come la cola, visible en la cúpula del [[Castillo_del_Prisma|Castillo del Prisma]]. Al entrar "se ve el gran hall por delante", con la cúpula amarilla y el ouroboros encima. Puede leerse como "la cruz, la redención, o el círculo".

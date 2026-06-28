@@ -27,4 +27,4 @@ Su umbral hacia lo otro no es un libro prohibido ni un grimorio hallado en el fo
 
 ## Notas
 
-El cura es el personaje-umbral de la gesta malvinense: la mirada por la que la campaña pasa del realismo del Operativo Cóndor al fondo cósmico que late debajo. Su arco apenas se abre con el embarque, y el cuaderno no le ha puesto todavía un nombre propio: se lo conoce por su oficio. La preparación de la mesa lo asocia a la consigna «elige tu LIFE» —cada quien descubre su grieta hacia el Mythos en una página distinta de aquella revista—, y la suya es la vía rosacruz de la visión interna.
+El cura es el personaje-umbral de la gesta malvinense: la mirada por la que la gesta pasa del realismo del Operativo Cóndor al fondo cósmico que late debajo. Su arco apenas se abre con el embarque, y el cuaderno no le ha puesto todavía un nombre propio: se lo conoce por su oficio. La preparación de la gesta lo asocia a la consigna «elige tu LIFE» —cada quien descubre su grieta hacia el Mythos en una página distinta de aquella revista—, y la suya es la vía rosacruz de la visión interna.

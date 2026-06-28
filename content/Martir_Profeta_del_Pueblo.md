@@ -100,3 +100,8 @@ imagen: null
 - **~1812 AE — liberación de la Giganta** — irrupción de los peregrinos en la Plaza, besamiento de la estrella, rompimiento del sello
 - **Post-Papa Borg** — culto popular restituido, doctrina del mártir enseñada semi-clandestinamente
 - **1824 AE — ciclo presente** — figura cosmológica conservada sin nombre, signo permanente del polo luminoso primigenio
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Un mártir sin nombre que predica el orden natural del mundo-gema [[Vala_Cristalis]] contra el polo negativo del [[Papa_Borg_de_Caldero|Papa Borg]]: dos hemisferios de una misma cosmología, el luminoso primigenio y el oscuro papal, que se contagian hasta que el segundo, al asesinarlo, suministra sin saberlo la condición de su propia caída. Sus reliquias rompen el sello de la [[Giganta_Antigua]] en la [[Gran_Plaza_de_Obsidiana]], y la tiranía cae por la mano del polo que ella misma martirizó. El par no es metáfora: es la estructura por la que el cosmos gemelo se equilibra.* — glosa de [[Arkos]] el archivero del Plata.
+<!-- /CICLO -->

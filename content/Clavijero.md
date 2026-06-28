@@ -23,3 +23,8 @@ Su conexión con el [[Padre_San_Miguel]] sugiere que los jesuitas de Torregrises
 - [[Torregrises]] — el cosmos troncal bajo cuyo nombre (Santa María de Torregrises) opera la capital rosista
 - [[Coronel_Carmin]] — el régimen federal que Clavijero bordea sin someterse
 - [[Padre_San_Miguel]] — probable vínculo dentro de la red jesuita clandestina
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *La Historia argentina inscrita verbatim en el cosmos: el rosismo, la Compañía de Jesús disuelta, las prensas coloniales de los Niños Expósitos. Clavijero es el ex jesuita que ya no responde a Roma sino a sí mismo, capitán general de lo que queda de la Compañía en la Santa María de [[Torregrises]] rosista, que conjuga tipos móviles, propaganda y doctrina contra el régimen del [[Coronel_Carmin]] sin someterse. Su vínculo con el [[Padre_San_Miguel]] traza una red jesuita clandestina que excede la cronología ordinaria.* — glosa de Sucesos.
+<!-- /CICLO -->

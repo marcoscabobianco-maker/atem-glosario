@@ -43,15 +43,15 @@ La identificación es directa: **"novice crew" en inglés = Novice Cruz en la gr
 
 - **Posadas infernales / interdimensionales** — campo operativo
 - **Tren del Buitre Risueño** — vehículo interdimensional que tripulan, parte de [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]]
-- [[Gary_TNW|Gary TNW]] — campaña donde aparecen como "novice crew"
-- [[Lords_of_Creation]] — campaña paralela T2.5 (mismo eclipse del 14 abril 1987)
+- [[Gary_TNW|Gary TNW]] — ciclo donde aparecen como "novice crew"
+- [[Lords_of_Creation]] — gesta paralela T2.5 (mismo eclipse del 14 abril 1987)
 - [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]] — punto de origen del tren
 - **Posada interdimensional del Buitre Risueño** — destino
 - **[[Redcap_Wintercap_TNW|Redcap]], Wintercap** — pasajeros aliados del tren
 - **[[Infierno]]** — escenario cosmológico general
 - [[Los_Supremos]] — contexto del archivo donde las menciona
 - [[Mahakala]] — Señor del Tiempo (la "cruz" como signo temporal posible)
-- **Tradiciones religiosas** del setting (Pelor, [[Patriarca_de_Glastumville]], etc.) — comparación
+- **Tradiciones religiosas** del mundo (Pelor, [[Patriarca_de_Glastumville]], etc.) — comparación
 
 ## Apariciones
 

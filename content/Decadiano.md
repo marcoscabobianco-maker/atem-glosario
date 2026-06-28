@@ -51,3 +51,8 @@ La teología admite contradicciones que la cristiandad romana —**que en [[Anti
 - **Cierre del ciclo final** — doctrina dominante en el aparato antiterrano
 - **Libros doctrinales** — citados en glosas marginales de archivos paralelos
 - **Aparato del estado ucrónico** — operación cotidiana en el [[Palacio_del_Tiempo|Palazzo del Tempo]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⏳
+> *Iglesia que no cuenta el cielo: administra el tiempo. Sus Diez Nuevos Dioses se oponen a los Doce de la [[Sortianos|Vieja Fe]] como un hemisferio a su gemelo —la cifra diez calca la mecánica de la diramación temporal—, y su teología se vuelve burocracia donde [[Iriarte]] atornilla al frente del [[Palazzo_del_Tempo]] la sentencia «el tiempo no es absoluto, es administrado». La [[La_Dama_Notre_Dame|Dama de Notre Dame]] es a la vez Madre y [[Aldebaran_Estrella_Plataforma|Plataforma]]: nadie pide que la contradicción se resuelva.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

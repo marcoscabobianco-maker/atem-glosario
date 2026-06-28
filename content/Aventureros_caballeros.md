@@ -15,5 +15,10 @@ Trío de caballeros adversarios de los [[Mantenientes_caballeros|Mantenientes]].
 - [[Mantenientes_caballeros|Mantenientes (caballeros)]] — los defensores del campo, contraparte directa de los Aventureros
 - [[Torneo_de_la_Torre_Eiffel|Torneo de la Torre Eiffel]] — gran evento de torneo del ciclo [[Antiterra]], contexto planar probable
 - [[Los_Reguladores|Los Reguladores]] — banda cuyo arco incluye los torneos caballerescos
-- [[Antiterra_Demonia|Antiterra]] — setting del ciclo donde operan estos caballeros
+- [[Antiterra_Demonia|Antiterra]] — mundo del ciclo donde operan estos caballeros
 - [[Sigil|Sigil]] — Ciudad de las [[Puertas]]; escenario cosmológico de facciones con sigilos propios
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Dos emblemas se enfrentan en el campo: el sigilo individual de cada Aventurero contra el blasón colectivo de los [[Mantenientes_caballeros|Mantenientes]]. El torneo —probablemente el [[Torneo_de_la_Torre_Eiffel|Torneo de la Torre Eiffel]] del arco de [[Los_Reguladores|los Reguladores]]— es el rito donde un puñado de retadores deviene cuadrilla con nombre. La banda se prueba en el desafío: cada estandarte que cruza el palenque pide ser sujeto.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

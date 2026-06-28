@@ -51,3 +51,8 @@ imagen: Imagenes_Tier1/Montbron.png
 
 - **Antiterra moderna — cruce continuo** — el [[Barquero]] opera sin pausa
 - **Travesía de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** — cruce documentado en *en montbron contra el barquero*
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛓
+> *Pueblo y umbral a la vez: en el mapa francés es una localidad de la Charente, en [[Antiterra]] el río que pasa bajo el puente ya no es agua sino frontera, y sólo el [[Barquero]] —[[Caronte]] local que cobra una moneta y «una elección para el alma»— franquea el descenso hacia lo que está del otro lado. La banda de [[Les_Libertateurs|Les Libertateurs]] llegó persiguiendo la [[Torre_de_Heva|Torre Heva]]: algunos pagaron de más, otros de menos, uno solo pagó exacto, y Montbron no devuelve el cambio.* — glosa del Decadiano.
+<!-- /CICLO -->

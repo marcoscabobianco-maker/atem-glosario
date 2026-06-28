@@ -25,7 +25,7 @@ aliases:
 
 **[[Teologia|Teología]]:** Símbolo de herejía templaria histórica (acusación de adoración a [[Baphomet]] en siglo XIV). En la fase templaria, posiblemente representa contención de un demonio bajo rituales templarios.
 
-**Vinculación:** Centro narrativo de la jornada del falso Maestre. [[Resolucion|Resolución]] del MacGuffin de "qué fue atacado en el asalto inicial al [[Temple_complejo_TE|Temple]]" — no fue el [[Temple_complejo_TE|Temple]] simplemente, fue intento de liberar la criatura contenida.
+**Vinculación:** Centro narrativo de la jornada del falso Maestre. [[Resolucion|Resolución]] del enigma de "qué fue atacado en el asalto inicial al [[Temple_complejo_TE|Temple]]" — no fue el [[Temple_complejo_TE|Temple]] sin más, fue un intento de liberar la criatura contenida.
 
 ## Ver también
 

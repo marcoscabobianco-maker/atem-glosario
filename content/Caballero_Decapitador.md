@@ -30,6 +30,6 @@ aliases:
 
 **Relación con el grupo:** [[Hugo_de_Payns|Hugo de Payns]] menciona al Decapitador como guardián confiable, pero su debilidad en aquella noche es preocupante.
 
-**Estado tras el robo:** Vivo pero debilitado. [[Rol_futuro]] incierto.
+**Estado tras el robo:** Vivo pero debilitado. Rol futuro incierto.
 
 ## Ver también

@@ -92,7 +92,7 @@ Con el **[[Vencimiento_Varumani]]**, la entrada en **[[Ravenloft_Dominio_Ardis_V
 - [[Beastmen_Niños_de_Deino]] — cliente monstruos
 - [[Varboka]] / [[Thegan_Whitemane]] — coexistencia respetuosa
 - **Psalor Ki**, **RAJ-750** — otros rudishva supervivientes
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

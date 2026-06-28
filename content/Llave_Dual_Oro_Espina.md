@@ -26,14 +26,14 @@ tags:
 
 ## Presentación
 
-La **Llave Dual de Oro y Espina** es un **artefacto de "afinación moral"** que **el compañero [[Alumine|Alumine Manwe Finwe]]** posee en la campaña [[Arden_Vul|Ardis Vala]]. Su designación canónica es **"la llave de oro y espina"** —**dos materiales contrastes** que conviven en un mismo objeto—.
+La **Llave Dual de Oro y Espina** es un **artefacto de "afinación moral"** que **el compañero [[Alumine|Alumine Manwe Finwe]]** posee en la ciclo [[Arden_Vul|Ardis Vala]]. Su designación canónica es **"la llave de oro y espina"** —**dos materiales contrastes** que conviven en un mismo objeto—.
 
 ### Su nombre y materiales
 
 - **Oro**: nobleza, sol, riqueza, regalía
 - **Espina**: dolor, defensa, herida, naturaleza
 
-**Combinación**: **dualidad moral en un solo artefacto**. La llave **abre o cierra** según el portador esté **moralmente afinado** —es un **MacGuffin de carácter, no de cerradura**—.
+**Combinación**: **dualidad moral en un solo artefacto**. La llave **abre o cierra** según el portador esté **moralmente afinado** —es una llave de carácter, no de cerradura: lo que franquea no es una puerta sino una disposición del alma—.
 
 ### Su conexión con el Circuito de Medianoche
 
@@ -58,27 +58,25 @@ En **el regreso tras el Hiato**, en el círculo de invocaciones que [[Valerius_U
 
 **La oferta de "la llave"** sugiere que **la llave dual de Alumine es la misma que el demonio quería ofrecer** —o bien hay **otra llave** vinculada al mismo Circuito—. La **negociación demoníaca** introduce ambigüedad: el artefacto puede ser **infernal en origen** o **infernal en uso**.
 
-### Su mecánica probable
-
-** custom item**:
+### Su naturaleza probable
 
 - **Material doble**: oro + espina cristalizada
-- **Función**: requiere **portador moralmente afinado** —alineamiento específico o **pureza ritual**
-- **Uso**: abre puertas / mecanismos en el Midnight Road
-- **Riesgo**: portador no afinado **sufre la espina**: drena vigor y memoria, o **tuerce el alma por la fuerza**
-- **Posible artefacto bouncer**: detecta intenciones y bloquea uso indebido
+- **Condición**: requiere **portador moralmente afinado** —rectitud o **pureza ritual**
+- **Uso**: abre puertas y mecanismos en el Midnight Road
+- **Riesgo**: el portador no afinado **sufre la espina**: le drena vigor y memoria, o **le tuerce el alma por la fuerza**
+- **Posible guardián de umbral**: discierne intenciones y se cierra ante el uso indebido
 
 ### Alumine como portador
 
-[[Alumine|Alumine Manwe Finwe]] (compañero) — **Rockseer Elf bladesinger** —**decapitó al Maestro Malakita** en la fase media del ciclo primero. **Posesión de la llave dual** se alinea con su **rol moral** del grupo: **eje purificador**, **discernimiento entre bien y mal**.
+[[Alumine|Alumine Manwe Finwe]] (compañero) — elfo cantor de espada de los Rockseer —**decapitó al Maestro Malakita** en la fase media del ciclo primero. Que la llave dual obre en sus manos se condice con su lugar moral en el grupo: **eje purificador**, **discernimiento entre bien y mal**.
 
 ### Post-hiato (revelación del archivo)
 
 Con la entrada en **Ravenloft**:
 
-- **La llave puede haberse activado / desactivado** por las nuevas mecánicas cosmológicas
-- **El [[Papa_Alejandro_Sixto]]** puede **convocar la llave** si Alumine **falla un powers check** o **cede su afinación moral**
-- **Posible uso** en jornadas siguientes para abrir alguna prisión / acceder a un secreto crítico del Midnight Road
+- **La llave puede haberse despertado o aquietado** bajo las nuevas leyes cosmológicas del dominio
+- **El [[Papa_Alejandro_Sixto]]** podría **arrancarle la llave** si Alumine cediera su afinación moral o sucumbiera a la mácula del dominio
+- **Posible uso** en jornadas siguientes para abrir alguna prisión o acceder a un secreto crítico del Midnight Road
 
 ## Vínculos
 
@@ -90,10 +88,15 @@ Con la entrada en **Ravenloft**:
 - [[Papa_Alejandro_Sixto]] — autoridad post-hiato
 - [[Ravenloft_Dominio_Ardis_Vala]] — dominio actual
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **Posesión de Alumine** — múltiples jornadas
 - **el regreso tras el Hiato**: oferta demoníaca de "la llave del Circuito de Medianoche"
 - **Pendiente**: uso explícito en alguna jornada
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *Una llave de dos materiales —oro y espina— que no abre cerraduras sino disposiciones del alma, y que reaparece partida entre dueños: la posee [[Alumine|Alumine Manwe Finwe]] para el [[Obsidian_Gates_Midnight_Road|Circuito de Medianoche]], pero el demonio de la espada de [[Valerius_Utrecht|Valerius]] ofrece «la llave del Circuito de Medianoche» como rescate, de modo que el archivo no sabe si es la misma o su gemela. Objeto-llave que cruza manos y contextos sin terminar de fijarse en uno.* — glosa del Decadiano.
+<!-- /CICLO -->

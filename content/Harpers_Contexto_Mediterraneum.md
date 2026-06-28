@@ -19,4 +19,4 @@ aliases:
 
 ## Presentación
 
-Facción de Reinos Olvidados mencionada como contraste con el [[Red_Negra_Circulo_Rojo|Círculo Rojo]]. Representan el Bien, la Luz, paladines con barbas blancas y causas nobles. El cronista critica el exceso de wizards Harper en FR tradicional ("demasiados magos de barba blanca"). En Mediterraneum, los Harpers son la referencia de alineamiento Good contra la cual [[Sudilis]] se define.
+Hermandad de los Reinos Olvidados que el archivo invoca como contraste con el [[Red_Negra_Circulo_Rojo|Círculo Rojo]]: encarnan el Bien y la Luz, paladines de barba blanca y causas nobles. El cronista no oculta su reparo ante el exceso de magos de barba blanca que pueblan esa tradición. En el [[Mediterraneum]], los Harpers son la vara luminosa contra la cual [[Sudilis]] se define por oposición.

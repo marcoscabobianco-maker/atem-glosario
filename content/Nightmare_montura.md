@@ -26,6 +26,11 @@ Montura de un Jinete del Apocalipsis. No es solo una pesadilla, sino la [[El_Exp
 
 Ver también **[[Jinete_de_la_Guerra|Jinete de la Guerra]]**, **[[Jinetes_del_Apocalipsis]]**.
 
+<!-- CICLO -->
+> **Casas del ciclo** · ✦ ◑
+> *No una pesadilla cualquiera: la montura encarnada de un Jinete del Apocalipsis, el terror hecho cabalgadura de [[Jinetes_del_Apocalipsis|los que cierran las eras]], en la línea del [[Jinete_de_la_Guerra|Jinete de la Guerra]]. Que la montura sea de un Jinete la pone en el umbral de la apoteosis: lo que cabalga a las potencias del fin del mundo participa de su rango. Y los compañeros que cayeron bajo el Nightmare no quedaron caídos —fueron levantados al final—: el que el Apocalipsis derriba, el ciclo lo guarda y lo devuelve.* — glosa del Decadiano.
+<!-- /CICLO -->
+
 ## CATÁLOGO MC — ENTRADAS SIN DESCRIPCIÓN PROPIA
 
 Lista completa de términos presentes en el Glosario MC (primera década,

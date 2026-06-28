@@ -79,3 +79,8 @@ imagen: null
 - **Contrato con La Jabalina** — financiación asegurada
 - **Equipamiento del grupo** — túnicas mágicas, armas imbuidas, botas especializadas
 - **1824 AE — ciclo presente** — funcionario activo, respaldo administrativo sostenido
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El funcionario imperial que convierte a una cuadrilla en banda con licencia: sin Skellerang, [[La_Jabalina]] sería proscrita; con él —pliegos, fondos para túnicas e imbuidos, sede en el [[Bastardo_Cromas]]— deviene grupo operativo reconocido en [[Caldero]]. Marca el revés del tropo de la banda nombrada: el aparato administrativo, no la gesta, es lo que hace existir al sujeto colectivo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

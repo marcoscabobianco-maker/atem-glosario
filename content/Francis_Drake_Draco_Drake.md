@@ -58,3 +58,8 @@ imagen: Imagenes_Tier1/Francis_Drake_Draco_Drake.png
 - **1579 — desembarco en [[California]]; renombramiento como Nueva Albión** — episodio cronoviajado
 - **mencionado por el [[Sauro_Dragon|Dragón]]** — primera entrada en el archivo de la Corona del Norte
 - **[[Farruco_Arrastrado_al_Pozo_NC16|Farruco Arrastrado al Pozo]]** — referencia de [[Harrison_Solar]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ※
+> *El corsario que sabía del futuro por [[Cronotravel|cronotravel]] carga un umbral hacia abajo: el [[Medallon_Melancolico|medallón melancólico]] abre, en circunstancia precisa, la puerta al [[Infierno]] dantesco —«lasciate ogni speranza» como profecía literal, los estratos del descenso esperando bajo el nombre. Y el nombre es la cosa: «Drake» y «Draco» son firma doble, inglés y latín, una por cada lado del pacto; por eso [[Harrison_Solar|se lo convoca desde la muerte]] cuando el portador acierta el día.* — glosa de Paulus.
+<!-- /CICLO -->

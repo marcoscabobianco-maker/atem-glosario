@@ -24,7 +24,7 @@ aa: "R.1 relevo por victoria ; C.6 la simetria que se contagia [A.D.A., TG, TNW]
 ![[Imagenes_Tier1/Corrupcion_Dual.png]]
 <!-- /HEADER_IMG -->
 
-> *"La plataforma es la prisión del guardián."* — anotación del cronista, C1 ROL, hoja del 9 de junio de 1995.
+> *"La plataforma es la prisión del guardián."* — anotación del cronista, en su primer cuaderno, hoja del 9 de junio de 1995.
 
 La **Corrupción Dual** es la **ley de relevo** que rige el sistema de las doce plataformas zodiacales del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]]. Su enunciado es seco: **quien derrota al guardián de una plataforma se convierte en el nuevo guardián de esa plataforma, heredando su corrupción**. No hay opción de no heredar. Quien gana, ocupa. *Quien ocupa, espera. Quien espera, es derrotado a su debido tiempo por otro aventurero que cree estar ganando lo que en realidad está heredando.*
 
@@ -48,7 +48,7 @@ Por eso [[Gabriel_Guardian_de_Aries|Gabriel]] sigue en [[Plataforma_Aries|Aries]
 La regla está **enunciada en mano del cronista** veintidós años antes de su uso doctrinal:
 
 > *"Hay varios ejes abstractos, a partir de ahora llamados columnas, que atraviesan todas las dimensiones... son la esencia de un concepto, por ejemplo, la violencia o la vanidad. La columna infinita es constante en cuanto concepto, pero no en cuanto estilo... Todo esto estará referido y tendrá una importante relación con el principal habitante de la plataforma, el guardián. **La plataforma es la prisión del guardián.**"*
-> — **C1 ROL, hoja del 9 de junio de 1995**
+> — **el primer cuaderno del cronista, hoja del 9 de junio de 1995**
 
 *La regla no se infirió de los casos: se anotó antes de que los casos ocurrieran. Los casos la confirman porque el sistema fue diseñado así desde la primera escritura.*
 
@@ -77,3 +77,8 @@ La regla está **enunciada en mano del cronista** veintidós años antes de su u
 - **1715 A.D.A. en adelante** — patrón continuo
 - **1717-1784, 1888** — activaciones modernas ([[Libertateurs]], Reguladores)
 - **Ciclo presente** — [[Gabriel_Guardian_de_Aries|Gabriel]] vigente en Aries; otros guardianes ocupando sus columnas correspondientes
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ☯
+> *La ley misma del oficio rotativo: quien derrota al guardián de una plataforma se vuelve su guardián y hereda su corrupción, porque "la plataforma es la prisión del guardián". Por eso [[Gabriel_Guardian_de_Aries|Gabriel]] sigue clavado en [[Plataforma_Aries|Aries]] y [[Erzebeth]] heredará [[Plataforma_Tauro|Tauro]] cuando llegue el ciclo. La victoria no libera: contagia —y la simetría se propaga entre las doce columnas del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] como un hemisferio que toca al otro.* — glosa del archivero del Plata.
+<!-- /CICLO -->

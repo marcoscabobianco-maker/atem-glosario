@@ -122,3 +122,8 @@ imagen: null
 - **Meditación nocturna en sótano del Bastardo Cromas** — práctica shadowfelliana disciplinada
 - **Apariciones en prensa sensacionalista** — Indie Magazine estilización Gothic Emo
 - **1824 AE — ciclo presente** — monje sobrio operativo, anticipación de ceniza mojada pendiente
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☷
+> *Miembro fundador de [[La_Jabalina]], pero el monje que entra a las sombras como quien cruza una puerta: sus lazos con el [[Shadowfell]] le dan acceso al estrato negativo intermedio que jala hacia la oscuridad heredada. En la [[Senda_de_Drakthar]] tuvo que elegir entre ese descenso y la banda, y eligió la banda; el peso no se rompe, se administra con la sobriedad del que sabe que el exceso alimenta al polo de abajo.* — glosa de Arkos el archivero del Plata.
+<!-- /CICLO -->

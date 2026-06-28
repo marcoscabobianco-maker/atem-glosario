@@ -53,7 +53,7 @@ Esa forma latente es **[[El_Jardinero]]**, el anciano de palacio que recorre el 
 
 Bajo esta luz, la trama política de Vala deja de ser un mero conflicto sucesorio. La corona de **[[Uruk_(capital)_y_Casa_Azul|Uruk]]**, el rey apartado del ciclo y su sustituto ritual, la sangre oculta del Jardinero que correría por las venas del **[[Principe_Debo|Príncipe Debo]]**: todo ello se ordena como el drama escatológico de un Chakravartin que emerge. Lo que parecía la herencia disputada de una casa es, leído desde el centro de la rueda, el lento reconocimiento del soberano cósmico en el mundo. Es una lección propia del corpus de Vala, hermana de la que el Cakravartin entrega en la pirámide cristalina de la Atlántida: que el orden no se sostiene solo, y que quien lo cuida puede llegar mucho antes de que el mundo sepa nombrarlo.
 
-Conviene no confundir esta figura con otros que el archivo registra bajo nombres semejantes en ciclos distintos: la homonimia entre campañas es frecuente, y el Chakravartin de Vala pertenece a su propio orbe.
+Conviene no confundir esta figura con otros que el archivo registra bajo nombres semejantes en ciclos distintos: la homonimia entre gestas es frecuente, y el Chakravartin de Vala pertenece a su propio orbe.
 
 ## Vínculos
 
@@ -70,3 +70,8 @@ Conviene no confundir esta figura con otros que el archivo registra bajo nombres
 - Atlántida — su corte, audiencia de [[Los_Profundos]]
 - Pirámide cristalina sobre las aguas — punto de revelación
 - Norte de México, montículos antiguos — destino al que envía al grupo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ※
+> *Rey que no ordena: sostiene la rueda sin que la rueda gire sin él. Bodhi de la [[Atlantida_Alta_y_Baja|Atlántida]] que conoce el secreto de levantar y volver a colocar los sellos, y revela a [[Los_Profundos]] el juego de las plataformas y sus [[Guardianes]] desde la pirámide cristalina. El mismo título reaparece —la coincidencia onomástica es la pista— bajo la grafía Chakravartin como [[El_Jardinero]] de Vala: el soberano cósmico latente, rey-jardinero que cuida en vez de ordenar, esperando que la rueda gire hasta nombrarlo.* — glosa de Amitlai.
+<!-- /CICLO -->

@@ -165,3 +165,8 @@ En la época en que **Caldero comenzaba a forjar su fama de ciudad de convergenc
 - **~1812 AE — Aplastamiento del [[Papa_Borg_de_Caldero]]** — la contención cosmológica de la Giganta opera con éxito porque la grieta mayor ya estaba sellada por el rito de la Capilla
 - **1824 AE — Ciclo presente** — anomalías nocturnas continuadas; rumores de grupo siniestro con marcas y elegidos
 - **Próximo ciclo** — penetración anticipada por [[La_Jabalina]]; posible reactivación de la Capilla como nodo activo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ⏳ ⌖
+> *Una capilla bajo el volcán de [[Caldero]] donde una embajada de diablos pactó con clérigos locales, y donde [[Los_Reguladores]] y los [[Templarios_del_Tiempo]] cerraron la grieta al precio de inmolar a uno de los suyos. [[Pablo_el_Cronomante|Pablo]] quedó atrapado entre los bandos y huyó con un salto temporal de emergencia. Y el rito no opera aislado: es el mismo evento cosmológico que la [[Destruccion_de_Notre_Dame|destrucción de Notre Dame]] en París, inscrito en dos pliegues geográficos a la vez.* — glosa de Arkos, el archivero del Plata.
+<!-- /CICLO -->

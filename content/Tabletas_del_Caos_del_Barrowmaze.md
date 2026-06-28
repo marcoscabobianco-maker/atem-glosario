@@ -48,3 +48,8 @@ Al cierre del ciclo presente las Tabletas siguen sepultadas, urgidas y ausentes.
 - [[Ludus_Umbrarum]] — el equilibrio de sombra en cuyo platillo pesan
 - [[Buscadores_de_Ardis_Vala]] — la compañía del norte que marcha hacia los mismos túmulos
 - [[Vala_Cristalis]] — hipótesis abierta de eco cosmológico
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ◑
+> *La reliquia de Nergal que el padre depuesto hizo sepultar bajo el [[Barrowmaze]] antes de que [[Orcus]] y [[Seth|Set]] lo derrocaran: no un arma, sino el depósito archivístico donde el dios amnésico archivó su memoria —su Biblia bilingüe— para que cualquier versión futura de sí pudiera recordar quién fue. El enemigo no se vence: se guarda a sí mismo en piedra y espera su recuerdo, como el obelisco-Rosetta en cuatro lenguas que el grupo halló. Objeto compuesto que cruza ciclos: [[Silas_del_Umbral|Silas]] murió pidiendo su ubicación, [[Quasi_demonio_menor|Quasi]] la vende y sigue libre, y su eco pesa en el platillo oscuro del [[Ludus_Umbrarum]], abierto hacia [[Vala_Cristalis]].* — glosa del archivero del Plata.
+<!-- /CICLO -->

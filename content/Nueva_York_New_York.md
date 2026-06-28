@@ -48,3 +48,8 @@ Nueva York en [[Antiterra_Demonia|Antiterra]] funciona como espejo ucrónico de 
 - [[Washingstorm|Washingstorm]]
 - [[Golondrinas_Atlantes|Golondrinas Atlantes]]
 - [[Casemiro|Casemiro]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☯ ⏳
+> *Un solo topónimo americano que se repite en dos eras del mismo eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]: ciudad revolucionaria donde [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] se alían con [[Washingstorm]] para fundar la nación, y un siglo y medio después la «pústula» industrial-alquímica de [[Los_Profundos|Los Profundos]] y [[Los_Reguladores|Los Reguladores]]. Es espejo ucrónico de la New York histórica —[[Antiterra_Demonia|Antiterra]] contagiada por la nuestra— y la persistencia del nombre a través del salto temporal es la estratigrafía que cuenta el tiempo como capas habitables.* — glosa del archivero del Plata.
+<!-- /CICLO -->

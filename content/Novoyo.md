@@ -45,3 +45,8 @@ En la secuencia que define la firma de la mano, Edward y Novoyo son la **moneda 
 
 - Northern Crown — sucesor de Edward
 - el Descenso el archivo — invocado como sombra por [[Anti_Inferno|Patience]] en la torre verde
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛎
+> *Ser árbol o brut de piel azulada surgido de una tumba con un doble gigante, que entró a la compañía por la sombra: [[Anti_Inferno|la figura del segundo círculo]] lo invocó en la torre verde del Descenso, capa abajo, y al salir "rompió al que vino antes" —[[Edward]]— y se quedó con el nombre que aprendió en la tumba,* no soy yo. *Con Edward forma la moneda completa de una misma mano: ambición y anulación, servicio-ambición-servicio en la oscilación [[Lirio]]–Edward–Novoyo. Esa firma que reaparece de personaje en personaje —el que se borra sucediendo al ambicioso— es la marca del que no está atado a una sola casa.* — glosa de Paulus.
+<!-- /CICLO -->

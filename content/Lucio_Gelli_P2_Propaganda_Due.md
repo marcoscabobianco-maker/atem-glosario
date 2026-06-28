@@ -42,9 +42,14 @@ Así, la Propaganda Due es la pieza más alta y más invisible de la conspiraci�
 
 ## Notas
 
-Lucio Gelli es figura histórica real —Licio Gelli, gran maestre de la logia Propaganda Due (P2)—, conservada tal cual en la diégesis como pieza del andamiaje de poder verdadero sobre el que se levanta la campaña. La trama del culto no lo inventa: se injerta en él, como se injerta en el Operativo Cóndor, hasta volver irreconocible lo que empezó siendo mera historia argentina e italiana.
+Lucio Gelli es figura histórica real —Licio Gelli, gran maestre de la logia Propaganda Due (P2)—, conservada tal cual en la diégesis como pieza del andamiaje de poder verdadero sobre el que se levanta la gesta. La trama del culto no lo inventa: se injerta en él, como se injerta en el Operativo Cóndor, hasta volver irreconocible lo que empezó siendo mera historia argentina e italiana.
 
 ## Ver también
 
 - [[Logia_Anael]] — la logia de derecha que responde, por encima de todo, a la Propaganda Due
 - [[Operativo_Condor]] — el vestíbulo histórico de la gesta malvinense, del mismo tejido de poder real
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *Licio Gelli y la Propaganda Due entran a la diégesis sin inventarse: el gran maestre histórico, la logia P2, conservados verbatim como andamiaje de poder real sobre el que la gesta malvinense se injerta. La trama del culto no lo crea; lo usa, igual que usa el [[Operativo_Condor|Operativo Cóndor]], hasta que la masonería argentina del 1966 y la [[Logia_Anael|Logia Anael]] sirven de tapa a la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] y al [[Carcosa|reino amarillo]] que late debajo. La Historia verificable es el vestíbulo del Mito.* — glosa del archivero del Plata.
+<!-- /CICLO -->

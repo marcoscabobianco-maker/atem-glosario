@@ -22,7 +22,7 @@ tags:
 
 ### La doble naturaleza
 
-La condición de **mujer dragón** la inscribe en la línea de las **mujeres-criatura** del setting del ciclo —junto a [[Amitlai]] como pantera/Bast/Akadi en el [[Calendario]], junto a Maleika como tortuga marina en la liberación de Seth—. La forma humana es máscara; el dragón es lo que vive abajo, asoma cuando hace falta. Su brazo-serpiente es **manifestación localizada** de la dualidad: no se transforma entera para serpentear, parte del cuerpo serpentea siempre.
+La condición de **mujer dragón** la inscribe en la línea de las **mujeres-criatura** del mundo del ciclo —junto a [[Amitlai]] como pantera/Bast/Akadi en el [[Calendario]], junto a Maleika como tortuga marina en la liberación de Seth—. La forma humana es máscara; el dragón es lo que vive abajo, asoma cuando hace falta. Su brazo-serpiente es **manifestación localizada** de la dualidad: no se transforma entera para serpentear, parte del cuerpo serpentea siempre.
 
 ### Arco
 
@@ -50,3 +50,8 @@ Sigue el arco general de [[Las_Tullidas]]:
 
 - Taller de Rol — narrativa primaria de [[Las_Tullidas]]
 - Arco del [[Amuleto_de_los_Planos]] / Supremos — agente recabadora
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Una de las cuatro de [[Las_Tullidas]], la banda de señoritas mutiladas por Papi [[Balor]] que deviene sujeto: liberadas juntas, derrotan a Moloch en [[Baator]], toman la [[Taberna_de_la_Serpiente_Mundo]] y terminan recabando el [[Amuleto_de_los_Planos]] por encargo de [[Grazzt|Graz'zt]]. Chan —mujer dragón de brazo-serpiente— no actúa sola; lo que hace lo hace como miembro del cuerpo colectivo, junto a [[Luquimia]], [[Liddha]] y [[Monaco|Mónaco]]. La sigla del grupo es la que opera el mundo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

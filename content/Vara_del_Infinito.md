@@ -45,7 +45,7 @@ En su faceta de **Vara del Filósofo**, el artefacto **es un ser** —no objeto 
 - **Determinar las cuatro causas aristotélicas** —material, formal, eficiente, final— de cualquier objeto, fenómeno o ente
 - **Univocar palabras para deseos** —reducir la ambigüedad del lenguaje a un solo sentido operativo, lo que hace los deseos cumplibles—
 
-Juno *"nunca puso la vara a todo efecto por la presencia de Takijis"* —el registro conserva la línea—. Su poder pleno quedó refrenado por una contraparte que la mesa nunca dejó del todo neutralizada.
+Juno *"nunca puso la vara a todo efecto por la presencia de Takijis"* —el registro conserva la línea—. Su poder pleno quedó refrenado por una contraparte que nunca quedó del todo neutralizada.
 
 ### Las tres piezas y sus funciones
 
@@ -55,7 +55,7 @@ Juno *"nunca puso la vara a todo efecto por la presencia de Takijis"* —el regi
 
 ### "La vara del infinito era solo una parte"
 
-La línea más inquietante del archivo está en una **nota tardía de [233], fechada 19/6/2022**:
+La línea más inquietante del archivo está en una **nota tardía del registro**:
 
 > *"La vara del infinito era solo una parte."*
 
@@ -75,7 +75,7 @@ Los conflictos entre buscadores **terminan llevando la cuestión a un tribunal p
 
 ### El conflicto de los Supremos y el reparto canónico de las piezas
 
-La cristalización triádica del tribunal **va a llevar al conflicto de [[Los_Supremos]]** —campaña ATEM en escala cósmica, **Triunvirato fuera del Tiempo, Arian + Elías + el [[Innombrable]]**, terminando en una Nueva York extraña con Arian como vencedor—. En sus actas con la Vara, el Tribunal firmó el **reparto eterno de las tres piezas**:
+La cristalización triádica del tribunal **va a llevar al conflicto de [[Los_Supremos]]** —gesta ATEM en escala cósmica, **Triunvirato fuera del Tiempo, Arian + Elías + el [[Innombrable]]**, terminando en una Nueva York extraña con Arian como vencedor—. En sus actas con la Vara, el Tribunal firmó el **reparto eterno de las tres piezas**:
 
 - **La [[Gema_de_la_Creacion|Gema de la Creación]] eternamente ligada a [[Arian]]**, invocable atravesando cualquier barrera y distancia
 - **El [[Cetro_de_los_Dioses|Cetro de los Dioses]] eternamente ligado a [[Elias|Elías]]**, invocable atravesando cualquier barrera y distancia
@@ -99,7 +99,7 @@ Con cita explícita a Heidegger desde *Lecciones sobre la proposición de fundam
 
 ### Caldero / La Jabalina
 
-En la campaña **[[La_Jabalina|Caldero / La Jabalina]]** (la crónica retomada del ciclo presente), el grupo **retoma el hilo de la Vara del Infinito y de sus componentes**. El nombre del grupo coincide con el del artefacto: **la Jabalina = la lanza primordial cuya punta es la Gema**. La conexión diegética entre artefacto y grupo es estructural —no fue accidente del bautizo—.
+En la gesta **[[La_Jabalina|Caldero / La Jabalina]]** (la crónica retomada del ciclo presente), el grupo **retoma el hilo de la Vara del Infinito y de sus componentes**. El nombre del grupo coincide con el del artefacto: **la Jabalina = la lanza primordial cuya punta es la Gema**. La conexión diegética entre artefacto y grupo es estructural —no fue accidente del bautizo—.
 
 ## Vínculos
 
@@ -113,7 +113,7 @@ En la campaña **[[La_Jabalina|Caldero / La Jabalina]]** (la crónica retomada d
 - [[Barbatos]] — quien poseía la [[Piedra_del_Apocalipsis]] antes de su muerte
 - [[Benetton]] — quien dio muerte a Barbatos y cambió de manos la Piedra
 - [[Los_Reguladores]] — buscadores de la Piedra
-- [[La_Jabalina|Caldero / La Jabalina]] — campaña 2024-25 que retoma el hilo
+- [[La_Jabalina|Caldero / La Jabalina]] — gesta 2024-25 que retoma el hilo
 - [[Kronamon]] — vinculado en eje [[Anno_Domini_Antiterra_ADA|A.D.A.]] ([[Sucesos_de_Antiterra]] p.13)
 - [[Panteon_el|Panteón]] — uno de los buscadores
 - [[Elias|Elías]] — parte de la tríada que sustituye los designios de Pablo
@@ -136,3 +136,8 @@ En la campaña **[[La_Jabalina|Caldero / La Jabalina]]** (la crónica retomada d
 - Tribunal por fuera del universo — cristalización de la versión triádica
 - Los Supremos — conflicto cósmico de cierre del ciclo MC (el Innombrable vs Arian, NY extraña)
 - [[Caldero]] / [[La_Jabalina]] (2024-25) — retoma del hilo
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ⟳ ⛓
+> *Un objeto que no existe entero: sólo cuando se ensamblan sus tres piezas —[[Gema_de_la_Creacion|Gema]] ← [[Cetro_de_los_Dioses|Cetro]] → [[Piedra_del_Apocalipsis|Piedra]]— decide el destino del cosmos, y un tribunal fuera del universo cristaliza esa tríada repartiéndola entre [[Arian]], [[Elias|Elías]] y el [[Innombrable|Innombrable]]. Su franja de disolución enseña que el que mata al guardián se vuelve guardián; y su punta-lanza vuelve a [[La_Jabalina]], la banda que lleva su nombre.* — glosa del Decadiano.
+<!-- /CICLO -->

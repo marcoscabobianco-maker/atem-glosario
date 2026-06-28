@@ -24,4 +24,4 @@ Gigante azul, comerciante planar. Descrito con atributos de comerciante judío e
 
 ## Notas
 
-Los Mercane son comerciantes planares del Manual of the Planes / Planescape. La mano de seis dedos tiene eco con la entrada de [[Lotario]]: "[[Helter]] (hijo de Elías) nuevo demonio de seis dedos." Posible conexión trans-temporal.
+Los Mercane son comerciantes que viajan de plano en plano, llevando su carromato por las rutas del multiverso. La mano de seis dedos tiene eco con la entrada de [[Lotario]]: "[[Helter]] (hijo de Elías) nuevo demonio de seis dedos." Posible conexión trans-temporal.

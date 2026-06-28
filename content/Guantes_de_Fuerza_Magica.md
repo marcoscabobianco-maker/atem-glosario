@@ -9,10 +9,8 @@ aliases:
 
 **Rareza:** Menor
 **Descripción:** Conceden un vigor suplementario que dura un día entero desde que se calzan
-**[[Efecto_limitado]]:** Sirven una sola vez; después el encanto se agota
-**[[Presencia_en_grupo]]:** Múltiples disponibles (del Santuario)
+**Efecto limitado:** Sirven una sola vez; después el encanto se agota
+**Presencia en grupo:** Múltiples disponibles (del Santuario)
 
 ## Ver también
 
-- [[Efecto_limitado|Efecto limitado]]
-- [[Presencia_en_grupo|Presencia en grupo]]

@@ -117,7 +117,7 @@ El bibliotecario anotó los nombres: *"Tenemos que un señor que es el Barón Ar
 - [[Sixto_Guido]] — compañero homónimo cuyo vínculo cósmico con el Papa el archivo no termina de resolver
 - [[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]] — silencio en el que se hizo Papa
 - [[Palacio_del_Prisma]] — sede; fortaleza volante anclada
-- [[Castillo_del_Prisma]] — encarnación trans-campaña del mismo prisma
+- [[Castillo_del_Prisma]] — encarnación trans-gesta del mismo prisma
 - [[Custodes_Oculis_Solis|Custodes]] — guardia áurea, asimilados al servicio papal
 - [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]] — orden de origen
 - [[Master_Malakita]] — antiguo líder vampírico, decapitado por [[Alumine_Manwe_Finwe|Alúmine]]
@@ -139,3 +139,8 @@ El bibliotecario anotó los nombres: *"Tenemos que un señor que es el Barón Ar
 - **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — transformación cuya fórmula el archivo conserva en misterio; acceso al poder luminoso del plano positivo; asimilación de los Custodes; ascenso al trono de rubí
 - **El regreso** — opera por bibliotecario; los Buscadores quedan "en la lista" del nuevo orden
 - **Ciclo presente** — gobierno desde el trono; equilibrio del polo luminoso contra Caladan-Valakhan; *la aparición directa, aún pendiente*
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦ ※
+> *Caballero perdido en el nivel de abajo que volvió señor de la gesta siguiente: [[Caballeros_Cicatriz_del_Sol|Sir Sixto]] se hizo Papa luminoso del plano positivo en el silencio del [[Hiato_15_Años_Ardis_Vala|Hiato]], asimiló a los [[Custodes_Oculis_Solis|Custodes]] y se sentó en el trono de rubí. Y carga el nombre de [[Alejandro_VI_Borgia|Alejandro VI]] no como metáfora sino como identidad —con Dracos y Luminita por Cesare y Lucrecia—: la coincidencia onomástica es la cosa. Lo que A leyó como la ascensión a la casilla divina (AA-Z.4) y como el nombre que revela identidad (AA-N.1) es, en C, una sola casa.* — glosa del Decadiano.
+<!-- /CICLO -->

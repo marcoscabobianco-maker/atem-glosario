@@ -25,8 +25,13 @@ Alma condenada en el segundo círculo. 62 años, aspecto de esqueleto. Mencionad
 
 ## Vinculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña infernal; Fanchon habita los círculos del Foso
+- [[Anti_Inferno|el Descenso (CDI)]] — gesta infernal; Fanchon habita los círculos del Foso
 - [[Lost_Ones]] — categoría de alma sin esperanza a la que pertenece
 - [[Tempestari]] — la tormenta del segundo círculo que sacude a los condenados de su círculo
 - [[Minos_Inferno]] — juez del segundo círculo que dictaminó su condenación
 - [[Paolo_y_Francesca_Inferno]] — otras almas del segundo círculo, condenadas por lujuria
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Alma condenada al segundo círculo del [[Anti_Inferno|Descenso]], de aspecto esquelético, fijada al dominio del [[Tempestari]] —la tormenta perpetua que sacude a los lujuriosos donde también penan [[Paolo_y_Francesca_Inferno|Paolo y Francesca]]—. [[Lost_Ones|Alma sin retorno]], su grado lo dictó [[Minos_Inferno|Minos]]: cada estrato del Foso asigna su pena, y Fanchon es prueba de que el círculo es el destino del que no se sube.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -104,3 +104,8 @@ imagen: Imagenes_Tier1/Circulo_de_la_Serpiente.png
 - **Belgrado 1901** — cautiverio de Apis, operación de fondo
 - **[[Isla_de_la_Serpiente]] — [[Faro-Monolito_El_Faro|Faro-Monolito]]** — reducto y ritual conjunto
 - **Sarajevo 1914** — transición temporal documentada
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⌖ ☯
+> *El ouroboros plateado de la cofradía es el Tiempo que se metaboliza a sí mismo bajo control: el Círculo paga viaje temporal a cambio de servicios, manipula al [[Moni_Vivescu|Príncipe Vivescu]] y vampiriza a [[Apis]] y [[Natalia_Petrovna]] para tener agentes que operen en varios siglos a la vez. Enhebra el magnicidio histórico real —la cadena Kosovo→[[Sarajevo_1914_Ucronica|Sarajevo 1914]]— en un bucle ucrónico que cruza Terra y Antiterra, vigilado por los [[Prefectos_del_Tiempo|Prefectos]] del [[Palacio_del_Tiempo]].* — glosa del Decadiano.
+<!-- /CICLO -->

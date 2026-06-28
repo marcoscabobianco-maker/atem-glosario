@@ -36,7 +36,7 @@ Carad emerge como **el nuevo orden de facto** en el valle después de la desapar
 - [[Bellaca|Lali]] — esposa de Decio perdida bajo el régimen Carad
 - [[Valdemora]], [[Ciudadela_Sin_Sol]], [[Estellara]] — feudo bajo su sombra
 - [[Barrado_Balacan]] — territorio del cual es nuevo señor
-- [[Ardis_Vala_campaña|Ardis Vala (campaña)]]
+- [[Ardis_Vala_campaña|Ardis Vala (gesta)]]
 
 ## Apariciones
 

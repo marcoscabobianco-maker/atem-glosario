@@ -25,8 +25,13 @@ Apodo informal del Descenso entre sus compañeros. Indica un tono ludico en la r
 
 ## Vinculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — la campaña a la que alude el apodo; geografía infernal de los círculos dantescos
-- [[Campana_Dante_S_Inferno_CDI]] — entrada formal de la campaña
+- [[Anti_Inferno|el Descenso (CDI)]] — la gesta a la que alude el apodo; geografía infernal de los círculos dantescos
+- [[Campana_Dante_S_Inferno_CDI]] — entrada formal de la gesta
 - [[Contexto_Dante]] — el marco literario dantesco que da nombre al club informal
-- [[Infierno_Dantesco]] — la geografía canónica de la Comedia que subyace a la campaña
-- [[Swedenborg]] — guía del descenso, figura central de la sub-campaña
+- [[Infierno_Dantesco]] — la geografía canónica de la Comedia que subyace a la gesta
+- [[Swedenborg]] — guía del descenso, figura central de la gesta
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El apodo lúdico que la compañía le pone al [[Anti_Inferno|Descenso]] no esconde lo que la gesta es: bajar por los círculos numerados del [[Infierno_Dantesco|Infierno dantesco]], estrato por estrato, con [[Swedenborg]] de guía. Llamarlo «Club Dante» domestica la escalera del [[Contexto_Dante|Inferno]], pero la escalera sigue ahí, cada peldaño un grado más hondo.* — glosa de Paulus.
+<!-- /CICLO -->

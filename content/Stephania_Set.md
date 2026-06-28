@@ -33,7 +33,7 @@ tags:
 
 ### Aspecto
 
-Mujer **enmascarada**, **estética [[Marques_de_Sade_Hugo|Marqués de Sade]]** según la descripción de los [[Buscadores_de_Ardis_Vala|Buscadores]] en el archivo. Postura, presencia y maneras de quien **decide con frialdad** sobre vida y muerte. Su predecesor **Keladorus de [[Arcturos]]** murió enfrentando al behir en su intento de recuperar el Tercer [[Misterio]].
+Mujer **enmascarada**, **estética [[Marques_de_Sade_Hugo|Marqués de Sade]]** según la descripción de los [[Buscadores_de_Ardis_Vala|Buscadores]] en el archivo. Postura, presencia y maneras de quien **decide con frialdad** sobre vida y muerte. Su predecesor **Keladorus de [[Arcturos]]** murió enfrentando al behir en su intento de recuperar el Tercer Misterio.
 
 ### Su staff de mando
 
@@ -66,7 +66,7 @@ Stephania es **la villana del nivel y, potencialmente, del dungeon medio**. Su p
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
 - [[Forum_de_Set|Forum of Set]] — su dominio
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Culto_de_Set]] — su orden religiosa
 - [[Set]] — divinidad patrona
 - **[[Belisarius]] the Overseer** — segundo
@@ -81,3 +81,8 @@ Stephania es **la villana del nivel y, potencialmente, del dungeon medio**. Su p
 
 - **el archivo** — Subasta del collar maldito. Encuentro central.
 - Mencionada en jornadas posteriores como **amenaza latente**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑
+> *No se la vence: se la deja atrás como amenaza latente. La Suma Sacerdotisa del [[Culto_de_Set]] enmascarada plantea a los [[Buscadores_de_Ardis_Vala|Buscadores]] la elección —sacrificar a [[Sir_Circalculo]] o ser ejecutados— y, cuando escapan con los rubíes de los ojos de [[Set]], queda intacta tras la sala hipóstila del [[Forum_de_Set]], villana guardada del nivel y del dungeon medio para una vuelta posterior. Hereda el cargo de Keladorus, muerto por el behir: la casa de Set no queda vacante.* — glosa de Paulus.
+<!-- /CICLO -->

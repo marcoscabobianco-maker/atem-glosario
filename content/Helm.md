@@ -71,3 +71,8 @@ imagen: null
 - **Doctrina marcial primigenia** — establecimiento del culto vigilante
 - **Operaciones paladinas continuadas** — los paladines del Vigilante como cuerpo recurrente
 - **Era actual del archivo** — doctrina helmiana en operación residual en cuerpos de guardia menores
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *El dios del yelmo cerrado teologiza el oficio del guardián: vigilancia ininterrumpida, relevos precisos, lealtad que no necesita saber qué guarda. Su doctrina sostiene a los guardianes de las plataformas en la [[Contienda]] y a los oficios de cierre de [[Templarios_del_Tiempo]] y [[Los_Reguladores]]; cuando [[Maristo]] quiebra un juramento helmiano, la condena que lo guarda se cumple en parte por esa falla. Helm es la casa rotativa vista desde el cargo, no desde quien lo ocupa.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -9,20 +9,16 @@ aliases:
 
 ## Presentación
 
-**Tipo:** [[Entidad]] ambigua — posiblemente viajero temporal poseído
-**Descripción:** Figura misteriosa sin nombre específico dado en archivos. Se refiere exclusivamente como "El Negro" (por [[Michel|Michel]], otros compañeros). Inicialmente presentado como aliado, aparentemente guardián temporal o facilitador en [[Laberinto_Omniporal]]. Posteriormente revelado como POSEÍDO por entidad demoniaca (presumiblemente demonio capuchado de zona 5, aunque no confirmado explícitamente).
-**Manifestación demoniaca:** Ojos que brillan rojo-azulado intenso. Lanza "Death Wail" —un grito de muerte que arrasa—, aura maldición (símbolo bajométrico), "One Dies" (marca mortal).
-**[[Identidad_real]]:** Encarnación o sirviente directo de [[Pablo_de_Alejandria|PABLO]] (viajero temporal primigenio). Penetró corazón de "[[SUPRA_PADRE_Deidad_Temporal|Supra Padre]]" en catedral negra. Conocimiento de secretos viajeros temporales (cómo/dónde ensartar corazón para tortura eones).
-**Alineación:** Caótico Malvado (en estado de posesión)
-**Relación a grupo:** Inicialmente aliado (ambiguo); exorcizado en la cámara central del [[Laberinto_Omniporal]] (grupo no determinó si muerto permanente)
-**Estado actual:** Poseído, exorcizado, descorporizado. Manifestación espectral persiguió grupo hacia cubo central. Destino final desconocido.
+**Naturaleza:** [[Entidad]] ambigua — posiblemente viajero temporal poseído.
+**Descripción:** Figura misteriosa, sin nombre propio en el archivo. Se la conoce exclusivamente como "El Negro" (así la nombran [[Michel|Michel]] y los demás compañeros). Inicialmente se presenta como aliado, al parecer guardián temporal o facilitador en el [[Laberinto_Omniporal]]. Más tarde se revela POSEÍDA por una entidad demoníaca (presumiblemente el demonio capuchado de la zona 5, aunque no se confirma del todo).
+**Manifestación demoníaca:** Ojos que brillan rojo-azulado intenso. Lanza "Death Wail" —un grito de muerte que arrasa—, un aura de maldición (símbolo bajométrico) y "One Dies" (marca mortal). En su posesión es de naturaleza caótica y maligna.
+**[[Identidad_real]]:** Encarnación o sirviente directo de [[Pablo_de_Alejandria|PABLO]] (viajero temporal primigenio). Atravesó el corazón del "[[SUPRA_PADRE_Deidad_Temporal|Supra Padre]]" en la catedral negra. Conoce los secretos de los viajeros del tiempo (cómo y dónde ensartar el corazón para una tortura de eones).
+**Relación con el grupo:** aliado ambiguo al principio; exorcizado en la cámara central del [[Laberinto_Omniporal]] —los compañeros no llegaron a saber si su muerte fue permanente—.
+**Estado actual:** Poseído, exorcizado, descorporizado. Su manifestación espectral persiguió al grupo hacia el cubo central. Destino final desconocido.
 
-**Crítica:** El Negro es uno de los figuras más misteriosos. Su identidad real está entrelazada a cosmología viajeros temporales. Probable que reaparezca en forma diferente (reencarnación o nuevo hospedador).
+El Negro es una de las figuras más misteriosas del archivo: su identidad real está entrelazada con la cosmología de los viajeros del tiempo, y es probable que reaparezca en otra forma (reencarnación o nuevo hospedador).
 
 ## Ver también
 
-- [[Manifestacion_demoniaca|Manifestación demoniaca]]
 - [[Identidad_real|Identidad real]]
-- Alineación
-- [[Relacion_a_grupo|Relación a grupo]]
-- Crítica
+- [[El_Negro_Espectro|El Negro (Espectro)]] — la forma residual tras el exorcismo

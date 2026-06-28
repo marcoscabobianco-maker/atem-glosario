@@ -112,7 +112,7 @@ Los **Varumani** —que **tenían el huevo y participaron de la violencia**— *
 - [[Buscadores_de_Ardis_Vala|Buscadores]] — responsabilidad moral
 - [[Decio_Balmora]] — víctima indirecta (Lali)
 - [[Hiato_15_Años_Ardis_Vala]] — el evento es punto cardinal del hiato
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

@@ -89,9 +89,14 @@ El **Floor of Great Chasm** —*Suelo del Gran Abismo*— es el **suelo de la ca
 - **Walid** — ogre magi chief
 - **Celsus Torquatius** — Sekhmet vengeance aspect
 - **Old Father** — heqeti undead spirit
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **Pendiente** — visita exhaustiva
 - Probablemente referenciado en jornadas del Great Chasm
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⟳
+> *El suelo del Gran Abismo es el fondo del [[Mega_Dungeon_Arden_Vul]]: el estrato más bajo, donde el descenso vertical deposita lo que cayó de los niveles altos. Y es el dungeon como capas de eras superpuestas —los [[Priscians]] reocupan el compound de los [[Sortianos]], los [[Heqeti]] guardan el cañón antiquísimo, el aspecto vengador de [[Sekhmet]] custodia su relicario—: cada habitante hereda el sitio del anterior, de modo que bajar es leer el tiempo como columna geológica.* — glosa de Arkos.
+<!-- /CICLO -->

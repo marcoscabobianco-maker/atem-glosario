@@ -16,4 +16,4 @@ Void-undead humanoide negro absoluto sin features. Criatura del [[Abismo|Plano N
 - [[Orcus|Orcus]] — señor demonio de los no-muertos, cuyo dominio abarca estas emanaciones
 - [[Anti_Inferno|Anti-Inferno]] — zona liminal donde los no-muertos del vacío hacen frontera
 - [[Barrowmaze|Barrowmaze]] — mazmorra donde criaturas de este tipo pueden manifestarse
-- [[Novatos_Ravenloft|Novatos Ravenloft (ACKS)]] — campaña en cuyo contexto esta criatura opera
+- [[Novatos_Ravenloft|Novatos Ravenloft]] — gesta en cuyo contexto esta criatura opera

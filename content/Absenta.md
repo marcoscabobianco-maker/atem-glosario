@@ -22,4 +22,4 @@ Los registros no aclaran si sus virtudes se agotan en lo químico. Queda anotada
 
 - [[Paris_Ucronica|París Ucrónica]] — la ciudad de la que es bebida emblemática; su propia crónica registra que el aire huele a carbón y a absenta
 - [[Claude_Nauge]] — su bebedor más documentado; ebrio de absenta nombra [[Buenos_Aires_Ucronica|Buenos Aires]] en noches que no recuerda
-- [[Time_Bandits]] — grupo de la sub-campaña parisina en cuya crónica la bebida aparece
+- [[Time_Bandits]] — grupo de la gesta parisina en cuya crónica la bebida aparece

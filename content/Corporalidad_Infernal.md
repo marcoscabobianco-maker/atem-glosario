@@ -33,3 +33,8 @@ aliases:
 - [[Pluton_CDI]] — plano infernal vinculado al ciclo CDI donde coexisten cuerpo y espíritu
 - [[Erinyes]] — diablos de [[Baator]] que custodian y ejecutan condenas sobre almas corporalizadas
 - [[Asmodeus]] — señor supremo de los Nueve Infiernos; bajo su jurisdicción se aplica la Corporalidad Infernal
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Marca capas de condenación: no todos los condenados son puro espíritu, algunos cargan cuerpo físico en el [[Infierno]] —el [[Falso_Profeta_Espada|Falso Profeta]] con sus huesos quebradizos es el caso canónico— y pueden estar «en cuarto y también acá», presos a la vez del plano terreno y del [[Primer_Nivel_del_Infierno|primer nivel de Baator]]. El estrato decide el grado: la corporalidad es el peldaño más bajo y más expuesto al daño dentro de la jurisdicción de [[Asmodeus]].* — glosa de Paulus.
+<!-- /CICLO -->

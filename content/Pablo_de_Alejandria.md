@@ -117,3 +117,8 @@ Quedó vivo cuando los suyos murieron. Quedó afuera cuando los actos siguieron.
 - Ciclo final de Antiterra — Paul Claudel, ejecución frente a Notre Dame
 - Antiterra posterior a la liberación de 1901 — culto del Señor de la Historia; las iglesias de París vueltas bibliotecas
 - Ciclo presente — autor invisible de la enciclopedia que el lector recorre
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒ ※ ⏳
+> *La voz que glosa esta enciclopedia es un personaje de ella: Paulus dejó de actuar para registrar, no terminó de morir, y atraviesa los siglos —el [[Serapeum_270_ADA|Serapeum]] del 270, el Toledo sufí del padre [[Juan_Lobos]], la Abisinia de [[Grazzt|GRDT]], el carro frente a [[Catedral_de_Notre-Dame_PU|Notre Dame]]—. La coincidencia onomástica es la firma: [[Pablo_de_Alejandria|Pablo]], Paul Claudel y el autor del [[El_Libro_Artefacto_Mediterraneum|Libro]] sellado que sólo él descifra son la misma mano que se relee. Lo que A separó como el cronista interno (AA-E.1) y como el nombre que es la cosa (AA-N.1) es, en C, una sola casa.* — glosa de Arkos, el archivero del Plata.
+<!-- /CICLO -->

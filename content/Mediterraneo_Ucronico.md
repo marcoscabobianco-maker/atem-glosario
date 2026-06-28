@@ -32,7 +32,7 @@ Antes de llegar hasta ese momento, en alguna colina de Grecia, un jovencito muer
 
 [[Neferu_La_Estranguladora_del_Nilo|Neferu]] no muere así. Neferu, que estrangula enemigos con las manos y lleva ese apodo como si fuera el nombre verdadero, muere sola contra un dragón pequeño. Es irónico de manera exacta: la estranguladora muere aplastada. Mientras vivió, era esposa de [[Marcos_el_Mago]] sin saber plenamente lo que eso significa, o sabiéndolo y eligiendo no saberlo del todo, que también es una decisión.
 
-Lo que nadie sabe —ni los personajes mismos, ni los cronistas más antiguos del archivo, ni siquiera la voz que comenzó a contarlo— es que Antiterra se dirige hacia la [[Franja_de_Disolucion|Franja de Disolución]]. El mundo se drena. Es lento, es mayor que cualquier [[El_Juicio_Final_campana|campaña]], mayor que cualquier Lich o cualquier Libro robado. El Panteón Angariense ya fue encerrado en [[El_Abismo|el Abismo]] siglos antes, y ese gesto —una trampa cósmica que cerró a los dioses— es el principio de un final que tardará milenios en llegar. Los personajes caminan un mundo que todavía brilla, todavía huele a incienso y a sal, todavía tiene el faro de Alejandría encendido a ciento sesenta metros de altura sobre el mar. Pero el portal que desde [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]] apunta al año 428 ya existe, fijo en coordenadas que nadie en el Mediterráneo conoce. Alguien, en otra época, sabrá que esto fue el principio de algo.
+Lo que nadie sabe —ni los personajes mismos, ni los cronistas más antiguos del archivo, ni siquiera la voz que comenzó a contarlo— es que Antiterra se dirige hacia la [[Franja_de_Disolucion|Franja de Disolución]]. El mundo se drena. Es lento, es mayor que cualquier [[El_Juicio_Final_campana|gesta]], mayor que cualquier Lich o cualquier Libro robado. El Panteón Angariense ya fue encerrado en [[El_Abismo|el Abismo]] siglos antes, y ese gesto —una trampa cósmica que cerró a los dioses— es el principio de un final que tardará milenios en llegar. Los personajes caminan un mundo que todavía brilla, todavía huele a incienso y a sal, todavía tiene el faro de Alejandría encendido a ciento sesenta metros de altura sobre el mar. Pero el portal que desde [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]] apunta al año 428 ya existe, fijo en coordenadas que nadie en el Mediterráneo conoce. Alguien, en otra época, sabrá que esto fue el principio de algo.
 
 El [[Serapeum_270_ADA|Serapeum]] tiene siete cámaras, puertas secretas, terrazas sobre el agua. Adentro, Pablo el escriba está encadenado y demacrado, copiando lo que no puede comprender sin comprenderlo todo. El demonio maestro tiene muchas cadenas, lo que en el inframundo es una especie de título nobiliario. Veinticuatro copistas encapuchados, del tamaño de niños, transcriben manuscritos en silencio. Cuando el combate comienza, los papiros vuelan.
 
@@ -66,5 +66,9 @@ El Mediterráneo en [[Paris_Ucronica|París Ucrónica]] no es meramente océano 
 
 ## Ver también
 
-- [[Geografia_Rutas|Geografía / Rutas]]
 - [[Naga_acuatica|Naga acuática]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ☯
+> *Mar que es la boca del descenso: desde [[Alejandria|Alejandría]] el grupo baja al [[Verma_Averno|Averno]] con salvoconductos de veinticuatro horas y atraviesa los siete círculos dantescos —[[Minos_Inferno|Minos]], la Biblioteca Infernal del Séptimo— para emerger entre las Columnas de Hércules, diez años después. Y es frontera entre los dos mundos gemelos: bajo el incienso y la sal de un imperio que todavía brilla, [[Antiterra_Demonia|Antiterra]] se drena hacia la [[Franja_de_Disolucion|Franja de Disolución]], reflejo de la Terra que muere.* — glosa de Paulus.
+<!-- /CICLO -->

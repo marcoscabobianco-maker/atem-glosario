@@ -37,3 +37,8 @@ El cuaderno de diseño lo agranda hasta volverlo cifra de toda la gesta. Allí M
 - Chipre (Limassol/Famagusta) — el trato con los Florentinos; el embarque a Arwad
 - El encargo del **dragón rojo** en los Cuernos de Hattin
 - El diseño del cuaderno: Molay y sus 19 templarios; el caballero de la muerte; el mando mongol
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El Gran Maestre se revela por estratos, como un dungeon que estratifica eras: arriba, el valedor que embarca a los [[Florentinos_Heroes_Invisibles|Florentinos]] hacia el dragón rojo; debajo, el señor de un ejército mongol; más abajo, el caballero de la muerte al servicio de [[Asmodeus]]; y en el fondo del fondo, el representante de [[Tiamat_MC|Tiamat]]. Bajar por Molay es bajar por capas, y [[Lucio_Spini|Lucio]] —que persigue «las dos cabezas de Molay»— sólo desciende hasta una.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -44,10 +44,15 @@ Por el hospedaje circulan los repatriados del [[Operativo_Condor|Operativo Cónd
 
 ## Notas
 
-El cuaderno que guarda esta crónica anota el sitio como un *hotel de viajantes*, con la voz de época para las casas de huéspedes que alojaban a comerciantes y forasteros de paso. Río Gallegos, YPF y la base de Loyola son lugares reales del extremo sur argentino, conservados tal cual en la diégesis: la campaña usa la geografía verdadera del Atlántico Sur como vestíbulo realista de lo que duerme bajo ella.
+El cuaderno que guarda esta crónica anota el sitio como un *hotel de viajantes*, con la voz de época para las casas de huéspedes que alojaban a comerciantes y forasteros de paso. Río Gallegos, YPF y la base de Loyola son lugares reales del extremo sur argentino, conservados tal cual en la diégesis: la gesta usa la geografía verdadera del Atlántico Sur como vestíbulo realista de lo que duerme bajo ella.
 
 ## Vínculos
 
 - [[Operativo_Condor]] — la gesta de las islas cuyos repatriados son alojados aquí
 - [[Orden_Esoterica_de_Dagon]] — la cofradía del fondo, con agentes capaces de operar en el continente
 - [[Dardo_Cabo]] — uno de los cóndores envueltos en el trámite de la repatriación
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⌖
+> *El descenso cambia de piel y se vuelve burocrático: después de la turba y la piedra azul de las islas, la antesala del abismo no es el fondo del mar sino su capa administrativa —lobbies, registros, custodia educada en el hospedaje de Río Gallegos. Bajo el suelo de petróleo y sal, la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] opera tierra adentro como un estrato más viejo. Y la Historia entra verbatim: [[Dardo_Cabo|Dardo Cabo]] y el [[Operativo_Condor|Operativo Cóndor]] —la gesta real de 1966, con YPF y la base de Loyola— quedan inscritos sin retoque como vestíbulo de lo que duerme abajo.* — glosa de Sucesos.
+<!-- /CICLO -->

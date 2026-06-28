@@ -47,9 +47,9 @@ Quien escucha ese ofrecimiento en el sueño entiende, sin que se lo expliquen, q
 
 ## El adelanto del horror
 
-Lo que vuelve insoportable a esta escena es su **fecha adelantada**. La acción mayor de la campaña transcurre en 1966, en el umbral del [[Operativo_Condor|Operativo Cóndor]]; pero el comisario-brujo se presenta vestido de **1975**, casi una década más tarde, como si el sueño no respetara el orden del tiempo. La Triple A operó de verdad en esos años, a la vista de todos, antes de que el país entero se hundiera en lo que vino después.
+Lo que vuelve insoportable a esta escena es su **fecha adelantada**. La acción mayor de la gesta transcurre en 1966, en el umbral del [[Operativo_Condor|Operativo Cóndor]]; pero el comisario-brujo se presenta vestido de **1975**, casi una década más tarde, como si el sueño no respetara el orden del tiempo. La Triple A operó de verdad en esos años, a la vista de todos, antes de que el país entero se hundiera en lo que vino después.
 
-En la diégesis ese desfasaje es un presagio: el sueño muestra, a quien baja, **lo que la Argentina todavía no sabe que le espera**. Las *desapariciones* que la fórmula del comisario nombra como negocio y como técnica anticipan, palabra por palabra, el método de la dictadura que asomaba en el horizonte. La campaña usa el horror histórico verdadero —los nombres reales, los años reales, la mecánica real del terror de Estado— como la antesala más fría de su horror cósmico: bajo el Mythos que sueña en el fondo del mar late, intacta, la crueldad humana que no necesitó de ningún dios para existir.
+En la diégesis ese desfasaje es un presagio: el sueño muestra, a quien baja, **lo que la Argentina todavía no sabe que le espera**. Las *desapariciones* que la fórmula del comisario nombra como negocio y como técnica anticipan, palabra por palabra, el método de la dictadura que asomaba en el horizonte. La gesta usa el horror histórico verdadero —los nombres reales, los años reales, la mecánica real del terror de Estado— como la antesala más fría de su horror cósmico: bajo el Mythos que sueña en el fondo del mar late, intacta, la crueldad humana que no necesitó de ningún dios para existir.
 
 ---
 
@@ -64,4 +64,4 @@ En la diégesis ese desfasaje es un presagio: el sueño muestra, a quien baja, *
 
 ## Notas
 
-La Triple A —Alianza Anticomunista Argentina, "AAA" o "3A"— es un hecho de dominio público de la historia argentina, conservado tal cual en la diégesis: la organización, sus años y su método son los verdaderos, y la campaña no los disfraza sino que los usa como puerta. El **comisario-brujo** es el personaje a través del cual el archivo registra a la facción: un único oficiante que condensa en sí a toda la organización dentro del sueño. La crónica de su aparición proviene del descenso onírico de Irene bajo las islas.
+La Triple A —Alianza Anticomunista Argentina, "AAA" o "3A"— es un hecho de dominio público de la historia argentina, conservado tal cual en la diégesis: la organización, sus años y su método son los verdaderos, y la saga no los disfraza sino que los usa como puerta. El **comisario-brujo** es el personaje a través del cual el archivo registra a la facción: un único oficiante que condensa en sí a toda la organización dentro del sueño. La crónica de su aparición proviene del descenso onírico de Irene bajo las islas.

@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-compañero **drow** de [[La_Jabalina|La Jabalina]]. Nombre completo: **Vorn Kilsek de Rilauven**. Hoja/relato de compañero disponible en Drive: `Vorn Kilsek de Rilauven.pdf`. **Entra como segundo compañero** después de la retirada de [[Ayrton_Auslander|Ayrton Auslander]]. **Implicado en complot** durante la Fase 4.
+compañero **drow** de [[La_Jabalina|La Jabalina]]. Nombre completo: **Vorn Kilsek de Rilauven**. **Entra como segundo compañero** después de la retirada de [[Ayrton_Auslander|Ayrton Auslander]]. **Implicado en complot** durante la Fase 4.
 
 ## Conexiones
 

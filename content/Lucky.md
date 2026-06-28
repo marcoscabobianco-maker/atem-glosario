@@ -123,3 +123,8 @@ imagen: null
 - **Habitación compartida con Teo** — Bastardo Cromas
 - **Encuentro con Teo en niebla** — fundacional para el grupo
 - **1824 AE — ciclo presente** — avatar Arian luminoso operativo, profecía Cageewrights vinculada a su contexto inmediato
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛎ ⛓
+> *Su alias es la cifra: «Lucky», el de nombre reservado, un libre que el archivo nombra por mote porque el verdadero no se ata a una casa. Por eso lo vincula la sospecha del linaje [[Arian|Arian]] sin confirmarlo, y por eso opera dentro de [[La_Jabalina]] sin ser reductible a ella —el de nombre reservado entra al Juego, no le pertenece. Comparte habitación y oficio con [[Teo_Paladin_Sin_Brazo|Teo]] y [[Lukas]], pero su gracia es la que ninguno de los otros tiene: que el cosmos no le exige decir quién es.* — glosa de Arkos, el archivero del Plata.
+<!-- /CICLO -->

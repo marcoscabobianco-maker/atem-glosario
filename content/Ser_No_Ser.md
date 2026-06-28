@@ -14,7 +14,7 @@ aliases:
 
 ## Apariciones notables
 
-[[Catedral_de_Notre-Dame_PU|Catedral de París]] (final de campaña templaria). [[Pleroma]] (poema cosmológico).
+[[Catedral_de_Notre-Dame_PU|Catedral de París]] (final de gesta templaria). [[Pleroma]] (poema cosmológico).
 
 ## Notas
 

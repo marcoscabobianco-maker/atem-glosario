@@ -47,17 +47,15 @@ Los **[[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** activaron las primera
 
 ### Las plataformas y las Reinas (Les Libertateurs)
 
-**Las plataformas zodiacales han ido cambiando a lo largo de los siglos** —no son fijas en su contenido, solo en su número doce y en su anclaje zodiacal—. En la campaña **[[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** del siglo XVIII aparecen **reinas de distinto tipo** como guardianas o aspirantes a guardianas:
+**Las plataformas zodiacales han ido cambiando a lo largo de los siglos** —no son fijas en su contenido, solo en su número doce y en su anclaje zodiacal—. En la gesta **[[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** del siglo XVIII aparecen **reinas de distinto tipo** como guardianas o aspirantes a guardianas:
 
-- **Una reina jeva** —*"jeva"* del coloquial argentino, probable referencia a **reina judía/hebrea** del setting o lectura Wispr de un nombre específico—
+- **Una reina jeva** —*"jeva"* del coloquial argentino, probable referencia a **reina judía/hebrea** del mundo, o mala lectura de un nombre específico—
 - **Una reina eslava** —probable **Reina Eva / [[Erzebeth]] la Spell Queen despechada**, encerrada en torre de castillo en Polonia, mencionada en *[[Sucesos_de_Antiterra]]* dentro del arco de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]—
 - **Otras reinas** —pendiente identificar individualmente—
 
- lo declaró (2026-05-20): *"Las plataformas zodiacales que han ido cambiando, y por supuesto, eso va a ser más complicado porque tiene que ver con la campaña de [[Libertateurs]], donde aparecen reinas de distinto tipo, inclusive una reina jeva, una reina eslava y otros que luego detallaremos."*
-
 ### Washingstorm como guardián
 
- sugiere también (2026-05-20) que **[[Washingstorm]] aparece como guardián** de alguna de las plataformas en algún momento del arco: *"creo que incluso aparece como guardian Washing storm."* La línea de [[Washingstorm]] —Washington + Storm, figura equivalente a George Washington liberada de corrupción mágica por Les Libertateurs— **operaría también como guardián atrapado** en el sistema de plataformas, consistente con la fórmula del Juego: *"el que mata al guardián, se vuelve guardián."* Pendiente confirmar el signo zodiacal exacto que [[Washingstorm]] guarda.
+**[[Washingstorm]] aparece como guardián** de alguna de las plataformas en algún momento del arco. La línea de [[Washingstorm]] —Washington + Storm, figura equivalente a George Washington liberada de corrupción mágica por Les Libertateurs— **operaría también como guardián atrapado** en el sistema de plataformas, consistente con la fórmula del Juego: *"el que mata al guardián, se vuelve guardián."* Pendiente confirmar el signo zodiacal exacto que [[Washingstorm]] guarda.
 
 Los **[[Los_Reguladores|Reguladores]]** y **[[Los_Profundos|Los Profundos]]** —en el ciclo final— jugaron el juego completo de las doce plataformas. Aries en marzo de 1888, Tauro en abril, y así por todo el zodíaco. La resolución del Juego es uno de los hilos que sostiene el cierre del ciclo de 1901: cuando las doce plataformas se cierran, lo que sigue es la [[Franja_de_la_Disolucion|franja]] y la síntesis a [[Sinterra]].
 
@@ -65,7 +63,7 @@ Los **[[Los_Reguladores|Reguladores]]** y **[[Los_Profundos|Los Profundos]]** �
 
 - [[Cakravartin]] — Rey de la Atlántida, supervisor del Juego
 - [[Atlantida_Alta_y_Baja|Atlántida]] — territorio supervisor
-- [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales (TNW)]] — paralelo estructural en otra campaña
+- [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales (TNW)]] — paralelo estructural en otra gesta
 - [[Guardianes]] — la categoría de seres que quedan atrapados
 - [[Reunidos_los_TG|Reunidos]] — asistentes trans-temporales del salto
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] — primeros activadores documentados

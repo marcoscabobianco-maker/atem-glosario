@@ -70,7 +70,7 @@ tags:
 
 ## La línea Cuervo
 
-**El alias "Cuervo"** *que Corvino lleva con discreción* **opera en la línea trans-campaña de los clubes ornitomanticos** del cosmos extendido: *figuras que en distintas geografías y eras operan el oficio de comunicación por aves*. **El archivo registra al menos tres "Cuervos" históricos** —*el de Constantinopla bizantina, el de Praga rudolfina, el Corvino de París uchrónica*—; **la doctrina sugiere parentesco operativo** *(mismo oficio, distintos cuerpos)*, **sin afirmar línea de sangre**.
+**El alias "Cuervo"** *que Corvino lleva con discreción* **opera en la línea trans-saga de los clubes ornitomanticos** del cosmos extendido: *figuras que en distintas geografías y eras operan el oficio de comunicación por aves*. **El archivo registra al menos tres "Cuervos" históricos** —*el de Constantinopla bizantina, el de Praga rudolfina, el Corvino de París uchrónica*—; **la doctrina sugiere parentesco operativo** *(mismo oficio, distintos cuerpos)*, **sin afirmar línea de sangre**.
 
 [*El cronista del Plata anota que la red de aves de París funciona con una eficacia que el estado uchrónico no termina de aceptar. Una propuesta de regulación municipal en 1899 fracasó cuando la paloma que llevaba el borrador al Ayuntamiento llegó al palomar de Corvino antes que al despacho del alcalde. La paloma se equivocó —o no se equivocó— y Corvino conserva el borrador en su archivo personal. —Glosa de [[Arkos]] el archivero del Plata.*]
 
@@ -97,13 +97,13 @@ tags:
 
 El cosmos extendido conserva un catálogo amplio de fichas de aves. Corvino opera en relación tangencial con varias:
 
-- **[[Las_Palomas_de_Hierro]]** / **[[Palomas_de_Hierro]]** — *palomas blindadas del aparato bizantino*; *cruce trans-campaña con la red de despacho parisina*
+- **[[Las_Palomas_de_Hierro]]** / **[[Palomas_de_Hierro]]** — *palomas blindadas del aparato bizantino*; *cruce trans-gesta con la red de despacho parisina*
 - **Encuentro con Paloma Mensajera** — *escena documentada de uso operativo de paloma de despacho*
 - **[[Club_des_Gorriones]]** — *club hermano por especie*; *los gorriones cubren ruido, las palomas portan mensaje*
 - **[[Senora_de_los_Cuervos]]** — *afinidad onomástica con el alias de Corvino, operación distinta; figura femenina autoritaria*
-- **[[Gorriones_Atlantes_Atlantean_Sparrows]]** — *especie trans-campaña con conexión cosmológica mayor*
+- **[[Gorriones_Atlantes_Atlantean_Sparrows]]** — *especie trans-gesta con conexión cosmológica mayor*
 - **[[Princesa_Urraca]]** — *la urraca del Bois de Boulogne en clave humana*; *Corvino conoce su nombre, no su rostro*
-- **[[Cuerno_de_Hierro_Iron_Raven_Token]]** — *artefacto cuervo trans-campaña*
+- **[[Cuerno_de_Hierro_Iron_Raven_Token]]** — *artefacto cuervo trans-gesta*
 - **[[Roc_Ave_de_Gula]]** — *ave del catálogo de las grandes aves cósmicas*; *Corvino no la opera*
 - **[[Tren_del_Buitre_Risueno]]** — *vehículo nombrado por ave*; *operación distinta a la aviar*
 
@@ -123,3 +123,8 @@ El cosmos extendido conserva un catálogo amplio de fichas de aves. Corvino oper
 - [[Claude_Nauge]] — afín ideológico
 - [[Iriarte]] — autoridad tolerante
 - [[Arkos]] — glosador del oficio
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ※
+> *El oficio del palomar de guerra pasa de maestro a aprendiz por línea ininterrumpida, no por concesión: hubo un Cuervo en la Constantinopla bizantina, uno en la Praga rudolfina, y el [[Corvino|Corvino]] de [[Paris_Ucronica|París Ucrónica]] —mismo cargo, distintos cuerpos, el puesto que sobrevive al portador. Y el alias «Cuervo» no viene de erudición latina sino del oficio mismo: el nombre es la cosa. No confundir con el [[Cuervos_club_13|Club de los Cuervos]], su par operativo que anota lo que él despacha.* — glosa del archivero del Plata.
+<!-- /CICLO -->

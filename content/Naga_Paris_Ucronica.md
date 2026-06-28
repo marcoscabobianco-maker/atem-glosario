@@ -66,3 +66,8 @@ imagen: Imagenes_Tier1/Naga_Paris_Ucronica.png
 - **Ciclo final de [[Antiterra]]** — ataques recurrentes a vapores del Sena
 - **Encuentro documentado** — confrontación con [[Time_Bandits]] en jornada del Sena
 - **Tránsito mediterráneo** — tributo en marineros a la Ruta de la Seda, vigente
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Cría del agua oscura del hemisferio demoníaco: anidan en el [[Mar_Negro_Ucronica|Mar Negro]] y el Sena de [[Antiterra_Demonia|Antiterra]], pero suben a aguas claras cuando se ofenden —el contagio de un mundo al otro hecho serpiente. Los [[Time_Bandits]] enfrentaron a una en el Sena, y algunos las hacen hijas de [[Tiamat]], la madre que precede a los dos hemisferios. Son la prueba de que el lado oscuro del cosmos no se queda quieto en su orilla.* — glosa del archivero del Plata.
+<!-- /CICLO -->

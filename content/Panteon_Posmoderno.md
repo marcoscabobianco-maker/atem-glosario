@@ -18,17 +18,17 @@ aliases:
 
 ## Presentación
 
-[[Lords_of_Creation_Sistema_TNW|Sistema]] de correspondencias entre los siete pecados capitales y deidades/figuras del mundo de [[Torregrises]], documentado en los cuadernos T de (2003-2004). Complementa la estructura de los **[[Curiales]]** , que mapea pecados a miembros de **[[Rintrah]]**. Donde los [[Curiales]] son compañeros encarnados, el Panteón Posmoderno son fuerzas cósmicas o figuras de poder del mundo:
+Entramado de correspondencias entre los siete pecados capitales y deidades/figuras del mundo de [[Torregrises]]. Complementa la estructura de los **[[Curiales]]**, que mapea pecados a miembros de **[[Rintrah]]**. Donde los [[Curiales]] son compañeros encarnados, el Panteón Posmoderno son fuerzas cósmicas o figuras de poder del mundo:
 
 Ira → **[[Sucor_TG|Sucor]]** · Gula → **Mabón** (cf. [[Mabron|Mabrón]]) · Avaricia → **[[Gordo_Suli|Gordo Suli]]** · Lujuria → **[[Lubina]]** · Pereza → **[[Verdulero]]** · Soberbia → **[[Sabas]]**.
 
-El adjetivo "posmoderno" sugiere que trabaja esta estructura como dispositivo narrativo autorreflexivo, no como teología diegética ingenua. El Panteón Posmoderno es un "panteón interesante" (C1 GREEN, 1995-96) que ya aparece como concepto fundacional.
+El nombre "posmoderno" lo marca como un panteón que se sabe mirado: una teología que juega con su propio reflejo. El archivo lo registra desde temprano como "un Panteón Posmoderno muy interesante", concepto fundacional del mundo.
 
 ## Apariciones notables
 
-**Cuadernos T (minería S17T1):** C1 GREEN líneas 1357-1358 (1995-96): "Hay un Panteón Posmoderno muy interesante" — primera mención. C17 líneas 118-119, 259, 480, 525, 560, 730 (oct 2003-ene 2004): tabla completa pecados/deidades. C18 (2004): continuación del desarrollo. C42 (2010): referencia contextual.
+Primera mención muy temprana ("Hay un Panteón Posmoderno muy interesante"); más tarde el mundo despliega la tabla completa de pecados y deidades, y la sigue desarrollando en arcos posteriores.
 
-**Fuentes E:** Las Notas preliminares de [[Torregrises]] detallan un nivel teológico
+**Otra capa teológica:** Las Notas preliminares de [[Torregrises]] detallan un nivel
 adicional: 6 dioses del [[Panteon_el|Panteón]] con nombres latinizantes y dobles correspondencias:
 **Nix** (nieve/drogas), **[[Anxifer]]** (inquietante/medios), **[[Intrico]]** (enredar/política),
 **[[Intimus]]** (secreto/sexo), **[[Intactus]]** (intangibilidad/tribus), **[[Tentator]]** (tentación/dinero).

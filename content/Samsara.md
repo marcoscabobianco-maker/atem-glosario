@@ -57,7 +57,7 @@ Después de la expedición fallida, **Samsara fue capturada por las fuerzas de [
 
 ### Su poema
 
-Samsara es autora del poema **"Los Sinsabores de Samsara"** —conservado en el Taller de Rol entre las líneas 372 y 406—. La voz del poema es la voz de la sacerdotisa que ya no es solo sacerdotisa: la que carga un dragón en el vientre, la que recuerda el agua dorada del incubador, la que sabe que no hay vuelta atrás.
+Samsara es autora del poema **"Los Sinsabores de Samsara"** —que el archivo conserva entre sus páginas—. La voz del poema es la voz de la sacerdotisa que ya no es solo sacerdotisa: la que carga un dragón en el vientre, la que recuerda el agua dorada del incubador, la que sabe que no hay vuelta atrás.
 
 ### Rol Mamba 1
 
@@ -84,5 +84,5 @@ En la línea del **Rol Mamba 1** —las jornadas que el ciclo corrió en el **Mu
 - Babilonia, templo de Ishtar — su origen
 - Bajo Egipto / Delta del Nilo — expedición a la montaña invertida
 - Captura por las fuerzas de [[Grazzt|Graz'zt]] — interrogatorio en incubador de agua dorada
-- Rol Mamba 1 (Museo de Arte Moderno BsAs) — reaparición
-- Taller de Rol — fuente narrativa primaria (líneas 316, 330-406, poema 372-406)
+- Mamba 1 (Museo de Arte Moderno, Buenos Aires) — reaparición
+- El archivo — fuente narrativa primaria (incluido el poema "Los Sinsabores de Samsara")

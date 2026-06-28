@@ -49,7 +49,7 @@ La tentación **casi entra**. El grupo aguanta. [[Arsvan|Ärsvan]] interviene y 
 - [[Catacumbas_de_Paris]] — escenario del eco del episodio de bombas
 - [[Templo_Lugar_de_los_Justos]] — la catedral asaltada arriba
 - [[Pyrexianos_culto|Pyrexianos]] — culto coordinador de las bombas (el plano-coven actúa en la misma operación)
-- [[Anti_Inferno|Campaña Inferno]] — su mesa de aparición
+- [[Anti_Inferno|Gesta Inferno]] — su mesa de aparición
 - **Plano de Brujas** — su dimensión de origen (subentidad de las brujas mismas)
 - **Shakespeare, *Macbeth*** — fuente literaria declarada
 
@@ -57,3 +57,8 @@ La tentación **casi entra**. El grupo aguanta. [[Arsvan|Ärsvan]] interviene y 
 
 - Inferno, primer nivel, episodio Catacumbas / [[Templo_Lugar_de_los_Justos|Templo de los Justos]] — tentación a Sven, cantito
 - Plano de Brujas — su dimensión propia, lugar donde el grupo bombero se pierde antes de entrar
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Las weird sisters de Shakespeare instaladas en un pliegue del Inferno: el plano-coven donde el grupo bombero se pierde antes de bajar bajo la catedral del [[Templo_Lugar_de_los_Justos|Templo de los Justos]], en el primer nivel del descenso. Su cantito a [[Sven]] —«no pierdas el tren, tren, tren»— casi vuela todo por los aires hasta que [[Arsvan|Ärsvan]] lo detiene. Son una estación del estrato: cada nivel del Inferno guarda su propia tentación, y este coven es la del primero.* — glosa del Decadiano.
+<!-- /CICLO -->

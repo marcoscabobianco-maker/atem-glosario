@@ -15,16 +15,6 @@ aliases:
 
 ## Presentación
 
-**Ref.:** el archivo (combate completo)
+Cuatro diablos del tercer círculo que pastorean almas escapadas tras la caída de [[Minos_Inferno|Minos]]. Vuelan, usan picos por arma y pueden hablar —"¡Eh, andulón! ¿Cómo lo has dejado ahí? Metela dentro de la jaula"—. Son el equivalente infernal de los pastores de ovejas, donde las "ovejas" son almas condenadas. Los compañeros los derrotan en combate aéreo-terrestre.
 
-**Nota:** Son consecuencia directa de la derrota de [[Minos_Inferno|Minos]] en el archivo — las almas liberadas por esa caida estan siendo re-pastoreadas por nuevos encargados.
-
-### el plano operativo
-
-Cuatro diablos del tercer circulo que pastorean almas escapadas tras la caida de [[Minos_Inferno|Minos]] (esta jornada y posteriores). Vuelan. Usan picos como arma. Pueden hablar: "¡Eh, andulon! ¿Como lo has dejado ahi? Metela dentro de la jaula". Son el equivalente infernal de pastores de ovejas, donde las "ovejas" son almas condenadas. Los compañeros los derrotan en combate aereo-terrestre.
-
-### Notas
-
-Son consecuencia directa de la derrota de [[Minos_Inferno|Minos]] en el archivo — las almas liberadas por esa caida estan siendo re-pastoreadas por nuevos encargados.
-
-**Ref.:** el archivo (combate completo)
+**Nota:** son consecuencia directa de la derrota de [[Minos_Inferno|Minos]]: las almas que esa caída liberó están siendo re-pastoreadas por nuevos encargados.

@@ -51,3 +51,8 @@ imagen: Imagenes_Tier1/Dungeon_de_la_Espina_entrada_nueva_MC.png
 
 - **Tránsitos continuos del cosmos compartido** — entrada accesible al insistente
 - **Variante moderna bajo la [[Catedral_implosionada_PU|Catedral implosionada]]** — registro reciente del archivero
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Un subterráneo que no cambia de forma pero sí de era: las versiones viejas lo sitúan bajo una rama del [[Valle_del_Barrado]], las nuevas bajo la [[Catedral_implosionada_PU|Catedral implosionada]], y el corredor estratifica esos tiempos en un mismo descenso hacia la figura del halo dorado que nunca se alcanza. La espina mide el desempeño de la baja anterior y decide si abre: cada estrato exige haber pasado el de arriba.* — glosa del archivero del Plata.
+<!-- /CICLO -->

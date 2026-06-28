@@ -49,7 +49,7 @@ imagen: Imagenes_Tier1/Federico_TG.png
 
 ## La voz del cronista en Torregrises
 
-**El archivero del Plata anota** —con cuidado— **que Federico funciona como alter ego narrativo del cronista de la obra dentro del setting**. *El nombre "Federico"* **resuena con Federico II Hohenstaufen** —**el Stupor Mundi**, *emperador del siglo XIII que reunía sabios de las tres religiones del [[Mediterraneo_Ucronico|Mediterráneo]] en su corte palermitana*—; **y también con Friedrich Nietzsche** —**Federico**—, *cuya figura de "filósofo poeta en lo alto" coincide con la postura del Rey de las Tormentas*.
+**El archivero del Plata anota** —con cuidado— **que Federico funciona como alter ego narrativo del cronista de la obra dentro del mundo**. *El nombre "Federico"* **resuena con Federico II Hohenstaufen** —**el Stupor Mundi**, *emperador del siglo XIII que reunía sabios de las tres religiones del [[Mediterraneo_Ucronico|Mediterráneo]] en su corte palermitana*—; **y también con Friedrich Nietzsche** —**Federico**—, *cuya figura de "filósofo poeta en lo alto" coincide con la postura del Rey de las Tormentas*.
 
 **La duplicidad onomástica no es accidente**: *Federico es figura del que escribe el cosmos sin terminar de inventarlo*; **el cronista detrás de Federico es figura del que escribe a Federico sin terminar de descenderlo del piso 25**.
 
@@ -76,7 +76,6 @@ imagen: Imagenes_Tier1/Federico_TG.png
 
 ## Apariciones
 
-- **Pablo y [[Miranda_TG|Miranda]] — Edición Final** — narrador principal de "Torregrises" y "Todos quieren entrar" (18 menciones)
-- **pymOK borrador** — versión previa (10 menciones)
+- **Pablo y [[Miranda_TG|Miranda]] — Edición Final** — narrador principal de "Torregrises" y "Todos quieren entrar"
 - **Piso 25 — sede ritual continua** — observación de cada tormenta sucesiva
 - **[[Tormenta_25_TG|Tormenta 25]] — el evento del cierre** — testimonio mayor de su oficio

@@ -101,3 +101,8 @@ imagen: Imagenes_Tier1/Draga_Machine.png
 - **Combate y muerte de Apis — episodio del Palacio Real** — reabsorción inminente
 - **Gate dimensional con Swan** — desaparición conjunta
 - **Cascada de consecuencias en Belgrado** — encarcelamiento del grupo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ⏳
+> *[[Inevitable]] construida por fuerzas prusianas para ejecutar al [[Apis|Coronel Apis]], Draga conoce en [[Biarritz]] al rey [[Aleksandar_I_rey_Serbia|Aleksandar]] y elige ser persona contra su programa. Pero al constructo no se lo mata: cumplida la misión, el [[Marshall_Inevitable]] abre un Gate para reabsorberla —se la guarda y se la vuelve a llamar—, y ni el conjuro de [[Swan]] logra arrancarla del torbellino.* — glosa del Decadiano.
+<!-- /CICLO -->

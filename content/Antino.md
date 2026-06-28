@@ -38,7 +38,7 @@ Su rango de magia y estrellas en el panteón inicial probablemente refleja **fun
 
 - [[Vala_Antigua]] — mundo de origen
 - [[Vala_del_Medioevo]] — secuela narrativa
-- [[Arden_Vul]] — fase posterior del setting Vala
+- [[Arden_Vul]] — fase posterior del mundo Vala
 - [[Tailoor]], [[Sheridron|Shadydron]], [[Jax]] — co-sobrevivientes de Vala Antigua
 - [[Garkhan]] — co-sobreviviente de Vala Antigua
 - [[Los_Supremos]] / Triunvirato — panteón del que es parte
@@ -49,4 +49,9 @@ Su rango de magia y estrellas en el panteón inicial probablemente refleja **fun
 
 - Vala Antigua (~2019) — origen como sobreviviente
 - Post-Triunvirato — adoración como deidad del panteón inicial
-- Microcampaña edad de bronce — patrono de magos y aventureros nocturnos
+- Microgesta edad de bronce — patrono de magos y aventureros nocturnos
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦
+> *Antes de ser dios de la magia y las estrellas fue héroe que sobrevivió a un mundo: emergió del colapso de [[Vala_Antigua]] junto a [[Tailoor]], [[Jax]] y [[Garkhan]] para nacer deidad en el panteón del Triunvirato. Su rango astral conserva el oficio que el personaje tuvo en la mesa anterior —astrólogo, hechicero—, porque los héroes de una gesta son los dioses de la siguiente.* — glosa de Akala.
+<!-- /CICLO -->

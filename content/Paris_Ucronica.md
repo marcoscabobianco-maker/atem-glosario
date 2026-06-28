@@ -44,15 +44,15 @@ Porque eso es lo que se vuelven: [[Time_Bandits]]. Bandidos del Tiempo. El nombr
 
 Entonces Claude vive setenta y cinco años como [[Cvjetko_Popovic|Cvjetko Popović]]. No es error de transcripción: el personaje viaja a [[Sarajevo_1914_Ucronica|Sarajevo]] en 1914, al asesinato de Francisco Fernando, y se queda ahí como si el tiempo fuera pegajoso y no lo dejara volver. Setenta y cinco años como otra persona en otra ciudad en otro siglo, y cuando vuelve a ser Claude, trae encima la memoria de una vida entera que no fue la suya pero que ahora lo es.
 
-El segundo arco los lleva más lejos. [[Constantinopla_Ucronica_1055_CE|Constantinopla]] bizantina, 1055 de la era común. Un naufragio temporal que los deja varados entre imperios. Viaje FTL a Alfa Centauri, porque en esta [[El_Juicio_Final_campana|campaña]] la escala no tiene techo: de la taberna de [[Cartouche]] a las estrellas, del [[Orient_Express]] a un sistema solar que no es el nuestro. Y en algún punto del viaje, Commune con [[Chronomon]] — el Dios del Tiempo, el mismo [[Cronomon]] que [[Arsvan|Ärsvan]] destruyó en [[Templarios]], pero aquí se sacrifica y asciende. El grupo asciende con él. [[Ascension_Mitica_Catasterismo|Ascensión Mítica]]: los Time Bandits dejan de ser bandidos y se convierten en algo para lo que no hay palabra en francés ni en ningún idioma de Antiterra.
+El segundo arco los lleva más lejos. [[Constantinopla_Ucronica_1055_CE|Constantinopla]] bizantina, 1055 de la era común. Un naufragio temporal que los deja varados entre imperios. Viaje FTL a Alfa Centauri, porque en esta [[El_Juicio_Final_campana|gesta]] la escala no tiene techo: de la taberna de [[Cartouche]] a las estrellas, del [[Orient_Express]] a un sistema solar que no es el nuestro. Y en algún punto del viaje, Commune con [[Chronomon]] — el Dios del Tiempo, el mismo [[Cronomon]] que [[Arsvan|Ärsvan]] destruyó en [[Templarios]], pero aquí se sacrifica y asciende. El grupo asciende con él. [[Ascension_Mitica_Catasterismo|Ascensión Mítica]]: los Time Bandits dejan de ser bandidos y se convierten en algo para lo que no hay palabra en francés ni en ningún idioma de Antiterra.
 
-[[Batalla_de_Kosovo_1389|Kosovo Polje]], 1389. La batalla donde los serbios perdieron su imperio y fundaron su mito nacional. Los Time Bandits pelean ahí. También pelean en el Faro de [[Alejandria|Alejandría]], porque Alejandría siempre aparece en esta Mega [[Lords_of_Creation|Campaña]] como si el [[Mediterraneo_Ucronico|Mediterráneo]] fuera el ombligo de todos los mundos. [[Abraxas]] se revela: gematría 365, el número de los días, la totalidad del año como entidad. [[Kumal_Armenia_Libre|Armenia Libre]] y Kumal, nombres que suenan a lugares que existen pero que en Antiterra significan otra cosa.
+[[Batalla_de_Kosovo_1389|Kosovo Polje]], 1389. La batalla donde los serbios perdieron su imperio y fundaron su mito nacional. Los Time Bandits pelean ahí. También pelean en el Faro de [[Alejandria|Alejandría]], porque Alejandría siempre aparece en esta Mega [[Lords_of_Creation|Gesta]] como si el [[Mediterraneo_Ucronico|Mediterráneo]] fuera el ombligo de todos los mundos. [[Abraxas]] se revela: gematría 365, el número de los días, la totalidad del año como entidad. [[Kumal_Armenia_Libre|Armenia Libre]] y Kumal, nombres que suenan a lugares que existen pero que en Antiterra significan otra cosa.
 
-Y entonces el [[Cronocidio]]. El Canal de la Mancha se evapora. Millones mueren. No es un villano que lo causa — es una función que se ejecuta. Los [[Jinetes_del_Apocalipsis]] no son seres: son una FUNCIÓN, y cuando la función se ejecuta, el agua desaparece y la gente muere y nadie puede decir que un villano lo hizo porque no hubo villano, hubo un sistema que operó como fue diseñado para operar. Es la línea más aterradora de toda la Mega Campaña y la que mejor explica por qué París Ucrónica es el Cuarto Pilar: porque aquí se revela que el apocalipsis no es dramático sino burocrático.
+Y entonces el [[Cronocidio]]. El Canal de la Mancha se evapora. Millones mueren. No es un villano que lo causa — es una función que se ejecuta. Los [[Jinetes_del_Apocalipsis]] no son seres: son una FUNCIÓN, y cuando la función se ejecuta, el agua desaparece y la gente muere y nadie puede decir que un villano lo hizo porque no hubo villano, hubo un sistema que operó como fue diseñado para operar. Es la línea más aterradora de todo el ciclo y la que mejor explica por qué París Ucrónica es el Cuarto Pilar: porque aquí se revela que el apocalipsis no es dramático sino burocrático.
 
 El ciclo cierra con [[La_Sumision_de_Indra|La Sumisión de Indra]], una ópera ritual que es también un acto político y también un acto cósmico, porque en este arco las tres cosas son la misma cosa. Los Time Bandits gobiernan Bizancio en 1055. Claude vuelve a [[Buenos_Aires_Ucronica|Buenos Aires]] en 1907 y encuentra a Rosa, y el reencuentro entre un revolucionario que vivió setenta y cinco años como otro hombre y una mujer que lo esperó sin saber exactamente qué esperaba es quizás la escena más silenciosamente devastadora del archivo entero.
 
-La campaña más documentada del ATEM, y la que mejor demuestra que el steampunk no es una estética sino una estructura: máquinas de tiempo como máquinas de vapor, conspiración como ingeniería, apocalipsis como relojería.
+La gesta más documentada del ATEM, y la que mejor demuestra que el steampunk no es una estética sino una estructura: máquinas de tiempo como máquinas de vapor, conspiración como ingeniería, apocalipsis como relojería.
 
 ## La cifra cosmológica
 
@@ -106,7 +106,7 @@ La campaña más documentada del ATEM, y la que mejor demuestra que el steampunk
 - [[Time_Bandits]] — grupo formado en esta ciudad
 - [[Lord_Gaul]] — virrey administrativo
 - [[Iglesia_Gnostica_de_Antiterra]] — la religión paralela
-- [[Cronoboys]] · [[Cronomancia]] — mecánica del tiempo
+- [[Cronoboys]] · [[Cronomancia]] — el mecanismo del tiempo
 - [[Akala]]
 
 ## Apariciones
@@ -116,3 +116,8 @@ La campaña más documentada del ATEM, y la que mejor demuestra que el steampunk
 - **Arco de los Time Bandits — formación y tránsito hasta Bizancio 1055** — el grupo cardinal
 - **Tránsito a la Comuna 1870** — desvío temporal posterior al arco principal
 - **Convergencia post-implosión en [[NEO-PARIS_Ciudad_de_los_Tiempos|NEO-PARÍS]]** — refundación de la ciudad sobre sí misma
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷ ⏳ ⌖
+> *Capital occidental de [[Antiterra_Demonia|Antiterra]], la cara que se nota frente a su Terra gemela; el tiempo se cobra acá en tres metales —[[Francos]], [[Luises]], cobre— y se baja por estratos de la taberna de [[Cartouche]] a [[Constantinopla_Ucronica_1055_CE|Bizancio 1055]]. La mano deja entrar la Historia tal cual: el magnicidio de [[Sarajevo_1914_Ucronica|Sarajevo]], la [[Batalla_de_Kosovo_1389|Kosovo]] de 1389, [[Draga_Machine|Draga Mašin]] de Serbia. Lo que el archivo del Plata aisló como el pareo Terra/Antiterra (AA-C.1) y como la cronomancia-mercancía (AA-T.1) es, en C, una sola costura.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -121,3 +121,8 @@ imagen: null
 - **Encuentro con Vitalis en el Valle de la Tempestad** — reconocimiento madre-hijo
 - **Operación como Swedenborg en el Anti-Inferno** — guía conductora de [[Lost_Ones]], portadora de la Lámpara de la Esperanza
 - **1824 AE — ciclo presente** — operativa en sus dos modos (Thalia + Swedenborg); pendiente de reaparición visible en [[Caldero]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⛓
+> *Un solo cuerpo en dos polos: paladina cristalina de la [[Casa_Azul_de_Vala]] en el plano luminoso y, a la vez, [[Swedenborg]] —la mujer de armadura cerrada con la [[Lampara_de_la_Esperanza|Lámpara de la Esperanza]]— guiando [[Lost_Ones]] en el [[Anti_Inferno]]. La revelación Thalia = Swedenborg es el contagio entre hemisferios hecho persona. Rescatada del umbral por [[The_Word_Breakers]] en [[Vala_Antigua]], desposa a [[Tailoor]] y pare a [[Vitalis]], que carga las dos sangres.* — glosa de Arkos el archivero del Plata.
+<!-- /CICLO -->

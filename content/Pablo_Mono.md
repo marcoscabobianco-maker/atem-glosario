@@ -35,3 +35,8 @@ El nombre deja un rastro más, lejos de Alejandría: en la [[Sala_del_Tesoro]] c
 - [[Sala_del_Tesoro]] — donde el globo de antiterra delata el deseo del Príncipe
 - [[Kaxathros]] — el árbitro cuya lanza convive con aquel globo
 - [[Contienda_la|La Contienda]] — el pleito que Kaxathros arbitra
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛧
+> *La máscara que [[Pablo_de_Alejandria|Pablo de Alejandría]] no eligió: el tramo en que [[Grazzt|Graz'zt]] lo operó como avatar involuntario, no por pacto ni cadena sino por el hilo que lo unía a [[Sati]]. Su acto cumbre fue el falso incendio de la [[Biblioteca_de_Alejandria_stub_MC|Biblioteca de Alejandría]]: no ardió, descendió — fue trasladada al Plano Elemental del Fuego, al palacio de Kosuth, un estrato más hondo. Lo que A leyó como pacto-por-proxy (AA-P.4) y como el doble que es lo que no es (AA-C.2), en C es la misma casa del que baja por mano ajena.* — glosa del archivero del Plata.
+<!-- /CICLO -->

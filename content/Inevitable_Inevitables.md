@@ -5,7 +5,6 @@ tags:
  - "paris-ucronica"
  - "cosmologia"
  - "ley-planar"
- - "mecanica"
  - "no-vivos"
 aliases:
  - "Inevitable / Inevitables"
@@ -37,13 +36,14 @@ Entidades constructoras/reguladoras de leyes cósmicas en [[Antiterra_Demonia|An
 
 ## Apariciones notables
 
-[[Paris_Ucronica|París Ucrónica]] jornada posterior: contrato en tren a [[Belgrado_Ucronica|Belgrado]], confesión de [[Draga_Machine|Draga]] en corte, aparición de Marshall durante muerte de [[Apis]], desaparición de [[Swan]]. el archivo: referencia a "Fuente Inevitable," ausencia de [[Swan]].
+[[Paris_Ucronica|París Ucrónica]], jornada posterior: contrato en tren a [[Belgrado_Ucronica|Belgrado]], confesión de [[Draga_Machine|Draga]] en corte, aparición de Marshall durante la muerte de [[Apis]], desaparición de [[Swan]]. El archivo conserva la referencia a la "Fuente Inevitable" y la ausencia de [[Swan]].
 
 ## Notas
 
-Los Inevitables parecen ser antagonistas cosmológicos de la campaña: no villanos morales, sino mecanismo universal que puede entrar en conflicto con libre albedrío y amor humano. Su presencia sugiere que [[Antiterra_Demonia|Antiterra]] está sujeta a leyes superiores además de magia estándar. Ver **[[Draga_Machine|Draga Machine]]**, **[[Apis]]**, **[[Swan]]**, **[[Belgrado_Ucronica|Belgrado (Ucrónica)]]**.
+Los Inevitables parecen ser antagonistas cosmológicos de la gesta: no villanos morales, sino mecanismo universal que puede entrar en conflicto con libre albedrío y amor humano. Su presencia sugiere que [[Antiterra_Demonia|Antiterra]] está sujeta a leyes superiores además de magia estándar. Ver **[[Draga_Machine|Draga Machine]]**, **[[Apis]]**, **[[Swan]]**, **[[Belgrado_Ucronica|Belgrado (Ucrónica)]]**.
 
 ## Ver también
 
-- En el archivo
-- [[Cosmologia_conexa|Cosmología conexa]]
+- [[Draga_Machine|Draga Machine]]
+- [[Marshall_Inevitable|Marshall Inevitable]]
+- [[Swan]]

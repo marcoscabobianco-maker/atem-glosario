@@ -28,7 +28,6 @@ Ver también **[[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]
 
 ## Ver también
 
-- [[Relacion_con_Valle_de_la_Muerte|Relación con Valle de la Muerte]]
 
 ## Links externos
 

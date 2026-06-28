@@ -28,7 +28,7 @@ aliases:
 
 ## El maestro de la geóloga
 
-Antes de que la isla se abriera, hubo un profesor. Harrington es el geólogo que postuló el **nesocratón del Deseado**, esa pieza antigua y dura del basamento austral —el cuaderno donde quedó primero anotado lo registra con grafía vacilante, a veces *nesocratón*, a veces *mesocratón*, siempre la misma masa de roca esperando bajo la Patagonia. La crónica conserva además dos formas de su nombre: el cuaderno lo asienta como **José E. Harrington**, mientras que en la mesa responde sencillamente a **Harrington** o **Dr. Harrington**; las dos grafías nombran al mismo hombre de ciencia.
+Antes de que la isla se abriera, hubo un profesor. Harrington es el geólogo que postuló el **nesocratón del Deseado**, esa pieza antigua y dura del basamento austral —el cuaderno donde quedó primero anotado lo registra con grafía vacilante, a veces *nesocratón*, a veces *mesocratón*, siempre la misma masa de roca esperando bajo la Patagonia. La crónica conserva además dos formas de su nombre: lo asienta como **José E. Harrington**, aunque las más de las veces aparece sencillamente como **Harrington** o **Dr. Harrington**; las dos grafías nombran al mismo hombre de ciencia.
 
 Fue **maestro de Irene**, la geóloga polaca del grupo —la misma que en [[Buenos_Aires_Ucronica|Buenos Aires]] defiende la postura de estudiar la piedra azul antes que entregarla. Por esa línea, Harrington encarna lo que esta gesta sostiene sin decirlo del todo: que la ciencia de los años sesenta es el verdadero linaje del saber peligroso. No la hechicería ni el grimorio, sino el geólogo con su martillo y su catálogo, son los que primero rozan lo que duerme. El que mide la roca termina, sin proponérselo, por despertarla.
 

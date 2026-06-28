@@ -22,4 +22,4 @@ Variante o rol específico del [[Portero_Capturador|Portero / Capturador]] en el
 - [[Templarios_del_Tiempo|Templarios del Tiempo]] — facción templaria paladina a la que pertenece o a cuyo santuario sirve
 - [[Temple_complejo_TE|Temple (complejo TE)]] — sede del santuario; escenario de la operación de captura
 - Captura de Portero para Interrogatorio — evento: decisión táctica del grupo de capturar vivo al Portero
-- [[Campana_Templarios_TE|Campaña Templarios (TE)]] — sub-campaña en la que se enmarca la figura del Portero Capturador
+- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta en la que se enmarca la figura del Portero Capturador

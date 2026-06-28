@@ -30,7 +30,7 @@ La **Franja de la Disolución** es **la línea divisoria que separa las dos mita
 
 ### La colisión y el arca-rubí
 
-La franja **motivó la creación del mundo-gema [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]] como arca de salvación**. Cuando se hizo evidente que **Terra y [[Antiterra_Demonia|Antiterra]] iban a colisionar** —que la franja se cerraba sobre ellas y no había manera de detener el acercamiento—, **[[Cosmarca]]** y los suyos usaron **magia dual** para refugiar a **aproximadamente 1.200.000 almas dentro de un rubí**. La gema fue tallada como mundo entero: capa protectora externa, geografía interior, cielo cerrado, tiempo propio. El mundo de la campaña [[La_Jabalina|Caldero / La Jabalina]] es el interior de esa gema. Quien vive en [[Caldero]] vive dentro del rubí; quien mira el rubí desde afuera no ve almas, ve piedra preciosa.
+La franja **motivó la creación del mundo-gema [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]] como arca de salvación**. Cuando se hizo evidente que **Terra y [[Antiterra_Demonia|Antiterra]] iban a colisionar** —que la franja se cerraba sobre ellas y no había manera de detener el acercamiento—, **[[Cosmarca]]** y los suyos usaron **magia dual** para refugiar a **aproximadamente 1.200.000 almas dentro de un rubí**. La gema fue tallada como mundo entero: capa protectora externa, geografía interior, cielo cerrado, tiempo propio. El mundo de la gesta [[La_Jabalina|Caldero / La Jabalina]] es el interior de esa gema. Quien vive en [[Caldero]] vive dentro del rubí; quien mira el rubí desde afuera no ve almas, ve piedra preciosa.
 
 La capa que protege la gema —la **[[Vala_Cristalis|Vala Cristalis]]**— es de la misma sustancia que las defensas de [[Lucifer]] en su palacio de Buckingham: cristal-velo que repele lo que no debería entrar. La elección no fue casual.
 
@@ -58,4 +58,9 @@ En el eje **[[Anno_Domini_Antiterra_ADA|A.D.A.]]** —[[Anno_Domini_Antiterra_AD
 - Cosmogonía Gris — descripción primera de la franja en la Primera Plataforma
 - *[[Sucesos_de_Antiterra]]* — el horizonte de cierre del ciclo final
 - 1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]] — el ciclo final ocurre con la franja descendiendo
-- [[Caldero]] / [[La_Jabalina]] el archivo postrecap — confirmación de sobre Vala como arca
+- [[Caldero]] / [[La_Jabalina]] — confirmación de Vala como arca
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *La costura del cosmos gemelo: la línea sin grosor que parte cada plataforma del [[Universo_Dual_TG|Universo Dual]] en sus dos mitades —fuego de [[Arcacto_TG|Arcacto]] contra hielo de la [[Reina_de_las_Nieves_TG|Reina de las Nieves]]— y, a otra escala, separa [[Torregrises]] de [[Torreluces]] como los [[Cimientos_los_TG|Cimientos]]. Cuando Terra y [[Antiterra_Demonia|Antiterra]] iban a colisionar sobre ella, [[Cosmarca]] talló [[Vala_Cristalis]] como arca-rubí para 1.200.000 almas; en 1901 la franja desciende mientras los [[Los_Reguladores|Reguladores]] cierran su era y [[Barbatos]] cae «en el umbral mismo».* — glosa del Decadiano.
+<!-- /CICLO -->

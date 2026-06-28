@@ -50,50 +50,29 @@ tags:
  - "arborea"
  - "plano-exterior"
  - "tymora"
- - "forgotten-realms"
  - "lugar-de-nacimiento"
 ---
 
-> Reino de Tymora en el plano de Arborea (Reinos Olvidados). Lugar de nacimiento de [[Clarisa]] en 1354 DR. Plano de fortuna y aventura, recontextualizado en el cosmos compartido.
+> Reino de la fortuna en el plano de Arborea. Cuna de [[Clarisa]]. Tierra de aventura y de suerte, integrada al cosmos compartido.
 
-## Origen en D&D / Reinos Olvidados
+## El reino de la fortuna
 
-**Brightwater** es el dominio canónico de la diosa **Tymora** (Suerte/Fortuna) en el plano de **Arborea** (Faerûnian Outer Planes). Lugar de "aguas brillantes" (literal de su nombre), reino de fortuna positiva, hogar de aventureros bendecidos por Tymora.
+**Brightwater** —"aguas brillantes"— es el dominio de **Tymora**, la señora de la Suerte, en el plano de **[[Arborea_Eden_CDI|Arborea]]**: tierra de fortuna favorable, hogar de los aventureros que la diosa bendice.
 
-> Fuente externa: *Faiths & Avatars* (TSR, 1996), *Planes of Chaos* (TSR, 1994).
+## En el cosmos compartido
 
-## Acepción en el cosmos compartido
+Brightwater es **la cuna de [[Clarisa]]**: allí nace, hija del Maestro Bibliotecario del concilio de [[Myth_Drannor]] —[[Arcoms_Cosmar|Arcoms]]— y de [[Nasim]]. Su nacimiento en el plano de la fortuna la distingue de las otras dos que llevan su nombre —la conocida de [[Coyote]], y la madre de [[Elisteo]] con Minaya—; ver [[Clarisa]] para la homonimia.
 
-En el cosmos compartido, Brightwater es **el lugar de nacimiento de [[Clarisa]]** según MC Línea Temporal:
+Que la cuna de una bibliotecaria-cronista —la que escribe el [[Calendario]] y queda atrapada en los hechos cósmicos— sea el plano de la fortuna, es una tensión buscada: la suerte como origen de la tragedia.
 
-> *"**1354 DR:** Nace en Brightwater, [[Arborea_Eden_CDI|Arborea]]. Hija de [[Arcoms_Cosmar|Arcoms]] y [[Nasim]]."* (MC_LINEA_TEMPORAL, sección [[Clarisa]])
+## Apariciones
 
-El uso de Brightwater como cuna de [[Clarisa]] **establece linaje cosmológico**: Clarisa nace en plano exterior de fortuna, hija del Maestro Bibliotecario del concilio de [[Myth_Drannor]] ([[Arcoms_Cosmar|Arcoms]]) y de Nasim. Esto la diferencia de "Clarisa (I)" (conocida de [[Coyote]], 1348 DR) y "Clarisa (II)" (madre de [[Elisteo]] con Minaya, 1349 DR) — ver [[Clarisa]] para detalle de la homonimia.
-
-## Recontextualización MC (Constitución §3 — palimpsesto)
-
-Brightwater entra al canon ATEM **directamente desde D&D oficial** sin reinterpretación profunda. Es un caso donde la regla de oro se cumple porque:
-- El uso fue **producido en situación lúdica** ( asignó Brightwater como cuna de Clarisa en su construcción de la cosmología).
-- La ficcionalización es **mínima** pero efectiva: el plano de fortuna como cuna de una bibliotecaria-cronista resuena con el destino narrativo de Clarisa (escribe el [[Calendario]], queda atrapada en eventos cósmicos).
-
-Posibles desarrollos pendientes (palimpsesto a confirmar con ):
-- ¿Brightwater de Arborea es el mismo lugar que [[Arborea_Eden_CDI|Arborea/Eden]] en el Descenso? La etiqueta `categoria: lugar / campania: cdi` de la ficha hermana sugiere parentesco.
-- ¿Tymora tiene presencia explícita en el cosmos compartido?
-- ¿Otros compañeros nacen o transitan Brightwater?
-
-## Apariciones notables
-
-- **MC_LINEA_TEMPORAL**: nacimiento de [[Clarisa]] (1354 DR).
-- **[[Clarisa]].md**: presentación, ascendencia, cronología.
-
-## Nota lateral
-
-> Brightwater es **importación canónica de Reinos Olvidados** seleccionada por como lugar de nacimiento de Clarisa, compañero. La elección no es trivial: el plano de fortuna como cuna de una cronista que luego pierde su corazón artificial es una tensión cosmológica intencional.
+- Nacimiento de [[Clarisa]] en Brightwater.
+- [[Clarisa]] — presentación, ascendencia, cronología.
 
 ## Ver también
 
-- [[Clarisa]] (nacida en Brightwater 1354 DR)
+- [[Clarisa]] (nacida en Brightwater)
 - [[Arborea_Eden_CDI|Arborea / Eden]] (plano contenedor — confirmar relación)
 - [[Arcoms_Cosmar|Arcoms Cosmar]] (padre de Clarisa)
 - [[Nasim]] (madre de Clarisa)
-- MC Línea Temporal

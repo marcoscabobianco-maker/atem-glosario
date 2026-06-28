@@ -26,7 +26,7 @@ imagen: null
 
 > *"El tegnu no se sienta en trono labrado; se sienta sobre los escudos de los enemigos que el Mantra de Profundidad le entregó. Quien quiera entender el orgullo varumani, mire los escudos."* — Cántico ritual varumani, fragmento traducido al lenguaje imperial por copista anónimo de [[Narsileon]] (~2810 AEP).
 
-La lámina —*si los [[Varumani]] hubieran encargado retrato del tegnu*— **no entró al archivo decadiano**. ha respondido que los [[Varumani]] **no practican retrato individual**: *honran al tegnu en la memoria oral del pueblo*, no en imagen. **El cronista decadiano respeta la práctica varumani**, *aunque privadamente lamenta la pérdida iconográfica*.
+La lámina —*si los [[Varumani]] hubieran encargado retrato del tegnu*— **no entró al archivo decadiano**: los [[Varumani]] **no practican retrato individual**: *honran al tegnu en la memoria oral del pueblo*, no en imagen. **El cronista decadiano respeta la práctica varumani**, *aunque privadamente lamenta la pérdida iconográfica*.
 
 ---
 
@@ -83,7 +83,7 @@ La memoria de Girbala **operó en el aparato archonteo durante generaciones**:
 - **La Cueva de Sangre** quedó como **lugar tabú**, *ruta evitada* en las raras patrullas que el Imperio mantuvo en el dungeon durante los siglos siguientes.
 - **El nombre de [[Lady_Deino]]** se volvió **rumor de pesadilla** en los pliegos rurales: *bruja transformadora*, *figura cuya invocación ritual algunos cleros decadianos prohibieron explícitamente*.
 - **Los hombres-bestia** —*supervivientes mutados de la 3.ª Cohorte*— **se volvieron pesadilla operativa**: *los [[Buscadores_de_Ardis_Vala|Buscadores]] del ciclo presente todavía encuentran algunos en los niveles intermedios*, *dispersos, sin coordinación, peligrosos individualmente pero no como cuerpo*.
-- **El Imperio renunció a la conquista de Ardisvala por la fuerza** durante generaciones; *la frontera oriental quedó congelada*; *los aventureros la operaron en contrato individual desde [[Ritornello]], no en campaña imperial*.
+- **El Imperio renunció a la conquista de Ardisvala por la fuerza** durante generaciones; *la frontera oriental quedó congelada*; *los aventureros la operaron en contrato individual desde [[Ritornello]], no en gesta imperial*.
 
 [*Girbala enseñó al Imperio una lección que [[Phocion_IV]] no había anticipado: el dungeon no es ruina imperial recuperable, es territorio operado por un pueblo distinto que defiende su soberanía sobre piedra mejor que el Imperio podía atacarla. La lección se aprendió en sangre. —Glosa de [[Arkos]].*]
 

@@ -38,7 +38,7 @@ En el episodio del **[[Forum_de_Set|Foro de Set]]**, el primer reporte menciona 
 
 ## Vínculos
 
-- [[Arden_Vul]] — campaña
+- [[Arden_Vul]] — gesta
 - [[Bayrum_Cristalia]], [[Alumine_Manwe_Finwe|Alúmine]], [[Caladan]], [[Valerius_Utrecht]], [[Sixto_Guido|Sixto]], [[Melvino_Calvino]] — compañeros
 - **[[Stephania_Set|Sanzorotita Suma Estefanía]]** — pendiente confirmar si fue el druida del grupo quien la atrapó en el [[Forum_de_Set|Foro de Set]]
 - **Magia de piedra** — su especialidad

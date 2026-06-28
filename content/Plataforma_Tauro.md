@@ -54,3 +54,8 @@ imagen: Imagenes_Tier1/Plataforma_Tauro.png
 - **Cosmología continua** — segunda casa, columna de fuerza estática
 - **Abril de 1888 A.D.A.** — [[Los_Reguladores]] la enfrentan; Jack Bull la recibe en Fort Clark
 - **Sucesión de Erzebeth** — guardianía futura asumida tras retirarse del juego activo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ☯
+> *Segunda casa del zodiaco, la fuerza que se planta: [[Los_Reguladores]] la enfrentaron en abril de 1888 y Jack Bull la recibió en Fort Clark, porque la ley de la [[Corrupcion_Dual|Corrupción Dual]] manda que quien mata al guardián se vuelve guardián o es destruido —y [[Erzebeth]] se retira del juego activo para asumir el cargo, en la cadena [[Erzebeth]]→[[Maleika_Maleyka]]. Plataforma del zodíaco que se cartografía en [[Antiterra]], la vertiente gemela. Lo que A leyó como el oficio que rota (AA-R.1) y B la rueda de guardianes (AKB-I.1), aquí es la misma casa.* — glosa del Decadiano.
+<!-- /CICLO -->

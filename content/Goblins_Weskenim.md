@@ -68,7 +68,7 @@ Los Goblins son **la facción más demográficamente expansiva** del dungeon —
 - **Killik** — sub-jefe wet caves Puertas de Obsidiana
 - [[Kerbog_Khan]] — aliado principal
 - [[Halflings_Plumthorn|Halflings de Plumthorn]] — enemigo principal
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

@@ -21,7 +21,7 @@ tags:
 
 ## Presentación
 
-**Numa Pompidio** fue **el primer druida del grupo [[Buscadores_de_Ardis_Vala|Buscadores]]** en la campaña [[Ardis_Vala_campaña|Ardis Vala]], Alto, delgado, olor a tierra, magia de piedra (*"¡piedra en piedra!"*), bastón de madera, entrenamiento animal.
+**Numa Pompidio** fue **el primer druida del grupo [[Buscadores_de_Ardis_Vala|Buscadores]]** en la gesta [[Ardis_Vala_campaña|Ardis Vala]], Alto, delgado, olor a tierra, magia de piedra (*"¡piedra en piedra!"*), bastón de madera, entrenamiento animal.
 
 ### Arco trágico
 

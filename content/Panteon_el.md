@@ -71,3 +71,8 @@ Los miembros listados son los confirmados en las fuentes procesadas hasta ahora.
 - [[Lubina|Lubina]]
 - [[Verdulero|Verdulero]]
 - [[Sabas|Sabas]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦ △
+> *El grupo de héroes que se vuelve fuerza cósmica: [[Arian]] asciende a divinidad, [[Maristo]] paladín de Helm, [[Tii_TiiMhut|Tii]] avatar de la [[Reina_Oscura]] —protagonistas que la [[Contienda]] convierte en dioses del ciclo siguiente. Y son buscadores de la [[Vara_del_Infinito]], el artefacto triádico Gema-Cetro-Piedra cuya llave dispersa los enfrenta a [[Grazzt|Graz'zt]] y arrastra la gesta hasta el tribunal por fuera del universo.* — glosa de Arkos.
+<!-- /CICLO -->

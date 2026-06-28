@@ -26,7 +26,7 @@ Cuando Marshall aparece para reabsorber a [[Draga_Machine|Draga]], [[Swan]] lanz
 
 ## Notas
 
-El Marshall representa la inevitable inevitabilidad (word-play): no hay escape de ley cósmica, ni redención, ni salvación convencional. Su presencia marca el punto donde campaña transiciona de conspiración política (Círculo de Serbia, vampiros) a cosmología absoluta ([[Inevitable|Inevitables]], planos legales). Ver **[[Draga_Machine|Draga Machine]]**, **[[Inevitable]]**, **[[Swan]]**.
+El Marshall representa la inevitable inevitabilidad (word-play): no hay escape de ley cósmica, ni redención, ni salvación convencional. Su presencia marca el punto donde gesta transiciona de conspiración política (Círculo de Serbia, vampiros) a cosmología absoluta ([[Inevitable|Inevitables]], planos legales). Ver **[[Draga_Machine|Draga Machine]]**, **[[Inevitable]]**, **[[Swan]]**.
 
 ## Ver también
 

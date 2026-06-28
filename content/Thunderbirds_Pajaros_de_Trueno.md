@@ -22,4 +22,4 @@ Seres míticos mencionados en los guantes de [[Sequoia]], referenciados como ali
 
 ## Notas
 
-No llegan a aparecer en escena — posiblemente contactados fuera del relato registrado o en el cierre narrativo de la campaña. ¿Entidades conocidas en el cosmos compartido?
+No llegan a aparecer en escena — posiblemente contactados fuera del relato registrado o en el cierre narrativo de la gesta. ¿Entidades conocidas en el cosmos compartido?

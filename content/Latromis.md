@@ -32,3 +32,8 @@ Después de eso, Latromis pasa a las márgenes del archivo. Las menciones lo ubi
 - [[Arcoms_Cosmar|Arcoms Cosmar]] — coincidencia en [[Islaire]]
 - [[Piedra_del_Apocalipsis]] — recibe el artefacto como custodio
 - [[Islaire]] — escenario tardío
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *Latromis es el hombre que toca dos de las tres piezas que deciden el cosmos: empuñó la [[Vara_del_Infinito|Vara del Mago]] y descargó con ella un Golpe Retributivo que arrasó a su propio círculo —la Vara no perdona dos veces—, y más tarde recibe en custodia la [[Piedra_del_Apocalipsis]] para que no caiga en manos demoníacas. Quien manipula el objeto triádico queda marcado por él: por eso las apariciones tardías de Latromis, junto a [[Arcoms_Cosmar]] en [[Islaire]], son breves y oblicuas, como las de quien se acercó demasiado a la llave del mundo.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -90,3 +90,8 @@ imagen: null
 - **[[Senda_de_Drakthar]]** — descenso de La Jabalina, combate con oscuros, pérdida del brazo de Teo, decisión de Sila, derrota de Drakthar
 - **Cierre simbólico de la misión** — jabalina hundida en sucio ataúd en nodo profundo
 - **1824 AE — ciclo presente** — sub-estructura abierta, membrana porosa con el Shadowfell continuada, silencio institucional sostenido
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☷
+> *Bajo [[Caldero]] no se baja: se desciende a una red ritual de galerías donde el [[Shadowfell]] cruza con el plano material, base del operador [[Drakthar]]. La [[Senda_de_Drakthar]] fue la prueba que cerró a la banda: [[Teo_Paladin_Sin_Brazo|Teo]] perdió el brazo cubriendo a un compañero, [[Scylla|Sila]] escogió al grupo sobre su polo de origen, y la jabalina se hundió en un ataúd profundo como marca colectiva. El descenso por el estrato oscuro es el rito donde un puñado de aliados se vuelve [[La_Jabalina]].* — glosa del cronista del Caldero.
+<!-- /CICLO -->

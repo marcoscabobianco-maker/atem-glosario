@@ -17,12 +17,12 @@ wikipedia: https://es.wikipedia.org/wiki/Coyote_(mitolog%C3%ADa)
 
 **Ref.:** jornada registrada.
 **Nota (confirmado por el archivo):** Eco DELIBERADO del [[Coyote]] jinete de wyvern (MC troncal, cadena de reencarnación). [[Coyote]] adopta múltiples formas a lo largo del cosmos compartido. Se perdió como compañero activo pero reaparece mucho más adelante como **[[Hundun]]**. La cadena completa actualizada de es: Natalio → El Indio → Coyote/Coyote → [[Arian]] → El [[Elisteo]] → [sucesivos] → [[Hundun]] (reaparición de Coyote). El eco en [[Antiterra_Demonia|Antiterra]] como Texas Ranger es una resonancia del arquetipo dentro del mismo mundo compartido.
-*Conexiones:* **Cadena de Reencarnación trans-campaña**, **Hundun** (forma futura).
+*Conexiones:* **Cadena de Reencarnación trans-gesta**, **Hundun** (forma futura).
 
 ## Ver también
 
 - [[Hundun|Hundun]]
-- Cadena de Reencarnación trans-campaña
+- Cadena de Reencarnación trans-gesta
 
 ## Links externos
 

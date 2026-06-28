@@ -88,3 +88,8 @@ Quien lee el mito del pacto en su versión decadiana ortodoxa **se equivoca de p
 - **Siglos posteriores** — operación ritual continuada, cesión menor en práctica arcana
 - **Edición decadiana del culto** — reconocimiento eclesial discreto, sin operación pública
 - **1824 AE — ciclo presente** — Capilla activa, espejo pulido en luna nueva, ofrendas continuadas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *No se sostiene sola: la Redención y la [[Capilla_Oscura]] son dos polos en simetría inversa —la [[Reina_Oscura|Oscura]] selló contra los diablos, la Redención selló con [[Serpiente_Luna_Auna|la Serpiente-Luna]]—, y [[Caldero]] camina entre los dos sellados sin saberlo. Aquí [[Mito_de_los_Amantes_y_la_Serpiente_Lunar|Ishen y Nalía]] consumaron la unión que dio orden al mundo-gema [[Vala_Cristalis]]; quitá un polo y el otro cobra peor. El equilibrio del cosmos pende de ese par que se contagia por arriba y por abajo.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

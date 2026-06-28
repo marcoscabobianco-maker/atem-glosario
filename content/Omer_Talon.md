@@ -14,5 +14,5 @@ Talon no es un agitador ni un demagogo: es el hombre que pone en latín jurídic
 ## Vínculos
 - [[Cardenal_Mazarino]] — poder contra el que el Parlamento esgrime sus fueros; eje de la tensión que Talon articula en palabras
 - [[Paris]] — sede del Parlamento de París, locus de toda la carrera de Talon
-- [[Quartier_de_Saint_Germain_de_Pres]] — barrio donde convergen las figuras de la Fronda y los personajes de la campaña
+- [[Quartier_de_Saint_Germain_de_Pres]] — barrio donde convergen las figuras de la Fronda y los personajes de la gesta
 - [[Sebastian_Jacques_De_La_Tour]] — figura del mismo entorno parlamentario y temporal

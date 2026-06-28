@@ -46,9 +46,13 @@ El Valle funciona como dungeon abierto: zona de exploración con múltiples peli
 ## Ver también
 
 - Estructura física
-- [[Fenomenos_observados|Fenómenos observados]]
 - Ocupación hostil
 
 ## Links externos
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Constantinopla)
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Un dungeon abierto que se baja por capas: el cementerio de dragones en la superficie, la planicie de observación, el cráter con piletas de líquido marmóreo que petrifica, y debajo la pirámide con su laberinto subterráneo —la "ciudad que se despierta"—. Cada estrato un peligro distinto, desde la [[Serpiente_Voladora_del_Valle|serpiente voladora]] hasta el [[Osfiotauro|osfiotauro]], y al fondo el reino que se accede por el río seco.* — glosa del Decadiano.
+<!-- /CICLO -->

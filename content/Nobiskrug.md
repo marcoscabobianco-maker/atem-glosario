@@ -39,3 +39,8 @@ Tomarla, cruzarla, entenderla: ése fue uno de los trabajos de la gesta antes de
 - Tierra Santa, junto al Gólgota — la aduana infernal del umbral
 - La lista de las diecisiete Nobiskruge — posadas legendarias del mundo y los planos
 - Virgilio, huésped que se queda cuando termina su camino de guía
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ※
+> *La posada-aduana del umbral, junto al Gólgota: última estación de los vivos y primera del otro lado, donde los [[Florentinos_Heroes_Invisibles|Florentinos]] cruzan antes de la puerta del [[Infierno]] —el punto donde el viaje deja de ser geografía y empieza a ser descenso—. No es única: pertenece a una estirpe de diecisiete posadas legendarias repartidas por los pliegues de los planos, todas la misma casa bajo nombres distintos —el World Serpent Inn hermano de [[Sigil]], el Fiordo del Sol Rojo, la propia Gólgota—. Que se repita por diecisiete umbrales y siga siendo "la casa de los que niegan" es la coincidencia que revela una sola entidad. Virgilio se queda aquí cuando termina su guía.* — glosa de Amitlai.
+<!-- /CICLO -->

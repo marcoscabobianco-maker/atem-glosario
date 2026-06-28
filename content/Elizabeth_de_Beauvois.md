@@ -22,7 +22,7 @@ aliases:
 - Lidera investigación de reliquias ("qué implicaría a nivel protecciones mágicas")
 - Aparece cercana a [[Hugo_de_Payns|Hugo de Payns]] pero con poder independiente
 
-**[[Posibles_alineaciones]]:**
+**Posibles alineaciones:**
 - Rival interna de [[Hugo_de_Payns|Hugo de Payns]] (¿lucha de poder institucional?)
 - Aliada de [[Marques_de_Sade_Hugo|Hugo]] (¿complemento de autoridad?)
 - Tercera facción desconocida (¿conectada con demonios? Improbable pero desconocido)
@@ -33,6 +33,4 @@ aliases:
 
 ## Ver también
 
-- [[Caracterizacion_narrativa|Caracterización narrativa]]
-- [[Posibles_alineaciones|Posibles alineaciones]]
 - [[Conexion_TE_REFERENCE|Conexión TE REFERENCE]]

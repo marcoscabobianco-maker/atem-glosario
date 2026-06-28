@@ -9,7 +9,6 @@ aliases:
  - Anillos de la Cicatriz del Sol
 tags:
  - artefacto
- - magic-item
  - anillo
  - solar
  - ardis-vala
@@ -26,16 +25,16 @@ tags:
 
 ## Presentación
 
-Los **Anillos Solares** —*Solar Rings*— son la **insignia mágica de los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** en la campaña [[Arden_Vul|Ardis Vala]]. **Cobre con plata escarlata** (barras incrustadas). Fabricados originalmente por **[[Master_Malakita|Master Malakita / Melok-Ri]]** —vampiro rudishva, fundador de la Orden en 1123 AEP—.
+Los **Anillos Solares** —*Solar Rings*— son la **insignia mágica de los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** en la gesta [[Arden_Vul|Ardis Vala]]. **Cobre con plata escarlata** (barras incrustadas). Fabricados originalmente por **[[Master_Malakita|Master Malakita / Melok-Ri]]** —vampiro rudishva, fundador de la Orden en 1123 AEP—.
 
-### Funciones canónicas
+### Funciones
 
-| Función | Mecánica |
+| Función | Efecto |
 |---|---|
-| **Invocar luz solar** | *Continual light* + simulación solar. **Daña a no-muertos como luz solar real** mecánicamente, aunque no es solar verdadera |
-| **Caída de pluma** | *Feather fall* a voluntad |
-| **Salto** | *Jump* a voluntad |
-| **Respiración acuática** | *Water breathing* mientras se usa |
+| **Invocar luz solar** | Luz perpetua que simula el sol. **Daña a los no-muertos como la luz solar verdadera**, aunque no lo sea |
+| **Caída de pluma** | Desciende suave a voluntad |
+| **Salto** | Salto prodigioso a voluntad |
+| **Respiración acuática** | Respira bajo el agua mientras se porta |
 
 ### Material
 
@@ -71,9 +70,9 @@ Con la **transformación de [[Papa_Alejandro_Sixto|Sir Sixto]] en [[Papa_Alejand
 
 ### Anillos relacionados
 
-Mencionados en el módulo:
+Del mismo archivo del valle:
 
-- **Rings of higher purpose** (new magic items) — permiten lanzar hechizos dentro de la anti-magic shell de la [[Troll_Lifts_Arena|Inn of the Lost]]. Posiblemente **misma línea** de artefactos solares de la Orden, o **competencia**.
+- **Anillos de propósito mayor** — permiten lanzar hechizos dentro del velo antimágico de la [[Troll_Lifts_Arena|Posada de los Perdidos]]. Posiblemente **misma línea** de artefactos solares de la Orden, o **competencia**.
 
 ## Vínculos
 
@@ -85,8 +84,7 @@ Mencionados en el módulo:
 - [[Caladan]] — vampirizado (los anillos lo amenazarían)
 - [[Cinna_Minux]] — vampiro temeroso de los anillos
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Arden_Vul|Ardis Vala (campaña)]]
-- **New Magic Items Appendix** del módulo
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

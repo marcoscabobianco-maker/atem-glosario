@@ -40,7 +40,7 @@ Esos *ellos* que enseñaron a hacer la tela son la misma sombra que late bajo to
 
 ## Un saber que viene de lejos
 
-El archivo anota, sin forzar la coincidencia, que esta artesanía de los Antiguos rima con un motivo que circula muy lejos de las Malvinas: el linaje oceánico de [[Antiterra]], la otra Tierra que siempre estuvo esperando bajo el agua. Dos saberes no humanos heredados desde el fondo del mar, vistos desde dos campañas distintas. La fuente lo deja como puente candidato, no como certeza, y así conviene tenerlo: una resonancia que late del otro lado del mismo descenso, sin que nadie haya cosido todavía la juntura.
+El archivo anota, sin forzar la coincidencia, que esta artesanía de los Antiguos rima con un motivo que circula muy lejos de las Malvinas: el linaje oceánico de [[Antiterra]], la otra Tierra que siempre estuvo esperando bajo el agua. Dos saberes no humanos heredados desde el fondo del mar, vistos desde dos gestas distintas. La fuente lo deja como puente candidato, no como certeza, y así conviene tenerlo: una resonancia que late del otro lado del mismo descenso, sin que nadie haya cosido todavía la juntura.
 
 El registro físico de estas prendas se conserva en el cuaderno 99, junto al resto de las señas de la Orden.
 

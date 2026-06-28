@@ -14,4 +14,4 @@ Hasta que el audio original depare una lectura más nítida, Cuauhtémoc permane
 ## Vínculos
 - [[Marcel]] — aparece mencionado junto a él; "Juan y Cuauhtémoc estaban los dos"
 - [[Francisco_de_Cominges]] — posible parentesco o confusión de identidad
-- [[Quartier_de_Saint_Germain_de_Pres]] — teatro de operaciones de la sub-campaña parisina
+- [[Quartier_de_Saint_Germain_de_Pres]] — teatro de operaciones de la gesta parisina

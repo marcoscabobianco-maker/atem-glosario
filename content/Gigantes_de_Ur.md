@@ -36,4 +36,3 @@ aliases:
 
 - Lenguaje
 - Alineación
-- [[Ubicacion_de_bovedas|Ubicación de bóvedas]]

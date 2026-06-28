@@ -49,3 +49,8 @@ El tratado reconstruido del Juego las cuenta en su posición decimocuarta, [[Las
 - [[Apocalipsis_Multiple_C67|el apocalipsis múltiple]] — la tinta verde donde zarpa el barco de gigantes y monstruos
 - [[Rapture]] — el éxodo cuyo muelle las espera
 - [[Las_Dieciseis_Posiciones]] — la posición decimocuarta del Juego, donde esta entrada se verifica
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷
+> *Naves del Abismo cuya pieza apareada es el [[Castillo_del_Prisma]] —la pieza legal y su gemela caótica, un poder dual de dos polos que se contagian—. Con doce de ellas [[Grazzt|Graz'zt]] remontó el Támesis en 1665 y alzó [[Infernal_London]] sobre la blanca [[Albion|Albión]], coronada por el trono de [[Lucifer]]; y tres esperan plantadas en el [[Septiembre_Negro_1901|trípode de sacrificio]] sobre el que el [[Mahdi_Mahadi|Mahadi]] estrellaría el mundo. La misma flota que fundó el reino infernal de abajo aguarda en el muelle del [[Rapture|Éxodo]] para la última travesía: el envés caótico de un cosmos que tiene su pieza legal del otro lado.* — glosa del archivero del Plata.
+<!-- /CICLO -->

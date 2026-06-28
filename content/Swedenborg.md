@@ -35,7 +35,7 @@ Mujer en armadura cerrada, **rostro oculto bajo el yelmo**, portando la **Lámpa
 
 ## La función
 
-Es **guía fatídica del [[Anti-Inferno]]** —la campaña conductora donde su rol se despliega entero—. Aparece también en **[[Campana_Dante_S_Inferno_CDI|Dante's Inferno]]** como figura puntual: acompaña al grupo desde antes del descenso, abre el camino, recuerda *que hasta hacía poco estaban todavía con Sweden*. *No es compañera de mesa: es la mano que sostiene la luz mientras los otros caminan*.
+Es **guía fatídica del [[Anti-Inferno]]** —la gesta conductora donde su rol se despliega entero—. Aparece también en **[[Campana_Dante_S_Inferno_CDI|Dante's Inferno]]** como figura puntual: acompaña al grupo desde antes del descenso, abre el camino, recuerda *que hasta hacía poco estaban todavía con Sweden*. *No es compañera de mesa: es la mano que sostiene la luz mientras los otros caminan*.
 
 Su backstory se revela en el Descenso: hizo un **pacto con un Lich del Libro** —el **Faraón Inmortal**— para escapar por una grieta del plano negativo. **Busca el hacha que debe a su padre** para matar a una serpiente. **Un cuervo la acompaña**. Conoce algo de cada miembro del grupo —*"sé algo de cada uno"*—. En el combate contra el [[Tempestari]], la lámpara no se apaga.
 
@@ -55,9 +55,9 @@ El episodio que cierra el tramo es de otro orden: una **escena de lujuria con [[
 
 ## La identidad oculta (revelación Caldero)
 
-[*Lo que sigue es revelación de la campaña [[Caldero]] de 2025; quien lee este Glosario fuera de orden, lea bajo su cuenta.*]
+[*Lo que sigue es revelación de la ciclo [[Caldero]] de 2025; quien lee este Glosario fuera de orden, lea bajo su cuenta.*]
 
-**Swedenborg es [[Thalia_Cristalia|Thalia Cristalia]]** —paladina de la [[Casa_Azul_de_Vala|Casa Azul de Vala]], **pareja del padre triple en su avatar [[Tailoor]]/Taylor**—. *No es miembro de la tríada anagramática*: ésa es **[[Lotario]] – [[Oratiol]] – [[Tailoor]]**, las mismas siete letras reordenadas en tres avatares; **Thalia es la esposa**, el polo cristalino que se une al avatar paterno. La armadura cerrada es su disfraz: la esposa y guía cruza los círculos del [[Infierno]] con el rostro velado antes de devolverse a su forma propia. **De su unión con [[Tailoor|Taylor]] nace [[Vitalis]]** —el hijo que en [[La_Jabalina]] cierra un arco trans-campaña que el archivo recoge con atención—.
+**Swedenborg es [[Thalia_Cristalia|Thalia Cristalia]]** —paladina de la [[Casa_Azul_de_Vala|Casa Azul de Vala]], **pareja del padre triple en su avatar [[Tailoor]]/Taylor**—. *No es miembro de la tríada anagramática*: ésa es **[[Lotario]] – [[Oratiol]] – [[Tailoor]]**, las mismas siete letras reordenadas en tres avatares; **Thalia es la esposa**, el polo cristalino que se une al avatar paterno. La armadura cerrada es su disfraz: la esposa y guía cruza los círculos del [[Infierno]] con el rostro velado antes de devolverse a su forma propia. **De su unión con [[Tailoor|Taylor]] nace [[Vitalis]]** —el hijo que en [[La_Jabalina]] cierra un arco trans-gesta que el archivo recoge con atención—.
 
 *Que la guía sin rostro del Anti-Inferno sea la madre de [[Vitalis]], y que el padre sea el mismo encarnado en tres formas, es la cifra inversa del Swedenborg histórico: aquel hizo metafísica del matrimonio; ésta lo hace materia.*
 
@@ -68,11 +68,11 @@ El episodio que cierra el tramo es de otro orden: una **escena de lujuria con [[
 - [[Thalia_Cristalia|Talia Cristalia]] — identidad verdadera
 - [[Tailoor|Taylor]] — su esposo, tercer avatar del padre triple ([[Lotario]] / [[Oratiol]] / [[Tailoor]])
 - [[Vitalis]] — el hijo
-- [[Anti-Inferno]] — campaña conductora
-- [[Campana_Dante_S_Inferno_CDI|Dante's Inferno]] — campaña de apariciones puntuales
+- [[Anti-Inferno]] — gesta conductora
+- [[Campana_Dante_S_Inferno_CDI|Dante's Inferno]] — gesta de apariciones puntuales
 - [[Albion]] — donde la cosmología Swedenborgiana del homónimo histórico ya opera
 - [[Sven]] — eco nórdico que la guía evoca en combate
-- [[Caldero]] / [[Vala_Cristalis|Vala Cristalis]] Antigua — campaña de revelación
+- [[Caldero]] / [[Vala_Cristalis|Vala Cristalis]] Antigua — gesta de revelación
 - [[Tempestari]] — enemigo de un combate documentado en el Descenso
 - [[Arian|Adam]] / [[Suga]] — compañeros de descenso en el Descenso con la linterna
 - [[Akala]]
@@ -82,5 +82,10 @@ El episodio que cierra el tramo es de otro orden: una **escena de lujuria con [[
 - **el Descenso jornadas 4–5** — backstory revelado: pacto con el Lich del Libro, hacha-serpiente, cuervo
 - **el Descenso jornada 6** — el tercer círculo: guía hacia la Laguna Estigia, el pantano, la escena de lujuria con Sven; las gárgolas la devuelven al segundo círculo
 - **el Descenso jornada final** — parte con la facción descendente: *"vámonos... tenemos una misión y es llegar al fondo del infierno"*
-- **Anti-Inferno (campaña activa)** — rol conductor, despliegue mayor del personaje
+- **Anti-Inferno (gesta activa)** — rol conductor, despliegue mayor del personaje
 - **[[Caldero]] / Vala antigua 2025** — revelación: Swedenborg = [[Thalia_Cristalia|Talia Cristalia]], madre de [[Vitalis]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛧ ☯
+> *La guía sin rostro que sostiene la Lámpara de la Esperanza mientras los demás bajan por los círculos del Inferno —señala la [[Estigia_pantano|Laguna Estigia]] en el [[Tercer_Circulo_Gula|tercer círculo]], donde [[Beboto_Behemoth_del_Tercer_Circulo|Beboto]] la muerde—. Su armadura cerrada esconde un pacto: trato con el Lich del Libro para escapar por una grieta del plano negativo. Y bajo el yelmo está [[Thalia_Cristalia]], el polo cristalino que se une al padre triple [[Tailoor|Taylor]]: madre de [[Vitalis]], la cara cristalina del cosmos doble.* — glosa de Paulus.
+<!-- /CICLO -->

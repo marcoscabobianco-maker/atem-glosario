@@ -48,7 +48,7 @@ Un **Zelekuth** —centauro de hierro con látigo— intenta apresar a [[Maleika
 
 ### La ciudad de torres y muros, en los Pirineos
 
-La Carcasona del archivo es **ciudad real** — la visitó pasando los **Pirineos**, no los Alpes ni los Apeninos—. La ciudad existe: **gran fortaleza medieval reconstruida**, con todos los factores que la hacen *"un tremendo lugar de torres y muros"* —murallas dobles, torres almenadas, castillo principal en el corazón de la ciudadela—. Esa silueta es la que la mesa absorbió en el setting: la Carcasona de los Reguladores tiene el mismo cuerpo arquitectónico que la del adoquín turístico.
+La Carcasona del archivo es **ciudad real** — la visitó pasando los **Pirineos**, no los Alpes ni los Apeninos—. La ciudad existe: **gran fortaleza medieval reconstruida**, con todos los factores que la hacen *"un tremendo lugar de torres y muros"* —murallas dobles, torres almenadas, castillo principal en el corazón de la ciudadela—. Esa silueta es la que el archivo absorbió en el mundo: la Carcasona de los Reguladores tiene el mismo cuerpo arquitectónico que la del adoquín turístico.
 
 ### Foix, Garuby y los golems cañones
 
@@ -74,13 +74,13 @@ La presencia de [[Su-Zoro]] en el episodio anuda el avance terrestre con la lín
 
 ### La misma ciudad, dos siglos antes
 
-La ciudad amurallada tiene **otra entrada en el archivo, dos siglos y una campaña antes**: **[[Carcassone]]** —la del Languedoc de 1648, tablero de la [[Cardenal_Mazarino|Fronda]] periférica, frontera entre el norte capeto y el sur occitano—. Es la misma piedra vista desde otro ciclo: lo que en 1648 era ruta de trigo, sal y reclutas hacia París, en 1889 es fortaleza tomada por diablos en el camino de los Reguladores hacia la misma París. *El archivo conserva las dos miradas separadas, como conserva las dos épocas.*
+La ciudad amurallada tiene **otra entrada en el archivo, dos siglos y una gesta antes**: **[[Carcassone]]** —la del Languedoc de 1648, tablero de la [[Cardenal_Mazarino|Fronda]] periférica, frontera entre el norte capeto y el sur occitano—. Es la misma piedra vista desde otro ciclo: lo que en 1648 era ruta de trigo, sal y reclutas hacia París, en 1889 es fortaleza tomada por diablos en el camino de los Reguladores hacia la misma París. *El archivo conserva las dos miradas separadas, como conserva las dos épocas.*
 
 ### La Dama de Carcas y la leyenda con Carlomagno
 
 Carcasona arrastra una **leyenda propia** que entra al archivo del cosmos compartido por puerta lateral: la de **la Dama de Carcas**, la viuda que defendió la ciudad contra el sitio de **[[Carlos_Rey_Carlos_Carlomagno|Carlomagno]]**. La tradición —histórica, occitana— cuenta que la regente saracena, en el último día del asedio, alimentó al último cerdo con el último grano y lo arrojó desde las murallas para hacer creer al emperador franco que la ciudad seguía teniendo provisiones. [[Carlos_Rey_Carlos_Carlomagno|Carlomagno]] levantó el sitio. La Dama hizo sonar las campanas: *"Carcas sonne"* —de ahí el nombre **Carcassonne**—.
 
-Esa leyenda **se retrotrae en el archivo**: **aparece después en algún momento de la crónica de París**. La conexión exacta el archivo no la cierra, pero la mesa la conserva como hilo: lo que la Dama de Carcas sostuvo contra Carlomagno en el siglo VIII tiene **eco en la crónica parisina del ciclo final**. La leyenda es portátil; cruza la línea del tiempo y vuelve a aparecer donde la mesa la necesita.
+Esa leyenda **se retrotrae en el archivo**: **aparece después en algún momento de la crónica de París**. La conexión exacta el archivo no la cierra, pero la conserva como hilo: lo que la Dama de Carcas sostuvo contra Carlomagno en el siglo VIII tiene **eco en la crónica parisina del ciclo final**. La leyenda es portátil; cruza la línea del tiempo y vuelve a aparecer donde el archivo la necesita.
 
 ### La hilera completa y los aliados libertarios
 
@@ -142,3 +142,8 @@ Hay un dato sorprendente que el archivo conserva en su tono más fríamente epis
 - Camino al norte — regiones arrasadas, hilera de batallas contra huestes de diablos, alianza con [[Kropotkin]]
 - París — destino final, ciclo de 1890 y siguientes
 - Post-Torneo Eiffel — Carcasona se convierte en sede del [[Banco_Boreal]] (EFBB-CSS)
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El castillo no se entiende como lugar sino como tramo de una marcha: es un nudo en la hilera de batallas que [[Los_Reguladores]] cruzan del [[Mediterraneo_Ucronico|Mediterráneo]] a París, cargando los 300 atlantes. La banda es el sujeto —vence a [[Scya]] y planta sus estandartes de lobo, toma la fortaleza a los diablos de [[Lord_Gaul]], se defiende del dragón—, y la sigla deja firma cosmológica: la ciudad liberada termina siendo EFBB-CSS, sede del [[Banco_Boreal]]. La piedra recuerda quién la cruzó.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -8,7 +8,7 @@ aliases:
 ![[Imagenes_Tier1/Wemic.png]]
 <!-- /HEADER_IMG -->
 
-Guerrero centauro-leonino con lanza y melena oscura. Los wemics son criaturas D&D semejantes a centauros pero con cuerpo de león en lugar de caballo: humanoides felinos de la cintura para arriba, cuadrúpedos leoninos de la cintura para abajo. En el cosmos compartido aparecen en contextos de sabana o desierto, terrenos afines a los mundos arrasados como [[Athas|Athas]] (el [[Angara_Andgara|Angara]] devastado). Su naturaleza felina los emparenta con criaturas como los [[Tabaxi_Meurona|tabaxi]] aunque son entidades separadas.
+Guerrero centauro-leonino con lanza y melena oscura. Los wemics son criaturas semejantes a centauros pero con cuerpo de león en lugar de caballo: humanoides felinos de la cintura para arriba, cuadrúpedos leoninos de la cintura para abajo. En el cosmos compartido aparecen en contextos de sabana o desierto, terrenos afines a los mundos arrasados como [[Athas|Athas]] (el [[Angara_Andgara|Angara]] devastado). Su naturaleza felina los emparenta con criaturas como los [[Tabaxi_Meurona|tabaxi]] aunque son entidades separadas.
 
 ## Vínculos
 

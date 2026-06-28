@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-Primer personaje de figura del archivo en [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]. Nombre completo: "figura del Can" → Delcan. Introducido en los Sudetes, región de Europa Central. **Muere en combate durante la fase de París**, en una carga contra una turba parisina o soldados (detalle exacto pendiente de confirmación por ). Su muerte abre el espacio para que el grupo introduzca a **[[Gideon]]** como segundo compañero.
+Primer compañero del grupo en [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]. Su nombre se lee como "Del Can" → Delcan. Introducido en los Sudetes, región de Europa Central. **Muere en combate durante la fase de París**, en una carga contra una turba parisina o soldados (el detalle exacto queda pendiente de confirmación en el archivo). Su muerte abre el espacio para que el grupo introduzca a **[[Gideon]]** como segundo compañero.
 
 ## Ver también
 

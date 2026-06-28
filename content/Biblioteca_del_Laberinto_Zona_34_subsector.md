@@ -14,10 +14,9 @@ aliases:
 - **Mobiliario:** Libreta, escritorio, "manchas de los golpes" de batallas previas
 - **Atmosfera:** Monástica ( describe como "orden más monástica")
 - **[[Peligro]]:** Aparición de [[Guardian_del_Tiempo_Angel_Corrector|Ángel Corrector]]; persecución continua
-- **[[Accesibilidad]]:** Aparentemente alcanzable desde biblioteca central zona 34
+- **Accesibilidad:** Aparentemente alcanzable desde biblioteca central zona 34
 
 ## Ver también
 
 - Mobiliario
 - [[Peligro|Peligro]]
-- [[Accesibilidad|Accesibilidad]]

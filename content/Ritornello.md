@@ -59,7 +59,7 @@ En el mapa del valle: **Ardenburg está acá; Ritornello está donde está la es
 - [[Palacio_del_Prisma]] — al sur de Ritornello, locus posterior
 - [[Barrado_Balacan]] — región (renombrada por el desastre, antes Ardisvala)
 - [[Argus_PJ|Argus]] — paradigma caído, posible conexión con la cronología del desastre
-- [[Ardis_Vala_campaña|Ardis Vala (campaña)]]
+- [[Ardis_Vala_campaña|Ardis Vala (gesta)]]
 
 ## Apariciones
 

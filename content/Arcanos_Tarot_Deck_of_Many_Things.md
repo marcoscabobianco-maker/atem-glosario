@@ -29,5 +29,4 @@ aliases:
 
 - [[Reina_de_Corazones|Reina de Corazones]]
 - [[Rey_de_Corazones|Rey de Corazones]]
-- [[Vinculacion_dantesca|Vinculación dantesca]]
 - Moraleja

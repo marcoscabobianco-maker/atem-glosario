@@ -71,3 +71,8 @@ La voz que todavía no ha consignado entera en lámina **se sostiene aquí en pa
 - **La contratación por el Holandés** — inicio del arco
 - **El descenso paralelo a los Emisarios** — visiones psicotrópicas, pasados atroces
 - **[[Farruco]] al pozo** — cierre narrativo del arco descendente
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛓ ⛎
+> *Banda con nombre —[[Luis]], [[Vermir]], [[Dallas]], [[Farruco]]— contratada como carne de cañón por el [[Flying_Dutchman_Holandes_Errante|Holandés Errante]], que desciende por las capas penales del [[Infierno_Dantesco|Foso]] hasta [[Farruco_Arrastrado_al_Pozo_NC16|la caída de Farruco al pozo]], espejo invertido del ascenso celestial de los [[Emisarios_de_Pomola_Grupo_Principal|Emisarios de Pomola]]. La gracia del arco: el doble partido se juega con las mismas manos en ambos tableros —los que entran sin biografía resultan almas no atadas, sueltas, que el descenso revela—.* — glosa del Decadiano.
+<!-- /CICLO -->

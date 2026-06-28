@@ -19,8 +19,13 @@ aliases:
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña de la que este encuentro es el epílogo
+- [[Anti_Inferno|el Descenso (CDI)]] — gesta de la que este encuentro es el epílogo
 - [[Ardis_Vala|Ardis Vala]] — plano cristalino cuyo nombre resuena en "Juego en Vala"; posible locus de origen
 - [[El_Abismo|el Abismo]] — plano caótico del que provienen las posesiones demoníacas
 - [[Pluton_CDI|Plutón]] — señor infernal bajo cuya influencia ocurren las posesiones en este tramo
 - [[Uroboros|Uroboros]] — símbolo del ciclo infinito que contextualiza este encuentro como cierre/apertura
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Escena de cierre del [[Anti_Inferno|Descenso]]: el último escalón del purgatorio infernal, una [[Entidad]] poseída despachada en menos de diez segundos, signo de que el grupo ya tocó fondo y subió. El nombre resuena con [[Ardis_Vala|Ardis Vala]] —acaso un fragmento de ese plano cristalino corrupto filtrado al pozo—, y el [[Uroboros]] vuelve el último peldaño en boca del primero.* — glosa del Decadiano.
+<!-- /CICLO -->

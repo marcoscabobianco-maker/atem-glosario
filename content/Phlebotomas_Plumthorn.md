@@ -84,7 +84,7 @@ Con la entrada en **[[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]** y la centraliza
 - [[Ritornello]], [[Narsileon]] — destinos del comercio de veneno
 - [[Lady_Deino]] — vecina (comercio posible)
 - [[Papa_Alejandro_Sixto]] — autoridad post-hiato (subordinación o eliminación)
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

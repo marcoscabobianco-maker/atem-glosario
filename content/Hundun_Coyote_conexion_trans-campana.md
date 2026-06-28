@@ -1,5 +1,5 @@
 ---
-title: "Hundun ↔ Coyote (conexión trans-campaña)"
+title: "Hundun ↔ Coyote (conexión trans-saga)"
 tags:
  - "conexión"
  - "trans-campaña"
@@ -8,8 +8,8 @@ tags:
  - "cdi"
  - "mc"
 aliases:
- - "Hundun ↔ Coyote (conexión trans-campaña)"
- - "conexión trans-campaña"
+ - "Hundun ↔ Coyote (conexión trans-saga)"
+ - "conexión trans-saga"
  - "Hundun ↔ Coyote"
 ---
 
@@ -22,11 +22,11 @@ El archivo describe a Hundun como escenario que no ocurrió en el canon del Desc
 
 El eco del [[Coyote_Texas_Ranger|Coyote Texas Ranger]] en el archivo de [[Antiterra_Demonia|Antiterra]] (figura antagonista) es resonancia del mismo arquetipo dentro del mundo compartido: [[Coyote]] no muere, cambia de forma.
 
-*Conexiones:* **Cadena de Reencarnación trans-campaña**, **[[Coyote_Texas_Ranger|Coyote (Texas Ranger)]]** (eco en [[Antiterra_Demonia|Antiterra]]), **el Descenso** (aparición alternativa).
+*Conexiones:* **Cadena de Reencarnación trans-gesta**, **[[Coyote_Texas_Ranger|Coyote (Texas Ranger)]]** (eco en [[Antiterra_Demonia|Antiterra]]), **el Descenso** (aparición alternativa).
 
 ## Ver también
 
 - [[Coyote|Coyote]]
 - [[Hundun|Hundun]]
-- Cadena de Reencarnación trans-campaña
+- Cadena de Reencarnación trans-gesta
 - el Descenso el archivo

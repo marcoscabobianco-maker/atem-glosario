@@ -32,11 +32,11 @@ El **Fénix** actúa como termostato viviente de la capa: cuando se daña, **gen
 
 ### Origen: el Valis Cristal de Paladin in Hell
 
-El concepto nació en **[[Paladin_in_Hell|Paladin in Hell]]** —la aventura clásica de Monte Cook para 2da edición— como **Valis Cristal**. Aquel arco fue uno de los **fundacionales del cosmos compartido**: ahí surgen **[[Maristo]] y Arian juntos**, con sus pactos con [[Grazzt|Graz'zt]] y con el destino del maestro de [[Maristo]] —**[[Klyssandral]]**, *"se habían arrastrado todo un templo al quinto nivel del imperio"*—. De ese arco extrajo y reelaboró el **Valis Cristal en Vala Cristalis**, dándole el peso adicional de la referencia blakeana —*Vala, or The Four Zoas*— y proyectándolo como concepto cosmológico recurrente en todas las campañas posteriores.
+El concepto nació en **[[Paladin_in_Hell|Paladin in Hell]]** —la aventura clásica de Monte Cook para 2da edición— como **Valis Cristal**. Aquel arco fue uno de los **fundacionales del cosmos compartido**: ahí surgen **[[Maristo]] y Arian juntos**, con sus pactos con [[Grazzt|Graz'zt]] y con el destino del maestro de [[Maristo]] —**[[Klyssandral]]**, *"se habían arrastrado todo un templo al quinto nivel del imperio"*—. De ese arco extrajo y reelaboró el **Valis Cristal en Vala Cristalis**, dándole el peso adicional de la referencia blakeana —*Vala, or The Four Zoas*— y proyectándolo como concepto cosmológico recurrente en todas las gestas posteriores.
 
 ### El Sancta Sanctorum del Inferno
 
-En la campaña Inferno, el Vala Cristalis vuelve a estar en juego. **Está en el Sancta Sanctorum** —cámara identificada con **el mundo del Tabernáculo y del Arca de la Alianza**, donde confluyen varios mundos a la vez—. Allí, durante el arco de **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno, **se desata una lucha de todos contra todos para ver quién lo obtiene**. Más que las bombas en las Catacumbas, **más profundamente todavía en el infierno**, este combate es el centro: quien se quede con el Vala Cristalis se queda con la capa que separa los mundos. La estructura del Tabernáculo y el Arca no es accidental: el archivo deja entrever que el lugar **es punto de confluencia multi-mundo**, donde el ciclo cose sus campañas entre sí. Esas cosas reaparecen también en los crossovers **Masters × [[Cristo_Leon|Mundo de Krile]]** que se hicieron con [[Cristo_Leon|Cristo León]].
+En la gesta Inferno, el Vala Cristalis vuelve a estar en juego. **Está en el Sancta Sanctorum** —cámara identificada con **el mundo del Tabernáculo y del Arca de la Alianza**, donde confluyen varios mundos a la vez—. Allí, durante el arco de **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno, **se desata una lucha de todos contra todos para ver quién lo obtiene**. Más que las bombas en las Catacumbas, **más profundamente todavía en el infierno**, este combate es el centro: quien se quede con el Vala Cristalis se queda con la capa que separa los mundos. La estructura del Tabernáculo y el Arca no es accidental: el archivo deja entrever que el lugar **es punto de confluencia multi-mundo**, donde el ciclo cose sus gestas entre sí. Esas cosas reaparecen también en los crossovers **Masters × [[Cristo_Leon|Mundo de Krile]]** que se hicieron con [[Cristo_Leon|Cristo León]].
 
 ## Vínculos
 
@@ -49,7 +49,7 @@ En la campaña Inferno, el Vala Cristalis vuelve a estar en juego. **Está en el
 - [[Cosmarca]] — el que pronunció el 1.200.000 (almas dentro de Vala Cristalis)
 - [[Thalia_Cristalia|Thalia Cristalia]] — campo semántico de cristalización
 - [[Lucifer]] — su palacio de Buckingham con la misma defensa cristalina
-- [[Anti_Inferno|Campaña Inferno]] — el ciclo donde se reabre la disputa
+- [[Anti_Inferno|Gesta Inferno]] — el ciclo donde se reabre la disputa
 - [[Cristo_Leon|Cristo León]] / **Mundo de Krile** — crossovers Masters donde reaparece
 - **Tabernáculo / Arca de la Alianza** — referencias bíblicas del Sancta Sanctorum
 - [[Albion]] / [[Rintrah]] — otras presencias blakeanas en el cosmos compartido
@@ -61,3 +61,8 @@ En la campaña Inferno, el Vala Cristalis vuelve a estar en juego. **Está en el
 - el Descenso (Inferno) — disputa en el Sancta Sanctorum
 - Crossovers Masters × Mundo de Krile (con [[Cristo_Leon|Cristo León]])
 - [[Lucifer]] en Buckingham — defensa cristalina del palacio
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ △
+> *Velo que separa mundos, no que adorna: la capa que protegió al mundo-gema [[Eilidh|Eilidh]] —rubí donde 1.200.000 almas se refugiaron de la colisión Terra-[[Antiterra]]—, con el Fénix por termostato viviente. Y es el objeto único que cruza las gestas: nace como Valis Cristal en [[Paladin_in_Hell|Paladin in Hell]], reaparece en [[Caldero]], y vuelve a disputarse en el Sancta Sanctorum del [[Anti_Inferno|Inferno]] —todos contra todos, porque quien se queda con él se queda con la capa que separa los mundos. Lo que A leyó como el pareo de los mundos (AA-C.1) y como el objeto que cruza campañas (AA-O.1) es, en C, una sola casa.* — glosa de Arkos.
+<!-- /CICLO -->

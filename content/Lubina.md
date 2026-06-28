@@ -18,7 +18,7 @@ aliases:
 ## Presentación
 
 [[Sucubo_Taurina|Súcubo]], practicante de magia oscura y seducción. Controladora de **[[More]]** (guerrero
-endemoniado, portador de [[Excalibur]]) en campaña de **[[Compania_de_David|Compañía de David]]** ([[York]]).
+endemoniado, portador de [[Excalibur]]) en gesta de **[[Compania_de_David|Compañía de David]]** ([[York]]).
 Victimaria de **[[Shen]]** (rastreador de grupo [[David]]). Fue forzada a huir ante [[El_Explorador_de_Gotland_Oratiol_manifestacion|manifestación]]
 de luz de Lugh. Compañera del período de las Eras Oscuras del cosmos compartido.
 
@@ -29,7 +29,7 @@ mapeada en tabla del [[Panteon_Posmoderno|Panteón Posmoderno]] como deidad de *
 
 ## Notas
 
-Lubina encarna el tema de control y seducción en cosmología MC. Su necesidad
+Lubina encarna el tema del control y la seducción en la cosmología del cosmos compartido. Su necesidad
 de huir ante luz divina marca límite de su poder. La víctima [[Shen]] contrasta con [[More]]
 (endemoniado, bajo control de Lubina, responsable de muertes de niños).
 

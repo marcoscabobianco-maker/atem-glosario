@@ -99,7 +99,7 @@ Tumba del **gran archon arconteano** y su biógrafo **Lucius Cornelius Scriptor*
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Varumani]] — facción operadora de los Troll Lifts y la Inn
 - [[Heqeti]] — fundadores del Arena
 - [[Rudishva]] — overlords originales, dueños del módulo [[RAJ-750]]
@@ -118,3 +118,8 @@ Tumba del **gran archon arconteano** y su biógrafo **Lucius Cornelius Scriptor*
 - **el archivo** — Sigue exploración del nivel, cámara hiperbárica con Malakita (en zona conectada)
 - **esta jornada y posteriores** — Tránsito por Troll Lifts hacia otras zonas
 - Jornadas posteriores — punto de paso constante
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Nivel central del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]] y bisagra de su descenso por estratos: los ascensores de los [[Varumani]] suben a las Puertas de Obsidiana y bajan a la Corte del Thegn y a las Nether Reaches, atravesando el Gran Abismo. El piso estratifica eras —cimientos [[Heqeti]] de cuatro mil años bajo el cinturón técnico [[Rudishva]] bajo la posada [[Archontean]]— donde tres islas de paz flotan en un mar de muerte.* — glosa del archivero del Plata.
+<!-- /CICLO -->

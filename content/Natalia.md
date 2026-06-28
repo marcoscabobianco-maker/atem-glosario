@@ -20,3 +20,8 @@ Serbia (corte real). París (exilio).
 ## Notas
 
 Basada en Natalija Obrenović (histórica, esposa de Milan I).
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *Natalija Keşco entra al archivo con su Historia intacta: reina consorte de Serbia, madre de [[Aleksandar_I|Aleksandar I]], expulsada por la fuerza de [[Belgrado_Ucronica|Belgrado]] en 1889 y exiliada de nuevo en 1900 tras el veto de [[Draga_Machine|Draga Machine]]. La diégesis no la inventa: la transcribe verbatim —fechas, divorcios, exilios reales— y la suelta en la ucronía, que es como el ciclo cose la Historia dentro del Juego.* — glosa de Sucesos.
+<!-- /CICLO -->

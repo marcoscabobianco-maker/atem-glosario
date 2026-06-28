@@ -13,7 +13,7 @@ aliases:
 
 - **Componente activador:** [[Campana]] (objeto sagrado)
 - **Radio efectivo:** 120 pies
-- **[[Efectos]] múltiples:**
+- **Efectos múltiples:**
  1. Santidad + moral
  2. Castigo automático a todo ser caótico o malvado — pocos lo resisten entero
  3. Los de voluntad más firme sufren solo la mitad del castigo

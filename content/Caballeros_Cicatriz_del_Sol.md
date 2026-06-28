@@ -28,7 +28,7 @@ tags:
 
 ## Presentación
 
-**Los Caballeros de la Cicatriz del Sol** —en inglés *Sun-Scarred Knights*, traducción literal de los pliegos de *Ardisvala*— son **orden caballeresca del setting [[Arden_Vul]]** con sede en su **Hold y su Ciudadela**, en lo más hondo del mega-dungeon. Su historia tiene **paradoja fundacional**: fueron **fundados por un vampiro**.
+**Los Caballeros de la Cicatriz del Sol** —en inglés *Sun-Scarred Knights*, traducción literal de los pliegos de *Ardisvala*— son **orden caballeresca del mundo de [[Arden_Vul]]** con sede en su **Hold y su Ciudadela**, en lo más hondo del mega-dungeon. Su historia tiene **paradoja fundacional**: fueron **fundados por un vampiro**.
 
 ### Fundación: 1123 AEP por Melok-Ri
 
@@ -63,18 +63,18 @@ La estructura del liderazgo era **trans-generacional vampírica**:
 
 ### La toma por los compañeros
 
-El arco más profundo de la campaña culmina cuando **los PCs toman el control de la Orden** —el archivo (audio pendiente de transcribir)—. La secuencia:
+El arco más profundo de la gesta culmina cuando **los PCs toman el control de la Orden** —el archivo (audio pendiente de transcribir)—. La secuencia:
 
 1. **el archivo** — **[[Alumine_Manwe_Finwe|Alúmine]] decapita a Malakita** en la cámara hiperbárica sci-fi.
 2. **Jornadas siguientes** — derrota de la **cabeza arcanum flotante** residual.
 3. **el archivo** — el grupo enfrenta y elimina al **Masracht en el Prism Keep**.
 4. **Resultado** — **los compañeros lideran la Orden**, con [[Valerius_Utrecht]] como **eje moral** del nuevo liderazgo (redención individual para los caballeros engañados, decapitación selectiva del liderazgo corrupto).
 
-El acto de tomar la Orden es **transformación faccional mayor** del setting: los Caballeros pasan de ser herramienta vampírica a ser **brazo militar de los buscadores** (los compañeros).
+El acto de tomar la Orden es **transformación faccional mayor** del mundo: los Caballeros pasan de ser herramienta vampírica a ser **brazo militar de los buscadores** (los compañeros).
 
 ## Vínculos
 
-- [[Arden_Vul]] — campaña
+- [[Arden_Vul]] — gesta
 - [[Master_Malakita|Master Malakita / Melok-Ri]] — fundador vampírico, decapitado en la fase media del ciclo primero
 - [[Masracht_Prism_Keep|Masracht]] — eslabón superior, eliminado en la fase media del ciclo primero
 - [[Caladan]] — vampirizado, parte de la cadena, ahora del lado de los PCs

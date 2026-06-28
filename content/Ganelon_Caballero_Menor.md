@@ -17,4 +17,3 @@ aliases:
 
 ## Ver también
 
-- [[Implicacion_meta|Implicación meta]]

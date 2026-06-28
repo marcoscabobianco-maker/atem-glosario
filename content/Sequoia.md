@@ -28,3 +28,8 @@ Posible paralelo con Sequoyah histórico (inventor del silabario Cherokee). Los 
 [*La mano lo retrató con lo que lo hizo desterrar entre las manos: turbante de colores, gorjal de plata al pecho —obra de su propio oficio—, la pipa al costado, y el dedo posado sobre una tabla cubierta de signos que nadie de su comunidad le pidió inventar. Es el platero exiliado por enseñar a escribir, fijado en el instante exacto de su delito: mostrar las letras. —Glosa del [[Arkos|archivero del Plata]].*]
 
 ![[Imagenes_Tier1/Sequoia_v2.jpg]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ⟳
+> *Maestro platero que pactó para proteger y quedó atado por el trato: sus pactos con el [[Dragon_Verde|Dragón Verde]] y con el Árbol de la Paz protegen, pero también atan —su hermano Doble Cabeza murió por consecuencias de ellos, y las [[Cadenas_de_Plata_Silver_Chains_Shackles_of_the_Pact|Cadenas de Plata]] llevan el peso del pacto en el nombre. Y es guardián de oficio sellador: enterró cuatro ataúdes con criaturas malditas en las minas de plata para contener la corrupción ancestral, ataúdes que reaparecen sellados más adelante en el ciclo. Los [[Thunderbirds_Pajaros_de_Trueno|Pájaros de Trueno]] bordados en sus guantes son su contraseña; su hija [[Rebeca_Pocahontas|Rebeca]] hereda la línea.* — glosa del archivero del Plata.
+<!-- /CICLO -->

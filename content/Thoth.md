@@ -102,3 +102,8 @@ imagen: null
 - **Post-Hiato, ascenso del [[Papa_Alejandro_Sixto]]** — asimilación de los Custodes al aparato papal luminoso
 - **Ciclo presente — descenso de los [[Buscadores_de_Ardis_Vala|Buscadores]]** — penetración de los [[Halls_of_Thoth_Nivel|Halls of Thoth]] en el mega-dungeon
 - **1824 AE — operación residual** — manuscritos dispersos, aparato pre-asimilación en sospechada conservación clandestina
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦ ✒
+> *Deidad escriba del panteón imperial de [[Ardis_Vala|Ardisvala]] —junto a [[Oborus]], [[Lysis]], [[Tod_Set|Set]]— que el [[Papa_Alejandro_Sixto|Papa Alejandro]] no consumió sino asimiló: dios atrapable, su aparato sacerdotal de los [[Custodes_Oculis_Solis|Custodes]] reorientado al polo luminoso, sus [[Halls_of_Thoth_Nivel|Halls]] vueltos piso del mega-dungeon. Es el cronista del cosmos: no habla con palabras sino con las marcas que el archivo conserva, dispersas en los manuscritos que [[Argus_PJ|Argus]] porta tras el templo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

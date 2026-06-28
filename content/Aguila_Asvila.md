@@ -81,3 +81,8 @@ imagen: null
 - **Período de formación de Caldero** — rituales sagrados con interpretación de sus movimientos
 - **Siglos de operación residual** — heráldica, augurios, estandartes
 - **1824 AE — ciclo presente** — presencia mítica continuada en rituales del amanecer
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *El heraldo del Sol del firmamento de [[Vala_Cristalis]] no opera solo: es la mitad luminosa de un par que se sostiene mutuamente. Águila (día, sol, diurnidad) y la [[Serpiente_Luna_Auna|Serpiente-Luna Auna]] (noche, luna) no son enemigos en guerra sino hemisferios complementarios, y su equilibrio es lo que hace girar el día y la noche del mundo-gema. El mapa de [[Mascor_Blancarba]] inscribe Asvila al norte, donde antes reinó el [[Fenix_Nido_Volcanico|Fénix]]. Quita una mitad y el cosmos no gira.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

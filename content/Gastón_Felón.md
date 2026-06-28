@@ -16,4 +16,4 @@ El caso de los Felón representa el flanco más oscuro de los sucesos que se des
 - [[Andromalius]] — Earl demoníaco que lo posee; entidad de la tradición goética
 - [[Martín_Felón]] — hermano; partícipe del mismo arco demoníaco familiar
 - [[Château_de_Chambois]] — feudo de los Felón; escenario de los sucesos sobrenaturales
-- [[Murmur]] — Duque demoníaco activo en la campaña; marco infernal en el que opera [[Andromalius]]
+- [[Murmur]] — Duque demoníaco activo en la gesta; marco infernal en el que opera [[Andromalius]]

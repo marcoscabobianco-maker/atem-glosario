@@ -44,7 +44,7 @@ Detrás de la cortina roja del taller se abren los túneles de [[Jzadirune]], un
 
 No fue todo.
 
-Se hacen llamar [[La_Jabalina]]. El nombre importa: en otra parte del cosmos, la Jabalina es un [[La_Hostia_artefacto|artefacto]], la [[Vara_del_Infinito]] que tocó manos de héroes cuyo nombre resuena en campañas que llevan siglos. Estos ocho no lo saben del todo, o tal vez algunos lo sospechan. Lo que sí saben es que Caldero tiene más secretos que túneles, y más túneles que calles.
+Se hacen llamar [[La_Jabalina]]. El nombre importa: en otra parte del cosmos, la Jabalina es un [[La_Hostia_artefacto|artefacto]], la [[Vara_del_Infinito]] que tocó manos de héroes cuyo nombre resuena en gestas que llevan siglos. Estos ocho no lo saben del todo, o tal vez algunos lo sospechan. Lo que sí saben es que Caldero tiene más secretos que túneles, y más túneles que calles.
 
 La segunda fase los lleva hacia arriba y hacia abajo al mismo tiempo. Hacia arriba: la política de Caldero está podrida, [[Lord_Valanthru]] manipula secuestros y rituales desde las alturas, los niños marcados con signos zodiacales son piezas de un tablero que nadie les explicó. Hacia abajo: [[Zenith_Splintershield]], enano profeta convertido en vocero de los kuo-toa en el Underdark, necesita ser rescatado de una doctrina que no es suya. Y en el medio, [[Jared_el_Loco]] pelea dragones rojos en su patio mientras diablos le arrancan la barba con la paciencia de quien desgrana maíz.
 
@@ -54,7 +54,7 @@ Jared muere despedazado delante de ellos.
 
 La tercera fase es la que rompe la escala. [[La_Jabalina]] sale de Caldero, remonta el río [[Rio_Ucronos|Oukronos]] — no un río cualquiera sino un cauce donde el tiempo corre al revés — en un bajel de velas color limón. Obtienen un zeppelin destartalado, pelean brujas sobre escobas y un dragón tortuga, y llegan a Greyhawk llevando un Fénix herido que es algo más que un pájaro: es el termostato viviente de la capa de Vala, el cristal que protege este mundo.
 
-Porque este mundo — [[Eilidh]], [[Vala]], como quieran llamarlo — es una gema. Un rubí. Un arca donde millones de almas fueron refugiadas cuando Terra y [[Antiterra_Demonia|Antiterra]] iban a colisionar en la [[Franja_de_Disolucion|Franja de Disolución]]. Todo lo que es Caldero, [[Ciudad_Estrella]], el volcán muerto, la revolución mágico-industrial, el río [[Rio_Ucronos|Oukronos]], los niños marcados con signos zodiacales — todo existe dentro de una piedra preciosa que alguien creó usando magia dual para salvar lo que se pudiera salvar. Las plataformas zodiacales que protegen la gema son las mismas que aparecieron en [[Alejandria|Alejandría]], en las campañas de los [[Los_Reguladores|Reguladores]], en el plan Sentinela de [[Grazzt|GRDT]].
+Porque este mundo — [[Eilidh]], [[Vala]], como quieran llamarlo — es una gema. Un rubí. Un arca donde millones de almas fueron refugiadas cuando Terra y [[Antiterra_Demonia|Antiterra]] iban a colisionar en la [[Franja_de_Disolucion|Franja de Disolución]]. Todo lo que es Caldero, [[Ciudad_Estrella]], el volcán muerto, la revolución mágico-industrial, el río [[Rio_Ucronos|Oukronos]], los niños marcados con signos zodiacales — todo existe dentro de una piedra preciosa que alguien creó usando magia dual para salvar lo que se pudiera salvar. Las plataformas zodiacales que protegen la gema son las mismas que aparecieron en [[Alejandria|Alejandría]], en las gestas de los [[Los_Reguladores|Reguladores]], en el plan Sentinela de [[Grazzt|GRDT]].
 
 En Greyhawk, bajo el Castillo, hay una Trampa de Dioses donde nueve guardianes divinos languidecen en celdas místicas. Su confinamiento genera una Fuga Entrópica que impide que la resurrección funcione. Mind flayers entregan la [[Falso_Profeta_Espada|Espada]] de Kas envuelta en trapos negros. Acererak irrumpe con una Esfera de Aniquilación. Mordenkainen da directivas. Un cultista vecniano de máscara tallada aparece en [[Tovag_Baragu]], el templo de los portales, y ofrece verdades a cambio de confesiones peligrosas.
 
@@ -201,3 +201,8 @@ La Jabalina ya no es un grupo de aventureros. Es un organismo narrativo que ha p
 - **1812-1824 AE** — período de modernización cauta, ascenso de los nobles industriales
 - **1824 AE — ciclo presente** — La Jabalina activa, conspiraciones múltiples, [[Temporada_de_Inundaciones]], rumores de grupo siniestro
 - **Próximo ciclo (anticipado)** — penetración posible de la Capilla [[Reina_Oscura|Oscura]]; confrontación cosmológica mayor
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷ △ ◑
+> *Ciudad construida sobre una grieta: anillos de obsidiana que descienden por estratos hacia el lago sin fondo, una [[Plataformas_de_Vala_Ely|Plataforma]] primigenia que respira bajo el cráter de la gema donde Terra y [[Antiterra_Demonia|Antiterra]] se refugiaron al borde de la [[Franja_de_Disolucion|Franja]]. La [[Capilla_Oscura]] sellada no se venció: se guardó y espera su época. Y que [[La_Jabalina]] cargue el nombre de la [[Vara_del_Infinito]] —el objeto que sólo entero decide el destino— no es casualidad. Lo que el Relevo A leyó como el pareo de los mundos (AA-C.1) y como la grieta enterrada que espera (AA-A.3) es, en C, una sola casa.* — glosa de Arkos el archivero del Plata.
+<!-- /CICLO -->

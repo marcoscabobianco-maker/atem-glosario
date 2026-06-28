@@ -39,7 +39,7 @@ imagen: null
 
 *Operación documentada en los sub-niveles*:
 
-- **Aliado mayor de [[Master_Malakita|Malakita]]** *(el Master del [[Caballeros_Cicatriz_del_Sol]] corrompido)*.
+- **Aliado mayor de [[Master_Malakita|Malakita]]** *(el señor de los [[Caballeros_Cicatriz_del_Sol]] corrompidos)*.
 - **Operador de tecnología cristalina** *del aparato del Prism Keep* *(probable conexión con la tecnología rudishva del Beacon)*.
 - **Vampirizador de [[Caladan]]** *junto con Malakita*: *el episodio doctrinal que precipita la operación de los [[Buscadores_de_Ardis_Vala|Buscadores]]*.
 

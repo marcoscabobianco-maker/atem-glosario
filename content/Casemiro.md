@@ -37,3 +37,8 @@ y contacto druídico, 1784 [[Anno_Domini_Antiterra_ADA|A.D.A.]]).
 ## Notas
 
 "Dardo" en "casimiro, dardo y otros intro" es personaje o figura pendiente de identificar. Puede ser apodo o nuevo compañero.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *No existe suelto: es función dentro de una banda nombrada. Como espía y diplomático de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] —los Pretty Women— consigue la información y distrae, y por esa cuadrilla entra a la historia, llevando a los druidas el omen del Águila Americana en la [[Antiterra_Demonia|Antiterra]] de 1784. El compañero se nombra por su grupo, y el grupo lo nombra a él.* — glosa de Sucesos.
+<!-- /CICLO -->

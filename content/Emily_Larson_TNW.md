@@ -10,12 +10,12 @@ aliases:
 
 ## Presentación
 
-**Ref.:** Resumen
+Figura del ciclo del Mundo Nuevo, en la Gary de 1987. (El archivo aún no despliega su entrada completa.)
 
 ## Vínculos
 
-- [[Gary_TNW|Gary del Mundo Nuevo]] — campaña en que opera; [[Gary_Indiana_TNW|Gary, Indiana]] 1987, sistema [[Lords_of_Creation_Sistema_TNW|Lords of Creation]]
-- [[Gary_Indiana_TNW|Gary, Indiana]] — ciudad acerera del setting; escenario principal del ciclo
+- [[Gary_TNW|Gary del Mundo Nuevo]] — gesta en que opera; [[Gary_Indiana_TNW|Gary, Indiana]] 1987
+- [[Gary_Indiana_TNW|Gary, Indiana]] — ciudad acerera del Mundo Nuevo; escenario principal del ciclo
 - [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]] — epicentro de portales interdimensionales bajo la ciudad; nodo cósmico del ciclo
 - [[Genesis_Foundation_Fundacion_Genesis_TNW|Genesis Foundation]] — organización que mueve los hilos en Gary; posible vínculo institucional
 - [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]] — sistema cósmico que rige el ciclo del Mundo Nuevo

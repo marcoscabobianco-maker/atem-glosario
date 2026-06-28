@@ -50,3 +50,8 @@ La sexualidad de Vivescu (sugerida bisexual/ambigua) es característica recurren
 - [[Philip|Philip]]
 - [[Natasha_Petrovna|Natalia Petrovna]]
 - [[Aby|Aby]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *El joven heredero rumano es el nudo ficticio cosido a la Historia verbatim de la Belle Époque: el [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] lo manipula para heredar la fortuna del vicecónsul [[Bandy_Viceconsul|Bandy]] y desestabilizar la monarquía serbia, y los [[Time_Bandits]] lo escoltan por el [[Orient_Express|Orient Express]] hasta [[Bucarest_Ucronica|Bucarest]]. Geografía y política reales —Constantinopla, los Balcanes, el tren— inscritas como tablero del archivo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

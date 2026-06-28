@@ -14,7 +14,7 @@ aliases:
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña en la que aparece; el Foso como geografía de referencia
+- [[Anti_Inferno|el Descenso (CDI)]] — gesta en la que aparece; el Foso como geografía de referencia
 - [[Castillo_del_Prisma]] — fortaleza del segundo círculo donde se desarrolla la travesía
 - [[Torres_del_Castillo_del_Prisma]] — las torres de prueba del Castillo del Prisma, contexto inmediato
 - [[Tempestari]] — criatura del segundo círculo activa en el mismo tramo

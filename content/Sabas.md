@@ -63,7 +63,7 @@ imagen: Imagenes_Tier1/Sabas.png
 
 ## La muerte narrada
 
-**La sección [[Torregrises_Ataca|Torregrises Ataca]] de [[Pablo_y_Miranda_novela|Pablo y Miranda]] conserva su muerte con detalle que el archivero del Plata transcribe con prudencia**: *una chica joven, aro explosivo en la nariz, lo destruye* —**en una expansión de semen y adrenalina**—; **frase textual cuya literalidad ningún editor de la obra ha conseguido suavizar sin perder cifra**.
+**La sección Torregrises Ataca de [[Pablo_y_Miranda_novela|Pablo y Miranda]] conserva su muerte con detalle que el archivero del Plata transcribe con prudencia**: *una chica joven, aro explosivo en la nariz, lo destruye* —**en una expansión de semen y adrenalina**—; **frase textual cuya literalidad ningún editor de la obra ha conseguido suavizar sin perder cifra**.
 
 *La escena cierra el ciclo del régimen*: **Sabas, gladiador de su arena, muere por figura que no esperaba en su catálogo de adversarios**. **El cronista no comenta la moral del episodio**: *anota la persistencia operativa del régimen incluso después de la muerte del rey*, **porque los [[Sabasios]] siguen patrullando, el Liceo sigue enseñando, los hechiceros aliados siguen rigiendo sus torres**.
 
@@ -92,5 +92,5 @@ imagen: Imagenes_Tier1/Sabas.png
 
 - **Régimen continuo del eje Torregrises** — operación tiránica con red institucional plena
 - **Régimen consolidado tras el asesinato de [[Arturo]]** — origen del trono actual
-- **Muerte en [[Torregrises_Ataca]]** — escena documentada en *Pablo y [[Miranda_TG|Miranda]]*
+- **Muerte en Torregrises Ataca** — escena documentada en *Pablo y [[Miranda_TG|Miranda]]*
 - **Posición en el Panteón Posmoderno** — Soberbia ejemplar (C17)

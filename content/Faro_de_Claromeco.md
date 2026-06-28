@@ -57,7 +57,7 @@ Consumado el rito, la piedra azul desaparece de la linterna. En su lugar queda u
 
 ## Notas
 
-Claromecó es un lugar real de la costa de Tres Arroyos, conservado tal cual en la diégesis con su faro verdadero —la torre rayada, los doscientos ochenta y seis escalones, el bosque plantado contra los médanos—: la campaña no lo inventa, lo usa como umbral, igual que hizo con la gesta histórica del descenso. El apellido de la familia del farero oscila en el cuaderno entre Torres, Alfaro y Echegoyen; el registro físico de todo esto se guarda en el cuaderno 99.
+Claromecó es un lugar real de la costa de Tres Arroyos, conservado tal cual en la diégesis con su faro verdadero —la torre rayada, los doscientos ochenta y seis escalones, el bosque plantado contra los médanos—: la gesta no lo inventa, lo usa como umbral, igual que hizo con la gesta histórica del descenso. El apellido de la familia del farero oscila en el cuaderno entre Torres, Alfaro y Echegoyen; el registro físico de todo esto se guarda en el cuaderno 99.
 
 ---
 

@@ -34,7 +34,7 @@ aliases:
 - Desorientación spatial
 - Encuentros enemigos (caballeros, orcos, dragones, demonios)
 
-**[[Presencia_de]]:** Tabletas registros Akáshicos (conocimiento viajeros temporales), [[Libro_Azul|Libro Azul]] (no confirmado ubicado, pero presumiblemente en zona 34), [[Huevo_Infernal|Huevo Infernal]] (en sector 34, cerca de mesa circular).
+**Presencia de:** Tabletas registros Akáshicos (conocimiento viajeros temporales), [[Libro_Azul|Libro Azul]] (no confirmado ubicado, pero presumiblemente en zona 34), [[Huevo_Infernal|Huevo Infernal]] (en sector 34, cerca de mesa circular).
 
 **Importancia narrativa:** Centro de conocimiento cosmológico. Acceso a secretos de viajeros temporales y Torre del Corazón.
 
@@ -43,7 +43,5 @@ aliases:
 ## Ver también
 
 - Nombre alternativo
-- [[Descripcion_detallada|Descripción detallada]]
 - Mecánica mágica
 - Peligros
-- [[Presencia_de|Presencia de]]

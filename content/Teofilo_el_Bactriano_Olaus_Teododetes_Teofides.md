@@ -38,4 +38,3 @@ Posible conexión con Teófilo de [[Alejandria|Alejandría]] (patriarca históri
 
 ## Ver también
 
-- [[Alias|Alias]]

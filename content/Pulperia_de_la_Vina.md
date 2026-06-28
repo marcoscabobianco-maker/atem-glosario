@@ -23,3 +23,8 @@ Corre además entre los que conocen las profundidades de Santa María de [[Torre
 - [[Torregrises]] — el cosmos troncal bajo cuyo nombre (Santa María de Torregrises) opera la capital rosista
 - [[Santa_Maria_de_Torregrises]] — la ciudad en cuya ribera se asienta el establecimiento
 - [[Clavijero]] — figura cuya red de operaciones toca los mismos espacios de sociabilidad conspirativa
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *El rosismo histórico entra verbatim al cosmos: las paredes de la pulpería guardan retratos del Restaurador, las mesas brindan por el régimen, y entre los bancos han caído masorqueros muertos —la mazorca, la divisa punzó, la fiesta federal trasplantadas a la ribera de [[Santa_Maria_de_Torregrises|Santa María de Torregrises]]—. La Historia real se inscribe sin disfraz; sólo cambia el nombre de la ciudad, [[Torregrises]] por Buenos Aires.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

@@ -40,3 +40,8 @@ Queda, por fin, su voz — lo más extraño y lo más cierto de la entrada. La b
 - [[Baba_Yaga|Baba Yagá]] — eco eslavo de la bruja anciana
 
 *Fuente canónica: C67 p. 27 (anotación azul), con remisión a C65 p. 253.*
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ※
+> *El cargo se gana peleando: [[Erzebeth]] ganó su batalla y por eso guarda hoy la [[Plataforma_Tauro|Plataforma de Tauro]] —el oficio de centinela como premio del que vence—, y la conjetura reserva esa misma casilla a Lucy Eva si la línea se prolonga. Y la anciana se reconoce por repetición de cara: es la cuarta figura sobre las tres, la que otras tradiciones nombran [[Hecate|Hécate]] en su vejez o [[Baba_Yaga|Baba Yagá]] en su cabaña andante. A [[Maleika_Maleyka|Maleika]], que castró a [[Grazzt|Graz'zt]], la bruja le avala el corte: bajo esa sanción la venganza se vuelve oficio heredado, no herida.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -149,3 +149,8 @@ Y la regla cosmogónica que de allí se desprende:
 - **Pre-corrida del ciclo Vala** — escondido en la espada de Valerius vía pacto con [[Labresu]], esperando deseo y emergencia
 - **Disminución de Graz'zt en Antiterra etíope** — preludio cósmico: lo que parece derrota es escondite preparatorio; el mismo suelo donde Ardipithecus quedó fosilizado contiene también el sello pentacular del estandarte abisinio
 - **El regreso tras el Hiato** — emergencia en el círculo del [[Palacio_del_Prisma]]; crisálida negra; rata-cerebro como manifestación menor
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ☷
+> *El caso modelo del enemigo que no se vence: [[Grazzt|Graz'zt]] en su forma proto no fue derrotado cuando [[Maleika_Maleyka]] lo disminuyó —eligió esconderse, ovillado como crisálida dentro de la espada compañera de [[Valerius_Utrecht|Valerius]], esperando el deseo que lo trajera de vuelta—. El paladín pidió una espada; trajo de regreso al demonio. Y su cifra es estratificada: cinco eras superpuestas en el mismo suelo etíope —simiesca, axumita ([[GRDT|Geredet]]), la disminución, el escondite, la que no se nombra— fijadas en el pentáculo de [[Axum_MC|Abisinia]]. Lo que A leyó como un durmiente (AA-A.3) y como capas de era (AA-D.1), en C es una sola casa: el que se guarda en el estrato más hondo del valle vuelve por plan, no por venganza.* — glosa del Decadiano.
+<!-- /CICLO -->

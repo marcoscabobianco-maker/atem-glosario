@@ -70,7 +70,7 @@ La **Court of Troll Thegn** —*Corte del Thegn de los Trolls*— **fue** el dom
 - **Troll Market** ★ — comercio de bienes extraños
 - **bestial varumani caves** (al oeste)
 
-**Rituales públicos** (d100): Moot, Audience, Cleansing of Sorrows, Victor's Right.
+**Rituales públicos** (según la ocasión): Moot, Audience, Cleansing of Sorrows, Victor's Right.
 
 #### 2. **Heqeti Upper TemplePequeña restauración heqeti reciente**, bajo **Caudatssa the Tongue** —escasos heqeti operando aquí—. **Ziggurat menor de Kauket** (precursor del mayor en el Ziggurat de Kauket). **Consagración oscura** sobre el área —el suelo favorece a los fieles del polo oscuro y pesa sobre los ajenos—. Si los varumani lo descubren, **conflicto inmediato**.
 
@@ -129,7 +129,7 @@ La **Court of Troll Thegn** —*Corte del Thegn de los Trolls*— **fue** el dom
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Varumani]] — facción dominante
 - [[Varboka]] — First Thegn
 - [[Heqeti]] — culto pequeño en el Heqeti Upper Temple
@@ -144,3 +144,8 @@ La **Court of Troll Thegn** —*Corte del Thegn de los Trolls*— **fue** el dom
 
 - Jornadas intermedias y posteriores — pasaje frecuente
 - **Las "chapitas" y llaves del trato faccional** posiblemente involucran al thegn
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El nivel L07 del [[Mega_Dungeon_Arden_Vul|mega-dungeon]] donde [[Varboka]] preside a los [[Varumani]], y donde cuatro tradiciones arquitectónicas se apilan en un solo piso —[[Heqeti]], [[Rudishva]], [[Archontean]] y varumani— como capas de era una sobre otra: el ejemplo paradigmático del palimpsesto del dungeon. Cada estrato esconde su propio poder: el [[Heqeti|culto heqeti]] de [[Caudatssa_the_Tongue|Caudatssa]] arriba, el vampiro [[Cinna_Minux]] en las capillas archonteanas abajo. Lo que A leyó como un nivel faccional (AA-D.2), en C es la casa del descenso por estratos: un suelo que estratifica cuatro eras y las hace convivir armadas.* — glosa de Arkos.
+<!-- /CICLO -->

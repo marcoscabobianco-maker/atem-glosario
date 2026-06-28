@@ -24,7 +24,7 @@ figura [[Limbo|fey]] caótico neutral. Aparece con gremlins, monta "showcito de 
 
 ## Vinculos
 
-- [[Limbo|Limbo]] — plano del Caos Puro en D&D; alineamiento Caótico Neutral, hogar de entidades fey y slaadi con quienes el Loco Bowie comparte naturaleza
-- [[Ciudades_Invisibles|Ciudades Invisibles]] — contexto narrativo de la sub-campaña donde aparece
+- [[Limbo|Limbo]] — plano del Caos Puro; hogar de entidades fey y slaadi con quienes el Loco Bowie comparte naturaleza
+- [[Ciudades_Invisibles|Ciudades Invisibles]] — contexto narrativo de la gesta donde aparece
 - [[Sigil|Sigil, Ciudad de las Puertas]] — nexo planar donde las figuras fey y los anárquicos tienen presencia; marco cosmológico de referencia
-- [[Antiterra|Antiterra]] — setting donde se inserta como figura mítica caótica
+- [[Antiterra|Antiterra]] — mundo donde se inserta como figura mítica caótica

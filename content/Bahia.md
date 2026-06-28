@@ -40,3 +40,8 @@ Comparte con [[Bloom]] el linaje del paladín-libertador anacrónico, aunque sin
 
 - **Boreales** — frente abolicionista, fase mayor
 - **Reguladores** — tramo intermedio
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Su identidad no la da una biografía sino el bando: cruza al oficio de [[Los_Boreales|los Boreales]] —donde su lucha encuentra causa y nombre— y atraviesa un tramo con [[Los_Reguladores|los Reguladores]] antes de volver al frente abolicionista. Comparte con [[Bloom]] el linaje del paladín-libertador anacrónico; la banda que integra es la que la define, y ese lado no cambia.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -28,7 +28,7 @@ Lo que encontraron en la montaña excedió la geografía: **gigante en cabaña, 
 
 ### Rol Mamba 1
 
-En la línea del **Rol Mamba 1** —las jornadas que el ciclo corrió en el **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]**, cruce de **Mediterráneum** con la posibilidad de revisitar el infierno— **Equis aparece nuevamente** como antigua habitante del mundo, junto a Samsara. Es uno de los rostros del Taller que volvió.
+En las jornadas ambientadas en el **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]** —cruce de **Mediterráneum** con la posibilidad de revisitar el infierno— **Equis aparece nuevamente** como antigua habitante del mundo, junto a Samsara. Es uno de los rostros antiguos del archivo que volvió.
 
 ## Vínculos
 
@@ -39,8 +39,7 @@ En la línea del **Rol Mamba 1** —las jornadas que el ciclo corrió en el **Mu
 - **[[Sauro_Dragon|Dragón]] blanco** — la criatura que preñó a Samsara
 - [[Grazzt|Graz'zt]] / **Neorex** — el captor del grupo
 - [[Templo_Lugar_de_los_Justos]] — escenario donde la línea Rol Mamba 1 culmina
-- [[Arcoms_Cosmar|Marcos el Mago]] — figura conexa de Rol Mamba 1
-- **Taller de Rol** (compilado 2007) — fuente primaria
+- [[Arcoms_Cosmar|Marcos el Mago]] — figura conexa de este arco
 - **Tsuki** — espía egipcia feminista, su contraparte en el grupo
 
 ## Apariciones

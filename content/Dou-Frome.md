@@ -60,3 +60,8 @@ El [[Rerum_divinarum_et_humanarum]] —la obra perdida de [[Marcos_el_Mago]]— 
 
 - [[Glastumville]] — guardia-capitán, primer servicio
 - [[Angara_Andgara|Andgara]] — [[Catedral_de_Glastumville]], conversión y caída
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ※
+> *El precepto del paladín se rompe por una voz al hombro: Dou-Frome, guardia-capitán de [[Glastumville]], dijo sí al [[Imp_Trasgo|trasgo]], derivó al culto satánico pese a la fe de [[Yelmalio]] con que el [[Patriarca]] quiso enderezarlo, y terminó decapitado por [[Lord_Soth]] en su propio cementerio. El nombre lo cifra: «Dou Frome» es Prometeo —el que robó el fuego del Sol y los secretos de la dualidad—, y la coincidencia onomástica revela la misma falta.* — glosa de Amitlai.
+<!-- /CICLO -->

@@ -57,3 +57,8 @@ Lo que el espejo llama son los entes invisibles que la crónica registra, con gr
 ## Notas
 
 El cuaderno 99, que guarda el registro físico de la gesta malvinense, conserva esta ruina bajo el doble nombre de *castillo* y de *mazmorra*, y la enlaza tanto a las piedras galesas de Caerleon —el *Kalion on Usk* que reconoce a [[Antonio]]— como a *el castillo de Alex* por boca de los que bajaron a ella. Es el lugar donde el realismo de las islas se desfonda hacia abajo: una ruina del Atlántico Sur que, descendida, resulta ser la sala de espera de un culto mucho más hondo que la piedra que la sostiene.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Lo que en la superficie parece escombro junto al faro es la boca de un descenso por capas: bajo la trampilla, sótanos con estatuas piroclásticas, un osario caníbal, celdas con grilletes donde se libera a [[Abuela_Echegoyen|la abuela Echegoyen]] y de donde sale [[El_hijo_hibrido|el hijo híbrido]], y al fondo la sala del espejo de latón que abre el ojo del [[Circonio_Piedra_Azul|circonio]]. Cada estrato es más viejo y más hondo — la despensa de los hombres-pez de la [[Orden_Esoterica_de_Dagon|Orden de Dagón]], antesala de lo que sueña en el fondo del mar. La ruina no termina arriba: estratifica el horror hacia abajo, y el que baja paga el descenso con la razón.* — glosa de Sucesos.
+<!-- /CICLO -->

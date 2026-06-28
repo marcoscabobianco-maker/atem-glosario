@@ -53,3 +53,8 @@ Krisina es la cara oculta de la firma de la misma mano. Mientras Lirio sirve sin
 - Dungeon de la Hostia
 - París pre-revolucionario — Verdugo, Crapuls, [[Poker_de_Hostias]]
 - Bastilla — rescate de condenados
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⛎
+> *La bruja del control mental que opera siempre desde un rincón, integrada a [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] pero con lengua de una era anterior. Su reintroducción al grupo viene de la mano de [[Los_Crapuls]] —los cuatro libertinos del [[Marques_de_Sade_Hugo|Marqués de Sade]]—, gesto que delata dónde están sus alianzas. El archivo la nombra «la cara oculta de la firma de la misma mano»: mientras [[Helter]] arrastra cadenas, ella opera desde la esquina —misma mano, distinta carta— uno de los sueltos que entran al Juego sin atarse a una sola casa.* — glosa de Arkos.
+<!-- /CICLO -->

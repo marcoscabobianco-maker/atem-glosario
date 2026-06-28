@@ -12,7 +12,7 @@ aliases:
 
 **Resultado:[[Alexio]] muere.** [[Arsvan|Ärsvan]] sobrevive (aparentemente se desvanece de la escena).
 
-**Consecuencias:** Primer compañero muerto en campaña. Grupo dividido ([[Arsvan|Ärsvan]] aparece en campamento enemigo). Moral debilitada.
+**Consecuencias:** Primer compañero muerto en gesta. Grupo dividido ([[Arsvan|Ärsvan]] aparece en campamento enemigo). Moral debilitada.
 
 ## Ver también
 

@@ -26,9 +26,14 @@ aliases:
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso]] — campaña CDI donde opera esta ley cosmológica
-- [[Campana_Dante_S_Inferno_CDI|Campaña Dante's Inferno]] — marco narrativo donde la ley tiene efecto táctico
+- [[Anti_Inferno|el Descenso]] — gesta CDI donde opera esta ley cosmológica
+- [[Campana_Dante_S_Inferno_CDI|Gesta Dante's Inferno]] — marco narrativo donde la ley tiene efecto táctico
 - [[Cancerbero_CDI|Cancerbero]] — guardián del Tercer Círculo, instrumento de la presión descendente
 - [[Minos_Inferno|Minos]] — juez que aplica la clasificación descendente de las almas
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — frontera del Infierno inferior, punto clave del eje descendente
 - [[Pluton_CDI|Plutón]] — guardián del Cuarto Círculo, ejemplo de las fuerzas que refuerzan el descenso
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Ley que vuelve obligatorio el descenso: el [[Anti_Inferno|Inferno]] está hecho para «jalar hacia abajo», y todo intento de ascender atrae contra el grupo a todas sus fuerzas. No hay escape hacia arriba —la única ruta viable es seguir bajando—, y los guardianes de cada estrato la ejecutan: [[Minos_Inferno|Minos]] que clasifica, el [[Cancerbero_CDI|Cancerbero]] del Tercer Círculo, [[Pluton_CDI|Plutón]] del Cuarto. El dungeon dantesco estratificado convierte la gravedad moral en mecánica: cada capa empuja a la siguiente.* — glosa del Decadiano.
+<!-- /CICLO -->

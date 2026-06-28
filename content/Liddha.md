@@ -58,3 +58,8 @@ Sigue el arco general de [[Las_Tullidas]]:
 - Taller de Rol — narrativa primaria de Las Tullidas
 - Episodio Papi Balor — devoración de sus hijos
 - Arco del [[Amuleto_de_los_Planos]] / Supremos — agente recabadora
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ※
+> *Drow de brazo congelado al torso, Liddha es una de las cuatro de [[Las_Tullidas]] —la banda de señoritas mutiladas por Papi [[Balor]], cada una de una esquina del cosmos: ella el subsuelo, [[Luquimia]] el caos, [[Chan]] el dragón, [[Monaco|Mónaco]] la aristocracia. La sigla colectiva se constituye por la venganza compartida. Y opera un reverso del nombre-es-la-cosa: Papi Balor devoró a sus hijos y con ellos sus nombres, que el archivo respeta como borrados —la [[Marcha_de_los_Modrons|Marcha Modron]] arrasa lo que no encaja en su ritmo, y los devorados quedan sin registro.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -15,7 +15,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** [[C73_p24|C73 p.24]]: "Llamada al coronel, el tío del Buscapleitos, Dani [[Pontiac_Danny_De_Sirio_TNW|Pontiac]]." confirmó: "Coronel Falco, no Falcón."
+Oficial militar del ciclo del Mundo Nuevo. El archivo lo nombra al pasar: "Llamada al coronel, el tío del Buscapleitos, Dani [[Pontiac_Danny_De_Sirio_TNW|Pontiac]]." Es **Coronel Falco** (no Falcón).
 
 ## Ver también
 

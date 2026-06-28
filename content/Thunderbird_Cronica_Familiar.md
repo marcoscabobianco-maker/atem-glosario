@@ -21,6 +21,11 @@ El Thunderbird es el **poder ancestral** de [[Anti_Inferno|la figura del segundo
 
 ## Ver también
 
-- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña en la que el Thunderbird despliega su vuelo
+- [[Anti_Inferno|el Descenso (CDI)]] — gesta en la que el Thunderbird despliega su vuelo
 - [[Cancerbero_CDI|Cancerbero]] — el guardián que lo destruyó
 - [[Innombrable|el Innombrable]] — figura mítica vinculada al linaje ancestral de su convocante
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El poder ancestral que escolta el descenso por los círculos del [[Anti_Inferno|Ante-Inferno]]: vuela sobre la tormenta del primer estrato y muere en el tercero, cuando [[Cancerbero_CDI|Cancerbero]] lo embosca y obliga a seguir solo hacia abajo. El Thunderbird mide el infierno como se mide un dungeon —por capas que se descienden de a una—, y su caída marca el escalón donde la invocación deja de bastar.* — glosa del Decadiano.
+<!-- /CICLO -->

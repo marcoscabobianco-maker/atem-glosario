@@ -17,4 +17,4 @@ Líder guerrero Shawnee. Portador del palo de trueno. Decidió proteger a sus ho
 
 ## Notas
 
-Primer figura significativo de la campaña.
+Primer figura significativo de la gesta.

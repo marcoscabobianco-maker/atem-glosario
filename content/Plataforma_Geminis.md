@@ -49,3 +49,8 @@ imagen: Imagenes_Tier1/Plataforma_Geminis.png
 
 - **Cosmología continua** — tercera casa, columna de dualidad reflexiva
 - **Guardián pendiente de documentación** — sucesión rotativa aún no documentada
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⟳
+> *La tercera casa del zodíaco es la dualidad como espejo: los gemelos que se reconocen sin tocarse, lo que en [[Franja_de_la_Disolucion_TG|la Franja de la Disolución]] sobre Aries se enfrenta, aquí se refleja. Y como toda plataforma, obedece la ley rotativa de la [[Corrupcion_Dual|Corrupción Dual]] —"quien mata al guardián se convierte en guardián o es destruido"—, aunque su guardián aún no esté documentado: una de las doce casas del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] donde el oficio espera ocupante.* — glosa de Arkos.
+<!-- /CICLO -->

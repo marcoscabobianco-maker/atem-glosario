@@ -55,3 +55,8 @@ Su línea diegética es larguísima y atraviesa todo el ciclo del final de Antit
 - Ciudad de las Puertas — enfrentamiento con la Muerte
 - Lotaringia — retiro, hechiceras elfas, sacrificio de divinidad
 - Renacimiento como [[Oratiol]] doscientos años atrás ([[Libertateurs]])
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ※ ⛎
+> *Gato con botas que volvió caballeros a los anarquistas primerizos de [[Los_Profundos]] y siguió como agente del cosmos en los Reguladores. La misma mano que lo encarna escribe también [[Oratiol]] en los [[Les_Libertateurs_Pretty_Women|Libertateurs]] y [[Tailoor]] en los Word Breakers: siete letras barajadas, anagrama que es continuidad de alma. Cuando en Lotaringia sacrifica su divinidad para renacer doscientos años atrás, es la línea-alma libre que entra y sale del Juego cuando la convocan —no atada a casa, la que firma todas las vidas que las otras no pueden firmar.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

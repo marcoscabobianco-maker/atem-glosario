@@ -19,7 +19,7 @@ aliases:
 
 ## Presentación
 
-Prisión dimensional extra-planar donde Graz ([[Ludovico]] Sforza/[[Grazzt|Graz'zt]]) encierra a [[Luca_CI|Luca]]. Entorno: flotación en líquido denso (consistencia de mermelada), ingravidez, monolitos de piedra flotantes en oscuridad, voces italianas antiguas (lengua de Dante), posible estasis temporal, geometría imposible. Nombre proviene del lore de D&D (World of Greyhawk: círculo de megalitos con propiedades planares).
+Prisión dimensional extra-planar donde Graz ([[Ludovico]] Sforza/[[Grazzt|Graz'zt]]) encierra a [[Luca_CI|Luca]]. Entorno: flotación en líquido denso (consistencia de mermelada), ingravidez, monolitos de piedra flotantes en oscuridad, voces italianas antiguas (lengua de Dante), posible estasis temporal, geometría imposible. El nombre viene de la tradición de los megalitos planares: un círculo de monolitos con propiedades dimensionales.
 
 ## Notas
 

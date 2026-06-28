@@ -78,3 +78,8 @@ imagen: null
 - **Era imperial primigenia** — establecimiento del culto doméstico
 - **Reformas decadianas sucesivas** — preservación del culto popular pese a la centralización del aparato
 - **Imperio actual (ciclo presente)** — culto activo en el espacio doméstico cotidiano
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦ ⟳
+> *Deidad menor del panteón imperial Archonteo, Bastet ocupa el polo doméstico junto a [[Mitra]] (el juramento), [[Thoth]] (el archivo) y [[Sekhmet]] (la guerra solar): dioses con jurisdicción repartida, cada uno guardián de una operación del cosmos. Que la doctrina del [[Decadiano]] los registre como aparato —el Imperio cae si Mitra o Bastet colapsa— delata la casa de la apoteosis: panteón atrapable, dioses que son figuras heredadas y catalogadas, no presencias sin causa.* — glosa de Arkos el archivero del Plata.
+<!-- /CICLO -->

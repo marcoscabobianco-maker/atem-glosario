@@ -55,7 +55,7 @@ Es entonces cuando el sueño le ofrece un trato. En la esfera onírica que se ab
 
 ## La vuelta beatífica
 
-De ese descenso Irene no regresa rota, como tantos, sino transfigurada. Vuelve **serena, beatífica**, despojada del escepticismo metódico con que había empezado, y habla ahora "con conocimiento", como quien ya vio lo que había que ver y volvió en paz. La crónica de aquellos días la recuerda con un aire casi luminoso, de aparición antes que de sobreviviente —la investigadora que bajó a cerrar un capítulo y volvió convertida en alguien que sabe—. Su arco queda abierto: lo que hará con ese conocimiento, y a quién sirve de verdad la mujer que volvió del norte, pende todavía sobre la campaña.
+De ese descenso Irene no regresa rota, como tantos, sino transfigurada. Vuelve **serena, beatífica**, despojada del escepticismo metódico con que había empezado, y habla ahora "con conocimiento", como quien ya vio lo que había que ver y volvió en paz. La crónica de aquellos días la recuerda con un aire casi luminoso, de aparición antes que de sobreviviente —la investigadora que bajó a cerrar un capítulo y volvió convertida en alguien que sabe—. Su arco queda abierto: lo que hará con ese conocimiento, y a quién sirve de verdad la mujer que volvió del norte, pende todavía sobre la gesta.
 
 ---
 
@@ -70,4 +70,4 @@ De ese descenso Irene no regresa rota, como tantos, sino transfigurada. Vuelve *
 
 ## Notas
 
-La crónica registra a esta investigadora primero solo como **Irene** y, ya entrado el descenso, con su nombre completo de **Irene Kowalski**; ambas grafías nombran a la misma polaca. El **Dr. Harrington** de Galveston, **Majestic** y la pista de **Nevada** no tienen entrada propia en el archivo: pertenecen al sustrato de conspiración del norte que esta sub-campaña hereda del Mythos, y aquí se nombran solo en cuanto tocan el arco de Irene.
+La crónica registra a esta investigadora primero solo como **Irene** y, ya entrado el descenso, con su nombre completo de **Irene Kowalski**; ambas grafías nombran a la misma polaca. El **Dr. Harrington** de Galveston, **Majestic** y la pista de **Nevada** no tienen entrada propia en el archivo: pertenecen al sustrato de conspiración del norte que esta gesta hereda del Mythos, y aquí se nombran solo en cuanto tocan el arco de Irene.

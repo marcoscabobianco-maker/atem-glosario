@@ -42,7 +42,7 @@ de la gesta de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]], 1715-1784 [[A
 
 ## Notas
 
-Las memorias de [[Lotario]] detallan que Oratiol es [[Lotario]] renacido 200 años antes del inicio de la campaña original, en [[Antiterra_Demonia|Antiterra]]. Sin memoria, se asocia con nuevos compañeros en Praga. Recupera paulatinamente poderes divinos canalizando magia como la princesa [[Myeongwol]]. Robó divinidad a [[Barbatos]] tras derrotarlo en el [[Infierno]].
+Las memorias de [[Lotario]] detallan que Oratiol es [[Lotario]] renacido 200 años antes del inicio de la gesta original, en [[Antiterra_Demonia|Antiterra]]. Sin memoria, se asocia con nuevos compañeros en Praga. Recupera paulatinamente poderes divinos canalizando magia como la princesa [[Myeongwol]]. Robó divinidad a [[Barbatos]] tras derrotarlo en el [[Infierno]].
 
 La naturaleza exacta del "pacto" que Oratiol acepta como
 precio de su participación es una de las preguntas abiertas de más
@@ -50,3 +50,8 @@ peso narrativo para esta rama del archivo. Ver cruce con **[[Lotario]]**
 (anagrama) en [[Los_Profundos|Los Profundos]] / [[Los_Reguladores|Los Reguladores]].
 
 *Cross-ref Gary del Mundo Nuevo (1987):* en el Mundo Nuevo 9: la plataforma de Aries es referida como "templo del Ouroboros" — posible conexión etimológica Oratiol/Ouroboros (ambos contienen la idea de ciclo). Especulativo pero consistente con el patrón anagramático.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒ ※ ⛓
+> *La voz que narra en primera persona casi todo *Sucesos de [[Antiterra_Demonia|Antiterra]]* es un personaje del mundo que narra: Oratiol, miembro y cronista de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]. Su nombre es la cosa —«Oratiol» recombina las letras de [[Lotario]], de quien es renacido doscientos años antes, la misma alma reordenada—, y el archivo se vuelve autobiografía diegética de la banda nombrada que él mismo integra y relata.* — glosa del archivero del Plata.
+<!-- /CICLO -->

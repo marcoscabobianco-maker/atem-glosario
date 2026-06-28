@@ -26,11 +26,11 @@ tags:
 
 ## Presentación
 
-**Strahd von Zarovich** es el **darklord canónico de Barovia** —el dominio Ravenloft original (módulo *I6: Ravenloft*, Tracy & Laura Hickman, 1983; ** 5e). En el setting del ciclo, lo invoca como **referencia estética y estructural** para la construcción del darklord **[[Caladan]]** sobre el dominio **[[Valakhan_de_la_Bruma]]**.
+**Strahd von Zarovich** es el **darklord arquetípico de Barovia**, el dominio de niebla del que toda la tradición de los Realms of Terror desciende. En el ciclo el archivo lo invoca como **referencia estética y estructural** para la construcción del darklord **[[Caladan]]** sobre el dominio **[[Valakhan_de_la_Bruma]]**.
 
 ### en el ciclo: "Strahd" (variante de pronunciación)
 
- lo nombra como **"Strahd"** en archivos (cf. el regreso tras el Hiato: *"Estrada estaba corrupta. Mucha gente de Estrada empezaron a estudiar el mismo álbum"*). La **"religión de Baret"** mencionada en el regreso tras el Hiato puede ser **referencia oblicua a Barovia / Strahd**.
+El cronista lo nombra como **"Strahd"** (cf. el regreso tras el Hiato: *"Estrada estaba corrupta. Mucha gente de Estrada empezaron a estudiar el mismo álbum"*). La **"religión de Baret"** mencionada en el regreso tras el Hiato puede ser **referencia oblicua a Barovia / Strahd**.
 
 ### Paralelos con Caladan
 
@@ -49,12 +49,12 @@ En **el regreso tras el Hiato [[Ardis_Vala]]**, los [[Buscadores_de_Ardis_Vala|B
 
 ### Función como referencia (sin presencia directa)
 
-**Strahd canónico no aparece en el ciclo**. lo invoca como:
+**Strahd no aparece en persona en el ciclo**. El archivo lo invoca como:
 
 1. **Modelo estético** del darklord trágico
-2. **Anclaje cosmológico** al canon Ravenloft (caja negra / Domains of Dread)
+2. **Anclaje cosmológico** a la tradición de los dominios del terror
 3. **Comparación narrativa** —los compañeros reconocen el patrón Strahd-Caladan
-4. **Tropos del darklord vampírico** —misty borders, amor perdido, maldición de dominio
+4. **Tropos del darklord vampírico** —fronteras de niebla, amor perdido, maldición de dominio
 
 ## Vínculos
 
@@ -64,9 +64,6 @@ En **el regreso tras el Hiato [[Ardis_Vala]]**, los [[Buscadores_de_Ardis_Vala|B
 - [[Papa_Alejandro_Sixto]] — autoridad eclesial en el trono de rubí
 - [[Bellaca|Lali]] / [[Bellaca]] — paralelo Tatyana
 - [[Ravenloft_Dominio_Ardis_Vala]] — redirect a Valakhan
-- **Module I6: Ravenloft** (Hickman, 1e, 1983) — fuente original
--  (5e, 2016) — reimpresión moderna
-- **Domains of Dread** (1997) — sistematización canónica
 - [[Arden_Vul|Ardis Vala]]
 
 ## Apariciones

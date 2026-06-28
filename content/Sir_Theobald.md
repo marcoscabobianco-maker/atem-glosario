@@ -25,7 +25,7 @@ imagen: null
 
 > *"El capitán que no habla es el capitán que sabe. El que habla mucho aún no ha visto lo bastante. Theobald había visto lo bastante."* — refrán común entre los soldados de la marca occidental, conservado en pliego rural.
 
-La lámina —*si la cancillería imperial hubiera autorizado retrato del capitán*— **no existe**. ha respondido que los capitanes de guardia baronial **rara vez reciben iconografía individual**: *son figuras de cuerpo, no de imagen*. El cronista decadiano respeta la convención.
+La lámina —*si la cancillería imperial hubiera autorizado retrato del capitán*— **no existe**. La convención dicta que los capitanes de guardia baronial **rara vez reciben iconografía individual**: *son figuras de cuerpo, no de imagen*. El cronista decadiano respeta la convención.
 
 ---
 
@@ -41,9 +41,9 @@ El archivo decadiano lo registra con fórmula breve: ***"Capitán de la guardia:
 
 ## El servicio en las marchas occidentales
 
-Antes de [[Ritornello]], Theobald **operó dos décadas en las marchas occidentales del Imperio** —*frontera con los reinos bárbaros del lejano poniente*—. **Participó en al menos tres campañas mayores**: la **defensa del Paso de Vexin** (~2965 AEP), *donde una incursión bárbara mayor fue rechazada con pérdidas importantes en ambos lados*; la **expedición a las cordilleras de Lurnia** (~2970 AEP), *operación punitiva contra clanes saqueadores*; y la **patrulla larga de Veris** (~2974-2977 AEP), *operación de presencia continua durante tres años en territorio frontera*.
+Antes de [[Ritornello]], Theobald **operó dos décadas en las marchas occidentales del Imperio** —*frontera con los reinos bárbaros del lejano poniente*—. **Participó en al menos tres gestas mayores**: la **defensa del Paso de Vexin** (~2965 AEP), *donde una incursión bárbara mayor fue rechazada con pérdidas importantes en ambos lados*; la **expedición a las cordilleras de Lurnia** (~2970 AEP), *operación punitiva contra clanes saqueadores*; y la **patrulla larga de Veris** (~2974-2977 AEP), *operación de presencia continua durante tres años en territorio frontera*.
 
-*De las tres campañas, la patrulla larga de Veris* **dejó huella visible**: Theobald regresó con **cicatriz horizontal sobre el ojo izquierdo** —*marca que algunos colegas asociaban a herida de hacha, otros a corte ritual de tregua con un caudillo bárbaro*— y con **renuencia confirmada al lenguaje superfluo**. *El servicio frontero le había enseñado* **que las palabras gastan oxígeno que en marcha larga vale más que el oro**.
+*De las tres gestas, la patrulla larga de Veris* **dejó huella visible**: Theobald regresó con **cicatriz horizontal sobre el ojo izquierdo** —*marca que algunos colegas asociaban a herida de hacha, otros a corte ritual de tregua con un caudillo bárbaro*— y con **renuencia confirmada al lenguaje superfluo**. *El servicio frontero le había enseñado* **que las palabras gastan oxígeno que en marcha larga vale más que el oro**.
 
 ---
 
@@ -109,14 +109,14 @@ Bajo el mando de Theobald, la **Guardia de [[Ritornello]]** operó como **cuerpo
 - [[El_Huevo_de_Ritornelo]] — instrumento de su muerte
 - [[Hiato_15_Años_Ardis_Vala]] — silencio en el que su memoria se conserva
 - **Marchas occidentales del Imperio** — frontera de servicio previa
-- **Paso de Vexin / Cordilleras de Lurnia / Patrulla larga de Veris** — campañas anteriores
+- **Paso de Vexin / Cordilleras de Lurnia / Patrulla larga de Veris** — gestas anteriores
 - **Diócesis de Narsileon** — origen institucional de su asignación
 - [[Iglesia_Imperial]] — [[Iglesia_Imperial|Ortodoxia Decadiana]] bajo cuyo aparato sirvió
 - [[Drusus_IX_El_Palido|Basileus Drusus IX]] — autoridad imperial superior remota
 
 ## Apariciones
 
-- **Servicio en las marchas occidentales (~2960-2982 AEP)** — campañas y patrullas que formaron su temperamento
+- **Servicio en las marchas occidentales (~2960-2982 AEP)** — gestas y patrullas que formaron su temperamento
 - **2982 AEP — Asignación a Ritornello** — recibido por el barón con cordialidad seca; toma del mando operativo de la guardia
 - **~2982-Hiato — Capitanía operativa** — disciplina militar profesional, patrullas regulares, rechazo de sobornos clandestinos
 - **Primer año del Hiato — Caída de Ritornello** — muerte en la torre del oeste del castillo gris; cuerpo no recuperado

@@ -51,3 +51,8 @@ imagen: Imagenes_Tier1/Cancerbero_CDI.png
 
 - **Tiempo infernal continuo** — vigilancia perpetua del borde del Tercer Círculo
 - **Descenso el Descenso** — visto por el grupo en su tránsito por el Círculo de la Gula
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⟳
+> *El guardián de las tres bocas en el borde del [[Estigia_pantano|Estigia]], dentro del [[Tercer_Circulo_Gula|Tercer Círculo]] del [[Infierno]] que el ciclo del Descenso recorre como capas numeradas hacia abajo. Custodia por nombramiento antiguo: no muerde, le basta estar y ladrar para que el cieno se vuelva instrumento penal y arrastre de vuelta al goloso que casi alcanza la otra orilla —como pasó con [[Ciacco_Ciacco|Ciacco]]. El que ladra es el que guarda; el oficio precede al perro y le sobrevivirá.* — glosa del Decadiano.
+<!-- /CICLO -->

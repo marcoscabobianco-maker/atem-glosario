@@ -39,4 +39,4 @@ En la trama de los [[Florentinos_Heroes_Invisibles|Florentinos]], los githyanki 
 
 - El [[Plano_Astral|vacío plateado]] — su dominio; las naves vivas, la corte de Vlaakith
 - FLORENZEN — el pacto de [[Alberich]]; el comandante "el Negro"; la fortaleza de la lanza mental
-- El reskin histórico — confundidos con las caballerías mongolas del Ilkanato
+- El ropaje histórico — confundidos con las caballerías mongolas del Ilkanato

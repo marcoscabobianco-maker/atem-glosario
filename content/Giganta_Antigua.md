@@ -118,3 +118,8 @@ imagen: null
 - **Aplastamiento del Papa Borg** — operación cumplida; "[[Papa_Borg_de_Caldero|Papa Don't Lich]]"
 - **Desvanecimiento en vapores volcánicos** — regreso al estado cosmológico primigenio; estela de ceniza dorada
 - **1824 AE — ciclo presente** — ausente del mundo de los mortales; convocatoria abierta anticipable
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Deidad de un mundo partido en dos polos: la Giganta es agente del polo luminoso primigenio de [[Vala_Cristalis]], y emerge sólo cuando el polo negativo amenaza con romper el equilibrio. Por eso aplastó al [[Papa_Borg_de_Caldero|Papa Borg]] —que operaba para el polo oscuro— con la [[Espada_de_Juicio]], y por eso se desvanece apenas restaura el orden. No vence al enemigo: corrige la balanza de los dos hemisferios y vuelve a su lado.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

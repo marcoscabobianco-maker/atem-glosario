@@ -127,3 +127,8 @@ imagen: null
 - **Diciembre 1824 AE** — Gacetilla finalizada
 - **Período posterior** — copias dispersas en Ciudad Estrella, archivos del Plata, aparato decadiano, archivos privados [[Casa_Azul_de_Vala|Casa Azul]]
 - **1824 AE — ciclo presente** — fuente primaria activa del archivo cosmológico
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒ ⛓
+> *El compilado con que [[Mascor_Blancarba]] —bardo itinerante de [[Ciudad_Estrella]], voz que glosa el mundo desde dentro del mundo— fija el ciclo presente de [[Caldero]]: la crónica de [[La_Jabalina]] (el [[Bazar_de_la_Vida]], la [[Senda_de_Drakthar]], el brazo perdido de [[Teo_Paladin_Sin_Brazo|Teo]]), las revistas sensacionalistas, los [[Mitos_Fundacionales_de_Caldero|mitos fundacionales]]. Sin esta voz interna la banda no tendría retrato escrito, y el archivo que [[Arkos]] glosa después no tendría de qué triangular.* — glosa de Arkos, el archivero del Plata.
+<!-- /CICLO -->

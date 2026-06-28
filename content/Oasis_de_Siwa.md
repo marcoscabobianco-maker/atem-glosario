@@ -16,7 +16,7 @@ aliases:
 
 ## Presentación
 
-Oasis sagrado en Egipto donde el grupo se refugia y recupera tras la derrota en [[Alejandria|Alejandría]] y la batalla de Kosovo. Contiene un oráculo denominado **[[Al-Ziwa]]** (trascripto erróneamente como "Alcigua" por Whisper en las transcripciones). [[Escenario]] de la invocación de [[Baraquiel]] y la negociación con el [[Jinete_de_la_Guerra|Jinete de la Guerra]]. Referencia histórica: el Oasis de Siwa fue sede del [[Oraculo_de_Amon_Siwa|Oráculo de Amón]], consultado por Alejandro Magno.
+Oasis sagrado en Egipto donde el grupo se refugia y recupera tras la derrota en [[Alejandria|Alejandría]] y la batalla de Kosovo. Contiene un oráculo denominado **[[Al-Ziwa]]** (trascripto erróneamente como "Alcigua" por Whisper en las transcripciones). Escenario de la invocación de [[Baraquiel]] y la negociación con el [[Jinete_de_la_Guerra|Jinete de la Guerra]]. Referencia histórica: el Oasis de Siwa fue sede del [[Oraculo_de_Amon_Siwa|Oráculo de Amón]], consultado por Alejandro Magno.
 
 ## Apariciones notables
 

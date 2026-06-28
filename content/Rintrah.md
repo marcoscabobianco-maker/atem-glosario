@@ -22,7 +22,7 @@ aliases:
 
 El extrañísimo grupo de aventureros temido por casi todo el
 Multiuniverso. Sin rumbo ni control, sus integrantes (entre 5 y 8 casi
-siempre) poseen alineamientos totalmente opuestos entre sí. Su incapacidad
+siempre) son de índoles morales totalmente opuestas entre sí. Su incapacidad
 para unirse les ha formado personalidades incompatibles; pero todos
 comparten el gusto por la violencia y la búsqueda del poder más prohibido.
 El grupo cambió de integrantes en reiteradas ocasiones y sin embargo
@@ -45,4 +45,9 @@ fue asesinado reiteradamente por los mismos que nominó, quedando su fantasma at
 de **[[Wako]]** como testigo espectral de las transformaciones del grupo. Su última declaración
 sobre la evolución nominal: "¡Qué sutiles!" — reflexión sobre la metamorfosis identitaria.
 
-En el Google Site megacamp, "Rintrah" también funciona como el nombre de un GRUPO de aventureros efectivamente constituido como grupo de juego, con miembros: **[[Kal-el]]**, **[[Wako]]**, **[[Demian]]**, **[[Bulfie]]**, **[[More]]**, **Jerónimo**, **Telurio**, **[[Egas]]**, **[[Elhenor]]**. Este grupo representa la "banda aventurera" canónica de Rintrah en su forma constitutiva.
+En el registro del archivo, "Rintrah" nombra también una **banda aventurera** efectivamente constituida, con miembros: **[[Kal-el]]**, **[[Wako]]**, **[[Demian]]**, **[[Bulfie]]**, **[[More]]**, **Jerónimo**, **Telurio**, **[[Egas]]**, **[[Elhenor]]**. Este grupo representa la forma constitutiva, canónica, de Rintrah como compañía.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *La banda como sujeto que sobrevive a sus propios miembros: [[Egas]], [[More]], [[Demian]], [[Wako]], [[Bulfie]], [[Elhenor]] van y vienen, pero Rintrah conserva intacto su espíritu de destrucción —tanto que algunos lo leen como maldición autónoma enviada contra el mundo y los dioses—. La sigla colectiva precede a quien la porta: [[Mabron|Mabrón]], que la bautizó con su epónimo, fue asesinado por los mismos que nombró y quedó atado como fantasma al anillo de Wako, testigo de las metamorfosis de la compañía.* — glosa del archivero del Plata.
+<!-- /CICLO -->

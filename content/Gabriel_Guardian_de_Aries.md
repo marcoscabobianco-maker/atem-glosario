@@ -15,8 +15,10 @@ aliases:
 
 ## Presentación
 
-**Ref.:** el archivo (tras vencer dragones aries).
-**Nota:** Gabriel ya existía como figura en el cosmos compartido troncal (MC1Rol): aparece en el índice del GLOSARIO como "Gabriel arcángel" y en la nota de [[Baraquiel]] se dice que "Gabriel también está presente en la campaña, con una vibra más Mohamadana y prohibió el viaje temporal." La aparición en Profundos es continuidad, no invención: Gabriel tiene presencia trans-campañas como entidad angélica/guardiana que opera en distintos contextos (MC troncal, [[Antiterra_Demonia|Antiterra]]). Actualizar entrada stub del GLOSARIO con ambos contextos.
+Guardián de la primera [[Aldebaran_Estrella_Plataforma|Plataforma]] que el grupo perturbó en los Profundos, la correspondiente al signo zodiacal de Aries. Sacerdote de una "concepción maligna", adorador de la [[Reina_de_las_Nieves|Reina de las Nieves]] —su rival acérrima, en el polo norte—. Víctima de su propia naturaleza: no logra controlar la ira y la violencia, atributos de Aries. No debe ser matado: quien mata a un Guardián se convierte en Guardián, o es destruido.
+
+Gabriel ya tenía presencia en el cosmos compartido troncal como entidad angélica: en otra saga se lo recuerda con "una vibra más mahometana", y prohibió el viaje temporal. Su aparición entre los Profundos es continuidad, no invención: el mismo arcángel-guardián operando en distintos contextos del cosmos.
+
 *Conexiones:* **[[Reina_de_las_Nieves|Reina de las Nieves]]**, **[[Plataforma_Tauro|Plataforma de Tauro]]** (futura guardianía de [[Erzebeth]]), **[[Cakravartin]]**, **[[Baraquiel]]** (entidad angélica relacionada).
 
 ## Ver también
@@ -26,10 +28,7 @@ aliases:
 - [[Cakravartin|Cakravartin]]
 - [[Baraquiel|Baraquiel]]
 
-### el plano operativo
-
-Guardián de la primera [[Aldebaran_Estrella_Plataforma|Plataforma]] perturbada por el grupo en los Profundos, correspondiente al signo zodiacal de Aries. Sacerdote de una "concepción maligna," adorador de la Reina de las Nieves (su rival acérrima, ubicada en el polo norte). Víctima de su propia naturaleza: no puede controlar la ira y la violencia (atributos de Aries). No debe ser matado: quien mata a un Guardián se convierte en Guardián o es destruido.
-
-### Notas
-
-**Ref.:** el archivo (tras vencer dragones aries).
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Guardián de la primera plataforma zodiacal —Aries— preso de su propio signo: no logra dominar la ira que el signo le impone, y no debe matársele, porque quien mata a un guardián se vuelve guardián o es destruido. La misma ley rotativa que lo encadena promete a [[Erzebeth]] la guardianía de la vecina [[Plataforma_Tauro]]. Atado a su casa como su rival la [[Reina_de_las_Nieves|Reina de las Nieves]] lo está a la suya, encarna lo que A llamó el oficio que aprisiona (AA-R.4) y B la rueda de guardianes (AKB-I.1).* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

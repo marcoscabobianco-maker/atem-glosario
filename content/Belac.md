@@ -16,8 +16,6 @@ tags:
  - proscrito
  - novatos-ravenloft
  - ardis-vala
- - sunless-citadel
- - cordell
  - cross-campaña
  - custodio-arbol-gulthias
  - bellaca
@@ -40,8 +38,8 @@ tags:
 - Cuero endurecido y escudo de madera por toda armadura
 - **Custodio terrenal del [[Arbol_Gulthias|Árbol Gulthias]]** —vampiro vegetal corrupto—
 - **Convertido al culto del árbol** —dejó la naturaleza pura por la corrupción dirigida del árbol
-- **Comanda Twig/Needle/Vine Blights** como extensiones-soldados
-- **Ofrece las manzanas del solsticio** (roja curación, blanca veneno) a los habitantes del valle
+- **Comanda retoños espinosos** (de ramita, de aguja, de zarcillo) como extensiones-soldados
+- **Ofrece las manzanas del solsticio** (roja sanadora, blanca venenosa) a los habitantes del valle
 
 ### Posición en la jerarquía del Árbol
 
@@ -50,17 +48,17 @@ tags:
 | **Cosmológico** | [[RAJ-750]] (semilla) → [[Arbol_de_Armas_Principal|Árbol de Armas Principal]] | Origen IA-vegetal |
 | **Regional** | [[Bellaca]] (= [[Bellaca|Lali]] vampireza) | **Reina cósmica del árbol** |
 | **Terrenal** | **Belac** | Custodio druídico humano |
-| **Soldadesca** | Blights (Twig/Needle/Vine) | Extensiones vegetales |
+| **Soldadesca** | Retoños espinosos (ramita/aguja/zarcillo) | Extensiones vegetales |
 
 **Belac sirve a [[Bellaca]]** y al árbol. Su nivel druídico le da acceso a la magia de naturaleza corrompida, pero **no es el poder mayor** del árbol — esa es [[Bellaca]].
 
-### Conexión con el módulo 
+### Conexión con el relato conocido
 
-En el **módulo canónico**, Belac es el druida proscrito que sirve al Árbol Gulthias y custodia el Grove subterráneo. En la **adaptación de **, el rol esencial se mantiene pero **subordinado a Bellaca como reina**.
+En el **relato conocido de la Ciudadela**, Belac es el druida proscrito que sirve al Árbol Gulthias y custodia el soto subterráneo. En la **versión del archivo**, el rol esencial se mantiene pero **subordinado a Bellaca como reina**.
 
 ### Como figura para los Novatos
 
-**Encuentro probable** en jornadas futuras de [[Novatos_Ravenloft|Novatos]] al descender al **Grove (nivel inferior del )**:
+**Encuentro probable** en jornadas futuras de [[Novatos_Ravenloft|Novatos]] al descender al **soto subterráneo**:
 
 - **Negociable**: druida con conocimiento útil sobre el dominio
 - **Combatible**: si los compañeros amenazan al árbol, defenderá con magia druídica
@@ -68,19 +66,18 @@ En el **módulo canónico**, Belac es el druida proscrito que sirve al Árbol Gu
 
 ## Vínculos
 
-- [[Ciudadela_Hundida]] — módulo donde aparece
+- [[Ciudadela_Hundida]] — el lugar donde se lo encuentra
 - [[Arbol_Gulthias]] — árbol que custodia
 - [[Bellaca]] — reina del árbol (su superior)
 - [[Arbol_de_Armas_Principal]] — árbol madre cósmico
 - [[RAJ-750]] — semilla original
-- [[Novatos_Ravenloft]] — campaña activa
+- [[Novatos_Ravenloft]] — gesta activa
 - [[Stejara]] — pueblo cerca del barranco
 - [[Numa_Pompidio]] — paralelo druida-vampiro en [[Ardis_Vala]]
 - [[Valakhan_de_la_Bruma]] — dominio Ravenloft
-- **Bruce R. Cordell** — autor original
 
 ## Apariciones
 
-- **Módulo ** (canon original)
+- **Tradición de la Ciudadela** (relato de base)
 - **[[Novatos_Ravenloft|Novatos]] S?** — encuentro pendiente confirmar
 - **Pendiente**: cómo se conecta con Bellaca operativamente

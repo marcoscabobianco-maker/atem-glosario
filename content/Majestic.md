@@ -57,3 +57,8 @@ Por eso la cofradía del norte y la [[Orden_Esoterica_de_Dagon|Orden Esotérica 
 - [[Orden_Esoterica_de_Dagon]] — el culto bajo las islas, la otra cara del mismo secreto
 - [[Circonio_Piedra_Azul]] — la piedra fuera de toda tabla que la cofradía quiere borrar o usar
 - [[Antonio_Portet]] — el camarada quebrado del grupo atrapado entre las dos manos
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ◑
+> *La conspiración real —MJ-12, los hombres grises, el pueblo de pescadores bombardeado a fines de los años veinte— inscrita verbatim en el cosmos: la Historia administra el horror y desaparece a quien lo toca. A [[Harrington]] lo cooptaron y lo vigilaron en Galveston hasta volver su saber condena; la [[Circonio_Piedra_Azul|piedra azul]] que está fuera de toda tabla no se vence, se guarda bajo llave o se ordeña. Majestic y la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] son las dos manos que aprietan al [[Antonio_Portet|grupo del sur]] desde extremos del mismo continente.* — glosa de Sucesos.
+<!-- /CICLO -->

@@ -19,8 +19,7 @@ La lámina lo fija en la **entrada del subterráneo bajo el Lago Michigan**: **a
 
 ## Presentación
 
-**Ref.:** 1b –164 ("Vamos a buscar a Ray"), 1b –999 ("¿Cómo te llamás? Ray. R-A-Y").
-**Línea trans-campaña:** Grafía canónica confirmada: **Ray** (R-A-Y). El personaje pertenece a la línea operativa que conecta con [[Pontiac_Danny_De_Sirio_TNW|Pontiac]] y [[Kendall_TNW|Kendall]] dentro del archivo el Mundo Nuevo.
+Grafía canónica confirmada: **Ray** (R-A-Y). El personaje pertenece a la línea operativa que conecta con [[Pontiac_Danny_De_Sirio_TNW|Pontiac]] y [[Kendall_TNW|Kendall]] dentro del archivo el Mundo Nuevo.
 
 ## Ver también
 

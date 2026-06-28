@@ -25,4 +25,3 @@ imagen: Imagenes_Tier1/Heredeth.jpg
 
 - Pensamientos
 - Ubicación en la incursión al plano astral
-- [[Relacion_Grupo|Relación Grupo]]

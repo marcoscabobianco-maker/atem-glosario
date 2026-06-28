@@ -30,7 +30,7 @@ imagen: null
 
 En lo alto del faro de Claromecó, donde la luz debería barrer el mar y nada más, reaparecen **cuatro costillas de ballena**. No son un hallazgo casual: son la copia de un monumento conocido, ese arco de huesos de cetáceo con que la **apropiación inglesa** marcó las Malvinas, plantado como sello de una soberanía ajena sobre la turba. Aquí, lejos de las islas, las mismas cuatro piezas vuelven a alzarse sobre la costa bonaerense, como si el pórtico colonial hubiera cruzado el Atlántico para esperar a alguien en la cima de la torre.
 
-Lo que delata que no son adorno son las **cadenas** que las sostienen: idénticas, eslabón por eslabón, a las que cuelgan en la casa donde la cofradía guardaba a sus prisioneros —la **Casa Brockford**, el umbral por el que la campaña entró a lo sobrenatural—. La misma herrería ata a los cautivos abajo y a las costillas arriba. Quien repara en esa coincidencia entiende que el monumento y la casa son obra de la misma mano.
+Lo que delata que no son adorno son las **cadenas** que las sostienen: idénticas, eslabón por eslabón, a las que cuelgan en la casa donde la cofradía guardaba a sus prisioneros —la **Casa Brockford**, el umbral por el que la gesta entró a lo sobrenatural—. La misma herrería ata a los cautivos abajo y a las costillas arriba. Quien repara en esa coincidencia entiende que el monumento y la casa son obra de la misma mano.
 
 ---
 
@@ -44,7 +44,7 @@ Y ahí se cierra la cuenta. El sitio del rito no fue escogido por su altura ni p
 
 ## Notas
 
-El monumento alude a un objeto real de las islas —el arco de huesos de ballena que corona la plaza de la capital malvinense, símbolo de la presencia británica—: la campaña no lo inventa, lo traslada a la cima del [[Faro_de_Claromeco|faro de Claromecó]] y lo vuelve cifra del Mythos, igual que hizo con la gesta histórica del descenso. Las cuatro costillas anudan tres cosas que el cuaderno traía sueltas: el **monumento**, la **Casa Brockford** y el **circonio**. El registro físico de todo esto se guarda en el cuaderno 99.
+El monumento alude a un objeto real de las islas —el arco de huesos de ballena que corona la plaza de la capital malvinense, símbolo de la presencia británica—: la gesta no lo inventa, lo traslada a la cima del [[Faro_de_Claromeco|faro de Claromecó]] y lo vuelve cifra del Mythos, igual que hizo con la gesta histórica del descenso. Las cuatro costillas anudan tres cosas que el cuaderno traía sueltas: el **monumento**, la **Casa Brockford** y el **circonio**. El registro físico de todo esto se guarda en el cuaderno 99.
 
 ---
 

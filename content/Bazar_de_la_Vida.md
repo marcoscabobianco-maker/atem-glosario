@@ -69,3 +69,8 @@ imagen: null
 - **Período previo al ciclo presente** — red de trata sostenida; Kazmojen como sub-señor
 - **Primera misión de La Jabalina** — penetración, combate final, rescate de niños
 - **Post-derrota** — bazar interrumpido pero red mayor activa
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *La trata se organiza por estratos verticales del mundo: captura en la superficie por [[Keygan_Ghelve|Keygan Ghelve]] y la [[Compania_de_la_Risa|Compañía de la Risa]], venta intermedia en este bazar del subsuelo bajo [[Caldero]] —galería de la [[Fortaleza_de_Malaquita]], regida por [[Kazmojen]]—, y ritual final en las torres altas, donde [[Lord_Valanthru|Valanthru]] y [[Titti_Frame]] marcan a los niños para las marcas zodiacales [[Cageewrights]]. [[La_Jabalina]] cortó el eslabón medio y sacó a [[Jaromir]] y los huérfanos de la Calle de la Linterna; los pisos de arriba y abajo siguen activos.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

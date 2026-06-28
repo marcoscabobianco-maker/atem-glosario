@@ -37,3 +37,8 @@ Dimitrijević representa "puente histórico" entre realidad (conspiración serbi
 ## Ver también
 
 - [[Transformacion_en_Paris_Ucronica|Transformación en París Ucrónica]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ⏳
+> *Coronel serbio histórico (1856-1917), fundador de la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] e instigador real del atentado de [[Sarajevo_1914_Salto_Temporal|Sarajevo]] contra [[Archiduque_Francisco_Fernando_de_Austria|Franz Ferdinand]]: la Historia verificable entra al archivo verbatim, con su magnicidio y su fecha. En [[Paris_Ucronica|París Ucrónica]] esa fecha se vuelve mercancía de viaje — el atentado de 1914 es un destino al que se baja por el [[Sarajevo_1914_Salto_Temporal|salto temporal]], y su avatar [[Apis]] termina cautivo y ejecutado por los [[Time_Bandits]], los que comercian con épocas. El esqueleto histórico real se contamina de cronomancia: el magnicidio queda inscripto y, a la vez, se vuelve parada de un itinerario por el tiempo.* — glosa de Sucesos.
+<!-- /CICLO -->

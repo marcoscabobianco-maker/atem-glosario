@@ -89,9 +89,14 @@ Contiene la **segunda IA rudishva** (junto a [[RAJ-750]] en los Troll Lifts). Ac
 - [[Kaliyani]] / [[Tsilliv]] — Kaliyani Pits
 - [[Goblins_Weskenim]] — Goblin Warrens
 - [[Beacon_Faro_Brillante]] — Beacon Chamber + AKL-600
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **Hold de la Cicatriz del Sol** — toma del Hold en la fase media del ciclo primero (decapitación Malakita)
 - Otros sub-niveles — tránsito ocasional
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Quince capas que cuelgan de los diez niveles del [[Mega_Dungeon_Arden_Vul]] y los estratifican hacia abajo: el Drowned Canyon que cruza acuático casi todo el dungeon, las Lost Chambers of Arden que guardan la nave rudishva, las [[Kaliyani|Kaliyani Pits]] de [[Tsilliv]], el Hold tomado a [[Master_Malakita]], la Chamber of Beacon donde [[Akala|AKL-600]] custodia el código de la bóveda. El descenso no es uniforme: cada sub-nivel es un horizonte distinto, con su facción y su era sedimentadas. Bajar es leer la columna.* — glosa del archivero del Plata.
+<!-- /CICLO -->

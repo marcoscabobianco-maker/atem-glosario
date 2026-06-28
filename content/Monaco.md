@@ -71,3 +71,8 @@ Sigue el arco general de [[Las_Tullidas]]:
 - Episodio Cronos / [[Taberna_de_la_Serpiente_Mundo]] — transformación clave
 - Episodio Papi Balor — devoración de sus hijos
 - Arco del [[Amuleto_de_los_Planos]] / Supremos — agente recabadora
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Aristócrata de látigo-cola, una de las cuatro de [[Las_Tullidas]] —la banda de señoritas mutiladas por Papi [[Balor]]—, par estructural de [[Chan]] y unida a [[Liddha]] en el eje maternal-vengador que es el corazón del grupo. Transformó a [[Cronos]] en gato para que la banda tomara la [[Taberna_de_la_Serpiente_Mundo]] como base. El grupo, no el individuo, es el sujeto: lo que A llamó la banda con sigla (AA-G.1) y B el grupo que deviene sujeto (AKB-J.1).* — glosa de Amitlai.
+<!-- /CICLO -->

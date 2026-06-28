@@ -24,11 +24,11 @@ tags:
 ---
 > *compañero María. Ranger de [[Valdemora]]. Esposo viudo de Lali (= [[Bellaca]]). Vuelto al valle con los [[Buscadores_de_Ardis_Vala|Buscadores]] en el regreso tras el Hiato.*
 
-> *Ranger / Montaraz de [[Valdemora]]. Hijo de granjeros. Capa de camuflaje verde-marrón, arco largo de tejo. "Trancos del Bri" del setting. Esposa Lali perdida.*
+> *Ranger / Montaraz de [[Valdemora]]. Hijo de granjeros. Capa de camuflaje verde-marrón, arco largo de tejo. "Trancos del Bri" del mundo. Esposa Lali perdida.*
 
 ## Presentación
 
-**Decio Balmora** es **compañero introducido en jornada** (20/05/2026) de la campaña **[[Arden_Vul|Ardis Vala]]**. **Ranger / Montaraz** —no es héroe de baladas, es **hombre de tierra**, **hijo de granjeros de [[Valdemora]]**, cuya vida *"se definía por el tensar de la cuerda y el silencio de la inmesura"*—. Equipamiento: **arco largo de tejo**, **capa de camuflaje verde-marrón**. Estética declarada: **"el Aragorn / Trancos del Bri"** —el guardián montaraz que conoce el valle por años—.
+**Decio Balmora** es **compañero introducido en jornada** (20/05/2026) de la gesta **[[Arden_Vul|Ardis Vala]]**. **Ranger / Montaraz** —no es héroe de baladas, es **hombre de tierra**, **hijo de granjeros de [[Valdemora]]**, cuya vida *"se definía por el tensar de la cuerda y el silencio de la inmesura"*—. Equipamiento: **arco largo de tejo**, **capa de camuflaje verde-marrón**. Estética declarada: **"el Aragorn / Trancos del Bri"** —el guardián montaraz que conoce el valle por años—.
 
 ### El Barón Arbúz (designación)
 
@@ -48,7 +48,7 @@ Llega al grupo en el regreso tras el Hiato buscando a los **pibes de [[Mirela_Va
 
 ## Vínculos
 
-- [[Arden_Vul|Ardis Vala]] — campaña
+- [[Arden_Vul|Ardis Vala]] — gesta
 - [[Valdemora]] — aldea de origen, 400 habitantes
 - [[Ciudadela_Sin_Sol]] — su castillo caído
 - [[Estellara]] — posada de aliados

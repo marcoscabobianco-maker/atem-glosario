@@ -80,13 +80,18 @@ tags:
 - [[Valdemora]], [[Estellara]], [[Stejara]], [[Ciudadela_Sin_Sol]], [[Ritornello]] — lugares
 - [[Decio_Balmora]], [[Mirela_Valka]], [[Carad_de_Teyber]] — habitantes notables
 - [[Papa_Alejandro_Sixto]], [[Caladan]] — autoridades cósmicas
-- [[Ciudadela_Hundida]] — módulo dungeon (cross-[[Novatos_Ravenloft|Novatos]])
-- [[Novatos_Ravenloft]] — campaña paralela cruzada
+- [[Ciudadela_Hundida]] — laberinto subterráneo (cross-[[Novatos_Ravenloft|Novatos]])
+- [[Novatos_Ravenloft]] — gesta paralela cruzada
 - [[Hiato_15_Años_Ardis_Vala]] — período de renombre
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **Pre-hiato (Imperial)**: Ardisvala
 - **Post-caída imperial**: Balacán
 - **Post-hiato + Ravenloft (el regreso tras el Hiato+)**: Barrado Balacán
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Un solo suelo leído en tres capas de era: [[Ardis_Vala|Ardisvala]] imperial, [[Barrado_Balacan|Balacán]] fronterizo, Barrado Balacán bajo la bruma de [[Valakhan_de_la_Bruma]] —y debajo de todo, el [[Mega_Dungeon_Arden_Vul|mega-dungeon]] que estratifica el tiempo en niveles. El nombre mismo es un descenso: cada renombre tapa el anterior como un piso tapa al de abajo. Lo que A registró como capas toponímicas (AA-D.1), en C es la misma fosa vista desde distintas alturas.* — glosa del archivero del Plata.
+<!-- /CICLO -->

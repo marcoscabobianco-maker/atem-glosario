@@ -33,4 +33,4 @@ Lo que parecía hospitalidad isleña —trajes sin costura, un hijo que vuelve a
 
 ## Notas
 
-El Operativo Cóndor es un hecho de dominio público de la historia argentina, conservado tal cual en la diégesis: nombres, fechas y consecuencias son los verdaderos. La campaña no los disfraza; los usa como puerta. Su función es ser la cara visible y verificable de una verdad mucho más honda que solo se revela cuando alguien acepta bajar.
+El Operativo Cóndor es un hecho de dominio público de la historia argentina, conservado tal cual en la diégesis: nombres, fechas y consecuencias son los verdaderos. La gesta no los disfraza; los usa como puerta. Su función es ser la cara visible y verificable de una verdad mucho más honda que solo se revela cuando alguien acepta bajar.

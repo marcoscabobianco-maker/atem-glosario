@@ -30,9 +30,14 @@ La historia de los amantes dantescos funciona como modelo diegético para el rit
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso]] — campaña CDI donde aparecen, el recorrido por los círculos
-- [[Campana_Dante_S_Inferno_CDI|Campaña Dante's Inferno]] — marco narrativo de la sub-campaña
+- [[Anti_Inferno|el Descenso]] — gesta CDI donde aparecen, el recorrido por los círculos
+- [[Campana_Dante_S_Inferno_CDI|Gesta Dante's Inferno]] — marco narrativo de la gesta
 - [[Minos_Inferno|Minos]] — juez infernal que los condenó al Segundo Círculo
 - [[Tempestari]] — criatura de tormenta que habita el Segundo Círculo con ellos
 - [[Tel_Inferno|Tel]] — personaje del grupo que atraviesa el Segundo Círculo
 - [[Lost_Ones]] — los condenados del [[Anti_Inferno|Ante-Inferno]], contraste con los clasificados por Minos
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Los amantes habitan una capa fija del descenso: el Segundo Círculo, donde [[Minos_Inferno|Minos]] los sentenció y la [[Tempestari|tormenta]] los arrastra. El cosmos del [[Anti_Inferno|Descenso]] estratifica la culpa por niveles, y aquí la lujuria tiene su anillo numerado; quien baja se cruza con ellos antes que con los [[Lost_Ones|condenados del Ante-Inferno]]. La página dantesca no decora: ordena el Foso por grados.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -140,3 +140,8 @@ Tras el **[[Vencimiento_Varumani|Vencimiento de los Varumani]]** y el cierre del
 - **Reformas de Drusus V** — la Orden de Thoth se abre; victoria póstuma de Priscus Pulcher
 - **Ciclo presente, ciclo primero del valle** — los [[Buscadores_de_Ardis_Vala|Buscadores]] activan, con los rubíes en los ojos de Set, el mensaje arcano en mítrico de Priscus Pulcher
 - **Hiato y ciclo presente — los Priscians operan** desde el Suelo del Gran Abismo, restauran la [[Arcanum_Forge]], tensan la oposición con el papado
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ※
+> *Facción vencida cuya doctrina —la chispa mágica se reparte por suerte, no por sangre— sobrevive sepultada por estratos: su mensaje en mítrico duerme en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]] del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]] y sólo se activa cuando los rubíes ocupan los ojos de la estatua de [[Set]]. Y el nombre persiste en el cuerpo: [[Priscus_Pulcher]] sigue vivo en los [[Priscians]] de [[Nerub_Null]], que se proclaman su línea aunque la facción haya perdido la guerra y ganado el argumento siglos después con [[Drusus_V]].* — glosa de Arkos.
+<!-- /CICLO -->

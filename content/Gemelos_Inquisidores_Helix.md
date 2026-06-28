@@ -43,7 +43,7 @@ Los dos hermanos **se reconocerían entre sí "hasta a su madre"**, *según el c
 
 Llegaron a Helix portando:
 
-- **Armadura** —cuero de bestias bajo placas, justillo de varias bestias matadas, fuerza 17—
+- **Armadura** —cuero de bestias bajo placas, justillo de varias bestias matadas, de fuerza notable—
 - **Escudo** —uso continuo, defensa frontal—
 - **Hacha de dos caras** —*"un lado hacha y un lado martillo"*, súper filosa y súper contundente, ejecutora—
 - **Caballos de batalla** —para escolta y persecución—
@@ -64,7 +64,7 @@ Cuando los gemelos volvieron a [[Helix]] **al borde del cerco esquelético** —
 
 ## La sincronía y la sentencia diferenciada
 
-El vicario y el clérigo [[Mortan]] **lanzaron Hold Person simultáneamente sobre los tres invasores**. *Los tres fallaron sus tiradas de salvación*. **Los tres quedaron paralizados**.
+El vicario y el clérigo [[Mortan]] **invocaron a la vez la atadura que sujeta a los hombres sobre los tres invasores**. *Ninguno de los tres logró resistirla*. **Los tres quedaron paralizados**.
 
 *El vicario diferenció la sentencia*:
 
@@ -75,7 +75,7 @@ El vicario y el clérigo [[Mortan]] **lanzaron Hold Person simultáneamente sobr
 
 ## Lo que queda abierto
 
-Los gemelos quedaron **encarcelados en el calabozo** al cierre del ciclo presente. *Su redención está en curso*. **El régimen del Abad**, *cuando el Abad regrese*, **podrá ratificar el perdón del vicario o moderarlo**. *Probable que la próxima fase de la mesa los explore como arco redentor*: **escuderos caídos dos veces** —primero por la orden sagrada original, después por el pacto de Quasi— **buscando una tercera vía operativa**.
+Los gemelos quedaron **encarcelados en el calabozo** al cierre del ciclo presente. *Su redención está en curso*. **El régimen del Abad**, *cuando el Abad regrese*, **podrá ratificar el perdón del vicario o moderarlo**. *Probable que el ciclo siguiente los recoja como arco redentor*: **escuderos caídos dos veces** —primero por la orden sagrada original, después por el pacto de Quasi— **buscando una tercera vía operativa**.
 
 [*La doble caída es siempre la más fértil narrativamente. Quien ya cayó por orden y volvió a caer por soborno, si encuentra una tercera tabla, será portador de una redención más espesa que la del que sólo cayó una vez. —Anot. marginal del cronista del Plata.*]
 
@@ -84,7 +84,7 @@ Los gemelos quedaron **encarcelados en el calabozo** al cierre del ciclo present
 ## Vínculos
 
 - [[Vicario_Otar]] — autoridad que los perdonó al calabozo
-- [[Mortan]] — clérigo del Hold Person sincronizado
+- [[Mortan]] — clérigo de la atadura sincronizada que los paralizó
 - [[Silas_del_Umbral]] — brujo a quien escoltaron, ejecutado sobre el altar
 - [[Quasi_demonio_menor]] — demonio que selló el pacto de la fuga
 - [[Iglesia_Consagrada_Helix]] — recinto donde cruzaron el umbral arrodillados
@@ -98,5 +98,5 @@ Los gemelos quedaron **encarcelados en el calabozo** al cierre del ciclo present
 - **Antes de la jornada** — guardias enviados por el Abad para custodiar al grupo encarcelado
 - **La noche del pacto** — el primer gemelo cede a la tentación de Quasi; el segundo lo sigue
 - **La noche de la huida** — escolta de Silas al barro, asistidos por tragoide
-- **La jornada del altar** — arrodillamiento en el umbral, paralización por sincronía Hold Person, perdón al calabozo
+- **La jornada del altar** — arrodillamiento en el umbral, paralización por la atadura sincronizada, perdón al calabozo
 - **Después** — encarcelados en cuarentena, pendientes del retorno del Abad

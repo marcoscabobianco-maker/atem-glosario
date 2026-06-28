@@ -111,3 +111,8 @@ Marcos el Mago no se mata fácilmente. **Su cuerpo viajó.**
 - **275 A.D.A.** — persecución tras la gesta de [[Khalim]]
 - **835 A.D.A.** — cuerpo "Mago Evangelista" trasladado a Venecia
 - **1300 A.D.A.** — pista de Arsaces seguida por los [[Florentinos_Heroes_Invisibles|Florentinos]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ※
+> *Descendió en barco arácnido a la Biblioteca del [[Infierno]] —Séptimo Círculo, o [[Templo_Lugar_de_los_Justos|Templo de los Justos]] del primer nivel, dos puentes sobre la misma fosa— a robar el [[Libro_Azul]] que [[Pablo_de_Alejandria|Paulus]] había escrito; un descenso por estratos del que volvió diez años después por las Columnas de Hércules. Y su identidad no se agota en un nombre: el cadáver reaparece como Mago Evangelista en Venecia y como Arsaces que los [[Florentinos_Heroes_Invisibles|Florentinos]] rastrean en 1300 —misma alma, nombres distintos a través de los siglos—. Lo que A leyó como descenso infernal (AA-D.1) y como persistencia onomástica (AA-N.1), en C es una sola línea que baja al pozo y vuelve con otros nombres.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -56,3 +56,8 @@ Brightwind no se limitó a aparecer. **Azotó el piso con sus cascos**, **genera
 - Labrador (norte helado) — aparición en lugar de Sombra Gris, escena de rescate del campamento National Geographic
 - Onda de cascos contra Argeia — recupera la caja-maletín
 - Portal de teleportación a las cercanías de Baton Rouge — salvación del grupo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El pegaso de Asgard entra al archivo al servicio de una banda nombrada: rescata a [[Los_Reguladores]] en el Labrador cuando [[Benetton]] llama a su corcel y, en respuesta del panteón, llega Brightwind en su lugar. Azota el piso, tumba a Argeia, abre el portal y deposita al grupo cerca de [[Baton_Rouge_Antiterra|Baton Rouge]]. El corcel no es figura suelta: es instrumento del destino colectivo de la cuadrilla.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

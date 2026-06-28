@@ -25,8 +25,8 @@ Existe además el **[[Castillo_de_Frome]]** como lugar propio del cosmos compart
 
 ## Apariciones notables
 
-Cuadernos del período [[Angara_Andgara|Andgara]] (notas de 1993 en adelante).
-Catálogo MC: entrada "Frome" como stub. Catálogo MC: "[[Castillo_de_Frome]]".
+Registrado desde el período [[Angara_Andgara|Andgara]] (notas de 1993 en adelante),
+con su [[Castillo_de_Frome|Castillo de Frome]] como lugar propio.
 
 ## Notas
 

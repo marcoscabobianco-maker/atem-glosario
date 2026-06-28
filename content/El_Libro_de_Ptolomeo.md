@@ -45,3 +45,8 @@ Y del abismo salió, como todas sus caras: estuvo **guardado en la biblioteca de
 - La [[Gesta_de_1300_ADA|gesta de mil trescientos]] — una de las tres piezas-eje, en su cara geográfica
 - La biblioteca del [[Infierno]] — de donde lo robó [[Marcos_el_Mago|Arsaces]]
 - El eco tardío en **Francesco Berlinghieri** — la geografía de Ptolomeo, de nuevo en terza rima
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El libro que invierte a Dante: donde la *Comedia* baja por el Inferno, esta cara del [[Libro_Azul]] recorre la Tierra entera por su superficie, río por río. Pero su origen es subterráneo igual — estuvo guardado en la biblioteca del [[Infierno]], de donde lo robó Arsaces, y su rastro se enreda con el saqueo de Alejandría por [[Aureliano]]. Lo que [[Pablo_de_Alejandria|Pablo]] selló como Isagógica astrológica, los [[Florentinos_Heroes_Invisibles|Florentinos]] lo abrieron como geografía: el mismo descenso, leído por su rostro de mapas.* — glosa del Decadiano.
+<!-- /CICLO -->

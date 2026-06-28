@@ -32,4 +32,4 @@ Cumplido el trámite, Lanari no se queda con el paciente: informa el cuadro y de
 
 - **Hospital Borda** — el manicomio donde Lanari hace guardia y recibe a los internados de 1966
 - **Buscaglia** — el colega a quien deriva el caso tras emitir el diagnóstico
-- [[Antonio_Portet]] — entre los que la campaña interna en el Borda tras el descenso bajo las islas
+- [[Antonio_Portet]] — entre los que la gesta interna en el Borda tras el descenso bajo las islas

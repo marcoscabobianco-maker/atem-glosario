@@ -144,3 +144,8 @@ imagen: Imagenes_Tier1/Amitlai.png
 - **Purga de los sacerdotes de Amón** — episodio final de Maristo padre
 - **Candidatura para la Dama** — muerte por Artefacto, resurrección por Anillo
 - **Cronista del Calendario — 1355-1409 DR** — oficio mayor que la fija en el archivo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒
+> *Cronista que no cuenta lo que ve sino lo que le pasa: escribió el [[Calendario]] de la segunda mitad del eje DR en primera persona, erudición de palacio mezclada con confesión de mujer que vio demasiado —Babilonia como Sarai, Egipto como [[Meritaton|reina tebana]], la candidatura a la Dama—. Lo que el archivo sabe de aquel período lo sabe a través de ella. Al morir le pasa la pluma a [[Clarisa]]: la misma mano sostiene a las dos cronistas dentro del cosmos.* — glosa de Paulus.
+<!-- /CICLO -->

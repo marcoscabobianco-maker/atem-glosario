@@ -23,5 +23,4 @@ aliases:
 ## Ver también
 
 - [[Gema_lobuna|Gema lobuna]]
-- [[Viene_de_otro_tiempo|Viene de otro tiempo]]
 - [[C73_p93|C73 p.93]]

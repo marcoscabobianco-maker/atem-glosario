@@ -14,7 +14,7 @@ Sabueso Temporal, Perro Temporal.
 
 ## Vinculos
 
-- [[Paris_Ucronica|París Ucrónica]] — sub-campaña donde opera este sabueso temporal
+- [[Paris_Ucronica|París Ucrónica]] — gesta donde opera este sabueso temporal
 - [[Eje_Temporal_ADA|Eje Temporal A.D.A.]] — estructura temporal que los sabuesos como Tíndalo rastrean y custodian
 - [[Pablo_Viajero_Temporal_Primigenio|PABLO — Viajero Temporal Primigenio]] — viajero del tiempo cuya línea un sabueso temporal podría seguir
 - [[Mecanismo_temporal|Mecanismo Temporal]] — maquinaria del tiempo en cuyo marco se inscribe la función de este guardián

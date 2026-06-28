@@ -52,3 +52,8 @@ imagen: Imagenes_Tier1/Gavrilo_Princip.png
 
 - **28 de junio de 1914 — Sarajevo** — el disparo, la posesión, el acto cuyo eco no termina
 - **Travesía de Kosovo — cruce de fecha** — uno de los compañeros del grupo lo alcanza
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ✒
+> *El magnicidio histórico inscrito verbatim: el disparo que cancela la Belle Époque es el de Sarajevo, 28 de junio de 1914, contra el [[Archiduque_Francisco_Fernando|Archiduque Francisco Fernando]], con la fecha elegida por su coincidencia con el [[Batalla_de_Kosovo_1389|cruce de Kosovo de 1389]] que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] explota una vez cada siglos. Pero la mano que apretó el gatillo ya no era sólo la del bosnio: uno de los compañeros en travesía lo había alcanzado, y por eso la cifra la guarda el [[Decadiano]] —dos memorias que no coinciden pero coexisten, la del instrumento y la del viajero.* — glosa del libro V del Decadiano.
+<!-- /CICLO -->

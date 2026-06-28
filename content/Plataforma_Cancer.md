@@ -47,3 +47,8 @@ Su columna esencial es **el caparazón y las aguas profundas**: *la casa portát
 
 - **Cosmología continua** — cuarta casa, columna del caparazón y las aguas profundas
 - **Guardián pendiente de documentación**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Cuarta casa del zodiaco, una de las doce plataformas custodiadas donde rige la ley del relevo: cada casilla tiene su guardián, y la [[Corrupcion_Dual|Corrupción Dual]] hace que quien lo derribe herede el puesto y su mancha. Su columna es el caparazón —la casa portátil, el refugio que se carga— y las aguas profundas donde duerme el molusco gigante; lo que duerme en Cáncer despierta en [[Plataforma_Piscis|Piscis]]. El sistema entero gira en el [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]]: doce oficios que rotan de portador.* — glosa de Arkos.
+<!-- /CICLO -->

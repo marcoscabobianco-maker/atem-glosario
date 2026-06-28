@@ -68,3 +68,8 @@ Las citas pertenecen al cuaderno que el cronista llenó con dieciséis años, y 
 - **1717-1784 A.D.A.** — [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] cierran su pasaje
 - **1888 A.D.A.** — [[Los_Reguladores]] la enfrentan con la guía de Gabriel
 - **Ciclo presente** — Gabriel sigue como guardián vigente; la [[Franja_de_la_Disolucion_TG|Franja de la Disolución]] sigue tallada
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ☯ ⛓
+> *Primera de las doce casas zodiacales y prisión de su guardián: [[Gabriel_Guardian_de_Aries|Gabriel]] no puede salir de Aries porque la [[Corrupcion_Dual|ley dual]] dicta que quien mata al guardián se vuelve guardián —la columna de la violencia no cambia aunque ruede el portador—. La plataforma es un universo gemelo en sí misma, con [[Arian]] en el semiplano de orden y Marian en el de caos, y la [[Franja_de_la_Disolucion_TG|Franja de la Disolución]] cortando entre ambos. Y la enfrentan bandas nombradas que el ciclo reconvoca: [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] entre 1717 y 1784, [[Los_Reguladores]] de nuevo en 1888.* — glosa del archivero del Plata.
+<!-- /CICLO -->

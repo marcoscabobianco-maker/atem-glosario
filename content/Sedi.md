@@ -16,7 +16,7 @@ Hija menor de **[[Amitlai]]**, junto con su hermana **[[Meritaton|Meritatón]]**
 
 ## Apariciones notables
 
-**Cuadernos T (minería S17T1):** C21 líneas 189-213 (2005-06): mencionada en contexto de familia de [[Amitlai]], gobernanza y reino. Catálogo MC (stub).
+En los cuadernos T el archivo la menciona en el contexto de la familia de [[Amitlai]], la gobernanza y el reino.
 
 ## Notas
 

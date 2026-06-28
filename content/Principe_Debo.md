@@ -18,4 +18,4 @@ El rito mayor de los cien años, el ciclo en que la ciudad elige un rey sustitut
 - [[El_Jardinero|El Jardinero]] — anciano sabio del palacio, padre biológico oculto
 - [[Talia_Cristalia|Talia Cristalia]] — paladina, prometida desaparecida, causa de su deriva
 - [[Calus_Rey|Calus Rey]] — paladín, compañero de juerga y figura de lealtad personal
-- [[Chakravartin]] — eco trans-campaña: el centro de la rueda que resuena en la paternidad oculta
+- [[Chakravartin]] — eco trans-gesta: el centro de la rueda que resuena en la paternidad oculta

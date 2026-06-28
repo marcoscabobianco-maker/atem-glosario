@@ -99,3 +99,8 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 - **Cautiverio en Belgrado bajo [[Aleksandar_I]]** — paradoja política
 - **Combate y muerte ritual en los calabozos del Palacio Real** — episodio mayor del arco bucarestino
 - **Cadena de consecuencias** — separación de Swan, encarcelamiento del grupo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *El coronel Dragutin Dimitrijević (1856–1917), jefe real de la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] que el golpe serbio de 1903 ejecutó, inscripto verbatim en el archivo cronomántico —pero amplificado: vampirizado por la causa hasta volverse transgresión cósmica que los [[Inevitable|Inevitables]] vienen a corregir. La Historia entra al cosmos con nombre y fecha propios, y el magnicidio balcánico que su muerte destraba late hacia [[Sarajevo_1914_Ucronica|Sarajevo 1914]].* — glosa del archivero del Plata.
+<!-- /CICLO -->

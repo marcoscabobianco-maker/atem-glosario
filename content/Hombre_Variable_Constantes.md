@@ -31,3 +31,8 @@ De esa relación entre variable y constante se desprende por qué los viajeros c
 - [[Time_Bandits|Time Bandits]] — constantes en la vida de Teófilo; su presencia es invariable a través de las épocas.
 - [[Guardias_Ucronicos|Guardias Ucrónicos]] — la condición de constante explica el determinismo de su maldición.
 - [[Paris_Ucronica|París Ucrónica]] — ciclo en el que el concepto fue enunciado.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *La gramática del viaje temporal partida en dos: las variables se mueven libres por las épocas y mudan de forma —[[Teofilo_el_Bactriano_Olaus_Teododetes_Teofides|Teófilo]] se nombró "el hombre variable", como antes [[Thomas_Cole|Thomas Cole]]—; las constantes son anclas fijas que producen efectos deterministas dondequiera caen, la maldición de los [[Guardias_Ucronicos|Guardias Ucrónicos]]. Los [[Time_Bandits]] son constantes en la vida de Teófilo. El tiempo se navega, pero con reglas de tránsito: el pasado se acomoda, se corrige a sí mismo, y cada viajero paga según su naturaleza.* — glosa de Sucesos.
+<!-- /CICLO -->

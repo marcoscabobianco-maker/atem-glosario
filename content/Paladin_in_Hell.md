@@ -28,15 +28,15 @@ tags:
 
 ## Presentación
 
-**Paladin in Hell** es **uno de los arcos fundacionales del cosmos compartido**. Toma su nombre y estructura de la **aventura clásica de Monte Cook para 2da edición** —una de las piezas más recordadas de aquella generación de módulos infernales—. lo corrió como arco propio dentro del eje Mediterráneum y de ahí salieron varias líneas que después atravesaron todal cosmos compartido: **[[Maristo]] y Arian juntos**, **pactos con [[Grazzt|Graz'zt]]**, **el destino del maestro de Maristo**, y la primera versión de **lo que después sería el [[Vala_Cristalis]]**.
+**Paladin in Hell** es **uno de los arcos fundacionales del cosmos compartido**: una incursión de un paladín al Infierno, de las que dejan herido al que vuelve. Corrido como arco propio dentro del eje Mediterráneum, de ahí salieron varias líneas que después atravesaron todo el cosmos compartido: **[[Maristo]] y Arian juntos**, **pactos con [[Grazzt|Graz'zt]]**, **el destino del maestro de Maristo**, y la primera versión de **lo que después sería el [[Vala_Cristalis]]**.
 
 ### El acto del Valis Cristal
 
-Del corazón del arco surge el **[[Vala_Cristalis|Valis Cristal]]** —objeto-clave de la aventura original, que extrajo y reelaboró—. Lo que el módulo manejaba como MacGuffin local, en el cosmos compartido se transformó en **Vala Cristalis**: capa de cristalización cosmológica que sostiene el mundo-gema [[Vala_Cristalis|Vala Cristalis]], protege a [[Lucifer]] en Buckingham, y vuelve a estar en disputa en el Sancta Sanctorum del Inferno. La declaración canónica de es directa: *"de donde surge esto del Valis Cristal, que yo después transformé en el Vala Cristalis"*.
+Del corazón del arco surge el **[[Vala_Cristalis|Valis Cristal]]** —objeto-clave del arco original, extraído y reelaborado—. Lo que al principio era un tesoro local, en el cosmos compartido se transformó en **Vala Cristalis**: capa de cristalización cosmológica que sostiene el mundo-gema [[Vala_Cristalis|Vala Cristalis]], protege a [[Lucifer]] en Buckingham, y vuelve a estar en disputa en el Sancta Sanctorum del Inferno. El archivo lo declara sin rodeos: *"de donde surge esto del Valis Cristal, que yo después transformé en el Vala Cristalis"*.
 
 ### Klyssandral y el templo arrastrado
 
-El **maestro de Maristo** —**[[Klyssandral]]**— ocupa el lugar pivote del arco. Su historia es **canónica en la fuente original**: *"se habían arrastrado todo un templo al quinto nivel del imperio"* —al quinto nivel del [[Infierno]], en la lectura del archivo—. El acto del templo arrastrado es la herida central que el arco recoge. Maristo, su discípulo, **emerge del arco con Arian al lado**; juntos cargan la deuda con el maestro, y con el rango de quien ha atravesado niveles infernales y vuelto.
+El **maestro de Maristo** —**[[Klyssandral]]**— ocupa el lugar pivote del arco. Su historia viene desde el origen mismo del arco: *"se habían arrastrado todo un templo al quinto nivel del imperio"* —al quinto nivel del [[Infierno]], en la lectura del archivo—. El acto del templo arrastrado es la herida central que el arco recoge. Maristo, su discípulo, **emerge del arco con Arian al lado**; juntos cargan la deuda con el maestro, y con el rango de quien ha atravesado niveles infernales y vuelto.
 
 ### Pactos con Graz'zt
 
@@ -44,7 +44,7 @@ El arco incluye **pactos con [[Grazzt|Graz'zt]]** —en el momento del cosmos co
 
 ### Reaparición en Inferno y en crossovers
 
-El arco no se cierra: **reaparece en la campaña Inferno** —en el episodio del Sancta Sanctorum, donde se desata la lucha de todos contra todos por el Vala Cristalis—. Y reaparece también en los **crossovers Masters × Mundo de Krile** que co-dirigió con **[[Cristo_Leon|Cristo León]]**. Las líneas abiertas en el arco fundacional siguen vivas tres décadas después.
+El arco no se cierra: **reaparece en la gesta Inferno** —en el episodio del Sancta Sanctorum, donde se desata la lucha de todos contra todos por el Vala Cristalis—. Y reaparece también en los **crossovers Masters × Mundo de Krile** que co-dirigió con **[[Cristo_Leon|Cristo León]]**. Las líneas abiertas en el arco fundacional siguen vivas tres décadas después.
 
 ## Vínculos
 
@@ -53,14 +53,18 @@ El arco no se cierra: **reaparece en la campaña Inferno** —en el episodio del
 - [[Klyssandral]] — maestro de Maristo, templo arrastrado al quinto nivel
 - [[Grazzt|Graz'zt]] — pactos infernales del arco
 - [[Vala_Cristalis]] — surge aquí como Valis Cristal
-- [[Anti_Inferno|Campaña Inferno]] — donde el arco reaparece
+- [[Anti_Inferno|Gesta Inferno]] — donde el arco reaparece
 - [[Cristo_Leon|Cristo León]] / **Mundo de Krile** — crossovers Masters
 - [[Lucifer]] — palacio infernal, defensa cristalina
 - *Sancta Sanctorum* — sede del Tabernáculo / Arca de la Alianza en el Inferno
 
 ## Apariciones
 
-- Arco fundacional MC — primera corrida de Paladin in Hell
-- 2da edición — módulo original de Monte Cook (referencia mecánica)
+- Arco fundacional del Mediterráneum — primera corrida de Paladin in Hell
 - el Descenso / Inferno — reaparición en el Sancta Sanctorum
-- Crossovers Masters × Mundo de Krile — reaparición trans-campaña
+- Crossovers Masters × Mundo de Krile — reaparición trans-gesta
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ☯
+> *El arco fundacional: una incursión al [[Infierno]] de la que se vuelve herido. [[Klyssandral]] arrastró un templo entero al quinto nivel infernal —el descenso por estratos en su forma más literal—, y de ahí emergen [[Maristo]] y [[Arian]] cargando la deuda con el maestro y los pactos con [[Grazzt|Graz'zt]]. Lo que nació aquí como «Valis Cristal», tesoro local, deviene la [[Vala_Cristalis|Vala Cristalis]]: la capa de cristalización que sostiene el mundo-gema y vuelve a disputarse en el Sancta Sanctorum.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -80,3 +80,8 @@ imagen: null
 - **[[Sarajevo_1914_Salto_Temporal|Salto temporal]] del grupo de París Ucrónica** — fusión con Aby Warburgo, no-detonación del explosivo
 - **Post-atentado histórico** — encarcelamiento, signos de "memoria ajena" interpretados por el archivo uchrónico
 - **Eco en sueños de Aby Warburgo** — residuo de la fusión que el archivo conserva
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *Figura que la Historia ya escribió, inscripta verbatim en el archivo: el más joven de [[Joven_Bosnia]], conspirador real del atentado de Sarajevo del 28 de junio de 1914 contra [[Archiduque_Francisco_Fernando_de_Austria|Francisco Fernando]], con su explosivo no detonado y todo. La operación cosmológica apenas le presta el cuerpo a la consciencia de [[Aby_Warburgo]] proyectada desde el futuro —junto a [[Gavrilo_Princip]] que sí dispara— sin alterar la cadena causal que lleva a la guerra. El magnicidio histórico entra al cosmos sin retoque; lo único que cambia es quién mira por los ojos del muchacho.* — glosa del archivero del Plata.
+<!-- /CICLO -->

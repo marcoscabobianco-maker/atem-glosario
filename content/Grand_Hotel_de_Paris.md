@@ -27,3 +27,8 @@ el archivo: Grand Hotel suite interior detallado, seducción de [[Moni_Vivescu|M
 ## Notas
 
 Locación de lujo burguesa, contraste con bajos fondos donde [[Moni_Vivescu|Mony]] comenzó.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Una suite de la Belle Époque que funciona como caja de seguridad temporal: los itinerarios y la correspondencia que [[Philippe]] arranca a [[Moni_Vivescu|Mony]] son tiempo robado —horarios, futuros, movimientos por venir— que los [[Time_Bandits]] gastan como mercancía de inteligencia. El precio se cobra en la misma moneda: «quien se aloja una noche se va al alba con dos vidas menos».* — glosa del archivero del Plata.
+<!-- /CICLO -->

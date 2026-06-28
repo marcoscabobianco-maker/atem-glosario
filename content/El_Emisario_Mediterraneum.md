@@ -18,13 +18,12 @@ aliases:
 
 Figura que aparece en la playa para entregar la llamada a la aventura. Personalidad difícil, espinosa. Presenta la misión: salvar [[Alejandria|Alejandría]] de la destrucción. No provee ayuda completa; evalúa si los compañeros están listos. Estructura monomítica: [[Emisario]] = heraldo de la aventura (Campbell).
 
-**Nota:** "El Emisario" también aparece en Profundos/Reguladores (instrucciones post-[[Atlantida_Alta_y_Baja|Atlántida]]: "cruzar a USA, buscar al [[Emisario]]"). Posible figura recurrente trans-campaña.
+**Nota:** "El Emisario" también aparece en Profundos/Reguladores (instrucciones post-[[Atlantida_Alta_y_Baja|Atlántida]]: "cruzar a USA, buscar al [[Emisario]]"). Posible figura recurrente trans-saga.
 
-"El Emisario" también aparece en Profundos/Reguladores (instrucciones post-[[Atlantida_Alta_y_Baja|Atlántida]]: "cruzar a USA, buscar al [[Emisario]]"). Posible figura recurrente trans-campaña.
+"El Emisario" también aparece en Profundos/Reguladores (instrucciones post-[[Atlantida_Alta_y_Baja|Atlántida]]: "cruzar a USA, buscar al [[Emisario]]"). Posible figura recurrente trans-saga.
 
 ## Ver también
 
-- [[Posible_figura_recurrente_trans-campana|Posible figura recurrente trans-campaña]]
 
 ## Huecos y pendientes
 

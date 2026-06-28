@@ -39,16 +39,16 @@ El destino de Luminita y Dracos al cierre de el regreso tras el Hiato **queda ab
 - **Estorrisco** — contacto que guió a los chicos
 - [[Valdemora]] — su feudo
 - [[Carad_de_Teyber]] — señor del territorio bajo el cual vive
-- [[Ardis_Vala_campaña|Ardis Vala (campaña)]]
+- [[Ardis_Vala_campaña|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - el regreso tras el Hiato — primera y única aparición confirmada. Recibe al grupo en [[Valdemora]], pide ayuda con los hijos.
-- **Cross-campaña [[Novatos_Ravenloft|Novatos Ravenloft]]**: aparece **también como Mirela Vălcan** en [[Stejara]] (la [[Ciudadela_Hundida|Ciudadela hundida]])
+- **Cross-gesta [[Novatos_Ravenloft|Novatos Ravenloft]]**: aparece **también como Mirela Vălcan** en [[Stejara]] (la [[Ciudadela_Hundida|Ciudadela hundida]])
 
 ---
 
-## Revelación del archivo: cross-campaña con Novatos Ravenloft
+## Revelación del archivo: cross-gesta con Novatos Ravenloft
 
 **Mirela Valka ([[Ardis_Vala]]) = Mirela Vălcan ([[Novatos_Ravenloft|Novatos Ravenloft]])** — **MISMA figura**.
 
@@ -62,6 +62,6 @@ En **Novatos** aparece en [[Stejara]] como **madre de Dragoș Vălcan y Luminiț
 | Estado emocional | "No llora. Ya pasó esa etapa. Voz plana." | Consternada, ruega ayuda |
 | Recompensa | 125 mo por anillo-sello | Implícita, no monetaria |
 
-**Esto es cross-campaña explícita**: **dos crónicas corren en paralelo** sobre el **mismo dominio Ravenloft**, con **figuras compartidas**. **Mirela es bisagra trans-campaña**.
+**Esto es cross-gesta explícita**: **dos crónicas corren en paralelo** sobre el **mismo dominio Ravenloft**, con **figuras compartidas**. **Mirela es bisagra trans-gesta**.
 
 **Implicación**: los Buscadores de Ardis Vala **pueden cruzarse** con los Novatos —o con sus consecuencias narrativas— a través de Mirela y los hijos.

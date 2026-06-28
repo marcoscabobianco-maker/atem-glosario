@@ -18,4 +18,3 @@ aliases:
 
 - Salud
 - Alianzas
-- [[Mision_oficial|Misión oficial]]

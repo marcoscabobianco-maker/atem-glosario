@@ -59,3 +59,8 @@ Algunos doctrinarios lo emparentan con **otras entidades sentadas** —**[[La_Da
 - **Anterior al cómputo cristiano** — manifestaciones documentadas en las orillas de Hali
 - **Período final de [[Antiterra]]** — referencia oblicua en archivos de [[Paris_Ucronica|París Ucrónica]]
 - **Ciclo presente** — entidad latente; las representaciones de la obra siguen ocasionalmente, *y siguen produciendo lo que producen*
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *No reina en otro plano: [[Carcosa]] es un pliegue de éste, que se abre cuando alguien lee mal la obra que no se nombra. Su cosmos es el del doblez —dos lunas sobre el lago [[Lago_Hali|Hali]], la ciudad gótica que es el reverso de la nuestra—, y por eso lo emparentan en postura con los otros entronizados que gobiernan no actuando: [[La_Dama_Notre_Dame|La Dama del Dolor]] en Sigil, [[Cakravartin]] en la Atlántida. El gemelo aquí no es un mundo paralelo sino la cara que aparece cuando la lectura completa rompe la membrana.* — glosa de Paulus.
+<!-- /CICLO -->

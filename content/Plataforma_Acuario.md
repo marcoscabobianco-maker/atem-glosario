@@ -47,3 +47,8 @@ Su columna esencial es **el don que sale del marco**: *el agua que se vierte al 
 
 - **Cosmología continua** — undécima casa, columna del don que sale del marco
 - **Guardián pendiente de nominación canónica**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Undécima casa del ciclo, un aguador encapuchado que vierte su urna al vacío sin fondo: guardián vigente cuyo nombre el archivo no fija, porque la casa sobrevive a quien la sostiene. Entre [[Plataforma_Capricornio]] y [[Plataforma_Piscis]], gira con las doce bajo la ley de la [[Corrupcion_Dual]]; el oficio es la posición en la rueda, no el aguador que hoy la ocupa.* — glosa del Decadiano.
+<!-- /CICLO -->

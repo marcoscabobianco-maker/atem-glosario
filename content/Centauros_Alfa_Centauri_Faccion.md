@@ -35,4 +35,3 @@ Ver también **[[Thomas_Cole|Thomas Cole]]**, **[[Mercaderes_Rojos|Mercaderes Ro
 
 - [[Conexion_con_Thomas_Cole|Conexión con Thomas Cole]]
 - [[Conexion_con_Aby_Warburgo|Conexión con Aby Warburgo]]
-- [[Contexto_cosmico|Contexto cósmico]]

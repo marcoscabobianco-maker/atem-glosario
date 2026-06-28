@@ -128,3 +128,8 @@ imagen: null
 - **Establecimiento de candelas de luz mágica en el Bastardo Cromas** — Salón principal
 - **Apoyo continuado a la ONG de Teo** — atención espiritual a niños huérfanos
 - **1824 AE — ciclo presente** — clérigo de la Luz operativo, doctrina decadiana en frontera caldera
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El clérigo de la Luz como pilar moral de [[La_Jabalina]], la banda nombrada de [[Caldero]]: cada miembro aporta su signatura —sicario veloz, guerrero teatral [[Belicio]], y él la doctrina de la Luz que disipa tinieblas. Lideró la [[Temporada_de_Inundaciones]] recuperando las varitas que salvaron las barriadas, e ilumina el [[Bastardo_Cromas]] con candelas litúrgicas: el grupo no es suma de individuos sino sujeto con sede y misión propias.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

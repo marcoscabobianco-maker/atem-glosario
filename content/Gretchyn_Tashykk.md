@@ -74,3 +74,8 @@ imagen: null
 - **Interrogación de [[Jaromir]]** — supervisión cautelosa
 - **Recepción de los aventureros con niños rescatados** — lágrimas, café con leche
 - **1824 AE — ciclo presente** — anciana halfling continúa operando el orfanato
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *La anciana halfling sólo abre la puerta del [[Orfanato_de_la_Calle_de_la_Linterna|orfanato]] cuando reconoce a los aventureros como banda con mandato: enviados del Templo por la convocatoria de [[Jenya_Urikas|Jenya Urikas]], cargando a [[Rulfo]] herido. A esa banda nombrada —[[La_Jabalina]]— le entrega a [[Jaromir]] a regañadientes y la recibe con café con leche a la vuelta. Su oficio menor sostiene desde abajo la operación del grupo que sí tiene sigla.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

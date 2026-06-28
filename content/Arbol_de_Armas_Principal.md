@@ -60,7 +60,7 @@ Bajo el barranco de **[[Stejara]]**, el **rizoma del retoño** generó un **árb
 
 > *"Un árbol enorme, gris, sin hojas. Pero no estaba vacío. De sus ramas colgaban armas. Espadas, hachas, dagas, cosas sin nombre. Una panoplia viva, creciendo de la madera como frutos. Brillaban con una luz que no debería existir en la oscuridad."* — testimonio Héctor Risco ([[Novatos_Ravenloft|Novatos]])
 
-**Identificado canónicamente como [[Arbol_Gulthias|Árbol Gulthias]]** del módulo [[Ciudadela_Hundida]] (Bruce R. Cordell, 2000), **vampiro vegetal**. En el reveal MC, **es manifestación local del Árbol de Armas Principal** —no entidad separada—.
+**Identificado como [[Arbol_Gulthias|Árbol Gulthias]]** de la [[Ciudadela_Hundida]], **vampiro vegetal**. En el reveal MC, **es manifestación local del Árbol de Armas Principal** —no entidad separada—.
 
 ### La reina del árbol: Bellaca
 
@@ -77,15 +77,20 @@ Bajo el barranco de **[[Stejara]]**, el **rizoma del retoño** generó un **árb
 - [[Arbol_Gulthias]] — manifestación local del rizoma 
 - [[Bellaca]] — reina del árbol-rizoma
 - [[Bellaca|Lali]] — identidad original de [[Bellaca]]
-- [[Ciudadela_Hundida]] — módulo donde aparece el árbol-rizoma
-- [[Novatos_Ravenloft]] — campaña que visita el rizoma
+- [[Ciudadela_Hundida]] — donde se alza el árbol-rizoma
+- [[Novatos_Ravenloft]] — gesta que visita el rizoma
 - [[Arcanum]] — sustancia mágica del crecimiento
 - [[Caballeros_del_Arbol_de_Armas|Caballeros del Árbol de Armas]] (orden nueva creada por Bellaca)
 - [[Valakhan_de_la_Bruma]] — dominio donde opera el rizoma
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **el archivo Ardis Vala**: crecimiento del árbol principal en la forja
 - **Jornadas intermedias [[Novatos_Ravenloft|Novatos]]**: aparición del rizoma como [[Arbol_Gulthias|Árbol Gulthias]] en 
 - **Pendiente**: estado actual del árbol principal en el Suelo del Gran Abismo / forja
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *Artefacto vivo que cruza campañas por fragmentación: la IA [[RAJ-750]] se vuelve semilla, la [[Arcanum_Forge|Forja Arcanum]] la hace árbol que da armas por frutos, y un retoño que los [[Priscians|Priscianos]] arrancan reaparece como rizoma bajo [[Stejara]], donde los [[Novatos_Ravenloft|Novatos]] lo encuentran convertido en [[Arbol_Gulthias|Árbol Gulthias]] —manifestación local del mismo objeto, no entidad aparte. Lo que A leyó como el artefacto trans-gesta (AA-O.1) y B como el objeto que se reparte en piezas (AKB-L.1), en C es una sola casa: el objeto triádico que une [[Arden_Vul|Ardis Vala]] con [[Valakhan_de_la_Bruma]].* — glosa del Decadiano.
+<!-- /CICLO -->

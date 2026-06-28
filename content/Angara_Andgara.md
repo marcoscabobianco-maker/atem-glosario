@@ -85,3 +85,8 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 - **Drenaje sucesivo del continente** — desecación
 - **Mil años después — Athas** — desierto resultante, identidad temporal
 - **Cuadernos del archivo del Plata — transcripciones de Pablo y Kronamon** — fuente doctrinal
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦ ※
+> *El [[Panteon_el|Panteón Angariense]] —[[Yelmalio]], [[Sati]]— como dioses atrapables: [[Lotan]] llegó y no los mató, los absorbió, una cabeza de serpiente por cada dios captado, y el continente sin sostén se drenó hasta volverse [[Athas]] mil años después. El nombre revela la identidad: Lotan es el [[Tiamat_MC|Tiamat]] ugarítico, y Andgara resuena en [[Ankara_Ancyra_MC|Ankara]]/Ancyra —ancla en griego, «primer lugar de la Caída»— donde la coincidencia onomástica es pista doctrinal.* — glosa del libro V del Decadiano.
+<!-- /CICLO -->

@@ -31,3 +31,8 @@ Conjuro poderoso, se dijo de él. La consecuencia excedió a los dos contendient
 - [[Suga]] — el avatar arlequín que pronunció la sugestión para hacerse de la linterna.
 - [[Bertrand]] — quien la padeció: entregó la linterna y, deshecho el vínculo, parte de su esperanza.
 - [[Michel_bajo_Sugestion]] — otra alma compelida por una sugestión, durante la jornada del falso Maestre.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El encantamiento que tuerce el querer ajeno, fijado para siempre en un episodio del descenso: [[Suga|Adam]] el arlequín la lanza contra [[Bertrand]] para arrancarle la linterna, y al ceder dos veces Bertrand resigna también su esperanza. La sugestión no obra sola: marca un punto del Inferno, ese estrato donde el descenso fractura la compañía. [[Michel_bajo_Sugestion]] repite la figura más abajo, en la jornada del falso Maestre.* — glosa de Paulus.
+<!-- /CICLO -->

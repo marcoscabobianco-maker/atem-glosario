@@ -15,9 +15,9 @@ aliases:
 
 ## Presentación
 
-Los sueños son los "queridos adelantados" / [[Tierras_del_Cristalizar|Tierras del Cristalizar]]. Lugar de sueños manejado por los Atlantes, al estilo Lovecraft/Lord Dunsany/Call of Cthulhu. Conecta la mecánica de sueños de la campaña con la tradición de las Tierras de Sueño lovecraftianas y la civilización Atlante del universo compartido.
+Los sueños son los "queridos adelantados" / [[Tierras_del_Cristalizar|Tierras del Cristalizar]]. Lugar de sueños manejado por los Atlantes, en la tradición de Lovecraft y Lord Dunsany. Conecta la lógica de sueños de la gesta con las Tierras de Sueño lovecraftianas y la civilización Atlante del universo compartido.
 
-*Nota (R60):* Los sueños son los "queridos adelantados" / [[Tierras_del_Cristalizar|Tierras del Cristalizar]]. Lugar de sueños manejado por los Atlantes, al estilo Lovecraft/Lord Dunsany/Call of Cthulhu. Conecta la mecánica de sueños de la campaña con la tradición de las Tierras de Sueño lovecraftianas y la civilización Atlante del universo compartido.
+*Nota (R60):* Los sueños son los "queridos adelantados" / [[Tierras_del_Cristalizar|Tierras del Cristalizar]]. Lugar de sueños manejado por los Atlantes, en la tradición de Lovecraft y Lord Dunsany. Conecta la lógica de sueños de la gesta con las Tierras de Sueño lovecraftianas y la civilización Atlante del universo compartido.
 
 ## Notas
 

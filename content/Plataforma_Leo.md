@@ -47,3 +47,8 @@ Su columna esencial es **la soberanía solar**: *el centro reconocido*, *la luz 
 
 - **Cosmología continua** — quinta casa, columna de la soberanía solar
 - **Guardián pendiente de documentación**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Quinta casa, soberanía solar: una estatua colosal de león de ojos entreabiertos que despiertan a quien los mira, cercada por guardianes menores con antorchas. El trono leonino rota por avatares —el archivo apunta a [[Cristo_Leon]], [[Leon_Epoca_Carlomagno_800_DC|León de la época de Carlomagno]], [[Nicaramsa_Leonino_El_Ultimo_Manhattan|Nicaramsa Leonino]]— como si la realeza fuera un cargo que distintas figuras ocupan en sucesión. Entre [[Plataforma_Cancer]] y [[Plataforma_Virgo]], otra de las doce que giran bajo la [[Corrupcion_Dual]].* — glosa del Decadiano.
+<!-- /CICLO -->

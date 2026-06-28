@@ -23,8 +23,8 @@ aliases:
 
 [[Paris_Ucronica|París Ucrónica]] ([[Oasis_de_Siwa|Oasis de Siwa]], invocación, combate).
 
-*Nota (R43):* El nombre suena más como nombre angélico que como cuervo. [[Gabriel_Guardian_de_Aries|Gabriel]] también está presente en la campaña, con una "vibra más Mohamadana" y prohibió el viaje temporal. Baraquiel es probablemente una entidad angélica relacionada pero distinta de [[Gabriel_Guardian_de_Aries|Gabriel]].
+*Nota (R43):* El nombre suena más como nombre angélico que como cuervo. [[Gabriel_Guardian_de_Aries|Gabriel]] también está presente en la gesta, con una "vibra más Mohamadana" y prohibió el viaje temporal. Baraquiel es probablemente una entidad angélica relacionada pero distinta de [[Gabriel_Guardian_de_Aries|Gabriel]].
 
 ## Notas
 
-Su presencia conecta la campaña con la tradición enoquiana (Vigilantes/[[Los_Vigilantes_Watchers|Watchers]]). Ver también **[[Los_Vigilantes_Watchers|Los Vigilantes]]**, **[[Oasis_de_Siwa|Oasis de Siwa]]**.
+Su presencia conecta la gesta con la tradición enoquiana (Vigilantes/[[Los_Vigilantes_Watchers|Watchers]]). Ver también **[[Los_Vigilantes_Watchers|Los Vigilantes]]**, **[[Oasis_de_Siwa|Oasis de Siwa]]**.

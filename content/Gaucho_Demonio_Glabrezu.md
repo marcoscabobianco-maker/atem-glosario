@@ -33,3 +33,8 @@ Queda el epíteto, que el archivo no usa al azar: *borgeano*. En ese mismo tramo
 - [[Falso_Profeta_Espada]] — la Espada de Kas, umbral del descenso final
 - [[Scylla]] — el compañero que la travesía convirtió en ceniza mojada
 - [[Borges_la_invocacion]] — el otro umbral borgeano del Archivo; la estampa que el epíteto invoca
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El baquiano gaucho del Abismo importa porque conduce a una banda: [[La_Jabalina]], en la cuarta fase de [[Caldero]], la que la deshace como compañía y la devuelve hecha otra cosa. Tras él, tras el retorno de [[Arafel]] con la [[Falso_Profeta_Espada|Espada de Kas]], el grupo atraviesa los semimundos —[[Scylla]] vuelto ceniza, el Leviatán que los traga— y sale reconstituido. El tropo no es el guía sino lo guiado: la crónica deja de seguir individuos y sigue a La Jabalina como sujeto único que muere y renace de la travesía.* — glosa de Amitlai.
+<!-- /CICLO -->

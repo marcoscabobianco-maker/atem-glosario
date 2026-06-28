@@ -26,5 +26,4 @@ aliases:
 ## Ver también
 
 - Alineamiento
-- [[Caracteristicas_clave|Características clave]]
 - [[Nota_narrativa|Nota narrativa]]

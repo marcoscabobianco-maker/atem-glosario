@@ -15,5 +15,5 @@ Cinco partisanos con tabards amarillos y máscaras de gauze saffron. Facción op
 - [[Rey_Amarillo_King_in_Yellow|Rey Amarillo]] — entidad mayor a la que sirven como facción operativa
 - [[Carcosa|Carcosa]] — ciudad junto al lago Hali, fuente cosmológica del color y la máscara
 - [[Dama_Amarilla_Senora_del_Oasis|Dama Amarilla]] — manifestación femenina del mismo eje cromático-carcosiano
-- [[Ardis_Vala|Ardis Vala]] — sub-campaña en cuyo marco el Rey Amarillo tiene presencia activa
+- [[Ardis_Vala|Ardis Vala]] — gesta en cuyo marco el Rey Amarillo tiene presencia activa
 - [[Abismo|el Abismo]] — plano exterior caótico donde [[Carcosa]] y sus agentes se anclan cosmológicamente

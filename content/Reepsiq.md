@@ -66,7 +66,7 @@ Reepsiq **sabe que falta el cuerno**, pero **no sabe exactamente cómo es** ni *
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
 - [[Ziggurat_de_Kauket|Ziggurat de Kauket]] — su dominio
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Heqeti]] — su pueblo
 - [[Kauket]] — divinidad patrona (príncipe demonio)
 - **Pikaressa the Second Tongue**
@@ -81,3 +81,8 @@ Reepsiq **sabe que falta el cuerno**, pero **no sabe exactamente cómo es** ni *
 
 - **Aún no encontrado por los [[Buscadores_de_Ardis_Vala|Buscadores]]** al cierre de el regreso tras el Hiato
 - **Pendiente**: encuentro / negociación / asalto
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Alto sacerdote de [[Kauket]] que corona las Cámaras del Norte del [[Ziggurat_de_Kauket]], en las profundidades del [[Mega_Dungeon_Arden_Vul]]: su poder marca un estrato del descenso, el del culto demoníaco [[Heqeti]] que lleva generaciones intentando invocar a su príncipe y fracasa por una sola pieza faltante. El cuerno espiral verde pálido que necesita está aún más hondo, en la bóveda rudishva de las Puertas de Obsidiana, custodiado por las IAs [[RAJ-750]] y [[Akala|AKL-600]]. Cada nivel del dungeon guarda su deidad y su llave; bajar es ir tropezando con dioses dormidos.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -16,7 +16,7 @@ Revólver diseñado por Léon Nagant (belga). Adoptado por Suecia, Noruega, Polo
 
 ## Vinculos
 
-- [[Paris_Ucronica|París Ucrónica]] — sub-campaña donde circula este arma
+- [[Paris_Ucronica|París Ucrónica]] — gesta donde circula este arma
 - [[Time_Bandits|Time Bandits]] — grupo al que pertenece Swann, portador del revólver
 - [[Astilla_de_la_Veracruz|Astilla de la Veracruz]] — reliquia de poder mágico activa en el mismo contexto de reliquias y armas encantadas
 - [[Campana_de_Veracruz|Campana de Veracruz]] — otra reliquia del universo de Veracruz que comparte el campo de las armas consagradas

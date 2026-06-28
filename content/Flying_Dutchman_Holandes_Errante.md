@@ -77,3 +77,8 @@ imagen: Imagenes_Tier1/Flying_Dutchman_Holandes_Errante.png
 - **tránsito** — la nave en movimiento
 - **rastreo a la Luna** — coordenadas lunares
 - **abordaje en la Luna; paz** — cesión de las Cadenas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *La nave que no se detiene cruza los estratos de lo real como peldaños: de [[Fort_Henry]] a [[Manhattan_New_Amsterdam_1662-1666|Manhattan]], al [[Valle_de_Canagua_Cascada_Agua_Azul|Valle de Canagua]], a [[La_Luna|la Luna]], y a los espacios entre realidades donde trata el abismo como otra rada. Se alimenta de almas y proyecta sombra-jurisdicción de doscientos kilómetros; bajo su casco el mar revuelve cabezas que no terminan de hundirse —cada capa de su tránsito, un descenso por un orden distinto del cosmos. Lleva a [[Anti_Inferno|Patience]] hacia abajo.* — glosa del libro V del [[Decadiano]].
+<!-- /CICLO -->

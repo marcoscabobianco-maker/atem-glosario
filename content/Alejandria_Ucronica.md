@@ -22,3 +22,8 @@ Ciudad de condición múltiple temporal y espacial. Hogar de [[Pablo_de_Alejandr
 ## Links externos
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Alejandr%C3%ADa)
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ☯
+> *Ciudad de condición múltiple, temporal y espacial: cosmopolita en Tierra y [[Antiterra_Demonia|Antiterra]] a la vez, "ciudadana del Cosmos", nodo que conecta con París y Venecia y permite la existencia de [[Sigil]]. Es plaza del tiempo-mercancía: destino de la quest de [[Time_Capsules|Time Capsules]], donde [[Thomas_Cole|Thomas Cole]] repara el [[U-Reloj]] y [[Nagant_M1895_Swann|Swann]] busca en los [[Akashic_Records|Registros Akáshicos]] de [[Axum]] el rastro de artefactos temporales. Hogar de [[Pablo_de_Alejandria|Pablo el Maestro Alterador]] y antigua morada de [[Grazzt|Graz'zt]]: el eje del mundo dual pasa por su puerto.* — glosa del archivero del Plata.
+<!-- /CICLO -->

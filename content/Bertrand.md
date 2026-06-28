@@ -132,7 +132,7 @@ Algunas fuentes del archivo del Coro registran a Bertrand con el epíteto **"el 
 ## Vínculos
 
 - [[Anti_Inferno|El Descenso / Foso]] — geografía donde opera
-- [[Anti_Inferno]] — campaña conductora donde la figura del Lost One se cataloga
+- [[Anti_Inferno]] — gesta conductora donde la figura del Lost One se cataloga
 - [[Lost_Ones]] — clase a la que pertenece
 - [[Swedenborg]] — guía del descenso; paralelo doctrinal con la Lámpara de la Esperanza
 - [[Arian|Adam]] — el arlequín que lo despojó con Sugestión
@@ -162,3 +162,8 @@ Algunas fuentes del archivo del Coro registran a Bertrand con el epíteto **"el 
 - **Cierre del descenso documentado** — Sugestión de Adam; entrega forzada de la linterna; bondeo al arlequín; cazador despojado
 - **Última imagen registrada** — Bertrand con rifle apuntando al grupo que se retira; frase final: *"ya nos dejaste sin la linterna"*
 - **Arco posterior** — abierto; el cazador maldito sin signatura sagrada opera con función no fijada
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *[[Lost_Ones|Lost One]] del Foso, condenado a sus círculos numerados: narra a Francesca da Rimini en el segundo círculo, donde la doctrina del [[Anti_Inferno|Descenso]] manda que se cuente el caso del círculo en el círculo que le corresponde. Su linterna de Llama Divina es eco de la Lámpara que carga [[Swedenborg]] un estrato más arriba —hasta que [[Arian|Adam]] se la arranca con Sugestión y lo deja apuntando, no iluminando. El descenso estratifica: cada paso tiene su tributo y su despojo.* — glosa de Arkos el archivero del Plata.
+<!-- /CICLO -->

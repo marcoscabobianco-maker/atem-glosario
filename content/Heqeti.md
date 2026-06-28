@@ -23,7 +23,7 @@ tags:
 
 ## Presentación
 
-Los **Heqeti** son **una de las dos razas alienígenas del setting [[Arden_Vul|Ardis Vala]]** —la otra es la de los [[Rudishva]]—. Su llegada al mundo es **anterior al rudishva**: la **construcción heqeti** del dungeon [[Ardis_Vala|Arden Vul]] **data de 3.400 años**, siendo **la capa arquitectónica más antigua de las cuatro** (heqeti / rudishva / archontean / varumani). Donde los heqeti construyeron, los demás vinieron después.
+Los **Heqeti** son **una de las dos razas alienígenas del mundo de [[Arden_Vul|Ardis Vala]]** —la otra es la de los [[Rudishva]]—. Su llegada al mundo es **anterior al rudishva**: la **construcción heqeti** del dungeon [[Ardis_Vala|Arden Vul]] **data de 3.400 años**, siendo **la capa arquitectónica más antigua de las cuatro** (heqeti / rudishva / archontean / varumani). Donde los heqeti construyeron, los demás vinieron después.
 
 ### El Ziggurat de Kauket
 
@@ -35,19 +35,17 @@ Su sede principal en el mega-dungeon es **el [[Ziggurat_de_Kauket|Ziggurat de Ka
 
 ### Kaliyani como sub-raza/sirvientes
 
-Los **[[Kaliyani]]** —residentes del **las [[Kaliyani]] Pits**, liderados por **Tsilliv del [[Kaliyani|Consorcio Doce]]**— son **sub-raza heqeti** o **sirvientes renegados**. La relación entre Heqeti y Kaliyani es **preferencia mutua** (P en la matriz de facciones), con los Kaliyani en posición subordinada o cliente. Esto sugiere **estructura jerárquica heqeti** —raza principal + sub-raza servidora— que se replica en otros estratos del setting (rudishva + varumani como descendientes).
+Los **[[Kaliyani]]** —residentes del **las [[Kaliyani]] Pits**, liderados por **Tsilliv del [[Kaliyani|Consorcio Doce]]**— son **sub-raza heqeti** o **sirvientes renegados**. La relación entre Heqeti y Kaliyani es **preferencia mutua** (P en la matriz de facciones), con los Kaliyani en posición subordinada o cliente. Esto sugiere **estructura jerárquica heqeti** —raza principal + sub-raza servidora— que se replica en otros estratos del mundo (rudishva + varumani como descendientes).
 
 ### Relaciones con otras facciones
 
-Según la matriz del ROUTER:
-
-- **Kaliyani**: Preferencia (P, sub-raza/sirvientes)
-- **Skreel Lizardmen**: Preferencia débil (P)
-- **[[Kerbog_Khan]]**: Antipatía/Miedo (mago loco que les disputa el [[Arcanum]])
-- **[[Priscians]]**: Antipatía
-- **[[Caballeros_Cicatriz_del_Sol|Sun-Scarred Knights]]**: Antipatía
-- **[[Varumani]]**: Antipatía
-- **El resto**: Desconocido / desconfiados
+- **Kaliyani**: preferencia (sub-raza / sirvientes)
+- **Skreel Lizardmen**: preferencia débil
+- **[[Kerbog_Khan]]**: antipatía y miedo (mago loco que les disputa el [[Arcanum]])
+- **[[Priscians]]**: antipatía
+- **[[Caballeros_Cicatriz_del_Sol|Sun-Scarred Knights]]**: antipatía
+- **[[Varumani]]**: antipatía
+- **El resto**: desconocidos / desconfiados
 
 Los Heqeti son **aislados y desconfiados de casi todos**. Solo confían en Kaliyani (que les sirven) y, débilmente, en los Skreel Lizardmen.
 
@@ -57,14 +55,14 @@ Su construcción combina **alienígena pura** —probablemente magia xénica des
 
 ## Vínculos
 
-- [[Arden_Vul|Ardis Vala]] — campaña
+- [[Arden_Vul|Ardis Vala]] — gesta
 - [[Mega_Dungeon_Arden_Vul]] — donde residen
 - **[[Ziggurat_de_Kauket|Ziggurat de Kauket]]** — su sede
 - **Kauket** — príncipe demonio de la Oscuridad al que adoran
 - [[Reepsiq]] — Great Tongue, único diplomático conocido
 - [[Kaliyani]] — sub-raza/sirvientes
 - [[Tsilliv]] — líder de los Kaliyani (Consorcio Doce)
-- [[Rudishva]] — otra raza alienígena del setting
+- [[Rudishva]] — otra raza alienígena del mundo
 - [[Mundo_de_Archontos]] — contexto cosmológico
 - [[Archontean]] — civilización humana posterior a la heqeti
 - **Skreel Lizardmen** — relación de preferencia débil

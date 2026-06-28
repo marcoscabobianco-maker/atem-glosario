@@ -72,3 +72,8 @@ imagen: null
 - **Convocatoria de La Jabalina** — reunión solemne con Lukas, Foggimer, Scylla, Antonio y otros
 - **Adivinación con maza de seis puntas** — vinculación de eventos recientes con profecía mayor
 - **1824 AE — ciclo presente** — sacerdotisa operativa, apoyo continuado al grupo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *La sacerdotisa que nombra a la banda: en reunión solemne del [[Templo_de_San_Cutberto]] convocó a [[Fogimer|Foggimer]], [[Scylla]], [[Antonio]] y los demás y los soldó en [[La_Jabalina]] —grupo que se sostiene sobre la confianza que ella les transmitió y sobre la profecía de su maza de seis puntas. La convocatoria es el acto que vuelve sujeto a la dispersión. Es lo que A llamó la banda con sigla colectiva (AA-G.1) y B el grupo que deviene sujeto (AKB-J.1), leído desde quien lo funda.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

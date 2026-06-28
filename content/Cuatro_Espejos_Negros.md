@@ -48,3 +48,8 @@ La paradoja es estructural: para el Triunvirato, que está fuera del Tiempo, *ll
 
 - Post-Triunvirato — aparición declarada en las actas de [[Los_Supremos]]
 - 500 años después (o antes) — ventana temporal ambigua
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ◑
+> *El tiempo se vuelve superposición: las naves-ataúd de 450 metros «llegan en 500 años. O estuvieron llegando antes», y para el Triunvirato de [[Los_Supremos]] —que está fuera del Tiempo— ambas afirmaciones valen a la vez. Son un enemigo en crisálida cósmica: no se los enfrenta, esperan suspendidos hasta que la firma de [[Innombrable|el Innombrable]] arranca el tiempo nuevo y resuelve su posición. La [[Vara_del_Infinito]] del cierre abre el escenario donde se descongelan.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -103,3 +103,8 @@ imagen: null
 - **Adquisición por [[Tony_Malatesta]]** — observación silenciosa continuada
 - **Mudanza al Bastardo Cromas** — taller arcano compartido con [[Vitalis]]
 - **1824 AE — ciclo presente** — magia residual sostenida, operación cosmológica anticipada pendiente
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ △
+> *Reloj de pared con la Torre Eiffel por manecilla, hallado en el taller de [[Keygan_Ghelve]] y portado por [[Tony_Malatesta]]: objeto cronomántico que no da poder activo sino resonancia, vibrando cerca de los nodos del Tiempo. Su gracia es cruzar pliegues —tres hipótesis convergen: reliquia del rito de [[Pablo_el_Cronomante|Pablo]], producto de la [[Revolucion_Industrial_Magica|Revolución Industrial Mágica]], o anclaje material del cruce con la Torre Eiffel de [[Paris_Ucronica|París Ucrónica]]. Es la pieza que enlaza [[Caldero]] con el pliegue ucrónico: un objeto que sólo opera pleno cuando los mundos que conecta se tocan, y que el grupo eligió para [[La_Jabalina]] no por azar.* — glosa de Arkos.
+<!-- /CICLO -->

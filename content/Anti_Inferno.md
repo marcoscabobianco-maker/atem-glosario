@@ -49,7 +49,7 @@ El **Inferno del cosmos ATEM** —*"el Foso"* en las fórmulas abreviadas, *"CDI
 
 - **Descenso pleno** *(círculos)* — **siete pasos cosmológicos descendentes** que el archivo nombra *"el Foso"* o *"el Descenso"*. *El cuerpo del descendiente cambia de modo de ser según el círculo*; *el alma reconoce paisajes que nunca había visto y sin embargo siempre había habitado*. **El portal abre desde el primer nivel del [[Templo_Lugar_de_los_Justos|Templo y Lugar de los Justos]]**.
 
-*La distinción anterior entre "Anti-Inferno" y "Campaña del Inferno" en fichas separadas era cómoda para indexar, pero el archivo las trata como un solo lugar con dos modos*. **Esta entrada las reúne**.
+*La distinción anterior entre "Anti-Inferno" y "Gesta del Inferno" en fichas separadas era cómoda para indexar, pero el archivo las trata como un solo lugar con dos modos*. **Esta entrada las reúne**.
 
 ---
 
@@ -134,7 +134,7 @@ El Inferno mantiene cruces operativos con otras geografías del universo extendi
 - **[[Antiterra]]** — *muchas almas llegan al Foso desde allí*, *especialmente desde el ciclo de los Reguladores y de los [[Templarios]]*.
 - **[[Campana_Templarios_TE|Orden del Temple]] del [[Laberinto_de_Marfil]]** — *fuente principal de Lost Ones templarios*, *Ärsvan entre ellos*.
 - **[[Los_Reguladores]]** — *banda cuya operación final en [[Antiterra]] precede al descenso de Sven, [[Helter]], etc.*
-- **[[Caldero]] / [[Vala_Cristalis]] Antigua** — *campaña donde la identidad oculta de [[Swedenborg]] como [[Thalia_Cristalia|Talia Cristalia]] se revela*.
+- **[[Caldero]] / [[Vala_Cristalis]] Antigua** — *gesta donde la identidad oculta de [[Swedenborg]] como [[Thalia_Cristalia|Talia Cristalia]] se revela*.
 - **[[Arborea_Eden_CDI|Arbórea/Edén]]** — *jardín perdido cuya doctrina opera como antesala cosmológica*.
 
 ---
@@ -166,3 +166,8 @@ El Inferno mantiene cruces operativos con otras geografías del universo extendi
 - **Descenso conductor de Swedenborg con la Lámpara** — pastoreo del grupo por los pasos preliminares
 - **Cruces del Aqueronte** — momentos canónicos en que algún Lost One desciende al primer círculo
 - **Ciclo presente** — Foso activo con presencia conductora vigente
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛓ ☯
+> *Infierno que estratifica antes que castigar: siete círculos descendentes en eco de lo no resuelto arriba, con el umbral del Anti-Inferno donde [[Swedenborg]] sostiene la Lámpara antes del Aqueronte de [[Caronte]]. Es ahí donde los [[Lost_Ones|Lost Ones]] se reconocen como banda —[[Arsvan|Ärsvan]], [[Sven]], [[Helter]], [[Bertrand]]— almas caídas desde [[Antiterra]] al hemisferio bajo del cosmos gemelo. Lo que A leyó como el descenso por estratos (AA-D.1) es, en C, la misma casa que junta a los caídos en un solo coro.* — glosa del Decadiano.
+<!-- /CICLO -->

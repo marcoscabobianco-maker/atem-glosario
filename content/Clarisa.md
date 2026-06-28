@@ -109,26 +109,23 @@ independiente, no es hija de Arcoms; (II) madre de **[[Elisteo]]** junto con **[
 eventos de 1375 y 1377 DR corresponden a Clarisa (III).
 
 **Enfrentamiento Clarisa vs. [[Amitlai]]:** Ambos personajes nacieron de la misma
-mano, **figura del archivo**. Ambas coinciden cronológicamente en 1375 DR (Juicio
+mano. Ambas coinciden cronológicamente en 1375 DR (Juicio
 Final, Primer Círculo) y 1377 DR (Falso Secuestro de [[Amitlai]] / Clarisa sale de
 prisión). El enfrentamiento entre los dos personajes de la misma mano es un dato
 confirmado por el archivo. Circunstancias exactas y otros personajes
-presentes: pendiente de minería en cuadernos C21, C25 y fuentes MC.
+presentes: pendiente de rastrear en el archivo.
 
-*Grafía canónica:* **Clarisa** (con una sola S). Se han encontrado variantes
-"Clarissa" (MC_LINEA_TEMPORAL, C50 p.42) y "Clarisa" (INDICE C21, C25, C50 p.167).
-Unificado por directiva del archivo.
+*Grafía canónica:* **Clarisa** (con una sola S). En el archivo circulan también las variantes
+"Clarissa" y "Clarisa"; la forma unificada es **Clarisa**.
 
 ## Apariciones notables
 
-MC_LINEA_TEMPORAL (1354, 1375, 1377 DR). C50 p.42 (esquema
-de quest: "Old Father. Arcoms. Daughter. Clarissa. Monster. Abyss. [[Avishai_draconicos_Tiamat|Tiamat]]. Quest.
-Rescue the Daughter"). C50 p.167 (diseño narrativo: "rescatar a su hija Clarisa o
-alguna sobrina de las garras de los Scrupules de Sealing"). INDICE C21 y C25.
-Memorias de [[Amitlai]] (Taller l.1091-1410): Clarisa no aparece por nombre, pero
-[[Amitlai]] narra su encuentro con Arcoms en [[Islaire]] y el ataque Githyanki
-a su castillo, contexto en que Arcoms pierde su torre y su hija queda
-desprotegida.
+El archivo la registra entre 1354 y 1377 DR. Aparece en el esquema de la gesta del rescate
+—"Old Father. Arcoms. Daughter. Clarissa. Monster. Abyss. [[Avishai_draconicos_Tiamat|Tiamat]].
+Quest. Rescue the Daughter"— y en el diseño de "rescatar a su hija Clarisa o alguna sobrina de
+las garras de los Scrupules de Sealing". En las Memorias de [[Amitlai]] no aparece por su nombre,
+pero [[Amitlai]] narra su encuentro con Arcoms en [[Islaire]] y el ataque Githyanki a su castillo,
+contexto en que Arcoms pierde su torre y su hija queda desprotegida.
 
 ## Ver también
 
@@ -142,8 +139,3 @@ desprotegida.
 - [[Laveth|Laveth]]
 - [[Elisteo|Elisteo]]
 - [[Minaya|Minaya]]
-- [[Enfrentamiento_Clarisa_vs_Amitlai|Enfrentamiento Clarisa vs. Amitlai]]
-
-## Presentación
-
-> **El pez globo:** archivo oral de dic 2010 pregunta por "el pez globo... cómo era la historia?" asociada a [[Clarisa]]. Respuesta documentada: "lo del pez globo no estaba escrito. Lo extraeré de mis cuadernos luego." Este episodio es material oral/vivido que solo existe en los cuadernos manuscritos. Pendiente de minería en cuadernos.

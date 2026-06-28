@@ -28,9 +28,14 @@ aliases:
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso]] — campaña CDI donde actúan, el infierno dantesco que recorren
-- [[Campana_Dante_S_Inferno_CDI|Campaña Dante's Inferno]] — marco narrativo de la sub-campaña
+- [[Anti_Inferno|el Descenso]] — gesta CDI donde actúan, el infierno dantesco que recorren
+- [[Campana_Dante_S_Inferno_CDI|Gesta Dante's Inferno]] — marco narrativo de la gesta
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — fortaleza infernal ante la cual las entidades angelicales tienen restricciones de cruce
 - [[Lost_Ones]] — los condenados del [[Anti_Inferno|Ante-Inferno]], contraste con las entidades de luz
 - [[Swedenborg]] — figura del cosmos CDI relacionada con el orden angelical
 - [[Minos_Inferno|Minos]] — juez infernal, autoridad opuesta a las Kerubines en la jerarquía del [[Infierno]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Dos paladinas angélicas atadas a la geografía del [[Anti_Inferno|Descenso]] dantesco: combaten en vitrales —reino espejo— pero el «protocolo de no cruzar» las clava a su nivel, sin poder pasar el umbral de la [[Ciudad_de_Dis_CDI|Ciudad de Dis]]. Cada estrato del [[Infierno]] tiene su frontera, y hasta las entidades de luz quedan presas de la línea que les toca, en contraste con los [[Lost_Ones]] hundidos abajo y bajo la autoridad de [[Minos_Inferno|Minos]].* — glosa de Paulus.
+<!-- /CICLO -->

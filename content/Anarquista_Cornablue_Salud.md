@@ -23,7 +23,7 @@ Agrupación o etiqueta de archivo que une a los dos matones antagonistas [[Corna
 
 - [[Cornablue|Cornablue]] — el matón colosal de piel azul, integrante principal del dúo
 - [[La_Salud|La Salud]] — el compañero tuerto y desfigurado de Cornablue
-- [[Paris_Ucronica|París Ucrónica]] — sub-campaña donde opera este dúo de antagonistas
+- [[Paris_Ucronica|París Ucrónica]] — gesta donde opera este dúo de antagonistas
 - [[Club_des_Gorriones|Club des Gorriones]] — espacio de combate donde el dúo actúa en escena inicial
 - [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] — organización oscura a la que posiblemente sirven
 - [[Les_Halles|Les Halles]] — escenario del ritual y el combate final del dúo, incendio de harina incluido

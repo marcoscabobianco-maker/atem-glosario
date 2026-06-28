@@ -54,4 +54,4 @@ La explicación de fondo: **Sheridron es uno de los sobrevivientes del mundo [[V
 - **Sheridron** *(ciclo)* — esta entrada: dios dragón plateado, sobreviviente de [[Vala_Antigua]].
 - **[[Sheridan_Sheridron]]** *(el Descenso)* — detective psíquico con jinete demoníaco Jekyll/Hyde.
 
-*La similitud onomástica es trans-campaña pero las entidades no se identifican una con otra*.
+*La similitud onomástica es trans-gesta pero las entidades no se identifican una con otra*.

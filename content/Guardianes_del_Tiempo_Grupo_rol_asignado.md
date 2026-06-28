@@ -16,5 +16,4 @@ aliases:
 
 ## Ver también
 
-- [[Asignacion|Asignación]]
 - Pacto

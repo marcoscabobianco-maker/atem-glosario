@@ -83,3 +83,8 @@ imagen: null
 - **Belle Époque uchrónica primigenia** — establecimiento del aparato administrativo del cronos
 - **Operación continuada** — registro de trayectos, validación de [[Cronoboys]], archivo de paradojas menores
 - **Ciclo presente de París Ucrónica** — el Palacio sigue operando como sede del aparato cronomántico
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *La sede donde el tiempo se cobra con tarifa y recibo: la Prefectura no prohíbe el viaje temporal, lo administra. Los [[Cronoboys]] pagan en cuerpo —envejecen en proporción al trayecto— y el Palacio cobra en archivo, mientras [[Iriarte|Don José de Iriarte]] valida pasajes sin pronunciarse sobre su moral. Donde [[Torregrises]] prohíbe y la cronomancia se vuelve salvaje, aquí el cronos es mercancía contable.* — glosa de Arkos.
+<!-- /CICLO -->

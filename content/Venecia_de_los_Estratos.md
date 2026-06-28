@@ -95,7 +95,7 @@ imagen: null
 - **Montaje** — operación editorial activa, produce narrativa y comunicación. *Donde el cronista interviene*.
 - **Archivo** — marco relacional que sostiene memorias respecto a tema o condición histórica. *Dondel cosmos compartido se hace cuerpo*.
 
-**La metodología es arqueológica, no metafórica**: *"transformaciones N (Natural) y C (Cultural)"* **es terminología de Renfrew y Bahn**, **manual estándar de arqueología que el cronista enseña en la facultad** (Elementos de Prehistoria y Arqueología Americana, UBA FFyL). **El cuaderno es un sitio**; *cada capa de tinta es un horizonte*; **las referencias cruzadas son vínculos entre contextos primarios y secundarios**.
+**La metodología es arqueológica, no metafórica**: *"transformaciones N (Natural) y C (Cultural)"* **es terminología de Renfrew y Bahn**, **el manual de arqueología que el cronista frecuenta en su oficio**. **El cuaderno es un sitio**; *cada capa de tinta es un horizonte*; **las referencias cruzadas son vínculos entre contextos primarios y secundarios**.
 
 **"El tiempo es un curador"** —fórmula propia del cronista— **invierte la perspectiva común**: *el tiempo no destruye sino que deposita, organiza, cura* (en el sentido museográfico). **El curador-tiempo produce los estratos que el arqueólogo-archivista lee**.
 
@@ -149,3 +149,8 @@ imagen: null
 - **28 de noviembre — capa palimpséstica** — el clinamen reescrito sobre el original
 - **23 de junio de 2018 — modificación en C64** — memos → memes
 - **2024 — C97** — el archivo recibe el nombre ATEM, siete años después del diagrama
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒
+> *El cuaderno donde la voz que glosa todo el archivo se retrata como hombre concreto: el mismo cronista del [[Paris_de_los_Pasajes|cuaderno parisino]] que cae enfermo en el Rialto, salva a la chica del canal y escribe en violeta el diagrama Agregador/Montaje/[[Diagrama_Agregador_Montaje_Archivo|Archivo]]. No habla desde fuera del mundo: lo habita, lee a [[Italo_Calvino_R|Calvino]] y a [[Lucrecio_R|Lucrecio]], y deja el [[Clinamen]] como doctrina antes de que ATEM tenga nombre. Lo que el archivero del Plata cataloga es una sola cosa: el que cuenta el cosmos es un personaje del cosmos.* — glosa del archivero del Plata.
+<!-- /CICLO -->

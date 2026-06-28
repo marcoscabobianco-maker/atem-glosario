@@ -24,7 +24,7 @@ aliases:
 
 Profeta fundador del maniqueísmo. Nació en Ctesifonte (216 d.C.), Imperio Parto. El nombre Mani significa "joya": un alma atrapada en una gema (el cuerpo), doctrina gnóstica de la prisión corporal. Recibió la revelación de un espíritu llamado Syzygos ("gemelo"): tema del doble. Se proclamó "sello de los profetas", el último de una serie que incluye a Buda, Krishna, Zoroastro y Jesús. También se declaró el Paráclito prometido en el Nuevo Testamento.
 
-Su padre pertenecía a los eclesiates gnósticos (subsecta ebionita). Cronología: primera visión del doble a los 12 años (228 d.C.), segunda a los 24 (240), viaje a India/Afganistán (240-241), corte de Shapur I (242), posible encuentro con **[[Plotino]]** al otro lado del río durante campaña (242-243), difusión y amistad con **[[Zenobia_de_Palmyra|Zenobia de Palmyra]]** (243-270), enfrentamiento con [[Kartir]] el reformador zoroástrico (274), ejecución (276-277): despellejado vivo y rellenado de estopa.
+Su padre pertenecía a los eclesiates gnósticos (subsecta ebionita). Cronología: primera visión del doble a los 12 años (228 d.C.), segunda a los 24 (240), viaje a India/Afganistán (240-241), corte de Shapur I (242), posible encuentro con **[[Plotino]]** al otro lado del río durante gesta (242-243), difusión y amistad con **[[Zenobia_de_Palmyra|Zenobia de Palmyra]]** (243-270), enfrentamiento con [[Kartir]] el reformador zoroástrico (274), ejecución (276-277): despellejado vivo y rellenado de estopa.
 
 Cinco elementos maniqueos: humo, tinieblas, fuego, agua, viento. Jerarquía: *electi* (vegetarianismo, ayuno, castidad estrictos) y *auditori*. San fue maniqueo antes de su conversión.
 
@@ -47,3 +47,8 @@ El paralelo Buddas/Daimón → precipicio y [[Arcoms_Cosmar|Arcoms]]/ es señala
 - [[Grazzt|Graz'zt / GRDT]]
 - [[Pablo_de_Samosata|Pablo de Samosata]]
 - [[KAXA|KAXA]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Profeta cuya revelación entera es la del doble: lo instruye el Syzygos —su «gemelo» celeste— y predica un cosmos partido en dos polos, luz y tinieblas, que se contagian sin fundirse. Por eso es aliado de [[Zenobia_de_Palmyra|Zenobia]] y de los vasallos de la dualidad [[Grazzt|Graz'zt]]/[[GRDT]], y por eso su muerte —despellejado vivo— rima con la de [[Arcoms_Cosmar|Arcoms]], el discípulo arrojado al precipicio: la doctrina del par también se hereda por repetición.* — glosa de Amitlai.
+<!-- /CICLO -->

@@ -90,7 +90,7 @@ Con el **[[Vencimiento_Varumani]]**, la entrada en **[[Ravenloft_Dominio_Ardis_V
 - [[Varboka]] — endorsement
 - [[Lord_Carcalus]] ([[Lord_Carcalus|Arena Lord]]) — vecino
 - **Rastite lotus** (new flora) — producto comercial
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

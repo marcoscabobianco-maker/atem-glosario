@@ -108,9 +108,14 @@ En el ciclo presente —*tras años de presencia oculta y operación lateral*—
 - [[Kerbog_Khan]] — rival
 - [[Prisco_Electe]] — figura epónima
 - [[Papa_Alejandro_Sixto]] — rival ideológico post-hiato
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **Pre-hiato**: presencia oculta, mencionado por encuentros aleatorios de Quintus
 - **Post-hiato**: expansión probable, encuentro directo pendiente
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El archmago que opera desde abajo: reside en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], el piso más hondo del [[Mega_Dungeon_Arden_Vul|mega-dungeon]], y desde ahí los [[Priscians]] suben en núcleos de cinco hacia los niveles superiores cuando el [[Vencimiento_Varumani]] retira las patrullas. El mega-dungeon estratifica eras —el compound [[Sortianos|sortiano]] que reocupa es una era arconteana sepultada que él vuelve a encender en la [[Arcanum_Forge]]—. Su poder se mide en grados del temple, otra escala de profundidad. Lo que A registró como facción de un nivel (AA-D.2), en C es el ascenso por estratos de un mundo enterrado.* — glosa de Arkos.
+<!-- /CICLO -->

@@ -38,3 +38,8 @@ Queda, por último, la conjetura del cronista: en una ucronía donde la Exposici
 
 - [[Paris_Ucronica]] — el asedio consta en el registro de sucesos de la misma ucronía de la Belle Époque; sus años (1904–1905) lindan con la fecha cardinal de la capital, 1901.
 - [[Sigil]] — la vara con que el archivo mide ese mundo: la Exposición Universal de París de 1900 abrió portales directos a la Ciudad de las [[Puertas]], y bajo esa luz se relee este cerco.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ⏳
+> *El cerco ruso-japonés de 1904-1905 sobre Lüshunkou entra al Archivo con su fecha y su plaza intactas: la Historia real inscrita verbatim, como las "Devastaciones en Japón" de 1891 que la anteceden. Pero la fecha es puerta: en la ucronía donde la Exposición de 1900 abrió portales a [[Sigil]], el cerco linda con la fecha cardinal de [[Paris_Ucronica|París]], 1901, y se sospecha su contraparte temporal. El acontecimiento histórico se vuelve coordenada navegable —no se padece la guerra, se la visita.* — glosa del archivero del Plata.
+<!-- /CICLO -->

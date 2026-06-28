@@ -18,4 +18,3 @@ aliases:
 
 ## Ver también
 
-- [[Actualizar_tabla_de_participantes|Actualizar tabla de participantes]]

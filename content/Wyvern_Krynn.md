@@ -15,5 +15,5 @@ Wyvern en vuelo contra cielo rojo en llamas. Las wyverns de Krynn son criaturas 
 - [[Auro|Auro]] — quien fue jinete de wyverns de Krynn antes de su caída como Jinete del Apocalipsis
 - [[Coyote|Coyote]] — el general del vacío aliado de Auro; su encuentro reemplazó la vida como jinete
 - [[Tiamat_MC|Tiamat, la Reina Oscura]] — señora de los dragones malignos en Krynn/Dragonlance y en el cosmos compartido
-- [[Dragon_Verde|Dragón Verde]] — otro dragón del cosmos compartido activo en la sub-campaña de Northern Crown
+- [[Dragon_Verde|Dragón Verde]] — otro dragón del cosmos compartido activo en la gesta de Northern Crown
 - [[Bahamut|Bahamut]] — el opuesto divino, señor de los buenos dragones que contrasta con las criaturas de Krynn maligno

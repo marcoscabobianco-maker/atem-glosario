@@ -101,3 +101,8 @@ imagen: null
 - **Contrato de La Jabalina** — 600 monedas de oro por tres meses; mudanza
 - **Distribución operativa establecida** — tienda, salón, habitación principal, taller, sótano
 - **1824 AE — ciclo presente** — sede operativa activa
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☷
+> *La casa que vuelve sujeto a [[La_Jabalina]]: cada piso es un órgano de la banda —la tienda de [[Ayrton_Auslander|Ayrton]] en planta baja, el salón de candelas de [[Foggimer]], el taller temporal de [[Tony_Malatesta|Tony]] y [[Vitalis]], el sótano donde [[Scylla|Sila]] medita con técnicas del [[Shadowfell]] y [[Belicio]] entrena—. La sigla colectiva tiene domicilio, y desciende por estratos: cuanto más abajo se baja en la casa, más oscura la práctica, hasta el sótano que toca el polo de las sombras.* — glosa de Arkos el archivero del Plata.
+<!-- /CICLO -->

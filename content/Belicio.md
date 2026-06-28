@@ -112,3 +112,8 @@ imagen: null
 - **Entrenamiento nocturno en sótano** — rutinas a media noche, sin camisa
 - **1824 AE — ciclo presente** — guerrero gostoso operativo
 - **Próximo ciclo (anticipación abierta)** — posible mutación lovecraftiana de fase 4
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El guerrero gostoso es miembro fundador de [[La_Jabalina]]: su oficio individual —la sonrisa, el «¡Belleza!», la espada a dos manos que corta hobgoblins como mantequilla— se subordina a la banda nombrada que opera desde el [[Bastardo_Cromas]]. Con [[Fogimer|Foggimer]], [[Lukas]] y [[Teo_Paladin_Sin_Brazo|Teo]] forma el cuerpo de cargas; su fama precede a la del grupo en [[Caldero]], pero es la sigla colectiva la que lo vuelve sujeto del archivo.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

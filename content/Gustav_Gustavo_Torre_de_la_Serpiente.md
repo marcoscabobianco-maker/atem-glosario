@@ -37,3 +37,8 @@ Identificación como [[Gustav_Mahler]] señalada por (historiador/cronista). La 
 - [[Gustav_Mahler|Gustav Mahler]]
 - [[Conexion_Secesion_de_Viena|Conexión Secesión de Viena]]
 - [[Gustav_Klimt|Gustav Klimt]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ☯
+> *La Secesión de Viena inscrita verbatim como decorado profético: [[Gustav_Mahler|Mahler]] enloquecido en el piso 3 del Faro-Monolito, murales con la Hygieia del friso de la Medicina de [[Gustav_Klimt|Klimt]], el edificio de cúpula dorada como modelo de la torre. La versión ucrónica es el gemelo torcido del compositor histórico —con posibles dobles en [[Antiterra_Demonia|Antiterra]]— y el grupo lo guarda como clave: si los [[Guardias_Ucronicos|Guardias Ucrónicos]] son una sinfonía temporal, un compositor podría reescribirla, según recuerdan más tarde en [[Sarajevo_1914_Ucronica|Sarajevo]].* — glosa del archivero del Plata.
+<!-- /CICLO -->

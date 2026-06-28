@@ -18,8 +18,8 @@ aliases:
 ## Vinculos
 
 - [[Jornada_del_Falso_Maestre|Jornada del Falso Maestre]] — contexto de jornada en que este dilema se vuelve operativo.
-- [[Baphomet|Baphomet]] — entidad demoníaca cuya contención (o liberación) está en juego; señor demonio del [[Abismo]] en el esqueleto Planescape/D&D.
+- [[Baphomet|Baphomet]] — entidad demoníaca cuya contención (o liberación) está en juego; señor demonio del [[Abismo]].
 - [[Fragmento_de_Madera_con_Pentaculo|Fragmento de Madera con Pentáculo]] — el ancla material del sellado; removida en esta jornada.
-- [[Encierro_invocacion_del|Encierro / Invocación del]] — mecánica de contención vinculada a este dilema.
+- [[Encierro_invocacion_del|Encierro / Invocación del]] — mecanismo de contención vinculado a este dilema.
 - [[Temple_complejo_TE|Temple (complejo)]] — edificio que funciona como contenedor; su arquitectura responde a la lógica del sellado.
-- [[Campana_Templarios_TE|Campaña Templarios (TE)]] — sub-campaña que desarrolla la historia del [[Temple_complejo_TE|Temple]] como prisión infraplanar.
+- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta que desarrolla la historia del [[Temple_complejo_TE|Temple]] como prisión infraplanar.

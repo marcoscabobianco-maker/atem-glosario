@@ -70,9 +70,9 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 
 ---
 
-## La operación trans-campaña *(voz Mascor Blancarba)*
+## La operación trans-gesta *(voz Mascor Blancarba)*
 
-*El sistema zodiacal opera en múltiples campañas del cosmos extendido*:
+*El sistema zodiacal opera en múltiples gestas del cosmos extendido*:
 
 - **[[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** *(1717-1784 [[Anno_Domini_Antiterra_ADA|A.D.A.]])* — **enfrentan la [[Plataforma_Aries|Plataforma de Aries]]**, cerrando su pasaje con la independencia americana.
 - **[[Los_Reguladores]]** *(1888 [[Anno_Domini_Antiterra_ADA|A.D.A.]])* — **vuelven a enfrentar Aries con la guía de [[Gabriel_Guardian_de_Aries|Gabriel]]**; en abril del mismo año, **enfrentan Tauro** *(recibida por Jack Bull en Fort Clark)*.
@@ -124,7 +124,7 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 - [[Juego_de_las_Sombras_Plataformas_Zodiacales]] — concepto cosmológico mayor
 - [[Plataformas_de_Vala_Ely|Plataformas de Vala-Ely / Islaires]] — plataformas primigenias diferentes (nodo estancado)
 
-### Campañas y eventos
+### Gestas y eventos
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] · [[Los_Reguladores]] — grupos que enfrentaron plataformas
 - [[Ardis_Vala]] — mega-dungeon como apilamiento zodiacal
 - [[Atlantida_Alta_y_Baja|Atlántida]] — acceso via [[Plataforma_Piscis|Plataforma de Piscis]]
@@ -142,3 +142,8 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 - **Marzo-Abril 1888 A.D.A.** — [[Los_Reguladores]] enfrentan Aries y Tauro
 - **Mesa actual (2024-2026)** — los Buscadores descienden por el cristal de Ardisvala explorando las capas sucesivas
 - **Cosmología continua** — las doce plataformas siguen operando con guardianes en rotación
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ☯ ☷ ⛓
+> *Doce casas zodiacales, cada una su prisión y su guardián, regidas por una sola ley: la [[Corrupcion_Dual|Corrupción Dual]] —quien mata al guardián se vuelve guardián, el cargo rota y la columna no—. [[Erzebeth]] hereda Tauro por ganarla, [[Jean-Baptiste_TNW|Jean-Baptiste]] queda preso de Escorpio transformado, [[Gabriel_Guardian_de_Aries|Gabriel]] sostiene Aries era tras era. Y el sistema es dual y estratificado: [[Ardis_Vala]] apila diez de las doce capas en cristal —[[Plataforma_Acuario|Acuario]] arriba, [[Plataforma_Aries|Aries]] de carneros en el fondo—; bandas enteras como [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] y [[Los_Reguladores]] enfrentan cada casa como una sola misión cosmológica.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

@@ -105,13 +105,9 @@ Justo antes de partir, el cronista había hojeado la *Storia della belleza* de U
 
 ---
 
-## Mohlitz como pintor del cosmos
+## Mohlitz, la mano que imagina el cosmos
 
-> *"Baudio me había traído un par de años antes un regalo de París: [[Mohlitz]]. Es este un dibujante que inspiró algunas escenas del ciclo. Recuerdo haberlo usado para retratar a los Reunidos alrededor del fuego, cerca del Pico del Águila."*
-
-**[[Mohlitz]]** —*[[Philippe]] [[Mohlitz]], grabador francés contemporáneo, escenas oníricas elaboradas hasta el detalle imposible*— **entra al panteón visual del cosmos compartido por regalo de un amigo del cronista**. *Antes era ilustrador desconocido para el archivo*; **después es la mano que el archivero ha consultado durante años para imaginar [[Los_Reunidos|los Reunidos]] alrededor del fuego cerca del [[Pico_del_Aguila|Pico del Águila]]**.
-
-**Esto es lo que la regla cero meta sobre imágenes no permite consignar en una ficha del Glosario común**: *los grabadores reales que inspiraron las escenas diegéticas no se nombran*. **Pero en el cuaderno parisino sí**, **porque el cuaderno es asertórico antes que diegético**, *y por eso esta entrada vive en una zona de bisagra*.
+**[[Mohlitz]]** entra al panteón visual del cosmos compartido por la vía de un regalo traído de París. *Antes era una mano desconocida para el archivo*; **después es la mano que el archivero ha consultado durante años para imaginar [[Los_Reunidos|los Reunidos]] alrededor del fuego cerca del [[Pico_del_Aguila|Pico del Águila]]** —escenas oníricas elaboradas hasta el detalle imposible, donde el archivo reconoció la forma de su propio mundo.
 
 ---
 

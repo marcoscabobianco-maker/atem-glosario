@@ -15,4 +15,3 @@ Encarnan la tentación erótica y pasional que rodea al Árbol. Se dice que quie
 
 ## Ver también
 
-- [[Efecto_narrativo|Efecto narrativo]]

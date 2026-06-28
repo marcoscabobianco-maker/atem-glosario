@@ -16,4 +16,4 @@ aliases:
 - [[Atlantida_Subacuatica|Atlántida Subacuática]] — civilización de las profundidades con la que los sahuagin hacen frontera
 - [[Atlantida_Alta_y_Baja|Atlántida Alta y Baja]] — el eje cosmológico donde la presión del mar se vuelve potencia mítica
 - [[Abismo|el Abismo]] — plano caótico al que demonólogos vinculan el origen de los sahuagin más corrompidos
-- [[Novatos_Ravenloft|Novatos Ravenloft (ACKS)]] — campaña en cuyo contexto esta criatura aparece como antagonista
+- [[Novatos_Ravenloft|Novatos Ravenloft]] — gesta en cuyo contexto esta criatura aparece como antagonista

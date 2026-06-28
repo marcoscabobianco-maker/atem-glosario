@@ -13,7 +13,7 @@ aliases:
 
 ## Presentación
 
-- **[[Rol_climax]]:** Ubicación donde [[Hija_de_Baphomet]] guard entrada catacumbas
+- **Rol climax:** Ubicación donde [[Hija_de_Baphomet]] guard entrada catacumbas
 - **Descubrimiento:** Interior tiene "Órgano Solar" (no sonaba desde 1600s), campanas mágicas
 - **[[Magia_interior]]:** Vitros (stained glass) mágicos con presencia sobrenatural
 - **Personaje:** Cables conectan a Torre Eiffel (red mágica / telégrafo oscuro)
@@ -22,7 +22,6 @@ aliases:
 
 ## Ver también
 
-- [[Rol_climax|Rol climax]]
 - Descubrimiento
 - [[Magia_interior|Magia interior]]
 - Personaje

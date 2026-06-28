@@ -123,3 +123,8 @@ imagen: null
 - **Fundación de la ONG** — recogida de niños huérfanos en Caldero
 - **Ciclo presente — Profecía Cageewrights** — Teo identificado como uno de los trece elegidos
 - **Habitación compartida con Lucky** — Bastardo Cromas, rumores de prensa sensacionalista
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El paladín de [[La_Jabalina]] que perdió el brazo en [[Yathrebu]] salvando a un compañero —el sacrificio de la banda hecho carne—. Forma pareja paladinesca con [[Lucky]] en el [[Bastardo_Cromas]]: uno carga lo perdido, el otro lo recuperado. La banda lo absorbió desde aquella noche de niebla en [[Caldero]] persiguiendo a [[Jaromir]], y su mutilación lo ata a la profecía [[Cageewrights]]: la sigla colectiva sostiene a sus miembros marcados.* — glosa de Arkos el archivero del Plata.
+<!-- /CICLO -->

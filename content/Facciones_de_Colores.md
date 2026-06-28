@@ -12,7 +12,7 @@ aliases:
 
 ## Presentación
 
-[[Lords_of_Creation_Sistema_TNW|Sistema]] de partidos que opera en la corte bizantina y en el circo —el [[Hipodromo_Bizantino|Hipódromo]]— de [[Constantinopla_Ucronica_1055_CE|Constantinopla]]. Las más poderosas son la Verde y la Azul. El archivo reconoce en el sistema un eco de las antiguas facciones del [[Micro_Arena_Hipodromo|Hipódromo]] —Verdes, Azules—, pero en esta ucronía los colores no son meras parcialidades del circo: detentan poder mágico real y cultivan alianzas demoníacas. Cada facción envía emisarios a las reuniones diplomáticas donde se disputa el destino del Imperio.
+Sistema de partidos que opera en la corte bizantina y en el circo —el [[Hipodromo_Bizantino|Hipódromo]]— de [[Constantinopla_Ucronica_1055_CE|Constantinopla]]. Las más poderosas son la Verde y la Azul. El archivo reconoce en el sistema un eco de las antiguas facciones del [[Micro_Arena_Hipodromo|Hipódromo]] —Verdes, Azules—, pero en esta ucronía los colores no son meras parcialidades del circo: detentan poder mágico real y cultivan alianzas demoníacas. Cada facción envía emisarios a las reuniones diplomáticas donde se disputa el destino del Imperio.
 
 Cinco colores quedaron registrados en la recepción diplomática celebrada en el oasis de la [[Dama_Amarilla_Senora_del_Oasis|Dama Amarilla]]:
 
@@ -35,3 +35,8 @@ La recepción terminó en revelación y violencia: los emisarios Verde, Azul, Bl
 - [[Swan]] — abatió a la emisaria Azul
 - [[Claude_Nauge|Claude Nauge]] — ejecutor de [[Eurodico]]
 - [[Osfiotauro]] — criatura liberada por las fuerzas de la torre en el mismo arco del [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ※
+> *El color es la cosa: cada facción ES su matiz, y la identidad se juega en el nombre —Verde, Azul, Blanco, Rojo, Amarillo— antes que en la persona, al punto que los emisarios resultaron impostores que habían reemplazado a los verdaderos. Y nadie se vence del todo: los cuatro derrotados en el oasis de la [[Dama_Amarilla_Senora_del_Oasis|Dama Amarilla]] se guardan y reaparecen como los Cuatro Generales de Guerra en el [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]] —la Azul cae ante [[Swan]], [[Eurodico]] ante [[Claude_Nauge|Claude Nauge]]— en una segunda cosecha de la misma cara.* — glosa de Amitlai.
+<!-- /CICLO -->

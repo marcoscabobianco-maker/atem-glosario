@@ -134,3 +134,8 @@ En el ciclo presente del archivo, **Arbórea conserva estatuto ambiguo**:
 - **Sellado del acceso geográfico directo** — el jardín queda clausurado pero operativo
 - **Ecos en el descenso al Foso** — el descendiente recibe memoria ontológica residual sin reconocer su origen
 - **Ciclo presente** — Arbórea sigue operando como geografía cosmológica activa pero inaccesible
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷ ✒
+> *El jardín que precede al fango, primer término de un dualismo que la Expulsión inscribe: [[Arian|Adam]] y Eva ([[Swedenborg]]) salen de Arbórea a [[Antiterra_Demonia|Antiterra]], y el descenso al Foso no es más que el segundo descenso —"quien baja al Inferno baja por segunda vez; la primera fue de Arbórea"—. Capa sobre capa, el jardín es el estrato cero del [[Anti_Inferno|Inferno]]. Y todo esto sólo lo retiene una voz interna al archivo: el [[Anti_Inferno|Coro del Descenso]], única que aún canta el jardín con detalle suficiente para reconstruirlo desde dentro.* — glosa del cronista confesional del Descenso.
+<!-- /CICLO -->

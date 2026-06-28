@@ -28,12 +28,12 @@ La **Ciudadela Sin Sol** es la **antigua sede del Lord [[Decio_Balmora]]** —el
 
 Durante el **desastre de [[Ritornello]]** hace 15 años —*"lo de las cenizas"*—, la estructura del valle se quebró: una **grieta horrenda** se abrió, y el castillo de Decio **se hundió 20-30-40 metros**. No fue destruido del todo: quedó en **escombros parcialmente accesibles**, una ruina vertical en el risco. Otras estructuras del valle también se vieron afectadas.
 
-### Cross-campaña con Novatos Ravenloft
+### Cross-gesta con Novatos Ravenloft
 
 **La Ciudadela Sin Sol de [[Ardis_Vala]] = el mismo escenario que la [[Ciudadela_Hundida|Ciudadela hundida]]** que recorren los [[Novatos_Ravenloft|Novatos Ravenloft]]. Es **literalmente el mismo escenario diegético**:
 
 - **[[Stejara]]/[[Estellara]]/[[Valdemora]]** = pueblo natal del descenso
-- **[[Mirela_Valka|Mirela]] Vălcan/Valka** = madre de los hijos perdidos (figura cross-campaña)
+- **[[Mirela_Valka|Mirela]] Vălcan/Valka** = madre de los hijos perdidos (figura cross-gesta)
 - **Barranco profundo con vaho dulzón** = entrada al dungeon (en [[Ardis_Vala]], también el risco hundido de la Ciudadela)
 - **30 años desde el arma** ≈ **15 años desde [[Ritornello]]** (Ardis Vala) — discrepancia cronológica pendiente
 - **Las uniones de carbono se deshicieron** —daño orgánico masivo, [[Cristalizacion_Maquinas|cristalización]] técnica acompañó—
@@ -67,8 +67,13 @@ Cuando Luminita y Dracos (hijos de [[Mirela_Valka]]) desaparecen, los [[Buscador
 - [[Valdemora]] — pueblo cercano que mira el risco
 - [[Mirela_Valka]] — madre de los chicos perdidos en la Ciudadela
 - [[Barrado_Balacan]] — región
-- [[Ardis_Vala_campaña|Ardis Vala (campaña)]]
+- [[Ardis_Vala_campaña|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - el regreso tras el Hiato — sitio de descenso principal. Múltiples capas exploradas.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El castillo de [[Decio_Balmora]] que la grieta de [[Ritornello]] hundió cuarenta metros, vuelto boca de descenso vertical: por sus escombros se baja a la reina cobold, luego a la cripta corrupta de [[Bellaca|Lali]], luego a las monstruosidades licenciosas, y al fondo al pentagrama de tres colores que abre al [[Palacio_del_Prisma]]. Cada capa es un estrato más oscuro que el anterior —y el mismo escenario reaparece como la [[Ciudadela_Hundida]] que recorren los [[Novatos_Ravenloft|Novatos]], el dungeon leído dos veces.* — glosa del archivero del Plata.
+<!-- /CICLO -->

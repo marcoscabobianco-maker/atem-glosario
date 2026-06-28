@@ -42,3 +42,8 @@ Qué supieron, exactamente, el cuaderno no lo resuelve, y el archivo apenas conj
 - [[Franja_de_Disolucion]] — la deriva que acaso midieron y callaron.
 - [[Maleika_Maleyka]] — la tinta azul corre sobre la página de la genealogía de sus doce hijos.
 - [[Apocalipsis_Multiple_C67]] — la tinta verde de la misma página.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Los Mercane callan «como Suiza»: banqueros zafiro del multiverso que saben algo que toca a [[Grazzt|Graz'zt]] y no lo dicen, porque la neutralidad bancaria no toma partido entre clientes. En su bóveda de [[Union_ciudad_Mercane|Unión]] custodian la [[Gema_de_la_Creacion]] y los escritos donde el archivillano fijó su propia dualidad —Terra y Antiterra, el mundo y su espejo—; pudieron medir la deriva hacia la [[Franja_de_Disolucion]] y no advertir a nadie. La casa de cambio se sienta entre los dos hemisferios y cobra a ambos.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

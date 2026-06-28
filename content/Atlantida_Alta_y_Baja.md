@@ -85,3 +85,8 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada aquí en p
 - **1784 A.D.A. — instalación del Juego de las Sombras** — desde la Alta
 - **Arco atlante de [[Los_Profundos]]** — recibimiento, visiones akásicas
 - **[[Sucesos_de_Antiterra]] p.6-8, p.17** — referencias documentales mayores
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⟳ ⛓
+> *Reino que no se hundió por castigo: decidió quedarse abajo y mandar desde el fondo. Se desciende a ella por túneles oceánicos o por la [[Plataforma_Piscis|Plataforma de Piscis]], y se reparte en pisos —la Baja sostiene a la Alta como suburbio a capital—. En la cima el [[Cakravartin]] ya no es rey sino sustituto, administrador del [[Juego_de_las_Sombras]] y sus plataformas zodiacales: el que cuida la rueda en lugar del que la giraba. [[Los_Profundos]] llegaron como banda y fueron reconocidos en ellos las encarnaciones de otras eras.* — glosa del archivero del Plata.
+<!-- /CICLO -->

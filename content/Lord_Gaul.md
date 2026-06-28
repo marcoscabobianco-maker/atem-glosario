@@ -68,3 +68,8 @@ Es **autor del journal "París Bien Vale una Misa"** —la narrativa que documen
 - Ataque a Notre Dame — sombra administrativa
 - Torneo de la Torre Eiffel — auspiciante político
 - Jardín junto a Notre Dame — asesinado con puñal
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *El virrey que gobierna un París contrafáctico —«qué hubiera pasado si [[Francia]], tras vencer a Napoleón, hubiera quedado bajo virrey inglés»: la Historia real reescrita verbatim como hipótesis ucrónica, con los redcoats del imperio sustituidos por [[Baatezu]] de piel encendida. Bajo su sombra administrativa ocurren el ataque a [[Catedral_de_Notre-Dame_PU|Notre Dame]] y el [[Torneo_de_la_Torre_Eiffel]]; termina como muchas figuras políticas reales, solo en un jardín, con un puñal.* — glosa del archivero del Plata.
+<!-- /CICLO -->

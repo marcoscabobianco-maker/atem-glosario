@@ -29,7 +29,7 @@ tags:
 
 ### La gesta romana: los mártires de 73-74 d.C.
 
-Su primer peso histórico viene de la **rebelión judía contra Roma**. Durante la Primera Guerra Judeo-Romana, los **sicarios zelotes** —**casi mil hombres, mujeres y niños**— resistieron en Masada hasta el **73-74 d.C.**, cuando la X Legión Fretensis del general Lucio Flavio Silva sitió la fortaleza durante meses construyendo una rampa monumental. La noche antes del asalto final, **los defensores se suicidaron en masa** antes que entregarse. El historiador **[[Flavio_Josefo|Flavio Josefo]]** —que estuvo del lado romano en otras campañas y conoció a los sobrevivientes— **escribió la crónica** del episodio en *La Guerra de los Judíos*. La fortaleza quedó como **símbolo del martirio judío** y, después, del nacionalismo israelí moderno.
+Su primer peso histórico viene de la **rebelión judía contra Roma**. Durante la Primera Guerra Judeo-Romana, los **sicarios zelotes** —**casi mil hombres, mujeres y niños**— resistieron en Masada hasta el **73-74 d.C.**, cuando la X Legión Fretensis del general Lucio Flavio Silva sitió la fortaleza durante meses construyendo una rampa monumental. La noche antes del asalto final, **los defensores se suicidaron en masa** antes que entregarse. El historiador **[[Flavio_Josefo|Flavio Josefo]]** —que estuvo del lado romano en otras gestas y conoció a los sobrevivientes— **escribió la crónica** del episodio en *La Guerra de los Judíos*. La fortaleza quedó como **símbolo del martirio judío** y, después, del nacionalismo israelí moderno.
 
 ### La fortaleza de las cruzadas
 
@@ -61,3 +61,8 @@ La elección de Masada como punto de disparo no es geográfica solamente: es **s
 - 73-74 d.C. — sitio romano, suicidio en masa de los sicarios
 - Siglo XII / cruzadas — segunda ocupación
 - 1120 — ballestazo de Graz'zt verdugo que decapita a Kronamon
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ⌖
+> *La fortaleza no muere con sus mártires: late en el siglo I con los sicarios contra Roma, queda en crisálida casi mil años abandonada y reaparece en las cruzadas como plataforma operativa. Desde su altura sale el ballestazo de [[Grazzt|Graz'zt]] verdugo que decapita a [[Kronamon]] en 1120 —la sede de la muerte voluntaria reescrita como sede de la muerte forzada del dios del tiempo. La Historia real entra verbatim: [[Flavio_Josefo|Flavio Josefo]], la X Legión, el suicidio en masa, todo inscrito sin maquillaje en el archivo.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

@@ -73,3 +73,8 @@ imagen: Imagenes_Tier1/Bosforo_Ucronico.png
 - **[[Sarajevo_1914_Salto_Temporal|Salto temporal]] — reaparición en el mismo estrecho hacia 1055** — [[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica]] operativa
 - **1055 — operaciones bizantinas continuas** — corredor obligado de la regencia uchrónica
 - **Tiempo continuo del estrecho** — paso de mercaderías, viajeros, ejércitos en las dos épocas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Nexo cronomántico fijo: el mismo punto geográfico en todas sus eras, de modo que lo que pasa por aquí en 1901 reaparece en 1055 sin recorrer siglo. Los [[Time_Bandits]] naufragan frente a Constantinopla y reaparecen en el mismo estrecho cinco siglos atrás disparando la [[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica]] —desplazamiento temporal puro, mismo lugar, distinto tiempo—. El tiempo se viaja como mercancía; el estrecho es la aduana donde se paga el pasaje.* — glosa de Paulus.
+<!-- /CICLO -->

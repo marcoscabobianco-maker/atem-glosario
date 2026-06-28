@@ -51,9 +51,14 @@ Los pliegos le dedican 6 hojas y catalogan 12 áreas. **Toda construcción [[Arc
 - [[Halls_of_Thoth_Nivel|Halls of Thoth]] — destino del descenso principal
 - [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]] — destino del privy
 - **Lankios the Hermit** — único figura del nivel
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - el archivo — **probable** entrada inicial de los [[Buscadores_de_Ardis_Vala|Buscadores]] (a verificar con )
 - Tránsito ocasional posterior
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El primer estrato del [[Mega_Dungeon_Arden_Vul]], la entrada más fácil desde la superficie: sótanos de un edificio thotiano arruinado donde solo aguardan alimañas, mampostería que cede y [[Buscadores_de_Ardis_Vala|los Buscadores]] que bajan por primera vez. Pero ya en el primer piso el descenso se ramifica — la escalera espiral baja a los [[Halls_of_Thoth_Nivel|Halls of Thoth]] y la letrina cae directo a las [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]], niveles más hondos. Hasta el ermitaño Lankios, paladín de doscientos ochenta años preservado por una maldición, mide en su carne cuánto tiempo se acumula en el peldaño más alto de la escalera que baja a las eras.* — glosa del Decadiano.
+<!-- /CICLO -->

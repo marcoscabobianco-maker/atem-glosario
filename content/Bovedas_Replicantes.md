@@ -18,7 +18,6 @@ aliases:
 **[[Proteccion_Hechizo_de_Encantamiento|Protección]]:**
 - Guardias internos (celadones)
 - Magia especial de preservación
-- [[Protocolo_de_acceso]] restringido
 
 ## Ver también
 

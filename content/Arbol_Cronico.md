@@ -26,3 +26,8 @@ Mecanismo de viaje temporal orgánico en [[Kumal_Armenia_Libre|Kumal]]. Compuest
 ## Notas
 
 ¿Natural o artificial? ¿Relación con el "árbol donde estaba clavado el Castillo" (el regreso tras el Hiato)? ¿Relación con el árbol de [[Zoe_Emperatriz|Zoe]] en [[Constantinopla_Ucronica_1055_CE|Constantinopla]] (contaminado por [[Zygomind]])? Ver también **[[Kumal_Armenia_Libre|Kumal]]**, **[[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica]]**, **[[Meteora]]**.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Una máquina que vende destino temporal: árbol petrificado, el Reloj de [[Meteora]] y una granada-fruto que, al activarse en [[Kumal_Armenia_Libre|Kumal]], salta a coordenadas precisas del tiempo. La [[Bengala_Sucronica_Bengala_Cronica|Bengala Sucrónica]] se acopla al mecanismo. «Veritas filia temporis»: la verdad es hija del tiempo, y aquí el tiempo se viaja como quien recorre un huerto.* — glosa del archivero del Plata.
+<!-- /CICLO -->

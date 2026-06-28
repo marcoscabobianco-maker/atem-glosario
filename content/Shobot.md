@@ -45,7 +45,7 @@ A su alrededor la visión muestra un **salón de círculos de cristales** que no
 
 ## Yoigor y lo que duerme
 
-En el fárrago de las visiones, junto al nombre de Shobot, aflora otro que los presentes oyen como *Yoigor* —la deformación, en boca de quien lo soñó, de **[[Yog-Sothoth_TNW|Yog-Sothoth]]**, la potencia que en el saber del Mythos es la llave y la puerta de lo que está afuera del tiempo. La crónica no llega a fijar si Shobot es un avatar de esa potencia, una de sus máscaras, o sólo un nombre vecino que la marea onírica arrastró pegado. Lo que el archivo registra es la resonancia: detrás del ojo del espejo late lo mismo que late bajo el agua y bajo el piso de la basílica, esa profundidad sin fondo de la que la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] es, en tierra y en mar, apenas la mano servidora. Su arco queda abierto: el nombre es una brasa, no un mapa, y lo que Shobot sea del todo pende todavía sobre la campaña.
+En el fárrago de las visiones, junto al nombre de Shobot, aflora otro que los presentes oyen como *Yoigor* —la deformación, en boca de quien lo soñó, de **[[Yog-Sothoth_TNW|Yog-Sothoth]]**, la potencia que en el saber del Mythos es la llave y la puerta de lo que está afuera del tiempo. La crónica no llega a fijar si Shobot es un avatar de esa potencia, una de sus máscaras, o sólo un nombre vecino que la marea onírica arrastró pegado. Lo que el archivo registra es la resonancia: detrás del ojo del espejo late lo mismo que late bajo el agua y bajo el piso de la basílica, esa profundidad sin fondo de la que la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] es, en tierra y en mar, apenas la mano servidora. Su arco queda abierto: el nombre es una brasa, no un mapa, y lo que Shobot sea del todo pende todavía sobre la gesta.
 
 ---
 

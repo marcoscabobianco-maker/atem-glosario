@@ -76,7 +76,7 @@ La doctrina interna de la Casa Azul de Vala —*conservada en archivos privados 
 
 - **[[Plataformas_de_Vala-Ely|Las Plataformas de Vala-Ely / Islaires / Elysian]]** — *zona antigua de intercambio entre planos, ahora estancada*. **El topónimo [[Plataformas_de_Vala_Ely|Vala-Ely]]** *no es accidente*: **la Casa Azul tuvo presencia en las Plataformas antes de que cayeran en fase de estancamiento**. *Probablemente fue su geografía primigenia*, *o una de las primeras*.
 
-- **[[Vitalis]]** — *hijo de la unión de [[Lotario]]/[[Oratiol]]/Taylor con Thalia Cristalia*. **Casa Azul por ambos lados**. *[[Vitalis]] cierra arco trans-campaña en [[La_Jabalina]]* que el archivo recoge con atención.
+- **[[Vitalis]]** — *hijo de la unión de [[Lotario]]/[[Oratiol]]/Taylor con Thalia Cristalia*. **Casa Azul por ambos lados**. *[[Vitalis]] cierra arco trans-gesta en [[La_Jabalina]]* que el archivo recoge con atención.
 
 - **Otras geografías** — *el archivero del Plata sospecha manifestaciones en el Mediterraneum, en [[Albion]], en geografías de [[Torregrises]]*, *pero sin documentación firme*.
 
@@ -118,7 +118,7 @@ La doctrina interna de la Casa Azul de Vala —*conservada en archivos privados 
 
 - **El [[Papa_Alejandro_Sixto|Papa Alejandro Sixto]]** —*polo positivo Borg en Ardis Vala*— **opera en geografía Vala** *sin ser de la Casa Azul*. **Es papa intruso en el valle del linaje**, *cuyas operaciones en el trono de rubí del [[Palacio_del_Prisma]]* **se hacen sobre suelo doctrinalmente Azul** *aunque el papa mismo no porte la sangre*.
 
-- **El [[Papa_Borg_de_Caldero|Papa Borg de Caldero]]** —*polo negativo, aplastado por la Giganta*— **operó en geografía donde la Casa Azul tiene presencia activa via Vitalis en su faceta d[[Vitalis|el [[Vitalis|Hechicero del Río Blackwater]]]]** *(Caldero post-revolución industrial)*. **[[Giganta_Antigua|La Giganta Antigua]] que lo destruyó** *no era de la Casa, pero su [[Espada_de_Juicio]]* **resuena con el cristal Vala** *según una lectura minoritaria del archivero del Plata*.
+- **El [[Papa_Borg_de_Caldero|Papa Borg de Caldero]]** —*polo negativo, aplastado por la Giganta*— **operó en geografía donde la Casa Azul tiene presencia activa via Vitalis en su faceta del [[Vitalis|Hechicero del Río Blackwater]]** *(Caldero post-revolución industrial)*. **[[Giganta_Antigua|La Giganta Antigua]] que lo destruyó** *no era de la Casa, pero su [[Espada_de_Juicio]]* **resuena con el cristal Vala** *según una lectura minoritaria del archivero del Plata*.
 
 *La hipótesis cosmológica*: **el papado Borg busca ocupar geografías Vala** *como medio de acceder al cristal mayor*. **La Casa Azul opera como custodio**, *consciente o inconsciente*. *Donde la Casa Azul tiene presencia activa y vigilante*, **el papado Borg falla** (Caldero). *Donde la Casa Azul está dispersa o ausente operativamente*, **el papado Borg avanza** (Ardis Vala, sin Casa Azul vigilante en el ciclo del Hiato).
 

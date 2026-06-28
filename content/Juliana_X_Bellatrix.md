@@ -36,7 +36,7 @@ La lámina —*la emperatriz armada, casco bajo el brazo, mano sobre la rodilla 
 
 **Juliana X Bellatrix** —*la décima Juliana del linaje imperial archonteo*, **Bellatrix** que en lengua archontea antigua significa "guerrera"— fue **Emperatriz del Imperio Archonteo** hace **trescientos cincuenta y cuatro años por la cuenta del [[Decadiano]]**, *fechado al 2639 AEP, año en que las legiones imperiales reentraron en Irthuin*.
 
-El epíteto **Bellatrix** no es ornamental. **Fue ganado en campaña**, *no concedido en coronación*: la emperatriz **encabezó personalmente** las primeras tres campañas de la Reconquista, *vistió armadura completa, durmió en tiendas de mando, perdió un caballo en la travesía costera entre [[Narsileon]] y [[Arcturos]]*. **El cronista decadiano lo registra como excepción notable**: en la dinastía Drusus-Juliana-Constans, *son pocos los monarcas que han mantenido el porte guerrero en plena campaña*. **Juliana lo hizo**.
+El epíteto **Bellatrix** no es ornamental. **Fue ganado en gesta**, *no concedido en coronación*: la emperatriz **encabezó personalmente** las primeras tres gestas de la Reconquista, *vistió armadura completa, durmió en tiendas de mando, perdió un caballo en la travesía costera entre [[Narsileon]] y [[Arcturos]]*. **El cronista decadiano lo registra como excepción notable**: en la dinastía Drusus-Juliana-Constans, *son pocos los monarcas que han mantenido el porte guerrero en plena gesta*. **Juliana lo hizo**.
 
 ---
 
@@ -58,7 +58,7 @@ La estrategia de la emperatriz fue **deliberadamente contraria** a la doctrina e
 
 ## La fundación de Ritornello
 
-Sobre los **exarcados de Narsileon y Arcturos** —*establecidos directamente por Juliana en campaña*—, los **sucesores de la emperatriz** fundaron **nuevos puestos avanzados** hacia el interior. **[[Ritornello]]**, el pueblo del [[Valle_de_Burdock]], **fue fundado hacia el ~2718 AEP**, *unos setenta y cinco años después de la Reconquista propia*, **bajo autoridad del exarca de Narsileon**.
+Sobre los **exarcados de Narsileon y Arcturos** —*establecidos directamente por Juliana en gesta*—, los **sucesores de la emperatriz** fundaron **nuevos puestos avanzados** hacia el interior. **[[Ritornello]]**, el pueblo del [[Valle_de_Burdock]], **fue fundado hacia el ~2718 AEP**, *unos setenta y cinco años después de la Reconquista propia*, **bajo autoridad del exarca de Narsileon**.
 
 *El cronista decadiano lo registra con cuidado*: **la fundación de [[Ritornello]] es nieta directa de la Reconquista**, *aunque la emperatriz Bellatrix ya no la presenciara en vida*. **El nombre de Juliana sigue grabado** en los **pliegos de fundación** del pueblo, *como autoridad última que legitimó la expansión hacia la zona*.
 
@@ -135,7 +135,7 @@ Lo que el archivo sí conserva: **una hija**, *Julia Minor*, *o Iulia Bellatrix 
 
 ## Apariciones
 
-- **Reinado y campaña Bellatrix (~2635-2645 AEP)** — emperatriz vestida con armadura, campañas costeras en Irthuin
+- **Reinado y gesta Bellatrix (~2635-2645 AEP)** — emperatriz vestida con armadura, gestas costeras en Irthuin
 - **2639 AEP — Cruce a Irthuin** — entrada de las legiones imperiales en el continente; fundación de los exarcados
 - **Renovación del [[Pacto_de_Elias_Elias_Ennio|Pacto de Elías]] en [[Monte_Ennio]]** — ritual dracónico mayor de su reinado
 - **Establecimiento de Narsileon y Arcturos como exarcados imperiales** — bases costeras de la Reconquista

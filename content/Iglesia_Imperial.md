@@ -175,7 +175,7 @@ Una pregunta cierra esta entrada, sin respuesta archivada:
 - [[Ardis_Vala]] / [[Mega_Dungeon_Arden_Vul]] — ruinas con templos antiguos vigentes en piedra
 - [[Archontean]] — pueblo
 - [[Pacto_de_Elias_Elias_Ennio]] — pacto fundacional anterior al Cisma
-- [[Mundo_de_Archontos]] — setting
+- [[Mundo_de_Archontos]] — el mundo de fondo
 
 ## Apariciones
 

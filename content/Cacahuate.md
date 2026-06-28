@@ -1,16 +1,18 @@
 ---
-tags:
- - "cdi"
+title: "Cacahuate"
 aliases:
- - "**Cacahuate**"
+ - "Cacahuate"
+en_construccion: true
 ---
 
-# **Cacahuate**
+> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
 
-## Presentación
+## Referencias entrantes
 
-**Categoría**: Geográfica / Ciudad Infierno
+- [[Ciudad_de_Dis_CDI]]
+- [[Jota_de_Corazones]]
+- [[Alegria_decreto]]
 
-**Descripción**: Ciudad del Quinto Círculo (Ira). Mencionada por Plutón. Ubicación futura potencial para el archivo.
-**Status**: figura/locación no explorada aún.
-**Refs**:
+---
+
+*Cuando el cronista expanda esta entrada, su contenido aparecerá aquí.*

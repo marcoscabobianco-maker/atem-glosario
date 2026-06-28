@@ -47,3 +47,8 @@ Su columna esencial es **la flecha hacia lo que excede el plano**: *lo que se ap
 
 - **Cosmología continua** — novena casa, columna de la flecha hacia el más-allá
 - **Guardián pendiente de nominación canónica**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Novena casa entre [[Plataforma_Escorpio|Escorpio]] y [[Plataforma_Capricornio|Capricornio]]: el centauro arquero tensa el arco hacia un blanco más allá del borde y custodia la plataforma bajo la ley de la [[Corrupcion_Dual|Corrupción Dual]], el oficio que se gana matando al que lo tiene. Sagitario no acumula ni mide: lanza —pero el arquero que hoy guarda la casa es, como en las doce del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]], un titular provisorio del cargo rotativo, sin nombre canónico todavía.* — glosa de Arkos.
+<!-- /CICLO -->

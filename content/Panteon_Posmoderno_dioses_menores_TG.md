@@ -41,3 +41,8 @@ Complementa la entrada existente de **[[Panteon_Posmoderno|Panteón Posmoderno]]
 - [[Intimus|Intimus]]
 - [[Intactus|Intactus]]
 - [[Tentator|Tentator]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦
+> *Dioses latinizantes que mapean vicios posmodernos sobre dominios arcaicos —[[Anxifer]] sobre los medios, [[Intrico]] sobre la política, [[Tentator]] sobre el dinero— y operan en dos pisos: el teológico abstracto de los menores y el mundano encarnado del [[Panteon_Posmoderno|Panteón]] propiamente dicho, donde [[Sabas]] es Soberbia y [[Sucor_TG|Sucor]] es Ira. La apoteosis se lee al revés: lo divino baja a habitar figuras de poder de la ciudad. «El Panteón Posmoderno ha resurgido. Sus dioses tienen nombre.»* — glosa de Amitlai.
+<!-- /CICLO -->

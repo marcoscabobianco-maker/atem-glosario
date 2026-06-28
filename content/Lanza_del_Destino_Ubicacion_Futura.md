@@ -18,4 +18,3 @@ aliases:
 ## Ver también
 
 - Descubrimiento
-- [[Funcion_predicha|Función predicha]]

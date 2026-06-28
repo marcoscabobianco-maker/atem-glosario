@@ -19,4 +19,4 @@ Indio Sierra Nevada mestizo, estaba destinado a ser chamán pero rompió con su 
 
 ## Notas
 
-El "algo crucial que no puede recordar" es un gancho narrativo que la campaña deja sin resolver. Su escena en el pozo es la escena de horror más intensa de la campaña.
+El "algo crucial que no puede recordar" es un gancho narrativo que la ciclo deja sin resolver. Su escena en el pozo es la escena de horror más intensa de la ciclo.

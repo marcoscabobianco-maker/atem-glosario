@@ -1,7 +1,8 @@
 ---
-title: "REDENCIÓN DEMONÍACA / NEUTRAL CAÓTICO REDENCIÓN EXTRAORDINARIO"
+title: "La Redención de Ärsvan"
 categoria: lugar
 aliases:
+ - "La Redención de Ärsvan"
  - "REDENCIÓN DEMONÍACA / NEUTRAL CAÓTICO REDENCIÓN EXTRAORDINARIO"
  - "REDENCIÓN DEMONÍACA"
  - "NEUTRAL CAÓTICO REDENCIÓN EXTRAORDINARIO"
@@ -9,12 +10,7 @@ aliases:
 
 ## Presentación
 
-- **[[Alineamiento_nuevo]]:** [[Arsvan|Ärsvan]] post-sacrificio = "Neutral Caótico Redención Extraordinario"
-- **Mecanismo:** Demonios ([[Ariadna_Genoveva|Ariadna]]/[[Ariadna_Genoveva|Genoveva]]) pueden redimirse vía amor (love = redemption)
-- **Filosofía:** Cambio moralidad es posible. Ni destino ni eterna condenación.
-- **Conexión:** Presagia el Descenso where [[Arsvan|Ärsvan]] permanece condenado pero redimido (paradoja).
-
-## Ver también
-
-- [[Alineamiento_nuevo|Alineamiento nuevo]]
-- Filosofía
+- **La índole inédita:** [[Arsvan|Ärsvan]], tras el sacrificio, encarna una redención que no cabe en ninguna de las naturalezas conocidas —una condición moral sin nombre previo, caótica y a la vez redimida.
+- **El principio:** los demonios ([[Ariadna_Genoveva|Ariadna]]/[[Ariadna_Genoveva|Genoveva]]) pueden redimirse por el amor: amar es redimirse.
+- **Doctrina:** el cambio de la índole es posible. Ni destino ni eterna condenación.
+- **Conexión:** presagia el Descenso, donde [[Arsvan|Ärsvan]] permanece condenado y a la vez redimido —la paradoja que sostiene su figura.

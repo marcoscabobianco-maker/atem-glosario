@@ -22,7 +22,7 @@ La lámina la fija como **demonesa cristalina** —*piel como cuarzo helado, cab
 **Forma:** Nagashi (serpiente) que se transforma en figura mitad serpiente, mitad ángel
 **Origen:** "Sangre Leland" — linaje MC
 **Lenguaje:** Lengua primordial
-**Rol narrativo:** [[La_Serpiente|La Serpiente]] del Edén (retelling gnóstico)
+**En el relato:** [[La_Serpiente|La Serpiente]] del Edén (reescritura gnóstica)
 
 **Descripción expandida:**
 Sariel se presenta en el estanque de [[Arborea_Eden_CDI|Arbórea]]/Edén como una criatura serpentina que adquiere forma de ángel-serpiente. Habla primordial. Se identifica como "la serpiente aquí". Ofrece el [[Fruto_del_Conocimiento_S11|Fruto del Conocimiento]] sin engaño, desde una perspectiva gnóstica: "Mi percepción es que eres un dios. Pero que has caído... En la miseria".

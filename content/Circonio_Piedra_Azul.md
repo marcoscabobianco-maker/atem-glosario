@@ -29,7 +29,7 @@ imagen: null
 
 En el centro de todo lo que pasa en la isla hay una piedra. Los hombres de ciencia de los años sesenta la nombran con su nombre de catálogo —**circonio**, el **elemento número cuarenta**, "minerales de circonia"— y la describen como conviene a un mineral: frío, azul, durísimo. Es ahí donde se tocan las tres edades de la roca austral: **lo cataloga la ciencia del siglo**, **lo encuentra la historia en suelo disputado**, **lo usa el Mythos**. Quien tiene oficio de química lo somete a análisis y obtiene lo que un análisis obtiene: composición, dureza, densidad. Lo que no obtiene —*porque ningún reactivo lo revela*— es que la piedra está esperando.
 
-*El archivo anota, sin comprometerse del todo con la coincidencia, que esta piedra azul rima con otra que circula muy lejos de las Malvinas*: el [[Arcanum]], la sustancia mágica primordial que late en las venas de [[Ardis_Vala]]. **Frío, azul, primordial, codiciado, posiblemente durmiente.** Son dos piedras de campañas distintas que parecen el mismo sueño visto desde dos costados —como tantas veces en este archivo, *una sola flecha cae sobre dos mundos a la vez*. El cuaderno donde quedó primero anotada esta materia la llamaba, con grafía propia, **zirconio**.
+*El archivo anota, sin comprometerse del todo con la coincidencia, que esta piedra azul rima con otra que circula muy lejos de las Malvinas*: el [[Arcanum]], la sustancia mágica primordial que late en las venas de [[Ardis_Vala]]. **Frío, azul, primordial, codiciado, posiblemente durmiente.** Son dos piedras de gestas distintas que parecen el mismo sueño visto desde dos costados —como tantas veces en este archivo, *una sola flecha cae sobre dos mundos a la vez*. El cuaderno donde quedó primero anotada esta materia la llamaba, con grafía propia, **zirconio**.
 
 ---
 
@@ -67,7 +67,7 @@ Frío y azul cuando la ciencia lo midió; rojo de sangre cuando la Orden lo desp
 
 - [[Orden_Esoterica_de_Dagon]] — la Orden de Dagón, dueña del dispositivo y artífice del rito del faro
 - [[Carcosa]] — la tierra de los dos soles que el huevo encierra como un mundo en miniatura
-- [[Arcanum]] — la sustancia azul primordial de [[Ardis_Vala]]; eco de otra campaña
+- [[Arcanum]] — la sustancia azul primordial de [[Ardis_Vala]]; eco de otra gesta
 - [[Ardis_Vala]] — el cristal de capas donde corre el [[Arcanum]]
 
 ## Apariciones
@@ -76,3 +76,8 @@ Frío y azul cuando la ciencia lo midió; rojo de sangre cuando la Orden lo desp
 - **El rito del faro** — la piedra se revela órgano vivo; faro convertido en tentáculo; frecuencia rosada
 - **El huevo amarillo** — la piedra transformada en ovoide hueco que silba y abre un ojo ante el espejo gálico
 - **El cristalizador de sueños** — brújula onírica en manos de Antonio / Alex
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Una sola flecha que cae sobre dos mundos a la vez: la Piedra Azul de las Malvinas de 1966 rima con el [[Arcanum]] que late en las venas de [[Ardis_Vala]] —ambos fríos, azules, primordiales, durmientes—, dos piedras de gestas distintas que parecen el mismo sueño visto desde dos costados. Y el huevo amarillo que deja al nacer encierra a [[Carcosa]], la tierra de los dos soles, como mundo en miniatura: cosmos contagiándose a cosmos, hasta que la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] lo despierta con sangre.* — glosa del archivero del Plata.
+<!-- /CICLO -->

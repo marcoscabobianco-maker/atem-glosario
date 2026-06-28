@@ -20,4 +20,4 @@ Ubicación de tiempo doblado, específicamente una anomalía temporal donde even
 
 ## Notas
 
-Ubicación potencial futura de aventura. Nombre sugiere "forgot" = olvido. Relación a antecedentes de campaña (evento anterior mencionado, reparación intentada). Puede vincular a cosmología Terra/[[Antiterra_Demonia|Antiterra]]/[[Sinterra]].
+Ubicación potencial futura de aventura. Nombre sugiere "forgot" = olvido. Relación a antecedentes de gesta (evento anterior mencionado, reparación intentada). Puede vincular a cosmología Terra/[[Antiterra_Demonia|Antiterra]]/[[Sinterra]].

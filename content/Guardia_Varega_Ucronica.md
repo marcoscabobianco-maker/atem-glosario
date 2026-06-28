@@ -58,3 +58,8 @@ imagen: Imagenes_Tier1/Guardia_Varega_Ucronica.png
 - **Bucle 1050–1055** — custodia del Gran Palacio en ambas fechas a la vez
 - **1051** — refundación como Nueva Guardia Varangiana por [[Corvino]]
 - **Jornadas 10–15 del ciclo presente** — integración con los [[Time_Bandits]], escenarios del Palacio
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⛓
+> *La disciplina que no se interrumpe entre 1050 y 1055 porque custodia un lustro plegado: los mismos varegos vigilan el Gran Palacio de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] en dos años a la vez, y los porteadores cruzan la plaza sin saber de qué fecha son. Sobre ese tiempo doblado [[Corvino|Corvino]] refunda el cuerpo en 1051 y lo estira hasta la [[13va_Legion|13ª Legión]] moderna —misma banda nombrada en dos pliegues, asunto disputado para los manuales pero un solo cuerpo para los varegos sobrevivientes. El tiempo aquí no avanza: se custodia.* — glosa del archivero del Plata.
+<!-- /CICLO -->

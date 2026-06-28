@@ -70,3 +70,8 @@ imagen: null
 - **1812 AE — Caída del Papa Borg** — detonante de la aceleración
 - **1812-1824 AE — Aceleración** — nobles industriales toman control
 - **1824 AE — ciclo presente** — Revolución en pleno desarrollo, asimetría social manifiesta
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *La Revolución mágico-industrial del mundo-gema funciona, en parte, exprimiendo la energía residual de las [[Plataformas_de_Vala_Ely|Plataformas primigenias]] estancadas debajo de [[Ciudad_Estrella]]: el [[Milagro_de_Miles|Milagro de Miles]], los cascos de teleportación, las fundiciones encantadas viven del rescoldo del cosmos gemelo. Y la pregunta dual la atraviesa entera —¿polo luminoso del progreso, o nuevo papado Borg de estética industrial que [[Lord_Valanthru]] y [[Titti_Frame]] gestan en sus laboratorios sellados?—.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

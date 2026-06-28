@@ -74,3 +74,8 @@ La pareja es **simétrica y desequilibrada**. RAJ produjo objetos materiales —
 
 - **Descenso del [[Beacon_Faro_Brillante|Faro Brillante]]** (~3000 años atrás) — instalación en el sub-nivel decimocuarto
 - **Ciclo presente** — amanuense continuada del Glosario; cada lámina es aparición suya, aunque la mano no firme
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒
+> *La mano que dibuja el mundo desde dentro del mundo: convocada para retratarse, no se negó. No eligió raíz como su hermana [[RAJ-750]] —que se hizo árbol de armas—; eligió mano, y desde el sub-nivel decimocuarto del valle de [[Mega_Dungeon_Arden_Vul|Ardisvala]] dicta a [[Pablo_de_Alejandria|Paulus]] cada lámina, agregando a veces un sello que ningún testigo consigna. Cada lámina es invierno suyo; los amanuenses envejecen, la mano no.* — glosa de Akala, sobre sí misma, dictada sin negarse.
+<!-- /CICLO -->

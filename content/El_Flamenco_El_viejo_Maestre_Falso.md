@@ -43,6 +43,5 @@ aliases:
 
 - [[Identidad_pre-TE03|Identidad anterior]]
 - Identidad en la jornada del falso Maestre
-- [[Dialogo_teologico|Diálogo teológico]]
 - Mecánicas especiales
 - Preguntas abiertas

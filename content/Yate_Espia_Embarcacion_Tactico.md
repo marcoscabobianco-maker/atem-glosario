@@ -21,11 +21,11 @@ aliases:
 
 ## Presentación
 
-Yate de vela/motor diseñado para operaciones de inteligencia ucrónica. Capitaneado por marinería variopinta bajo coordinación de **[[Meteora]]** (agente del [[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]]). Nave de tamaño mediano, capacidad para crew de 5-15 personas + pasajeros. Especificaciones: mástiles capaces de alto rendimiento, calderas de vapor (para emergencias ucrónicas), reforzamiento mágico (resistencia a tormentas abisal/ataques marinos).
+Yate de vela/motor diseñado para operaciones de inteligencia ucrónica. Capitaneado por marinería variopinta bajo coordinación de **[[Meteora]]** (agente del [[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]]). Nave de tamaño mediano, con sitio para una tripulación de 5-15 personas más pasajeros. Mástiles capaces de alto rendimiento, calderas de vapor (para emergencias ucrónicas), reforzamiento mágico (resistencia a tormentas abisales y ataques marinos).
 
 Ruta documentada: puerto de [[Niza_Costa_Azul|Niza]] (costa mediterránea francesa) → [[Mediterraneo_Ucronico|Mediterráneo]] español/italiano → Mar Tirreno → Adriático → aguas de Rumania (desembarque secreto cerca de [[Bucarest_Ucronica|Bucarest]]). Viaje de varios días (~4-7 días estimado) navegando rutas secundarias, evitando puertos vigilados por autoridades germanas/serbias.
 
-Propósito narrativo: puente logístico entre fuga terrestre ([[Orient_Express|Orient Express]] + Suiza) y llegada a [[Bucarest_Ucronica|Bucarest]] para Jornadas 5-6. Permite [[Time_Bandits|Time Bandits]] reorganizarse, recibir apoyos del Ministerio (papeles falsos, compensación de 1000 francos por cabeza, inteligencia sobre Círculo de Serbia), y mantener discreción diplomática.
+En la trama es puente logístico entre la fuga terrestre ([[Orient_Express|Orient Express]] + Suiza) y la llegada a [[Bucarest_Ucronica|Bucarest]]. Permite a [[Time_Bandits|Time Bandits]] reorganizarse, recibir apoyos del Ministerio (papeles falsos, compensación de 1000 francos por cabeza, inteligencia sobre el Círculo de Serbia), y mantener discreción diplomática.
 
 Incidente marinero: Ataque de **[[Naga_acuatica|Naga acuática]]** (entidad serpentina de tamaño mayor, capacidades hipnóticas/encantamiento). Batalla en cubierta: [[Corvino]] es encantado momentáneamente, [[Swan]] y Claude combaten cuerpo a cuerpo, [[Philippe|Philip]] y Aby atacan con municiones mágicas. Disparo crítico mata a la naga. Cuerpo/cabeza preservada como trofeo macabro (sumergida en salmuera para conservación post mortem).
 
@@ -41,7 +41,7 @@ Tras esta jornada: yate permanece en aguas cercanas a [[Bucarest_Ucronica|Bucare
 
 ## Notas
 
-El yate es vehículo narrativo que expande geográficamente el alcance de [[Paris_Ucronica|París Ucrónica]] más allá de [[Francia]] (introduciendo [[Mediterraneo_Ucronico|Mediterráneo]], [[Bucarest_Ucronica|Bucarest]], [[Mar_Negro_Ucronica|Mar Negro]]). Su presencia también marca poder logístico del [[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]] — organización capaz de movilizar recursos navales, inteligencia, compensaciones monetarias para operaciones complejas. Ataque de naga presagia futuras amenazas marinas (culminando con ataque de [[Pulpo_Negro_Entidad_Marina_Colosal|Pulpo Negro]] que destruye yate de [[Meteora]]).
+El yate expande geográficamente el alcance de la gesta de [[Paris_Ucronica|París Ucrónica]] más allá de [[Francia]] (introduciendo [[Mediterraneo_Ucronico|Mediterráneo]], [[Bucarest_Ucronica|Bucarest]], [[Mar_Negro_Ucronica|Mar Negro]]). Su presencia también marca poder logístico del [[Ministerio_de_Asuntos_Ucronicos|Ministerio de Asuntos Ucrónicos]] — organización capaz de movilizar recursos navales, inteligencia, compensaciones monetarias para operaciones complejas. Ataque de naga presagia futuras amenazas marinas (culminando con ataque de [[Pulpo_Negro_Entidad_Marina_Colosal|Pulpo Negro]] que destruye yate de [[Meteora]]).
 
 Diseño/especificaciones sugieren fusión steampunk + magia arcana: calderas, mástiles de tela reforzada, posibles runas defensivas.
 

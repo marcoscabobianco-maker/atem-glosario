@@ -18,7 +18,7 @@ aliases:
 
 ## Conexiones
 
-compañero de **Rodrigo Santamaría**. Intro especial documentada en `introTeoRodriD&DCaldero.docx`. Su muerte en el archivo (se lanza al interior de una entidad cósmica y la destruye desde dentro, rompiendo la realidad) resuena a nivel cósmico.
+compañero de **Rodrigo Santamaría**, con entrada en escena propia registrada en el archivo. Su muerte (se lanza al interior de una entidad cósmica y la destruye desde dentro, rompiendo la realidad) resuena a nivel cósmico.
 
 ## Ver también
 

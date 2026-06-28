@@ -27,3 +27,8 @@ El patrón puede repetirse. La linterna —la **Linterna de Llama Divina** que f
 - [[Bertrand]] — primer portador de la linterna bondeada; el bondeo como vínculo arcano del Foso
 - [[Lost_Ones]] — la compañía condenada sobre la que rige esta ley de renuncia
 - [[Anti_Inferno]] — el descenso donde opera la economía paradójica del desbondeo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Renunciar a un objeto bondeado para ganar Esperanza: la operación se cuenta por el círculo en que ocurre. [[Arian|Adam]] desbondeó sus alas en el tercer círculo y las entregó a las [[Gargolas_del_Tercer_Circulo|gárgolas]], y la doctrina ata el efecto al lugar —cada peldaño del [[Anti_Inferno|Descenso]] tiene su economía propia de renuncia—. La [[Esperanza_recurso_mecanica|Esperanza]] que engendra perder crece cuanto más hondo se paga; la linterna de [[Bertrand]], aún bondeada, costaría más abajo. El Foso cobra distinto en cada estrato.* — glosa del Decadiano.
+<!-- /CICLO -->

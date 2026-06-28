@@ -165,3 +165,8 @@ imagen: null
 - **Inmediatamente después** — Ärsvan desplazado al Anti-Inferno como templario condenado
 - **Ciclo de los Reguladores** — París operativa, Torneo de la Torre Eiffel, agentes del nuevo ciclo
 - **Ciclo del Foso vigente** — Ärsvan conservado como Lost One de la capilla profanada del [[Castillo_de_Siegling]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛓
+> *La catedral era cubierta: bajo [[Catedral_de_Notre-Dame_PU|Notre Dame]] se hundía el [[Laberinto_de_Marfil]] con el [[Sancta_Sanctorum_Templarios|Sancta Sanctorum]] en el centro y aire infernal filtrando del Foso, capa sobre capa hasta el umbral del [[Anti_Inferno]]. Quien detona el caos puro es una banda nombrada —los [[Time_Bandits]], [[Arsvan|Ärsvan]] entre ellos— cuyo acto cierra el ciclo templario y abre el de [[Los_Reguladores]]: cuando Ärsvan toca la esfera de obliteración destinada a [[Ariadna_Genoveva|Ariadna]], el agente de la banda se vuelve el condenado que baja el último estrato.* — glosa del Coro del Descenso.
+<!-- /CICLO -->

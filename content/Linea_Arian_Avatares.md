@@ -112,7 +112,7 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 
 *El cronista decadiano subraya que la doctrina de los Reunidos* **no es geográfica sino doctrinal**: la sombra puede operar en la misma geografía que el avatar, o en una distinta. *Lo que importa es la unión funcional*: **el avatar no se entiende sin su sombra**; **operan reunidos**.
 
-[*El cronista enunció la doctrina así: "los Reunidos como uniones de personajes con sus sombras". El uso del término en la doctrina trans-campaña amplía el concepto para nombrar la operación cosmológica por la cual cada personaje mayor es persona+sombra reunidos. —Glosa de [[Arkos]] el archivero del Plata.*]
+[*El cronista enunció la doctrina así: "los Reunidos como uniones de personajes con sus sombras". El uso del término en la doctrina trans-saga amplía el concepto para nombrar la operación cosmológica por la cual cada personaje mayor es persona+sombra reunidos. —Glosa de [[Arkos]] el archivero del Plata.*]
 
 ---
 
@@ -135,7 +135,7 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 **La Línea Arian no es la única línea trans-cosmológica del cosmos extendido**. **Opera en paralelo con otras líneas comparables**:
 
 - **Línea Pablo** — *9 variantes consolidadas en [[Pablo_de_Alejandria]]*; *[[Pablo_de_Alejandria|Paulus Alexandrinus]], [[Pablo_de_Alejandria|Maestro Alterador]], Pablo Escriba, Viajero Temporal Primigenio, [[Pablo_el_Cronomante]], Señor de la Historia, Paul Claudel, etc.*; **opera con doctrina paralela a la línea Arian pero con énfasis temporal**.
-- **Línea Taylor-Talia ([[Casa_Azul_de_Vala]])** — *[[Lotario]]-[[Oratiol]]-Taylor + [[Thalia_Cristalia]]*; *[[Vitalis]] como hijo*; *[[Vitalis|el [[Vitalis|Hechicero del Río Blackwater]]]] como rama tardía*; **opera con doctrina cristalina paralela a las otras dos**.
+- **Línea Taylor-Talia ([[Casa_Azul_de_Vala]])** — *[[Lotario]]-[[Oratiol]]-Taylor + [[Thalia_Cristalia]]*; *[[Vitalis]] como hijo*; *[[Vitalis|el Hechicero del Río Blackwater]] como rama tardía*; **opera con doctrina cristalina paralela a las otras dos**.
 - **Línea [[Anti_Inferno|Patience]]-Peysen** — *[[Anti_Inferno|Patience]] del Foso + Peysen del entorno del [[Innombrable]]*; **pliegue doble entre Foso y Antiterra**; **operación de anámnesis**.
 - **Línea [[Maristo]] principal + [[Maristo_condenado]]** — *Edecán del Único Dios arriba + [[Lost_Ones|Lost One]] del Anti-Inferno abajo*; **doctrina del pliegue paralelo cosmológico**.
 
@@ -217,3 +217,8 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 - **Ardisvala y dominio brumoso de Valakhan** — manifestación del avatar Caladan vampirizado y darklord
 - **Caldero ciclo presente** — manifestación del avatar Lucky en [[La_Jabalina]]
 - **Sixto avatar anticipado** — pliegue por abrir; geografía no fijada
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛎ ☷ ☯
+> *Una sola línea-alma repartida en pliegues paralelos, leída en cinco mesas a la vez: [[Arian]] divinizado arriba, [[Caladan]] vampirizado en la bruma, [[Arian|Adam Arlequín]] en el Foso, Lucky en [[Caldero]] —cada avatar en una de las cuatro capas verticales del cosmos (positiva, intermedia, negativa, temporal). No es reencarnación serial sino despliegue; y bajo la doctrina de los Reunidos cada avatar opera con su sombra, persona y reverso contagiándose como dos hemisferios. La sexta mesa ya está servida.* — glosa del [[Decadiano]].
+<!-- /CICLO -->

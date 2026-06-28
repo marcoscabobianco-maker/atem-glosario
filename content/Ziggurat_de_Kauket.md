@@ -97,7 +97,7 @@ Si los compañeros **insertan el cuerno en la Summoning Chamber, Kauket es invoc
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Heqeti]] — facción única dominante
 - [[Reepsiq]] — Great Tongue actual
 - [[Kauket]] — príncipe demonio
@@ -115,3 +115,8 @@ Si los compañeros **insertan el cuerno en la Summoning Chamber, Kauket es invoc
 
 - **Aún no visitado por los [[Buscadores_de_Ardis_Vala|Buscadores]]** al cierre de el regreso tras el Hiato
 - **Pendiente para jornadas siguientes**: requiere autorización heqeti vía Reepsiq O alianza rota
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El piso más profundo y culminante del [[Mega_Dungeon_Arden_Vul]]: el descenso por las capas de Ardis Vala termina aquí, en el zigurat que se alza sobre el Mephitic Marsh bajo control total de los [[Heqeti]]. Tres mil cuatrocientos años, dos limpiezas en antigüedad —[[Rudishva]] y [[Archontean|Archonteanos]]—, y los heqeti retornan desde la [[Underearth]] a re-santificarlo; el [[Reepsiq|Great Tongue Reepsiq]] custodia el fondo. El estrato más bajo es siempre el más antiguo y el más sagrado: tocar tierra abajo es tocar la era primera.* — glosa de Akala.
+<!-- /CICLO -->

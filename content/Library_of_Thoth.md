@@ -23,7 +23,7 @@ tags:
 
 ## Presentación
 
-La **Library of Thoth** —**Biblioteca de Thoth**— es **una de las bibliotecas más antiguas y completas** del [[Mega_Dungeon_Arden_Vul]]. Ubicada en el corazón de las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes y Pozo de Luz]]. Fuente clave de **información histórica** sobre todo el setting Vala/Archontos.
+La **Library of Thoth** —**Biblioteca de Thoth**— es **una de las bibliotecas más antiguas y completas** del [[Mega_Dungeon_Arden_Vul]]. Ubicada en el corazón de las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes y Pozo de Luz]]. Fuente clave de **información histórica** sobre todo el mundo Vala/Archontos.
 
 ### Contenido
 
@@ -91,7 +91,7 @@ Con la entrada en **[[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]**:
 - [[Sortianos]] / [[Teosofos]] — material del Cisma
 - [[Papa_Alejandro_Sixto]] — autoridad post-hiato (¿accede a la biblioteca?)
 - [[Bayrum_Cristalia]] — compañero Scrivener / sacerdote de Thoth (interés natural)
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

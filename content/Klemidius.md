@@ -13,7 +13,7 @@ Paladín novicio de Mothi, de armadura despareja. De la [[Novatos_Ravenloft|comp
 ## Vínculos
 
 - [[Novatos_Ravenloft|Novatos Ravenloft]] — la compañía a la que pertenece como novicio
-- [[Helix|Helix]] — aldea base de operaciones de la campaña
+- [[Helix|Helix]] — aldea base de operaciones de la gesta
 - [[Barrowmaze|Barrowmaze]] — mazmorra principal que explora
 - [[Strahd|Strahd]] — señor del dominio de Valachhan en el que opera
-- [[Kerbog_Khan|Kerbog Khan]] — el "Elfo Troll" rescatado en cross-campaña
+- [[Kerbog_Khan|Kerbog Khan]] — el "Elfo Troll" rescatado en cross-saga

@@ -11,7 +11,7 @@ aliases:
 
 **Tipo:** [[Little_Death_Campamento|Campamento]] militar enemigo.
 
-**Descripción:** Ubicado "del otro lado del Jordán" (geografía bíblica). [[Presencia_de]] "torcos" (mezcla Orc + Cimitarra, probable referencia a Türcos históricos Salukh). Criaturas menores ("nenúscas").
+**Descripción:** Ubicado "del otro lado del Jordán" (geografía bíblica). Presencia de "torcos" (mezcla Orc + Cimitarra, probable referencia a Türcos históricos Salukh). Criaturas menores ("nenúscas").
 
 **Características:** Tiendas de campaña militares. Armas de batalla. [[Lords_of_Creation_Sistema_TNW|Sistema]] de captura y prisiones.
 

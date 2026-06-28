@@ -49,3 +49,8 @@ Y al final **vendió su alma para salvar a los suyos**, y para devolver el alien
 - La canalización del patrón — la misión de las dos cabezas de [[Jacques_de_Molay|Molay]]
 - La infiltración entre los hombres del Temple, rumbo a Tierra Santa
 - El alma vendida — la vida devuelta a [[Luca_CI|Luca]] y el cruce de contratos
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ※
+> *Vendió su alma a [[Baphomet]] para salvar a los suyos y devolverle el aliento a [[Luca_CI|Luca]], y la firma le cobró de más: por un enredo de contratos infernales su condena casi cae sobre Luca, y sobre él pesa el niño entregado al fuego de Moloch. El pacto que el precepto prohíbe se rompe siempre, y aquí condena por partida doble. Su otro nombre lo delata: bajo La Rosa y Baris, la voz entre los astros lo rebautizó [[Abraxas]] —el nombre verdadero, el que dice lo que de veras es.* — glosa de Paulus.
+<!-- /CICLO -->

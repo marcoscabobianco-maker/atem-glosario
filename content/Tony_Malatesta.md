@@ -75,7 +75,7 @@ imagen: null
 *Las hipótesis sobre lo que están preparando*:
 
 - **Pócimas industriales** *para venta o uso propio del grupo*.
-- **Alquimia temporal** *vinculada al don d[[Vitalis|el [[Vitalis|Hechicero del Río Blackwater]]]] y al reloj de la Torre Eiffel*.
+- **Alquimia temporal** *vinculada al don del [[Vitalis|Hechicero del Río Blackwater]] y al reloj de la Torre Eiffel*.
 - **Experimentos de cruce** *entre conjuros tradicionales de Tony y la magia fluida del Blackwater*.
 - **Investigación sobre la línea de Pablo** *que el reloj de Tony y la sangre [[Casa_Azul_de_Vala|Casa Azul]] del Blackwater conjuntamente apuntan*.
 
@@ -113,3 +113,8 @@ imagen: null
 - **Mudanza al Bastardo Cromas** — establecimiento del taller arcano compartido con Vitalis
 - **Adquisición de escoba [[Miles_Corp]]** — controversia City Star
 - **1824 AE — ciclo presente** — operativo, taller activo, reloj en observación continuada
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⏳
+> *El mago de [[La_Jabalina]], pero también el que carga el reloj de la Torre Eiffel cuyos engranajes chispean magia residual y "cuentan historias" que no termina de descifrar —objeto de la columna temporal, posible reliquia del salto cronomántico de [[Pablo_el_Cronomante|Pablo]]—. Encerrado horas en el taller con [[Vitalis]] mezclando alquimia temporal, el archivo lo lee como operador adyacente a la [[Linea_Arian_Avatares|Línea Arian]]: el tiempo aquí no se mide, se trabaja como materia.* — glosa de Arkos el archivero del Plata.
+<!-- /CICLO -->

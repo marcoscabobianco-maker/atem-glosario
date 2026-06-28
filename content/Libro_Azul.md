@@ -91,3 +91,8 @@ El Libro Azul **no es ejemplar único**: es **uno de los cinco**. La tradición 
 - **1886 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** — entrega de Paul Claudel a [[Henri_La_France]] en París
 - **Ciclo presente** — itinerancia continuada; última residencia consignada incierta
 - **1300 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** — en la gesta florentina abre su **cara de Ptolomeo** (una geografía de la Tierra); lo persiguen los [[Florentinos_Heroes_Invisibles|Florentinos]] como una de las tres piezas-eje
+
+<!-- CICLO -->
+> **Casas del ciclo** · ※ △ ☷
+> *El nombre revela la identidad: lo que un lector llama [[Eisagogika|Eisagogiká]], otro lee como Al Azif y un tercero copia como [[Libro_Negro_de_la_Ley_de_los_Muertos|Necronomicón]] vía [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] es un solo libro —el que [[Pablo_de_Alejandria|Paulus]] firmó en Alejandría—, y todas las bibliotecas malditas serían copias suyas. Es además pieza-eje triádica: uno de los [[Cinco_Libros_de_Colores|cinco libros de colores]], perseguido por los [[Florentinos_Heroes_Invisibles|Florentinos]] en la gesta de 1300. Y sus páginas se estratifican por lectura: tratado para el primero, invocación para el segundo, cuento histórico para el tercero.* — glosa de Paulus.
+<!-- /CICLO -->

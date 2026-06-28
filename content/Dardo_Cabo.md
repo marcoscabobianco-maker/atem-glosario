@@ -31,4 +31,4 @@ El episodio histórico se cierra como se cerró de verdad: con la cárcel en el 
 
 ## Notas
 
-Dardo Cabo es una figura de dominio público de la historia argentina, conservada tal cual en la diégesis: la campaña no lo disfraza, lo usa como puerta. La crónica oral de aquellos días lo registra alguna vez con la grafía "Dalvo Cabo", mera deformación de oído; el nombre verdadero, y el que vale, es Dardo Cabo. Su función en la mesa es ser el rostro realista y comprobable de una verdad mucho más honda, que solo empieza a revelarse cuando alguien acepta bajar.
+Dardo Cabo es una figura de dominio público de la historia argentina, conservada tal cual en la diégesis: la saga no lo disfraza, lo usa como puerta. La crónica oral de aquellos días lo registra alguna vez con la grafía "Dalvo Cabo", mera deformación de oído; el nombre verdadero, y el que vale, es Dardo Cabo. Su función en la saga es ser el rostro realista y comprobable de una verdad mucho más honda, que solo empieza a revelarse cuando alguien acepta bajar.

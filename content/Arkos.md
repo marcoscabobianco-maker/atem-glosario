@@ -90,3 +90,8 @@ Pasillo bajo del [[Palacio_del_Prisma|Palacio del Prisma]], hora indeterminada. 
 - **Llegada de los Buscadores al [[Palacio_del_Prisma]]** — primer encuentro: lo encuentran junto al Papa, libro y tinta en mano, registrando antes de hablar
 - **Autopresentación** — *"Soy un clon"*; rechazo del nombre [[Marcos_el_Mago]] y de San Marcos; aceptación del oficio de historiador
 - **Ciclo presente** — anota cotidianamente lo que oye; sus marginales aparecen en los archivos paulinos como anotaciones atribuidas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒ ※ ☷
+> *La voz que glosa estas crónicas es un personaje de ellas: clon alquímico de [[Arcoms_Cosmar|Arcoms]], el bibliotecario de Mithranor, renacido de la [[Solucion_de_Plata_Mercurial|plata mercurial]] durante el [[Hiato_15_Años_Ardis_Vala|Hiato]]; anota antes de saludar en el [[Palacio_del_Prisma|Prisma]], glosa al [[Pablo_de_Alejandria|Paulus]] que no alcanza desde la distancia. Y el nombre es la cosa: Arc-oms se quitó la eme y quedó Arkos —firma su disminución cada vez que se nombra—. Lo que A leyó como el cronista interno (AA-E.1) y como la onomástica que revela identidad (AA-N.1) es, en C, una sola casa.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -30,3 +30,8 @@ La consecuencia es de fondo: nadie puede acumular la tecnología de una época p
 - [[Circulo_Simultaneo|Círculo Simultáneo]] — sus artefactos portarían protección contra la cristalización
 - [[Prefectos_del_Tiempo]] — conocerían los métodos de protección, sin divulgarlos
 - [[Cronoboys]] — viajeros curtidos que pagan el viaje y conocen sus leyes
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *La cifra material del precio del viaje: lo que no pertenece a la época que lo recibe se cristaliza, se vuelve cristal inútil sobre el cuerpo. Los viajeros que pisaron la orilla de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] lo sufrieron encima; por eso [[Aby_Warburgo]] rescató sólo la carga de la [[Bengala_Sucronica_Bengala_Cronica|bengala]]. Nadie acumula la tecnología de un siglo para gastarla en otro —salvo con los aceites y puertas que callan los [[Prefectos_del_Tiempo]] y los [[Cronoboys]]—. El tiempo se viaja como mercancía, y cobra peaje sobre el equipaje.* — glosa del archivero del Plata.
+<!-- /CICLO -->

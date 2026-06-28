@@ -76,3 +76,8 @@ Algunos doctrinarios —y el cronista, por temperamento, **no es de ellos pero l
 - **1886 [[Anno_Domini_Antiterra_ADA|A.D.A.]]** — advertencia de Paul Claudel a Henri sobre su sacralidad
 - **1901 A.D.A.** — asalto, profanación bajo detención del tiempo, despertar entre las gárgolas, resurrección con cicatrices
 - **Ciclo presente** — sobrevive marcada; algunos sostienen que también es la [[Dama_del_Dolor]] de Sigil
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Una sola divinidad femenina con dos cuerpos en dos mundos que se contagian: la [[Catedral_de_Notre-Dame_PU|Catedral de Notre-Dame]] petrificada en la [[Paris_Ucronica|París Ucrónica]] de [[Antiterra_Demonia|Antiterra]] y, según los doctrinarios, la [[Sigil|Dama del Dolor]] de Sigil —dos cuerpos y un solo dolor—. Lo que [[Grazzt|Graz'zt]] profanó de un lado quedó como cicatriz simétrica del otro; el aire que ella sostiene en el mundo gemelo es el mismo que [[Henri_La_France]] llegó a tiempo de salvar.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -118,7 +118,7 @@ El Palacio conserva, en una de sus salas mayores, **una rama menor de la [[Libra
 
 ---
 
-## Continuidad trans-campaña
+## Continuidad trans-gesta
 
 El Palacio del Prisma **no es invento del ciclo presente**. La misma fortaleza volante prismática **ha aparecido en otros ciclos**: en las crónicas primeras del cosmos compartido, en el [[Caldero]], en el Cisma del Inframundo, en la corrida templaria. **El prisma no se mueve por las geografías; las geografías se mueven debajo del prisma.**
 
@@ -141,7 +141,7 @@ El Palacio del Prisma **no es invento del ciclo presente**. La misma fortaleza v
 ## Vínculos
 
 - [[Papa_Alejandro_Sixto|Papa Alejandro VI]] — autoridad eclesial que ocupa el trono de rubí
-- [[Castillo_del_Prisma]] — encarnación trans-campaña anterior; el mismo prisma en otra estación
+- [[Castillo_del_Prisma]] — encarnación trans-gesta anterior; el mismo prisma en otra estación
 - [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]] — orden cuya entrada se sostiene en las pruebas del Palacio
 - [[Maruts]] — guardianes legales del prisionero
 - [[Custodes_Oculis_Solis|Custodes]] — orden celeste custodia del recinto
@@ -166,3 +166,8 @@ El Palacio del Prisma **no es invento del ciclo presente**. La misma fortaleza v
 - **Ciclo primero del valle** — pruebas para tomar la Orden de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]; corrupción de [[Numa_Pompidio]]
 - **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — el Palacio cosecha sus tres colores en silencio; Sir Sixto, perdido abajo, emerge como [[Papa_Alejandro_Sixto|Papa Alejandro VI]]
 - **El regreso tras el Hiato** — caída al pentagrama por trampa de la [[Ciudadela_Sin_Sol]]; encuentro con el bibliotecario, Arkos, los Custodes, Argus; presentación ante el trono de rubí; juicio en curso
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ◑
+> *Fortaleza volante de torres de gemas que es a la vez prisión: bajo el trono de rubí del [[Papa_Alejandro_Sixto|Papa Alejandro VI]], bajo el círculo y las tres barreras prismáticas, un señor élfico anterior a los vampiros espera guardado por los [[Maruts]] —el enemigo que no se vence sino que se contiene—. Cada prueba que cruza un visitante sostiene la cárcel un día más sin saberlo. Quien cae al pentagrama desciende sus estratos: los [[Buscadores_de_Ardis_Vala|Buscadores]] cayeron por la trampa de la [[Ciudadela_Sin_Sol]]. En el Descenso el mismo prisma es el Castillo del Apocalipsis del segundo círculo: horizonte que se ve de lejos y casi nunca se entra.* — glosa del archivero del Plata.
+<!-- /CICLO -->

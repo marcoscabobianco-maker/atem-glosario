@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-Orden de ángeles caídos a la que pertenece [[Baraquiel]]. Referencia a la tradición del Libro de Enoc (Vigilantes/Watchers que descendieron a la Tierra y fueron castigados). Su presencia expande la cosmología de la campaña más allá de D&D canónico hacia fuentes judeo-cristianas apócrifas.
+Orden de ángeles caídos a la que pertenece [[Baraquiel]]. Referencia a la tradición del Libro de Enoc (Vigilantes/Watchers que descendieron a la Tierra y fueron castigados). Su presencia expande la cosmología de la gesta hacia las fuentes judeo-cristianas apócrifas, en la tradición del Libro de Enoc.
 
 ## Apariciones notables
 

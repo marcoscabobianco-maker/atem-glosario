@@ -78,9 +78,14 @@ Los Kaliyani son **la facción "alienígena sorpresa"** del Suelo del Gran Abism
 - [[Varumani]] / [[Varboka]] — enemigos ancestrales
 - [[Reepsiq]] / [[Kauket]] — culto del que renegaron
 - [[Caballeros_Cicatriz_del_Sol]] — relación tensa
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **el archivo** — Acuerdo del 75% con los [[Buscadores_de_Ardis_Vala|Buscadores]] (detalles a aclarar con )
 - **Pendiente**: encuentro directo con el Consorcio Doce / Tsilliv
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Su domicilio cosmológico es una profundidad: las Kaliyani Pits bajo el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], el estrato más hondo del [[Mega_Dungeon_Arden_Vul]]. Sub-raza [[Heqeti]] renegada que el [[Tsilliv|Consorcio Doce]] dirige, los Kaliyani son la facción que el descenso esconde en su fondo —enemigos ancestrales de los [[Varumani]] de los pisos superiores—. Bajar en el dungeon es bajar también en el tiempo de las razas: cada nivel guarda una era anterior, y los cuatro ojos del fondo miran desde la más vieja.* — glosa del Decadiano.
+<!-- /CICLO -->

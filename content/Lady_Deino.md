@@ -56,7 +56,7 @@ Deino es **el primer power player** que los [[Buscadores_de_Ardis_Vala|Buscadore
 
 - [[Mega_Dungeon_Arden_Vul]] — su dominio
 - [[Halls_of_Thoth_Nivel|Halls of Thoth]] — nivel donde reside
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Beastmen_Niños_de_Deino|Beastmen / Niños de Deino]] — sus hijos / soldados
 - **[[Count_Skleros]]** — comandante / lugarteniente
 - **Count Trisko the Natty** — comandante de la Long Range Cavern Patrol
@@ -68,3 +68,8 @@ Deino es **el primer power player** que los [[Buscadores_de_Ardis_Vala|Buscadore
 
 - **esta jornada y posteriores** — Primer contacto. Recibe a los Buscadores. Da objetos mágicos a través de [[Trocadero]].
 - **Jornadas siguientes** — Presencia recurrente, sin combate directo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Señora de un estrato del [[Mega_Dungeon_Arden_Vul|mega-dungeon]]: gobierna los Precintos Centrales de los [[Beastmen_Niños_de_Deino|Beastmen]] en los [[Halls_of_Thoth_Nivel|Halls of Thoth]], el nivel donde los [[Buscadores_de_Ardis_Vala|Buscadores]] conocieron a su primer power player. Su aposento se esconde en el corazón del piso, su poder en capas sin revelar —pactos antiguos, conexión infernal, su segundo [[Count_Skleros]] de ciento sesenta años—. Cada nivel del dungeon tiene su soberano sepultado; ella es el de Thoth. Lo que A registró como la dueña de un nivel (AA-D.2), en C es la casa del descenso: cada estrato del valle guarda un trono propio.* — glosa del archivero del Plata.
+<!-- /CICLO -->

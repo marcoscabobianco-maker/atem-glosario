@@ -94,3 +94,8 @@ Quien tenga este códice en las manos llevará la cuenta: **tres nombres, tres r
 - **Período de encierro** — sarcófago en la [[Ciudadela_Sin_Sol]]
 - **La jornada del rescate ([[Novatos_Ravenloft|Novatos]])** — recuperado como "el Elfo Troll"
 - **Ciclo presente** — bajo Valakhan, refugiado, anónimo, **aún no preguntado**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ※ △
+> *Cerbactos Kalthetos el académico arconteano, Kerbog Khan el inventor exiliado y «el Elfo Troll» que los [[Novatos_Ravenloft|Novatos]] rescataron del sarcófago son una sola voluntad bajo tres nombres que no se reconocen entre sí: la coincidencia es la identidad. Lo que persigue bajo todos ellos es el [[Arcanum]], el sustrato triádico del que brotan magia y máquina, y con él armó el [[El_Huevo_de_Ritornelo|huevo]] que hizo ceniza a [[Ritornello]] —pieza arcana de las que cruzan campañas.* — glosa de Paulus, marginalia del Catálogo de los Encerrados.
+<!-- /CICLO -->

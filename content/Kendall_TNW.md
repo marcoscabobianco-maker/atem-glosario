@@ -2,7 +2,6 @@
 title: "Kendall (TNW)"
 tags:
  - "gary-tnw"
- - "lords-of-creation"
  - "cyborg"
 aliases:
  - "Kendall (TNW)"
@@ -16,8 +15,6 @@ aliases:
 
 ## Presentación
 
-**Ref.:** 1b ("Kendal"), 3c ("Kendall, corazón, circuitería"), 4b (31 menciones), 5d –290 ("Kendall, un poco metido para adentro").
-**Línea trans-campaña:** compañero del grupo. Confirmado en el archivo. es la misma línea trans-campaña que conecta con [[Auro_CI|Auro (CI)]] y [[Arian|Adam]]/[[Arian|Arlequín]] (el Descenso). Vínculo trans-campaña con [[Ray_TNW|Ray]]. Patrón trans-campaña de: personajes que sufren transformaciones radicales ([[Auro_CI|Auro]] → [[Jinete_de_la_Guerra|Jinete de la Guerra]], Kendall → cyborg, [[Arian|Adam]] → [[Arian|Arlequín]]).
+Compañero del grupo del Mundo Nuevo que entra como humano y sale como otra cosa: circuitería en la sangre, plomo en el corazón extraído de un hombre sacrificado, implantes que hacen del cuerpo una pregunta sin respuesta.
 
-## Ver también
-
+**Línea trans-gesta:** la misma mano lo conecta con [[Auro_CI|Auro (CI)]] y con [[Arian|Adam]]/[[Arian|Arlequín]] (el Descenso), y con [[Ray_TNW|Ray]]: el patrón de los personajes que sufren transformaciones radicales ([[Auro_CI|Auro]] → [[Jinete_de_la_Guerra|Jinete de la Guerra]], Kendall → cíborg, [[Arian|Adam]] → [[Arian|Arlequín]]).

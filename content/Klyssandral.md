@@ -16,7 +16,6 @@ tags:
  - templo-arrastrado
  - quinto-nivel
  - infierno
- - ad-d-2e
  - canonico
 ---
 
@@ -24,9 +23,7 @@ tags:
 
 ## Presentación
 
-**Klyssandral** es **el maestro de [[Maristo]]** —figura tutelar del arco fundacional **[[Paladin_in_Hell|Paladin in Hell]]**—. Su historia, según el archivo, es **tal cual canónica** de la fuente original: **se había arrastrado todo un templo al quinto nivel del imperio** —al quinto nivel del [[Infierno]], en la lectura del cosmos compartido—. El acto del templo arrastrado es **la herida que el arco recoge**: [[Maristo]] lo carga como discípulo y como deudor, y emerge del arco con [[Arian]] al lado, atravesado por lo que su maestro vivió en aquella caída a la profundidad.
-
-El nombre y los detalles del personaje quedan **pendientes de verificación cruzada con la fuente original ** — lo declaró textualmente *"tal cual canónico"* y dio referencia *"lo puedes buscar en internet"*—. La grafía oficial del archivo es **Klyssandral** hasta verificación.
+**Klyssandral** es **el maestro de [[Maristo]]** —figura tutelar del arco fundacional **[[Paladin_in_Hell|Paladin in Hell]]**—. El archivo conserva de él un solo acto, enorme: **arrastró un templo entero al quinto nivel del [[Infierno]]**. Esa caída a la profundidad es la herida que el arco recoge: [[Maristo]] lo carga como discípulo y como deudor, y emerge del arco con [[Arian]] al lado, atravesado por lo que su maestro vivió allá abajo.
 
 ## Vínculos
 
@@ -39,6 +36,5 @@ El nombre y los detalles del personaje quedan **pendientes de verificación cruz
 
 ## Apariciones
 
-- [[Paladin_in_Hell]] — arco fundacional MC
-- 2da edición — fuente original (Monte Cook, pendiente verificación)
-- Referencias trans-campaña — vía Maristo, en la línea posterior del cosmos compartido
+- [[Paladin_in_Hell]] — arco fundacional
+- Referencias trans-gesta — vía Maristo, en la línea posterior del cosmos compartido

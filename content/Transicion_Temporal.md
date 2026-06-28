@@ -36,3 +36,8 @@ El salto a 1914 no es final. El grupo viajará nuevamente, esta vez a la [[Comun
 - [[Cvjetko_Popovic]] — identidad de conspirador asumida por uno de los viajeros.
 - [[Gavrilo_Princip]] — conspirador histórico ligado a la batalla temporal.
 - [[Comuna_de_Paris_1870]] — próximo destino confirmado del grupo.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Trece años saltados de un golpe: la Transición arranca a los [[Time_Bandits]] de la [[Isla_de_la_Serpiente]] de 1901 y los deposita en [[Sarajevo_1914_Ucronica|Sarajevo]] de 1914, no por accidente sino por un mecanismo ritual preparado —los cánticos en el [[Faro-Monolito_El_Faro|Faro]], los sueños de [[Aby_Warburgo]]—. El tiempo se navega como ruta, no se padece: el grupo seguirá hasta la [[Comuna_de_Paris_1870]], prueba de que la no-linealidad es constitutiva del ciclo y los viajeros alteran las líneas en vez de sufrirlas.* — glosa de Sucesos.
+<!-- /CICLO -->

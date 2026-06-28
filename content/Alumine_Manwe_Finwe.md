@@ -24,19 +24,19 @@ tags:
 
 ## Presentación
 
-**Alúmine Manwe Finwe**, llamado **"El Milagroso"**, es **compañero de ** en la campaña **[[Arden_Vul]]**. Es **"abuelito" de la familia adoptiva** —fórmula que la mesa conserva: figura mayor del grupo, mentor, protector con peso de años—. Su nombre tolkienizado (Manwe Finwe son nombres élficos de [[Tolkien]]) marca su línea: **elfo** clásico con resonancias míticas mayores.
+**Alúmine Manwe Finwe**, llamado **"El Milagroso"**, es **compañero de ** en la gesta **[[Arden_Vul]]**. Es **"abuelito" de la familia adoptiva** —fórmula que el archivo conserva: figura mayor del grupo, mentor, protector con peso de años—. Su nombre tolkienizado (Manwe Finwe son nombres élficos de [[Tolkien]]) marca su línea: **elfo** clásico con resonancias míticas mayores.
 
-### Raza: Rockseer Elf
+### Linaje: elfo buscador de roca (Rockseer)
 
-**Rockseer Elf** —raza subterránea, de adaptación progresiva al espacio bajo tierra: **piel pálida, pelo blanco, infravisión**—. No es drow (la línea oscura), no es elfo gris ni del bosque: es **buscador de roca**, elfo que se mueve por las cavernas y se adapta a la sombra. El linaje de la raza no está asentado en los pliegos mayores; el archivo deja la filiación **pendiente de confirmar**.
+**Elfo buscador de roca** —linaje subterráneo, de adaptación progresiva al espacio bajo tierra: **piel pálida, pelo blanco, infravisión**—. No es drow (la línea oscura), no es elfo gris ni del bosque: es **buscador de roca**, elfo que se mueve por las cavernas y se adapta a la sombra. El linaje de la raza no está asentado en los pliegos mayores; el archivo deja la filiación **pendiente de confirmar**.
 
-### Clase: Bladesinger Fighter 6 / Wizard 6
+### Arte: canta-espadas (Bladesinger)
 
-**Bladesinger** —canta-espadas, arte guerrero de la tradición élfica—. **Guerrero y mago a partes iguales, del sexto grado de su temple en ambas artes.** La combinación lo hace **espadachín-mago** —el que canta con la espada mientras lanza hechizos—. Es el arte clásico del elfo de combate arcano elegante: poderoso, versátil; exige un temple alto para desplegarse pleno.
+**Canta-espadas** —*Bladesinger*, arte guerrero de la tradición élfica—. **Guerrero y mago a partes iguales, del sexto grado de su temple en ambas artes.** La combinación lo hace **espadachín-mago** —el que canta con la espada mientras lanza hechizos—. Es el arte clásico del elfo de combate arcano elegante: poderoso, versátil; exige un temple alto para desplegarse pleno.
 
 ### El acto que lo define: decapitar a Master Malakita
 
-**El acto pivote de la campaña**, según el reporte: **Alúmine decapitó al [[Master_Malakita|Master Malakita / Melok-Ri]]** en la **el archivo**. La cabeza cercenada del vampiro rudishva **mostró tecnología/mecanismos internos** —Malakita resultó ser, en parte, **calavera flotante con inteligencia artificial embebida**—. La decapitación de Alúmine **inició la cadena de eventos** que terminó con los compañeros tomando la Orden de los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]] en la fase media del ciclo primero.
+**El acto pivote de la gesta**, según el reporte: **Alúmine decapitó al [[Master_Malakita|Master Malakita / Melok-Ri]]** en la **el archivo**. La cabeza cercenada del vampiro rudishva **mostró tecnología/mecanismos internos** —Malakita resultó ser, en parte, **calavera flotante con inteligencia artificial embebida**—. La decapitación de Alúmine **inició la cadena de eventos** que terminó con los compañeros tomando la Orden de los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]] en la fase media del ciclo primero.
 
 ### Otros actos clave
 
@@ -46,11 +46,11 @@ tags:
 
 ### Adaptación al subterráneo
 
- registra una **adaptación Rockseer progresiva** de Alúmine al espacio bajo tierra: **piel cada vez más pálida, pelo blanqueado, desarrollo de infravisión**. La adaptación es parte del personaje, no estado inicial. Quien empezó como elfo del bosque o de la superficie va, en [[Ardis_Vala|Arden Vul]], **transformándose físicamente** según la profundidad del dungeon donde opera.
+ registra una **adaptación progresiva** de Alúmine al espacio bajo tierra: **piel cada vez más pálida, pelo blanqueado, desarrollo de infravisión**. La adaptación es parte de la figura, no estado inicial. Quien empezó como elfo del bosque o de la superficie va, en [[Ardis_Vala|Arden Vul]], **transformándose físicamente** según la profundidad a la que opera.
 
 ## Vínculos
 
-- [[Arden_Vul]] — campaña
+- [[Arden_Vul]] — gesta
 - [[Master_Malakita|Master Malakita / Melok-Ri]] — el vampiro rudishva que Alúmine decapita en la fase media del ciclo primero
 - [[Caballeros_Cicatriz_del_Sol]] — orden que cae tras la decapitación
 - [[Bayrum_Cristalia]], [[Caladan]] — núcleo arcano del grupo
@@ -66,3 +66,8 @@ tags:
 - [[Ardis_Vala|Arden Vul]] 
 - **el archivo** — decapita a [[Master_Malakita]] (acto pivote)
 - Jornadas siguientes — derrota la cabeza arcanum, evoca antimagia en la Arena, recibe la llave dual
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *El "abuelito" canta-espadas de la familia adoptiva de [[Arden_Vul]] porta la llave dual de oro y espina, objeto de afinación moral que sintoniza al portador con un eje del cosmos —pieza de la misma familia de llaves duales que reparten luz y sombra. Su acto pivote, decapitar a [[Master_Malakita|Master Malakita]], destapa que el vampiro era calavera flotante con inteligencia embebida. Lo que A aisló como el artefacto de eje moral (AA-O.1) y B la llave que falta a su par (AKB-L.1), apunta a la casa del objeto triádico.* — glosa del Decadiano.
+<!-- /CICLO -->

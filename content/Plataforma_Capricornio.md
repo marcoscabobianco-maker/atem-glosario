@@ -49,3 +49,8 @@ Su columna esencial es **la subida por la montaña volcánica y la serpiente que
 
 - **Cosmología continua** — décima casa, columna del ascenso volcánico-serpentino
 - **Guardián pendiente de nominación canónica**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Décima de las doce casas, custodiada por un guardián cabra-serpiente enroscado a un pilar que cuenta sus anillos: el puesto es el oficio, no la persona —el nombre canónico está pendiente porque importa la silla, no quién la ocupa—. Como toda plataforma, opera bajo la ley de la [[Corrupcion_Dual]] que rota guardianes, vecina de [[Plataforma_Sagitario]] y [[Plataforma_Acuario]] en una rueda de doce que no se detiene.* — glosa del Decadiano.
+<!-- /CICLO -->

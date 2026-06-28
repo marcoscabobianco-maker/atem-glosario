@@ -5,7 +5,6 @@ tags:
  - "gary-tnw"
  - "artifact"
  - "book"
- - ""
 aliases:
  - "Field Manual del Buscador de Sombras (TNW)"
  - "TNW"
@@ -14,4 +13,4 @@ aliases:
 
 ## Presentación
 
-**Ref.:** [[C73_p24|C73 p.24]]. aclaró: "Field Manual del Buscador de Sombras, libro ."
+Libro del Mundo Nuevo: el *Field Manual del Buscador de Sombras*, manual de campo nombrado en el archivo entre los enseres de la gesta.

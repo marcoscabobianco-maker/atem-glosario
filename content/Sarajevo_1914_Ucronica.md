@@ -97,3 +97,8 @@ imagen: Imagenes_Tier1/Sarajevo_1914_Ucronica.png
 - **Días previos — preparación del operativo cronomántico** — proyección del grupo
 - **Primer capítulo del arco [[Paris_Ucronica|París Ucrónica]]** — cierre del bloque narrativo
 - **Eco continuado en la biografía de Claude** — setenta y cinco años de Popović, esquizofrenia permanente
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ⛓ ※
+> *La Historia se inscribe verbatim: el [[Archiduque_Francisco_Fernando_de_Austria|Archiduque]] cae en el Puente Latino el 28 de junio como en toda crónica, sobre la fecha exacta de [[Batalla_de_Kosovo_1389|Kosovo]] que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] renueva. Pero el cuerpo que dispara queda anotado bajo dos nombres —[[Gavrilo_Princip|Gavrilo]] en el expediente austríaco, Claude en el akásico, la misma mano bajo dos onomásticas— porque los [[Time_Bandits]], proyectados como [[Guardias_Ucronicos|Guardias Ucrónicos]], fueron mandados a sostener lo que el siglo ya tenía escrito.* — glosa atribuida al libro V del Decadiano.
+<!-- /CICLO -->

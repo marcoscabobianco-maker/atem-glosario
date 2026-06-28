@@ -8,7 +8,7 @@ aliases:
 ![[Imagenes_Tier1/Pelor.png]]
 <!-- /HEADER_IMG -->
 
-Dios solar greco-influenced con laurel y corona radiate. Deidad del sol, la luz y la curación en la cosmología D&D/Greyhawk. Su culto solar resuena con el [[Sol_Invictus_Culto_Mediterraneum|culto al Sol Invicto]] del Mediterraneum y con los [[Anillos_Solares]] como símbolo de poder astral.
+Dios solar de aire griego, coronado de laurel y de rayos. Deidad del sol, la luz y la curación. Su culto solar resuena con el [[Sol_Invictus_Culto_Mediterraneum|culto al Sol Invicto]] del Mediterraneum y con los [[Anillos_Solares]] como símbolo de poder astral.
 
 ## Vinculos
 

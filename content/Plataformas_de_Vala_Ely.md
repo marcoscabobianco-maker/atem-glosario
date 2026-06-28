@@ -148,3 +148,8 @@ imagen: null
 - **Construcción de las dos ciudades-cráter** — Caldero y Ciudad Estrella se asientan sobre manifestaciones geográficas de las Plataformas
 - **Revolución Industrial Mágica de Ciudad Estrella** — explotación residual de la energía estancada
 - **Ciclo presente (1824 AE)** — Plataformas en fase de estancamiento sostenida; cronistas viejos como Mascor Blancarba conservan la memoria
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Infraestructura primordial del mundo-gema [[Vala_Cristalis]]: las plataformas donde Vala (el todo) y Ely (Elysium, el plano interior) se tocan e intercambian planos. Son la cara cosmológica del cosmos gemelo —el mismo sistema que el [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] enuncia—, hoy en fase de estancamiento: la [[Gran_Plaza_de_Obsidiana]] en [[Ciudad_Estrella]] y el [[Fenix_Nido_Volcanico|Nido del Fénix]] en [[Caldero]] son sus afloramientos visibles, y la [[Revolucion_Industrial_Magica]] vive de exprimir su energía residual. Los primeros habitantes las llamaron «las Islaires».* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

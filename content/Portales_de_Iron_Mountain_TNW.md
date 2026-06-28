@@ -23,5 +23,5 @@ aliases:
 7. **1788** — (época de los [[Libertateurs]] explícitamente)
 Hay una séptima referencia temporal: "la época de los liberators 1788."
 Cada portal tiene "bombas selladas en gemas" que pueden ser desactivadas con 5 piedras-llave.
-**Ref.:** 9 ("6 portales a 6 épocas"), 9 –544 (6 alcobas→portales), 9 ("[[Mr_Wolf_Petro_Wulf_TNW|Mr. Wolf]] se fue a 1494"), 9 ("1788, 1300, 1889, 1887, [[Apocalypse_World_Campana_Pandemia_TNW_2087|2087]]"), resumen –190.
-**Nota:** ⚠ **LAS FECHAS CORRESPONDEN EXACTAMENTE A CAMPAÑAS JUGADAS:** 1300→Florenzen, 1494→CI, 1788→Libertateurs, 1887/1889→Profundos/Reguladores. Gary del Mundo Nuevo es el hub que conecta todas las campañas de Terra.
+
+Las fechas no son arbitrarias: cada una de ellas abre sobre una era que el archivo ya tiene escrita en otra parte del cosmos. **1300** da a la Florencia de los [[Templarios]]; **1494** a las [[Ciudades_Invisibles|Ciudades Invisibles]]; **1788** a [[Les_Libertateurs_Pretty_Women|los Libertateurs]]; **1887/1889** al tiempo de [[Los_Profundos]] y los [[Los_Reguladores|Reguladores]]. La cámara de Iron Mountain es así el nudo que enlaza todas las eras de Terra: quien controla los portales controla la puerta a cualquiera de ellas.

@@ -17,7 +17,7 @@ Compañera de la [[Nekeia_Descenso_al_Inframundo_Mediterraneum|gesta del Mediter
 ## Vínculos
 
 - [[El_Emisario_Mediterraneum|El Emisario (Mediterraneum)]] — archivo fuente que registra la voz de Gouda en las jornadas del Mediterraneum
-- [[Nekeia_Descenso_al_Inframundo_Mediterraneum|Nekeia / Descenso al Inframundo (Mediterraneum)]] — marco de campaña al que pertenece
-- [[Alejandria|Alejandría]] — ciudad central de la misión de la campaña Mediterraneum
+- [[Nekeia_Descenso_al_Inframundo_Mediterraneum|Nekeia / Descenso al Inframundo (Mediterraneum)]] — marco de gesta al que pertenece
+- [[Alejandria|Alejandría]] — ciudad central de la misión de la gesta Mediterraneum
 - [[Sol_Invictus_Culto_Mediterraneum|Sol Invictus (Culto — Mediterraneum)]] — facción religiosa del contexto mediterráneo donde opera
-- [[Harpers_Contexto_Mediterraneum|Harpers (Contexto Mediterraneum)]] — organización del mismo contexto de campaña
+- [[Harpers_Contexto_Mediterraneum|Harpers (Contexto Mediterraneum)]] — organización del mismo contexto de gesta

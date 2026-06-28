@@ -71,7 +71,7 @@ La Gema es **una de las tres piezas** del mega-artefacto **[[Vara_del_Infinito]]
 
 En el **[[Torneo_de_la_Torre_Eiffel|Torneo de la Torre Eiffel]]** (1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]]) la Gema aparece **partida en tres porciones**: dos en poder del **[[Gran_Khan|Gran Khan]]**, una **dentro del [[Tarrasque_Antiterra|Tarrasque]]** —representante de [[Seth]]—. La condición de victoria del torneo era reunir las tres porciones, colocarlas en la Copa de los Cien Deseos y formular un deseo.
 
-**[[El_Fabuloso]]** —el Ñomo de los Reguladores— ganó el Torneo. Bebió de la Copa. Y **formuló el deseo que la mesa no esperaba**: redirigir la Gema a **la bóveda U-5-7-1 de [[Union]]**, ciudad de los [[Mercane_Welcome_Back_Henri|Mercane]]. La operación pareció **traición al grupo de los Reguladores** —y lo fue, en el escenario público—; en el escenario privado fue **operación bancaria del [[Banco_Boreal]]** con sus socios planares de larga data. La Gema cerró su recorrido público en bóveda planar.
+**[[El_Fabuloso]]** —el Ñomo de los Reguladores— ganó el Torneo. Bebió de la Copa. Y **formuló el deseo que nadie esperaba**: redirigir la Gema a **la bóveda U-5-7-1 de [[Union]]**, ciudad de los [[Mercane_Welcome_Back_Henri|Mercane]]. La operación pareció **traición al grupo de los Reguladores** —y lo fue, en el escenario público—; en el escenario privado fue **operación bancaria del [[Banco_Boreal]]** con sus socios planares de larga data. La Gema cerró su recorrido público en bóveda planar.
 
 ### Las mitologizaciones posteriores
 
@@ -102,7 +102,7 @@ Otras líneas del archivo absorben la Gema con peso narrativo propio:
 - [[Lotario]] — receptor mitologizado de la Gema
 - [[Arian]] — entregador mitologizado de la Gema
 - [[Gema_de_la_Creacion_TG|Gema de la Creación (TG)]] — variante [[Torregrises]] de la cosmogonía
-- [[La_Jabalina|La Jabalina]] — campaña que retoma el hilo en [[Caldero]]
+- [[La_Jabalina|La Jabalina]] — gesta que retoma el hilo en [[Caldero]]
 
 ## Apariciones
 
@@ -116,3 +116,8 @@ Otras líneas del archivo absorben la Gema con peso narrativo propio:
 - 1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]] [[Torneo_de_la_Torre_Eiffel]] — partida en tres porciones, deseo del Fabuloso
 - Bóveda U-5-7-1 de Union — destino final post-torneo
 - Caldero / Jabalina registro cont.2 — fragmento en bóvedas de Grast
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ⏳ ☯
+> *Trozo de rubí arrancado del Monte de [[Tiamat_MC|Tiamat]], una de las tres piezas de la [[Vara_del_Infinito]] junto al [[Cetro_de_los_Dioses]] y la [[Piedra_del_Apocalipsis]]: el objeto triádico que cruza campañas y mundos. Punta de la Lanza con que [[Minaya_MC|Minaya]] y [[Soluna]] vencen a Takhishis en el [[Juicio_Final]] de 1375 DR —y los dioses retroceden el tiempo 27 años—; después, partida en tres en el [[Torneo_de_la_Torre_Eiffel|Torneo Eiffel]], [[El_Fabuloso]] la redirige a la bóveda de [[Union]]. Pieza de la cosmogonía de Terra y su gemela, cuya llave siempre queda del otro lado de la Grieta.* — glosa de Amitlai.
+<!-- /CICLO -->

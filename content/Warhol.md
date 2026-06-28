@@ -12,10 +12,10 @@ aliases:
 
 ## Presentación
 
-Bardo cherokee, conocedor de historias, contador de relatos. Puente entre mundos: comparte el mito del Wendigo, articula el "abrazo del erizo", realiza rituales Cherokee de protección. Adopta forma de lobo con Wild Shape. Sus adivinaciones producen profecías cruciales ("Reinas sin corona en el inframundo"). Descrito como "más fusionado con la tierra" conforme avanza la campaña, conexión céltica con Danu (madre de dioses). Aspecto transformado: criatura azulada, arbórea, pelo largo enredado, rasgos aviares.
-*Apariciones:* a lo largo de toda la campaña, hasta [[Abordaje_del_Holandes_en_la_Luna_NC14|el abordaje del Holandés en la Luna]] (grupo principal)
+Bardo cherokee, conocedor de historias, contador de relatos. Puente entre mundos: comparte el mito del Wendigo, articula el "abrazo del erizo", realiza rituales Cherokee de protección. Adopta forma de lobo. Sus adivinaciones producen profecías cruciales ("Reinas sin corona en el inframundo"). Descrito como "más fusionado con la tierra" conforme avanza la gesta, conexión céltica con Danu (madre de dioses). Aspecto transformado: criatura azulada, arbórea, pelo largo enredado, rasgos aviares.
+*Apariciones:* a lo largo de toda la gesta, hasta [[Abordaje_del_Holandes_en_la_Luna_NC14|el abordaje del Holandés en la Luna]] (grupo principal)
 *Conexiones:* [[Necklace_of_Netted_Stars_Teclas_de_Estrellas_en_Red|Necklace of Netted Stars]], [[Medawin_Medawaywin|Medawin]], Danu, Wendigo
 
 ## Notas
 
-Su arco es horizontal (traduce entre mundos) más que vertical (no se transforma personalmente). El [[Necklace_of_Netted_Stars_Teclas_de_Estrellas_en_Red|Necklace of Netted Stars]] es su artefacto principal — counterspell + Pearls of Power.
+Su arco es horizontal (traduce entre mundos) más que vertical (no se transforma personalmente). El [[Necklace_of_Netted_Stars_Teclas_de_Estrellas_en_Red|Necklace of Netted Stars]] es su artefacto principal — contraconjuro y perlas de poder.

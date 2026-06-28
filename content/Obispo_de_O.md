@@ -9,10 +9,4 @@ aliases:
 
 ## Presentación
 
-**Ref.:** jornada de caída registrada
-
-### el plano operativo
-
-Uno de los cuatro libertinos del [[Castillo_de_Siegling|Castillo de Siegling]]. Correspondencia con el Obispo de *** de Sade. Primer libertino en caer durante el combate. Poca individualizacion en la transcripcion — el archivo de transcripción mezcla los rounds de combate.
-
-**Ref.:** jornada de caída registrada
+Uno de los cuatro libertinos del [[Castillo_de_Siegling|Castillo de Siegling]], a la manera del Obispo de la tradición sadiana. Primer libertino en caer durante el combate. El archivo apenas lo individualiza: la confusión de la refriega borró sus rasgos.

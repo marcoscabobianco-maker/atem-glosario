@@ -18,3 +18,8 @@ Los cronistas anotan, además, otra resonancia que no han querido dejar pasar: U
 ## Vinculos
 
 - [[Paris_Ucronica]] — la ucronía cuyo nombre resuena con el de la casa; el eco Uránica/Ucrónica queda asentado como pregunta abierta del archivo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Una casa de la que sólo queda el nombre, y el nombre cifra el tiempo: Uránica suena demasiado cerca de Ucrónica, el adjetivo que define a [[Paris_Ucronica|París Ucrónica]] y a todo su 1901 desviado. El archivo no sabe si el apellido declara un astro (Urano) o la naturaleza misma del tiempo torcido en que la casa habita; registra la pregunta sin árbol, sin solar, sin asiento de miembros que la respondan.* — glosa del archivero del Plata.
+<!-- /CICLO -->

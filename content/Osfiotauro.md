@@ -25,7 +25,7 @@ Criatura toro-serpiente (bull-serpent hybrid) encontrada en el [[Valle_de_la_Mue
 - [[Philippe]]: recibe ataque devastador, 2 Hero Points usados, muere o queda al borde de la muerte
 - [[Claude_Nauge|Claude Nauge]]: carga al frente para atraer a la criatura
 
-**Simbolismo:** Conecta con la simbología taurina ([[Aldebaran_Estrella_Plataforma|Aldebarán]]/Alpha Tauri, cultos minoicos del toro, laberinto/[[Minotauro_Jefe_del_Laberinto|Minotauro]]) y serpentina ([[La_Serpiente|La Serpiente]], [[Isla_de_la_Serpiente|Isla de la Serpiente]]) que atraviesa toda la campaña. El catasterismo por su derrota evoca la transformación mitológica de bestias en constelaciones.
+**Simbolismo:** Conecta con la simbología taurina ([[Aldebaran_Estrella_Plataforma|Aldebarán]]/Alpha Tauri, cultos minoicos del toro, laberinto/[[Minotauro_Jefe_del_Laberinto|Minotauro]]) y serpentina ([[La_Serpiente|La Serpiente]], [[Isla_de_la_Serpiente|Isla de la Serpiente]]) que atraviesa toda la gesta. El catasterismo por su derrota evoca la transformación mitológica de bestias en constelaciones.
 
 ## Ver también
 

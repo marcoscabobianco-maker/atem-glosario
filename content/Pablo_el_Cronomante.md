@@ -113,3 +113,8 @@ imagen: Imagenes_Tier1/Pablo_el_Cronomante.jpg
 - **[[Sarajevo_1914_Salto_Temporal|Salto temporal]] de emergencia** — desplazamiento a otra geografía cosmológica
 - **Eco residual continuado** — anomalías nocturnas en las criptas de la [[Capilla_Oscura]]
 - **1824 AE — ciclo presente** — operación tangencial vía [[Vitalis]] y Tony; reliquia del reloj en observación
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⛓ △
+> *Viajero del tiempo cuyas artes saltan pliegues de la historia, procurado por los diablos justamente por su don temporal: el tiempo es aquí lo que se trafica y lo que se disputa. Opera junto a [[Los_Reguladores]] y a los [[Templarios_del_Tiempo]] en el rito de la [[Capilla_Oscura]], y su línea sigue viva en el ciclo presente vía la banda [[La_Jabalina]] —[[Vitalis]] el mensajero cronomántico, [[Tony_Malatesta]] que porta el [[Reloj_Torre_Eiffel|Reloj de la Torre Eiffel]]—, esa reliquia del rito que circula como pieza de un mecanismo mayor. Lo que A leyó como cronomancia (AA-T.1) y como brazo de una banda (AA-G.1), en C es una sola marcha: el que presta el tiempo se reparte en pliegues y deja un reloj de prenda.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -18,5 +18,4 @@ aliases:
 
 ## Ver también
 
-- [[Interpretacion_probable|Interpretación probable]]
 - Precedente textual

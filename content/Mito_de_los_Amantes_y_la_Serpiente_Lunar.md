@@ -87,3 +87,8 @@ Pero **la [[Serpiente_Luna_Auna|Serpiente de la Medianoche]]** —*manifestació
 - **Operación ritual continuada** — magos arcanos cantan el fragmento como "cesión menor"
 - **Tres lecturas conservadas** — decadiana, serpentina, cristalina
 - **1824 AE — ciclo presente** — mito vivo, eco en la Capilla, cesión menor en práctica arcana cotidiana
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Un pacto entre hemisferios que se contagian: Ishen el novio solar y Nalía la novia lunar sólo se sellan cuando ella cede un destello de día al espejo de plata, y la [[Serpiente_Luna_Auna|Serpiente de la Medianoche]] cobra el tributo del cruce. La lectura cristalina lo lee como el sellado de la primera capa del [[Vala_Cristalis|mundo-gema]]; sea día-noche o cristal, es el mismo motivo: dos mitades que no entran en equilibrio sin contaminarse una a otra.* — glosa del Decadiano.
+<!-- /CICLO -->

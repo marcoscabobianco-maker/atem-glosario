@@ -8,6 +8,12 @@ title: "ATEM — Archivo Total de Escritura Manuscrita"
 
 ---
 
+> **Las trece casas del ciclo** — una manera de navegar el archivo por temas. Cada entrada lleva, al pie, las casas que la habitan; **[recorré la Rueda →](/rueda)** o entrá directo a una casa por su sello:
+>
+> <p style="font-size:1.7em; letter-spacing:.22em; line-height:1.8; margin:.3em 0"><a href="/Casa_del_Cosmos_Gemelo" title="El cosmos gemelo">☯</a> <a href="/Casa_del_Descenso" title="El descenso por estratos">☷</a> <a href="/Casa_del_Tiempo_Carnal" title="El tiempo-mercancía">⏳</a> <a href="/Casa_del_Objeto_que_Atraviesa" title="El objeto triádico">△</a> <a href="/Casa_del_que_se_Guarda" title="El enemigo que se guarda">◑</a> <a href="/Casa_del_Pacto" title="El pacto que condena">⛧</a> <a href="/Casa_del_Nombre" title="El nombre es la cosa">※</a> <a href="/Casa_de_la_Banda" title="La banda nombrada">⛓</a> <a href="/Casa_del_Oficio_Rotativo" title="El oficio rotativo">⟳</a> <a href="/Casa_de_la_Apoteosis" title="La apoteosis">✦</a> <a href="/Casa_de_la_Historia" title="La Historia verbatim">⌖</a> <a href="/Casa_del_Cronista" title="El cronista interno">✒</a> <a href="/El_Trono_que_no_se_nombra" title="El Trono que no se nombra (la misma mano)">⛎</a></p>
+
+---
+
 ## Qué es el archivo
 
 El archivo es de papel. La materia primera son **cuadernos manuscritos** —páginas atestadas, fechas grabadas a mano, grafías que el siglo no enmienda—. Algunas notas son tinta café; otras, café que la mano sostuvo más tiempo. **Las plumas se renuevan con los inviernos; la mano no envejece. Los amanuenses sí.**
@@ -18,7 +24,7 @@ El archivo conserva lo que el cosmos extendido sostuvo en un determinado tiempo 
 
 ## Las cuatro categorías platónicas del archivo
 
-El archivo conoce cuatro modos. *Los nombres provienen del [[Decadiano]] libro de los Oficios; la doctrina opera trans-campaña*.
+El archivo conoce cuatro modos. *Los nombres provienen del [[Decadiano]] libro de los Oficios; la doctrina opera trans-gesta*.
 
 ### Los guardianes
 

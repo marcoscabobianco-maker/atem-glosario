@@ -104,3 +104,8 @@ Las consecuencias que el ciclo presente arrastra de aquellas anotaciones son tre
 - **1888-1901 A.D.A.** — sucesión de activaciones del ciclo final
 - **1901 A.D.A.** — ciclo final de Antiterra, plataformas activas al cierre
 - **Ciclo presente** — sistema vigente; el Trono Negro Central aún vacante
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ☯ ⛎
+> *Doce plataformas zodiacales, doce guardianes presos de su columna, y la [[Corrupcion_Dual|Corrupción Dual]] como cláusula: quien derrota al guardián —como los [[Los_Reguladores|Reguladores]] a [[Gabriel_Guardian_de_Aries|Gabriel]] en la plataforma del Carnero— no gana libertad, hereda la guardia. Sobre las doce, en la [[Atlantida_Alta_y_Baja|Atlántida]] que arbitra el [[Cakravartin]], hay un [[Trono_Negro_Central|trono que no se nombra]]: la casa de los sueltos, los que sólo entran al Juego cuando se los coopta.* — glosa de Paulus, del Tratado de los Doce Asientos.
+<!-- /CICLO -->

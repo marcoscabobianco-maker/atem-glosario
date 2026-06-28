@@ -25,4 +25,9 @@ Cañón colosal presente en el contexto del sitio de París 1870. La Big Bertha 
 
 ## Notas
 
-Anacronismo confirmado por el cronista como decisión de diseño deliberada. No es un cañón diferente con el mismo nombre: es la Big Berta desplazada temporalmente, coherente con el tratamiento que la campaña hace de la historia como materia plástica. Ver también **París 1870**, **[[Antiterra_Demonia|Antiterra]]**.
+Anacronismo confirmado por el cronista como decisión de diseño deliberada. No es un cañón diferente con el mismo nombre: es la Big Berta desplazada temporalmente, coherente con el tratamiento que la gesta hace de la historia como materia plástica. Ver también **París 1870**, **[[Antiterra_Demonia|Antiterra]]**.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Un obús que llega antes de su hora: la Big Bertha histórica es arma de [[Sarajevo_1914_Ucronica|1914]], pero en [[Antiterra_Demonia|Antiterra]] ya truena en el sitio de [[Paris_Ucronica|París]] de 1870. No es otro cañón homónimo sino el mismo, desplazado en el tiempo: la ucronía presta tecnología de guerra hacia atrás, trata la historia como materia plástica que se adelanta y se gasta a voluntad del cronista.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

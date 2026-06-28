@@ -75,3 +75,8 @@ Durante el bucle ocurrieron, entre otras cosas mayores, **la copia latina del [[
 - **Llegada de los Reguladores** desde [[Paris_Ucronica|París Ucrónica]] vía caída cronomántica al Bósforo
 - **Jornadas de exploración** del bucle — corte, cristalización, Hombre Variable
 - **Copia latina del [[Libro_Azul]]** por [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] — origen del Necronomicón
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ☯
+> *El tiempo aquí es materia operada: un bucle de cinco años entre 1050 y 1055 estabilizado por cronomantes, donde las armas de fuego no disparan por cristalización temporal y nadie sale sin que el guardián del varco —sospechado [[Nagant_M1895_Swann|Swann]]— lo deje pasar. Y la ciudad ocurre dos instantes a la vez: la misma cúpula de [[Hagia_Sophia]] en sus dos fechas, contagiándose como hemisferios gemelos del cosmos.* — glosa de Sucesos.
+<!-- /CICLO -->

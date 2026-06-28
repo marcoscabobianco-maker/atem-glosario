@@ -29,7 +29,7 @@ Las **Cabezas de Piedra** son **figuras receptoras americanas** del archivo cosm
 
 La identificación más probable es con las **cabezas colosales olmecas** —los **diecisiete monumentos megalíticos de basalto** tallados por la civilización olmeca de Mesoamérica entre los siglos XIII y IV a.C., encontrados principalmente en La Venta, San Lorenzo y Tres Zapotes (Veracruz, Tabasco). Las cabezas pesan entre 6 y 50 toneladas, miden hasta 3,4 metros, representan rostros humanos con rasgos individualizados. Su función original sigue debatida: retratos de gobernantes, ancestros divinizados, deidades.
 
-En el setting del ciclo, las Cabezas de Piedra **operan como receptoras** —presencia que recibe a los Annunaki en su llegada—. La función receptora sugiere: **ancestros americanos** que abren paso a los nuevos creadores sumerios, **guardianes** que aceptan o rechazan, **interfaz** entre el territorio y los recién llegados.
+En el mundo del ciclo, las Cabezas de Piedra **operan como receptoras** —presencia que recibe a los Annunaki en su llegada—. La función receptora sugiere: **ancestros americanos** que abren paso a los nuevos creadores sumerios, **guardianes** que aceptan o rechazan, **interfaz** entre el territorio y los recién llegados.
 
 ## Vínculos
 

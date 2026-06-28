@@ -10,9 +10,4 @@ aliases:
 
 ## Presentación
 
-- **el plano operativo:** Locación #8 en el mapa de [[Jerusalorium]]. Sin descripción en el archivos. Nombre sugestivo (¿taberna? ¿edificio? referencia a Moby Dick anacrónica o a algo en-juego?).
-- **Ref.:** Mapa de [[Jerusalorium]]
-
-## ACTUALIZACIONES A EXISTENTES
-
-**Ref.:** Mapa de [[Jerusalorium]]
+Locación #8 en el mapa de [[Jerusalorium]]. El archivo no la describe. Nombre sugestivo —¿taberna?, ¿edificio?, ¿eco lejano de la ballena blanca?—.

@@ -16,4 +16,4 @@ En los días más tensos del invierno de 1649, el puente fue escenario de encuen
 - [[Cardenal_Mazarino]] — cuyo poder depende en parte de que el Pont-Neuf permanezca transitable
 - [[Cour_des_Miracles]] — reserva de los marginales que frecuentan los bajos del puente
 - [[Francisco_de_Cominges]] — oficial de la regencia que ejerce vigilancia sobre el espacio público
-- [[Lunes_Santo]] — evento de la campaña ligado al movimiento en el París sitiado
+- [[Lunes_Santo]] — evento de la gesta ligado al movimiento en el París sitiado

@@ -75,11 +75,11 @@ imagen: Imagenes_Tier1/Innombrable.png
 
 ---
 
-## La línea trans-campaña
+## La línea trans-gesta
 
-**El Innombrable aparece en múltiples campañas del archivo como rival de Arian**, *antes de su consolidación en el Triunvirato*. *La doctrina cosmológica*: **rival y aliado son fases distintas de la misma relación operativa**. **Quien rivaliza con Arian a lo largo de varias campañas** *acaba siendo el que completa la tríada que sustituye a Pablo*. **La rivalidad anterior no se cancela con la alianza posterior**; *se integra como condición de la tríada*.
+**El Innombrable aparece en múltiples gestas del archivo como rival de Arian**, *antes de su consolidación en el Triunvirato*. *La doctrina cosmológica*: **rival y aliado son fases distintas de la misma relación operativa**. **Quien rivaliza con Arian a lo largo de varias gestas** *acaba siendo el que completa la tríada que sustituye a Pablo*. **La rivalidad anterior no se cancela con la alianza posterior**; *se integra como condición de la tríada*.
 
-*Conexión cosmológica con [[Anti_Inferno|la figura del segundo círculo]]*: **el mismo cuerpo cosmológico que opera como el Innombrable en el Triunvirato** *opera como la figura del segundo círculo en la Campaña [[Anti_Inferno|Dante's Inferno]]*. **Esa figura se autopresenta como "un falso profeta"** *con casco de calavera dorada de bebé con corona, hacha pequeña, bastón negro, cuervo protegido*. **La transición Innombrable → figura del segundo círculo** *es operación cosmológica documentada del archivo*.
+*Conexión cosmológica con [[Anti_Inferno|la figura del segundo círculo]]*: **el mismo cuerpo cosmológico que opera como el Innombrable en el Triunvirato** *opera como la figura del segundo círculo en la Saga [[Anti_Inferno|Dante's Inferno]]*. **Esa figura se autopresenta como "un falso profeta"** *con casco de calavera dorada de bebé con corona, hacha pequeña, bastón negro, cuervo protegido*. **La transición Innombrable → figura del segundo círculo** *es operación cosmológica documentada del archivo*.
 
 [*El Innombrable no es figura simple. Es rival, aliado, prisionero, arquitecto, firma fundacional, falso profeta. El archivo conserva todas las facetas como momentos de la misma operación cosmológica. La grafía "el Innombrable" en el acta del comienzo del tiempo es epíteto operativo y nombre propio simultáneo: el no-nombre que opera como nombre. —Glosa de [[Arkos]] el archivero del Plata.*]
 
@@ -97,18 +97,23 @@ imagen: Imagenes_Tier1/Innombrable.png
 - [[Pablo_de_Alejandria]] — autor de los designios sustituidos por la tríada
 - [[Kronamon]] — consciencia que reside en el Yunque
 - [[Anti_Inferno|la figura del segundo círculo]] — manifestación cosmológica paralela en Dante's Inferno
-- [[Anti_Inferno]] — campaña donde la figura paralela opera
+- [[Anti_Inferno]] — gesta donde la figura paralela opera
 - [[Paris_Ucronica]] — geografía donde la línea [[Corvino]] adyacente opera
 - **Tribunal por fuera del universo** — instancia que cristalizó la versión triádica de la Vara
 - **Semiplano cristalizado** — pieza arquitectónica de su autoría
 
 ## Apariciones
 
-- **Campañas tempranas del archivo** — rival recurrente de Arian
+- **Gestas tempranas del archivo** — rival recurrente de Arian
 - **[[Corazon_de_Pablo_Yunque_del_Tiempo|Yunque del Tiempo]]** — prisión original junto a Elías el Hijo
 - **Tríada con Elías y Arian** — sustitución de los designios de Pablo
 - **Tribunal por fuera del universo** — cristalización triádica de la Vara
 - **[[Los_Supremos]]** — Triunvirato del cierre cósmico
 - **Acción del comienzo del tiempo** — firma fundacional en las actas
 - **Semiplano cristalizado** — escenario del cierre
-- **Anti-Inferno (campaña Dante)** — manifestación paralela como la figura del segundo círculo
+- **Anti-Inferno (gesta Dante)** — manifestación paralela como la figura del segundo círculo
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ⏳ ☷
+> *Miembro del Triunvirato de [[Los_Supremos]] junto a [[Arian]] y [[Elias|Elías]], ligado eternamente a la [[Piedra_del_Apocalipsis]] —su pieza de la [[Vara_del_Infinito]] triádica. Su acto funda el tiempo: firma el cero del calendario nuevo «el momento después de la creación con la Vara», y la magia cronomántica no puede llegar atrás de ese decreto. La misma figura desciende a la gesta dantesca como la figura del segundo círculo del [[Anti_Inferno|Anti-Inferno]], falso profeta del estrato.* — glosa de Arkos.
+<!-- /CICLO -->

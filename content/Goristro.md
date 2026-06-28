@@ -13,10 +13,4 @@ aliases:
 
 ## Presentación
 
-**Ref.:** el archivo (aparicion), (fuga del Duque)
-
-### el plano operativo
-
-Demonio tipo Huge. Montura del [[Duque_de_Blanquist|Duque de Blanquist]]. Cabezas multiples (el archivo de transcripción transcribe como "Gorif Troi,"). El Duque escapa montado en el Goristro tras la derrota de los otros tres libertinos. No fue derrotado — huye del combate.
-
-**Ref.:** el archivo (aparicion), (fuga del Duque)
+Demonio colosal de cabezas múltiples, montura del [[Duque_de_Blanquist|Duque de Blanquist]]. El Duque escapa montado en el Goristro tras la derrota de los otros tres libertinos: no es derrotado, huye del combate.

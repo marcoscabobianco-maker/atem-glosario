@@ -98,3 +98,8 @@ imagen: Imagenes_Tier1/Bucarest_Ucronica.png
 - **4 julio 1901 [[Anno_Domini_Antiterra_ADA|A.D.A.]] — llegada del grupo** — desembarque por aguas pantanosas
 - **5-6 julio 1901 — investigación y combate en la mansión** — episodio mayor
 - **Atmósfera de intriga continuada** — anarquistas, vampiros, conspiradores serbios
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷
+> *«París de Oriente» no es elogio sino espejo: Bucarest se urbaniza a imagen de la otra París y opera como su gemela oscura del Este, contagiada de la misma fauna de anarquistas y conspiradores. Y la ciudad se baja por capas hacia abajo: la [[Mansion_de_Natalia_Petrovna|Mansión Petrovna]] desciende a sótanos sucesivos donde los ataúdes que parecían vacíos se habían abierto a tiempo, y donde [[Natalia_Petrovna]] cae al amanecer.* — glosa del archivero del Plata.
+<!-- /CICLO -->

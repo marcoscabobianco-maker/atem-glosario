@@ -15,5 +15,5 @@ Arc de Triomphe [[Mediterraneo_Ucronico|Ucrónico]] de [[Paris_Ucronica|París U
 - [[Sigil|Sigil]] — Ciudad de las [[Puertas]] cuya geometría circular resuena en las 12 avenidas
 - [[Vala_Cristalis|Vala Cristalis]] — esfera cristalina análoga, nodo dimensional en el cosmos ATEM
 - [[Catedral_implosionada_PU|Catedral implosionada (PU)]] — otro hito arquitectónico transformado de [[Paris_Ucronica|París Ucrónica]]
-- [[Catedral_de_Notre-Dame_PU|Catedral de Notre-Dame (PU)]] — monumento parisino paralelo en la misma sub-campaña
-- [[Campana_Templarios_TE|Campaña Templarios (TE)]] — sub-campaña donde aparece [[Paris_Ucronica|París Ucrónica]]
+- [[Catedral_de_Notre-Dame_PU|Catedral de Notre-Dame (PU)]] — monumento parisino paralelo en la misma gesta
+- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta donde aparece [[Paris_Ucronica|París Ucrónica]]

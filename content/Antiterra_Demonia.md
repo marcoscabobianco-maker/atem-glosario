@@ -92,7 +92,7 @@ Lo trajo de vuelta un paladín que no sabía qué pedía, en un ciclo posterior 
 
 ## El tiempo
 
-Antiterra mide su historia en años **A.D.A.** —**[[Anno_Domini_Antiterra_ADA|Anno Domini Antiterra]]**—, eje paralelo al cómputo terrestre **pero no traducible mecánicamente** —los astrónomos de ambos lados han intentado la equivalencia y han desistido—. El rango documentado va de **270 A.D.A.** —fundación de Alejandría en Antiterra, gesta de **[[Khalim|Khalim]]**— hasta cerca de **1946 A.D.A.** —futuro especulativo de los Reguladores como agentes del tiempo—. **París funciona como punto de cruce de tiempos**: el viaje cronológico está **habitualizado** allí; quien sabe operar las plataformas zodiacales o quien viene desde [[Sigil]] entra y sale **sin mayor escándalo**. Los **ciclos de doce años** marcan períodos de liberación y reorganización —marca zodiacal del setting, que ningún tratado astrológico decente ignora—.
+Antiterra mide su historia en años **A.D.A.** —**[[Anno_Domini_Antiterra_ADA|Anno Domini Antiterra]]**—, eje paralelo al cómputo terrestre **pero no traducible mecánicamente** —los astrónomos de ambos lados han intentado la equivalencia y han desistido—. El rango documentado va de **270 A.D.A.** —fundación de Alejandría en Antiterra, gesta de **[[Khalim|Khalim]]**— hasta cerca de **1946 A.D.A.** —futuro especulativo de los Reguladores como agentes del tiempo—. **París funciona como punto de cruce de tiempos**: el viaje cronológico está **habitualizado** allí; quien sabe operar las plataformas zodiacales o quien viene desde [[Sigil]] entra y sale **sin mayor escándalo**. Los **ciclos de doce años** marcan períodos de liberación y reorganización —marca zodiacal del mundo, que ningún tratado astrológico decente ignora—.
 
 ## Vínculos
 
@@ -130,3 +130,8 @@ Antiterra mide su historia en años **A.D.A.** —**[[Anno_Domini_Antiterra_ADA|
 - **1901 A.D.A.** — liberación de la dominación inglesa; acercamiento a la franja
 - **1901 A.D.A. (estaciones finales)** — Torneo Eiffel, ataque a Notre Dame, caída de [[Barbatos]], cierre del ciclo
 - **~1946 A.D.A.** — futuro especulativo de los Reguladores como agentes del tiempo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷ ◑ ⛓
+> *La otra mitad del par que no se nombra cuando se dice Terra: mismos continentes, mismas ciudades, otro aire —y bajo la superficie, cuatro pisos apilados ([[Atlantida_Alta_y_Baja|la Atlántida]] habitada, las plataformas zodiacales, [[Broken_Reach]], los Abismos de [[Azzagrat]])—. Al archivo entró por bandas con sigla: [[Los_Profundos]], [[Los_Reguladores]], [[Los_Boreales]]. Y se quema entera hacia 1901 sin cerrar nada: [[Grazzt|Graz'zt]] eligió crisálida —[[Ardipithecus]] en el valle de [[Vala]]— y esperó. Lo que A leyó como el pareo de los hemisferios (AA-C.1) y como el que se guarda en crisálida (AA-A.3) es, en C, una sola costura.* — glosa de Paulus, del Atlas Doble.
+<!-- /CICLO -->

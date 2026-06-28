@@ -52,3 +52,8 @@ Sigue el arco general de [[Las_Tullidas]]:
 
 - Taller de Rol — narrativa primaria de [[Las_Tullidas]]
 - Arco del [[Amuleto_de_los_Planos]] / Supremos — agente recabadora
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☷
+> *Tullida de ojos de medusa que es una de las cuatro casillas de [[Las_Tullidas]], junto a [[Liddha]] y [[Monaco|Mónaco]]: la banda mutilada por Papi [[Balor]] es el sujeto, ella su cuota de caos nativo de [[Limbo]]. Su arco baja por los estratos planares —derrota a Moloch en [[Baator]] vía la [[Escalera_Infinita]], desciende a los Pozos de la Araña Demonio por encargo de [[Grazzt|Graz'zt]]— como quien recorre un inferno por capas.* — glosa del archivero del Plata.
+<!-- /CICLO -->

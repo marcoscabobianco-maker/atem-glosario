@@ -19,7 +19,7 @@ Nación o colonia de brujas activa en el [[Ucronica_NC_Northern_Crown|Northern C
 
 ## Vinculos
 
-- [[Ucronica_NC_Northern_Crown|El Northern Crown]] — sub-campaña y marco geopolítico donde opera Salem
+- [[Ucronica_NC_Northern_Crown|El Northern Crown]] — gesta y marco geopolítico donde opera Salem
 - [[Holandes_Errante|Holandés Errante]] — aliado estructural de Salem: la nave-fantasma y la nación de brujas actúan en conjunto
 - [[Flying_Dutchman_Holandes_Errante|Flying Dutchman]] — entrada principal de la nave aliada
 - [[Concilio_Tribal_NC|Concilio Tribal]] — estructura política nativa con la que Salem interactúa como agente externo

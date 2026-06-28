@@ -29,7 +29,7 @@ imagen: null
 
 Laura Echegoyen es una joven de buena familia vasca de **Tres Arroyos** que veranea en la costa de **Claromecó**. Rubia, simpática, de trato fácil, lleva en el apellido la misma raíz vasca que vertebra a media gesta —la del marino quebrado, la de la dulce alemana, la de la polaca— y que en ella se vuelve atracción declarada: la seduce *lo vasco*, y por eso pone los ojos en Rómulo Ezzayeche, el vasco del grupo que el [[Operativo_Condor|Operativo Cóndor]] terminó arrastrando hasta el sur. El romance avanza despacio y a la luz del día, tolerado sin escándalo por los suyos.
 
-Es hija de [[Ernesto_Echegoyen|"el Pupe" Echegoyen]] —al que la lengua suelta deforma en *el Pupe*, *Pupias*, *Pupesito*—, el estanciero poderoso de la familia de los Bellocq, hombre que gusta de abrir su casa, recibir y contar historias. Anda con los **hermanos Müller**, Fede y Diego, pescadores curtidos de la zona; el apellido alemán al lado del vasco repite, una vez más, el cruce de orígenes que tiñe toda la campaña. En la vida de costa y estancia que Laura habita, nada anuncia todavía el fondo del que su propia sangre viene.
+Es hija de [[Ernesto_Echegoyen|"el Pupe" Echegoyen]] —al que la lengua suelta deforma en *el Pupe*, *Pupias*, *Pupesito*—, el estanciero poderoso de la familia de los Bellocq, hombre que gusta de abrir su casa, recibir y contar historias. Anda con los **hermanos Müller**, Fede y Diego, pescadores curtidos de la zona; el apellido alemán al lado del vasco repite, una vez más, el cruce de orígenes que tiñe toda la gesta. En la vida de costa y estancia que Laura habita, nada anuncia todavía el fondo del que su propia sangre viene.
 
 ---
 

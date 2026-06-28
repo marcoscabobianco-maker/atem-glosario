@@ -37,3 +37,8 @@ La forma indefinida —¿serpiente, otra cosa?— es coherente con su función: 
 
 - Panteón inicial post-Triunvirato — establecido en el nuevo cosmos
 - Edad de bronce — figura adorada por civilizaciones que necesitan guardasecretos
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦
+> *Dios del panteón inicial que el Triunvirato de [[Los_Supremos]] estableció en el nuevo cosmos: lo que en una vuelta fueron héroes, en la siguiente son los dioses del mundo recién creado, y Juve el guardasecretos nace en [[Nexus]] junto a [[Tailoor]], [[Antino]] y los demás. La apoteosis aquí cuaja en un dios cuya forma —¿serpiente, otra cosa?— nadie fija: divinidad nueva, adorada en la edad de bronce por quien necesita que un secreto susurrado en la noche no llegue a oídos ajenos.* — glosa del Decadiano.
+<!-- /CICLO -->

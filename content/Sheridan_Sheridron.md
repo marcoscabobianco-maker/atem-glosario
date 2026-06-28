@@ -19,8 +19,7 @@ aliases:
 
 Detective psíquico del **plano Akáshico**, trabajaba con escrituras automáticas. En su vida como Sheridan: aventuras en una Sumeria de 4000 años con el artefacto **[[Chinachenari]]** (meteorito,). Conexión con el **semiplano Racine** y la **serpiente de [[Bronzo]]** que crearon un nuevo mundo. Evolucionó a **Sheridrón**, quien desarrolló una "alquimia oscura y extraña del tipo Jekyll/Hyde": un demonio como jinete dentro de su cuerpo. Tenía una esfera de aniquilación. Mató al [[Gran_Khan|Gran Khan]] y le robó la "espera de liquidación". Robó algo a [[Avishai_draconicos_Tiamat|Tiamat]]. Las memorias se recuperan en el archivo mediante el Wish de [[Arian|Adam]].
 
-**Ref.:Confianza:** MODERADA (reconstrucción fragmentaria de múltiples intervenciones)
-**Nota:** Requiere cruce con fuentes MC para confirmación completa.
+**Confianza:** MODERADA (reconstrucción fragmentaria de múltiples intervenciones).
 
 ## En Vala Antigua
 
@@ -30,7 +29,7 @@ Su golpe más recordado en aquel mundo lo dio en [[Nesut_Biti]], la provincia de
 
 Sheridan fue eje del largo arco contra [[El_Devorador|el Devorador]], que asedió, perdió y disputó a [[Nesut_Biti]] a lo largo de muchas jornadas hasta su cierre, y figura central en los lances de los Wordbreakers en torno a la torre de Ob Caligni y el huevo negro. Junto a [[Taylor_(ATEM_Vala)|Taylor]], [[Yuve|Yuvé]] y los demás de la compañía, su nombre vuelve una y otra vez en las crónicas de aquel orbe, como si la trama política de Vala girara en buena parte alrededor de sus engaños.
 
-*Nota de homonimia trans-campaña: este Sheridan de Vala comparte el nombre con el detective psíquico del Descenso que da título a esta entrada, pero el archivo no los identifica como la misma figura. El nombre opera como eco —Vala es, después de todo, esa "Sumeria de cuatro mil años" que la memoria akáshica entrevé— sin que ambas existencias se confundan.*
+*Nota de homonimia trans-saga: este Sheridan de Vala comparte el nombre con el detective psíquico del Descenso que da título a esta entrada, pero el archivo no los identifica como la misma figura. El nombre opera como eco —Vala es, después de todo, esa "Sumeria de cuatro mil años" que la memoria akáshica entrevé— sin que ambas existencias se confundan.*
 
 ## Ver también
 
@@ -48,4 +47,4 @@ Sheridan fue eje del largo arco contra [[El_Devorador|el Devorador]], que asedi�
 - **Sheridan_[[Sheridron]]** *(el Descenso)* — esta entrada: detective psíquico del plano akáshico con jinete demoníaco Jekyll/Hyde.
 - **[[Sheridron]]** *(ciclo)* — dios dragón plateado, sobreviviente cosmológico.
 
-*La similitud onomástica es trans-campaña pero las entidades no se identifican una con otra*. **El cronista mantiene las dos entradas separadas con esta nota cruzada explícita** para evitar cross-contamination.
+*La similitud onomástica es trans-gesta pero las entidades no se identifican una con otra*. **El cronista mantiene las dos entradas separadas con esta nota cruzada explícita** para que no se confundan.

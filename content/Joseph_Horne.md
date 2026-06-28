@@ -56,3 +56,8 @@ imagen: Imagenes_Tier1/Joseph_Horne.png
 - **Vida anglicana — segunda mitad del siglo XVII** — tratados, oficio episcopal
 - **1692 — Rejection of my Children** — el manuscrito de su rechazo público
 - **Memoria póstuma de Patience** — eco continuado en el descenso del hijo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⌖
+> *El obispo puritano que vio en los huesos quebradizos de su hijo [[Anti_Inferno|la figura del segundo círculo]] un castigo divino y lo escribió: su tratado* Rejection of my Children *(1692) condena por doctrina, y la mención de paso a [[Crapulia]] —tierra de vicios— sembró el mapa que el hijo atravesaría sin saberlo, márgenes infernales descendidos capa por capa. La culpa paterna baja un estrato y se vuelve vocación: la falsa profecía que [[Anti_Inferno|Patience]] asume es intento de cumplir retroactivamente la advertencia del padre. El obispo y su año quedan inscritos en el archivo como dato real, no como alegoría.* — glosa del archivero del Plata.
+<!-- /CICLO -->

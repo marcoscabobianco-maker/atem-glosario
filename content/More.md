@@ -50,3 +50,8 @@ En *Señores de [[York]]* (Taller l.903-1090), More es el centro del arco trági
 - [[Dolores|Dolores]]
 - [[Alcalde_David|Alcalde David]]
 - [[David|David]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Miembro de la [[Compania_de_David|Compañía de David]] caído en desgracia: poseído por [[Lubina]], asesina a su hija, y la propia banda se vuelve partida de caza tras él —[[Egas]], [[Shen]], [[Dolores]] empuñando [[Excalibur]]— hasta arrinconarlo en [[York]]. La banda es a la vez su casa y su cacería; lo que lo nombra compañero es lo que lo persigue. Lo que A leyó como el grupo aventurero (AA-G.1), en C se ve doble: la sigla colectiva que también juzga a uno de los suyos.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

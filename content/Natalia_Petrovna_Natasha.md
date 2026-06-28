@@ -44,3 +44,8 @@ Personaje clave que marca escalada de [[Paris_Ucronica|París Ucrónica]] de con
 - [[Mansion_de_Natalia_Petrovna|Mansión de Natalia Petrovna]]
 - [[Misa_Negra|Misa Negra]]
 - [[Conexion_con_Circulo_de_la_Serpiente|Conexión con Círculo de la Serpiente]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ◑
+> *Vampiresa que dirige el [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] en [[Bucarest_Ucronica|Bucarest]], esposa del Coronel [[Apis]] —oficial serbio cuyo nombre inscribe la conspiración balcánica real en la gesta—; oficia una [[Misa_Negra|Misa Negra]] hasta que los [[Time_Bandits|Time Bandits]] la persiguen al sótano y [[Claude_Nauge|Claude]] le atraviesa el corazón en su ataúd. La vencen a ella, pero no al Círculo: [[Apis]] sigue en [[Belgrado_Ucronica|Belgrado]] y otras células operan. El enemigo que cae sigue guardado en su organización, esperando.* — glosa del Decadiano.
+<!-- /CICLO -->

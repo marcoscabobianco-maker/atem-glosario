@@ -37,7 +37,7 @@ La *Cosmogonía Gris* conserva la profecía: **cuando las tierras de fuego sean 
 
 ## Vínculos
 
-- [[Gema_de_la_Creacion|Gema de la Creación]] (ciclo) — la entrada principal del artefacto trans-campaña
+- [[Gema_de_la_Creacion|Gema de la Creación]] (ciclo) — la entrada principal del artefacto trans-gesta
 - [[Minaya_TG|Minaya (TG)]] — porta la lanza coronada por la Gema
 
 - [[Arcacto_TG|Arcacto (TG)]] — volcán que la custodia
@@ -52,3 +52,8 @@ La *Cosmogonía Gris* conserva la profecía: **cuando las tierras de fuego sean 
 - Cosmogonía Gris — 5 menciones (creación, profecía, volcán de Arcacto)
 - Primera Plataforma del Universo Dual — escenario actual (Arcacto vs Reina de las Nieves)
 - Estado actual — custodiada en el centro del volcán
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ☯
+> *La cara [[Torregrises]] del artefacto cosmogónico: misma pieza que la [[Gema_de_la_Creacion]] —rubí, punta de lanza, secreto de un universo—, pero con portadores y geografía propios del ciclo TG. Corona la lanza de [[Minaya_TG|Minaya]] y se custodia en el volcán de [[Arcacto_TG|Arcacto]], forja que la mantiene en cosmogonía pendiente. La profecía pide dos opuestos juntos: cuando el fuego sea inundado y los dos [[Guardianes]] enfrentados se unan, estalla y crea —no destruye— un nuevo [[Universo_Dual_TG|Universo Dual]]. El mismo objeto trans-gesta, abierto por su rostro gris.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

@@ -27,7 +27,12 @@ aliases:
 
 - [[Pluton_CDI|Plutón]] — señor y dueño de la Manada; sus lobos son extensión de su voluntad
 - [[Forma_de_Pluton|Forma de Plutón]] — avatares/manifestaciones del mismo ser que pueden solaparse con la Manada
-- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña y marco dramático del arco de la Manada
+- [[Anti_Inferno|el Descenso (CDI)]] — gesta y marco dramático del arco de la Manada
 - [[El_Abismo|el Abismo]] — plano demoníaco de referencia para criaturas-lobo de naturaleza caótica
 - [[Erinyes|Erinyes]] — otras sirvientas infernales con las que la Manada podría rivalizar o colaborar
 - [[Herding_Devils_Diablos_Pastores|Diablos Pastores]] — categoría de diablos que también manejan bestias infernales
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *La jauría de lobos blancos de [[Pluton_CDI|Plutón]], peldaño de su poder en la bajada del [[Anti_Inferno|Descenso]]: siervos que distinguen a su señor de los demás demonios, diezmados hasta que una quedó «serpiente clavada acá en el lugar» (eco de la [[Forma_de_Pluton|Forma de Plutón]]). En la economía de estratos infernales la Manada es un escalón intermedio, emparentada con los [[Herding_Devils_Diablos_Pastores|Diablos Pastores]] que arrean bestias del foso.* — glosa de Paulus.
+<!-- /CICLO -->

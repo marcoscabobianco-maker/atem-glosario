@@ -61,7 +61,7 @@ tags:
 
 **La biografía cósmica de Tailoor lo precede al Triunvirato**. **Tailoor es uno de los sobrevivientes del mundo [[Vala_Antigua|Vala Antigua]]** —*el mundo previo al cierre, base de lo que sucede después en [[Vala_del_Medioevo|Vala del Medioevo]] y [[Arden_Vul]]*—. **Tailoor, junto con [[Antino|Antinoo]], [[Sheridron|Shadydron]], [[Jax]] y [[Garkhan]]**, **atravesó el colapso de Vala Antigua y emergió en el nuevo cosmos del Triunvirato**.
 
-**El panteón inicial del nuevo mundo no es invento ex nihilo del Tribunal**: *es la herencia de los que sobrevivieron al mundo previo*. **Esta procedencia explica por qué los "héroes del antiguo multiuniverso" son adorados como deidades en la microcampaña del nuevo cosmos** —*"como Marvel hizo con los panteones clásicos: se puede encontrar a Thor, quien fue adorado como un dios en la antigüedad pero realmente es un ser MUY poderoso que a ojos de simples mortales, era un dios."* **Tailoor opera en esa lógica**: **héroe sobreviviente reconvertido en patrón divino**.
+**El panteón inicial del nuevo mundo no es invento ex nihilo del Tribunal**: *es la herencia de los que sobrevivieron al mundo previo*. **Esta procedencia explica por qué los "héroes del antiguo multiuniverso" son adorados como deidades en la microsaga del nuevo cosmos** —*"como Marvel hizo con los panteones clásicos: se puede encontrar a Thor, quien fue adorado como un dios en la antigüedad pero realmente es un ser MUY poderoso que a ojos de simples mortales, era un dios."* **Tailoor opera en esa lógica**: **héroe sobreviviente reconvertido en patrón divino**.
 
 ---
 
@@ -93,7 +93,12 @@ tags:
 
 - **Vala Antigua (~2019)** — origen como héroe sobreviviente
 - **Post-Triunvirato** — adoración como deidad del panteón inicial; tercer avatar del padre triple
-- **Microcampaña edad de bronce** — figura adorada por las civilizaciones nacientes
+- **Microgesta edad de bronce** — figura adorada por las civilizaciones nacientes
 - **Unión con Thalia Cristalia** — pareja cosmológica de la rama cristalina
 - **Nacimiento de Vitalis** — abandonado en el Río [[Rio_Oukronos|Oukronos]] como mensajero olvidado
-- **1824 AE — ciclo presente** — deidad operativa en Nesut-Bity; padre d[[Vitalis|el [[Vitalis|Hechicero del Río Blackwater]]]] de [[Caldero]]
+- **1824 AE — ciclo presente** — deidad operativa en Nesut-Bity; padre del [[Vitalis|Hechicero del Río Blackwater]] de [[Caldero]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ※ ✦ ☯
+> *Las siete letras de [[Lotario]] y [[Oratiol]] reordenadas: un sastre de provincia que es la misma alma del padre triple recosida en otra secuencia, donde el nombre no adorna sino que prueba la identidad. Héroe sobreviviente de [[Vala_Antigua]] —el mundo dentro del cristal— elevado a deidad del amor, el juego y los pactos; pareja de [[Thalia_Cristalia]] y padre de [[Vitalis]], el mensajero abandonado al [[Rio_Ucronos|Río Oukronos]].* — glosa del archivero del Plata.
+<!-- /CICLO -->

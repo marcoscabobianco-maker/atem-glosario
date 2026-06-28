@@ -24,7 +24,7 @@ epoca: "1348 DR — Edad de los Reinos Olvidados — llegada a los Reinos"
 
 Jinete de wyvern de Krynn. Lugarteniente del Ejército del [[Sauro_Dragon|Dragón]] Rojo.
 Llega al mundo con 18 años, de fuerza descomunal. Forma parte de la línea
-trans-campaña que conecta con el Indio/Kaneda y el Tiefling de [[Sigil]].
+trans-gesta que conecta con el Indio/Kaneda y el Tiefling de [[Sigil]].
 Su arco principal incluye: la alianza con [[Tii_TiiMhut|Tii]], la muerte de Zara,
 la vampirización por Félix Hoyer, la boda con [[Tii_TiiMhut|Tii]] (interrumpida por
 el Señor de la Mortaja), y el despertar desnudo en una nueva vida. En [222],
@@ -42,3 +42,8 @@ en la [[Contienda]]. Puede ofrecer la vida a [[Maristo]].
 - [Wikipedia](https://es.wikipedia.org/wiki/Coyote_(mitolog%C3%ADa))
 
 ## Presentación
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Jinete de wyvern de Krynn que muere y despierta desnudo en una vida nueva, y termina —junto a [[Kaxathros]]— de guardián de la plataforma de la Tentación en la [[Contienda]]. Es el oficio que rota: quien cae en una plataforma puede pasar a custodiarla, y el cargo sobrevive al cuerpo que lo ocupa, como la vida que aún puede ofrecer a [[Maristo]].* — glosa de Amitlai.
+<!-- /CICLO -->

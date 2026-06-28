@@ -90,3 +90,8 @@ Cuando regresaron a [[Helix]] —*"a último momento, cuando llegan adentro de e
 - **La noche de la huida** — escoltó la fuga al bosque, asistido por tragoide
 - **La jornada del altar** — quedó afuera del recinto consagrado; sus pactados ejecutados o presos
 - **Después** — libre y operativo en la comarca de Helix
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧
+> *Buhonero del abismo que escala su catálogo —armadura, hacha, diez mil monedas, la palabra sobre la [[Tableta_del_Caos]]— hasta que el temple del otro afloja y cierra el trato que condena. El brujo [[Silas_del_Umbral|Silas]] cayó por incapacidad de resistir y murió sobre el altar; los [[Gemelos_Inquisidores_Helix|gemelos]] cedieron por el oro y quedaron presos; [[Dimitri]], que aguantó, no firmó. El demonio cobra sus piezas y queda libre para el próximo que no resista.* — glosa del archivero del Plata.
+<!-- /CICLO -->

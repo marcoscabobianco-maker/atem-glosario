@@ -57,7 +57,7 @@ Phocion IV **encomendó la operación** al **general [[Adrienic]]** —*comandan
 - **La 3.ª Cohorte de élite de los Tagmata imperiales** —*guardia profesional, herederos directos de las legiones de la antigua Bellatrix*—.
 - **Magos y clérigos de renombre** —*Orden de Thoth + Iglesia Ortodoxa Decadiana en misión conjunta*—.
 - **Ingenieros militares**.
-- **Trenes de suministros para campaña de larga duración**.
+- **Trenes de suministros para gesta de larga duración**.
 
 > *"La campaña inicia con optimismo, pero pronto enfrenta la feroz resistencia de las extrañas criaturas que habitan las ruinas."* — pliego oficial de la cancillería, conservado en los archivos de [[Narsileon]].
 
@@ -102,7 +102,7 @@ La memoria de la Masacre **pesó sobre la sucesión imperial**:
 **[[Ritornello]] sobrevivió a la Masacre por dos razones**:
 
 - Su población era civil y mercantil, *no fuerza militar*: los [[Varumani]] no atacaron el pueblo, *atacaron sólo a la expedición*.
-- *Los Tagmata supervivientes y los [[Buscadores_de_Ardis_Vala|Buscadores]] de la doctrina sortiana posteriores* **convirtieron Ritornello en base permanente** para *bajadas al dungeon más prudentes*, *grupales y desorganizadas*, *no campañas imperiales*.
+- *Los Tagmata supervivientes y los [[Buscadores_de_Ardis_Vala|Buscadores]] de la doctrina sortiana posteriores* **convirtieron Ritornello en base permanente** para *bajadas al dungeon más prudentes*, *grupales y desorganizadas*, *no gestas imperiales*.
 
 **De aquella prudencia frontera, dos siglos después, nacieron las generaciones de [[Buscadores_de_Ardis_Vala|Buscadores]]** —*incluyendo el grupo del ciclo presente*— que **operan en el dungeon sin firma imperial directa**. *La política archontea aprendió en la Cueva de Sangre que el dungeon no se conquista por fuerza*; **el dungeon se navega por contrato con aventureros**.
 
@@ -143,7 +143,7 @@ En el ciclo presente, **Phocion IV es figura mixta**:
 ## Apariciones
 
 - **~2742 AEP — Subida al trono** — fase de hubris postReconquista; preparación de la expedición
-- **~2742-2759 AEP — Expedición de [[Adrienic]]** — campaña inicial con optimismo; rotación de patrullas; avance al dungeon
+- **~2742-2759 AEP — Expedición de [[Adrienic]]** — gesta inicial con optimismo; rotación de patrullas; avance al dungeon
 - **~2759 AEP — Masacre de la Cueva de Sangre** — emboscada de [[Girbala]]; aniquilación de la columna imperial principal; captura y transformación de la 3.ª Cohorte de los Tagmata
 - **Repliegue imperial** — abandono parcial del valle; cincuenta años de frontera congelada
 - **Muerte y mausoleo imperial** — sin fecha precisa en los pliegos del valle

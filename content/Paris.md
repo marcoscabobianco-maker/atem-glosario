@@ -16,6 +16,6 @@ El Sena la divide. El Pont-Neuf la cose. El Quartier de Saint-Germain-des-Prés 
 - [[Palais-Royal]] — sede del poder regente dentro de París
 - [[Pont-Neuf]] — eje fluvial y espacio público de la ciudad
 - [[Cour_des_Miracles]] — reino subterráneo de los marginales parisinos
-- [[Quartier_de_Saint_Germain_de_Pres]] — barrio activo en la campaña
+- [[Quartier_de_Saint_Germain_de_Pres]] — barrio activo en la gesta
 - [[Cardenal_Mazarino]] — figura dominante en la política de la ciudad en 1648
 - [[Paris_Ucronica]] — resonancia ucrónica de este mismo espacio

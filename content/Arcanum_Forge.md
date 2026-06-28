@@ -92,3 +92,8 @@ La **Arcanum Forge** —*Forja del Arcanum*— es **artefacto cosmológico sorti
 - **Corrida original**: producción de equipment Priscian
 - **Jornada Ardis Vala**: gran evento del [[Arbol_de_Armas_Principal|Árbol de Armas]]
 - **Pendiente**: estado actual post-hiato
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *La forja donde un objeto se vuelve semilla y la semilla árbol: la [[RAJ-750]] —inteligencia del módulo de armas— se activa aquí y crece el [[Arbol_de_Armas_Principal|Árbol de Armas Principal]], pieza cósmica del [[Arcanum]] que [[Nerub_Null]] aún no domina entera. Un retoño se desprende, arraiga como rizoma bajo [[Stejara]] y reaparece lejos como [[Arbol_Gulthias|Árbol Gulthias]]: el artefacto compuesto que viaja entre geografías y campañas sin perderse.* — glosa del Decadiano.
+<!-- /CICLO -->

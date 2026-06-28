@@ -13,7 +13,7 @@ aliases:
 
 ## Presentación
 
-**[[Ubicacion_en_Laberinto|Ubicación en Laberinto]]:** Centro/final del Laberinto. Acceso: hechizo de sugestión sobre [[Michel|Michel]].
+**Ubicación en Laberinto:** Centro/final del Laberinto. Acceso: hechizo de sugestión sobre [[Michel|Michel]].
 **Descripción física:**
 - Puerta de dos hojas, color marfil/blanco. Cerrada inicialmente.
 - Interior: cámara con 4 escaleras (4 niveles arquitectónicos)
@@ -28,6 +28,5 @@ aliases:
 
 ## Ver también
 
-- [[Ubicacion_en_Laberinto|Ubicación en Laberinto]]
 - Rituales
 - Post-combate

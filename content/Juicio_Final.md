@@ -85,7 +85,7 @@ epoca: "1375 DR — Edad de los Reinos Olvidados — derrota de Tiamat"
 
 ## Fuente primaria
 
-**[[Calendario]] merged.doc** ([[Calendario]] de [[Amitlai]], consolidación 2005-2018):
+El **[[Calendario]] de [[Amitlai]]** (consolidación 2005-2018):
 
 > *"**1375 DR Juicio Final. [[Minaya_MC|Minaya]] (27 años) y [[Soluna|Soluna]] vencen a Takhishis utilizando la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]]. Los dioses vuelven atrás en el tiempo hasta el 1348 DR. Aventureros sin par, recorrían la senda de los peligros para vencer a [[Tiamat_MC|Tiamat]]. Alquimia especial determinó la comunión del plateado... "* (par 199-203)
 
@@ -93,8 +93,8 @@ epoca: "1375 DR — Edad de los Reinos Olvidados — derrota de Tiamat"
 
 | Eje | Detalle |
 |---|---|
-| **Fecha** | 1375 DR (Dale Reckoning, calendario Reinos Olvidados) |
-| **Antagonista** | [[Tiamat_MC|Tiamat]] / Takhishis (mismo ente — nomenclatura FR + Dragonlance) |
+| **Fecha** | 1375 DR (Dale Reckoning, cómputo de los Reinos Olvidados) |
+| **Antagonista** | [[Tiamat_MC|Tiamat]] / Takhishis (mismo ente bajo dos nombres) |
 | **Héroes** | [[Minaya_MC|Minaya]] (27 años), [[Soluna|Soluna]] |
 | **Artefactos** | Lanza con punta de rubí = [[Gema_de_la_Creacion|Gema de la Creación]] |
 | **[[Consecuencia]]** | Vuelta del tiempo: dioses retroceden 27 años a 1348 DR |
@@ -110,11 +110,11 @@ El [[Calendario]] distingue **Primer Círculo** y **Segundo Círculo** como cicl
 
 ## Conexión con la Cadena de Reencarnación
 
-[[Clarisa]] muere en 1375 DR según MC_LINEA_TEMPORAL:
+[[Clarisa]] muere en 1375 DR según la línea temporal del archivo:
 
 > *"**1375 DR:** Juicio Final (Primer Círculo). [[Laveth]] trama su ascensión divina y mata a [[Clarisa]]."*
 
-Y en 1377 DR sale de prisión (contradicción aparente con muerte de 1375 — pendiente resolución).
+Y en 1377 DR sale de prisión (contradicción aparente con la muerte de 1375).
 
 ## El "veneno de bruma" — sello previo
 
@@ -124,15 +124,11 @@ Antes del Juicio Final, Tiamat había sellado a los dioses locales:
 
 [[El_Juicio_Final_campana|El Juicio Final]] es la **respuesta heroica** a este sello: 1000 años después, [[Minaya_MC|Minaya]] y [[Soluna|Soluna]] usan el "rubí faltante" del propio monte de Tiamat (= [[Gema_de_la_Creacion|Gema de la Creación]]) para vencerla.
 
-## Nota lateral
-
-> Pendiente: anclar el Juicio Final en la cronología del archivo. El Calendario refleja la consolidación narrativa; el pormenor del registro queda en el estrato akáshico.
-
 ## Notas
 
-- "Takhishis" es la grafía del Calendario (variante de la [[Reina_Oscura]], Dragonlance). En el cosmos compartido se identifica con Tiamat (Reinos Olvidados / Mesopotamia).
-- El **retroceso temporal de 27 años** es un mecanismo cosmogónico que vuelve a aparecer en otros eventos (pendiente catalogar).
-- La fórmula *"Alquimia especial determinó la comunión del plateado"* sugiere un ritual alquímico que cierra el evento — pendiente expandir.
+- "Takhishis" es la grafía del Calendario, variante de la [[Reina_Oscura]]; en el cosmos compartido se identifica con Tiamat (Reinos Olvidados / Mesopotamia).
+- El **retroceso temporal de 27 años** es un mecanismo cosmogónico que vuelve a aparecer en otros eventos.
+- La fórmula *"Alquimia especial determinó la comunión del plateado"* sugiere un ritual alquímico que cierra el evento.
 
 ## Ver también
 
@@ -143,4 +139,9 @@ Antes del Juicio Final, Tiamat había sellado a los dioses locales:
 - [[Gema_de_la_Creacion|Gema de la Creación]] (artefacto clave)
 - [[Magia_dual|Magia Dual]] (cosmogonía previa)
 - [[Danza_del_Conocimiento|Danza del Conocimiento]] (1368 DR — preludio)
-- [[Clarisa]] (muere en 1375 DR según MC_LINEA_TEMPORAL)
+- [[Clarisa]] (muere en 1375 DR según la línea temporal del archivo)
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *El evento se decide con una pieza: la Lanza de punta de rubí que [[Minaya_MC|Minaya]] y [[Soluna]] clavan en Takhishis es la [[Gema_de_la_Creacion|Gema de la Creación]], el «rubí faltante» del propio monte de [[Tiamat_MC|Tiamat]]. La Gema no actúa sola en el ciclo: es una de las tres piezas del objeto compuesto que decide cosmogonías, y aquí su sola inserción retrocede el tiempo veintisiete años. Vencer a la diosa es ensamblar el fragmento que ella misma había perdido.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -62,7 +62,7 @@ Los Buscadores **mataron a Trocadero** en jornada. La transcripción confirma. *
 - **[[Papa_Alejandro_Sixto|Sir Sixto]]** — maldecido por el collar
 - **Mefite** — sirviente de planos inferiores
 - [[Ritornello]] — origen (apellido toponímico)
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

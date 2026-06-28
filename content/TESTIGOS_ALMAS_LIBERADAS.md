@@ -19,7 +19,12 @@ Múltiples entidades cautivas en una jaula dentro de un templo del [[Anti_Infern
 ## Vinculos
 
 - [[Lost_Ones]] — categoría doctrinal que les corresponde: almas sin esperanza residentes del Foso
-- [[Anti_Inferno|el Descenso (CDI)]] — geografía infernal y sub-campaña de la que forman parte
+- [[Anti_Inferno|el Descenso (CDI)]] — geografía infernal y gesta de la que forman parte
 - [[Swedenborg]] — guía del Anti-Inferno cuya misión es conducir almas; la liberación de los testigos resonará con su arco
 - [[Castillo_del_Prisma]] — fortaleza del segundo círculo, lugar del cautiverio
 - [[Minos_Inferno]] — juez del segundo círculo que sentencia a las almas antes de su confinamiento
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Cerca de cinco almas enjauladas en un templo del [[Anti_Inferno|Descenso]] —entre ellas «Ruland» y «el Jovencito»—, [[Lost_Ones]] que perdieron la esperanza y quedaron fijos en su círculo hasta que se rompió la jaula. Su sitio es el [[Castillo_del_Prisma|segundo círculo]], donde [[Minos_Inferno|Minos]] sentencia y confina: el estrato no sólo organiza el espacio, fija a cada alma en su grado de condena, y subir un peldaño es liberación.* — glosa de Paulus.
+<!-- /CICLO -->

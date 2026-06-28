@@ -45,7 +45,7 @@ La **Baba Iliana** parece ser un eco de un tipo de bruja-vidente eslavo (Baba = 
 - **Baba Iliana** — atadora de hombros y profecías (sin entrada propia aún)
 - [[Carad_de_Teyber]] — señor del territorio
 - [[Barrado_Balacan]] — región
-- [[Ardis_Vala_campaña|Ardis Vala (campaña)]]
+- [[Ardis_Vala_campaña|Ardis Vala (gesta)]]
 
 ## Apariciones
 

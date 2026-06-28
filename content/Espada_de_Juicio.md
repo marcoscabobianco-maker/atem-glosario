@@ -87,3 +87,8 @@ imagen: null
 - **~1812 AE — Operación contra Papa Borg** — golpe ejecutado en la [[Gran_Plaza_de_Obsidiana]]
 - **Desvanecimiento con la Giganta** — la Espada regresa al estado cosmológico primigenio
 - **1824 AE — ciclo presente** — inaccesible al mundo de los mortales; convocatoria futura abierta
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ◑
+> *Arma primigenia del polo luminoso que la [[Giganta_Antigua]] porta sólo cuando opera contra el polo negativo del cosmos: la espada que ejecuta el desbalance, hermana de la [[Soluna|Lanza con punta de rubí]] que en otro registro mata a Tiamat. Cumplido el juicio sobre el [[Papa_Borg_de_Caldero|Papa Borg]] en la [[Gran_Plaza_de_Obsidiana]], no queda como reliquia: se desvanece con la Giganta hacia el estado primigenio, apresada a la espera de la próxima convocatoria —arma que duerme hasta que el ciclo la vuelva a necesitar.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

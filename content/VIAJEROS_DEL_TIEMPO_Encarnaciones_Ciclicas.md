@@ -23,5 +23,4 @@ aliases:
 
 ## Ver también
 
-- [[Implicacion_critica|Implicación crítica]]
 - Ejemplos confirmados

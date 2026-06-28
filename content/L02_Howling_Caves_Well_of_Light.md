@@ -69,9 +69,14 @@ Las **Howling Caves & Well of Light** —*Cuevas Aullantes y Pozo de Luz*— fue
 - [[Thoth]] — divinidad del culto local
 - **Gerrilad el Grey**, Sisko, Trefko — figuras principales
 - **Library of Thoth** — fuente bibliográfica
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - Tránsito ocasional
 - Posible visita a la Library of Thoth (gancho para conocimientos del dungeon)
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Un piso del [[Mega_Dungeon_Arden_Vul]] —el L02, antiguo nivel privado de los sacerdotes de Thoth— donde el descenso se lee como capas: el [[Pozo_de_Luz|Well of Light]] de doscientos pies baja la luz solar al subsuelo y rige toda la zona, porque los babuinos blancos de Gerrilad el Gris pelean envalentonados en la oscuridad y acobardados con los espejos encendidos. Bajo él, los sublevels (Tombs of Light, Tomb of Isadora); junto a él, la [[Library_of_Thoth]] que guarda la historia estratificada del dungeon entero.* — glosa de Amitlai.
+<!-- /CICLO -->

@@ -27,7 +27,7 @@ imagen: Imagenes_Tier1/Black_George.png
 ![[Imagenes_Tier1/Black_George.png]]
 <!-- /HEADER_IMG -->
 
-> *"[[Mano_Negra_Antiterra_Serbia|Ujedinjenje ili Smrt]]." ([[Mano_Negra_Antiterra_Serbia|Unión o Muerte]].)* — Insignia de la Mano Negra; cita de mesa.
+> *"[[Mano_Negra_Antiterra_Serbia|Ujedinjenje ili Smrt]]." ([[Mano_Negra_Antiterra_Serbia|Unión o Muerte]].)* — Insignia de la Mano Negra.
 
 **De pie sobre la mesa de planificación**: gorro de astracán negro encajado bajo la sien, **uniforme militar oscuro sin charreteras, gabardina abierta**, **cuchillo en la mano derecha** —pequeño, recto, **utilizado como puntero sobre el mapa**—. Inclinado, **la punta del cuchillo apunta exactamente la palabra SARAJEVO** en el plano desplegado. *Alrededor de él, cinco hombres*: dos sentados al frente, dos al fondo, **uno arrodillado al borde derecho leyendo el plano del costado**; **todos miran el cuchillo, no la cara**. Detrás, dos carteles: **UJEDINJENJE ILI SMRT** (con calavera y dos sables cruzados) y **NARODNA ODBRANA SRBIJE 1914**. *Sobre la mesa esquinada*, un libro abierto que lleva por título manuscrito **SLOBODA ILI SMRT** —Libertad o Muerte—, una pistola, una taza de café.
 
@@ -63,7 +63,7 @@ imagen: Imagenes_Tier1/Black_George.png
 
 - [[Mano_Negra_Antiterra_Serbia|Mano Negra]] — el cuerpo que comanda
 - [[Gavrilo_Princip|Gavrilo Princip]] — su instrumento ejecutor
-- [[Batalla_de_Kosovo_1389]] — la fecha cronomántica que la mesa explota
+- [[Batalla_de_Kosovo_1389]] — la fecha cronomántica que la Mano Negra explota
 - [[Sarajevo_1914_Ucronica]] — escenario del acto
 - [[Lazaro_Principe_de_Serbia|Lázaro]] — la figura serbia central del cruce con 1389
 - [[Karadjordje_Historico]] — el tocayo histórico del siglo XVIII
@@ -74,3 +74,8 @@ imagen: Imagenes_Tier1/Black_George.png
 - **1914 — semanas previas a Sarajevo** — planificación de mesa, distribución de armas
 - **28 de junio de 1914 — el atentado** — no presente en la calle; presente en la consecuencia
 - **Pactos sucesivos de la Mano Negra** — fórmula *Unión o Muerte* renovada
+
+<!-- CICLO -->
+> **Casas del ciclo** · ※ ⌖ ⛧
+> *El nombre no se hereda, se duplica: este comandante de la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] lleva el de [[Karadjordje_Historico|Karađorđe]], el fundador serbio del siglo XVIII, y opera su misma causa un siglo después —tocayo cronomántico, no descendiente de sangre. La Historia real está inscrita verbatim: Sarajevo, [[Gavrilo_Princip|Gavrilo]], el 28 de junio que cruza con la [[Batalla_de_Kosovo_1389|batalla de Kosovo de 1389]]. Y su «Unión o Muerte» no es eslogan sino fórmula de pacto cargado: el que jura en su mesa ata su muerte al efecto del acto. El nombre que se repite, el magnicidio verdadero y el juramento que condena confluyen en una sola mesa trasera.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -44,7 +44,6 @@ El cabo no volvió a ser el cabo. **Sigue inclinado a sobresaltos**, **no respon
 - [[Akala]] — hipótesis sobre la voz interior
 - [[Beacon_Faro_Brillante|Beacon]] — sistema mayor desde el que filtraría la operación
 - [[Inteligencias_Rudishva]] — categoría de la entidad sospechada
-- [[Rendicion_no_combatiente]] — patrón doctrinal del que su caso es ejemplo
 
 ## Apariciones
 

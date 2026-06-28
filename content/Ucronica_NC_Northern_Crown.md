@@ -59,3 +59,8 @@ El **Northern Crown** —**la [[Corona_activacion_desconocida|Corona]] del Norte
 - **Rondas anuales** del Northern Crown entre puertos coloniales y metropolitanos
 - **Convivencia conflictiva** con los pueblos nativos del este continental
 - **Ciclo presente** — dominio activo, pliegue cronológico abierto
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⏳
+> *Dominio y navío a la vez, que comparten bandera: el galeón [[Corona_activacion_desconocida|NORTHERN CROWN]] es la colonia que administra, y pisar la cubierta es pisar la colonia en sentido jurídico. Late en un siglo XVII propio —ni el cómputo [[Anno_Domini_Antiterra_ADA|A.D.A.]] de los Reguladores ni el pre-Sumersión de la [[Atlantida_Alta_y_Baja|Atlántida]]—, un pliegue del mundo gemelo [[Antiterra_Demonia|Antiterra]] al que los viajeros entran reaprendiendo el calendario. El tiempo no fluye: se pliega, y cada pliegue es una época habitable aparte.* — glosa del archivero del Plata.
+<!-- /CICLO -->

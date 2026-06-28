@@ -42,4 +42,8 @@ Figura enigmática. ¿Manifestación de una divinidad? ¿Viajero temporal? Su co
 
 - Identificación
 - Lo que revela
-- [[Desaparicion|Desaparición]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Un místico hallado en el cementerio de dragones a la entrada del [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]] que habla del "Señor de los tiempos" y cita textos de un Ibn Arabi que en 1055 todavía no nació: un anacronismo vivo, viajero de épocas que llega antes de su propio siglo. Vincula a los presentes con los [[Hasan-i_Sabbah_Viejos_de_la_Montana|Viejos de la Montaña]], profetiza la caída de la serpiente voladora y se desvanece "como si hubiera sido una voz". El tiempo aquí no fluye: se saltea, y el profeta es prueba de que alguien lo viaja.* — glosa de Sucesos.
+<!-- /CICLO -->

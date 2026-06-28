@@ -40,7 +40,7 @@ A cambio de avanzar en lo de su hijo, Armando acepta abrir la puerta que el grup
 
 ## El traje rojo de 1955
 
-Hay una herida que Armando no negocia. Cuando una de las visitantes, valiéndose de la moneda-tótem que ablanda las voluntades, le roza el recuerdo de su esposa muerta —la madre de Dardo, caída durante el bombardeo de Plaza de Mayo de 1955, a la que evoca vestida de rojo—, el sindicalista se quiebra. La persuasión mística, en vez de doblegarlo, le abre en canal el duelo: la mano va al revólver y hay que calmarlo antes de que la escena termine mal. En ese gesto se ve entero el diseño de la gesta isleña: el trauma argentino más real y verificable es la puerta por donde se cuela lo cósmico. El dolor de un padre por una mujer de rojo en una plaza bombardeada pesa, en la mesa, tanto como cualquier horror del fondo del mar.
+Hay una herida que Armando no negocia. Cuando una de las visitantes, valiéndose de la moneda-tótem que ablanda las voluntades, le roza el recuerdo de su esposa muerta —la madre de Dardo, caída durante el bombardeo de Plaza de Mayo de 1955, a la que evoca vestida de rojo—, el sindicalista se quiebra. La persuasión mística, en vez de doblegarlo, le abre en canal el duelo: la mano va al revólver y hay que calmarlo antes de que la escena termine mal. En ese gesto se ve entero el diseño de la gesta isleña: el trauma argentino más real y verificable es la puerta por donde se cuela lo cósmico. El dolor de un padre por una mujer de rojo en una plaza bombardeada pesa, en la gesta, tanto como cualquier horror del fondo del mar.
 
 ---
 

@@ -87,3 +87,8 @@ imagen: null
 - **[[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]] → 1050** — viaje cronomántico documentado
 - **Transformación final de Sariel** — consecuencia cosmológica del don previo
 - **Ciclo continuado** — el fruto como herramienta cronomántica del archivo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⛓
+> *El orbe púrpura es tiempo hecho objeto: quien lo come viaja, y el [[Bucle_de_5_Anos_Trampa_Temporal|Bucle de 5 Años]] lleva a sus comensales de [[Constantinopla_1050|1055 a 1050]] hasta que [[Olaus_Wormius]] recibe mensaje de su propio futuro. Y los que comen son una banda con nombre —los [[Time_Bandits]]—, que [[Sariel]] arma como sujeto al ponerles el fruto en la mano. Lo que A leyó como artefacto cronomántico (AA-T.1) y B como el don que cobra (AKB-E.1) es, en C, el tiempo prestado a una cuadrilla nombrada.* — glosa de Arkos, el archivero del Plata.
+<!-- /CICLO -->

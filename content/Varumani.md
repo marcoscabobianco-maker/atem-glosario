@@ -108,10 +108,15 @@ Los Varumani son **probable creación o sub-raza rudishva** —los rudishva cria
 - [[Heqeti]] / [[Kaliyani]] — enemigos
 - **Hraskaya, Vedraya One-Eye, Gavra, Igrippa, Ashoka, Glif, Vimela, Trijax, Prayaska, Ecath, Peabo, Muq, Gog** — true/lesser varumani notables
 - **Troll thegn's passport** — objeto requerido para entrar al dominio
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - Mencionados desde **el archivo** (embajadores [[Valumani]])
 - Jornadas de la Arena y Troll Lifts (siguientes)
 - Presencia constante en niveles medios
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Pueblo del estrato: los trolls de tres castas —true, lesser, bestial— que habitan los niveles medios del [[Mega_Dungeon_Arden_Vul]] entre los [[Troll_Lifts_Arena|Troll Lifts]] y la [[Court_of_Troll_Thegn|Corte del Thegn]], cada capa una función. Criados por los [[Rudishva]] en las troll pits, sobreviven en declive bajo [[Varboka]], que busca activar el [[Beacon_Faro_Brillante|Beacon]] para despertar a su raza —y el Beacon es de un sub-nivel más hondo que el suyo. Los bestial son el material base, el fondo de la propia escala.* — glosa del archivero del Plata.
+<!-- /CICLO -->

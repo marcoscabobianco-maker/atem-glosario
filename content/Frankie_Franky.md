@@ -14,4 +14,4 @@ Hasta que el cotejo con otras fuentes del período resuelva la identidad, el arc
 ## Vínculos
 - [[Marsilio_Fountaine]] — hipótesis prioritaria: posible identidad real detrás del apodo
 - [[Marcel]] — segunda hipótesis de identidad
-- [[Quartier_de_Saint_Germain_de_Pres]] — escenario donde opera la sub-campaña parisina
+- [[Quartier_de_Saint_Germain_de_Pres]] — escenario donde opera la gesta parisina

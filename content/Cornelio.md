@@ -67,3 +67,8 @@ Su muerte fue una nota al pie de los Reguladores y, sin embargo, dejó la firma.
 - [[Antiterran_Commerce_Guild]] — invocación y tatuaje del Mercane
 - Muerte por asesino francés — **antes del [[Torneo_de_la_Torre_Eiffel]]** (1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]]); fecha exacta pendiente
 - [[Torneo_de_la_Torre_Eiffel]] — episodio del que Cornelio ya está ausente cuando ocurre
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⟳
+> *El marcador de cuentas de [[Los_Reguladores]], la banda nacida del derrumbe de [[Los_Profundos]]: su oficio era firmar contratos con aguja sobre piel, y al primer [[Mercane_Welcome_Back_Henri|Mercane]] de la [[Antiterran_Commerce_Guild]] le tatuó el «001» —cuenta y estigma a la vez. Su muerte cierra un círculo de oficio rotativo: uno de los cuatro conjurados parisinos lo mata y años después se vuelve Guardián de Libra en Alejandría, hasta que [[Juan_Jerez_Billie_Jean|Billy Jean]] lo derriba de una estocada y hereda el puesto. El que mata al guardián se vuelve guardián.* — glosa de Sucesos.
+<!-- /CICLO -->

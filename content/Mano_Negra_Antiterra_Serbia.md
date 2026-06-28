@@ -71,7 +71,7 @@ Su fusión con **vampirismo** —*[[Apis]] vampirizado*— **y con el [[Circulo_
 ## Vínculos
 
 - [[Apis]] — coronel-vampiro, jefe operativo
-- [[Black_George]] — comandante de la mesa de Sarajevo
+- [[Black_George]] — comandante de la célula de Sarajevo
 - [[Sarajevo_1914_Ucronica]] — operativo mayor del XX
 - [[Batalla_de_Kosovo_1389]] — antecedente cronomántico
 - [[Vito_Guia|San Vito]] — santo del día, marca de fecha
@@ -91,3 +91,8 @@ Su fusión con **vampirismo** —*[[Apis]] vampirizado*— **y con el [[Circulo_
 - **28 de junio de 1914 — Sarajevo** — atentado del Puente Latino
 - **Belgrado uchrónico — encarcelamiento del grupo** — episodio posterior
 - **Tránsitos sucesivos en París, Estambul, Bucarest** — operatividad geográfica continua
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ⏳
+> *La Historia real entra al cosmos inscrita verbatim: el regicidio de Mayo de 1903, el atentado del Puente Latino de [[Sarajevo_1914_Ucronica|Sarajevo 1914]] con [[Gavrilo_Princip]], la caída del Príncipe [[Lazaro_Principe_de_Serbia|Lázaro]] en [[Batalla_de_Kosovo_1389|Kosovo]] en 1389 —todos en la fecha cardinal del 28 de junio—. Pero su «Unión o Muerte» no es eslogan sino fórmula cronomántica que ata la muerte del jurador al efecto histórico, y [[Apis]] vampirizado sostiene los quinientos veinticinco años de espera entre Kosovo y Sarajevo.* — glosa del Decadiano.
+<!-- /CICLO -->

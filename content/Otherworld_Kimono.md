@@ -33,4 +33,3 @@ Historia completa pendiente de transcripción por. STUB — entrada incompleta, 
 ## Ver también
 
 - [[Inevitables|Inevitables]]
-- [[Caracteristicas_conocidas|Características conocidas]]

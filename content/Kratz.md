@@ -14,7 +14,7 @@ Criatura creada por magos para proteger haciendas aisladas. Campesinos la piden 
 
 ## Vinculos
 
-- [[Paris_Ucronica]] — contexto de campaña donde opera el Kratz
+- [[Paris_Ucronica]] — contexto de gesta donde opera el Kratz
 - [[Demonio_Nocturna]] — tipo de entidad a la que los campesinos recurren para obtener al Kratz
 - [[Abismo]] — plano de origen de los demonios con quienes se pacta; marco cosmológico Planescape
 - [[Cornableu_Cornablue]] — otra criatura demoníaca del entorno de [[Paris_Ucronica|París Ucrónica]]

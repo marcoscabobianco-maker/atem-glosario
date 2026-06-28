@@ -55,3 +55,8 @@ Los compañeros lo quieren mucho. Es de los pocos figuras del ciclo que el grupo
 - **Transporte Chihuahua → Golfo de México** *(ANQ2)* — interviene en combate contra dos dragones (rojo y verde) en el templo, golpeando paredes; marca un círculo de teleportación.
 - Juego de las plataformas zodiacales — agente de inserción
 - Ciclo final de Antiterra — rescate junto a [[Sheridron]] en la franja de disolución
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ☯
+> *El dragón que se hace rueda —«hazte cakra y llévalos»— y por eso es a la vez vehículo y guardián del umbral: agente del [[Cakravartin]] que inserta a [[Los_Profundos]] en el juego de las [[Plataformas_Zodiacales_Guardianes_TNW|plataformas zodiacales]], los cruza por las puertas que el sistema reconoce. En el cierre vuelve junto a [[Sheridron]] a cargar sobrevivientes por la [[Franja_de_la_Disolucion_TG|franja de disolución]] de [[Antiterra]] que se deshace: el que abrió la puerta primero la cierra al final.* — glosa de Akala.
+<!-- /CICLO -->

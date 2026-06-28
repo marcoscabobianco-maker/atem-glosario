@@ -19,9 +19,14 @@ Umbral de la estructura infernal donde [[Loba_CDI|Loba]] actúa como guía e int
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña y estructura narrativa donde se inscribe este nivel
+- [[Anti_Inferno|el Descenso (CDI)]] — gesta y estructura narrativa donde se inscribe este nivel
 - [[Infierno|Infierno]] — cosmología que organiza los niveles infernales
 - [[Pluton_CDI|Plutón]] — señor cuya jerarquía interna define los "niveles" de acceso
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — fortaleza infernal hacia la que el Primer Nivel es antesala
 - [[Limbo|Limbo]] — plano liminal que en el esquema dantesco precede a los círculos inferiores
 - [[Asmodeus|Asmodeus]] — archi-diablo soberano de los Nueve Infiernos (Planescape) cuya estructura cosmológica sustenta estos niveles
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El estrato más accesible de una jerarquía que se baja por capas numeradas: antesala de la [[Ciudad_de_Dis_CDI|Ciudad de Dis]], primer escalón del [[Infierno]] desde el mundo de los vivos, [[Limbo]] en el esquema dantesco. [[Loba_CDI|Loba]] guía aquí en nombre de [[Pluton_CDI|Plutón]], y el «Primer Nivel» mide a la vez el peldaño de su confianza interna: cada nivel es un grado del descenso. La estructura entera reposa sobre los Nueve Infiernos de [[Asmodeus]].* — glosa del Decadiano.
+<!-- /CICLO -->

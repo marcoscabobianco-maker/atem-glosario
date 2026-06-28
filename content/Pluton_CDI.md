@@ -21,9 +21,14 @@ epoca: "Edad del Descenso — Plutón del Inferno"
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso]] — campaña CDI donde aparece, el recorrido por los círculos
-- [[Campana_Dante_S_Inferno_CDI|Campaña Dante's Inferno]] — marco narrativo de la sub-campaña
-- [[Asmodeus]] — señor de las Nueve Capas del [[Infierno]] en cosmología D&D, autoridad última sobre guardianes como Plutón
+- [[Anti_Inferno|el Descenso]] — gesta CDI donde aparece, el recorrido por los círculos
+- [[Campana_Dante_S_Inferno_CDI|Gesta Dante's Inferno]] — marco narrativo de la gesta
+- [[Asmodeus]] — señor de las Nueve Capas del [[Infierno]], autoridad última sobre guardianes como Plutón
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — fortaleza infernal que Plutón protege desde el Cuarto Círculo
 - [[Minos_Inferno|Minos]] — juez del Segundo Círculo, par de Plutón en la jerarquía de guardianes
 - [[Cancerbero_CDI|Cancerbero]] — guardián del Tercer Círculo, eslabón entre Minos y Plutón en el descenso
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ◑ ⟳
+> *Encadenado en el Cuarto Círculo, Plutón es estrato y carcelero a la vez: guarda la Avaricia del [[Anti_Inferno|Descenso]] como [[Minos_Inferno|Minos]] guarda el Segundo y [[Cancerbero_CDI|Cancerbero]] el Tercero, un escalón numerado del abismo dantesco bajo [[Asmodeus]]. Pero es guardián que también es prisionero —se le rompen las cadenas en –6368, y el que lo destrona hereda su sitio—; así la casa del descenso por estratos y la del oficio que se hereda se cierran sobre la misma figura.* — glosa del Decadiano.
+<!-- /CICLO -->

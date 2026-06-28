@@ -30,7 +30,7 @@ imagen: null
 ![[Imagenes_Tier1/La_Jabalina.png]]
 <!-- /HEADER_IMG -->
 
-> *"En esta campaña se destacan ocho aventureros unidos por la determinación de proteger a [[Caldero]]. Ellos son La Jabalina."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*, diciembre 1824 AE.
+> *"En esta saga se destacan ocho aventureros unidos por la determinación de proteger a [[Caldero]]. Ellos son La Jabalina."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*, diciembre 1824 AE.
 
 > *"Por un bardo que no se hace cargo."* — anotación marginal de la lista oficial de los Ocho.
 
@@ -232,3 +232,8 @@ imagen: null
 - **Fiesta matiné de Titti Frame** — Vitalis infiltrado, "saqueo o justo reclamo", expulsión del grupo de la mansión
 - **Apariciones en prensa sensacionalista** — Forbes Caldero, Gossip & Style, City Star
 - **1824 AE — ciclo presente** — La Jabalina en preparación para enfrentar al grupo siniestro de las marcas y la profecía Cageewrights
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☯
+> *Ocho aventureros bajo una sola sigla que deviene cuerpo cosmológico: La Jabalina concentra en [[Caldero]] las líneas que el mundo-gema necesita —[[Lucky]] de la [[Linea_Arian_Avatares|línea Arian]], [[Vitalis]] de la [[Casa_Azul_de_Vala]], [[Teo_Paladin_Sin_Brazo|Teo]] atado a la profecía [[Cageewrights]]—. Y el nombre no es libre: la jabalina-arma viene de la saga de [[Natalio_Ruiz]], punta-lanza de la Cadena de Reencarnación. Sostener [[Vala_Cristalis]] es sostener la cara habitable frente a sus profundidades; lo que el Relevo B leyó como la banda nombrada (AKB-J.1) cruza acá con el pareo del mundo-gema.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

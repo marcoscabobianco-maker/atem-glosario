@@ -43,3 +43,8 @@ vs. táctico).
 - [[Arian|Arian]]
 - [[Amdriel|Amdriel]]
 - [[Adimanto|Adimanto]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ※
+> *Líder táctica de las "4 A" —[[Arian]], [[Amdriel]], [[Adimanto]] y ella—, drow apóstata de [[Lolth]] bajo la [[Sagrada_Orden|Sagrada Orden]] de [[Dietrus]] en [[Tanastias]]: cuatro nombres con la misma inicial soldados en una sigla colectiva. La onomástica también la cifra: hay otra Ariadna en [[Templarios_del_Tiempo|los Templarios]] ligada al mismo [[Arian]], y el archivo tuvo que pronunciarse —son dos, no una—, prueba de que el nombre repetido obliga a decidir si hay una sola alma debajo.* — glosa de Amitlai.
+<!-- /CICLO -->

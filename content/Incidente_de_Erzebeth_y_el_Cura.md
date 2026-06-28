@@ -13,18 +13,12 @@ aliases:
 
 ## Presentación
 
-**Ref.:** jornada documentada (erzebetha escopetea al cura mexicano).
-*Conexiones:* **[[Erzebeth]]** (ANQ1), **[[Patriarca]]**, **[[Plataforma_Tauro|Plataforma de Tauro]]** (futura guardianía de [[Erzebeth]]).
-**Nota:** El incidente marca un quiebre moral. [[Erzebeth]] invoca la autoridad del [[Patriarca]] antes de disparar — su lealtad está con la iglesia gnóstica, no con el catolicismo local.
+[[Erzebeth]] escopetea a un cura mexicano en la frontera del Río Bravo. El incidente marca un quiebre moral: invoca la autoridad del [[Patriarca]] antes de disparar —su lealtad está con la iglesia gnóstica, no con el catolicismo local—.
+
+*Conexiones:* **[[Erzebeth]]**, **[[Patriarca]]**, **[[Plataforma_Tauro|Plataforma de Tauro]]** (futura guardianía de [[Erzebeth]]).
 
 ## Ver también
 
 - [[Erzebeth|Erzebeth]]
 - [[Patriarca|Patriarca]]
 - [[Plataforma_Tauro|Plataforma de Tauro]]
-
-### Notas
-
-El incidente marca un quiebre moral. [[Erzebeth]] invoca la autoridad del [[Patriarca]] antes de disparar — su lealtad está con la iglesia gnóstica, no con el catolicismo local.
-
-**Ref.:** jornada documentada (erzebetha escopetea al cura mexicano).

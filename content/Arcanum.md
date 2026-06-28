@@ -23,7 +23,7 @@ tags:
 
 ## Presentación
 
-El **Arcanum** es **la sustancia mágica primordial** del setting [[Ardis_Vala]] —**materia prima de toda magia** del dungeon y posiblemente del cosmos MC—. Circula en las venas del **[[Mega_Dungeon_Arden_Vul]]** y es codiciada por todas las facciones.
+El **Arcanum** es **la sustancia mágica primordial** del mundo [[Ardis_Vala]] —**materia prima de toda magia** del dungeon y posiblemente del cosmos MC—. Circula en las venas del **[[Mega_Dungeon_Arden_Vul]]** y es codiciada por todas las facciones.
 
 ### Su naturaleza
 

@@ -31,7 +31,7 @@ imagen: null
 
 ## El brazo secular
 
-Bajo el cerco del ciclo presente, **el santuario de Otar se reforzó con dos guardias de Ironguard** que portan **insignias del brazo secular de la iglesia** —*como si fuera inquisición, según la fórmula que circulaba en la mesa local*—. *Los guardias no son ornamento*: son ejecutivos. **Cuando Otar dice prisión, hay prisión. Cuando Otar dice fuego, hay estaca**. *La discreción del vicario no afloja la firmeza del aparato*.
+Bajo el cerco del ciclo presente, **el santuario de Otar se reforzó con dos guardias de Ironguard** que portan **insignias del brazo secular de la iglesia** —*como si fuera inquisición, según la fórmula que corría por el valle*—. *Los guardias no son ornamento*: son ejecutivos. **Cuando Otar dice prisión, hay prisión. Cuando Otar dice fuego, hay estaca**. *La discreción del vicario no afloja la firmeza del aparato*.
 
 ## La audiencia del juicio
 
@@ -67,7 +67,7 @@ Cuando [[Silas_del_Umbral|Silas]] entró a la iglesia con los dos gemelos corrom
 
 > *"Vas a morir antes."*
 
-Y a continuación **el vicario y el clérigo [[Mortan]] lanzaron Hold Person simultáneamente sobre los tres invasores**. *"Casi como si se sincronizaron"*, anotó el cronista; *"medio Dios quiso que fallaran los tres laterales de salvación"*. **El conjuro paralizó a los tres**.
+Y a continuación **el vicario y el clérigo [[Mortan]] lanzaron a la vez el conjuro que sujeta el cuerpo sobre los tres invasores**. *"Casi como si se sincronizaron"*, anotó el cronista; *"medio Dios quiso que fallaran los tres laterales de salvación"*. **El conjuro paralizó a los tres**.
 
 A los dos gemelos **el vicario los perdonó** —al calabozo, no al altar—. **A Silas le ordenó la ejecución sobre el altar consagrado**: cabeza contra la piedra, golpe seco de maza, cráneo abierto. *El gesto fue litúrgico, no civil*: el altar se confirmó como instrumento bilateral del régimen divino.
 
@@ -98,5 +98,5 @@ A los dos gemelos **el vicario los perdonó** —al calabozo, no al altar—. **
 - **Antes del cerco** — autoridad eclesial regular del santuario
 - **La audiencia del juicio** — interpeló a Mortan, fijó la acusación inquisitorial
 - **La noche de la huida** — leyó la fuga como prueba de culpa, dispuso persecución
-- **La jornada del altar** — fortificó la iglesia, sincronizó Hold Person con Mortan, ordenó la ejecución del brujo del umbral sobre el altar consagrado
+- **La jornada del altar** — fortificó la iglesia, sincronizó con Mortan el conjuro que sujeta el cuerpo, ordenó la ejecución del brujo del umbral sobre el altar consagrado
 - **Después** — autoridad activa bajo cerco esquelético, pendiente del retorno del Abad

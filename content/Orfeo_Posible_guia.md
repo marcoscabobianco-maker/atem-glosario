@@ -19,4 +19,3 @@ aliases:
 
 ## Ver también
 
-- [[Relacion_con_Sariel|Relación con Sariel]]

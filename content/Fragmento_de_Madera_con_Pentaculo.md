@@ -23,9 +23,9 @@ aliases:
 
 ## Vinculos
 
-- [[Baphomet|Baphomet]] — cuya cabeza está grabada en el fragmento; señor demonio del [[Abismo]], vinculado a la herejía templaria en el lore D&D/Planescape.
+- [[Baphomet|Baphomet]] — cuya cabeza está grabada en el fragmento; señor demonio del [[Abismo]], vinculado a la herejía templaria.
 - [[Jornada_del_Falso_Maestre|Jornada del Falso Maestre]] — jornada en que el ancla es removida del laberinto, rompiendo el sellado.
 - [[Contencion_vs_Liberacion|Contención vs. Liberación]] — dilema conceptual que este objeto materializa: ancla entre prisión y liberación.
 - [[Tiro_ruinas|Tiro (ruinas)]] — destino final del artefacto tras la jornada; guardado en las bóvedas de Ur.
 - [[Reliquario_Cripta_Templaria|Reliquario / Cripta Templaria]] — sistema de almacenamiento de reliquias al que podría pertenecer este fragmento.
-- [[Campana_Templarios_TE|Campaña Templarios (TE)]] — sub-campaña donde este objeto adquiere su función como ancla de entidad infraplanar.
+- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta donde este objeto adquiere su función como ancla de entidad infraplanar.

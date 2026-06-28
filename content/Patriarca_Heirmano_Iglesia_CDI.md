@@ -7,4 +7,4 @@ aliases:
 
 ## Presentación
 
-¿[[Patriarca]] reaparece en el Descenso como figura religiosa? ¿Mismo nombre/persona o equivalente en campaña siguiente?
+¿[[Patriarca]] reaparece en el Descenso como figura religiosa? ¿Mismo nombre/persona o equivalente en gesta siguiente?

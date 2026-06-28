@@ -101,3 +101,8 @@ imagen: Imagenes_Tier1/Time_Bandits.png
 - **Bucle de Constantinopla 1051–1055** — regencia uchrónica de cuatro años
 - **28 de junio de 1914 — Sarajevo** — proyección como Guardias Ucrónicos
 - **Reapariciones cronománticas sucesivas** — episodios diversos a lo largo del eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⛓
+> *El tiempo los nombra por su oficio: el [[Bucle_de_5_Anos_Constantinopla|lustro de Bizancio]] soldó como sigla a [[Claude_Nauge|Claude]], [[Philippe]], [[Corvino]], [[Nagant_M1895_Swann|Swann]] y [[Aby_Warburgo|Aby]] mejor que cualquier afinidad. Su materia es el tiempo-mercancía —cronotravel por el [[Orient_Express]], cuatro años regentando Constantinopla, [[Sarajevo_1914_Ucronica|Sarajevo]] donde Claude carga 75 años de otra vida—, pero su doctrina no es alterar el pasado: es impedir que sea olvidado. Banditos que roban el olvido, no el oro. Lo que A leyó como el tiempo que se gasta (AA-T.1) y B como la banda con sigla (AKB-J.1) es, en C, una sola casa.* — glosa atribuida al libro V del Decadiano.
+<!-- /CICLO -->

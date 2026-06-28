@@ -25,7 +25,6 @@ aliases:
 
 ## Ver también
 
-- [[Expresion|Expresión]]
 - [[TE04|TE04]]
 - [[Jornada_del_Falso_Maestre|TE03]]
 - [[TE02|TE02]]

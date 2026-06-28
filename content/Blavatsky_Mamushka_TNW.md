@@ -30,7 +30,7 @@ Helena Blavatsky —a la que en los campamentos rusos llaman **Mamushka**, *madr
 
 Su rol más profundo en la economía cosmológica del ciclo no es el de antagonista rusa, sino el de **eslabón intermedio en la cadena autorial del [[Eisagogika]]** —el libro de Pablo—. La cadena entera, según el archivo, es **Paulus Alexandrinus → Helena Blavatsky → Paul Claudel**: el mismo escriba transmigrando tres veces a través de los siglos, dejando el texto donde tiene que dejarlo, en el cuerpo de quien tiene que escribirlo cada vez. Blavatsky es la versión decimonónica de Pablo, la teósofa rusa que recibe la *[[Eisagogika|Isagógica]]* en su forma de tradición esotérica y la pasa, en algún momento privado de su vida, al joven que se convertirá en Claudel.
 
-En la campaña Gary del Mundo Nuevo aparece como antagonista directa: anima los árboles del campamento contra el grupo, lanza hechizos de sueño, **es quemada por el robot HG y rematada con un bláster**. Su muerte cierra su faceta en aquella mesa. La sentencia que el archivo conserva es escueta: *"guardiana rusa que va a caer como guardiana negra"*.
+En la ciclo Gary del Mundo Nuevo aparece como antagonista directa: anima los árboles del campamento contra el grupo, lanza hechizos de sueño, **es quemada por el robot HG y rematada con un bláster**. Su muerte cierra su faceta en aquella mesa. La sentencia que el archivo conserva es escueta: *"guardiana rusa que va a caer como guardiana negra"*.
 
 Pero la línea no termina ahí. Lo que Blavatsky sabía no se quemó con ella. Lo escribió antes, lo pasó antes. La cadena sigue.
 

@@ -27,9 +27,7 @@ Cloeh (II) se casa con [[Maristo]] (II) y tienen a [[Amitlai]] (1355 DR).
 
 ## Apariciones notables
 
- [8-19] (candidatura en la [[Contienda]]),
- [215] (propone investigar el tiempo), [[Calendario]] merged.doc
-(boda con [[Maristo]] II).
+Candidata en la [[Contienda]]; propone investigar el tiempo; el [[Calendario]] de [[Amitlai]] recoge su boda con [[Maristo]] II.
 
 ## Notas
 

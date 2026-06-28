@@ -79,3 +79,8 @@ imagen: null
 - **Ataque a Rulfo en callejón de Avenida del Magma** — primer encuentro con La Jabalina
 - **Ejecución de Sargento J. Knave** — Torre de la Guardia, treinta monedas exhibidas
 - **1824 AE — ciclo presente** — operación clandestina sostenida
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Banda sicaria que se vuelve sujeto por su signatura: las caras pintadas mitad blanco mitad negro y las treinta monedas de la "Risa Partida" convierten a un puñado de matones en facción con doctrina propia del polo dual. Operan como brazo de [[Lord_Valanthru]] —torturan a [[Rulfo]], ahorcan al Sargento Knave— y son adversario nombrado de [[La_Jabalina]], que [[Ayrton_Auslander|Ayrton]] enfrenta callejón a callejón. Lo que A leyó como la cuadrilla con sigla (AA-G.1) y B como el grupo que deviene sujeto cosmológico (AKB-J.1), aquí es la casa de la banda con nombre.* — glosa del archivero del Plata.
+<!-- /CICLO -->

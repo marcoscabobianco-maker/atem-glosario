@@ -26,5 +26,4 @@ aliases:
 
 - [[Propiedades|Propiedades]]
 - Daño
-- [[Union_personal|Unión personal]]
 - [[Tras_el_Apocalipsis_1889|Post-TE11]]

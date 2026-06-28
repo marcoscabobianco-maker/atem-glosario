@@ -104,3 +104,8 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 *El archivo conserva las dos lecturas como **palimpsesto declarado***: **una no anula a la otra**; *operan en niveles ontológicos distintos*. La doctrina decadiana sugiere que **el apocalipsis se consumó en la línea principal y se invirtió en una línea derivada del sacrificio de Ärsvan**; la doctrina del [[Anti_Inferno|Coro del Descenso]] sugiere que **el sacrificio operó retroactivamente sobre la línea principal misma**. *Ninguna de las dos lecturas se cierra*.
 
 **Para el lector que quiera operar con una sola versión**: la entrada `APOCALIPSIS_TEMPORAL_INVERTIDA` se ha consolidado aquí; la tensión queda interna al mismo texto, *no en fichas separadas que se contradicen sin diálogo*.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ✒
+> *El día que la administración del Tiempo dejó de repartir: [[Kronamon]] era el reloj y al caer el reloj, los viajeros dejan de reencarnar y los vivos quedan "como cerámica". El cronocidio no mata un mundo, mata la contabilidad del mundo —los [[Cronoboys]] y los [[Time_Bandits]] habían acumulado paradoja fuera del [[Palacio_del_Tiempo]] hasta el límite—. Que la glosa la firmen el [[Decadiano]] y el [[Arkos|archivero del Plata]], cada uno con su lectura del palimpsesto, es parte del evento: la voz que cuenta el colapso es interna al colapso.* — glosa del archivero del Plata.
+<!-- /CICLO -->

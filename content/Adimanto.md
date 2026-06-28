@@ -41,3 +41,8 @@ de [[Angara_Andgara|Andgara]] por accesibilidad vs. peligro.
 - [[Dietrus|Dietrus]]
 - [[Tanastias|Tanastias]]
 - [[Starco|Starco]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ※
+> *Humano de nariz aguileña que cruza el océano hasta [[Torregrises]] buscando la [[Sagrada_Orden|Sagrada Orden]] y queda enrolado en las "4 A" —[[Arian]], [[Amdriel]], [[Ariadna_Genoveva|Ariadna]] y él— bajo [[Dietrus]] en [[Tanastias]]: cuatro compañeros bajo una sigla que los hace banda. La cuádruple inicial no es azar de reparto: el nombre que rima vuelve sujeto colectivo a lo que eran cuatro destinos sueltos.* — glosa de Amitlai.
+<!-- /CICLO -->

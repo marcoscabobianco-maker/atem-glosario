@@ -51,7 +51,7 @@ Mientras el cerco se cerraba afuera —*hordas avanzando, fuerte humeando al nor
 
 Y la amenaza vino por dentro. **El brujo [[Silas_del_Umbral|Silas]] entró al recinto** —*humano vivo, corrompido, no muerto viviente*— **escoltado por los dos [[Gemelos_Inquisidores_Helix|gemelos guardias]] corrompidos**. *Los tres atravesaron el umbral; el demonio Quasi quedó afuera*.
 
-Avanzaron hacia el altar. Silas **pidió su deseo sobre la [[Tableta_del_Caos]]**. *"Vas a morir antes"*, respondió Otar. **El vicario y el clérigo sincronizaron Hold Person sobre los tres invasores**. *"Casi como si se sincronizaron, decían a los tres"*. **Los tres fallaron sus tres tiradas de salvación** —*"medio Dios quiso"*—.
+Avanzaron hacia el altar. Silas **pidió su deseo sobre la [[Tableta_del_Caos]]**. *"Vas a morir antes"*, respondió Otar. **El vicario y el clérigo invocaron a la vez la atadura que sujeta a los hombres sobre los tres invasores**. *"Casi como si se sincronizaron, decían a los tres"*. **Ninguno de los tres logró resistirla** —*"medio Dios quiso"*—.
 
 **A los gemelos los perdonó al calabozo**. **A Silas le puso la cabeza contra el altar consagrado y le abrió el cráneo con maza**. *El altar absorbió la sangre*. *El cronista no anota si la consagración del altar requirió rito de reparación posterior; lo que registra es la mancha persistente sobre la piedra*.
 

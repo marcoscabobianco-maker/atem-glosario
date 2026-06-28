@@ -68,3 +68,8 @@ Lo que el sueño cobra no se paga en el acto. Cada firma define **con quién que
 ## Notas
 
 El registro físico de este pasaje se guarda en el cuaderno 99. Cada uno de los cuatro tratos pertenece a una potencia distinta —Majestic, el Rey Amarillo, la Triple A y los Profundos del fondo—, y la crónica de aquellos días subraya que las consecuencias de cada firma quedaron deliberadamente diferidas: lo que se aceptó en el sueño se cobra después, en la vigilia. El padre de Malena, que el archivo nombra Walter, y los Mi-Go que ella reconoce al microscopio no tienen entrada propia en el archivo; se nombran aquí solo en cuanto pertenecen a la escena onírica que se le ofrece.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ⛓
+> *El sueño de [[Carcosa|la tierra de los dos soles]] no conquista: tiende a cada durmiente un contrato cortado a su medida, y la propia mano firma. Es el pacto que condena multiplicado por cuatro: [[Antonio_Portet|Antonio]] con su naufragio, [[Malena]] con la jeringa y el padre, [[Dulce_Holler|Dulce]] con el escenario del [[Rey_Amarillo_King_in_Yellow|Rey Amarillo]], [[Irene_Kowalski|Irene]] con la [[Triple_A]]. Cada firma se paga en cordura y compromete a su firmante con una potencia distinta —[[Majestic]], la corte amarilla, las tres aes, lo que duerme en el fondo—, de modo que los cuatro tratos cosen a la partida como una sola banda endeudada con el otro lado.* — glosa de Paulus.
+<!-- /CICLO -->

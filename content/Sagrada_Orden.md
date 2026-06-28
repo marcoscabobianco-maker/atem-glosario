@@ -125,3 +125,8 @@ Arian lo aprendió en carne propia. **Otros discípulos del archivo lo aprender�
 - **La Grieta** — dispersión de los maestros con códices y discípulos
 - **[[Tanastias]], [[Torregrises]] y enclaves menores** — sedes ulteriores; transmisión continuada de las dos enseñanzas
 - **Ciclo presente** — presencia residual en geografías esparcidas; los discípulos tardíos reciben la doctrina sin saber siempre el nombre de la Orden que la conservó
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧
+> *El precepto mayor de la Orden —«nunca pactarás con el Demonio»— se enseña sabiendo que un discípulo lo romperá: [[Arian]] pactó con una sacerdotisa drow para salvar la vida de [[Valteran]], y el maestro recuperado lo despidió a [[Torregrises]] con sentencia que no se cambia. La regla es la casa del pacto que condena, y la Orden la repite con cada despido porque sabe que volverá a romperse.* — glosa de Arkos.
+<!-- /CICLO -->

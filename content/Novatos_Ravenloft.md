@@ -1,6 +1,6 @@
 ---
-title: "Novatos Ravenloft (campaña paralela)"
-título: "Novatos Ravenloft (campaña paralela)"
+title: "Novatos Ravenloft (saga paralela)"
+título: "Novatos Ravenloft (saga paralela)"
 slug: Novatos_Ravenloft
 categoria: campaña
 aliases:
@@ -33,7 +33,7 @@ tags:
 - **Recuperación**: 2 semanas para múltiples heridos
 - **Muertes recientes**: Khan Aby —apuñalamiento mítico Nergal/Seth/Orcus
 
-### Cross-campaña con Ardis Vala
+### Cross-gesta con Ardis Vala
 
 **Conexión directa confirmada** —el detalle:
 
@@ -44,7 +44,7 @@ tags:
 - **Grupo Novatos se separó** durante el rescate
 - **Uno de los hechiceros** adquirió **familiar imp / trasgo** durante el episodio (compañero a confirmar — Eric Malfoy o Silas son los hechiceros documentados)
 - **Identidad oculta**: los compañeros Novatos **no saben** quién es realmente el Elfo Troll
-- **Cross-campaña asentada**: **[[Mirela_Valka|Mirela Vălcan/Valka]]** + hijos **Dragoș/Luminița** = **Dracos/Luminita** de el regreso tras el Hiato [[Ardis_Vala]]
+- **Cross-gesta asentada**: **[[Mirela_Valka|Mirela Vălcan/Valka]]** + hijos **Dragoș/Luminița** = **Dracos/Luminita** de el regreso tras el Hiato [[Ardis_Vala]]
 
 ### Cross-figuras Stejara ↔ Estellara/Valdemora
 
@@ -59,7 +59,7 @@ tags:
 
 **Cosmología**: Stejara/[[Estellara]]/[[Valdemora]] son **el mismo pueblo en distintas eras y perspectivas cosmológicas**. Los Novatos exploran el dungeon en su tiempo; los [[Buscadores_de_Ardis_Vala]] llegan al valle 30/15 años después y encuentran el escenario transformado.
 
-### Línea trans-campaña ATEM
+### Línea trans-gesta ATEM
 
 Novatos Ravenloft cruza con **Ardis Vala** vía:
 
@@ -95,11 +95,11 @@ Novatos Ravenloft cruza con **Ardis Vala** vía:
 
 ## Vínculos
 
-- [[Arden_Vul|Ardis Vala (campaña)]] — cross-campaña vía [[Kerbog_Khan]]
+- [[Arden_Vul|Ardis Vala (gesta)]] — cross-gesta vía [[Kerbog_Khan]]
 - [[Kerbog_Khan]] — el "Elfo Troll" rescatado
 - [[Cristalizacion_Maquinas]] — evento que forzó el refugio
 - [[Ravenloft_Dominio_Ardis_Vala]] — dominio paralelo
-- [[Hiato_15_Años_Ardis_Vala]] — período del cruce trans-campaña
+- [[Hiato_15_Años_Ardis_Vala]] — período del cruce trans-gesta
 - [[Barrowmaze]] — el territorio actual
 - **Valachhan** — el dominio
 

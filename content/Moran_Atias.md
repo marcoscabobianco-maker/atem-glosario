@@ -25,7 +25,7 @@ Se mostró celosa de la **[[Dama_del_Dolor]]** ([[Dama_del_Dolor|Lady of Pain]])
 
 ## Notas
 
-Moran representa una síntesis única de poder divino y arcano, marcando un nuevo tipo de criatura en la cosmología MC. [[Su_rechazo]] del Plano Material sugiere una orientación planar distinta a la de sus maestros.
+Moran representa una síntesis única de poder divino y arcano, marcando un nuevo tipo de criatura en la cosmología MC. Su rechazo del Plano Material sugiere una orientación planar distinta a la de sus maestros.
 
 ## Ver también
 

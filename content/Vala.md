@@ -81,7 +81,7 @@ Vala se asienta en los intersticios. **No participa de la cadena, la observa.** 
 - [[Arden_Vul|Ardisvala]] — fase actual
 - [[Vala_Cristalis]] — artefacto cosmológico, capa de cristalización
 - [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]] — mundo-gema que comparte matriz
-- [[La_Jabalina|Caldero / La Jabalina]] — campaña dentro de [[Vala_Cristalis]]
+- [[La_Jabalina|Caldero / La Jabalina]] — gesta dentro de [[Vala_Cristalis]]
 - [[Tailoor]], [[Antino|Antinoo]], [[Sheridron|Shadydron]], [[Garkhan]], [[Jax]] — sobrevivientes deificados de [[Vala_Antigua]]
 - [[Los_Supremos|Triunvirato / Los Supremos]] — quienes establecieron el panteón con los sobrevivientes
 - [[Nexus]] — lugar del nacimiento de los nuevos dioses
@@ -96,3 +96,8 @@ Vala se asienta en los intersticios. **No participa de la cadena, la observa.** 
 - **Fase del Medioevo** — escasa documentación, continuidad inferida
 - **Fase Ardisvala** — en curso; mega-dungeon activo, hiato cerrado, Valakhan formado, [[Papa_Alejandro_Sixto|Papa Alejandro VI]] gobernando
 - **Matriz literaria** — el nombre y la estructura vienen del blakeano *Four Zoas*; el mundo precede al poema
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷
+> *Mundo doble por dentro: [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]] es la capa-gema que sostiene a Vala desde adentro —«quien camina por Vala con los pies, camina por Vala con la mirada»—, matriz compartida de dos hemisferios que no se tocan. Y es mundo de estratos: tres fases sucesivas —[[Vala_Antigua]], [[Vala_del_Medioevo]], [[Arden_Vul|Ardisvala]]— apiladas como eras, la actual hundida en el mega-dungeon homónimo cuyo propio nombre, «Ardīs», cifra el lugar de la flecha donde se decide. Bajar por Vala es bajar por sus capas y por su reverso a la vez.* — glosa del archivero del Plata.
+<!-- /CICLO -->

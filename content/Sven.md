@@ -43,9 +43,9 @@ La sangre lo lleva a la claudicación. **El grupo —los compañeros— lo hicie
 
 ### El Inferno: Lost One, hacha sangrienta
 
-En la campaña Inferno —sistema Acheron Games, descenso por los círculos al modo de Dante— **Sven reaparece como [[Lost_Ones|Lost One]]**: condenado residente del infierno, no visitante. Ya no es el niño-adolescente. Es **brutal guerrero de hacha sangrienta**, *ser listo para el odio nefasto* —así lo entrega el archivo—. La rabia que entra en él ahora no necesita ser convocada: vive en él.
+En la gesta del Inferno —descenso por los círculos al modo de Dante— **Sven reaparece como [[Lost_Ones|Lost One]]**: condenado residente del infierno, no visitante. Ya no es el niño-adolescente. Es **brutal guerrero de hacha sangrienta**, *ser listo para el odio nefasto* —así lo entrega el archivo—. La rabia que entra en él ahora no necesita ser convocada: vive en él.
 
-Aparece **encadenado al lado de [[Helter]]**: bárbaro **Totem Warrior** que protege al arlequín **[[Arian|Adam]]** con la lealtad que la moralidad no le pide. *"Lealtad por encima de moralidad"*, registra el archivo. Rescata almas condenadas del pantano del tercer círculo. Tiene una escena con Sweden en la que las gárgolas piden traslado al segundo círculo. Es el bárbaro que entiende sin palabras y se queda donde la mesa lo necesita.
+Aparece **encadenado al lado de [[Helter]]**: bárbaro **Totem Warrior** que protege al arlequín **[[Arian|Adam]]** con la lealtad que la moralidad no le pide. *"Lealtad por encima de moralidad"*, registra el archivo. Rescata almas condenadas del pantano del tercer círculo. Tiene una escena con Sweden en la que las gárgolas piden traslado al segundo círculo. Es el bárbaro que entiende sin palabras y se queda donde la compañía lo necesita.
 
 El archivo conserva el momento en que esa lealtad se vuelve literal. Cuando la compañía se quiebra y una **facción descendente** toma el camino hacia abajo, Sven baja con ella: se planta en guardia delante de **[[Arian|Adam]]** —el arlequín que acababa de robar la linterna— y no se mueve. El metro noventa del bárbaro entre el botín y los que lo reclaman: la moralidad podrá discutir; la lealtad ya eligió.
 
@@ -75,7 +75,7 @@ Pertenece al grupo de los Wordbreakers, y es en los arcos tardíos de esa banda 
 - [[Arian|Adam]] — al que protege con lealtad sin moralidad
 - [[Arsvan|Ärsvan]] — el que lo detiene en el episodio de las bombas
 - [[Catacumbas_de_Paris]] — escenario del episodio Macbeth
-- [[Anti_Inferno|Campaña Inferno]] — su mesa condenada
+- [[Anti_Inferno|Gesta Inferno]] — su hueste condenada
 - [[Tres_Brujas_Macbeth]] — las del cantito (pendiente entrada)
 - [[Uruk_(capital)_y_Casa_Azul]] — corte de Vala donde el Sven homónimo sirve como Cocinero Real
 
@@ -87,3 +87,8 @@ Pertenece al grupo de los Wordbreakers, y es en los arcos tardíos de esa banda 
 - Inferno — [[Lost_Ones|Lost One]] Totem Warrior, tercer círculo (pantano), escena con Sweden, gárgolas
 - Inferno — quiebre de la compañía: facción descendente, en guardia delante del arlequín Adam
 - Catacumbas, primer nivel del Inferno — episodio Macbeth, "Sven, no pierdas el tren"
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ☷ ⛓
+> *Niño nórdico de los [[Los_Reguladores|Reguladores]] que en el [[Torneo_de_la_Torre_Eiffel]] bebe el agua azul con la sangre de [[Seth]] cuando [[Faragod]] lo clava sobre la torre: la grieta por la que entra todo lo que vendrá. Su propia banda lo ejecuta, y reaparece como [[Lost_Ones|Lost One]] descendiendo por los círculos del Inferno al lado de [[Helter]], en guardia ante el arlequín [[Arian|Adam]] —lealtad por encima de moralidad.* — glosa de Paulus.
+<!-- /CICLO -->

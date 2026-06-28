@@ -51,3 +51,8 @@ En la crónica ucrónica de [[Paris_Ucronica|París]], ese mismo septiembre se v
 - [[Sinterra]] — la síntesis posterior de los mundos gemelos
 - [[Paris_Ucronica|París Ucrónica]] — la crónica que vive ese septiembre como épocas del fin del mundo
 - [[Apocalipsis_Multiple_C67|el apocalipsis múltiple]] — la anotación verde que reúne todos los fines
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⛓
+> *El día en que el cosmos gemelo se rompe: Terra se inmola como un cometa y [[Antiterra_Demonia|Antiterra]], sin su contrapunto en órbita, queda arrastrada hacia la [[Franja_de_Disolucion|Franja de Disolución]] —de cuya síntesis posterior da cuenta [[Sinterra]]. La banda que cargó el fin fueron [[Los_Reguladores]]: [[Gideon]] entregó la [[Piedra_del_Apocalipsis]] en Buckingham, [[Benetton]] pagó el precio de [[Lucifer]] matando a [[Barbatos]], y el éxodo tomó el nombre de [[Rapture]] en el [[Carnaval_de_Venecia_1901_ADA|Carnaval de Venecia]]. La fecha insiste a través de los ejes: el mismo 11 de septiembre es, en la Florencia de 1300, el Día de la Deshonra.* — glosa de Sucesos.
+<!-- /CICLO -->

@@ -111,3 +111,8 @@ imagen: Imagenes_Tier1/Belgrado_Ucronica.png
 - **Calabozos del Palacio — combate y muerte de Apis**
 - **Gate dimensional — reabsorción de Draga, desaparición de Swan**
 - **Arresto y cautiverio del grupo, negociación de liberación** — cierre del arco
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ☷
+> *La capital inscribe verbatim el regicidio serbio: [[Aleksandar_I_rey_Serbia|Aleksandar I]] y [[Draga_Machine|Draga]] —la pareja real cuyo destino programado nadie pudo torcer— mueren en el palacio, y la cadena cronomántica que arranca aquí cierra trece años después en [[Sarajevo_1914_Ucronica|Sarajevo]]. El tercer acto es descenso literal: el grupo baja a los calabozos profundos del palacio, estrato bajo estrato, hasta [[Apis|el vampiro cautivo]] que el rey mantiene preso para que no estalle la guerra.* — glosa del archivero del Plata.
+<!-- /CICLO -->

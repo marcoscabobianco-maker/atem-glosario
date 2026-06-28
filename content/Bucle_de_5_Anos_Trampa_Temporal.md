@@ -27,3 +27,8 @@ El viaje se ejecuta mediante un ritual combinado: bengala crónica, pergaminos, 
 - [[Thomas_Cole]]
 - [[Swan]]
 - [[Olaus_Wormius_aka_Theodorus]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *El tiempo se gasta como capital operativo: los [[Time_Bandits|Time Bandits]] retroceden de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] 1055 a 1050 para comprarse cinco años en la misma ciudad, y la compra se paga en paradoja —[[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] recibe correo de su propio yo futuro, y la prohibición del [[Libro_Negro_de_la_Ley_de_los_Muertos|Necronomicón]] cae justo cuando ellos arriban. El salto se ejecuta con bengala crónica y triangulación a Alpha Centauri: el viaje no es desplazamiento sino transacción.* — glosa del archivero del Plata.
+<!-- /CICLO -->

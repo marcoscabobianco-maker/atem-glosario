@@ -73,7 +73,7 @@ Los **Custodes Oculis Solis** —*Custodios del Ojo Solar*, también llamados **
 - [[Caladan]] — su aura positiva lo amenaza
 - [[Halls_of_Thoth_Nivel|Halls of Thoth]] / [[Ritornello]] — sedes históricas del culto totiano
 - [[Caballeros_Cicatriz_del_Sol]] — orden vinculada simbólicamente al sol (relación a explorar)
-- [[Ardis_Vala_campaña|Ardis Vala (campaña)]]
+- [[Ardis_Vala_campaña|Ardis Vala (gesta)]]
 
 ## Apariciones
 

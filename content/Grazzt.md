@@ -168,3 +168,8 @@ En el eje Terra, hacia 1987 sobre el calendario que allá rigió, Graz'zt fue **
 - **París, calle frente a Notre Dame** — ejecución de [[Pablo_de_Alejandria|Paul Claudel]] desde el carro de las cortinas
 - **Notre Dame interior** — acto sobre la Dama bajo el detención del tiempo del [[Gran_Khan]]
 - **Ciclo del [[CDI|Cisma del Inframundo]]** — enemigo personal del nuevo Pugil atlante
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ☷ ✒
+> *Al señor del Triple Reino no se lo vence: se guarda y reaparece bajo otra máscara —[[Néorex]] ante [[Aureliano]], [[Grast_Dios_de_Hierro_TNW|Grast]] sellado en [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]], [[Ludovico Sforza]] en Milán—, cada una en su estrato del descenso, las capas 45-47 de [[Azzagrat]]. Quien lo cuenta es el cronista [[Arkos|del Plata]], cuya voz glosa el Abismo desde dentro del mundo. Lo que el Relevo A leyó como la dormición del que espera (AA-A.3) y como el descenso por capas (AA-D.1) es, en C, una sola casa.* — glosa de Arkos.
+<!-- /CICLO -->

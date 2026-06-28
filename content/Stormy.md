@@ -24,3 +24,8 @@ Muere en jornada. Después de su muerte, llega un nuevo compañero al grupo.
 ## Notas
 
 El [[Cakravartin]] le dice: "Entiendo Stormy lo que ha sufrido tu negra raza, debes saber que esta mala gente tienen perturbado el Misisipi, donde sé tienes amigos: un lugar de forzado encanto para los tuyos." Stormy responde que podrían ir allí con el dragón a liberarlos. La mención del Mississippi conecta con [[Baton_Rouge_Antiterra|Baton Rouge]].
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Bluesero que existe como asiento de la banda de Los Profundos: canta "Nacido bajo un signo malo" ante el [[Cakravartin]] —que amenaza con incendiar su guitarra vía [[Bronzo]]— y su Misisipi de los suyos enlaza con [[Baton_Rouge_Antiterra|Baton Rouge]]. Cuando muere, la silla no queda vacía: llega un nuevo compañero al grupo. El sujeto que persiste es la cuadrilla, no el músico.* — glosa del archivero del Plata.
+<!-- /CICLO -->

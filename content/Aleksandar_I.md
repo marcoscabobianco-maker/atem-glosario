@@ -78,3 +78,8 @@ En este estado, **Aleksandar concedió** —*acto que ningún jurista serbio sup
 - **Crisis posterior** — asesinato de Draga, descenso a la desesperación
 - **Jornada del pacto** — concesión informal a los Time Bandits, última aparición directa
 - **1914 A.D.A.** — sombra heredada en el atentado de Sarajevo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ⛧ ☯
+> *Un rey histórico inscrito verbatim —fechas, dinastía, motto serbio en el cartouche— que el archivo levanta como [[Milano|Milan I]] o [[Draga_Machine|Draga]]: la Historia entra entera y deviene cosmología. Su acto canónico es el pacto desde el duelo: hueco por la muerte de Draga, concede a los [[Time_Bandits]] la libertad a cambio de desbaratar el [[Circulo_de_la_Serpiente]], y la decisión lo gobierna desde el fondo hasta [[Sarajevo_1914_Ucronica|1914]]. La franja real (lo que A leyó como magnicidio inscrito, AA-H.2) se cruza en C con el pacto que condena.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -61,3 +61,8 @@ Sucesos de [[Antiterra_Demonia|Antiterra]] pp. 2-3 (gestas de
 - [[Gesta_de_1300_ADA|Gesta de 1300 A.D.A]]
 - [[Gesta_de_1494_1520_ADA|Gesta de 1494–1520 A.D.A]]
 - [[Ludovico_el_Moro|Ludovico el Moro]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *La banda florentina a la que un Dante semiamnésico conduce al primer portal al [[Infierno]]: su gesta de 1300 es un descenso dantesco literal, y termina invadiendo el plano astral de los githyanki —otro estrato bajo el mundo— donde Fernandín cae y Alberich elige quedarse. [[Luca_CI|Luca]] sale de esa fosa para seguir hacia las [[Ciudades_Invisibles|Ciudades Invisibles]]. El [[Infierno]] ya había subido al canal antes de que ellos bajaran. Lo que A registró como una gesta con marco infernal (AA-D.1), en C es la casa del descenso por capas: cada portal abre un piso del mundo de abajo.* — glosa del Decadiano.
+<!-- /CICLO -->

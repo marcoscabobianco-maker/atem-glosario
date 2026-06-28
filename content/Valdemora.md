@@ -37,7 +37,7 @@ La **Guardia de Montaraces de Valdemora** —patrullas como [[Decio_Balmora|Deci
 
 ### En el regreso tras el Hiato
 
-Punto de entrada del nuevo arco de la campaña [[Ardis_Vala_campaña|Ardis Vala]]. [[Buscadores_de_Ardis_Vala|Los Buscadores]] acompañan a Decio a su pueblo natal, **descubren la crisis local** (chicos perdidos, gobierno de [[Carad_de_Teyber]], comarca en luto perpetuo) y son **redirigidos a las cavernas del valle** donde encontrarán [[Bellaca|Lali]] corrompida.
+Punto de entrada del nuevo arco de la gesta [[Ardis_Vala_campaña|Ardis Vala]]. [[Buscadores_de_Ardis_Vala|Los Buscadores]] acompañan a Decio a su pueblo natal, **descubren la crisis local** (chicos perdidos, gobierno de [[Carad_de_Teyber]], comarca en luto perpetuo) y son **redirigidos a las cavernas del valle** donde encontrarán [[Bellaca|Lali]] corrompida.
 
 ## Vínculos
 
@@ -49,7 +49,7 @@ Punto de entrada del nuevo arco de la campaña [[Ardis_Vala_campaña|Ardis Vala]
 - [[Estellara]] — posada vecina
 - [[Carad_de_Teyber]] — señor regional corrupto
 - [[Barrado_Balacan]] — región
-- [[Ardis_Vala_campaña|Ardis Vala (campaña)]]
+- [[Ardis_Vala_campaña|Ardis Vala (gesta)]]
 
 ## Apariciones
 

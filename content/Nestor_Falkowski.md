@@ -27,7 +27,7 @@ imagen: null
 
 ## El licenciado de la sala
 
-En el **[[Hospital_Borda]]**, en [[Buenos_Aires_Ucronica|Buenos Aires]], el licenciado Néstor Falkowski es el asistente joven del doctor [[Alberto_Buscaglia|Buscaglia]] —veinticinco o treinta años a lo sumo, recién salido de la facultad—. Trabaja a la sombra del psiquiatra del miedo, en la misma sala donde se trata a [[Antonio_Portet|Antonio]], el ex-marino internado tras lo que le ocurrió bajo las islas. Lleva un apellido polaco que, en una sub-campaña sembrada de azares con peso, resuena con el de otra polaca de la partida, [[Irene_Kowalski|Irene Kowalski]], aunque nada en la crónica los hermana más allá del sonido.
+En el **[[Hospital_Borda]]**, en [[Buenos_Aires_Ucronica|Buenos Aires]], el licenciado Néstor Falkowski es el asistente joven del doctor [[Alberto_Buscaglia|Buscaglia]] —veinticinco o treinta años a lo sumo, recién salido de la facultad—. Trabaja a la sombra del psiquiatra del miedo, en la misma sala donde se trata a [[Antonio_Portet|Antonio]], el ex-marino internado tras lo que le ocurrió bajo las islas. Lleva un apellido polaco que, en una gesta sembrada de azares con peso, resuena con el de otra polaca de la partida, [[Irene_Kowalski|Irene Kowalski]], aunque nada en la crónica los hermana más allá del sonido.
 
 Es un hombre difícil de leer. Tiene los **párpados pesados** y una mirada que cuesta descifrar: quien intenta adivinarle la intención se queda con las manos vacías, como ante una cara que guarda su fondo. Esa opacidad lo acompaña en todo lo que hace, y es la que más tarde dejará un cabo suelto sobre quién es de verdad el licenciado Falkowski.
 

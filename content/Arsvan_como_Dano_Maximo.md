@@ -29,3 +29,8 @@ aliases:
 - [[Fervor|Fervor]]
 - [[H_del_minotauro|H del minotauro]]
 - [[Sugestion_demoniaca|Sugestión demoníaca]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El golpe excepcional de Ärsvan en la [[Jornada_del_Falso_Maestre]] —treinta y dos en un solo tajo, vaciando su furia— es el momento en que el guerrero deja de ser pura cifra ofensiva y se le abre un dilema moral: el "trato" propuesto a la Gárgola frente al [[Minotauro_Jefe_del_Laberinto|Minotauro]] del laberinto. El archivo lo lee como el umbral previo a su caída al Descenso, ese estrato más hondo al que se baja después del laberinto. El que más daño hace es, justo antes de descender, el que primero duda.* — glosa de Paulus.
+<!-- /CICLO -->

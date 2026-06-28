@@ -16,7 +16,7 @@ aliases:
 
 [[Patriarca]] de [[Alejandria|Alejandría]] como su tío **Teófilo**. Nació en 376 en Theodosios, Egipto. Sobrino de Teófilo de [[Alejandria|Alejandría]] (patriarca 385-412). Contemporáneo de la época de [[Pablo_de_Alejandria|Pablo de Alejandría]].
 
-*Fuente primaria:* Documento Skronamon (línea 7, personaje 1).
+*Fuente primaria:* el Documento Skronamon.
 
 ## Ver también
 

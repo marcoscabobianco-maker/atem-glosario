@@ -183,3 +183,8 @@ La Contienda **no clausuró nada y dejó todo abierto**, que es como suelen term
 - **1353 D.R. — el regreso desajustado** — 16 años antes de la partida; el concilio nunca se cerró
 - **1375 D.R.** — [[Soluna]] y Minaya cierran la tiranía abierta por la traición
 - **Ciclo presente** — la Contienda sigue siendo asamblea abierta sin clausura formal
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ✒
+> *El concilio que se descarrila echa a sus cinco representantes —[[Arian]], [[Maristo]], [[Minborgen]], [[Cloeh]], [[Tii_TiiMhut|Tii]]— a vivir mil años en el pasado, y cuando vuelven el tiempo les cobra el viaje: regresan dieciséis años antes de su partida, en 1353 D.R., por un desajuste en las líneas de la vida que ni el [[Decadiano]] domina con calendario. Allá atrás encuentran al cronista joven, [[Pablo_de_Alejandria|Paulus]] antes de ser Paulus —la voz que glosa el archivo entero aparece aquí como materia del archivo, perseguido, todavía sin oficio—. El tiempo es aquí mercancía que se gasta, y el que la narra es personaje de lo narrado.* — glosa del archivero del Plata.
+<!-- /CICLO -->

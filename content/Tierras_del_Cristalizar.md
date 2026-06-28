@@ -73,3 +73,8 @@ En el ciclo presente, **la capa más visible de las Tierras del Cristalizar es [
 - **1995-1996** — sistematización de la doctrina por el cronista en hojas verdes
 - **Cosmología continua** — alimentadas por proyección humana, capas en crecimiento cebollil
 - **Ciclo presente** — manifestación principal en [[Ardis_Vala]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷
+> *El reverso onírico del cosmos: un espejo distorsionado por los deseos de la humanidad, paralelo a [[Antiterra]] y a la Tierra y unido a ambas por surcos y por las doce plataformas zodiacales. Lo que en este mundo se piensa sin consecuencia, allá toma cara. Su geografía es cebollil —capas concéntricas que el tiempo añade sin destruir las previas: la «época cristalizada de los egipcios» sigue accesible por pirámides-portal—, de modo que se baja por estratos de era. En el ciclo presente su capa más densa es [[Ardis_Vala]], el cristal de diez niveles donde se manifiestan las [[Plataformas_Zodiacales_Sistema_de_Guardianes|Plataformas Zodiacales]].* — glosa de Arkos.
+<!-- /CICLO -->

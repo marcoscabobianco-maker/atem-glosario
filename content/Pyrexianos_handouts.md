@@ -1,10 +1,12 @@
 ---
-title: "Pyrexianos (handouts)"
-título: "Pyrexianos (handouts)"
+title: "Pliegos Pyrexianos"
+título: "Pliegos Pyrexianos"
 slug: Pyrexianos_handouts
 categoria: artefacto
 imagen: "Imagenes_Tier1/Pyrexianos_handouts.png"
 aliases:
+ - Pliegos Pyrexianos
+ - Pyrexianos (handouts)
  - Pyrexianos handouts
  - Mapa Pyrexiano de París 1898
  - Cinco Cruces Rojas
@@ -28,7 +30,7 @@ tags:
 
 ## Presentación
 
-Los **handouts [[Pyrexianos_culto|Pyrexianos]]** son **el material físico de papel** que la mesa conserva del culto: **un mapa de París 1898**, un **diagrama táctico** y un **fragmento de Pyrexian script** —la magigrafía propia del culto, ilegible para quien no la haya estudiado—. Los tres aparecen en el Descenso como evidencia recuperada de las operaciones del culto bajo la ciudad.
+Los **documentos [[Pyrexianos_culto|Pyrexianos]]** son **el material físico de papel** que el archivo conserva del culto: **un mapa de París 1898**, un **diagrama táctico** y un **fragmento de Pyrexian script** —la magigrafía propia del culto, ilegible para quien no la haya estudiado—. Los tres aparecen en el Descenso como evidencia recuperada de las operaciones del culto bajo la ciudad.
 
 ### El mapa
 
@@ -40,7 +42,7 @@ El **diagrama** acompaña el mapa: muestra **secuencia, prioridad y dependencias
 
 ### El fragmento Pyrexian script
 
-El **fragmento** es **caligrafía de magigrafía**: traza propia del culto, derivada de la grafía Phyrexian de Magic the Gathering pero castellanizada por la mano de. **No se lee con vocabulario**: se siente arder en quien la mira fijo. La función del fragmento en mesa es **handout-pista**, no traducción literal: marca que el culto Pyrexiano está detrás, sin necesidad de explicarlo.
+El **fragmento** es **caligrafía de magigrafía**: traza propia del culto. **No se lee con vocabulario**: se siente arder en quien la mira fijo. No está para traducirse palabra por palabra, sino para marcar, ante quien lo halla, que el culto Pyrexiano está detrás —sin necesidad de explicarlo—.
 
 ## Vínculos
 
@@ -49,9 +51,9 @@ El **fragmento** es **caligrafía de magigrafía**: traza propia del culto, deri
 - [[Catedral_de_Notre-Dame_PU|Catedral de París]] — blanco principal de la red
 - [[Arsvan|Ärsvan]] — Time Bandit que pone la bomba en el plano real
 - [[Tres_Brujas_Macbeth]] — agentes del segundo intento desde el plano de brujas
-- [[Anti_Inferno|Campaña Inferno]] — la mesa donde se recuperan los handouts
+- [[Anti_Inferno|Gesta Inferno]] — la gesta donde se recuperan los documentos
 
 ## Apariciones
 
-- el Descenso — handouts entregados por como pista/evidencia del culto
+- el Descenso — documentos recuperados como pista/evidencia del culto
 - París 1898 — referencia diegética del mapa (eje [[Antiterra]]/PU)

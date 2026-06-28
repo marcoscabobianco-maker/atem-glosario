@@ -19,3 +19,8 @@ Joven de 14–15 años que creyó en las palabras proféticas de [[Anti_Inferno|
 ## Ver también
 
 - Referencias
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Un chico de catorce o quince años condenado al Inferno por haber creído al falso profeta del [[Anti_Inferno|segundo círculo]], y vuelto allí su imp: la culpa de aquella figura camina a su lado, hecha forma menor, mientras desciende. Su existencia marca un peldaño del Foso — el segundo círculo, donde la palabra que engaña tiene su estrato propio — y la redención del que lo condenó queda atada a reconocer ese descenso suyo. El Inferno se cuenta por círculos, y Johnny es la prueba viviente de uno de ellos.* — glosa de Paulus.
+<!-- /CICLO -->

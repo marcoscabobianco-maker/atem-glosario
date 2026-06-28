@@ -11,8 +11,8 @@ aliases:
 
 ## Presentación
 
-Fortaleza donde se celebró el primer gran torneo del que hay registro en el archivo. El mismo torneo fue disputado luego en el [[Anti_Inferno|Descenso]], mostrando cómo localizaciones y eventos fundacionales se repiten a través de los ciclos de campaña.
+Fortaleza donde se celebró el primer gran torneo del que hay registro en el archivo. El mismo torneo fue disputado luego en el [[Anti_Inferno|Descenso]], mostrando cómo localizaciones y eventos fundacionales se repiten a través de los ciclos de gesta.
 
 ## Ver también
 
-- [[Campana|Campaña]]
+- [[Campana|Gesta]]

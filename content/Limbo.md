@@ -12,47 +12,32 @@ aliases:
  - "el Caos"
 ---
 
-> Plano exterior del Caos puro en cosmología D&D. Hogar de slaadi y githzerai. Materia prima moldeable por voluntad. Aparece en el ciclo vía [[Taberna_de_la_Serpiente_Mundo]].
+> El plano exterior del Caos puro. Hogar de slaadi y githzerai; materia prima que la voluntad moldea. Aparece en la gesta vía [[Taberna_de_la_Serpiente_Mundo]].
 
-## Origen en D&D
+## El Caos puro
 
-**Limbo** es el plano exterior canónicamente Chaotic Neutral en la Great Wheel de D&D:
-- **Estructura**: caos puro — materia/energía/elementos en flujo constante.
-- **Habitantes principales**: **slaadi** (criaturas-rana caóticas), **githzerai** (cismáticos del gith, contraparte de githyanki).
-- **Mecánica**: la materia del Limbo se moldea por **fuerza de voluntad** — los githzerai dominan esta habilidad para construir monasterios estables.
+**Limbo** es el plano del caos absoluto entre los planos exteriores:
+- **Su materia**: caos puro —materia, energía y elementos en flujo constante, sin forma estable—.
+- **Sus habitantes**: los **slaadi** (las criaturas-rana del caos) y los **githzerai** (los cismáticos del gith, reverso de los githyanki).
+- **Su ley secreta**: la materia de Limbo se moldea por **fuerza de voluntad** —los githzerai dominan ese arte para levantar monasterios que no se disuelven—.
 
-> Fuente externa: *Manual of the Planes* (TSR/WotC, múltiples ediciones), *Planescape Campaign Setting*.
+## En la gesta
 
-## Acepción en el cosmos compartido
-
-Limbo aparece en el cosmos compartido vía **[[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]]** como uno de los planos referenciados desde el espacio liminal de la taberna. Otras apariciones:
+Limbo aparece vía la **[[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]]**, uno de los planos que asoman desde el espacio liminal de la taberna. Otras apariciones:
 - Contexto de **slaadi** o **githzerai** en jornadas (pendiente catalogar).
-- Posible cruce con [[Marcha_de_los_Modrones|Marcha de los Modrones]] (evento que afecta Limbo regularmente — los modrones marchan a través de planos caóticos cada 17 años).
+- Cruce posible con la [[Marcha_de_los_Modrones|Marcha de los Modrones]], que atraviesa los planos del caos en su ronda.
 
-## Función diegética
+## Función en el ciclo
 
 En el cosmos compartido, Limbo opera como:
-- **Plano contenedor de impredecibilidad**: cuando necesita un lugar donde "las reglas no aplican".
-- **Origen de criaturas caóticas**: slaadi, alguna manifestación de [[Eilidh|mundo-gema]] (palimpsesto a confirmar).
-- **Cosmología trans-campaña**: presente en el ciclo core, Reguladores, posiblemente [[Caldero]].
-
-## Recontextualización MC
-
-Limbo entra al cosmos compartido como **importación cosmológica** sin reinterpretación profunda. lo usa cuando necesita el plano del caos puro.
-
-Pendiente para :
-- ¿Algún compañero ha visitado Limbo en jornada? ¿Cuándo?
-- ¿Los githzerai tienen presencia narrativa concreta o son referencia?
-- ¿Relación con el [[Juego_de_las_Sombras|Juego de las Sombras]] / [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]?
-
-## Nota lateral
-
-> Importación canónica de la Great Wheel. Apariciones específicas en el ciclo pendientes de catalogar.
+- **El lugar donde las reglas no aplican**: cuando la gesta necesita lo impredecible.
+- **Cuna de criaturas caóticas**: slaadi, y alguna manifestación del [[Eilidh|mundo-gema]] (palimpsesto a confirmar).
+- **Cosmología que cruza las gestas**: presente en el ciclo central, los Reguladores y quizá [[Caldero]].
 
 ## Ver también
 
 - [[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]] (mención)
-- [[Marcha_de_los_Modrones|Marcha de los Modrones]] (evento que cruza Limbo)
-- [[Ysgard]] (otro plano outer)
-- [[El_Abismo|el Abismo]] (caos pero mal-alineado)
+- [[Marcha_de_los_Modrones|Marcha de los Modrones]] (cruza Limbo)
+- [[Ysgard]] (otro plano exterior)
+- [[El_Abismo|el Abismo]] (caos, pero maligno)
 - [[Sigil]] (centro planar)

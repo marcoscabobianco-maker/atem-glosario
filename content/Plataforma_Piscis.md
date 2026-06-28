@@ -57,3 +57,8 @@ imagen: Imagenes_Tier1/Plataforma_Piscis.png
 - **Cosmología continua** — gobierna mareas, sueños y profecías del fin
 - **Acto del Perdón Mutuo** — Cakravartin y Gran Khan, centro del octógono
 - **Travesía de [[Paris_Ucronica|París Ucrónica]]** — referencia operativa en la cosmología del grupo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ☯ ✒
+> *Duodécima casa zodiacal —última o primera, según se entre o se salga— cuya soberanía rota: bajo las aguas reinó el [[Cakravartin]], después el [[Gran_Khan]] tomó parte del cetro al partirse en dos las cabezas del dragón doble que decidía la [[Dual_Saenz_Premiado|Magia Dual]]. Administra las aguas del principio y del fin, el eje donde Terra y Antiterra se contagian. La glosa que la fija es del [[Decadiano]], voz que glosa el mundo desde dentro del mundo. Lo que A vio como cetro que pasa de mano (AA-R.1) y B como las dos plataformas que se reflejan (AKB-A.1), en C es la misma casa.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -54,3 +54,8 @@ La dualidad **se repite fractalmente** en las plataformas menores: cada **[[Alde
 - **Notas preliminares de Torregrises** — definición canónica
 - **Cosmogonía Gris** — descripción extensa de la Primera Plataforma
 - **Tratado de las Dos Torres** — texto litúrgico mayor del sistema dual
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *El principio del cosmos gemelo en su forma doctrinal pura: [[Torregrises]] (Caos, peso, luz ausente) y [[Torreluces]] (Verbo, esperanza, luz que retorna), dos ciudades unidas por los Cimientos, ninguna capaz de vencer sin destruir a las dos. La [[Franja_de_la_Disolucion_TG|Franja de la Disolución]] al medio se ensancha con cada acto destemplado. La dualidad se repite fractalmente en cada [[Aldebaran_Estrella_Plataforma|Plataforma]] —[[Arcacto_TG|Arcacto]] contra la [[Reina_de_las_Nieves|Reina de las Nieves]]—; el sistema admite módulos de doce, siete, cinco o tres, jamás de uno solo.* — glosa del Decadiano.
+<!-- /CICLO -->

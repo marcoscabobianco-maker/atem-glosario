@@ -196,3 +196,8 @@ imagen: Imagenes_Tier1/Vitalis.png
 - **Establecimiento del taller arcano con [[Tony_Malatesta]]** — Bastardo Cromas, polvillos y especias en gestación
 - **Operación de la balsa del río Blackwater** — vehículo cosmológico de revelación progresiva
 - **1824 AE — ciclo presente** — Hechicero del Tiempo operativo, nodo inter-generacional activo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ※ ⏳ ⛓
+> *Hijo del padre triple cuyo nombre es la cosa: [[Lotario]], [[Oratiol]] y [[Tailoor]] recombinan las mismas siete letras —una sola alma reordenada tres veces— y Vitalis carga ese peso anagramático en la sangre. Su don es el tiempo: abandonado en el [[Rio_Ucronos|Río Oukronos]] como mensaje aún no leído, hoy conduce la balsa cronomántica del Blackwater e invoca el flujo del tiempo como octavo remo de [[La_Jabalina]], la banda nombrada de [[Caldero]].* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

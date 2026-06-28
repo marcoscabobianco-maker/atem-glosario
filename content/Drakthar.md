@@ -80,3 +80,8 @@ imagen: null
 - **Beneficios para nobles corruptos** — red de patronazgo consolidada
 - **Misión de La Jabalina (Senda de Drakthar)** — descenso a Yathrebu; pérdida del brazo de Teo; decisión doctrinal de Sila; derrota final del operador
 - **Segunda incursión post-derrota** — cierre simbólico de la operación
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☷
+> *Su derrota es una sola misión de la banda nombrada: [[La_Jabalina]] desciende a los pasadizos de [[Yathrebu]] —la [[Senda_de_Drakthar]]— a cazar al operador del [[Shadowfell]], y baja un estrato más abajo de la ciudad, donde el caos de [[Caldero]] esconde su raíz. Allí [[Teo_Paladin_Sin_Brazo|Teo]] pierde el brazo y [[Scylla|Sila]] elige al grupo sobre su oscuridad heredada. Vencer a Drakthar abre, no cierra: revela la red de las torres nobles —[[Lord_Valanthru|Valanthru]], [[Titti_Frame]]— que se beneficiaba del caos sembrado.* — glosa de Arkos.
+<!-- /CICLO -->

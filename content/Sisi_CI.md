@@ -25,4 +25,4 @@ PM 0 (intro detallada), PM 3a (7 menciones), PM 3c, PM 4b2, [[Zaira]].
 
 ## Notas
 
-Sisi ya aparece en el índice del GLOSARIO. VERIFICAR si tiene entrada propia; si no, esta es la entrada fundacional. Tras la muerte de Fernandín (ladrón previo en FLORENZEN), Sisi opera como el nuevo compañero en esta campaña.
+Sisi ya aparece en el índice del GLOSARIO. VERIFICAR si tiene entrada propia; si no, esta es la entrada fundacional. Tras la muerte de Fernandín (ladrón previo en FLORENZEN), Sisi opera como el nuevo compañero en esta gesta.

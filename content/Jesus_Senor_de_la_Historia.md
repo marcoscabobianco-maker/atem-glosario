@@ -29,3 +29,8 @@ El JSH no rige solo. Convive con el **Frome Kalendar**, el cómputo de grafía a
 - [[Angara_Andgara|Andgara]] — el período primordial cuyo tiempo cuenta el Frome Kalendar, contracara del eje histórico-cristiano del JSH.
 - [[Paris_Ucronica|París Ucrónica]] — el continuo ucrónico donde la historia es modificable y la doble lectura del JSH cobra todo su peso.
 - [[Historia_real|Historia Real]] — el eje temporal de la Tierra, al que el cómputo cristiano del JSH se asocia.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *Calendario que pone el tiempo bajo un señorío —Christus Dominus Historiae—: en un cosmos donde la historia es materia modificable, datar bajo el JSH afirma que el tiempo, por torcido que se lo escriba, conserva un telos. No rige solo: convive con el [[Frome|Frome Kalendar]] de [[Angara_Andgara|Andgara]], el cómputo del mundo primordial. Dos ejes de datación para los dos tiempos que el Archivo distingue —el primordial y el histórico, espejo de la [[Historia_real|Historia Real]]—: el tiempo se mide, se computa, y su cuenta es ella misma terreno de disputa en el continuo de [[Paris_Ucronica|París Ucrónica]].* — glosa de Paulus.
+<!-- /CICLO -->

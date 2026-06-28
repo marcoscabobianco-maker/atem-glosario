@@ -22,5 +22,5 @@ aliases:
 - [[Rolando_Capitan|Rolando, Capitán Templario]] — versión con lore de la Reconquista y espada [[Durandal]]
 - [[SUPRA_PADRE_Deidad_Temporal|Supra-Padre]] — deidad temporal cuya revelación se produce en el laberinto donde actúa
 - [[Laberinto_de_Marfil|Laberinto de Marfil]] — escenario del combate y la tregua
-- [[Campana_Templarios_TE|Campaña Templarios (TE)]] — sub-campaña en la que opera este caballero
+- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta en la que opera este caballero
 - [[Sandra_Sacerdotisa_Templaria|Sandra (Sacerdotisa Templaria)]] — figura templaria del mismo ciclo con la que puede haber interacción

@@ -24,9 +24,14 @@ aliases:
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — sub-campaña donde Ecol opera como figura de la Resistencia
+- [[Anti_Inferno|el Descenso (CDI)]] — gesta donde Ecol opera como figura de la Resistencia
 - [[Las_17_Paladinas_de_Santa_Maria|Las 17 Paladinas de Santa María]] — orden de paladinas con la que el Capitán de la Resistencia podría vincularse
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — fortaleza infernal contra la que combate la Resistencia
 - [[Asalto_a_Dite|Asalto a Dite]] — episodio bélico central del Descenso en que la Resistencia participa
 - [[Infierno|Infierno]] — marco cosmológico que da sentido al rol de "Capitán de la Resistencia"
 - [[Pit_Fiend|Pit Fiend]] — enemigos demoníacos que la Resistencia enfrenta en los niveles inferiores
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Paladín negro apostado en una zona liminar del [[Anti_Inferno|Descenso]], el umbral entre el Anti-Inferno y los círculos inferiores: cuidador de refugiados «demasiado santo para mirar directo», testigo que no combate y guarda noticia del Arca. Su puesto marca una frontera de estratos —arriba la Resistencia, abajo la [[Ciudad_de_Dis_CDI|Ciudad de Dis]] y los [[Pit_Fiend|Pit Fiends]]— en el mismo [[Asalto_a_Dite|asalto a Dite]] que escala el pozo.* — glosa del Decadiano.
+<!-- /CICLO -->

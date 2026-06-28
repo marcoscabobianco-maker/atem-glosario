@@ -23,4 +23,3 @@ aliases:
 
 ## Ver también
 
-- [[Mitologia|Mitología]]

@@ -12,7 +12,7 @@ aliases:
 ## Presentación
 
 **Ref.:** apariciones en el ciclo del Mundo Nuevo como ranger del grupo, "Sasha cerrando la marcha".
-**Línea trans-campaña:** compañera del grupo (figura externa al grupo, primera aparición documentada). Sasha es negra y guardaparque. Personaje distinto de [[Chantal_TNW|Chantal]]. Ambas son rangers / wilderness pero personajes separados.
+**Línea trans-gesta:** compañera del grupo (figura externa al grupo, primera aparición documentada). Sasha es negra y guardaparque. Personaje distinto de [[Chantal_TNW|Chantal]]. Ambas son rangers / wilderness pero personajes separados.
 
 ## Ver también
 

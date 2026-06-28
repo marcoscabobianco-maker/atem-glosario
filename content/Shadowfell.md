@@ -74,7 +74,7 @@ imagen: null
 
 *Otros operadores documentados* **con lazo shadowfelliano** en el archivo —*más allá de Sila*—:
 
-- **Operadores menores** asociados a [[Drakthar]] en la campaña [[Caldero]].
+- **Operadores menores** asociados a [[Drakthar]] en la gesta [[Caldero]].
 - **Figuras de la [[Compania_de_la_Risa|Compañía de la Risa]]** —*posiblemente bajo influencia shadowfelliana indirecta*, *no plenamente confirmada*—.
 - **Criaturas anómalas** documentadas en sub-niveles del mega-dungeon de Ardisvala.
 
@@ -110,3 +110,8 @@ imagen: null
 - **Período de operación de [[Drakthar]]** — base shadowfelliana establecida en [[Yathrebu]]
 - **[[Senda_de_Drakthar]]** — [[La_Jabalina]] cruza membrana porosa, combate con oscuros, decisión de Sila
 - **1824 AE — ciclo presente** — plano activo, membranas porosas sostenidas, operaciones futuras anticipables
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛓
+> *El estrato negativo intermedio del cosmos: ni el Foso pleno ni el polo luminoso, sino la otra cara que se cruza por membranas porosas —[[Yathrebu]] bajo [[Caldero]], las [[Catacumbas_de_Paris|Catacumbas]], los sub-niveles de Ardisvala—. Allí desciende [[La_Jabalina]] en la [[Senda_de_Drakthar]], y allí [[Scylla|Sila]] arrastra el lazo heredado que la banda contiene. Una capa más en la vertical de estratos que el cosmos apila, con su propia fauna —[[Skulk|Skulks]], oscuros, [[Drakthar]]— esperando que la membrana ceda.* — glosa de Paulus.
+<!-- /CICLO -->

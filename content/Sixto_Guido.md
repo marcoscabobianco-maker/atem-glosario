@@ -21,7 +21,7 @@ tags:
 
 ## Presentación
 
-**Sixto** —también escrito **Sixto** en algunas transcripciones— es **compañero de Guido** en la campaña **[[Arden_Vul]]**. **Humano**, **Fighter (guerrero)**, **tanque de batalla** del grupo. Físico: **pelo blanco**, **robusto**, **dos espadas largas**, **ojos amarillos / dorados como miel**.
+**Sixto** —también escrito **Sixto** en algunas transcripciones— es **compañero de Guido** en la gesta **[[Arden_Vul]]**. **Humano**, **Fighter (guerrero)**, **tanque de batalla** del grupo. Físico: **pelo blanco**, **robusto**, **dos espadas largas**, **ojos amarillos / dorados como miel**.
 
 ### El tanque
 
@@ -40,7 +40,7 @@ Su función táctica es **absorber daño y sostener la línea de combate**. Las 
 ## Vínculos
 
 - La misma mano que encarnó a Elías [[Elias|Magíster]], [[Helter]] y [[Scilla]]
-- [[Arden_Vul]] — campaña
+- [[Arden_Vul]] — gesta
 - [[Papa_Alejandro_Sixto|Sir Sixto]] — figura homónimo (transformado en [[Papa_Alejandro_Sixto]] post-hiato), Caballero de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]
 - [[Caballeros_Cicatriz_del_Sol]] — orden del figura homónimo
 - **[[Trocadero|Lord Tarmis]]** / Trocadero — origen del collar maldito

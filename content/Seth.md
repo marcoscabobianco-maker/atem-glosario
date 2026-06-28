@@ -62,3 +62,8 @@ La **Mano de Set** —artefacto que circula posteriormente por el archivo y que 
 - Prisión subacuática atlante — encarcelado, liberado por [[Los_Profundos]]
 - [[Torneo_de_la_Torre_Eiffel]] — dentro del Tarrasque, intenta interferir
 - Cúspide de la Torre Eiffel — clavado por [[Faragod]], agonía, lago de sangre azul
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *Dentro del [[Tarrasque_Antiterra|Tarrasque]] que lo carga como vehículo va un fragmento de la [[Gema_de_la_Creacion|Gema de la Creación]] —un rubí—, conexión directa entre el dios maldito y los artefactos cosmogónicos primigenios; y la [[Mano_de_Set|Mano de Set]] que le quedó tras la mutilación circula después como reliquia que [[Lotario]] porta. Seth es portador y pieza a la vez: lleva un trozo de la llave compuesta y deja otro trozo de sí. Lo que A registró como un fragmento de artefacto (AA-O.3), en C es la casa del objeto triádico: la Gema vuelve a partirse y cada esquirla arrastra un cuerpo.* — glosa de Paulus.
+<!-- /CICLO -->

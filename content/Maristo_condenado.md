@@ -140,3 +140,8 @@ imagen: null
 - **Descenso conductor en el Anti-Inferno** — díada operativa con Swedenborg
 - **Apariciones documentadas en círculos profundos** — operaciones puntuales con doctrina del Ojo modificada
 - **Ciclo presente** — Lost One vigente con cuestión del Único Dios abierta
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ☷
+> *La misma alma del Edecán plegada hacia abajo: el paladín del Ojo de [[Helm]] opera arriba como Edecán y abajo como [[Lost_Ones|Lost One]] condenado del [[Anti_Inferno|Anti-Inferno]], descendiendo por los círculos del Foso en díada con [[Swedenborg]] —él muestra con el Ojo lo que las almas no quieren mirar, ella alumbra el retorno. La condena que lo encadena es la marca del pacto roto, casa que comparte con [[Arian|Adam Arlequín]] y la línea [[Anti_Inferno|Patience]]. Ni [[Kaxathros]] ni [[Coyote]] han ofrecido revocarla. Lo que A llamó el pacto que condena (AA-P.5) y B la geografía estratificada del descenso (AKB-C.1), en él se cruzan.* — glosa de Paulus.
+<!-- /CICLO -->

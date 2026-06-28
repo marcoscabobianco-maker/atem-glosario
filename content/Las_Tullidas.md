@@ -58,3 +58,8 @@ Entradas individuales pendientes para cada una.
 - [[Hannok|Hannok]]
 - [[Samsara|Samsara]]
 - [[Hannok|Hannok]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Cuatro mujeres mutiladas por Papi [[Balor]] —[[Luquimia]] con ojos de medusa, Chan con brazo-serpiente, [[Liddha]] con el brazo congelado al torso, [[Monaco|Mónaco]] con látigo-cola— que ganan su libertad en la arena y devienen banda con nombre propio. Como sujeto colectivo derrotan a Moloch en [[Baator]], toman la [[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]] y operan en el arco cosmológico del [[Amuleto_de_los_Planos]], contemporáneo del nombramiento de [[Arian]] por el señor de la mano de plomo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

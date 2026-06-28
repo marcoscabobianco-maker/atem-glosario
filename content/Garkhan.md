@@ -47,3 +47,8 @@ Garkhan opera en **par dragónico** con **[[Sheridron]]** —el dios dragón **p
 - Panteón inicial post-Triunvirato
 - Ciclo del descenso de las almas en el nuevo cosmos
 - Mitología de las civilizaciones de la edad de bronce
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦ ☷
+> *Un héroe de un mundo que deviene dios del siguiente: Garkhan cruzó el colapso de [[Vala_Antigua]] junto a [[Tailoor]], [[Antino|Antinoo]] y los suyos y emergió como dios-dragón de la muerte en el panteón del Triunvirato de [[Los_Supremos]]. Su oficio es estratificar el descenso de las almas en estaciones —torre negra, luna negra, descanso final—; opera en par lunar con [[Sheridron]], dragón plateado, la luz que abre caminos contra la noche que los cierra.* — glosa del Decadiano.
+<!-- /CICLO -->

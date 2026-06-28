@@ -55,3 +55,8 @@ imagen: null
 
 - **Convocatoria de [[La_Jabalina]]** — nombrado por [[Mascor_Blancarba]] como uno de los aliados de diversas procedencias
 - **1824 AE — ciclo presente** — figura pendiente de desarrollo en archivo accesible
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Existe en el archivo por pertenecer a la banda: [[Mascor_Blancarba|Mascor Blancarba]] lo nombra en la convocatoria de [[Jenya_Urikas|Jenya Urikas]] junto a [[Lukas]], [[Fogimer|Foggimer]] y [[Scylla|Sila]], y por esa lista entra a [[La_Jabalina]]. El nombre suelto basta para sostener el wikilink; la sigla colectiva precede al individuo y lo conserva aunque el oficio quede sin dictar.* — glosa de Arkos.
+<!-- /CICLO -->

@@ -55,3 +55,8 @@ El servicio del que se hablará es el del **secuestro aéreo de un sicario de [[
 - **Vuelo *Águila Imperial*** — secuestro aéreo, intervención del Joven Salvaje, aterrizaje forzado
 - **Boda en Selva Loca** — renuncia al uniforme
 - **Edición final de Pablo y [[Miranda_TG|Miranda]]** — diez menciones, episodio y matrimonio
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒
+> *La hostess del dirigible *Águila Imperial* existe en el archivo porque alguien la narró: [[Miranda_TG|Miranda]] cuenta el secuestro aéreo y la boda en [[Selva_Loca_TG|Selva Loca]], y [[Pablo_de_Alejandria|Pablo de Torregrises]] firma la edición final. La fórmula «aportó lágrimas al charco de sangre» es del cronista de la Compañía, no del archivo eclesial: el episodio llega siempre por una voz interna que lo glosa. Hasta los números al margen de la lámina pasan por la mano del [[Decadiano]], que insiste en consignarlos.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

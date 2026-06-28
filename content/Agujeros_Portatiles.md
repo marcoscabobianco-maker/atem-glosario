@@ -26,4 +26,3 @@ aliases:
 
 ## Ver también
 
-- [[Creacion|Creación]]

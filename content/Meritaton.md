@@ -21,11 +21,11 @@ Hija mayor de **[[Amitlai]]** y heredera del trono en el arco egipcio del cosmos
 
 ## Apariciones notables
 
-**Cuadernos T (minería S17T1):** C21 líneas 189-213 (2005-06): contexto de familia real y sucesión.
+En el arco egipcio: contexto de familia real y sucesión.
 
 ## Notas
 
-Ver **[[Amitlai]]** (madre), **[[Sedi]]** (hermana), **Akhenatón** (stub en Catálogo MC).
+Ver **[[Amitlai]]** (madre), **[[Sedi]]** (hermana), **Akhenatón** (stub).
 
 ## Ver también
 

@@ -30,14 +30,14 @@ imagen: Imagenes_Tier1/Ciacco_Ciacco.png
 
 **Florentino del siglo XIII**, condenado al pantano de los golosos donde la lluvia eterna lo enfangaba con los demás. *Dante lo encontró en aquel cieno, conversaron brevemente, Ciacco le profetizó las desgracias políticas de Florencia y volvió a hundirse* —escena que las academias italianas todavía glosan—. **El cronista repite la escena no porque la academia la haya repetido**, sino porque **Ciacco la recuerda**: el alma del goloso, cuando puede, **recuerda la última vez en que un mortal la trató como persona**, **y la conversación con Dante fue la suya**.
 
-**En el ciclo del descenso de los condenados** —**el que la mesa llama [[CDI|el ciclo CDI]]**—, **Ciacco fue rescatado del pantano por [[Sven]]**, **junto con otra alma gorda anónima**. Se incorporó al grupo como **escolta voluntaria**: figura que en aquel sistema penal abre la posibilidad de **redención parcial** cuando el alma condenada se compromete con un vivo que la guía. *Ciacco, según los archivos, se aferró a Sven con la lealtad con que se aferran los condenados que entienden la oferta*. **Dio ocho puntos de esperanza al grupo en el momento del rescate**, contribución que el archivero del Plata anota porque las contribuciones de los condenados, **cuando ocurren**, suelen contarse en unidades menores.
+**En el ciclo del descenso de los condenados** —**el que el archivo llama [[CDI|el ciclo CDI]]**—, **Ciacco fue rescatado del pantano por [[Sven]]**, **junto con otra alma gorda anónima**. Se incorporó al grupo como **escolta voluntaria**: figura que en aquel sistema penal abre la posibilidad de **redención parcial** cuando el alma condenada se compromete con un vivo que la guía. *Ciacco, según los archivos, se aferró a Sven con la lealtad con que se aferran los condenados que entienden la oferta*. **Dio ocho puntos de esperanza al grupo en el momento del rescate**, contribución que el archivero del Plata anota porque las contribuciones de los condenados, **cuando ocurren**, suelen contarse en unidades menores.
 
 [*El cronista, que ha visto a otros golosos en formas peores —el cerdo es de las apariencias dignas que el [[Infierno]] ofrece al pecado de gula— observa que Ciacco, en este punto, salió mejor parado que algunos. Lo cual no es consuelo. Es estadística. — [[Arkos|Anot. del archivero del Plata]].*]
 
 ## Vínculos
 
 - [[Sven]] — quien lo rescató del pantano
-- [[CDI|Ciclo del Descenso]] — campaña donde su rescate aparece
+- [[CDI|Ciclo del Descenso]] — gesta donde su rescate aparece
 - [[Tercer_Circulo_Gula]] — su circunscripción penal
 - [[Pluton_CDI|Plutón]] — autoridad del Círculo
 
@@ -46,3 +46,8 @@ imagen: Imagenes_Tier1/Ciacco_Ciacco.png
 - **Siglo XIII florentino** — vida mortal, vicio de gula, muerte y condena
 - **Encuentro con Dante** — diálogo y profecía en el pantano (referido por la *Commedia*)
 - **Ciclo el Descenso** — rescatado por Sven; escolta voluntaria del grupo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⌖
+> *Una capa del [[CDI|descenso]] con su condenado a medida: el [[Tercer_Circulo_Gula|Tercer Círculo]] no aloja a Ciacco como hombre sino como cerdo —la forma exacta en que la gula lo había convertido por dentro—, y de ese estrato del pantano lo rescata [[Sven]], que se lo lleva como escolta. El florentino llega del verbatim histórico: es el goloso que Dante encontró en el cieno y que le profetizó las desgracias de Florencia, escena de la *Commedia* inscrita sin retoque en el archivo bajo la [[Pluton_CDI|autoridad de Plutón]].* — glosa del archivero del Plata.
+<!-- /CICLO -->

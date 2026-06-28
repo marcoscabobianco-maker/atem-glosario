@@ -16,9 +16,7 @@ tags:
  - cierre-ciclo-mc
  - triunvirato
  - tribunal
- - sistema-leyenda
  - cristalizacion-seca
- - abandono-forgotten-realms
  - universo-tetradico
  - cuatro-espejos-negros
  - nexus
@@ -30,7 +28,6 @@ tags:
  - elias
  - nueva-york-extrana
  - 2020
- - lords-of-creation
  - heidegger
 ---
 
@@ -101,9 +98,9 @@ El **panteón inicial** del nuevo cosmos (héroes del antiguo multiuniverso ador
 
 En paralelo a la consolidación del nuevo orden, **aparecen Cuatro espejos negros** —naves de unos **450 metros de alto, "ataúdes sobre la hierba"**—. *"Igual recién llegan en 500 años. O estuvieron llegando antes."* Pendiente identificar a sus pasajeros y su propósito en el nuevo cosmos.
 
-### El año 2020, T1.5 y T2.5
+### El año 2020 y la cuestión de 1987
 
-**Se eligió 2020 como año de articulación**. **Se abre T1.5: el Ciclo de [[Leyenda]]** (sistema [[Leyenda]] como mesa de los Supremos). En paralelo, **T2.5: la moderna cuestión de 1987**, referida a la campaña  —antecedente importante donde el grupo intentó **desactivar cinco bombas que el Señor del Hierro había dejado en el interior del Monte Hurón** en los alrededores de **[[Gary_Indiana_TNW|Gary, Indiana]], 1987**, accesibles el 14 de abril durante el eclipse, con **[[Mahakala]] el Señor del tiempo** implicado y sus hijos pasto de **[[Omnivor]]**—. Los mismos protagonistas tuvieron antes una disputa por **cuatro cargos de exarca** (C40, C45), vislumbrados a través de la **Lámpara de la Caverna central del Monte Huron**.
+**Se eligió 2020 como año de articulación**, y con él se abre el **Ciclo de [[Leyenda|Leyenda]]**. En paralelo corre **la moderna cuestión de 1987** —antecedente importante donde el grupo intentó **desactivar cinco bombas que el Señor del Hierro había dejado en el interior del Monte Hurón** en los alrededores de **[[Gary_Indiana_TNW|Gary, Indiana]], 1987**, accesibles el 14 de abril durante el eclipse, con **[[Mahakala]] el Señor del tiempo** implicado y sus hijos pasto de **[[Omnivor]]**—. Los mismos protagonistas tuvieron antes una disputa por **cuatro cargos de exarca** (C40, C45), vislumbrados a través de la **Lámpara de la Caverna central del Monte Huron**.
 
 ### Los antagonistas pendientes
 
@@ -146,11 +143,11 @@ Del libro **"El origen de la danza Espiral tras el primer golpe en el [[Corazon_
 
 ### La cristalización seca y el abandono de Reinos Olvidados
 
-Lo que pasó con el setting cuando los Supremos lo decidieron es la **clave cosmológica del cierre**. **Ellos cristalizaron tanto las cosas, al tener el control absoluto y decidir sobre el pensamiento y qué sucede en cada instante, que su mundo terminó cristalizado —pero de una manera seca, que ya no tiene más validez—**. Esa cristalización seca es por la que se abandonaron settings como **Reinos Olvidados** —no por desinterés de la mesa, sino porque el lugar mismo había quedado sin validez bajo la jurisdicción de los Supremos—.
+Lo que pasó con el mundo cuando los Supremos lo decidieron es la **clave cosmológica del cierre**. **Ellos cristalizaron tanto las cosas, al tener el control absoluto y decidir sobre el pensamiento y qué sucede en cada instante, que su mundo terminó cristalizado —pero de una manera seca, que ya no tiene más validez—**. Esa cristalización seca es por la que se abandonaron mundos como **Reinos Olvidados** —no por desinterés de quienes lo recorrían, sino porque el lugar mismo había quedado sin validez bajo la jurisdicción de los Supremos—.
 
 ### La salida tetrádica
 
-Hubo **salida**. Hacia un lugar que tiene que ver con **lo que hizo [[Lucifer]]** ([[Paladin_in_Hell]], la defensa cristalina), **la [[Vala_Cristalis]]** (el "balacristalis" que conjuga ambos términos), **el mundo-gema [[Vala_Cristalis|Vala Cristalis]]**, y **un universo tetrádico que está fuera de su esfera**. Donde la Vara cristaliza en versión triádica, el universo de la salida es **tetrádico** —cuatro componentes en lugar de tres—. La cuarta pieza excede la jurisdicción triádica del Triunvirato. Por allí opera la campaña **[[La_Jabalina|Caldero / La Jabalina]]**, dentro del mundo-gema [[Vala_Cristalis]] —escape diegético al cierre seco de los Supremos—.
+Hubo **salida**. Hacia un lugar que tiene que ver con **lo que hizo [[Lucifer]]** ([[Paladin_in_Hell]], la defensa cristalina), **la [[Vala_Cristalis]]** (el "balacristalis" que conjuga ambos términos), **el mundo-gema [[Vala_Cristalis|Vala Cristalis]]**, y **un universo tetrádico que está fuera de su esfera**. Donde la Vara cristaliza en versión triádica, el universo de la salida es **tetrádico** —cuatro componentes en lugar de tres—. La cuarta pieza excede la jurisdicción triádica del Triunvirato. Por allí opera la saga **[[La_Jabalina|Caldero / La Jabalina]]**, dentro del mundo-gema [[Vala_Cristalis]] —escape diegético al cierre seco de los Supremos—.
 
 ### El resultado: Arian gana
 
@@ -163,7 +160,7 @@ El archivo conserva el desenlace: **Arian gana Los Supremos** (referencia *"Supr
 - [[Innombrable|el Innombrable]] — portador de la Piedra, arquitecto del semiplano del cierre
 - [[Vara_del_Infinito]] — mega-artefacto del cierre
 - [[Gema_de_la_Creacion]], [[Cetro_de_los_Dioses]], [[Piedra_del_Apocalipsis]] — las tres piezas ligadas
-- [[Leyenda]] — sistema de juego del Ciclo (T1.5)
+- [[Leyenda|el Ciclo de Leyenda]] — saga paralela del cierre
 - [[Pablo_de_Alejandria|Pablo de Alejandría]] — alma cortada en Gema imposible custodiada por Arian
 - [[Reunidos_los_TG|Reunidos]] — entidades cercanas a la posición de los Supremos
 - [[Lucifer]], [[Asmodeus]], **Dios**, [[Grazzt|Graz'zt]] — sacrificados para cerrar la Franja de Disolución
@@ -173,7 +170,7 @@ El archivo conserva el desenlace: **Arian gana Los Supremos** (referencia *"Supr
 - **Cuatro espejos negros** — naves de 450m
 - [[Auro]] — Jinete de la Guerra del Apocalipsis, ahora deidad del panteón
 - **[[Tailoor]], [[Antino]], [[Sheridron]], Juve, [[Garkhan]], Shakes** — deidades del panteón inicial
--  — campaña paralela T2.5 (1987, Monte Hurón, Gary Indiana, eclipse 14 abril)
+-  — gesta paralela T2.5 (1987, Monte Hurón, Gary Indiana, eclipse 14 abril)
 - **[[Mahakala]]** — Señor del tiempo implicado en 
 - **[[Omnivor]]** — devorador de los hijos de Mahakala
 - **Annunaki** — quizás creadores contra los Elohim; 12 Dragones camuflados del Neo Rex
@@ -184,7 +181,7 @@ El archivo conserva el desenlace: **Arian gana Los Supremos** (referencia *"Supr
 - [[Paris_Ucronica|París Ucrónica]] — escenario conectado por [[Corvino]]
 - [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]], [[Vala_Cristalis]] — salida tetrádica
 - [[La_Jabalina|Caldero / La Jabalina]] — operación dentro del mundo-gema
-- **Reinos Olvidados / Reinos Olvidados** — setting abandonado por cristalización seca
+- **Reinos Olvidados** — mundo abandonado por la cristalización seca
 - **Nueva York extraña** — escenario terminal
 - **Heidegger** — referencia filosófica (límite vs barrera)
 
@@ -204,3 +201,8 @@ El archivo conserva el desenlace: **Arian gana Los Supremos** (referencia *"Supr
 - Aparición de los 4 espejos negros
 - [[Caldero]] / [[La_Jabalina]] (2024-25) — operación de escape tetrádico
 - Nueva York extraña — escenario terminal
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ✦ ☯
+> *[[Arian]], [[Elias|Elías]] y el [[Innombrable]] juntan la [[Vara_del_Infinito|Vara]] en sus tres piezas —[[Gema_de_la_Creacion|Gema]], [[Cetro_de_los_Dioses|Cetro]], [[Piedra_del_Apocalipsis|Piedra]]—, el objeto triádico que decide el cosmos, cada uno ligado eternamente a la suya. Con ella sacrifican a los dioses del orden viejo ([[Lucifer]], [[Asmodeus]], [[Grazzt|Graz'zt]], Dios) y se erigen ellos mismos en panteón del nuevo: los héroes del cierre devienen los dioses de la creación siguiente —[[Tailoor]], [[Antino]], [[Garkhan]]— sobre el par primigenio Terra y [[Antiterra]].* — glosa de Arkos.
+<!-- /CICLO -->

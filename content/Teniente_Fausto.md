@@ -21,7 +21,12 @@ La imprenta federal ya no existe. Las catacumbas retumbaron el día que estalló
 
 ## Vínculos
 - [[Torregrises]] — el cosmos troncal bajo cuyo nombre (Santa María de Torregrises) opera la capital rosista
-- [[Fortin_de_la_Estrella_Federal]] — lugar de exilio inicial; primer escenario de la campaña
+- [[Fortin_de_la_Estrella_Federal]] — lugar de exilio inicial; primer escenario de la gesta
 - [[Pepe_Bacchiano]] — compañero de conspiración en la red opositora urbana
 - [[Coronel_Carmin]] — el poder rosista que lo degradó y que luego lo rehabilitó a medias
 - [[Manzana_de_las_Luces_y_Catacumbas]] — las catacumbas que retumbaron cuando la imprenta fue destruida
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *El oficial federal degradado y desterrado al [[Fortin_de_la_Estrella_Federal|Fortín de la Estrella Federal]] traza, en clave de juego, la figura histórica del militar rosista caído en desgracia y luego reciclado por el régimen: ayudó a escapar a perseguidos por la mazorca, fue rehabilitado a medias, y volvió a la capital como infiltrado entre las células que vuelan las imprentas del [[Coronel_Carmin|Coronel Carmín]]. La voladura de la [[Manzana_de_las_Luces_y_Catacumbas|imprenta federal]] inscribe el episodio conspirativo del rosismo verbatim en la gesta.* — glosa del archivero del Plata.
+<!-- /CICLO -->

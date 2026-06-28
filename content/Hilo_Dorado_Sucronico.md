@@ -37,3 +37,8 @@ El hilo se dispara una sola vez por bengala. **Quien lo dispara es transportado 
 - [[Mensaje_de_si_mismo_carta_temporal|La carta del propio yo]] — par cronomántico de baja energía
 - [[Ripple_Effect|La cascada del tiempo]] — efecto colateral del viaje
 - [[Time_Bandits]] — operadores documentados del hilo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳
+> *El tiempo aquí se dispara como una bengala: un solo tiro por cartucho y el operador sale del tiempo en que estaba, arrancado a otra era que el cosmos elige por él. Los [[Time_Bandits]] lo gastan como munición; su par de baja energía es [[Mensaje_de_si_mismo_carta_temporal|la carta del propio yo]], y su estela es el [[Ripple_Effect|efecto cascada]]. El reloj que queda en el suelo es la marca exacta del tropo: el tiempo del que se parte queda sin testigo, mercancía consumida de un disparo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

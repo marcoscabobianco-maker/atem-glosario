@@ -26,3 +26,8 @@ aliases:
 - [[Coloscan|Coloscan]]
 - [[Biblioteca_de_los_Heresiarcas|Biblioteca de los Heresiarcas]]
 - [[Hecate_Cacahuate|Hécate/"Cacahuate"]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *La ciudad-frontera del descenso: cien millas de torres rojas plantadas entre los Círculos 4 y 6 del [[Infierno]] de Dante, justo donde el Alto Inferno termina y empieza el Bajo. El grupo baja por una abertura de gigantes esqueléticos y elige instalarse en la [[Biblioteca_de_los_Heresiarcas]] —un estrato dentro del estrato—. La gobierna Hécate, que destronó a [[Pluton_CDI|Plutón]]: hasta en el piso de Dis quien derriba al que manda hereda el trono.* — glosa de Paulus.
+<!-- /CICLO -->

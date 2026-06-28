@@ -32,7 +32,7 @@ tags:
 
 ## Presentación
 
-Auro empezó como uno de los suyos. Era compañero del grupo de los héroes en Ciudades Invisibles —un compañero entre compañeros— hasta la **aniquilación del grupo entero** del que sólo él salió vivo. Vagó después por planos que la crónica no termina de inventariar. Reapareció con cuerpo nuevo, **reencarnado como halfling**, en una de esas curvas del Multiverso en las que la identidad se quiebra. En esa nueva vida encontró a **[[Coyote]]** —el general del vacío, hueco de ser, el que en otra mesa había sido jinete de wyverns de Krynn—. La alianza entre ambos fue inevitable. [[Coyote]] enseña a Auro qué hacer con el odio. Auro descubre el plan.
+Auro empezó como uno de los suyos. Era compañero del grupo de los héroes en Ciudades Invisibles —un compañero entre compañeros— hasta la **aniquilación del grupo entero** del que sólo él salió vivo. Vagó después por planos que la crónica no termina de inventariar. Reapareció con cuerpo nuevo, **reencarnado como halfling**, en una de esas curvas del Multiverso en las que la identidad se quiebra. En esa nueva vida encontró a **[[Coyote]]** —el general del vacío, hueco de ser, el que en otra gesta había sido jinete de wyverns de Krynn—. La alianza entre ambos fue inevitable. [[Coyote]] enseña a Auro qué hacer con el odio. Auro descubre el plan.
 
 La fórmula del plan es una sola frase, y se la conoce de memoria: *"Quiero que mueran todos"*. Antes la había dicho de otro modo —*"La guerra vale todo"*— y el archivo tomó nota. Pero ahora no es retórica. Es operación. Auro se convierte en **Jinete del Apocalipsis** —el de la Guerra—. Carga el título y la función. Golpea siempre primero: ningún defensor consigue adelantársele.
 
@@ -63,3 +63,8 @@ En el ciclo del final de [[Antiterra]], Auro entra como villano externo —no de
 - Monte Análogo — asalto, cinco portales abiertos
 - Zaira — finale, confrontación con el grupo
 - Antiterra, ciclo final — villano externo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⟳
+> *Empezó como compañero entre compañeros en [[Ciudades_Invisibles_campana|Ciudades Invisibles]], único sobreviviente de la aniquilación de su banda; reaparece como villano externo que [[Los_Reguladores]] deben enfrentar en el cierre. Y entre una vida y otra hereda un cargo: enviado a redimir al [[Jinete_de_la_Guerra|Jinete]] anterior, termina ocupando su silla —el que iba a relevar al guardián se vuelve guardián—. El [[Libro_de_los_Jinetes]] firma el traspaso; [[Coyote]] le enseña qué hacer con la función. Lo que A vio como un PJ de grupo (AA-G.1) y como una función rotativa (AA-R.1), en C es la misma rueda: la banda lo expulsa, el oficio lo recoge.* — glosa del archivero del Plata.
+<!-- /CICLO -->

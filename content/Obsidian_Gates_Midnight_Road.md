@@ -88,9 +88,9 @@ Las **Obsidian Gates & Midnight Road** son el **corazón del legado rudishva** d
 - **Múltiples Sigils** existen en este modelo cosmológico —no la única ciudad-rueda de Planescape, sino un **multiverso de Sigils**
 - El **Midnight Road rudishva** sería **canal de comunicación / acceso** entre la nave madre original y los puntos de despliegue ([[Ardis_Vala|Arden Vul]] como uno de ellos)
 
-**Implicaciones (campaña activa)**:
+**Implicaciones (gesta activa)**:
 
-- **Los teleporters rudishva** (T1-T25 documentados en el módulo) serían **fragmentos del sistema de teletransporte** de la nave madre Sigil
+- **Los teleporters rudishva** (los nodos T1 a T25 conocidos) serían **fragmentos del sistema de teletransporte** de la nave madre Sigil
 - **El [[Beacon_Faro_Brillante|Beacon]]** sería **componente o eco** de esa nave madre
 - **La [[Cristalizacion_Maquinas|cristalización de las máquinas]]** que destruyó la tecnología rudishva podría haber sido **mecanismo de ruptura** entre el Midnight Road y la nave madre original
 - **El cuerno verde pálido en las Puertas de Obsidiana** y los **códigos de [[RAJ-750]] / [[Akala]]** podrían tener **función dual**: invocar Kauket Y/O **reconectar con la primera Sigil**
@@ -108,10 +108,15 @@ En **Puertas de Obsidiana**: bóveda rudishva de alta seguridad. **El cuerno esp
 - **Psalor Ki**, **Oziman**, **Gog**, **Killik** — figuras
 - [[Reepsiq]] / [[Ziggurat_de_Kauket|Ziggurat de Kauket]] — el cuerno está aquí
 - [[Troll_Lifts_Arena|Troll Lifts]] — conectado por upper Troll Lift
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - Jornadas documentadas — [[Buscadores_de_Ardis_Vala|Buscadores]] entran a las Obsidian Gates
 - **Episodio Psalor Ki / Marguerite** — vivisector encantó a la party, guardó el huevo
 - **Templo secreto de Thoth** posiblemente visitado (vinculado a la muerte de [[Numa_Pompidio]])
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Estrato L05 del [[Mega_Dungeon_Arden_Vul]], el corazón rudishva: bajo el Hall of Forty Pillars se hunde la Midnight Road wardada y casi impenetrable, y a un lado se abre el [[Beacon_Faro_Brillante|Great Chasm]] que perfora hacia el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]]. Cada capa guarda su era y su monstruo —[[Psalor_Ki]] el vivisector, Oziman el falso avatar de Thoth—, y aquí, en la bóveda de las Puertas de Obsidiana, espera el cuerno verde pálido que [[Reepsiq]] necesita, custodiado por [[RAJ-750]] y [[Akala|AKL-600]]. Descender por el dungeon es leer hacia abajo el tiempo de las razas que lo construyeron.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -24,3 +24,8 @@ Reunión sin precedentes de TODOS los [[Guardianes]] de las plataformas zodiacal
 Este es probablemente el evento central de la jornada grupal posterior al crossover. Conecta con la reunión de [[Guardianes]] mencionada en [[Paris_Ucronica|París Ucrónica]]. Ver **[[Guardianes]] Ucrónicos**, **[[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]**, **Lucifer**, **[[Franja_de_Disolucion|Franja de Disolución]]**.
 
 **Ref.:** Crossover archivos ("al carnaval de Venecia"), (organización [[GRDT]] + Lucifer).
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⟳
+> *La única vez que todos los [[Guardianes]] de las plataformas zodiacales se reúnen a la vez, bajo máscara y santuario de no-agresión en Venecia. Doble agenda: gala de [[GRDT]] y lobby de [[Lucifer]] para evacuar [[Antiterra_Demonia|Antiterra]] a su mundo de refugio —el hemisferio que recibe al hemisferio que se cae. Si los antiterranos cruzan, las [[Plataformas_Zodiacales_Guardianes_TNW|plataformas]] quedan en suspensión o se abren, y se espera que GRDT revele el secreto de que Antiterra no se destruya. Los doce guardianes del oficio rotativo, sentados a una misma mesa, negociando qué cosmos hereda al otro.* — glosa del archivero del Plata.
+<!-- /CICLO -->

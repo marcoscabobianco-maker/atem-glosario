@@ -8,7 +8,7 @@ aliases:
 ![[Imagenes_Tier1/Wok_Magico_de_Gideon.png]]
 <!-- /HEADER_IMG -->
 
-Wok de hierro con fórmulas latinas grabadas y espátula. Artefacto icónico de [[Gideon|Gideon]], el paladín que llegó a [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] desde la campaña "Age of Worms". El wok mágico es el rasgo distintivo con que el archivo recuerda a [[Gideon]]: un objeto doméstico elevado a herramienta sagrada, emblema de un paladín que combina lo marcial con lo cotidiano. En la fase de cierre, [[Gideon]] porta la última Hostia y custodia la [[Plataforma_Virgo|Plataforma de Virgo]].
+Wok de hierro con fórmulas latinas grabadas y espátula. Artefacto icónico de [[Gideon|Gideon]], el paladín que llegó a [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] desde la saga "Age of Worms". El wok mágico es el rasgo distintivo con que el archivo recuerda a [[Gideon]]: un objeto doméstico elevado a herramienta sagrada, emblema de un paladín que combina lo marcial con lo cotidiano. En la fase de cierre, [[Gideon]] porta la última Hostia y custodia la [[Plataforma_Virgo|Plataforma de Virgo]].
 
 ## Vínculos
 

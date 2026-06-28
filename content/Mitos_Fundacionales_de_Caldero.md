@@ -101,3 +101,8 @@ imagen: null
 - **Período del Papa Borg** — represión parcial del corpus; conservación clandestina serpentina
 - **Diciembre 1824 AE** — fijación parcial en el compilado de [[Mascor_Blancarba]]
 - **1824 AE — ciclo presente** — corpus activo en triangulación entre fuentes; doctrina operativa de las tres lecturas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *El corpus que sostiene a [[Caldero]] está armado sobre pares que se contagian: el [[Aguila_Asvila|Águila Asvila]] solar y la [[Serpiente_Luna_Auna|Serpiente-Luna Auna]] nocturna son opuestos complementarios, y el [[Mito_de_los_Amantes_y_la_Serpiente_Lunar|pacto Sol-Luna]] de Ishen y Nalía sella el día contra la noche. La lectura cristalina de la [[Casa_Azul_de_Vala]] lo lee todo como las capas del mundo-gema [[Vala_Cristalis]]: hemisferios que no entran en ciclo sin tocarse.* — glosa del Decadiano.
+<!-- /CICLO -->

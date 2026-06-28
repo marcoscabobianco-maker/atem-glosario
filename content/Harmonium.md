@@ -11,49 +11,34 @@ aliases:
  - "Hardheads"
 ---
 
-> Una de las facciones canónicas de Sigil (Planescape). Fuerza de orden y unificación. Aparece en el ciclo como facción operativa cuando los compañeros transitan Sigil.
+> Una de las facciones de Sigil: fuerza de orden y unificación. Aparece en la gesta como facción operativa cuando los compañeros transitan la Ciudad de las Puertas.
 
-## Origen en D&D / Planescape
+## La facción del orden
 
-El **Harmonium** (apodo despectivo: "Hardheads") es una de las **quince facciones** canónicas de Sigil, ciudad-puerto interplanar:
+El **Harmonium** —que sus detractores apodan los *"Hardheads"*, cabezas duras— es una de las quince facciones que se reparten el gobierno de [[Sigil]], la ciudad-puerto interplanar:
 
-- **Filosofía**: "harmony through unity through dominance" — paz mediante dominación benévola. Alineamiento típico Lawful Neutral / Lawful Good.
-- **Rol en Sigil**: fuerza policial / guardia urbana de facto.
-- **Origen**: plano de Arcadia (Lawful Neutral con tendencia Good).
-- **Símbolo**: tres anillos entrelazados (paz, orden, armonía).
+- **Su credo**: *"armonía por la unidad, unidad por el dominio"* —la paz mediante una dominación que se piensa benévola—. Gente de ley y de orden.
+- **Su oficio en Sigil**: la fuerza de vigilancia, la guardia urbana de hecho.
+- **Su origen**: el plano de **Arcadia**, dominio del orden benévolo.
+- **Su divisa**: tres anillos entrelazados —paz, orden, armonía—.
 
-> Fuente externa: *Planescape Campaign Setting* (TSR, 1994), *Factols' Manifesto* (TSR, 1995).
+## En la gesta
 
-## Acepción en el cosmos compartido
+El Harmonium aparece como facción funcional en Sigil cuando los compañeros tratan con la ciudad. Referido desde [[Sigil]].
 
-El Harmonium aparece en el cosmos compartido como **facción funcional en Sigil** cuando los compañeros interactúan con la ciudad. Referenciado desde [[Sigil]].md.
+Apariciones (pendiente expandir):
+- Encuentros donde los Hardheads operan como guardia de Sigil.
+- Posible roce con los [[Reguladores_Jabalina|Reguladores]] o con [[Los_Profundos]] en arcos de [[Antiterra_Demonia|Antiterra]].
 
-**Apariciones documentadas (pendiente expandir):**
-- Encuentros operativos en Sigil donde los Hardheads aparecen como guardia.
-- Posible interacción con [[Reguladores_Jabalina|Reguladores Jabalina]] / [[Los_Profundos|Los Profundos]] en arcos de [[Antiterra_Demonia|Antiterra]].
-
-## Función diegética en el ciclo
+## Función en el ciclo
 
 El Harmonium opera como:
-- **Filtro narrativo**: pone fricción a compañeros que entran a Sigil con misiones "irregulares" (la mayoría).
-- **Representación de orden**: contraste con facciones más caóticas (Anarchists, [[Doomguard]], etc.).
-- **Conexión Arcadia**: enlace planar a Arcadia, plano de orden benévolo.
-
-## Recontextualización MC
-
-El Harmonium entra al cosmos compartido **sin reescritura** del canon Planescape — es importación operativa. lo usa cuando necesita un cuerpo policial planar reconocible.
-
-- ¿Algún compañero ha sido detenido / juzgado por el Harmonium?
-- ¿Algún compañero ha sido miembro del Harmonium?
-- ¿Cómo se relaciona con la **[[Dama_del_Dolor|Dama del Dolor]]** (regente de Sigil) y con las otras facciones?
-
-## Nota lateral
-
-> Importación canónica de Planescape. Apariciones específicas en el ciclo pendientes de catalogar.
+- **Fricción**: pone trabas a los compañeros que entran a Sigil con encargos "irregulares" —casi todos—.
+- **Figura del orden**: contraste con las facciones más caóticas (los Anarquistas, [[Doomguard]]).
+- **Puerta a Arcadia**: enlace al plano del orden benévolo.
 
 ## Ver también
 
 - [[Sigil]] (su ciudad)
 - [[Dama_del_Dolor|Dama del Dolor]] (regente, autoridad superior)
 - [[Sigil_Ciudad_de_las_Puertas_contexto_Reguladores|Sigil — contexto Reguladores]]
-- Otras facciones Sigil (pendiente crear: Anarchists, [[Doomguard]], etc.)

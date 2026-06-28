@@ -43,3 +43,8 @@ La doctrina del Plata lee las tres apariencias como una sola pregunta repetida: 
 - [[Azufre_Rojo]] — el alquimista cuyo nombre es nombre de la Piedra (*Sulphur Rubeum*)
 - [[Uroboros]] — la serpiente que se muerde la cola; el ciclo que envuelve la Obra
 - [[Las_Dieciseis_Posiciones]] — el método del archivo que identifica recurrencias como ésta
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ☷
+> *El objeto final de la Gran Obra que reaparece bajo tres caras en crónicas que no comparten siglo ni compañía: piedra que administran los inmortales de [[Torreluces]], esfera dorada adorada en secreto por [[Tii_TiiMhut|Tii]] y [[Ai]] en el Egipto del ciclo, huevo de la serpienta custodiado en el [[Laberinto_Omniporal]] — un compuesto trans-campaña cuya cifra es el [[Uroboros]] que se muerde la cola. Lo que [[Cakravartin]] persigue con sus huevos de dragón metálicos no es un tesoro local sino el mismo absoluto que se busca bajando: la piedra está siempre al fondo, y a su seno —fuera del espacio convencional— hay que descender. Lo que el archivo aisló como objeto de triple identificación es, en su lectura final, una sola casa repetida.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -150,3 +150,8 @@ El cronista decadiano cierra esta entrada con la fórmula que el archivo conserv
 - **~2639 AEP — Reocupación archontea de Irthuin** — la presencia teósofa continúa como permeación difusa
 - **Ciclo presente, ciclo primero del valle** — los [[Buscadores_de_Ardis_Vala|Buscadores]] encuentran presencias teósofas residuales en los niveles del dungeon
 - **Post-Hiato — Convergencia papal hipotética** — el aparato teósofo difuso puede converger con la centralización del papado contra los [[Priscians]]-Sortianos
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Facción vencida que sobrevive hundiéndose en capas: ganaron la guerra del Cisma en 1775 AEP y luego se replegaron, estrato tras estrato, de cuerpo institucional a permeación difusa en el Collegium of Cinders y los atrios privados. El [[Mega_Dungeon_Arden_Vul]] conserva ese descenso como geología —cinco enclaves residuales apilados en sus niveles: [[Halls_of_Thoth_Nivel|Halls of Thoth]], [[Forum_de_Set|Forum of Set]], el Templo Secreto que Oziman corrompió, un lich teósofo, la [[Library_of_Thoth]]—. La doctrina vencedora terminó sepultada en los pisos de la misma [[Ardis_Vala]] que su victoria arruinó.* — glosa de Arkos.
+<!-- /CICLO -->

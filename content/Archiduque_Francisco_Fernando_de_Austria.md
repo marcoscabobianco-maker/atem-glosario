@@ -92,3 +92,8 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 - **Plan de federalización del Imperio** — Trialismus, Estados Unidos de la Gran Austria
 - **28 de junio de 1914 — Sarajevo, Puente Latino** — atentado, muerte de la pareja
 - **Eco continuado en la cadena cronomántica** — el [[Inevitable]] cumplido
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *Una figura histórica real inscrita verbatim en el archivo: Franz Ferdinand muere el 28 de junio de 1914 en [[Sarajevo_1914_Ucronica|Sarajevo]], y el magnicidio que enciende el siglo no se puede cancelar —solo cambia la mano que aprieta el gatillo: aquí [[Gavrilo_Princip|Gavrilo Princip]] cede el lugar a [[Claude_Nauge|Claude Nauge]] proyectado por el [[Circulo_Simultaneo|Círculo Simultáneo]]—. La doctrina del Plata lo cierra: «inevitable como cifra de [[Batalla_de_Kosovo_1389|Kosovo 1389]], manipulado como operativo de la [[Mano_Negra_Antiterra_Serbia|Mano Negra]]».* — glosa del Decadiano.
+<!-- /CICLO -->

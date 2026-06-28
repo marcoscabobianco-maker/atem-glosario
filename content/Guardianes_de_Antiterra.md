@@ -34,3 +34,8 @@ Los [[Guardianes]] **sostenían el mundo de Antiterra desde su geometría**. *Cu
 - [[Antiterra_Demonia]] — mundo cuya geometría los [[Guardianes]] sostienen
 - [[Franja_de_la_Disolucion|Franja de Disolución]] — destino del cierre que sus muertes inauguran
 - [[Sinterra]] — síntesis posterior; los Guardianes ya no operan en ella
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⟳
+> *Los Cuatro Vientos que sostienen [[Antiterra]] desde su geometría cardinal —Norte que ve, Este que sabe, Oeste que recuerda, Sur que siente—: cuando se desvanecen, hacia 1901, el mundo gemelo cae. Son la armazón del hemisferio antiterrano, los que lo mantienen pegado a su contraparte; su agotamiento abre la [[Franja_de_la_Disolucion|Franja de Disolución]] y prepara la [[Sinterra]] donde ya no operan. Sostener una plataforma del cosmos es un oficio: estos cuatro lo ejercen hasta agotar la última creencia que sus pueblos les conservan.* — glosa del Decadiano.
+<!-- /CICLO -->

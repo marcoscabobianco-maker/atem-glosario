@@ -43,3 +43,8 @@ muerte en [[Alejandria|Alejandría]]); p. 19 (arco 1946? con Tasker Bliss).
 
 No confundir con el concepto filosófico del mismo nombre.
 Ver **[[Los_Reguladores|Los Reguladores]]**, **[[Juego_de_las_Sombras|Juego de las Sombras]] / [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]**.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⟳
+> *Homo Magus que lidera el primer grupo, la semilla de [[Los_Reguladores|Los Reguladores]] en [[Antiterra_Demonia|Antiterra]]: nombre de banda antes que de hombre. Su telekinesis propulsa al grupo en vuelo desde el [[Mediterraneo_Ucronico|Mediterráneo]] hasta [[Alejandria|Alejandría]], donde se vuelve Guardián de Libra —una de las plataformas zodiacales— y muere en esa función. El oficio rota: el puesto sigue, y en 1946 reaparece él o su sucesor junto a Tasker Bliss. Quien ocupa la casilla del zodíaco hereda su carga, aunque el cuerpo caiga.* — glosa de Amitlai.
+<!-- /CICLO -->

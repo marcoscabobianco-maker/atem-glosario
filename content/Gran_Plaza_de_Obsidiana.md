@@ -105,3 +105,8 @@ imagen: null
 - **~1812 AE — Día de la caída** — besamiento profetizado, ruptura del sello, juicio de la Giganta, aplastamiento del Papa, desvanecimiento con estela de ceniza dorada
 - **Período post-papado** — Plaza con cicatrices conservadas, culto popular fundado
 - **1824 AE — ciclo presente** — espacio cívico-cosmológico activo, anticipación abierta de nueva operación
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *La estrella de obsidiana es la cara visible de una [[Plataformas_de_Vala_Ely|Plataforma primigenia]] del mundo-gema: piso de un cosmos que se talló como arca cuando Terra y [[Antiterra]] iban a colisionar, y por eso «foco de energía celestial» —la pasarela entre planos respira debajo aunque esté estancada—. Besar el centro abría el descenso al otro lado; bajo ella duerme la [[Giganta_Antigua]] sellada, y las grietas de 1812 AE recuerdan el día en que el sello se rompió. El mismo principio dual que en [[Vala_Cristalis]] hace de la gema un mundo cerrado.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

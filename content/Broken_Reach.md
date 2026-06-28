@@ -32,7 +32,7 @@ El documento Skronamon describe la ambientación: tenores rojos en las planicies
 
 ## Notas
 
-El nombre "Broken Reach" coincide con una localidad planar en la cosmología de Planescape (D&D). En el cosmos compartido parece funcionar como un nodo entre lo histórico (Adulis) y lo planar (portal al [[Abismo]] / [[Azzagrat]]). La descripción de la mujer pelirroja con mortaja roja evoca una figura de autoridad femenina asociada al rojo/muerte.
+El nombre "Broken Reach" es también el de una localidad planar de la cosmología compartida. En el cosmos parece funcionar como un nodo entre lo histórico (Adulis) y lo planar (portal al [[Abismo]] / [[Azzagrat]]). La descripción de la mujer pelirroja con mortaja roja evoca una figura de autoridad femenina asociada al rojo/muerte.
 
 ## Ver también
 

@@ -126,3 +126,8 @@ Conviene cerrar con la cifra. **Tii no es Tiamat entera.** Pero conserva:
 - **1401 D.R.** — toma de Egipto con Ai como consorte
 - **Descenso de los compañeros al pasado de Andgara** — confrontación; huida del avatar
 - **Asesinato del [[Patriarca]]** — fecha sin precisar, fórmula conservada textual
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ✒
+> *La madre cósmica no se vence: se guarda bajo un rostro humano y espera la geografía que le convenga —viuda en [[Waterdeep]], Reina Madre en la corte egipcia de [[Amitlai]]—, conservando uno de los cinco rostros de [[Tiamat_MC|la Reina Oscura]] para cuando se manifieste sin disfraz. Cuando los compañeros la confrontan en [[Angara_Andgara|Andgara]] sólo logran que huya, no que muera. Y quien cuenta todo esto es el [[Arkos|archivero del Plata]], que "no estuvo pero leyó los archivos que estuvieron": la regla operativa —a la Reina no se la enfrenta en su tiempo— la dicta una voz interna al archivo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

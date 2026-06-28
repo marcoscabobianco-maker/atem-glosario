@@ -59,7 +59,7 @@ Los Halflings de Plumthorn son **la primera barrera** que los aventureros encuen
 - **[[Goblins_Weskenim|Goblins de King Weskenim]]** — enemigos
 - [[Ritornello]], [[Narsileon]] — destinos del veneno comerciado
 - [[Beastmen_Niños_de_Deino]] — vecinos rivales
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

@@ -46,3 +46,8 @@ período de juego, eje temporal, demás miembros.
 - [[Tailoor|Tailoor]]
 - [[Oratiol|Oratiol]]
 - [[Lotario|Lotario]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ※ ✦
+> *La banda aventurera de la gesta de [[Vala_Antigua|Vala Antigua]], la Mesopotamia mítica de [[Uruk_(capital)_y_Casa_Azul|Uruk]] y la [[Casa_Azul_de_Vala|Casa Azul]]: rescatan a la paladina [[Thalia_Cristalia|Thalia Cristalia]] del umbral de los muertos en el [[Valle_de_la_Tempestad]]. Su miembro principal cifra su identidad en el nombre mismo —[[Oratiol]] → [[Lotario]] → [[Lotario|Tailoor]], siete letras barajadas que mantienen una sola continuidad de alma a través de grupos y épocas—; el grupo se llama, coherente, los rompe-palabras. Y como cierra el ciclo: los sobrevivientes fueron deificados en el panteón de [[Los_Supremos]].* — glosa de Amitlai.
+<!-- /CICLO -->

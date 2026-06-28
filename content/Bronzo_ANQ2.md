@@ -1,15 +1,24 @@
 ---
-categoria: lugar
+title: "Bronzo ANQ2"
 aliases:
- - "Bronzo (ANQ2)"
- - "ANQ2"
- - "Bronzo"
+ - "Bronzo_ANQ2"
+en_construccion: true
 ---
 
-# Bronzo (ANQ2)
+> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo.*
 
-## Presentación
+## Referencias entrantes
 
-**Agregar:**
-> Transporta al grupo desde Chihuahua al Golfo de México. Interviene en combate contra dos dragones (rojo y verde) en el templo, golpeando paredes. Marca un círculo de teleportación. Relación constante con el grupo como transporte y apoyo de combate.
-> **Ref.:** sesiones documentadas.
+- (sin referencias entrantes detectadas)
+
+---
+
+*Aparición específica de [[Bronzo]] en el ciclo ANQ2: combate aéreo contra dragones (rojo y verde) en el templo; marca círculo de teleportación. Ver entrada principal.*
+
+## Vinculos
+
+- [[Bronzo]] — entrada principal del dragón de bronce; esta ficha registra su aparición específica en ANQ2
+- [[Cakravartin]] — señor de [[Bronzo]], rey de la [[Atlantida_Alta_y_Baja|Atlántida]]
+- [[Atlantida_Alta_y_Baja|Atlántida]] — reino de origen del dragón
+- [[Los_Profundos]] — grupo al que [[Bronzo]] transporta y sirve de agente
+- [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]] — el juego cósmico en el que Bronzo inserta al grupo

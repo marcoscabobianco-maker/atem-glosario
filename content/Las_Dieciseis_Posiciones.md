@@ -220,3 +220,8 @@ Quien recorra las dieciséis posiciones notará lo que el archivero subraya con 
 - [[Juego_de_las_Sombras_Plataformas_Zodiacales|el Juego de las Sombras]] — la institución cósmica que el tratado teoriza
 - [[Corrupcion_Dual|la Corrupción Dual]] — la regla de la posición duodécima
 - [[Cronica_del_Archivo|la Crónica del Archivo]] — la rueda de las eras donde el Juego gira
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⟳ ☷ ☯
+> *El tratado que reconstruye las regularidades del [[Ludus_Umbrarum|Juego de las Sombras]] toca casi todas las casas del ciclo a la vez: la banda nombrada se bautiza y rebautiza (Φ2: [[Los_Profundos]], [[Rintrah]]); el guardián se releva —«quien vence al guardián se convierte en el guardián»— en la [[Corrupcion_Dual|Corrupción Dual]] y en [[Erzebeth]] (Φ12); el mundo desciende por estratos (Φ5: [[Cimientos_los_TG|los Cimientos]], el [[Campana_Dante_S_Inferno_CDI|Descenso]]) y cae para separar una era de otra (Φ13). Y la última posición, Φ16, no cierra: la misma mano vuelve por anagrama y por compañía heredera —[[Lotario]]→[[Oratiol]], [[Los_Profundos]]→[[Los_Reguladores]]—, porque este archivo no produce finales, archiva.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -64,9 +64,6 @@ analytical_notes:
   - by: claude
     date: 2026-05-19
     note: "Palimpsesto declarado: lo presenta como narración consolidada de Amitlai/Clarisa, no como cuaderno primigenio."
-  - by: 
-    date: 2026-03-23
-    note: "Sucesión Amitlai → Clarisa confirmada como herencia diegética del oficio de cronista."
 
 # === Cockpit Obsidian ===
 categoria: documento
@@ -82,88 +79,57 @@ tags:
 ![[Imagenes_Tier1/Calendario.png]]
 <!-- /HEADER_IMG -->
 
-> **Esta entrada se refiere al DOCUMENTO Calendario** —la cronología consolidada que [[Amitlai]] y [[Clarisa]] escriben dentro del juego—.
+> **Esta entrada se refiere al DOCUMENTO Calendario** —la cronología consolidada que [[Amitlai]] y [[Clarisa]] escriben dentro del cosmos—.
 >
-> **No confundir con [[Estela_Nereida|Estela como "Chica Calendario 1902"]]**, modelo de litografía Belle Époque que circuló por París uchrónico en portada del *Imprimerie Verneau & Cie*. La nereida del chal y el documento son cosas distintas: el documento, sin embargo, registra muchas apariciones de [[Estela_Nereida|Estela]] y otras figuras del archivo.
+> **No confundir con [[Estela_Nereida|Estela como "Chica Calendario 1902"]]**, la litografía Belle Époque que circuló por el París uchrónico. La nereida del chal y el documento son cosas distintas: el documento, sin embargo, registra muchas apariciones de [[Estela_Nereida|Estela]] y otras figuras del archivo.
 
-> Cronología consolidada del cosmos compartido, escrita en situación lúdica por [[Amitlai]] (compañero-cronista) y heredada por [[Clarisa]]. Fuente lúdica primaria del archivo.
+> Cronología consolidada del cosmos compartido, escrita por [[Amitlai]] —compañero-cronista— y heredada por [[Clarisa]]. Es la fuente de la que el archivo bebe para ordenar la historia del mundo.
 
-## Fuente primaria
+## La crónica de Amitlai
 
-**Calendario merged.doc** — documento físico en `G:\Mi unidad\02_ROL_Y_MEGACAMPAÑA\ATEM\meta\fuentes\MC\`. Encabezado original: *"Cronología desde el punto de vista de [[Amitlai]]"*. Construido por entre 2005 y 2018 como narración interna del compañero [[Amitlai]].
+El Calendario es la **cronología que [[Amitlai]] levanta desde dentro del mundo**: no la mira un cronista externo, la escribe un compañero que vivió los hechos. Su encabezado lo dice sin ambages: *"Cronología desde el punto de vista de Amitlai"*. Por eso vale como fuente viva y no como reconstrucción tardía: quien narra estuvo ahí.
 
-> *"Calendario ciclo"* — versión paralela en `01_ACADEMIA/Académicas/Cronicas y Relatos/Calendario ciclo.gdoc` (Google Doc).
+## La sucesión en la pluma
 
-> *"Calendario ciclo 29-Aug-2018 12-22-04.pdf"* — snapshot PDF de 2018 en `05_PERSONAL/FastScannerApp/PDFs/`.
+El Calendario es **trabajo de cronistas, heredado de mano en mano**:
 
-## Función en el cosmos compartido
+1. **[[Amitlai]]** — el cronista original, cuya escritura acompaña la cronología que cubre, de los Reinos Olvidados a [[Antiterra]].
+2. **[[Clarisa]]** — la heredera, que toma la posta tras Amitlai: *"así como [[Arcoms_Cosmar|Arcoms]] fue Maestro Bibliotecario en el concilio de [[Myth_Drannor]], Clarisa toma la posta como bibliotecaria y continúa la escritura del Calendario"* (ver [[Clarisa]]).
 
-El Calendario es la **fuente lúdica primaria** de para consolidar la cronología cósmica. Según la jerarquía de fuentes (Constitución §3):
+Ambos cronistas nacidos de la misma mano —una sola mano detrás de los dos—.
 
-| Tipo | Status | El Calendario es... |
-|---|---|---|
-| Cuadernos manuscritos (C1-C123) | Lo más antiguo es lo más real | mayor antigüedad |
-| Transcripciones digitales (M_CXX.docx) | Fuente primaria derivada | mayor antigüedad |
-| **Calendario / Glosario** | **Fuente lúdica primaria (consolidación dentro del juego)** | **← el Calendario** |
-| Grabaciones | Registro asertórico directo | mayor antigüedad |
-| Mitologizaciones posteriores | Palimpsesto válido SI declara | mayor antigüedad |
+## Lo que el Calendario registra
 
-A diferencia de un documento meta, el Calendario está escrito **desde dentro del juego** — [[Amitlai]] (compañero) narra los eventos cósmicos en primera persona, lo que lo hace "fuente lúdica" y no mera consolidación interpretativa.
-
-## Sucesión en la escritura
-
-El Calendario es **trabajo de cronistas**, herencia entre compañeros:
-
-1. **[[Amitlai]]** — cronista original. Período de escritura coincide con la cronología que cubre (Reinos Olvidados → [[Antiterra]]). Frase recurrente: *"Cronología desde el punto de vista de Amitlai"*.
-2. **[[Clarisa]]** — heredera, asume la escritura tras la muerte/sucesión de Amitlai. *"Heredera del oficio de su padre [[Arcoms_Cosmar|Arcoms Cosmar]]: así como [[Arcoms_Cosmar|Arcoms]] fue Maestro Bibliotecario en el concilio de [[Myth_Drannor]], [[Clarisa]] toma la posta como bibliotecaria y asume la escritura del Calendario, continuando la labor narrativa de Amitlai"* (ver [[Clarisa]]).
-
-Ambos compañeros jugados por **figura del archivo** — ver figura del archivo para la conexión asertórica.
-
-## Contenidos principales del Calendario
-
-Eventos cosmogónicos canónicos extraídos del Calendario merged:
+Algunos de los hechos cosmogónicos que la crónica conserva:
 
 ### Cosmogonía y Magia Dual
 
-> *"[[Pablo_de_Alejandria|Pablo]] es como Prometeo. Le robó cierto fuego capaz de quemar a los mismos dioses: la [[Magia_dual|magia dual]]. Ese secreto poderoso, cual tabla donde escribir nuevos destinos fue aprovechado por un ente de destrucción calma y poderosa: [[Tiamat_MC|Tiamat]]."* (par 18)
+> *"[[Pablo_de_Alejandria|Pablo]] es como Prometeo. Le robó cierto fuego capaz de quemar a los mismos dioses: la [[Magia_dual|magia dual]]. Ese secreto poderoso, cual tabla donde escribir nuevos destinos, fue aprovechado por un ente de destrucción calma y poderosa: [[Tiamat_MC|Tiamat]]."*
 
 ### Juicio Final — 1375 DR
 
-> *"1375 DR [[Juicio_Final]]. [[Minaya_MC|Minaya]] (27 años) y [[Soluna|Soluna]] vencen a Takhishis utilizando la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]]. Los dioses vuelven atrás en el tiempo hasta el 1348 DR."* (par 200)
+> *"1375 DR. [[Juicio_Final]]. [[Minaya_MC|Minaya]] (27 años) y [[Soluna|Soluna]] vencen a Takhishis utilizando la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]]. Los dioses vuelven atrás en el tiempo hasta el 1348 DR."*
 
 ### Danza del Conocimiento — 1368 DR
 
-> *"1368 DR - Marpenoth 6 (octubre, otoño/caída de hojas) Comienzo de la danza del conocimiento. A Minaya se le revela su pasado y el de sus progenitores. Marpenoth. [[Coyote]] es sacrificado por [[Kaxathros|Kaxatros]]. Su alma atrapada en una gema."* (par 197)
+> *"1368 DR — Marpenoth 6. Comienzo de la danza del conocimiento. A Minaya se le revela su pasado y el de sus progenitores. [[Coyote]] es sacrificado por [[Kaxathros|Kaxatros]]. Su alma atrapada en una gema."*
 
 ### Historia de Natalio — 348 DR
 
-> *"348 DR Historia de Natalio. Primer contacto con la sombra, el Trasgo. El dragón Negro. Se aspecta el concilio de las narices que Tiamat mete en Andgara."* (par 82)
+> *"348 DR. Historia de Natalio. Primer contacto con la sombra, el Trasgo. El dragón Negro. Se aspecta el concilio de las narices que Tiamat mete en Andgara."*
 
 ### Coyote llega a los Reinos Olvidados — 1348 DR
 
-> *"1348 DR [[Coyote]] llega a los Reinos Olvidados. Conoce a Tii y a Zara, la drow. Ella y [[Coyote]] engendran a Minaya. Arribo de Coyote, agente de Tiamat, a una posada de Mirabar... "* (par 121)
+> *"1348 DR. [[Coyote]] llega a los Reinos Olvidados. Conoce a Tii y a Zara, la drow. Ella y Coyote engendran a Minaya. Arribo de Coyote, agente de Tiamat, a una posada de Mirabar."*
 
 ### Nacimiento de Elisteo — 1349 DR
 
-> *"1349 DR Nace [[Elisteo]], hijo de [[Clarisa|Clarissa]] (II) y [[Minaya_MC|Minaya]], en el Primario conocido como Andgara o La Tierra. Ella no lo nombra. Su nombre lo recibe de sus padres adoptivos."* (par 281)
-
-(Más en el Calendario merged.doc — pendiente mineria sistemática para extracción de todos los eventos.)
-
-## Nota lateral
-
-> Documento construido por **el cronista** entre 2005 y 2018. Originado como ejercicio narrativo en voz de Amitlai (compañero). Multiples versiones: `.doc` original, `.gdoc` espejo en Académicas, `.pdf` snapshot agosto 2018. En 2026 sigue siendo fuente lúdica primaria del archivo.
-
-## Notas
-
-- El Calendario es **palimpsesto declarado** (Constitución §5): lo presenta como narración consolidada de Amitlai/Clarisa, no como cuaderno primigenio. Las afirmaciones del Calendario son fuentes lúdicas válidas, pero deben citarse marcando que provienen del Calendario y no del cuaderno físico original.
-- Hay un proyecto pendiente: **extraer sistemáticamente todos los eventos del Calendario** y generar `MC_LINEA_TEMPORAL.md` consolidado a partir de él (parcialmente hecho, ver `meta/`).
+> *"1349 DR. Nace [[Elisteo]], hijo de [[Clarisa|Clarissa]] (II) y [[Minaya_MC|Minaya]], en el Primario conocido como Andgara o La Tierra. Ella no lo nombra: su nombre lo recibe de sus padres adoptivos."*
 
 ## Ver también
 
 - [[Amitlai]] (cronista original)
 - [[Clarisa]] (heredera de la escritura)
-- una misma mano detrás de ambos
-- MC Línea Temporal (consolidación derivada — pendiente sincronización)
 - [[Gema_de_la_Creacion|Gema de la Creación]] (artefacto cuyo recorrido el Calendario documenta)
 - [[Magia_dual|Magia Dual]] (concepto cosmológico inicial)
 - [[Juicio_Final|Juicio Final 1375 DR]] (evento clave del Calendario)

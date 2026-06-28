@@ -16,5 +16,5 @@ Templar alquimista anciano con alembics y astrolabio. Maestro erudito que ocupa 
 - [[Temple_complejo_TE|Temple (complejo, TE)]] — el complejo donde habita; zona 10 y laboratorio de alquimia zona 7
 - [[Cripta_del_Temple]] — los niveles subterráneos donde se desarrolla el trabajo oculto alquímico
 - [[Hugo_de_Payns]] — superior de la Orden bajo cuyo periodo Glaucom enseñaba
-- [[Maestro_Glaucom_TE]] — la figura del mismo personaje en el plano operativo de la jornada
+- [[Maestro_Glaucom_TE]] — la figura del mismo personaje tal como aparece en la jornada
 - [[Jerusalorium]] — la ciudad donde se asienta el [[Temple_complejo_TE|Temple]] y la actividad de Glaucom

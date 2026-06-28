@@ -23,7 +23,7 @@ En las estepas de los pies del mundo, circa 1494 de la era que nadie nombra así
 
 Los emisarios que él designa no son diplomáticos. Son lo que queda cuando un mundo necesita algo entre un soldado y un símbolo.
 
-Hay una mujer pequeña, robusta, con rasgos de las estepas del norte y pieles de zorro en los hombros y pelo trenzado que cae como una cuerda. Se llama [[Sisi_CI|Sisi]]. Perdió la caravana en que nació cuando tenía años suficientes para entender el ruido pero no para detenerlo. Lo que sabe hacer bien, lo sabe hacer en silencio. Hay un ranger que viaja con un tigre albino, que se llama [[Iriscan]], y que antes de que la [[El_Juicio_Final_campana|campaña]] termine habrá visto a ese tigre recibir la chispa de algo más que instinto — una inteligencia que no debería caber en un animal y que sin embargo cabe, otorgada por un [[Annunaki]] que opera en las márgenes de lo que los clérigos llaman permitido. Hay un hechicero llamado [[Khalim]] que lleva consigo el peso de dos siglos que no recordó haber vivido, dormido entre el [[Mediterraneo_Ucronico|Mediterráneo]] del 270 y este umbral de Renacimiento como quien duerme en un [[El_Guerrero_tren|tren]] largo. Hay un paladín italiano que se llama [[Luca_CI|Luca]] y que viene de más atrás todavía: de Florencia, de una gesta con Dante, de una época en que el infierno se abrió por primera vez de manera inconveniente. Hay un hombre llamado [[Auro]].
+Hay una mujer pequeña, robusta, con rasgos de las estepas del norte y pieles de zorro en los hombros y pelo trenzado que cae como una cuerda. Se llama [[Sisi_CI|Sisi]]. Perdió la caravana en que nació cuando tenía años suficientes para entender el ruido pero no para detenerlo. Lo que sabe hacer bien, lo sabe hacer en silencio. Hay un ranger que viaja con un tigre albino, que se llama [[Iriscan]], y que antes de que la [[El_Juicio_Final_campana|gesta]] termine habrá visto a ese tigre recibir la chispa de algo más que instinto — una inteligencia que no debería caber en un animal y que sin embargo cabe, otorgada por un [[Annunaki]] que opera en las márgenes de lo que los clérigos llaman permitido. Hay un hechicero llamado [[Khalim]] que lleva consigo el peso de dos siglos que no recordó haber vivido, dormido entre el [[Mediterraneo_Ucronico|Mediterráneo]] del 270 y este umbral de Renacimiento como quien duerme en un [[El_Guerrero_tren|tren]] largo. Hay un paladín italiano que se llama [[Luca_CI|Luca]] y que viene de más atrás todavía: de Florencia, de una gesta con Dante, de una época en que el infierno se abrió por primera vez de manera inconveniente. Hay un hombre llamado [[Auro]].
 
 Auro es el arco que dobla hacia el vacío.
 
@@ -56,3 +56,8 @@ Urbes ocultas del multiverso, mencionadas en el contexto del mundo post-devastac
 ## Apariciones notables
 
 [[Paris_Ucronica|París Ucrónica]].
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⟳
+> *Urbes que la Segunda Guerra de las Sombras succionó del tiempo: existen sólo para quien ve la ausencia, y su redención se cobra en tiempo —[[Khalim]] cruza dos siglos dormido como en un tren largo, [[Zaira]] arde igual aunque todos elijan bien, y el cierre del [[Purgatorio]] no premia al que merece sino al que paga. Sobre ellas [[Auro]] muere, reencarna halfling y hereda el [[Jinete_de_la_Guerra]]: no el ser sino la función de la destrucción con horario, cargo rotativo que pasa de mano. Lo que A leyó como el cronocidio (AA-T.6) y B como la deuda temporal (AKB-D.1), en C es la casa donde el tiempo se gasta y el oficio se hereda.* — glosa del archivero del Plata.
+<!-- /CICLO -->

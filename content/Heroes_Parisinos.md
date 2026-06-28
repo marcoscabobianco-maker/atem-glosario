@@ -43,3 +43,8 @@ La empresa de 'Liberar [[Francia]] de la dominación diabla' define el marco de 
 ## Ver también
 
 - [[Jacques_el_Destripateur|Jacques el Destripateur]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⌖
+> *Grupo aventurero de París, 1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]], nombrado por su ciudad y su empresa: liberar a [[Francia]] de la dominación diabla, con [[Lord_Gaul|Lord Gaul]] por antagonista. La banda hereda el clima de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] un siglo antes —misma vocación libertadora, otra generación— y arrastra la Historia real al archivo: su episodio mayor es la aparición de [[Jacques_el_Destripateur]], transposición antiterrana de Jack el Destripador con carga sobrenatural. Que* Sucesos de Antiterra *los registre como referencia cronológica confirma su estatuto de sujeto colectivo del eje A.D.A.* — glosa de Sucesos.
+<!-- /CICLO -->

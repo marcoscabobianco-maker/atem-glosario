@@ -16,7 +16,7 @@ aliases:
 
 ## Presentación
 
-Personaje de. Ranger/combatiente especializado. Compañero animal: [[Moon_River|Moon River]] (tigre, luego [[Melody]], dinosauria). Participa en todas las fases principales de la campaña: redención de ciudades invisibles, rescate de [[Luca_CI|Luca]] en [[Tovag_Baragu|Tovag Baragu]], confrontación final en [[Zaira]]. Monta a [[Moon_River|Moon River]] en combate. En el clímax de [[Zaira]], elige el camino oscuridad→luz en el ritual de [[Pleroma]] y reencarna.
+Personaje de. Ranger/combatiente especializado. Compañero animal: [[Moon_River|Moon River]] (tigre, luego [[Melody]], dinosauria). Participa en todas las fases principales de la gesta: redención de ciudades invisibles, rescate de [[Luca_CI|Luca]] en [[Tovag_Baragu|Tovag Baragu]], confrontación final en [[Zaira]]. Monta a [[Moon_River|Moon River]] en combate. En el clímax de [[Zaira]], elige el camino oscuridad→luz en el ritual de [[Pleroma]] y reencarna.
 
 ## Apariciones notables
 

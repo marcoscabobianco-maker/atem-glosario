@@ -62,7 +62,7 @@ Cuando Silas regresó a Helix con los dos gemelos corrompidos —*"a último mom
 
 En el interior de la iglesia esperaban el [[Vicario_Otar]] y el clérigo [[Mortan]]. *Los dos gemelos se arrodillaron a pedir perdón*; Silas avanzó al altar. **Silas pidió su deseo**: *"Deseo saber el lugar de la tableta del caos"*. **Otar respondió**: *"Vas a morir antes."*
 
-*Y entonces ocurrió lo que el cronista del Plata anota como hecho doctrinal*: **el vicario y el clérigo lanzaron Hold Person simultáneamente sobre los tres invasores**. *"Casi como si se sincronizaron"*. **Los tres fallaron sus tres tiradas de salvación.** *"Medio Dios quiso"*, registró la mesa: las dos voces sacerdotales convergieron sobre la misma palabra y la palabra divina **paralizó**.
+*Y entonces ocurrió lo que el cronista del Plata anota como hecho doctrinal*: **el vicario y el clérigo lanzaron a la vez el conjuro que sujeta el cuerpo sobre los tres invasores**. *"Casi como si se sincronizaron"*. **Los tres fallaron en resistirlo.** *"Medio Dios quiso"*, dice el registro: las dos voces sacerdotales convergieron sobre la misma palabra y la palabra divina **paralizó**.
 
 A los dos gemelos los perdonaron —al calabozo, no al altar—. **A Silas le pusieron la cabeza contra el altar consagrado y le abrieron el cráneo de un golpe seco con maza**. *Murió antes de poder usar su deseo*; murió antes de conocer la ubicación de la [[Tableta_del_Caos]].
 
@@ -80,7 +80,7 @@ El brujo del umbral **murió sobre el umbral**: el altar que **separa lo divino 
 
 ## Vínculos
 
-- [[Mortan]] — clérigo bisagra que ejecutó Hold Person sincronizado con Otar
+- [[Mortan]] — clérigo bisagra que lanzó, sincronizado con Otar, el conjuro que sujeta el cuerpo
 - [[Vicario_Otar]] — autoridad eclesial que ordenó y participó de la ejecución
 - [[Quasi_demonio_menor]] — demonio que selló el pacto en la celda
 - [[Tableta_del_Caos]] — objeto-misión que Silas no alcanzó a conocer
@@ -96,4 +96,9 @@ El brujo del umbral **murió sobre el umbral**: el altar que **separa lo divino 
 - **Antes del cerco** — miembro operativo del grupo [[Novatos_Ravenloft|Novatos]]
 - **La noche del pacto** — selló compromiso con Quasi en la celda
 - **La noche de la huida** — escapó al barro asistido por gemelo corrompido y tragoide
-- **La jornada del altar** — regresó con los dos gemelos, pidió deseo, fue paralizado por sincronía Hold Person, ejecutado de un golpe de maza sobre el altar consagrado
+- **La jornada del altar** — regresó con los dos gemelos, pidió deseo, fue paralizado por el conjuro sincronizado que sujeta el cuerpo, ejecutado de un golpe de maza sobre el altar consagrado
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧
+> *El precepto de no pactar se rompe siempre, y siempre por la mejor de las razones: Silas selló con [[Quasi_demonio_menor|Quasi]] en la celda «algo inconmensurable con tal de salvar la party» —no por codicia, por no poder resistir—, y el pacto que lo salvó es el que lo mató. Regresó al recinto consagrado de [[Helix]] a cobrar su deseo y [[Vicario_Otar|Otar]] y [[Mortan]] le partieron el cráneo de un golpe de maza sobre el altar antes de que pudiera usarlo.* — glosa de Arkos.
+<!-- /CICLO -->

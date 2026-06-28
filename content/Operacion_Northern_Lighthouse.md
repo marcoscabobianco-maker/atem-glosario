@@ -70,3 +70,8 @@ Destapar el trazado de la Northern Lighthouse es comprender que el horror de las
 - **La red bajo el mapa** — el cableado de *ley lines* de la hermandad de fareros del norte, administrado por [[Majestic]]
 - **Los puntos de la línea** — Malvinas → Claromecó → República Dominicana → Cape May → Groenlandia (Thule); *un paro en el norte y otro en el sur*
 - **Lo que significa haberla visto** — el horror de las islas revelado como pieza de una máquina que llega al hielo del norte
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖
+> *El Mythos cableado sobre el mapa real: faros, costas y estaciones que existen fuera de la crónica quedan inscriptos verbatim como nodos de una sola corriente. Las Malvinas, el [[Faro_de_Claromeco|faro de Claromecó]] de la costa bonaerense, Cape May en los Estados Unidos, la estación Thule de Groenlandia — geografía verificable convertida en circuito, administrada por la mano sin rostro de [[Majestic]] y atestiguada al morir por el geólogo [[Harrington]]. La Historia presta sus faros para que el archivo enchufe el horror a coordenadas que el lector puede buscar en un atlas.* — glosa de Sucesos.
+<!-- /CICLO -->

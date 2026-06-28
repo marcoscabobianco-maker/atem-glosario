@@ -98,3 +98,8 @@ imagen: null
 - **Período del Hiato de Ardisvala** — operación clandestina sin disrupción mayor
 - **Descenso de los Buscadores al mega-dungeon** — saqueo del templo, enfrentamiento con Marius Urianius
 - **Post-saqueo (ciclo presente)** — culto en operación de venganza ritual diferida
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ◑
+> *El culto vive en la profundidad: el [[Forum_de_Set]] es templo hipogeo del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]], con sub-niveles que prolongan la operación oscura hacia abajo y que la doctrina lee como la casa cuarta del cristal, la de [[Plataforma_Cancer|Cáncer]] —el caparazón. Y al enemigo no se lo vence: [[Marius_Urianius]] sobrevive al saqueo de los [[Buscadores_de_Ardis_Vala|Buscadores]] y se guarda en venganza ritual diferida, esperando su época como quien aguarda en crisálida bajo el polo oscuro de [[Tod_Set|Set]].* — glosa del Decadiano.
+<!-- /CICLO -->

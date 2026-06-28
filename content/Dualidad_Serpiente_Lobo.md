@@ -3,7 +3,6 @@ title: "Dualidad Serpiente / Lobo"
 categoria: concepto
 tags:
  - "corona-del-norte"
- - "setting"
  - "concepto"
  - "cosmología"
  - "leyes-universales"
@@ -15,8 +14,8 @@ aliases:
 
 ## Presentación
 
-Ley Universal del setting de [[Ucronica_NC_Northern_Crown|Northern Crown]]: "[[La_Serpiente|La Serpiente]] teje eventos hacia el fin del ciclo; el Lobo desteje." Balance entre ambas fuerzas. La facción serpentina de la [[Corona_activacion_desconocida|Corona]] del Norte ([[Gran_Serpiente|Gran Serpiente]], patrón de [[Anti_Inferno|la figura del segundo círculo]], Víbora Iroquesa) encarna la Serpiente. El grupo posiblemente encarna al Lobo.
-*Apariciones:* Toda la campaña (implícito)
+Ley Universal del mundo de [[Ucronica_NC_Northern_Crown|Northern Crown]]: "[[La_Serpiente|La Serpiente]] teje eventos hacia el fin del ciclo; el Lobo desteje." Balance entre ambas fuerzas. La facción serpentina de la [[Corona_activacion_desconocida|Corona]] del Norte ([[Gran_Serpiente|Gran Serpiente]], patrón de [[Anti_Inferno|la figura del segundo círculo]], Víbora Iroquesa) encarna la Serpiente. El grupo posiblemente encarna al Lobo.
+*Apariciones:* Toda la gesta (implícito)
 *Conexiones:* [[Gran_Serpiente|Gran Serpiente]], [[Anti_Inferno|la figura del segundo círculo]], Víbora Iroquesa, "[[La_Serpiente|La Serpiente]]" de [[Paris_Ucronica|París Ucrónica]]
 
 ## Notas

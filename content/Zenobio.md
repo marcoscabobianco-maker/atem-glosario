@@ -41,3 +41,8 @@ Y a Zenobio se le atribuye el más temido de los dones: **devolvió a la vida a 
 - Sede de Florencia — entre sus primeros obispos; agente del Papa
 - El milagro del niño devuelto a la vida
 - El linaje de la [[Zenobia_de_Palmyra|Zenobia]] de Palmira, prisionera de Aureliano
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ※
+> *Obispo de Florencia que devolvió a la vida a un niño muerto: en una gesta cuyo eje es el descenso al [[Infierno]] y el regreso de entre los muertos, su don prefigura el viaje por los estratos del más allá y el ascenso de vuelta. Y la sangre lo cifra: lleva el nombre de la [[Zenobia_de_Palmyra|Zenobia]] cautiva de Palmira, igual que [[Niki]], la jineta de dragones de los [[Florentinos_Heroes_Invisibles|Florentinos]] —el nombre repetido marca la continuidad de una estirpe a través de los siglos.* — glosa de Sucesos.
+<!-- /CICLO -->

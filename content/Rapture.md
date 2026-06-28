@@ -34,3 +34,8 @@ El archivo conserva el pacto y sus lecturas, no su consumación. La lectura mayo
 - [[Sentinelas]] · [[Maleika_Maleyka|Maleika]] — la lectura que hace del Rapture la precondición del plan de las plataformas
 - [[Mahdi_Mahadi|Mahadi]] — el vector contrario del mismo año: no vaciar el mundo, estrellarlo
 - [[Las_Dieciseis_Posiciones]] — la posición decimocuarta del Juego, el Éxodo, donde esta entrada se verifica
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⟳
+> *El éxodo pactado de [[Antiterra_Demonia|Antiterra]] hacia el [[Vala_Cristalis]] cuando el planeta corre hacia la [[Franja_de_Disolucion|Franja de Disolución]] sin su gemelo en órbita: el arrebatamiento de los justos que en Antiterra no administra el cielo sino el infierno, organizado por [[Lucifer]] desde Buckingham y sellado en el [[Carnaval_de_Venecia_1901_ADA|Carnaval de Venecia]]. Para escapar, las [[Plataformas_Zodiacales_Guardianes_TNW|plataformas zodiacales]] quedan en suspensión o se abren —y la lectura de [[Maleika_Maleyka|Maleika]] hace del Rapture la precondición del plan de los [[Sentinelas]]: vaciar el mundo primero, ocupar la casilla por unión y no por sangre después, con los [[Guardianes]] solos y debilitados.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -69,3 +69,8 @@ Y el Inferno le reserva el cruce más cruel: durante el combate contra [[Ariadna
 - [[Catedral_de_Notre-Dame_PU|Catedral de París]] — explosivo de caos puro, obliteración
 - [[Castillo_de_Siegling]] — capilla profanada, encarnación condenada en el Inferno
 - Inferno — combate contra Ariadna/Genoveva, interpelado por su propio nombre
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛧
+> *El templario que tocó la esfera de obliteración por [[Ariadna]] —el martirio que abre París, hunde la [[Catedral_de_Notre-Dame_PU|Catedral]] y deja entrar a [[Los_Reguladores]]— y después desciende: reaparece como condenado residente del Inferno, rezando en la capilla profanada del [[Castillo_de_Siegling]], donde cruza a [[Helter]] sin reconocerlo. Vistió la armadura de [[Baphomet]] sin disculparse; el descenso le devuelve, entre los condenados, a la misma Ariadna enfrente.* — glosa del archivero del Plata.
+<!-- /CICLO -->

@@ -55,3 +55,8 @@ Más tarde, hacia 1946 [[Anno_Domini_Antiterra_ADA|A.D.A.]], aparece otra vez en
 - [[Torneo_de_la_Torre_Eiffel]] ~1890 A.D.A. — tira un espadazo a Seth cuando éste intenta interferir
 - Confrontación con Barbatos — clímax del arco, golpe final con la lanza
 - 1946 A.D.A. — agente del tiempo, castillo en Polonia, sigue pistas sobre Syl
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ △
+> *El paladín que pasa de una banda nombrada a otra: viene de [[Los_Trece_Brazos]], se forma en [[Los_Profundos]] y llega a [[Los_Reguladores]] con la armadura ya gastada —la sigla colectiva cambia, la lanza es la misma—. Su arco converge en la [[Piedra_del_Apocalipsis]]: mata a [[Barbatos]] y el artefacto cambia de manos por las suyas, una de las piezas que cruzan campañas y deciden el destino del cosmos.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -27,4 +27,4 @@ aliases:
 
 ## Notas
 
-¿Hay múltiples dragones verdes o es el mismo a lo largo de toda la campaña? La cría del combate en la cámara no reaparece.
+¿Hay múltiples dragones verdes o es el mismo a lo largo de toda la gesta? La cría del combate en la cámara no reaparece.

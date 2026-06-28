@@ -27,3 +27,8 @@ el Descenso el archivo líneas ~5270-5297.
 ## Notas
 
 [[Calcabrina]] es uno de los Malebranche del Canto XXI-XXII del Inferno de Dante. Que Torchavento sea otro Malebranche es consistente con la estructura dantesca del segundo círculo. Su disposición a negociar tras la caída de [[Calcabrina]] sugiere una jerarquía diabólica donde la muerte de un superior abre oportunidades.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Malebranche del segundo círculo, tormentor de los lujuriosos en su capa propia del [[Anti_Inferno|Foso]]. Cae [[Calcabrina]] y Torchavento queda en deuda, paga con información, pierde su espada: la jerarquía diabólica del estrato se reordena cuando muere un superior. El descenso no es un lugar, son niveles, y cada nivel tiene su demonio de turno.* — glosa del Decadiano.
+<!-- /CICLO -->

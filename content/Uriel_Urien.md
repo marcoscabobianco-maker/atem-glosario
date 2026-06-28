@@ -36,7 +36,7 @@ Por eso, junto con Moretti, Uriel termina convertido en **blanco de la operació
 
 ## El umbral debajo del trabajo
 
-Uriel no baja al agua ni roza, que se sepa, lo que aguarda bajo las islas. Su dominio es el de la superficie: la imprenta, el sindicato, la logia, esa Argentina verificable de masones e internas peronistas que la campaña conserva tal cual. Pero esa superficie es precisamente la puerta. La [[Logia_Anael|Logia Anael]] a la que Uriel sirve pertenece al mismo vestíbulo histórico que abre el [[Operativo_Condor|Operativo Cóndor]]: la cara legal y presentable del país, bajo la cual aguardan [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]] y el [[Carcosa|reino amarillo]] que late del otro lado del mismo umbral. Uriel ordena un trozo de esa superficie; como casi todos los que obedecen a Gelli, ignora del todo qué espera debajo del papel que imprime.
+Uriel no baja al agua ni roza, que se sepa, lo que aguarda bajo las islas. Su dominio es el de la superficie: la imprenta, el sindicato, la logia, esa Argentina verificable de masones e internas peronistas que la gesta conserva tal cual. Pero esa superficie es precisamente la puerta. La [[Logia_Anael|Logia Anael]] a la que Uriel sirve pertenece al mismo vestíbulo histórico que abre el [[Operativo_Condor|Operativo Cóndor]]: la cara legal y presentable del país, bajo la cual aguardan [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]] y el [[Carcosa|reino amarillo]] que late del otro lado del mismo umbral. Uriel ordena un trozo de esa superficie; como casi todos los que obedecen a Gelli, ignora del todo qué espera debajo del papel que imprime.
 
 ## Ver también
 

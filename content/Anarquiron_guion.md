@@ -30,3 +30,8 @@ El guión cubre desde el rescate fallido de [[Miguelito]] (España, 1888 [[Anno_
 ## Notas
 
 Elaboración literaria con distancia irónica, no registro directo de jornada. Los nombres de personajes corresponden a los usados en mesa (confirmado). cronista de la época: el. toma la dirección recién en la época de [[Atlantida_Alta_y_Baja|Atlántida]] / [[Cakravartin]].
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El guión que narra cómo un puñado de anarquistas primerizos rescatados de [[Miguelito|un fracaso en España]] se vuelven una banda con nombre propio: cruzan el Mar de los Sargazos, bajan a [[Atlantida_Alta_y_Baja|Atlántida]] por el túnel del sátiro y son bautizados, ante el Rey, como [[Los_Profundos|Los Profundos]]. [[Lotario]] hace de gato con botas que los arma caballeros; el grupo no preexiste, se forja en el arco. La sigla colectiva nace en la audiencia: dejan de ser sueltos y pasan a ser cuerpo.* — glosa del Decadiano.
+<!-- /CICLO -->

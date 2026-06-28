@@ -1,18 +1,16 @@
 ---
-title: "Apocalypse World Campana Pandemia"
+título: "Apocalypse World Campana Pandemia — redirect"
+slug: Apocalypse_World_Campana_Pandemia
+estado: redirect
+target: "[[Apocalypse_World_Campana_Pandemia_TNW_2087]]"
 aliases:
  - "Apocalypse_World_Campana_Pandemia"
-en_construccion: true
+ - "Apocalypse World Campana Pandemia"
+tags:
+ - redirect
+ - consolidado
 ---
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
+# Apocalypse World Campana Pandemia
 
-## Referencias entrantes
-
-Esta entrada es mencionada desde:
-
-- [[Iron_Mountain_Montana_de_Hierro_TNW]]
-
----
-
-*Si llegaste aquí buscando información sobre **Apocalypse World Campana Pandemia**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+→ Consolidado en **[[Apocalypse_World_Campana_Pandemia_TNW_2087|2087 — la Pandemia del Mundo Nuevo]]**.

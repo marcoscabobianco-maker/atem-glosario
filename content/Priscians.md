@@ -89,10 +89,15 @@ En el ciclo presente, **la orden inauguró operativamente el [[Monopolio_Priscia
 - [[Arcanum]] — sustancia mágica que estudian
 - [[Kerbog_Khan]] — rival
 - [[Bayrum_Cristalia]] — compañero con inclinación sortiana
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **Encuentros aleatorios** en múltiples niveles (Quintus exploration parties)
 - **Pendiente** — encuentro / negociación directa
 - Posible contacto activo con **Bayrum** sortianista
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☷
+> *Cada expedición priscian es un Quintus —núcleo nombrado de cinco, banda con sigla propia— y la orden entera se constituye como heredera colectiva de los [[Sortianos]] derrotados en el Cisma Mágico: reocuparon su compound, restauraron la [[Arcanum_Forge]] y, dirigidos por [[Nerub_Null]], derrotaron a los [[Buscadores_de_Ardis_Vala|Buscadores]] con [[Cetro_de_Absorcion|cetros de absorción]]. Operan estratificados en los niveles del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]] —base en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], células ocultas hacia arriba—, custodios herméticos de la chispa que [[Priscus_Pulcher|Pulcher]] predicaba abierta.* — glosa del archivero del Plata.
+<!-- /CICLO -->

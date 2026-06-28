@@ -91,3 +91,8 @@ imagen: Imagenes_Tier1/Batalla_de_Kosovo_1389.png
 - **Quinientos años de memoria serbia** — transmisión cultural del luto activado
 - **Plan diplomático desde [[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]]** — discusión estratégica
 - **Eco continuado hasta Sarajevo 1914** — cumplimiento de la cadena
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ⏳
+> *El martirio verbatim del Príncipe [[Lazaro_Principe_de_Serbia|Lázaro]] ante el sultán [[Murad_I]] el 28 de junio de 1389 ancla el Vidovdan en el calendario, y la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] aprende a gastar esa cifra: cada gran siglo cobra su atentado en el mismo día, hasta [[Sarajevo_1914_Ucronica|Sarajevo 1914]]. El tiempo se vuelve mercancía cuando el grupo planea des-fijar la fecha —saltar a 1389, evitar la batalla— para romper la cadena en su origen: quien fija el día gobierna el calendario de los magnicidios.* — glosa del Decadiano.
+<!-- /CICLO -->

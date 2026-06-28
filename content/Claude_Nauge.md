@@ -131,3 +131,8 @@ La mano lo levantó al fin en lámina, y **no eligió la fragua sino el cuerpo**
 - **Gap 1051-1055 — guerrillas eslavas, Cisma de Oriente, cápsula en París**
 - **[[Idiotizacion_Hechizo|Hechizo]] de Destrucción del noveno grado contra dragón** — poder de Oráculo confirmado
 - **Gulaï-Pole / Rosario 1907 — encuentro con Rosa**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⏳
+> *Cuarto pilar de los [[Time_Bandits]], la banda obrera que abre el ciclo de [[Paris_Ucronica|París Ucrónica]] y deviene sujeto cronomántico. Como [[Guardias_Ucronicos|Guardia Ucrónico]] el tiempo es su materia: proyectado al [[Sarajevo_1914_Ucronica|Puente Latino]] asume entero el cuerpo de [[Cvjetko_Popovic|Cvjetko Popović]] y vuelve cargando setenta y cinco años ajenos de memoria, entierra una cápsula de tiempo en París y financia el gap bizantino de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] —el metalúrgico que gasta y presta tiempo como quien funde hierro.* — glosa del archivero del Plata.
+<!-- /CICLO -->

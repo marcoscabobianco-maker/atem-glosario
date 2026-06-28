@@ -7,13 +7,13 @@ aliases:
 
 ## Presentación
 
-**Hipótesis:** Grupo es ciclo de encarnaciones de viajeros anteriores. Están predestinados a resolver apocalipsis temporal.
-**Evidencia:**
-- [[Michel|Michel]]: "Dios me abrazó. Somos indicados para evitar muerte del Tiempo"
-- Ambigüedad inicial del ciclo: "No sabemos si es el mundo que jugamos antes"
+**Hipótesis:** el grupo es un ciclo de encarnaciones de viajeros anteriores, predestinados a resolver el apocalipsis temporal.
+**Indicios:**
+- [[Michel|Michel]]: "Dios me abrazó. Somos los indicados para evitar la muerte del Tiempo"
+- Ambigüedad inicial del ciclo: si es o no el mismo mundo recorrido antes
 - Patrón transmultiversal: grupo recurrente en la [[Corona_activacion_desconocida|Corona]] del Norte y el Descenso
 
-**Status:** Narrativamente probable. Metaficcional en intención.
+**Estado:** narrativamente probable.
 
 ## RESOLUCIONES ABIERTAS vs CERRADAS
 
@@ -23,35 +23,24 @@ aliases:
 | [[Papeles_Planos_de_Region|Papeles]] Santuario | ABIERTO | Críticos para línea inteligencia |
 | [[Portero_Capturador|Portero]] muerte | ABIERTO | Investigación suspendida |
 | Identidad Caballeros | ABIERTO | [[Carlos_Rey_Carlos_Carlomagno|Carlos]]/[[Rolando_Capitan_de_Caballeros|Rolando]]: ¿aliados o enemigos? |
-| Torre del Corazón | ABIERTO | [[Acceso_futuro]] desbloqueado (investigación) |
+| Torre del Corazón | ABIERTO | Acceso futuro desbloqueado (investigación) |
 | [[Huevo_Infernal|Huevo Infernal]] | ABIERTO | ¿Se incubará? ¿Amenaza apocalíptica? |
 | Viajeros temporales | PARCIALMENTE ABIERTO | Información básica obtenida; cosmología completa incompleta |
 
-## ÍNDICE DE TÉRMINOS PARA GLOSARIO PRINCIPAL
+## Términos del ciclo
 
-- [[[CARLOS]] — Caballero Templario]
-- [[[ROLANDO]] — Caballero Templario capitán]
-- [[[El_Negro_Entidad|EL NEGRO]] — [[El_Negro_Entidad|Entidad demoniaca]] / viajero temporal]
-- [LABERINTO OMNIPORAL — Biblioteca extraplanar zona 34]
-- [PABLO — Viajero temporal primigenio]
-- [SUPRA PADRE — Deidad temporal superior]
-- [[[TORRE_DEL_CORAZON_Centro_de_Secretos_Temporales|TORRE DEL CORAZÓN]] — Centro de secretos temporales]
-- [MUERTE DEL TIEMPO — Apocalipsis temporal]
-- [[[VIAJEROS_DEL_TIEMPO_Encarnaciones_Ciclicas|VIAJEROS DEL TIEMPO]] — Entidades cíclicas de encarnación]
-- [LIBRO AZUL — Registro cosmológico]
-- [HUEVO INFERNAL — Criatura en encubación apocalíptica]
-- [CATEDRAL NEGRA — Ubicación de tortura [[SUPRA_PADRE_Deidad_Temporal|Supra Padre]]]
-- [DEATH WAIL — Conjuro destructivo demoniaco]
-- [AURA MALDICIÓN — Habilidad símbolo bajométrico]
-- [[[ONE_DIES_Simbolo_de_muerte|ONE DIES]] — [[ONE_DIES_Simbolo_de_muerte|Símbolo de muerte]] negromántico]
-
-**Fin del glosario del ciclo Supra-Padre**
-
-## Ver también
-
-- Evidencia
-- Fin del glosario del ciclo Supra-Padre
-
-## ÍNDICE DE TÉRMINOS PARA GLOSARIO PRINCIPAL
-
-**Fin del glosario del ciclo Supra-Padre**
+- [[Carlos_Rey_Carlos_Carlomagno|Carlos]] — Caballero Templario
+- [[Rolando_Capitan_de_Caballeros|Rolando]] — Caballero Templario, capitán
+- [[El_Negro_Entidad|El Negro]] — entidad demoníaca / viajero temporal
+- [[Laberinto_Omniporal|Laberinto Omniporal]] — biblioteca extraplanar
+- Pablo — viajero temporal primigenio
+- [[SUPRA_PADRE_Deidad_Temporal|Supra Padre]] — deidad temporal superior
+- [[TORRE_DEL_CORAZON_Centro_de_Secretos_Temporales|Torre del Corazón]] — centro de secretos temporales
+- Muerte del Tiempo — el apocalipsis temporal
+- [[VIAJEROS_DEL_TIEMPO_Encarnaciones_Ciclicas|Viajeros del Tiempo]] — entidades cíclicas de encarnación
+- [[Libro_Azul|Libro Azul]] — registro cosmológico
+- [[Huevo_Infernal|Huevo Infernal]] — criatura en incubación apocalíptica
+- Catedral Negra — lugar de tortura del [[SUPRA_PADRE_Deidad_Temporal|Supra Padre]]
+- Death Wail — aullido destructivo demoníaco
+- Aura de Maldición — símbolo aciago
+- [[ONE_DIES_Simbolo_de_muerte|One Dies]] — símbolo de muerte negromántico

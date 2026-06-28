@@ -8,7 +8,7 @@ aliases:
 ![[Imagenes_Tier1/Lolth.png]]
 <!-- /HEADER_IMG -->
 
-Diosa drow: torso superior élfico, torso inferior arácnido. Reina de la Demonweb Pits, capa 66 del [[El_Abismo|Abismo]] en la cosmología Planescape. Deidad del caos, la traición y las arañas, venerada por los drow del Underdark. Su naturaleza dual (diosa / tanar'ri) la conecta con los príncipes demoníacos del [[Abismo]].
+Diosa drow: torso superior élfico, torso inferior arácnido. Reina de la Demonweb Pits, capa 66 del [[El_Abismo|Abismo]]. Deidad del caos, la traición y las arañas, venerada por los drow del Underdark. Su naturaleza dual (diosa / tanar'ri) la conecta con los príncipes demoníacos del [[Abismo]].
 
 ## Vinculos
 - [[El_Abismo|El Abismo]] — plano donde habita en su capa Demonweb Pits (capa 66)

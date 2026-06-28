@@ -30,11 +30,9 @@ Personaje de **el **. Semi-drow, hijo de **[[Coyote]]** (el Plateado) y **Zara**
 7. En [[Sigil]], **[[Clarisa]] (II)** lo seduce y lo entrega — al estilo de la traición de Cristo — a los **[[Cambions]]** (hijos de [[Grazzt|Graz'zt]]). De esta "distracción" nace **[[Elisteo]]** (1349 DR).
 8. Los [[Cambions]] lo asesinan. Una de las manos del cosmos —cuya memoria el archivo guarda con respeto— acertó esa noche todos los golpes, en una racha que las crónicas registran como imposible, y mató al ángel. **Le roban la espada de Eilistraee** — [[Grazzt|Graz'zt]] se apodera de la encarnación de la diosa.
 
-*Conexión con [[Minaya_TG|Minaya (TG)]]:* En C1 ROL p. 124, había colocado a "Minaya" como Greater Power del [[Panteon_el|Panteón]] Élfico (tachado por — [[Soluna|Soluna]], compañero, era la deidad, no Minaya). En la cosmología zodiacal de Mirabilia (1 mayo 1996), Minaya aparece como fuerza de Aries: "fortuna, azar, poder, creación, destrucción, [[Yelmalio]], Satán, fuerzas del bien cósmico." La frontera entre el compañero y la deidad es deliberadamente porosa.
+*Conexión con [[Minaya_TG|Minaya (TG)]]:* En el registro más antiguo, "Minaya" figuró un tiempo como Greater Power del [[Panteon_el|Panteón]] Élfico, antes de que el archivo lo corrigiera — la deidad era [[Soluna|Soluna]], el compañero, no Minaya. En la cosmología zodiacal de Mirabilia, Minaya aparece como fuerza de Aries: "fortuna, azar, poder, creación, destrucción, [[Yelmalio]], Satán, fuerzas del bien cósmico." La frontera entre el compañero y la deidad es deliberadamente porosa.
 
-*Apariciones:* [89–97] (calendario Marpenoth, muerte, análisis meta), C2 p. 57 (compañero), C2 pp. 204–213 ([[Torregrises]]/[[Juicio_Final]]), ([[Contienda]]), C48 (Juicio Final), C50 (historia familiar siglo XVII).
-
-*"El polo opuesto de Minaya es su padre, y al mismo tiempo hijo, dada la creación y remodelación a partir de la Situación Límite de este Minaya."* ( [97])
+*"El polo opuesto de Minaya es su padre, y al mismo tiempo hijo, dada la creación y remodelación a partir de la Situación Límite de este Minaya."*
 
 ## Ver también
 

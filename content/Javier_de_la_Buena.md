@@ -22,4 +22,4 @@ Capitán del barco que lleva al grupo de Sevilla a las Bermudas (y eventualmente
 
 ## Notas
 
-figura interpretado por el cronista (el ). Nombre usado en mesa (confirmado). El guión lo describe con "reino" y "arcas del reino", lo que sugiere que no es un simple capitán mercante sino algún tipo de noble venido a menos.
+El guión lo describe con "reino" y "arcas del reino", lo que sugiere que no es un simple capitán mercante sino algún tipo de noble venido a menos.

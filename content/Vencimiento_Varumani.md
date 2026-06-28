@@ -105,10 +105,15 @@ El **Vencimiento de los [[Varumani]]** —la **derrota del pueblo troll** que go
 - [[Heqeti]] / [[Reepsiq]] — beneficiarios
 - [[Kerbog_Khan]] — afectado (pierde aliado)
 - [[Papa_Alejandro_Sixto]] — beneficiario indirecto (poder centralizado)
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - Durante el cierre de la corrida original o el Hiato de 15 Años
 - **el regreso tras el Hiato** — confirmado retrospectivamente por 
 - **Pendiente exploración directa**: visita a Corte del Thegn post-Vencimiento
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *La caída de los [[Varumani]] reordena un piso entero del [[Mega_Dungeon_Arden_Vul|mega-dungeon]]: depuesto [[Varboka]], cae la [[Court_of_Troll_Thegn|Corte del Thegn]] y se vacían los [[Troll_Lifts_Arena|Troll Lifts]] —los ascensores que comunican los estratos numerados del Abismo—. El dungeon estratifica eras y facciones por niveles (L06, L07, el Suelo del Gran Abismo), y este vencimiento abre el estrato hacia abajo para que [[Papa_Alejandro_Sixto]] y los suyos asciendan al vacío de poder.* — glosa del Decadiano.
+<!-- /CICLO -->

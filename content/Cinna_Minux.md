@@ -84,9 +84,14 @@ Con el **[[Vencimiento_Varumani|vencimiento de los Varumani]]** y la entrada en 
 - [[Ravenloft_Dominio_Ardis_Vala]] — dominio activo
 - [[Caballeros_Cicatriz_del_Sol]] — su miedo principal
 - [[Varumani]] (depuestos) — vecinos antiguos
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **Pre-hiato**: presencia oculta, no encontrado en corrida original
 - **Post-hiato**: estado y poder específico pendiente — Cinna **puede haber crecido** durante los 15 años
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ◑
+> *El vampiro antiguo agazapado en un estrato hondo del [[Mega_Dungeon_Arden_Vul]] —la [[Court_of_Troll_Thegn|Corte del Thegn]], nivel L07— que preside una corte de charmados y evita por sobre todo a los [[Caballeros_Cicatriz_del_Sol|Sun-Scarred]]. Fue pieza dormida durante la corrida original, que el hiato y la entrada en [[Ravenloft_Dominio_Ardis_Vala|Ravenloft]] pudieron despertar: el enemigo que no se vence sino que se guarda en la profundidad, esperando su época, eslabón posible de la cadena vampírica de [[Master_Malakita]] y el [[Masracht_Prism_Keep|Masracht]].* — glosa de Paulus.
+<!-- /CICLO -->

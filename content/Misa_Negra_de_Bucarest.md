@@ -21,7 +21,7 @@ aliases:
 Ceremonia sacrílega y ritual oscuro celebrado en **[[Mansion_de_Natalia_Petrovna|Mansión de Natalia Petrovna]]** ([[Bucarest_Ucronica|Bucarest]]) en la madrugada del 4 de julio de 1901. Presidiedo por **[[Natalia_Petrovna|Natalia Petrovna]]** (vampiresa líder del [[Circulo_de_la_Serpiente|Círculo de la Serpiente]]) en compañía de **[[Apis|Coronel Apis]]** (oficial serbio vampirizado), pope corrupto (sacerdote ortodoxo bajo dominio vampírico), guardias pálidos/fríos (posiblemente vampíricos o encantados), y diversos participantes del Círculo.
 
 **Descripción del ritual:**
-- **[[Escenario]]:** Salón principal de Mansión — terciopelo negro, candelabros escarlata, campana de iglesia, penumbras dramáticas, ventanas escarlata (luz de color sangre).
+- **Escenario:** Salón principal de Mansión — terciopelo negro, candelabros escarlata, campana de iglesia, penumbras dramáticas, ventanas escarlata (luz de color sangre).
 - **Participantes:** Niños disfrazados de "novios," cálices sacrílegos, evidencia de símbolos sobrenaturales, posible altar subterráneo en sótanos.
 - **Intención:** Aparentemente "casamiento ritual" o sacrificio vampírico — propósito exacto ambiguo pero parece ser invocación/corrupción demónica, posible liberación de entidad serpentina, o transformación vampírica de participantes.
 - **Naturaleza:** Perversión de rito cristiano ortodoxo oriental — combinación de iconografía cristiana (campana de iglesia, sacerdote) con magia oscura (vampirismo, rituales demoníacos, invocación).
@@ -36,7 +36,7 @@ Ceremonia sacrílega y ritual oscuro celebrado en **[[Mansion_de_Natalia_Petrovn
 
 **Significado narrativo:**
 - **Punto de inflexión tonal:** [[Misa_Negra|Misa Negra]] marca transición de [[Paris_Ucronica|París Ucrónica]] desde aventura steampunk política-conspiratoria a **horror sobrenatural balcánico**. Revelación de que [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] no es meramente conspiración política, sino **culto vampírico ancestral que usa política como cobertura.**
-- **Escalada de amenaza cósmica:** [[Presencia_de]] niños, rituales de sacrificio, invocación demoníaca sugiere que amenaza del Círculo es existencial — no es violencia política convencional, sino potencia demoníaca/vampírica que busca corromper/destruir civilización mediante culto organizado.
+- **Escalada de amenaza cósmica:** Presencia de niños, rituales de sacrificio, invocación demoníaca sugiere que amenaza del Círculo es existencial — no es violencia política convencional, sino potencia demoníaca/vampírica que busca corromper/destruir civilización mediante culto organizado.
 - **Conexión a submundo balcánico:** [[Misa_Negra|Misa Negra]] y vampirismo sugieren que Balcanes albergan tradiciones oscuras ancestrales — posible conexión a [[Grazzt|Graz'zt]], fuerzas serpentinas, o deidad demoníaca desconocida. Perversión de ortodoxia cristiana oriental sugiere syncretismo balcánico específico.
 - **Catalizador de investigación:** Descubrimiento de [[Misa_Negra|Misa Negra]] + destrucción de [[Natalia]] + captura de [[Apis]] impulsa [[Time_Bandits|Time Bandits]] a investigación posterior de Círculo, viaje a [[Isla_de_la_Serpiente|Isla de la Serpiente]], búsqueda de "[[La_Serpiente|La Serpiente]]" principal.
 
@@ -53,10 +53,13 @@ Misa Negra de Bucarest encarna "oscuridad balcánica" que establece como contrap
 - [[Mansion_de_Natalia_Petrovna|Mansión de Natalia Petrovna]]
 - [[Natalia_Petrovna|Natalia Petrovna]]
 - [[Coronel_Apis|Coronel Apis]]
-- [[Escenario|Escenario]]
 - Participantes
 - Intención
 - Punto de inflexión tonal
 - [[Escalada_de_amenaza_cosmica|Escalada de amenaza cósmica]]
 - [[Conexion_a_submundo_balcanico|Conexión a submundo balcánico]]
-- [[Catalizador_de_investigacion|Catalizador de investigación]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑
+> *Los [[Time_Bandits]] estacan a [[Natalia_Petrovna|Natalia Petrovna]] y creen haber ganado, pero matar la cabeza visible no vence al [[Circulo_de_la_Serpiente|Círculo de la Serpiente]]: el culto se dispersa y «[[La_Serpiente]]» principal sigue dormida, esperando, ahora en la [[Isla_de_la_Serpiente|Isla de la Serpiente]]. El enemigo de fondo no se mata en Bucarest: se repliega a su crisálida y el grupo apenas descubre que existe.* — glosa de Sucesos.
+<!-- /CICLO -->

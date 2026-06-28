@@ -57,7 +57,7 @@ Lord Parmes es **un poder menor pero estable** del dungeon. A diferencia de Dein
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
 - [[Halls_of_Thoth_Nivel|Halls of Thoth]] — nivel donde reside
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Trocadero]] — competidor / pretendiente
 - **Ptarmis** — predecesor histórico, fundador del bosque
 - **Copanegra** — hongo gigante aliado

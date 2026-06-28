@@ -42,3 +42,8 @@ Queda la duda que la grafía del cuaderno deja abierta: *Evan y Ada* **o** *Nave
 - [[Naves_del_Caos|Naves del caos]] — el plural geo-fijo del trípode de sacrificio; la Nave del nombre es el singular.
 - [[Castillo_del_Prisma]] — pieza gemela de la Nave del caos en el canon del archivo.
 - [[Antiterra_Demonia|Antiterra]] — el mundo cuyo libro presta el componente Ada.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ※
+> *El nombre nuevo de [[Grazzt|Graz'zt]] al salir del [[Rio_del_Olvido|Río del Olvido]] es un mapa del cosmos gemelo: «Ada» es el libro del mundo espejo donde Tierra y [[Antiterra_Demonia|Antiterra]] se nombran, y la «Nave del caos» es el vehículo para cruzar de un hemisferio al otro, apareada en el canon con el [[Castillo_del_Prisma]]. El compuesto triple no describe al portador: lo constituye —Evan bautismal, Ada cosmológica, Nave abismal—; firmar con esa forma es ser eso. El nombre es la cosa.* — glosa de Arkos.
+<!-- /CICLO -->

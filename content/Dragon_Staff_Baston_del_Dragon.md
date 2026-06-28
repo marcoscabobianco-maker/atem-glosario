@@ -22,4 +22,4 @@ Artefacto mágico central del Arco III-IV. Cargarlo exige un conjuro del séptim
 
 ## Notas
 
-La exigencia de la recarga —arte del séptimo grado— implica que solo operadores de alto temple pueden sostenerlo. Su localización por [[Vermir]] desencadena el cierre de la campaña.
+La exigencia de la recarga —arte del séptimo grado— implica que solo operadores de alto temple pueden sostenerlo. Su localización por [[Vermir]] desencadena el cierre de la gesta.

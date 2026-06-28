@@ -10,13 +10,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** el archivo (presenta stormy tomar barco).
-
-### el plano operativo
-
 Oficial o contramaestre del barco en que viaja el grupo [[Los_Profundos|Los Profundos]]. Da las órdenes de zarpe desde Cádiz. "¡Papagulo, querido! ¡Papagulo!" — grito de partida.
-
-**Ref.:** el archivo (presenta [[Stormy|Stormy]] tomar barco).
 
 ## Vinculos
 

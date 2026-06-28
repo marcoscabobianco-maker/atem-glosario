@@ -33,9 +33,14 @@ Las crónicas del Descenso registran a estas criaturas bajo grafías cambiantes 
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso]] — campaña CDI donde aparece, los círculos del [[Infierno]] dantesco
-- [[Campana_Dante_S_Inferno_CDI|Campaña Dante's Inferno]] — marco narrativo
+- [[Anti_Inferno|el Descenso]] — gesta CDI donde aparece, los círculos del [[Infierno]] dantesco
+- [[Campana_Dante_S_Inferno_CDI|Gesta Dante's Inferno]] — marco narrativo
 - [[Paolo_y_Francesca_Inferno|Paolo y Francesca]] — almas condenadas en el mismo Segundo Círculo
 - [[Minos_Inferno|Minos]] — juez que asigna los condenados al Segundo Círculo que la Tempestari rige
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — estructura infernal de referencia, más allá del Segundo Círculo
 - [[Helter]] — personaje del grupo que participó en el combate
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ※
+> *Criatura del Segundo Círculo del [[Anti_Inferno|Descenso]] dantesco, donde el Infierno se baja por círculos numerados: la Tempestari es la que opera entre estratos, tiene autoridad sobre las [[Gargolas_del_Tercer_Circulo|gárgolas]] del tercero y carga al grupo de regreso de un círculo al otro. Las crónicas la registran bajo grafías que oscilan —[[Torchavento]], [[Falchavento_Tempestari|Falchavento]], Estarchavento—: quizá un solo individuo cuyo nombre cambia, quizá una familia; el archivo deja que la identidad fluctúe con la grafía, como suele hacer cuando el nombre es la cosa.* — glosa de Paulus.
+<!-- /CICLO -->

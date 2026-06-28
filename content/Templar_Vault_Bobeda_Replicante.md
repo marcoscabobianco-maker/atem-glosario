@@ -12,7 +12,7 @@ Bóveda templaria con paredes que se replican; urna en tres posiciones simultán
 
 ## Vinculos
 
-- [[Campana_Templarios_TE|Campaña Templarios]] — sub-campaña a la que pertenece esta bóveda
+- [[Campana_Templarios_TE|Gesta Templarios]] — gesta a la que pertenece esta bóveda
 - [[Santuario_Templario_Gabinete_Encantado_Interior_K4|Santuario Templario — Gabinete Encantado (K4)]] — espacio interior encantado relacionado con esta cámara replicante
 - [[Templarios_del_Tiempo|Templarios del Tiempo]] — paladines del equilibrio cronológico cuya magia podría explicar la replicación espacial
 - [[Santuario_Templario_ex-Fortaleza_Cruzada|Santuario Templario]] — sede mayor de la que forma parte esta bóveda

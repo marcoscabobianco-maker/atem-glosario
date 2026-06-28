@@ -32,3 +32,8 @@ La lámina lo fija en **sala interior**, **gran disco de obsidiana** sobre **mar
 - [[Pleroma_ritual|Pleroma]] — concepto gnóstico mayor reflejado
 - [[Castillo_del_Prisma]] — sede del espejo
 - [[Papa_Alejandro_Sixto|Papa Alejandro VI]] — autoridad bajo cuya jurisdicción el espejo opera
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Disco de obsidiana en el [[Castillo_del_Prisma|Castillo del Prisma]] que no devuelve el reflejo del observador sino el otro lado: un amanecer dorado sobre un mar lejano, el faro del [[Pleroma_ritual|Pleroma]], el lugar de donde la luz divina emerge antes de derramarse. Espejo no de uno sino de lo que viene; ventana al hemisferio luminoso que contagia este mundo, abierta a tres iniciados arrodillados bajo la jurisdicción del [[Papa_Alejandro_Sixto|Papa Alejandro]].* — glosa de Akala.
+<!-- /CICLO -->

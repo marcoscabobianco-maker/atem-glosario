@@ -25,14 +25,14 @@ tags:
 
 ## Vínculos
 
-- **Mundo de Krile** — su setting propio
+- **Mundo de Krile** — su mundo propio
 - **Masters** — el ciclo de Convergencias donde se cruzaron ambos cosmos
 - [[Paladin_in_Hell|Paladin in Hell]] — arco cuyo hilo reaparece en los crossovers
 - [[Vala_Cristalis]] — MacGuffin cosmológico que vuelve a estar en juego
-- [[Anti_Inferno|Campaña Inferno]] — eje paralelo donde reaparecen los mismos hilos
+- [[Anti_Inferno|Gesta Inferno]] — eje paralelo donde reaparecen los mismos hilos
 - [[Templo_Lugar_de_los_Justos]] — nodo de confluencia multi-mundo
 
 ## Apariciones
 
 - Masters — co-cronista de las Convergencias
-- Mundo de Krile — setting propio (pendiente ampliar)
+- Mundo de Krile — mundo propio (pendiente ampliar)

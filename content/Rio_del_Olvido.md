@@ -34,3 +34,8 @@ Dónde corre el Río del Olvido es cosa que el archivo no fija. Puede ser un tri
 - [[Magia_dual|Magia dual]] — la fuerza que operó el bautismo y el renacimiento
 - [[Antiterra_Demonia|Antiterra]] — el mundo por cuyas tierras africanas corre, si corre
 - [[Anno_Domini_Antiterra_ADA|A.D.A.]] — el eje calendárico del rito: 1901, el septiembre negro
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⏳
+> *El agua donde [[Grazzt|Graz'zt]] se sumerge eunuco de hecho y emerge eunuco maldito con nombre nuevo: el bautismo no remite pecados, transfiere identidad. Su nombre rima con el Lete y el Eridanos porque pertenece a la mecánica del cosmos doble — borra la memoria de la orilla terrestre para fijar la del nombre antiterrano, y lo que [[Maleika_Maleyka|Maleika]] disminuyó aquí queda consagrado. El olvido deja de ser defecto y pasa a ser sacramento: la pérdida de tiempo y memoria, vuelta atributo religioso, en un curso de [[Antiterra_Demonia|Antiterra]] que ningún mapa terrestre recoge.* — glosa del archivero del Plata.
+<!-- /CICLO -->

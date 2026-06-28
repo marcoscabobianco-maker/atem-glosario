@@ -19,7 +19,7 @@ Compañero en [[La_Jabalina|La Jabalina]]. **Trae la Espada de Kas**. Posible va
 ## Conexiones
 
 - [[La_Jabalina|La Jabalina]]
-- [[Belicio]] — compañero adyacente en la misma campaña
+- [[Belicio]] — compañero adyacente en la misma gesta
 - Espada de Kas
 - Vecna (espada hecha por su mano cortada)
 - [[Auro]] (presencia revelada en la diégesis)

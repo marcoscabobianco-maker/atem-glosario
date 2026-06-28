@@ -25,7 +25,7 @@ tags:
 
 El **Yunque del Tiempo** —*Anvil of Time* en la lengua original de su procedencia literaria— es uno de los lugares fundacionales del ciclo, y al mismo tiempo uno de los más esquivos para fechar. Es una montaña, pero no una montaña común: en sus laderas las **edades del mundo se apilan unas sobre otras como capas geológicas del tiempo**. Quien sube alto encuentra, en cada nivel, una era distinta —los siglos no transcurren ahí, coexisten—. Quien baja, retrocede. Quien se queda en un nivel, queda atrapado en su era.
 
-En la primera era del archivo, en aquellas jornadas tempranas de la mesa en que el ciclo apenas empezaba a tomar forma, **Pablo apareció en el Yunque jugando con un mazo de muchas cosas en la montaña de fuego** —el acto inaugural por el cual la dualidad entró al mundo—. De ese juego salió el tema cosmológico que después atravesaría todo: la doble magia, los dos órdenes incompatibles del cielo, la rueda de Pablo.
+En la primera era del archivo, en aquellas jornadas tempranas en que el ciclo apenas empezaba a tomar forma, **Pablo apareció en el Yunque jugando con un mazo de muchas cosas en la montaña de fuego** —el acto inaugural por el cual la dualidad entró al mundo—. De ese juego salió el tema cosmológico que después atravesaría todo: la doble magia, los dos órdenes incompatibles del cielo, la rueda de Pablo.
 
 El Yunque es **lugar de origen de personajes**: allí, en sus capas más profundas, **surgió Minaya** —el semi-drow proxy de [[Eilistraee]] que más tarde sería figura central de las gestas de [[Torregrises]]—. Y allí, en otros niveles, **quedaron atrapados [[Elias|Elías el Hijo]] y [[Innombrable|el Innombrable]]** —dos personajes cuya prisión es a la vez prisión de espacio y prisión de tiempo, congelados en su era propia mientras el resto del mundo cruzaba siglos sobre sus cabezas—.
 
@@ -52,3 +52,8 @@ En su faceta más íntima, el Yunque es también el **Corazón de Pablo** —el 
 - — origen del concepto (Pablo, mazo de muchas cosas, montaña de fuego)
 - [[Calendario]] merged — referencia primigenia
 - Incursión templaria al plano astral — acceso por los [[Templarios]] durante la revelación del Supra-Padre
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ☷
+> *La montaña donde las edades se apilan como capas geológicas —quien sube cambia de era, quien baja retrocede, quien se queda en un nivel queda preso de su siglo—: el descenso por estratos llevado al tiempo mismo. De ese suelo brotó la dualidad: aquí entró al mundo la [[Magia_dual|doble magia]], los dos órdenes incompatibles del cielo. Y aquí quedaron presos [[Elias|Elías el Hijo]] y el [[Innombrable]], que afuera se hacen tríada con [[Arian]] para buscar la [[Vara_del_Infinito]] —la unión que nace dentro del plano termina sobrepasando los designios que lo habitan.* — glosa del Decadiano.
+<!-- /CICLO -->

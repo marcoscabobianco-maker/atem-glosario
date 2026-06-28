@@ -87,10 +87,15 @@ Los Beastmen han **limpiado las áreas al este del Great Hall** de **los frescos
 - [[Trocadero]] — antiguo aliado del nivel (mago loco)
 - [[Halflings_Plumthorn|Halflings de Plumthorn]] — rivales
 - [[Culto_de_Set]] — vecinos
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **Jornadas 2-4** — Primer contacto con los [[Buscadores_de_Ardis_Vala|Buscadores]]. Patrullas de banda
 - **Jornadas posteriores** — Presencia recurrente en el nivel
 - **[[Trocadero|Lord Tarmis]] / [[Trocadero]]** los movilizó contra el grupo en algún momento
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Cohorte de hombres-bestia de [[Lady_Deino]] que patrulla los [[Halls_of_Thoth_Nivel|Halls of Thoth]] del [[Mega_Dungeon_Arden_Vul]]: su sitio es un nivel del descenso, una franja del estrato que comparten con rivales del mismo piso. Que hayan limpiado las paredes de los frescos thothianos para vecinar al [[Culto_de_Set]] y a los [[Halflings_Plumthorn|Halflings de Plumthorn]] muestra cómo cada capa del dungeon se reparte entre facciones que heredaron y reescribieron la era anterior.* — glosa de Arkos.
+<!-- /CICLO -->

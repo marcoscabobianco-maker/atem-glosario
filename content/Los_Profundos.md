@@ -31,9 +31,9 @@ En el centro de Los Profundos hay un pelirrojo de ojos verdes de unos noveciento
 
 A su lado, [[Maleika_Maleyka|Maleika]] — que comenzó siendo [[Erzebeth]], bruja de los Profundos iniciales, hasta que [[Erzebeth]] quedó atrapada como guardiana de la [[Plataforma_Tauro|Plataforma de Tauro]] y [[Teresa]] tuvo que seguir con otro nombre. La sucesión [[Erzebeth]]-Maleika es una de las imágenes más poderosas del archivo: el personaje que se sacrifica en el sistema cósmico y el que continúa cargando su legado. Maleika se convierte en tortuga para comunicarse con [[Seth]], el dios encarcelado en el fondo del mar. Cuando hay algo que necesita ir al fondo, Maleika puede ir.
 
-Y está Zoro — que en realidad es [[Zoro_Dr_Zoulu|Dr. Zoulu]], que en realidad tiene treinta y un años en 1889 pero su yo de un año de vida existe simultáneamente en algún lugar de los Estados Unidos. Lo envió desde 1919 el General Tasker H. Bliss con un maletín y una cinta de película cuyo contenido es secreto. La paradoja temporal de Zoro no es accesoria: es el símbolo de toda la [[El_Juicio_Final_campana|campaña]]. En Antiterra, el tiempo ya se dobla sobre sí mismo. Los que vienen del futuro no son viajeros del tiempo sino consecuencias inevitables de lo que ya pasó.
+Y está Zoro — que en realidad es [[Zoro_Dr_Zoulu|Dr. Zoulu]], que en realidad tiene treinta y un años en 1889 pero su yo de un año de vida existe simultáneamente en algún lugar de los Estados Unidos. Lo envió desde 1919 el General Tasker H. Bliss con un maletín y una cinta de película cuyo contenido es secreto. La paradoja temporal de Zoro no es accesoria: es el símbolo de toda la [[El_Juicio_Final_campana|gesta]]. En Antiterra, el tiempo ya se dobla sobre sí mismo. Los que vienen del futuro no son viajeros del tiempo sino consecuencias inevitables de lo que ya pasó.
 
-Los Profundos terminan el 21 de diciembre de 1889. Lo que sigue —[[Los_Reguladores]]— no es una segunda campaña sino la misma campaña con otra velocidad: los mismos personajes con más cicatrices y la certeza de que Antiterra se dirige hacia algo que ningún tratado puede detener. La [[Piedra_del_Apocalipsis]] circula entre facciones infernales. [[Barbatos]] actúa. [[Lord_Gaul]] mantiene [[Francia]] bajo dominación indirecta con una legión [[Baatezu]]. La Gran Exposición Universal de 1900 abrirá portales directos a [[Sigil]] en el corazón de París —en este mundo, la historia no termina en las guerras del siglo XX sino en la revelación de que siempre existió un otro lado.
+Los Profundos terminan el 21 de diciembre de 1889. Lo que sigue —[[Los_Reguladores]]— no es una segunda gesta sino la misma gesta con otra velocidad: los mismos personajes con más cicatrices y la certeza de que Antiterra se dirige hacia algo que ningún tratado puede detener. La [[Piedra_del_Apocalipsis]] circula entre facciones infernales. [[Barbatos]] actúa. [[Lord_Gaul]] mantiene [[Francia]] bajo dominación indirecta con una legión [[Baatezu]]. La Gran Exposición Universal de 1900 abrirá portales directos a [[Sigil]] en el corazón de París —en este mundo, la historia no termina en las guerras del siglo XX sino en la revelación de que siempre existió un otro lado.
 
 [[El_Fabuloso]], gnomo judío que viaja dentro de su golem [[Boro]], carga un geas y tarde o temprano va a traicionar: no por maldad sino porque los geas funcionan así, y porque en este universo cada victoria personal se paga con una herida al proyecto colectivo. Es la [[Corrupcion_Dual|Corrupción Dual]] en su versión doméstica: el que vence genera la semilla del próximo desastre. [[Benetton]] el paladín escribe cartas a su yegua alazana. Las cartas son el único documento íntimo que el archivo guarda de este período: en medio del combate contra fuerzas demoníacas y del trabajo de mantener el orden en un mundo que se desintegra, alguien se toma el tiempo de escribirle a su caballo sobre lo que vio y lo que sintió. La historiografía de Antiterra vive en esos márgenes.
 
@@ -64,10 +64,10 @@ tramo final antes de la transición a **[[Los_Reguladores|Los Reguladores]]**.
 
 ## Apariciones notables
 
-Sucesos de [[Antiterra_Demonia|Antiterra]] pp. 8-13 (gesta completa,
-1888-1889 [[Anno_Domini_Antiterra_ADA|A.D.A.]]). MC_LINEA_TEMPORAL.md — Tabla V.
+Sucesos de [[Antiterra_Demonia|Antiterra]] (gesta completa,
+1888-1889 [[Anno_Domini_Antiterra_ADA|A.D.A.]]).
 
-*Cross-ref Gary del Mundo Nuevo ([[Lords_of_Creation|1987]]):* en el Mundo Nuevo 9: "[[Aries]] es el templo donde alguna vez los Profundos se enfrentaron a las mercenarias mexicanas." Los Profundos son referenciados directamente dentro del sistema de plataformas zodiacales del Mundo Nuevo. En 9: "los reguladores, perdón, los profundos, sean unos anarquistas pero resentidos, cuando se fueron a la [[Atlantida_Alta_y_Baja|Atlántida]] volvieron." En 9: "los profundos barroreguladores" — el nombre compuesto une ambas identidades. Esto confirma que Los Profundos y [[Los_Reguladores|Los Reguladores]] son la misma continuidad vista desde el hub de 1987.
+*Cruce con Gary del Mundo Nuevo ([[Lords_of_Creation|1987]]):* el archivo del Mundo Nuevo nombra a [[Aries]] como "el templo donde alguna vez los Profundos se enfrentaron a las mercenarias mexicanas" —los Profundos aparecen así inscriptos en el sistema de plataformas zodiacales del Mundo Nuevo—. Otra anotación los llama, entre dudas, "los reguladores, perdón, los profundos… unos anarquistas resentidos, que cuando se fueron a la [[Atlantida_Alta_y_Baja|Atlántida]] volvieron"; y otra, "los profundos barroreguladores" —el nombre compuesto une ambas identidades—. Esto confirma que Los Profundos y [[Los_Reguladores|Los Reguladores]] son la misma continuidad, vista desde el nudo de 1987.
 
 ## Notas
 
@@ -87,6 +87,11 @@ continuidad de manos a través de distintos grupos y épocas.
 - [[Maleika_Maleyka|Maleika]]
 - [[Zoro_Dr_Zoulu|Zoro / Dr. Zoulu]]
 - [[Los_Reguladores|Los Reguladores]]
-- [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] — cofradía batracia del Atlántico Sur (1966) que reúsa el nombre «los Profundos»: eco cosmológico entre campañas, no la misma hermandad atlante.
+- [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] — cofradía batracia del Atlántico Sur (1966) que reúsa el nombre «los Profundos»: eco cosmológico entre sagas, no la misma hermandad atlante.
 
 ## Presentación
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☷ ☯ ⟳
+> *Banda cuyo nombre es el programa: descienden por el túnel subacuático al reino de [[Cakravartin|Cakravartin]] en la [[Atlantida_Alta_y_Baja|Atlántida]] y vuelven nombrados —Los Profundos por el océano y por lo que les pasó dentro—. Operan entre Terra y [[Antiterra_Demonia|Antiterra]], hemisferios gemelos que se contagian, hasta el cierre de 1889 que los hace [[Los_Reguladores]]. Y cuando [[Erzebeth]] queda atrapada como guardiana de la [[Plataforma_Tauro|Plataforma de Tauro]], [[Maleika_Maleyka|Maleika]] sigue con otro nombre: el oficio del que se sacrifica en el sistema pasa al que continúa.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

@@ -67,4 +67,9 @@ El destino actual del Amuleto **queda abierto**. [[Las_Tullidas]] siguen siendo 
 - Arco del Señor del Orden — plan de redirigir a los Modrons
 - [[Las_Tullidas]] como agentes — misión de información
 - Pozos de la Araña Demonio — destino de la última misión documentada
-- Mención en `Supremos.docx` como cabo abierto del Triunvirato
+- Mención en el ciclo de [[Los_Supremos]] como cabo abierto del Triunvirato
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ⛓
+> *Artefacto que no opera entero: es una puerta cuya llave fue arrojada del otro lado de la grieta dual, al abismo de la diosa de los dragones —probable [[Avishai_draconicos_Tiamat|Tiamat]]—, de modo que usarlo exige recuperar primero la mitad perdida. Del mismo orden cosmológico que la [[Vara_del_Infinito]], es búsqueda recurrente: [[Senor_del_Orden_Primos|Primos]] desvió la [[Marcha_de_los_Modrones|Marcha de los Modrons]] para hallarlo y murió antes, y la banda de señoritas [[Las_Tullidas]] lo rastrea por encargo de [[Grazzt|Graz'zt]]. La llave separada de la puerta es la casa del objeto triádico que cruza arcos sin completarse.* — glosa del Decadiano.
+<!-- /CICLO -->

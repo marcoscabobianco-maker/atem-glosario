@@ -28,7 +28,7 @@ imagen: null
 
 > *"Los delvers no necesitan jerarquía permanente. Pero necesitan a alguien que hable por todos cuando el alcaide pregunta. Esa figura existe en cada villa frontera de Irthuin con dungeon respirando debajo. En [[Glastumville]] se llama Kaitor el Rojo, y la barba le hace honor al nombre."* — pliego de la cofradía mercenaria de [[Narsileon]], comentario al margen.
 
-La lámina —*si el alcaide hubiera autorizado retrato del portavoz*— **no se ha consignado**. ha respondido que los aventureros vivos **rara vez piden retrato**: *prefieren la grabación oral de sus hazañas a la fijación icónica*. *Kaitor*, *según los pliegos rurales*, **comparte la preferencia**.
+La lámina —*si el alcaide hubiera autorizado retrato del portavoz*— **no se ha consignado**: los aventureros vivos **rara vez piden retrato**, *prefieren la grabación oral de sus hazañas a la fijación icónica*. *Kaitor*, *según los pliegos rurales*, **comparte la preferencia**.
 
 ---
 
@@ -150,3 +150,8 @@ El **archivero del Plata** —*que conserva una glosa que el cronista decadiano 
 - **Ciclo previo al Hiato** — interlocución regular con la alcaidía; mediación interna en la Comunidad de Aventureros
 - **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — paradero objeto de pregunta abierta
 - **Ciclo presente** — activo en Glastumville; barba bermeja todavía conservada; interlocución continuada
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛓
+> *Portavoz de los que bajan: coordina el [[Compañia_de_la_Lanza_Dorada|Consejo de Delvers]] de [[Glastumville]], la comunidad de cuadrillas que desciende por los niveles del [[Mega_Dungeon_Arden_Vul]] hasta el Suelo del Gran Abismo, y media entre ellas y el alcaide [[Sir_Glastum]]. Él mismo encabeza una banda nombrada, los Lanza del Cromático, de composición rotativa que el archivero del Plata sospecha red operativa. Su oficio es el del dungeon estratificado visto desde la superficie que reparte sus capas.* — glosa del Decadiano.
+<!-- /CICLO -->

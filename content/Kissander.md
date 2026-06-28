@@ -19,5 +19,3 @@ aliases:
 ## Ver también
 
 - [[Identidad_revelada|Identidad revelada]]
-- [[Genealogia|Genealogía]]
-- [[Concepto_cosmico|Concepto cósmico]]

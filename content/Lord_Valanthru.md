@@ -38,7 +38,7 @@ imagen: null
 
 ## El conspirador detrás de los secuestros
 
-**Lord Valanthru es figura central de la conspiración que opera detrás de los secuestros de niños en Caldero**. *Su ritual involucra **niños marcados con signos zodiacales*** —*posible eco del plan Sentinela de [[Grazzt]] en otras campañas del cosmos extendido*—. **El número Trece de la profecía [[Cageewrights]]** *puede corresponder a las marcas zodiacales más una marca complementaria*: **doce signos del zodíaco + una marca central** *que el ritual requiere*.
+**Lord Valanthru es figura central de la conspiración que opera detrás de los secuestros de niños en Caldero**. *Su ritual involucra **niños marcados con signos zodiacales*** —*posible eco del plan Sentinela de [[Grazzt]] en otras gestas del cosmos extendido*—. **El número Trece de la profecía [[Cageewrights]]** *puede corresponder a las marcas zodiacales más una marca complementaria*: **doce signos del zodíaco + una marca central** *que el ritual requiere*.
 
 *La conexión cosmológica con las [[Plataformas_de_Vala_Ely|Plataformas zodiacales primigenias]]* **es hipótesis del archivero del Plata**: **los niños marcados zodiacalmente** *podrían ser instrumento ritual* **para reactivar Plataformas estancadas en el polo negativo del cosmos extendido**, *operación que abriría grieta cosmológica mayor en Caldero*. **Si Valanthru opera con conciencia plena de la profecía**, *es agente del polo negativo*; **si opera por reflejo doctrinal heredado**, *es vehículo inconsciente*.
 
@@ -85,3 +85,8 @@ imagen: null
 - **Infiltración fallida de [[Ayrton_Auslander|Ayrton]]** — descubierto por dron hechicero
 - **1824 AE — ciclo presente** — intocable, operación clandestina sostenida
 - **Próximo ciclo (anticipado)** — manifestación posible como megavarón industrial-mágico, sucesor del [[Papa_Borg_de_Caldero]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ⟳
+> *Intocable en su [[Torre_de_Obsidiana]], Valanthru no se vence: se guarda, sostenido por la falta de pruebas hasta la hora de su ritual. Y su ritual es de las doce plataformas: junta niños marcados con los doce signos zodiacales más una marca central —el número Trece de los [[Cageewrights]]— para reactivar las [[Plataformas_de_Vala_Ely|Plataformas]] estancadas en el polo negativo, completando lo que el [[Papa_Borg_de_Caldero]] no consumó.* — glosa del archivero del Plata.
+<!-- /CICLO -->

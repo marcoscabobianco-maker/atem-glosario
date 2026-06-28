@@ -23,5 +23,3 @@ aliases:
 
 ## Ver también
 
-- [[Busqueda|Búsqueda]]
-- [[Hipotesis_de_identidad|Hipótesis de identidad]]

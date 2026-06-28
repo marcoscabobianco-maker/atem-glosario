@@ -35,7 +35,7 @@ Conecta con la entrada existente del glosario donde [[Magda]] invoca dos presenc
 *"Se apuestan hostias que hacen guardianes, se compran con almas intensas."* La cadena operativa:
 
 1. **Almas intensas** → moneda más profunda; con ellas se compran hostias
-2. **Hostias consagradas** → moneda de la mesa; con ellas se generan guardianes
+2. **Hostias consagradas** → la moneda en juego; con ellas se generan guardianes
 3. **[[Guardianes]]** → entidades atrapadas en las plataformas zodiacales del [[Juego_de_las_Sombras]]
 
 Quien gana hostias en el póker puede después generar guardianes que activan plataformas. Las cartas son la antesala de las plataformas zodiacales.
@@ -57,9 +57,9 @@ Quien gana hostias en el póker puede después generar guardianes que activan pl
 
 El pacto que Oratiol acepta tiene **letra chica**: una vez al año, **debe cometer un asesinato** —sacrificio de un alma inocente para una potencia oscura del infierno—. La primera víctima fue **una muchachita noble en el puente de los suspiros**. El archivo cuenta: ***"68 inocentes sacrificadas a una potencia oscura del infierno"*** —cifra acumulada del cumplimiento ritual de Oratiol—.
 
-### Confirmación canónica de (2026-05-20)
+### El cabo de las cartas
 
-*"Las cartas de Pokar tienen que ver con el Poker de hostias."* La mención de **"cartas de póker"** como cabo abierto en `Supremos.docx` se identifica con este evento.
+Las *"cartas de póker"* que el archivo dejó como cabo abierto se identifican con este Póker de Hostias.
 
 ## Ver también
 
@@ -72,3 +72,8 @@ El pacto que Oratiol acepta tiene **letra chica**: una vez al año, **debe comet
 - [[Magda]]
 - [[Steve_Reyes]]
 - *[[Sucesos_de_Antiterra]]* — fuente primaria
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⛧ ⟳
+> *Una partida que es la antesala del cosmos: en la cripta de la Bastilla, [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] juegan, pero lo que se apuesta son hostias que hacen [[Guardianes]] —y los guardianes son los que activan las plataformas zodiacales del [[Juego_de_las_Sombras]]. Así la banda nombrada teje, sin saberlo del todo, la máquina giratoria del oficio: ganar la mano es fabricar al que quedará atado a una casa, como la [[Kimchi_Princess|Princesa Kimchi]] terminó guardiana de Sagitario. Y el ganador absoluto, [[Lotario|Oratiol]], paga con el pacto que condena: una vez al año un asesinato, sesenta y ocho inocentes, por las autoridades diabólicas de [[Catedral_de_Notre-Dame_PU|Notre Dame]].* — glosa de Sucesos.
+<!-- /CICLO -->

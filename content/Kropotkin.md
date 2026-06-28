@@ -25,7 +25,7 @@ tags:
 
 ## Presentación
 
-**Kropotkin** es **el anarquista ruso del entorno de los Reguladores** —no francés, pese a la geografía del avance del grupo desde [[Carcasona]] hacia París—. Su perfil es el del **libertario clásico**, hombre del programa: **escribirá en el futuro, por lo menos en Terra, *Ciencia moderna y anarquismo*** —la obra que la mesa cita como referencia explícita—.
+**Kropotkin** es **el anarquista ruso del entorno de los Reguladores** —no francés, pese a la geografía del avance del grupo desde [[Carcasona]] hacia París—. Su perfil es el del **libertario clásico**, hombre del programa: **escribirá en el futuro, por lo menos en Terra, *Ciencia moderna y anarquismo*** —la obra que el archivo cita como referencia explícita—.
 
 ### La maza de los maillotins
 
@@ -58,3 +58,8 @@ Pero el arco de Kropotkin no termina en el avance Reguladores. La frase del arch
 - Avance terrestre Reguladores 1889-1890 — aparición como aliado libertario contra [[Lord_Gaul]]
 - Sigil resarcida — comisario político post-Torneo Eiffel
 - Futuro (en Terra) — autor de *Ciencia moderna y anarquismo*
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El anarquista ruso de la maza no actúa solo: su arco es el de [[Los_Reguladores]]. Se les alía contra [[Lord_Gaul]] en el avance desde [[Carcasona]] a París, y cuando la banda resarce [[Sigil]] —la Ciudad de las Puertas— él pasa a comisario político de esa fundación planar. El sujeto que arranca como mazudo del pueblo termina siendo función administrativa de la cuadrilla que reconstituyó un nodo del cosmos.* — glosa del archivero del Plata.
+<!-- /CICLO -->

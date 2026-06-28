@@ -15,5 +15,5 @@ Tabaxi cat-folk warrior femenina con scimitar. Los tabaxi son felinos bípedos n
 - [[Sigil]] — la Ciudad de las [[Puertas]], punto de paso natural para exploradores planares como los tabaxi
 - [[Wemic]] — otro cat-folk del Multiverso, par de la tradición felina guerrera
 - [[El_Abismo|el Abismo]] — plano exterior donde los trotamundos tabaxi pueden terminar enredados
-- [[Novatos_Ravenloft]] — campaña del cosmos compartido donde criaturas exóticas de este tipo aparecen
+- [[Novatos_Ravenloft]] — gesta del cosmos compartido donde criaturas exóticas de este tipo aparecen
 - [[Athas]] — mundo de Dark Sun con tradición de razas no estándar y guerreros nómades

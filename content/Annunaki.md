@@ -34,12 +34,12 @@ La hipótesis los pone como **autores cosmogónicos alternativos al panteón abr
 
 ### Iggwilv y Graz'zt: el linaje arcano confirmado en el Mundo Nuevo
 
-El minado del corpus **[[Gary_TNW|Gary TNW]]** entrega una conexión arcana mayor. La **archimaga [[Eagwulf_Iggwilf|Eagwulf]]** —que en el lore canónico de D&D/Greyhawk **es Iggwilv, la creadora de [[Grazzt|Graz'zt]]**— aparece en el Mundo Nuevo como **la que capturó originalmente a [[Grazzt|Grast / Dios de Hierro]]** usando Truenames y dejó un demonómicon con los Truenames de Grast para futuras contingencias. La identificación trans-campaña es directa:
+El minado del corpus **[[Gary_TNW|Gary TNW]]** entrega una conexión arcana mayor. La **archimaga [[Eagwulf_Iggwilf|Eagwulf]]** —que en el lore antiguo de [[Castillo_Greyhawk_TNW|Greyhawk]] **es Iggwilv, la que dio origen a [[Grazzt|Graz'zt]]**— aparece en el Mundo Nuevo como **la que capturó originalmente a [[Grazzt|Grast / Dios de Hierro]]** usando Truenames y dejó un demonómicon con los Truenames de Grast para futuras contingencias. La identificación trans-gesta es directa:
 
-- **Eagwulf (del Mundo Nuevo) = Iggwilv (D&D canónico)** — archimaga vinculada al Kalevala y a la tradición de [[Castillo_Greyhawk_TNW|Castillo Greyhawk]]
-- **Grast (del Mundo Nuevo) = Graz'zt (ciclo)** — el Dios de Hierro del Mundo Nuevo comparte grafía, linaje arcano y firma con el Graz'zt central del setting del ciclo
+- **Eagwulf (del Mundo Nuevo) = Iggwilv (del lore antiguo)** — archimaga vinculada al Kalevala y a la tradición de [[Castillo_Greyhawk_TNW|Castillo Greyhawk]]
+- **Grast (del Mundo Nuevo) = Graz'zt (ciclo)** — el Dios de Hierro del Mundo Nuevo comparte grafía, linaje arcano y firma con el Graz'zt central del mundo del ciclo
 
-Esto refuerza la hipótesis de los Annunaki: si Graz'zt opera bajo faceta Néorex con 12 dragones camuflados (= Annunaki), y si Grast (del Mundo Nuevo) es el mismo Graz'zt en otra época, entonces **el campo Annunaki cubre las facetas trans-campaña del demonio mayor**. **[[Wichi-Lobos]]** (Huitzilopochtli), **Néorex** (Roma 270), **Ludovico el Moro** (Milán), **GRDT** (Axum), **Gannibal** (París), **Grast** (Gary 1987) son **manifestaciones de la misma red Annunaki**, no entidades aisladas.
+Esto refuerza la hipótesis de los Annunaki: si Graz'zt opera bajo faceta Néorex con 12 dragones camuflados (= Annunaki), y si Grast (del Mundo Nuevo) es el mismo Graz'zt en otra época, entonces **el campo Annunaki cubre las facetas trans-gesta del demonio mayor**. **[[Wichi-Lobos]]** (Huitzilopochtli), **Néorex** (Roma 270), **Ludovico el Moro** (Milán), **GRDT** (Axum), **Gannibal** (París), **Grast** (Gary 1987) son **manifestaciones de la misma red Annunaki**, no entidades aisladas.
 
 ### Los 12 dragones camuflados
 
@@ -49,7 +49,7 @@ La línea más concreta del archivo los identifica con **los doce dragones camuf
 
 El **[[Grazzt|Neo Rex]]** —encarnación tardía de Graz'zt, con la grafía con la que se proclamó ante [[Aureliano]] en Roma— **cuenta con doce dragones como reserva oculta**. La revelación canónica: **esos doce dragones son, en realidad, Annunaki**. La identidad camuflada es estructural: los Annunaki **no aparecen como Annunaki**, aparecen como dragones; quien busque dragones reales encontrará Annunaki bajo la escama.
 
-El número doce conecta con la geometría recurrente del setting (12 plataformas zodiacales, 12 avenidas del Arc, 12 tribus de Nexus, 12 estatuas del Panteón post-revolucionario, 12 hijos de Maleika). Los Annunaki, en su forma dragónica, completan la serie.
+El número doce conecta con la geometría recurrente del mundo (12 plataformas zodiacales, 12 avenidas del Arc, 12 tribus de Nexus, 12 estatuas del Panteón post-revolucionario, 12 hijos de Maleika). Los Annunaki, en su forma dragónica, completan la serie.
 
 ### El vestiario de Vala
 
@@ -75,14 +75,14 @@ El **[[Solar_Pitri]]** —espíritus solares ancestrales de la cosmología hind�
 - [[Los_Supremos]] / Triunvirato — escenario cosmogónico
 - **Elohim** — creadores rivales del Génesis (referencia abrahámica)
 - [[Grazzt|Néorex]] / **Neo Rex** — el que cuenta con los doce dragones camuflados como reserva
-- **12 Dragones camuflados** — la forma operativa de los Annunaki en el setting
+- **12 Dragones camuflados** — la forma operativa de los Annunaki en el mundo
 - **Wichi-Lobos / Huitzilopochtli** — uno de los Annunaki según la hipótesis de Paul Claudel
 - [[Pablo_de_Alejandria|Paul Claudel]] / Pablo de Alejandría — quien se burlaba así de Huitzilopochtli
 - **Cabezas de Piedra** — figuras del mismo orden cosmogónico
 - **Solar Pitri** — criatura hindú que opera en lo que hace las veces de América
 - [[Cuatro_Espejos_Negros]] — pendiente cotejo (¿son los Espejos los Annunaki o entidades distintas?)
 - **Mitología sumeria** — Annunaki como dioses sumerios originales
-- [[Vala]] — setting cuyo vestiario propio se ha usado para trabajar a los Annunaki
+- [[Vala]] — mundo cuyo vestiario propio se ha usado para trabajar a los Annunaki
 
 ## Apariciones
 

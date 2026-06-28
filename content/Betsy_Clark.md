@@ -23,7 +23,7 @@ aliases:
 
 ## Presentación
 
-Cuando los cóndores reparten a los pasajeros por las casas de la isla al caer la noche, hay una puerta que se abre con una sonrisa de más. La mujer que recibe a los recién llegados del [[Operativo_Condor|Operativo Cóndor]] se llama Betsy Clark —el cuaderno 99 la registra con su otro nombre, el de viuda de **Casa Brockford**, y la mesa terminó de fijar su nombre completo: **Betsy Ann Clark**, huida de Brockford. Las dos grafías designan a la misma viuda. Es ella la dueña del umbral: la campaña entra en lo sobrenatural por su puerta.
+Cuando los cóndores reparten a los pasajeros por las casas de la isla al caer la noche, hay una puerta que se abre con una sonrisa de más. La mujer que recibe a los recién llegados del [[Operativo_Condor|Operativo Cóndor]] se llama Betsy Clark —el cuaderno 99 la registra con su otro nombre, el de viuda de **Casa Brockford**, y el archivo terminó de fijar su nombre completo: **Betsy Ann Clark**, huida de Brockford. Las dos grafías designan a la misma viuda. Es ella la dueña del umbral: la gesta entra en lo sobrenatural por su puerta.
 
 La hospitalidad es de fachada. A quien la mira con verdadera atención —quien alcanza a ver lo que está debajo— se le tuerce algo en la mirada de ella. La casa guarda señas que ninguna viuda isleña debería tener: fotos de un hombre que pudo ser oficial de la Segunda Guerra, un revólver del treinta y ocho bajo la cama, y, en algún rincón, prendas sin costura. Esos **trajes sin costura** son la primera de las señas que más tarde se revelan como una sola cosa: la marca de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]], la cofradía batracia que adora a Tulu desde el fondo del mar. Betsy no acoge a los argentinos: los estudia, y juega a recibirlos sin que sepan a qué casa han entrado.
 
@@ -37,7 +37,7 @@ Su tragedia, sin embargo, no es cósmica sino doméstica. Betsy es la madre de [
 
 ## Notas
 
-El registro físico de la viuda y de su casa —la Orden de Dagón, el zirconio, las cuevas subterráneas, el [[Monumento_de_Huesos_de_Ballena]]— se guarda en el cuaderno 99 bajo el apellido Brockford; en el desarrollo de la mesa se la nombra como Betsy Clark. Su arco queda abierto: la metamorfosis del hijo no se ha consumado y el destino de la casa pende todavía sobre la campaña.
+El registro físico de la viuda y de su casa —la Orden de Dagón, el zirconio, las cuevas subterráneas, el [[Monumento_de_Huesos_de_Ballena]]— se guarda en el cuaderno 99 bajo el apellido Brockford; en el desarrollo de la gesta se la nombra como Betsy Clark. Su arco queda abierto: la metamorfosis del hijo no se ha consumado y el destino de la casa pende todavía sobre la gesta.
 
 ## Ver también
 

@@ -78,7 +78,7 @@ Varboka **se mueve activamente por su dominio**, alternando entre el trono, los 
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
 - [[Court_of_Troll_Thegn|Court of Troll Thegn]] — su dominio
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Varumani]] — su pueblo
 - [[Beacon_Faro_Brillante]] — su proyecto central
 - [[Kaliyani]] — enemigos ancestrales

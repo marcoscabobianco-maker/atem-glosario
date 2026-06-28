@@ -26,4 +26,3 @@ Ver también **[[Centauros_Alfa_Centauri_Faccion|Centauros]] / Alfa Centauri**, 
 
 ## Ver también
 
-- [[Composicion_observada|Composición observada]]

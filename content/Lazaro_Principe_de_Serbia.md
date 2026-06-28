@@ -32,3 +32,8 @@ aliases:
 ## Notas
 
 Figura histórica real integrada en cosmología ucrónica. Su muerte es el "punto de anclaje" que los compañeros deben alterar para romper el ciclo. Ver también **[[Batalla_de_Kosovo_1389|Batalla de Kosovo (1389)]]**, **San [[Vito_Guia|Vito]] (Fecha/[[Golden_Bones_Maldicion|Maldición]])**, **[[Gavrilo_Princip|Gavrilo Princip]]**, **[[Mano_Negra_Antiterra_Serbia|Mano Negra]]**.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⌖
+> *Mártir histórico real —cae en la [[Batalla_de_Kosovo_1389|Batalla de Kosovo]] el 28 de junio de 1389— vuelto pieza de relojería: su muerte es el punto de anclaje que los compañeros viajan a alterar, porque la fecha que la [[Mano_Negra_Antiterra_Serbia|Mano Negra]] explota para [[Sarajevo_1914_Salto_Temporal|Sarajevo 1914]] es la misma de San [[Vito_Guia|Vito]]. La Historia entra verbatim y el tiempo se vuelve algo que se viaja para descoser.* — glosa del archivero del Plata.
+<!-- /CICLO -->

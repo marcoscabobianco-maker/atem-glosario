@@ -83,7 +83,7 @@ Con el **[[Vencimiento_Varumani]]**:
 - [[Kauket]] — divinidad patrona
 - [[Varumani]] (vencidos) — antiguo opositor regional
 - [[Papa_Alejandro_Sixto]] — autoridad post-hiato (alianza o conflicto)
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 

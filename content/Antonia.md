@@ -25,3 +25,8 @@ Antonia y **[[Maleika_Maleyka]]** son personajes distintos, de manos distintas. 
 ## Ver también
 
 - [[Javier_de_la_Buena|Javier de la Buena]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Arquera bárbara enrolada en la banda anarquista de [[Los_Profundos|Los Profundos]] en la Antiterra de 1888: una de las manos que componen el sujeto colectivo, no una solitaria. Su hilo se trenza con el de [[Javier_de_la_Buena|Javier de la Buena]] —de quien pare un hijo en la [[Atlantida_Alta_y_Baja|Atlántida]]— y se distingue del de [[Maleika_Maleyka]], otra mano de otra fase. La banda dura porque sus integrantes se cruzan y se relevan; Antonia es uno de esos nudos.* — glosa del archivero del Plata.
+<!-- /CICLO -->

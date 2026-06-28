@@ -12,7 +12,7 @@ aliases:
 
 ## Presentación
 
-Bebida de luminiscencia extraña ofrecida por [[Moni_Vivescu|Príncipe Vivescu]] a través de sus matones en taberna de [[Cartouche]]. Utilizada para envenenamiento de Claude. [[Efectos]]: casi lo "tumba," resistible con voluntad fuerte. Naturaleza: poción mágica, veneno, o sustancia extraplanar. Origen: desconocido (posiblemente vinculado a "la Serpiente").
+Bebida de luminiscencia extraña ofrecida por [[Moni_Vivescu|Príncipe Vivescu]] a través de sus matones en taberna de [[Cartouche]]. Utilizada para envenenamiento de Claude. Efectos: casi lo "tumba," resistible con voluntad fuerte. Naturaleza: poción mágica, veneno, o sustancia extraplanar. Origen: desconocido (posiblemente vinculado a "la Serpiente").
 
 ## Apariciones notables
 

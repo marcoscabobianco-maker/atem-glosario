@@ -46,7 +46,7 @@ En el ciclo final de Antiterra, Barbatos es el **objetivo declarado del arco fin
 
 Pero hay más antes de la lanza. En Ciudades Invisibles, en una jornada que el archivo conserva como *"genética"*, Barbatos hizo algo del orden de los crímenes íntimos: **mató a Neferu —la esposa de Jalín/[[Khalim]]— y le robó el alma**. La conexión [[Khalim]]-Barbatos quedó establecida desde entonces como deuda no saldada. Cuando los Reguladores apuntan contra Barbatos en 1901, los hilos que están cortando son largos y vienen de muchas mesas distintas.
 
-Hay una nota delicada sobre **Maestro de [[Kirios]]** —referencia trans-campaña que el archivo deja apuntada—. Barbatos no es figura aislada: es nodo de una red infernal que cruza Ciudades Invisibles, Antiterra y otros mundos.
+Hay una nota delicada sobre **Maestro de [[Kirios]]** —referencia trans-gesta que el archivo deja apuntada—. Barbatos no es figura aislada: es nodo de una red infernal que cruza Ciudades Invisibles, Antiterra y otros mundos.
 
 ## Vínculos
 
@@ -61,7 +61,7 @@ Hay una nota delicada sobre **Maestro de [[Kirios]]** —referencia trans-campa�
 - Templo de Pelor (CI) — donde se revela su teología
 - [[Neferu_La_Estranguladora_del_Nilo|Neferu]] — víctima en jornada "genética"
 - [[Khalim]] / Jalín — esposo de Neferu, vinculado por la deuda
-- [[Kirios]] — referencia trans-campaña como su maestro
+- [[Kirios]] — referencia trans-gesta como su maestro
 - [[Grazzt|Graz'zt]] — otro gran diablo, relación pendiente de cotejo
 - [[Eyjatas]] — el báculo (que [[Lotario]] también porta)
 - Arsace, Luque — conexión histórica de 180 años
@@ -75,3 +75,8 @@ Hay una nota delicada sobre **Maestro de [[Kirios]]** —referencia trans-campa�
 - Ciudades Invisibles, jornada *"genética"* — asesinato de Neferu, robo de su alma
 - Templo de Pelor — revelación teológica como cara oculta de Apolo
 - Combate final, 1901 A.D.A. — muerte a manos de Benetton
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ △ ⟳ ⛓
+> *Gran diablo de la *Ars Goetia* registrado como cara oculta y gnóstica de [[Pelor]]/Apolo —el lado oscuro del dios solar, dualidad hecha persona. Custodia la [[Piedra_del_Apocalipsis]], pieza terminal de la Vara triádica, hasta que la banda de [[Los_Reguladores|Reguladores]] converge sobre él en 1901: [[Benetton]] u [[Oratiol]] le da el golpe, y alguien se queda con el manto de ojos y la vara —el que mata al Portero hereda sus reliquias.* — glosa de Arkos.
+<!-- /CICLO -->

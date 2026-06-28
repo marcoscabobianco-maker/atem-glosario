@@ -17,8 +17,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** el archivo (profundos), [384] (MC troncal).
-*Conexiones:* **[[Patriarca]]**, **[[Dou-Frome]]**, **[[Yelmalio]]**, **[[Glastonbury]]** (posible Terra-equivalent).
+Sede eclesiástica del cosmos compartido, vinculada al [[Patriarca]], a [[Dou-Frome]] y a [[Yelmalio]]; el archivo apunta a [[Glastonbury]] como su posible equivalente en Terra.
 
 ## Ver también
 
@@ -27,13 +26,9 @@ aliases:
 - [[Yelmalio|Yelmalio]]
 - [[Glastonbury|Glastonbury]]
 
-### el plano operativo
+## Glastumville en Ardis Vala (eco trans-gesta)
 
-**Ref.:** el archivo (profundos), [384] (MC troncal).
-
-## Glastumville en Ardis Vala (eco trans-campaña — Gaceta el archivo)
-
-**Confirmado por la Gaceta de [[Ardis_Vala]]**: hay otra Glastumville (o **la misma reencarnada**) **al pie de la cascada de [[Ardis_Vala]]** en el setting Archonteo.
+**Confirmado por la Gaceta de [[Ardis_Vala]]**: hay otra Glastumville (o **la misma reencarnada**) **al pie de la cascada de [[Ardis_Vala]]** en tierras Archonteas.
 
 ### Datos canónicos Ardis Vala
 
@@ -57,14 +52,14 @@ aliases:
 
 - **Bazar central caótico**
 - **[[La_Ballena_Blanca_Taberna|Taberna]] "La Hidra Decapitada"** —la más famosa—
-- **[[La_Ballena_Blanca_Taberna|Taberna]] "El Acólito Aturdido"** —donde inició la campaña de los [[Buscadores_de_Ardis_Vala|Buscadores]] en el archivo—
+- **[[La_Ballena_Blanca_Taberna|Taberna]] "El Acólito Aturdido"** —donde inició la saga de los [[Buscadores_de_Ardis_Vala|Buscadores]] en el archivo—
 - **[[Little_Death_Campamento|Campamento]] Extramuros** —marginales y refugiados—
 
-### Conexión trans-campaña
+### Conexión trans-gesta
 
-**Posibilidad cosmológica**: las dos Glastumville ([[Antiterra]] eclesiástica + Ardis Vala fronteriza) son **manifestaciones del mismo locus cosmológico** que reaparece en distintas campañas del cosmos compartido. Cf. **[[Glastonbury]] Tor** mítico = nodo del cosmos compartido que vuelve.
+**Posibilidad cosmológica**: las dos Glastumville ([[Antiterra]] eclesiástica + Ardis Vala fronteriza) son **manifestaciones del mismo locus cosmológico** que reaparece en distintas gestas del cosmos compartido. Cf. **[[Glastonbury]] Tor** mítico = nodo del cosmos compartido que vuelve.
 
-**Conexión a verificar con **: ¿son **la misma Glastumville** en distintos tiempos (Antiterra histórica → Ardis Vala fronteriza), **dos lugares con el mismo nombre**, o **eco diegético deliberado** del setting del ciclo?
+**Pregunta abierta**: ¿son **la misma Glastumville** en distintos tiempos (Antiterra histórica → Ardis Vala fronteriza), **dos lugares con el mismo nombre**, o **eco diegético deliberado**?
 
 ### Vínculos Ardis Vala
 
@@ -75,5 +70,5 @@ aliases:
 - [[Eusebia_Phokas]], [[Theron_Glesteon]], [[Wicktrimmer]], [[Kaitor_el_Rojo]] — figuras locales
 - [[Mercaderes_Factoriales]], [[Hermandad_Benevola]], [[Compañia_de_la_Lanza_Dorada]] — facciones
 - [[Valakhan_de_la_Bruma]] — dominio Ravenloft
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Patriarca]] / [[Yelmalio]] — versión Antiterra eclesiástica (eco)

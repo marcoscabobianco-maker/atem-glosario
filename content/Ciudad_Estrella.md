@@ -165,3 +165,8 @@ imagen: null
 - **1812-1824 AE — Aceleración de la Revolución Industrial Mágica** — universidades, fundiciones, marcas, gremios
 - **1824 AE — Ciclo presente** — modernización en pleno desarrollo, sospechas sobre laboratorios sellados, rumores de nuevo Papa Borg en gestación
 - **Próximo ciclo** — anticipación abierta de un nuevo papado Borg posiblemente industrial-mágico
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ △
+> *Capital del mundo-gema [[Vala_Cristalis]] y hermana de [[Caldero]] bajo el polo dual: una repite a la otra como dos hemisferios que se contagian, y su nombre ritual «[[Torreluces]]» reincide en el de la torre luminosa de [[Torregrises]] sin que sea azar. El otro hilo es triádico: la [[Gran_Plaza_de_Obsidiana|Plaza de Obsidiana]] en forma de estrella es una pieza de [[Aldebaran_Estrella_Plataforma|Plataforma]] primigenia, llave celeste cuyo beso abre el descenso al sello de la [[Giganta_Antigua|Giganta]].* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

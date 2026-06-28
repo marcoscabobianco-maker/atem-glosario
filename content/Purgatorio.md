@@ -25,3 +25,8 @@ Lo poco más que se sabe lo liga a [[Auro]]: fue en el Purgatorio, en un ciclo a
 
 - [[Auro]] — encontrado, o abandonado, en esta región durante un ciclo anterior al Descenso
 - [[Anti_Inferno|Inferno]] — la otra geografía de ultratumba, con la que el Purgatorio no debe confundirse; en su crónica sobrevive la mención
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Región de ultratumba por derecho propio, escala efectivamente pisada —«cuando llegamos al purgatorio»— y distinta del [[Anti_Inferno|Inferno]] que se baja círculo a círculo. La topografía del más allá se ordena en regiones sucesivas, y esta es una de ellas: la estación donde [[Auro]] fue encontrado, o abandonado, en un ciclo anterior al Descenso. El archivo nombra el estrato y calla el resto.* — glosa de Akala.
+<!-- /CICLO -->

@@ -24,11 +24,11 @@ tags:
 
 ## Presentación
 
-**Melvino Calvino**, también conocido como **El Pingüinoide** o **Sirpe**, es **compañero del grupo** en la campaña **[[Arden_Vul]]**. Es **el personaje más ligado a lo espacial/extraplanar del grupo** —el lado sci-fi que el setting [[Ardis_Vala|Arden Vul]] admite a través de los **rudishva** y el **Beacon**—.
+**Melvino Calvino**, también conocido como **El Pingüinoide** o **Sirpe**, es **compañero del grupo** en la gesta **[[Arden_Vul]]**. Es **el más ligado a lo espacial/extraplanar del grupo** —el lado sci-fi que [[Ardis_Vala|Arden Vul]] admite a través de los **rudishva** y el **Beacon**—.
 
 ### Aspecto y equipamiento
 
-**1.20 m** de altura. **Humanoide con pies de pato**. La descripción del reporte sugiere **especie alienígena o variante propia del setting** —pingüinoide como adjetivo: **forma de pingüino**, con vértebras de ave, plumaje o aspecto plumífero, pico o cara plana, andar particular—. La altura baja lo hace **tipo gnomo/halfling en escala**, pero la línea biológica es otra.
+**1.20 m** de altura. **Humanoide con pies de pato**. La descripción del archivo sugiere **especie alienígena o variante propia del mundo** —pingüinoide como adjetivo: **forma de pingüino**, con vértebras de ave, plumaje o aspecto plumífero, pico o cara plana, andar particular—. La poca altura lo pone a la escala de un gnomo o un halfling, pero la línea biológica es otra.
 
 **Equipamiento tecnológico**:
 - **Blaster** —arma de energía/láser, tecnología alienígena del Beacon o equivalente—
@@ -36,11 +36,11 @@ tags:
 - **Lanzacohetes** —arma de proyectiles, tecnología avanzada—
 - **Percepción de movimiento a 100 metros** —sensor o capacidad propia—
 
-El equipamiento es **tecnológico, no mágico**, lo que lo distingue del resto del grupo (que opera con armas medievales + magia clásica). Melvino opera en **registro sci-fi dentro de un dungeon fantástico**, con todas las ventajas y los riesgos que eso implica (el blaster puede fallar; los rudishva tienen 10% de fallo por uso debido a la antigüedad de su tecnología).
+El equipamiento es **tecnológico, no mágico**, lo que lo distingue del resto del grupo (que opera con armas medievales + magia clásica). Melvino opera en **registro sci-fi dentro de un dungeon fantástico**, con todas las ventajas y los riesgos que eso implica: el blaster puede fallar, y la tecnología rudishva, vieja de milenios, a veces se traba por puro desgaste.
 
 ### Conexión con Spelljammer y otros mundos
 
-La línea del personaje incluye **conexión declarada con Spelljammer** —el setting de D&D que opera con naves arcanas espaciales— **y con otros mundos**. Melvino no es nativo de Vala / Ardisvala: **viene de afuera**, probablemente de un mundo Spelljammer, posiblemente vinculado a los **rudishva** que llegaron en el Beacon hace ~3.000 años. Su pertenencia al grupo es **alianza interplanar**, no compatriotismo.
+La línea del personaje incluye **conexión declarada con Spelljammer** —el reino de las naves arcanas que surcan el espacio entre mundos— **y con otros mundos**. Melvino no es nativo de Vala / Ardisvala: **viene de afuera**, probablemente de un mundo de la órbita de Spelljammer, posiblemente vinculado a los **rudishva** que llegaron en el Beacon hace ~3.000 años. Su pertenencia al grupo es **alianza interplanar**, no compatriotismo.
 
 ### Función táctica
 
@@ -52,8 +52,8 @@ En el grupo, Melvino aporta:
 
 ## Vínculos
 
-- [[Arden_Vul]] — campaña
-- **Spelljammer** — setting de origen probable
+- [[Arden_Vul]] — gesta
+- **Spelljammer** — mundo de origen probable
 - **[[Rudishva]]** — raza alienígena del Beacon (posible conexión)
 - **[[Beacon_Faro_Brillante|Beacon / Faro Brillante]]** — nave alienígena de ~3.000 años
 - **[[RAJ-750]]** — IA del módulo de armas del Beacon (manejada por el grupo)

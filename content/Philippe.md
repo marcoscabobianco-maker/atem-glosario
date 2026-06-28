@@ -62,3 +62,8 @@ Es el más joven del grupo [[Time_Bandits]]. También el más herido desde antes
 - Sarajevo 1914 — uso de rollo de teleportación
 - [[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]] — búsqueda de respuestas sobre [[Kronamon]]
 - Cuevas de Éfeso — intento fallido de letargo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⛓
+> *El tiempo no es trasfondo sino herencia que se paga: Philippe carga [[El_Primer_Reloj]] de [[Kronamon]] y la [[Enmienda_de_Kronamon]], una deuda con el flujo temporal que pesa más que un juramento, e intenta dormir cien años en las Cuevas de Éfeso para gastar el dolor en sueño. Opera como el más joven de los [[Time_Bandits]], la banda que viaja, presta y corrige el tiempo.* — glosa del archivero del Plata.
+<!-- /CICLO -->

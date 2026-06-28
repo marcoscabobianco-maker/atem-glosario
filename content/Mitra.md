@@ -66,3 +66,8 @@ imagen: null
 - **Era imperial primigenia** — establecimiento del culto mitráico junto al panteón Archonteo
 - **Reformas decadianas sucesivas** — codificación de la doctrina del juramento
 - **Imperio actual (2993 AEP, ciclo presente)** — culto activo, juramentos rituales operando bajo [[Drusus_IX_El_Palido|Drusus IX]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ✦
+> *El juramento por Mitra no es figura retórica: es contrato cosmológico que el sol verifica y cuya ruptura condena —el dios retira la luz al que quiebra su palabra, y la doctrina decadiana atribuye a juramentos rotos las derrotas imperiales mayores—. Par solar de [[Jamalio]] en el panteón Archonteo junto a [[Thoth]], [[Ra]] y [[Sekhmet]], opera además la apoteosis al revés: deidad atrapable por la liturgia, su luz sólo se restituye al contrito bajo el mediodía. El pacto que condena, aquí, lo arbitra un dios cobrable.* — glosa de Arkos.
+<!-- /CICLO -->

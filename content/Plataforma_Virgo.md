@@ -47,3 +47,8 @@ Su columna esencial es **la cosecha y el orden paciente**: *lo que se mide antes
 
 - **Cosmología continua** — sexta casa, columna de cosecha y orden
 - **Guardián pendiente de documentación** — la doncella sin nombre canónico fijado
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Sexta casa entre [[Plataforma_Leo|Leo]] y [[Plataforma_Libra|Libra]]: la doncella del haz de mies guarda la plataforma según la ley de la [[Corrupcion_Dual|Corrupción Dual]], donde el oficio del guardián es un cargo que se hereda matando —"quien mata al guardián se convierte en guardián o es destruido"—. La doncella sin nombre que cuenta el grano es la titular vigente del puesto, una de las doce sillas rotativas del [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] a la espera del próximo que la releve.* — glosa de Arkos.
+<!-- /CICLO -->

@@ -19,4 +19,3 @@ aliases:
 
 ## Ver también
 
-- [[Accion_critica|Acción crítica]]

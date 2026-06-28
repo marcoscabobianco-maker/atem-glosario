@@ -17,7 +17,7 @@ aliases:
 
 - **Activación:** Mostrar escudo al enemigo
 - **Resistencia:** El enemigo opone su voluntad; no toda voluntad aguanta
-- **[[Efecto_en_fallo]]:** Enemigo se asusta/retrocede, puede verse a sí mismo en el escudo de manera terrorífica
+- **Efecto en fallo:** Enemigo se asusta/retrocede, puede verse a sí mismo en el escudo de manera terrorífica
 - **Ejemplo del [[Laberinto_Omniporal]]:** Serpiente se refleja, se asusta. Cíclope ve su ojo rojo reflejado, retrocede. El dinosaurio no resiste y retrocede.
 
 **Ref.:** Líneas 270-275, 330-340, 595-610
@@ -28,14 +28,13 @@ aliases:
 
 - Activación
 - Salvación
-- [[Efecto_en_fallo|Efecto en fallo]]
 - Ejemplo del [[Laberinto_Omniporal]]
 
 ### el plano operativo
 
 - **Activación:** Mostrar escudo al enemigo
 - **Resistencia:** El enemigo opone su voluntad; no toda voluntad aguanta
-- **[[Efecto_en_fallo]]:** Enemigo se asusta/retrocede, puede verse a sí mismo en el escudo de manera terrorífica
+- **Efecto en fallo:** Enemigo se asusta/retrocede, puede verse a sí mismo en el escudo de manera terrorífica
 - **Ejemplo del Laberinto Omniporal:** Serpiente se refleja, se asusta. Cíclope ve su ojo rojo reflejado, retrocede. El dinosaurio no resiste y retrocede.
 
 **Ref.:** Líneas 270-275, 330-340, 595-610

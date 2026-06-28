@@ -45,3 +45,8 @@ El axioma tiene, además, una cláusula de custodia: **"Nadie sabe salvo el que 
 - [[Yog-Sothoth_TNW|Yog-Sothoth]] — cooptación de las plataformas: la realidad intervenida
 
 *Fuente canónica: cuaderno C67, pp. 23-25 (el último plan de Graz'zt; el axioma, en p. 25).*
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ⟳ ☯
+> *Axioma del último plan de [[Grazzt|Graz'zt]]: la verdad existe porque fue pactada, y la realidad es noticia falsa. Hubo un pacto entre partes con poder cosmológico —los [[Guardianes]], o [[Lucifer]] y el [[Cakravartin]], o los dioses tras la [[Contienda_la|Contienda]]—, y su único testigo es el eunuco condenado a la infamia: el pacto que se rompe siempre y castra al que lo guarda. El destino, como la verdad, queda en manos de los doce que rotan sobre las [[Juego_de_las_Sombras_Plataformas_Zodiacales|Plataformas Zodiacales]], cooptadas por [[Yog-Sothoth_TNW|Yog-Sothoth]]: lo que se ve no es lo pactado, es su espejo deformado.* — glosa de Arkos.
+<!-- /CICLO -->

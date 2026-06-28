@@ -47,3 +47,8 @@ Su columna esencial es **el equilibrio y el juicio aritmético**: *la balanza qu
 
 - **Cosmología continua** — séptima casa, columna del equilibrio aritmético
 - **Guardián pendiente de documentación**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳
+> *Séptima de las doce casas zodiacales, entre [[Plataforma_Virgo|Virgo]] y [[Plataforma_Escorpio|Escorpio]]: una balanza que pesa sin opinar, regida por la misma ley rotativa que el archivo llama [[Corrupcion_Dual]] — el oficio del que se planta en el platillo no es suyo, lo hereda quien releva al anterior. La figura encapuchada que coloca el peso podría ser el guardián de turno o ya su sucesor; en el [[Juego_de_las_Sombras_Plataformas_Zodiacales|Juego de las Sombras]] el cargo importa más que quien lo ocupa.* — glosa del Decadiano.
+<!-- /CICLO -->

@@ -31,15 +31,15 @@ El **Templo y Lugar de los Justos** es **el palacio-fortaleza del primer nivel d
 
 ### El cruce de Rol Mamba 1
 
-Antes del setting de la campaña Inferno propiamente dicho, el Templo y Lugar de los Justos **ya había aparecido** en **Rol Mamba 1** —la serie de jornadas que la mesa corrió en el **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]**—. Allí se cruzaron las líneas: **historia de Mediterráneum** + **posibilidad de revisitar el infierno**. Aparecieron antiguas habitantes como **[[Samsara]]** —compañero— y **[[Equis]]** —compañero—, y se desarrolló la historia de **[[Arcoms_Cosmar|Marcos el Mago]] y su barco**, un **ser arácnido salido del infierno** que se lleva el **libro azul de la Biblioteca del Infierno**. La historia culminó en el Templo y Lugar de los Justos y después **el barco salió por las Columnas de Hércules** al [[Mediterraneo_Ucronico|Mediterráneo]].
+Antes del setting de la gesta Inferno propiamente dicho, el Templo y Lugar de los Justos **ya había aparecido** en **Rol Mamba 1** —la serie de jornadas que la mesa corrió en el **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]**—. Allí se cruzaron las líneas: **historia de Mediterráneum** + **posibilidad de revisitar el infierno**. Aparecieron antiguas habitantes como **[[Samsara]]** —compañero— y **[[Equis]]** —compañero—, y se desarrolló la historia de **[[Arcoms_Cosmar|Marcos el Mago]] y su barco**, un **ser arácnido salido del infierno** que se lleva el **libro azul de la Biblioteca del Infierno**. La historia culminó en el Templo y Lugar de los Justos y después **el barco salió por las Columnas de Hércules** al [[Mediterraneo_Ucronico|Mediterráneo]].
 
 ### El asalto y las bombas en Inferno
 
-En la campaña Inferno, el Templo y Lugar de los Justos vuelve a ser escenario. **Una parte del Templo es catedral**, y allí **el grupo está siendo asaltado**. Lo que los asaltados no saben es que, **por debajo, entra otro grupo desde un plano de brujas** —las **[[Tres_Brujas_Macbeth|tres brujas Macbeth]]**— **convencido de llevar bombas otra vez**. Es el segundo eco del episodio de las [[Catacumbas_de_Paris|Catacumbas de París]] —el plano Inferno del único episodio de bombas que el cosmos compartido repite en dos planos—. [[Arsvan|Ärsvan]] interviene y desactiva la trampa; [[Ariadna_Genoveva|Ariadna]] recae con guadaña; [[Sven]] casi cae en la tentación del cantito de las brujas.
+En la gesta Inferno, el Templo y Lugar de los Justos vuelve a ser escenario. **Una parte del Templo es catedral**, y allí **el grupo está siendo asaltado**. Lo que los asaltados no saben es que, **por debajo, entra otro grupo desde un plano de brujas** —las **[[Tres_Brujas_Macbeth|tres brujas Macbeth]]**— **convencido de llevar bombas otra vez**. Es el segundo eco del episodio de las [[Catacumbas_de_Paris|Catacumbas de París]] —el plano Inferno del único episodio de bombas que el cosmos compartido repite en dos planos—. [[Arsvan|Ärsvan]] interviene y desactiva la trampa; [[Ariadna_Genoveva|Ariadna]] recae con guadaña; [[Sven]] casi cae en la tentación del cantito de las brujas.
 
 ### Confluencia multi-mundo
 
-Más allá de las bombas, el Templo y Lugar de los Justos contiene **el Sancta Sanctorum** —cámara identificada con **el Tabernáculo y el Arca de la Alianza**—. Allí se desata la **lucha de todos contra todos por el [[Vala_Cristalis]]**, en el arco **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno. La función del lugar es entonces **nodo de confluencia multi-mundo**: donde las campañas del cosmos compartido se cosen entre sí. Pasan por aquí Mediterráneum, [[Paladin_in_Hell]], Rol Mamba 1, Inferno, y los crossovers Masters × [[Cristo_Leon|Mundo de Krile]] con [[Cristo_Leon|Cristo León]].
+Más allá de las bombas, el Templo y Lugar de los Justos contiene **el Sancta Sanctorum** —cámara identificada con **el Tabernáculo y el Arca de la Alianza**—. Allí se desata la **lucha de todos contra todos por el [[Vala_Cristalis]]**, en el arco **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno. La función del lugar es entonces **nodo de confluencia multi-mundo**: donde las gestas del cosmos compartido se cosen entre sí. Pasan por aquí Mediterráneum, [[Paladin_in_Hell]], Rol Mamba 1, Inferno, y los crossovers Masters × [[Cristo_Leon|Mundo de Krile]] con [[Cristo_Leon|Cristo León]].
 
 ## Vínculos
 
@@ -58,7 +58,7 @@ Más allá de las bombas, el Templo y Lugar de los Justos contiene **el Sancta S
 - **Columnas de Hércules** — salida del barco arácnido
 - **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]** — locación real de Rol Mamba 1
 - [[Cristo_Leon]] / **Mundo de Krile** — crossovers Masters
-- [[Anti_Inferno|Campaña Inferno]] — escenario del eco de bombas
+- [[Anti_Inferno|Gesta Inferno]] — escenario del eco de bombas
 
 ## Apariciones
 

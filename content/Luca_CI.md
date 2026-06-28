@@ -28,7 +28,7 @@ tags:
 
 ## Presentación
 
-Luca vino con apellido. **De los Medici** —la casa florentina cuyos signos heráldicos llenarán siglos después los muros de la ciudad—. Su tiempo no es el de Lorenzo el Magnífico sino tres siglos antes: la Florencia del año **mil trescientos**, la de las cruzadas y las disputas con Dante. Allí jugó la Gesta de los [[Florentinos_Heroes_Invisibles|Florentinos]], junto a sus compañeros, en una campaña que terminaría con la invasión del plano astral por githyanki. Sobrevivió a Florenzen como pocos. Y cargó la marca para siempre.
+Luca vino con apellido. **De los Medici** —la casa florentina cuyos signos heráldicos llenarán siglos después los muros de la ciudad—. Su tiempo no es el de Lorenzo el Magnífico sino tres siglos antes: la Florencia del año **mil trescientos**, la de las cruzadas y las disputas con Dante. Allí jugó la Gesta de los [[Florentinos_Heroes_Invisibles|Florentinos]], junto a sus compañeros, en una gesta que terminaría con la invasión del plano astral por githyanki. Sobrevivió a Florenzen como pocos. Y cargó la marca para siempre.
 
 Era **clérigo**, de los que rezan en latín antiguo y curan con la mano puesta. Pero la mano que rezaba no es la que tiene ahora. **[[Grazzt|Graz'zt]]** lo capturó y lo llevó a **[[Tovag_Baragu]]** —la torre negra bajo la luna llena, rodeada de dragones y ruinas, accesible sólo por geometrías imposibles—. Allí lo encerraron y allí pasó lo que las crónicas registran con la mayor sobriedad posible.
 
@@ -40,7 +40,7 @@ Cuando años después lideró el cierre de portales en el **Monte Análogo** —
 
 ## Vínculos
 
-- Florenzen]] — Florencia ~1300, primera campaña
+- Florenzen]] — Florencia ~1300, primera gesta
 - [[Tovag_Baragu]] — la prisión de Graz'zt
 - [[Grazzt|Graz'zt]] — quien lo encarcela y le firma contrato
 - [[Mano_Dorada]] — la extremidad mágica

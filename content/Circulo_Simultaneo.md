@@ -96,3 +96,8 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 - **1901 — operación documentada por los [[Time_Bandits]]** — proyección a Sarajevo 1914
 - **Activación ritual con cantos en dialecto ruso** — descripción del archivo del Plata
 - **Retorno post-asesinato del grupo a la Isla** — cierre operativo del caso
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⌖ ⟳
+> *Dispositivo que no abre con llave sino con cuerpo: proyecta al ocupante a coordenadas temporales fijas —[[Sarajevo_1914_Ucronica|Sarajevo, 28 de junio de 1914]]— y lo obliga a vestir un [[Guardias_Ucronicos|Guardia Ucrónico]], fundiéndose con un conspirador real ([[Claude_Nauge|Claude]] deviene [[Cvjetko_Popovic|Cvjetko Popović]]) para ejecutar el magnicidio que la Historia ya tiene escrito. El tiempo se viaja a precio de agencia y memoria; el oficio del Guardia es rotativo —cada cuerpo entregado toca una nota de la partitura que los [[Inevitable|Inevitables]] orquestan—. La Historia, leída desde el piso 4 del [[Faro-Monolito_El_Faro|Faro-Monolito]], es composición, y el viajero apenas un atril.* — glosa del libro V del Decadiano.
+<!-- /CICLO -->

@@ -39,7 +39,7 @@ Recitado en voz alta —*"Parado aquí escucho los colores… cenizas y diamante
 
 ## El hilo polaco
 
-El conjuro no nace del vacío. Sus palabras vienen de *Cenizas y diamantes*, la novela de Jerzy Andrzejewski que Andrzej Wajda llevó al cine, y por esa puerta el hechizo arrastra consigo el **hilo polaco** que late en el apellido de quien lo recibe: Kowalski. Que sea precisamente Irene la que lo aprende en sueños no parece casual, como si la fórmula buscara a alguien por la raíz de su sangre. La crónica de aquellos días recoge además una broma que circuló alrededor del conjuro —que sus palabras sonaban como una *canción de Racing*—, chispazo de humor que, lejos de rebajar el hechizo, lo enraíza en el habla argentina de la que la campaña entera sale.
+El conjuro no nace del vacío. Sus palabras vienen de *Cenizas y diamantes*, la novela de Jerzy Andrzejewski que Andrzej Wajda llevó al cine, y por esa puerta el hechizo arrastra consigo el **hilo polaco** que late en el apellido de quien lo recibe: Kowalski. Que sea precisamente Irene la que lo aprende en sueños no parece casual, como si la fórmula buscara a alguien por la raíz de su sangre. La crónica de aquellos días recoge además una broma que circuló alrededor del conjuro —que sus palabras sonaban como una *canción de Racing*—, chispazo de humor que, lejos de rebajar el hechizo, lo enraíza en el habla argentina de la que la gesta entera sale.
 
 El registro físico de la fórmula se conserva en el cuaderno 99.
 

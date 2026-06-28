@@ -40,7 +40,7 @@ Hija de **[[Amitlai]]** y el **[[Senor_de_los_Gatos_el_Unico|Señor de los Gatos
 
 ## Apariciones notables
 
-Calendario merged.doc l.425-543 (~120 líneas — arco más extenso después del de [[Amitlai]]).
+[[Calendario]], l.425-543 (~120 líneas — arco más extenso después del de [[Amitlai]]).
 
 ## Notas
 

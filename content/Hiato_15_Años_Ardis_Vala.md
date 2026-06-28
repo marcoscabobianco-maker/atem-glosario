@@ -158,3 +158,8 @@ Volvieron, pero no enteros. **Los quince años los habían tocado a todos**:
 - **Años intermedios del silencio** — Sir Sixto emerge como [[Papa_Alejandro_Sixto|Papa Alejandro VI]]; los [[Varumani]] caen; las brumas cosen el valle; [[Caladan]] se asienta como darklord; Lali se corrompe; aparecen Decio, Argus, [[Carad_de_Teyber]], [[Mirela_Valka]]
 - **Tránsito sin testigo** — Arkos es invocado vía plata mercurial; [[Ardipithecus]] se asienta en la espada de Valerius
 - **Final del silencio — el regreso** — los Buscadores vuelven con Decio; Valdemora, [[Estellara]], [[Ciudadela_Sin_Sol]], decapitación de Lali, caída al pentagrama del [[Palacio_del_Prisma]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ◑ ☷
+> *Durante el silencio, lo que se guarda espera su hora: [[Ardipithecus]], el proto-guardián que [[Grazzt|Graz'zt]] escondió en la espada de [[Valerius_Utrecht|Valerius]], se asienta sin emerger; [[Caladan]], vampirizado por [[Master_Malakita|Malakita]], aguarda como darklord involuntario en el castillo de la colina. No se los vence —se preparan en crisálida. Y todo ocurre por capas hacia abajo: el mega-dungeon sigue respirando nivel por nivel y la [[Ciudadela_Sin_Sol]] se hunde en grieta mientras emerge [[Papa_Alejandro_Sixto|Papa Alejandro VI]] de los niveles bajos.* — glosa de Paulus.
+<!-- /CICLO -->

@@ -103,3 +103,8 @@ imagen: Imagenes_Tier1/Chronomon.png
 - **1120 — decapitación ritual** — apoteosis simultánea
 - **Viaje FTL de los [[Time_Bandits]] — explosión de la cabeza de Chronomon** — eco cosmológico
 - **Revelaciones del [[Marques_de_Sade_Hugo|Marqués de Sade]] — Hugo** — exposición de la cadena en la torre del Valle
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ✒
+> *Su reloj de arena no mide: reparte —lo que cae de un lado del vidrio falta del otro lado del cosmos—, y cuando la apoteosis-decapitación de 1120 lo deja sin tenedor, el cosmos pierde la administración fina y se entrega a bucles y arrugas, los [[Cronoboys]]. La doctrina del reloj la escribe [[Pablo_de_Alejandria|Pablo]], su padre cronista: el que glosa el Tiempo engendra al dios que lo administra, padre amanuense e hijo del oficio. Lo que [[Templarios]] archivó como «el divino decapitado» y [[Paris_Ucronica|París]] como la explosión de la cabeza es, confirmado, una sola entidad: [[Kronamon]].* — glosa del Decadiano.
+<!-- /CICLO -->

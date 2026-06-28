@@ -73,3 +73,8 @@ Posibilidades pendientes confirmar con :
 - [[Pablo_de_Alejandria|Pablo de Alejandría]] (el otro ladrón cósmico)
 - [[Artefacto_el|Artefacto, el]] (posible sinónimo — pendiente verificar)
 - [[Vara_del_Infinito|Vara del Infinito]] (posible relación)
+
+<!-- CICLO -->
+> **Casas del ciclo** · △ ☯
+> *Pieza cosmogónica que sólo significa robada: [[Grazzt|Graz'zt]] la arranca al panteón en el mismo gesto con que [[Pablo_de_Alejandria|Pablo]] roba la [[Magia_dual|Magia Dual]] —dos hurtos prometeicos gemelos que parten la jerarquía del cosmos en dos vertientes. Su círculo central vacío, que no espera pieza, lo emparenta con la [[Vara_del_Infinito]]: objeto que no existe entero. Lo que A aisló como el botín del ladrón (AA-O.1) y B como el mega-artefacto incompleto (AKB-L.1), en C es la misma casa que la llave perdida.* — glosa del Decadiano.
+<!-- /CICLO -->

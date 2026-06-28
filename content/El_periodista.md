@@ -26,7 +26,7 @@ imagen: null
 
 Un joven de veintiséis años, afeitado, se acerca a los cóndores con la única herramienta de su oficio: la pregunta. Es periodista, o quiere serlo, y entiende el periodismo del único modo que conoce —ir hacia donde está la historia y pedir cuentas a quien la protagoniza. Cuando los militantes que se llaman a sí mismos *los cóndores* preparan su gesta, él está ahí, libreta en mano, buscando la frase que lo explique todo.
 
-Lo mueve la curiosidad, y esa misma curiosidad será su condena. En una campaña que arranca como crónica de actualidad y termina debajo del agua, el reflejo de querer saber —de seguir tirando del hilo aunque el hilo lleve a donde no debería— es exactamente la disposición que el fondo aguarda. El periodista cruza el umbral creyendo que va a cubrir una noticia.
+Lo mueve la curiosidad, y esa misma curiosidad será su condena. En una gesta que arranca como crónica de actualidad y termina debajo del agua, el reflejo de querer saber —de seguir tirando del hilo aunque el hilo lleve a donde no debería— es exactamente la disposición que el fondo aguarda. El periodista cruza el umbral creyendo que va a cubrir una noticia.
 
 ---
 
@@ -38,7 +38,7 @@ Su historia se enrosca en la de [[Operativo_Condor|los cóndores]]: el secuestro
 
 ## Notas
 
-La crónica de aquellos días lo registra apenas como *el periodista*, sin nombre propio: una figura joven, afeitada, definida por su pregunta más que por su biografía. Su curiosidad lo emparenta de lleno con la lógica de la campaña, donde el deseo de saber es la puerta por la que se cuela lo otro.
+La crónica de aquellos días lo registra apenas como *el periodista*, sin nombre propio: una figura joven, afeitada, definida por su pregunta más que por su biografía. Su curiosidad lo emparenta de lleno con la lógica de la gesta, donde el deseo de saber es la puerta por la que se cuela lo otro.
 
 ---
 

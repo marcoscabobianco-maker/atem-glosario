@@ -58,3 +58,8 @@ imagen: Imagenes_Tier1/Arcacto_TG.png
 - **Cosmología continua del [[Universo_Dual_TG|Universo Dual]]** — vigilancia perpetua de la Primera [[Aldebaran_Estrella_Plataforma|Plataforma]] occidental
 - **Pruebas a viajeros extraplanares** — episodios sucesivos sin nominal de reemplazante
 - **Cosmogonía Gris — referencia extensa** — descripción de dominio y profecía
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ⟳ △
+> *El Gran Carnero del fuego, uno de los dos [[Guardianes]] de la [[Primera_Plataforma_TG|Primera Plataforma]] del [[Universo_Dual_TG|Universo Dual]]: su mitad ígnea es el gemelo de la mitad de hielo de la [[Reina_de_las_Nieves_TG|Reina de las Nieves]], y la [[Franja_de_la_Disolucion_TG|Franja]] entre ambos prohíbe el contacto bajo pena de cosmogonía. Prueba viajeros extraplanares buscando quién lo reemplace en el oficio —porque guardar la plataforma es un puesto que pasa de mano, no una persona. Y sobre su altar, la [[Gema_de_la_Creacion]]: la pieza que, reunida con su par cuando agua inunde el fuego, estalla en un universo nuevo.* — glosa de Akala.
+<!-- /CICLO -->

@@ -11,9 +11,9 @@ tags:
 ![[Imagenes_Tier1/Wako_anillo_de_Mabron.png]]
 <!-- /HEADER_IMG -->
 
-Artefacto que contiene el espectro de [[Mabron|Mabrón]] (poeta y profeta asesinado), portado por [[Wako]], general de [[Rintrah]]. El fantasma de [[Mabron|Mabrón]] queda atado al anillo y puede ser invocado como testigo espectral de los actos del grupo. En el Epílogo del Taller, [[Wako]] convoca el espectro ante [[Grazzt|Graz'zt]] y los [[Rintrah]] para narrar historias pasadas; Mabrón percibe la verdad metaficcional antes de ser silenciado y succionado de vuelta al anillo.
+Artefacto que contiene el espectro de [[Mabron|Mabrón]] (poeta y profeta asesinado), portado por [[Wako]], general de [[Rintrah]]. El fantasma de [[Mabron|Mabrón]] queda atado al anillo y puede ser invocado como testigo espectral de los actos del grupo. En el Epílogo, [[Wako]] convoca el espectro ante [[Grazzt|Graz'zt]] y los [[Rintrah]] para narrar historias pasadas; Mabrón percibe la verdad metaficcional antes de ser silenciado y succionado de vuelta al anillo.
 
-El anillo fue parte del arco de [[Wako]] en la [[Contienda_la|Contienda]] (torneo año 2000 en mesa, 1370 DR), con convocatoria en [[Sigil]] para la misión de las coronas.
+El anillo fue parte del arco de [[Wako]] en la [[Contienda_la|Contienda]] (el torneo de 1370 DR), con convocatoria en [[Sigil]] para la misión de las coronas.
 
 ## Vinculos
 

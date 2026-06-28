@@ -26,4 +26,3 @@ aliases:
 
 ## Ver también
 
-- [[Potencial_magico|Potencial mágico]]

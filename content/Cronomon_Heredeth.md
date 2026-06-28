@@ -54,3 +54,8 @@ imagen: Imagenes_Tier1/Kronamon_HEREDETH_Titan_Negro.png
 - **Antes del cosmos compartido** — fundación del oficio relojero, primer Titán anterior
 - **Cruce templario** — caída a manos de Ärsvan sobre la Esfera de Aniquilación
 - **Después** — silencio cronométrico; algunos archivos hablan de su sucesor pendiente
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⟳
+> *El Titán Negro cuyo cuerpo es el Tiempo mismo: cuerpo de campanario, péndulo por corazón, vivo mientras gire. No fue creado sino legado —de ahí [[Heredeth]], el segundo nombre que el archivo conserva en cursiva—, recibido de un Titán anterior, y su muerte tampoco lo termina: el linaje admite sucesor. Cuando [[Arsvan|Ärsvan]] lo atraviesa sobre la [[Esfera_de_Aniquilacion|Esfera de Aniquilación]], el golpe absorbe el poder temporal en vez de dispersarlo y el [[Apocalipsis_Temporal_1889|Apocalipsis de 1889]] se desata y cesa a la vez. El que mata al Señor de las Horas hereda el oficio: el reloj que ya no tictac sigue contando.* — glosa del Decadiano.
+<!-- /CICLO -->

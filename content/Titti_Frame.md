@@ -99,3 +99,8 @@ imagen: null
 - **Telegrama de despido a [[Vitalis]]** — al día siguiente
 - **Proyecto de brazos mecánicos** — oferta pendiente para guerreros mutilados
 - **1824 AE — ciclo presente** — anfitriona influyente, operación clandestina sostenida
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ◑
+> *Bellísima y fría, busca la marca de los condenados en los gestos ansiosos de sus invitados —por eso contrató a [[Vitalis]] de barman en su matiné para escudriñar a [[La_Jabalina]] de cerca—. Y tiende a [[Teo_Paladin_Sin_Brazo|Teo]] un brazo mecánico que es a la vez prótesis y pacto: caridad aparente con cláusula de favores peligrosos, vehículo posible de la profecía [[Cageewrights]].* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

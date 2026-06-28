@@ -2,7 +2,6 @@
 title: "Chantal (TNW)"
 tags:
  - "gary-tnw"
- - "lords-of-creation"
  - "ranger"
 aliases:
  - "Chantal (TNW)"
@@ -16,11 +15,8 @@ aliases:
 
 ## Presentación
 
-**[[C73_p24|C73 p.24]]:** "Chantal, la chicana, se mira al espejo y se ve cadavérica. Había recibido un disparo de Kendal."
-Compañera del grupo. Chantal y [[Sasha_TNW|Sasha]] son personajes distintos. Ambas son rangers/wilderness pero personajes separados.
+El archivo la retrata así: "Chantal, la chicana, se mira al espejo y se ve cadavérica. Había recibido un disparo de Kendal." Compañera del grupo que baja a Iron Mountain. Chantal y [[Sasha_TNW|Sasha]] son figuras distintas: ambas rastreadoras de la espesura, pero separadas.
 
 ## Ver también
 
 - [[Chicana|Chicana]]
-- [[C73_p24|C73 p.24]]
--

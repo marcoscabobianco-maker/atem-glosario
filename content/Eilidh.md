@@ -40,3 +40,8 @@ aliases:
 - [[Vala_Cristalis|Vala Cristalis]]
 - [[Franja_de_la_Disolucion_TG|Franja de Disolución]]
 - [[Cosmarca]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ △
+> *Mundo dentro de un rubí, arca de salvación fraguada cuando Terra y [[Antiterra_Demonia|Antiterra]] iban a colisionar en la [[Franja_de_la_Disolucion_TG|Franja de Disolución]]: la casa del cosmos gemelo no como contagio sino como huida del choque de los dos hemisferios. Eilidh es el plano primario; [[Vala_Cristalis|Vala Cristalis]] la gema que lo encierra, protegido por las plataformas zodiacales —un objeto-mundo cuya cáscara cristalina lo vuelve también pieza de un orden mayor.* — glosa del Decadiano.
+<!-- /CICLO -->

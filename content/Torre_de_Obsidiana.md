@@ -96,3 +96,8 @@ imagen: null
 - **Infiltración fallida de Ayrton** — descubierto por dron hechicero
 - **1824 AE — ciclo presente** — torre activa, niño confinado, operación clandestina sostenida
 - **Próximo ciclo (anticipado)** — penetración prevista por La Jabalina, posible activación ritual del observatorio
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⟳
+> *La torre de [[Lord_Valanthru|Valanthru]] es el adversario que mide a la banda nombrada: [[Ayrton_Auslander|Ayrton]], el ladrón de [[La_Jabalina]], se infiltró y el dron hechicero lo descubrió —a Valanthru no se entra por arriba ni por afuera—. Y es maquinaria del oficio rotativo: su observatorio se alinea con las [[Plataformas_Zodiacales_Sistema_de_Guardianes|plataformas zodiacales]], y el niño adoptado del [[Bazar_de_la_Vida]] es uno de los elegidos del ritual [[Cageewrights]] que reparte los puestos de guardián.* — glosa de Arkos.
+<!-- /CICLO -->

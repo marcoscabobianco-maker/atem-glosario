@@ -15,9 +15,6 @@ aliases:
 
 ## Presentación
 
-**Ref.:** resumen –8, 1b (11 menciones [[Chantal_TNW|Chantal]] buscándolo), 7a ("Francis Le Pen"). **[[C73_p93|C73 p.93]]:** "Detective [[Jean-Baptiste_TNW|Jean-Baptiste]] puede ser ayudado por [[Pedro_Martir_TNW|Pedro Mártir]], anterior encarnación de Francis Le Pen."
+Figura del Mundo Nuevo a quien [[Chantal_TNW|Chantal]] busca con insistencia. El archivo lo enlaza con [[Pedro_Martir_TNW|Pedro Mártir]] —su encarnación anterior—, que a su vez puede asistir al detective [[Jean-Baptiste_TNW|Jean-Baptiste]].
 
 ## Ver también
-
-- [[Anterior_encarnacion_Pedro_Martir|Anterior encarnación: Pedro Mártir]]
-- [[C73_p93|C73 p.93]]

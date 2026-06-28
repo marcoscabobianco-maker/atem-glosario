@@ -137,7 +137,7 @@ La placa se iluminó. El mensaje en mítrico sonó:
 - [[Buscadores_de_Ardis_Vala]] — quienes activaron el mensaje en el ciclo primero
 - [[Bayrum_Cristalia]] — Buscador con afinidad sortiana inconsciente
 - [[Archontean]] — pueblo
-- [[Mundo_de_Archontos]] — setting
+- [[Mundo_de_Archontos]] — el mundo
 
 ## Apariciones
 

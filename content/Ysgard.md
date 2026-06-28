@@ -12,44 +12,28 @@ aliases:
  - "Gladsheim"
 ---
 
-> Plano exterior chaotic-neutral-good de la mitología nórdica adaptada por D&D. Hogar de Aesir, Vanir, einherjar. en el ciclo aparece en el contexto de Minaya.
+> El plano exterior de la materia nórdica: hogar de los Aesir y los Vanir, de los einherjar. En la gesta aparece ligado a [[Minaya_MC|Minaya]].
 
-## Origen en D&D
+## El plano de los guerreros caídos
 
-**Ysgard** (originalmente "Gladsheim" en ediciones tempranas) es el plano exterior nórdico de la Great Wheel:
-- **Alineamiento**: Chaotic Neutral con tendencia Good.
-- **Habitantes**: Aesir y Vanir (panteón nórdico), einherjar (guerreros caídos), valkyries.
-- **Estructura**: 3 niveles principales — Asgard, Muspelheim, Nidavellir (con variantes según edición).
+**Ysgard** —que las viejas crónicas también llaman *Gladsheim*— es el plano nórdico entre los planos exteriores:
+- **Su índole**: del caos, pero noble; la tierra de la gloria guerrera.
+- **Sus habitantes**: los **Aesir** y los **Vanir** —el panteón nórdico—, los **einherjar** (los guerreros caídos) y las valquirias.
+- **Su forma**: tres reinos principales —Asgard, Muspelheim, Nidavellir—.
 
-> Fuente externa: *Manual of the Planes*, *Deities & Demigods*, *Planescape*.
+## En la gesta
 
-## Acepción en el cosmos compartido
+Ysgard aparece ligado a [[Minaya_MC|Minaya]]: una conexión planar pendiente de detallar. El plano de los guerreros caídos resuena con el papel de Minaya como heroína del [[Juicio_Final|Juicio Final]].
 
-Ysgard aparece en el cosmos compartido referenciado desde [[Minaya_MC]]:
-
-> *"Conexión planar pendiente de detallar: Ysgard."* (referencia desde Minaya_MC.md)
-
-Posiblemente Minaya tiene **conexión planar con Ysgard** — pendiente desarrollar fuente exacta. El plano nórdico se asocia con guerreros caídos, lo que resuena con el rol de Minaya como heroína del [[Juicio_Final|Juicio Final]].
-
-## Función diegética
+## Función en el ciclo
 
 Ysgard opera como:
-- **Plano de heroísmo bélico**: lo usa cuando necesita el espacio de los guerreros caídos.
-- **Posible conexión con Minaya**: el linaje de Minaya ([[Coyote]] agente de Tiamat × Zara drow) podría tener arco en Ysgard — pendiente confirmar.
-
-## Pendientes
-
-- ¿Qué jornadas específicas tienen lugar en Ysgard?
-- ¿Conexión de Minaya con Ysgard: ascendencia? destino post-[[Juicio_Final]]?
-- ¿Algún compañero ha sido einherjar o ha visitado Asgard en jornada?
-
-## Nota lateral
-
-> Importación canónica de D&D. Apariciones específicas pendientes de catalogar.
+- **Tierra del heroísmo bélico**: cuando la gesta necesita el espacio de los guerreros caídos.
+- **Posible lazo con Minaya**: el linaje de Minaya ([[Coyote]], agente de Tiamat, × Zara la drow) podría tener arco en Ysgard —a confirmar—.
 
 ## Ver también
 
 - [[Minaya_MC|Minaya]] (conexión planar)
-- [[Juicio_Final|Juicio Final]] (1375 DR, posible conexión con destino guerrero)
+- [[Juicio_Final|Juicio Final]] (posible conexión con su destino guerrero)
 - [[Limbo]] (otro plano del caos)
 - [[Escalera_Infinita|Escalera Infinita]] (conexión planar)

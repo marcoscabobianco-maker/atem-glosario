@@ -37,27 +37,24 @@ En la **muerte de [[Numa_Pompidio]]** (descrita retrospectivamente en el regreso
 
 > *"Fue tan fuerte eso que bueno, se te quedó ese conocimiento. En el futuro vos podrías saber cómo decir esas palabras."*
 
-Bayrum **adquirió conocimiento críptico** —**palabras mítricas, conjuros sortianos, alguna verdad cosmológica**— por **haber empuñado la pluma durante el ritual**. **Marcador de compañero** activable en jornadas futuras.
+Bayrum **adquirió conocimiento críptico** —**palabras mítricas, conjuros sortianos, alguna verdad cosmológica**— por **haber empuñado la pluma durante el ritual**. Un saber latente que podrá desplegarse en jornadas futuras.
 
 ### Su naturaleza
 
-La Pluma de Thoth probablemente combina:
+La Pluma de Thoth probablemente reúne:
 
-- **Quaal's Feather Token** + **Pen of Inscription** + **rasgos místicos custom**
-- **Símbolo de Thoth** —ibis-headed god del conocimiento y la escritura
-- **Vínculo con la escritura mítrica** —idioma sagrado arconteano
-- **Capacidad de grabar conocimiento en quien escribe**
-- **Posibles cargas** —limitadas por el módulo o ilimitadas por la magia
+- **Símbolo de Thoth** —el dios de cabeza de ibis, señor del conocimiento y la escritura—
+- **Vínculo con la escritura mítrica** —el idioma sagrado arconteano—
+- **La virtud de grabar el conocimiento en la mano que escribe**, no solo en la página
 
 ### Sus apariciones
 
-- **el regreso tras el Hiato retrospección**: ritual de Numa Pompidio + Bayrum escribiendo
-- **Mencionada en archivos** el regreso tras el Hiato línea ~400-500
-- **Posible apariciones previas**: no documentadas en mi corte de archivos
+- **el regreso tras el Hiato (retrospección)**: ritual de Numa Pompidio + Bayrum escribiendo
+- **Posibles apariciones previas**: aún sin documentar
 
 ### Su origen
 
-La pluma puede ser **artefacto preexistente** del culto de Thoth (módulo de Barton) o **creación cosmológica** durante el ritual ( invocó la imagen).
+La pluma puede ser **artefacto preexistente** del culto de Thoth o **creación cosmológica** surgida durante el ritual mismo.
 
 **Posibles ubicaciones del origen**:
 - **Cuevas Aullantes [[Library_of_Thoth]]** — posible custodia
@@ -74,9 +71,9 @@ La pluma puede ser **artefacto preexistente** del culto de Thoth (módulo de Bar
 - [[Library_of_Thoth]] — posible custodia
 - [[Custodes_Oculis_Solis]] — orden sacerdotal de Thoth (procesión celestial presente)
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
-- **el regreso tras el Hiato retrospección** — ritual de muerte de Numa Pompidio
+- **el regreso tras el Hiato (retrospección)** — ritual de muerte de Numa Pompidio
 - **Pendiente**: posible reuso en jornadas siguientes con Bayrum como portador del conocimiento

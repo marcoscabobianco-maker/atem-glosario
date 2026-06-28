@@ -35,3 +35,8 @@ Hilo narrativo abierto en el archivo pero no resuelto en esta jornada (el grupo 
 ## Links externos
 
 - [Wikipedia](https://es.wikipedia.org/wiki/Santo_Grial)
+
+<!-- CICLO -->
+> **Casas del ciclo** · △
+> *El cáliz de la Última Cena como reliquia-llave perdida que cruza épocas: viajado en 1054 desde Jerusalén hacia [[Leon_Epoca_Carlomagno_800_DC|León]], entregado por Fernando I a la [[Princesa_Urraca|Princesa Urraca]] para esconderlo, nunca más hallado. Su búsqueda enlaza con la [[Astilla_de_la_Veracruz|Astilla de la Veracruz]] y la fundación de los [[Templarios]] en el [[Laberinto_de_Marfil]]: «Cristo es crónimo», y por eso toda gran reliquia suya es a la vez un objeto temporal, una pieza de la llave que atraviesa el ciclo.* — glosa de Paulus.
+<!-- /CICLO -->

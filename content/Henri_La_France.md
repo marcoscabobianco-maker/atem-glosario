@@ -56,9 +56,14 @@ Pertenece al arco de **[[Los_Profundos]]** y continúa en el de los **Reguladore
 ## Apariciones
 
 - Antiterra — [[Anarquiron_guion|Anarquirón]], Acto 1 (origen como torero anarquista)
-- [[Los_Profundos]] — campaña previa
+- [[Los_Profundos]] — gesta previa
 - **[[Baton_Rouge_Antiterra|Baton Rouge]] (1889)** — **uno de los regentes de la ciudad como ex-miembro de Los Profundos**, conocido como **"el Francés"** o **"el joven Henry"**. En la plaza de toros brindó personalmente un espectáculo de su destreza como torero a los forasteros recién llegados (Zoro, Maleika, Cornelio, [[Benetton]])
 - **Paternidad de Zoro** — a sus 19 años, padre de Zoro/[[Zoro_Dr_Zoulu|Dr. Zoulu]] con la **negra encantadora de serpientes del circo itinerante del sur**. El Zoro adulto que aparece en Labrador es su hijo viajado desde el futuro. El Zoro bebé de un año está, en simultáneo, en algún lugar de los Estados Unidos
 - [[Los_Reguladores]] — núcleo, ciclo final
 - Baton Rouge — como "Henri el Torero"
 - **Vagabundeo previo** — separado del grupo Profundos, robado, vagó tres días, polizonte en trenes de carga. Pasó hambre. Engendró un hijo (presumiblemente referencia a la paternidad de Zoro)
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *El torero anarquista no se entiende solo: se entiende por las dos bandas que lo llevan. Henri es núcleo de [[Los_Profundos]] primero y de [[Los_Reguladores]] después, y cuando regentea [[Baton_Rouge_Antiterra|Baton Rouge]] lo hace en cuanto ex-miembro de la sigla. El PJ es aquí el vértice de un sujeto colectivo: la espada bajo la capa pertenece menos al hombre que a la cadena de grupos que lo nombra.* — glosa del archivero del Plata.
+<!-- /CICLO -->

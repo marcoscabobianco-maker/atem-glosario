@@ -42,7 +42,7 @@ Los Kaliyani prefieren **consenso de pares hechiceros** sobre **autoridad única
 
 ### El conflicto con los Varumani
 
-**Antes del Vencimiento de los Varumani**, Tsilliv envió un **scout team kaliyani** a explorar el chasm floor del Suelo del Gran Abismo, liderado por **Rivvep** (kaliyani sorcerer). **Una partida de caza varumani los descubrió y mató al scout**. **[[Varboka]] declaró recompensa de cien piezas de oro por colmillo kaliyani**.
+**Antes del Vencimiento de los Varumani**, Tsilliv envió una **partida de exploradores kaliyani** a recorrer el suelo del Gran Abismo, liderada por **Rivvep** (hechicero kaliyani). **Una partida de caza varumani los descubrió y mató al explorador**. **[[Varboka]] declaró recompensa de cien piezas de oro por colmillo kaliyani**.
 
 **Tsilliv estaba preparando expedición de represalia** cuando los Varumani fueron derrotados.
 
@@ -91,9 +91,14 @@ Con el **[[Vencimiento_Varumani]]**:
 - [[Varumani]] / [[Varboka]] — enemigos depuestos
 - [[Papa_Alejandro_Sixto]] — autoridad rival
 - [[Priscians]] / [[Nerub_Null]] — posibles aliados hechiceros
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 
 ## Apariciones
 
 - **el archivo** — "Acuerdo del 75% con los [[Caliyanis]]" mencionado por los Buscadores. Detalles a confirmar
 - **Pendiente**: encuentro directo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛓
+> *Hechicero reptiliano de cuatro ojos que gobierna desde el fondo del descenso: las Kaliyani Pits y el Suelo del Gran Abismo del [[Mega_Dungeon_Arden_Vul]] son su estrato, frente a la teocracia [[Heqeti]] de arriba y la monarquía [[Varumani]] de [[Varboka]]. No manda solo: encarna el Consorcio Doce, una oligarquía colectiva de doce hechiceros que opera como un único sujeto de facción.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

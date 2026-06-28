@@ -20,4 +20,3 @@ aliases:
 ## Ver también
 
 - Mención
-- [[Etimologia_posible|Etimología posible]]

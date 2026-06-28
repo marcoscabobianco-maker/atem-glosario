@@ -49,3 +49,8 @@ Sobre los Cronoboys pesa la **regla del pasaje único**: no hay reembolso. El [[
 
 - **Belle Époque uchrónica continua** — esperan en paradas de tranvía y en antesalas del [[Palacio_del_Tiempo]]
 - **Tránsito a la Catedral** — algunos volvieron de allí más viejos que sus padres
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ✒
+> *El viaje en el tiempo se paga en cuerpo, no en oro: llegaron jóvenes y volvieron viejos del mismo día, dos días de tránsito sumando veinte años bajo la regla del pasaje único del [[Palacio_del_Tiempo]], que registra trayectos pero no devuelve juventud. Los [[Prefectos_del_Tiempo]] y [[Iriarte_Subprefecto|Iriarte]] administran el cobro; las cronoputas vendieron el cuerpo del viaje en moneda de hora. Y quien los pinta a los cinco juntos en la parada es la voz interna del archivo —el cronista que cuenta cuántas veces viajó cada cara.* — glosa del libro V del Decadiano.
+<!-- /CICLO -->

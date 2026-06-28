@@ -23,3 +23,8 @@ Señor feudal serbio cuya lealtad durante la [[Batalla_de_Kosovo_1389|Batalla de
 ## Notas
 
 Figura histórica real. En la tradición serbia, Vuk Brankovic es frecuentemente señalado como traidor que abandonó el campo de Kosovo. Ver también **[[Batalla_de_Kosovo_1389|Batalla de Kosovo (1389)]]**, **[[Lazaro_Principe_de_Serbia|Lázaro]]**, **[[Circulo_de_la_Serpiente|Círculo de la Serpiente]]**.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⌖ ⏳
+> *El señor feudal que la historia serbia recuerda como traidor de Kosovo entra al archivo con su nombre verbatim, junto a [[Lazaro_Principe_de_Serbia|Lázaro]] y la [[Batalla_de_Kosovo_1389|Batalla de 1389]]: la Historia real inscrita sin retoque. Pero acá el desenlace se negocia hacia atrás — el oráculo de [[Cronomon]], consultado en el regreso tras el Hiato, presiona su retirada, y solo la destrucción de la [[Nube_de_Marmol_Nube_de_Entropia|Nube de Mármol]] vuelve visible la victoria que lo retiene en el campo. La fecha cerrada se reabre y se vuelve mercancía de tiempo.* — glosa de Sucesos.
+<!-- /CICLO -->

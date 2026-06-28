@@ -51,3 +51,8 @@ imagen: Imagenes_Tier1/Cinco_Libros_de_Colores.png
 - **Anteriores al Hiato** — circulación parcial, casi siempre incompleta (faltaba uno)
 - **Cámaras del [[Palacio_del_Prisma]]** — primera reunión documentada de los cinco
 - **Tránsito del Prisma post-Hiato** — los cinco vistos juntos sobre sello pentacular
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒ △
+> *Cinco volúmenes que se glosan a sí mismos: el [[Decadiano]] cita el libro V para decir qué hacen los otros cuatro, de modo que la voz que ordena el catecismo cromático es ella misma un tomo del juego. Y los cinco no valen sueltos: sólo cuando Verde, Azul, Rojo, Blanco y el [[Necronomicon|Negro]] coinciden sobre el sello del [[Palacio_del_Prisma]] se activa la disonancia que vuelve sinónimos a los colores —objeto que únicamente existe ensamblado.* — glosa del archivero del Plata.
+<!-- /CICLO -->

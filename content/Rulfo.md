@@ -76,3 +76,8 @@ imagen: null
 - **Rescate por La Jabalina** — cargado al orfanato, sanación menor de Foggimer
 - **Recuperación** — sobreviviente, vínculo continuado con el grupo
 - **1824 AE — ciclo presente** — guardián recuperado, coadministrador del orfanato, apoyo a la ONG de Teo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Rulfo es el guardián común que da a [[La_Jabalina]] su motivo de existir: golpeado por la [[Compania_de_la_Risa|Compañía de la Risa]] en el callejón de la Avenida del Magma, su rescate por [[Ayrton_Auslander|Ayrton]], [[Lukas]] y [[Foggimer]] es lo que pone en marcha la primera misión de la banda. La sigla colectiva se constituye protegiendo a los suyos —los huérfanos de [[Gretchyn_Tashykk|Gretchyn]]—; sin Rulfo no hay a quién proteger, y por eso la banda nombrada lo conserva como su base humana.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->

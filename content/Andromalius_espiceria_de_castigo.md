@@ -13,6 +13,6 @@ Su distinción respecto de la invocación completa —en la que el Earl puede po
 
 ## Vínculos
 - [[Andromalius]] — entidad demoníaca de la que deriva este uso ritual; Earl de la jerarquía infernal, castigador de ladrones
-- [[Madeline_Boulet]] — practicante vinculada al corpus de operaciones goéticas en la campaña
+- [[Madeline_Boulet]] — practicante vinculada al corpus de operaciones goéticas en la gesta
 - [[Pacto_Madeline-Murmur]] (NUEVO) — pacto paralelo con otro demonio del mismo círculo
 - [[Murmur]] — Duque demoníaco activo en el mismo entorno; punto de contraste jerárquico

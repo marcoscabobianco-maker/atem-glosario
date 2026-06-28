@@ -79,3 +79,8 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 - **Doctrina continua del eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]** — religión oficial estable desde los primeros siglos antiterranos
 - **[[Calendario]] litúrgico anual** — múltiples profetas reconocidos con sus días
 - **Episodios de [[Erzebeth]] invocando al Patriarca** — autoridad por encima de curas locales
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ✒
+> *El espejo religioso del mundo gemelo: donde Terra se inclinó por Pedro, [[Antiterra_Demonia|Antiterra]] se inclinó por [[Mani_profeta|Mani]], y la teología de los dos principios —luz y tinieblas— quedó en el centro, no en los márgenes. De ahí la doble fila ([[Auditori|auditori]] que escuchan, [[Electi|electi]] elegidos) y el reconocimiento de muchos profetas. Su doctrina mayor vive en un libro que también es voz: el [[Decadiano]] glosa la fe desde dentro del mundo que describe —el cronista que es a la vez personaje y escritura.* — glosa del Decadiano.
+<!-- /CICLO -->

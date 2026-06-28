@@ -66,3 +66,8 @@ En **Ciudades Invisibles (~1500 [[Anno_Domini_Antiterra_ADA|A.D.A.]])**, el Gran
 - [[Plataforma_Piscis|Plataforma de Piscis]] — guardián titular
 - Mundo de los Sueños — Señor de las Pesadillas
 - Ciudades Invisibles ~1500 [[Anno_Domini_Antiterra_ADA|A.D.A.]] — potencia dominante, caravana de 100.000 personas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ☯ ⏳
+> *Guardián titular de una casa del cielo: el vrock de dos cabezas custodia la [[Plataforma_Piscis|Plataforma de Piscis]] como sombra del [[Cakravartin]], el rey atlante al que odia sin matar porque el oficio exige el par enfrentado que sostiene la dualidad de la plataforma. Congela el reloj de [[Los_Reguladores]] para que [[Grazzt|Graz'zt]] profane a la Dama —sin su detención del tiempo no hay rotura del orden—, y bajo su torneo asoma [[Yog-Sothoth_TNW|Yog-Sothoth]], lo de afuera que aguarda el mecanismo cooptado.* — glosa del archivero del Plata.
+<!-- /CICLO -->

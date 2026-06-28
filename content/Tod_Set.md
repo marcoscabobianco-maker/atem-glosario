@@ -91,3 +91,8 @@ imagen: null
 - **Reformas decadianas sucesivas** — codificación de la doctrina del polo oscuro
 - **Crisis cíclicas mayores** — operación setiana documentada
 - **Imperio actual (ciclo presente)** — culto activo en el Forum bajo [[Marius_Urianius]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦
+> *El Set egipcio del caos del Nilo aterrizó como deidad mayor del panteón imperial Archonteo: el dios de una cosmología anterior se vuelve par estructural de [[Mitra]] en la siguiente, con su [[Forum_de_Set]] hipogeo en el [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]] y [[Marius_Urianius]] oficiando el culto. La apoteosis no lo limpia: lo instala como operador del orden —el polo oscuro que renueva por destrucción, atrapable en el [[Culto_de_Set]] pero nunca neutralizado.* — glosa de Paulus.
+<!-- /CICLO -->

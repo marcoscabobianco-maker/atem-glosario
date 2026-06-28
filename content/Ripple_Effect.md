@@ -22,7 +22,7 @@ aliases:
 
 ## Presentación
 
-Efecto mecánico de la campaña: drenaje cascada de habilidad que causa dilatación temporal (20 años en 2 días de envejecimiento). Mecánica de consecuencias que afecta los recursos del grupo. Vinculado al uso de las [[Columna_concepto|plataformas]] y al viaje temporal. Pertenece al ciclo de [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] en [[Antiterra|Antiterra]].
+Efecto mecánico de la gesta: drenaje cascada de habilidad que causa dilatación temporal (20 años en 2 días de envejecimiento). Mecánica de consecuencias que afecta los recursos del grupo. Vinculado al uso de las [[Columna_concepto|plataformas]] y al viaje temporal. Pertenece al ciclo de [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] en [[Antiterra|Antiterra]].
 
 ## Vinculos
 
@@ -32,3 +32,8 @@ Efecto mecánico de la campaña: drenaje cascada de habilidad que causa dilataci
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs / Pretty Women]] — grupo que experimenta este efecto en la fase [[Antiterra]]
 - [[Antiterra|Antiterra]] — plano donde se registra el efecto; su física temporal anómala lo hace posible
 - [[Templarios_del_Tiempo|Templarios del Tiempo]] — paladines del equilibrio cronológico; el Ripple Effect es exactamente el tipo de ruptura que deben corregir
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⛓
+> *El tiempo se cobra en el cuerpo: usar las [[Columna_concepto|plataformas]] para viajar dilata el reloj —veinte años en dos días—, y el costo no se reparte, lo paga el que viaja mientras el cosmos se lo apropia. La cuenta la lleva el [[SUPRA_PADRE_Deidad_Temporal|Supra-Padre]] sobre la corriente del [[Rio_Ucronos|Río Ucronos]], y la ruptura es la que los [[Templarios_del_Tiempo|Templarios del Tiempo]] deben corregir. Quien sufre el efecto en cuerpo y nombre es la banda: [[Les_Libertateurs_Pretty_Women|Les Libertateurs]], en su fase [[Antiterra]].* — glosa de Amitlai.
+<!-- /CICLO -->

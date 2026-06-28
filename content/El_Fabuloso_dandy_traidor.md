@@ -23,5 +23,5 @@ Imagen o faceta de [[El_Fabuloso|El Fabuloso]] en su rol de dandy y traidor: el 
 - [[Los_Reguladores|Los Reguladores]] — la banda a la que traicionó en la operación final
 - [[Torneo_de_la_Torre_Eiffel|Torneo de la Torre Eiffel]] — escenario del acto de traición-traición
 - [[Gema_de_la_Creacion|Gema de la Creación]] — el objeto que redirigió a los Mercane en lugar de fundar Sigil
-- [[Banco_Boreal|Banco Boreal]] — la institución financiera trans-campaña que construyó sobre la traición
-- [[Paris_Ucronica|París Ucrónica]] — setting en el que opera; la ciudad que quedó incompleta tras la maniobra
+- [[Banco_Boreal|Banco Boreal]] — la institución financiera trans-gesta que construyó sobre la traición
+- [[Paris_Ucronica|París Ucrónica]] — mundo en el que opera; la ciudad que quedó incompleta tras la maniobra

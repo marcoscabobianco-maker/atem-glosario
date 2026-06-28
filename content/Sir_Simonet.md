@@ -45,7 +45,7 @@ Sir Simonet representa **el caballero individual moralmente íntegro** dentro de
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
 - [[Halls_of_Thoth_Nivel|Halls of Thoth]] — nivel de residencia
-- [[Arden_Vul|Ardis Vala (campaña)]]
+- [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]] — su orden
 - [[Master_Malakita|Master Malakita]] — antiguo líder de la orden (decapitado por Alumine en la fase media del ciclo primero)
 - [[Valerius_Utrecht]] — eje moral paralelo

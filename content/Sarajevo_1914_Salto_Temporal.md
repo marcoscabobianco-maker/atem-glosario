@@ -20,8 +20,8 @@ aliases:
 
 Ciudad de [[Sarajevo_1914_Ucronica|Sarajevo]], capital de Bosnia y Herzegovina bajo dominio austrohúngaro, junio de [[Sarajevo_1914_Ucronica|1914]]. En la cronología normal, el 28 de junio de [[Sarajevo_1914_Ucronica|1914]] ocurre el atentado al [[Archiduque_Francisco_Fernando_de_Austria|Archiduque Francisco Fernando]], desencadenante histórico de la Primera Guerra Mundial.
 
-En [[Paris_Ucronica|París Ucrónica]], Sarajevo 1914 es escenario de un salto temporal — el grupo es transportado desde el Faro (1901) a esta ciudad ([[Sarajevo_1914_Ucronica|1914]]) y es insertado como actores en el atentado, asumiéndose identidades de conspiradores históricos reales:
-- **[[Philippe]]** asume el rol de uno de los conspiradores (posiblemente disparador del arma **[[THE_PRINCESS|THE PRINCESS]]** sobre el Archiduque).
+En [[Paris_Ucronica|París Ucrónica]], Sarajevo 1914 es escenario de un salto temporal — el grupo es transportado desde el Faro (1901) a esta ciudad ([[Sarajevo_1914_Ucronica|1914]]) e insertado en el atentado, asumiendo las identidades de conspiradores históricos reales:
+- **[[Philippe]]** toma la identidad de uno de los conspiradores (posiblemente disparador del arma **[[THE_PRINCESS|THE PRINCESS]]** sobre el Archiduque).
 - **[[Aby_Warburgo|Aby Warburgo]]** se fusiona temporalmente con **Cvjetko [[Cvjetko_Popovic|Popović]]** (conspirador histórico, miembro del grupo de [[Joven_Bosnia]]).
 - **[[Claude_Nauge|Claude Nauge]]** tiene identidad temporal conflictiva o superpuesta.
 
@@ -41,3 +41,8 @@ En el mundo real, el atentado de [[Sarajevo_1914_Ucronica|Sarajevo]] fue ejecuta
 - [[Claude_Nauge|Claude Nauge]]
 - Conexión con premoniciones
 - [[Gavrilo_Princip|Gavrilo Princip]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ⌖
+> *El grupo es arrancado del Faro de 1901 y depositado dentro del atentado de 1914: el viaje temporal los inserta vistiendo las identidades de conspiradores históricos reales. [[Philippe]] dispara sobre el [[Archiduque_Francisco_Fernando_de_Austria|Archiduque]], [[Aby_Warburgo|Aby Warburgo]] se fusiona con [[Cvjetko_Popovic|Cvjetko Popović]] de [[Joven_Bosnia]], y el alma de [[Gavrilo_Princip|Gavrilo Princip]] queda cosida al arma [[THE_PRINCESS|THE PRINCESS]]. La Historia verdadera —el magnicidio que enciende la Gran Guerra— se inscribe verbatim y se vuelve tablero donde las almas viajeras pagan su pasaje.* — glosa de Paulus.
+<!-- /CICLO -->

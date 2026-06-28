@@ -16,7 +16,7 @@ aliases:
 
 ### el plano operativo
 
-Ubicación donde el grupo enfrenta diablos/entidades demoníacas. [[Presencia_de]] una torre con fuego azul. Los que permanecen obtienen "inmunidad." Situación defensiva: el grupo intenta sobrevivir la noche refugiándose en la torre.
+Ubicación donde el grupo enfrenta diablos/entidades demoníacas. Presencia de una torre con fuego azul. Los que permanecen obtienen "inmunidad." Situación defensiva: el grupo intenta sobrevivir la noche refugiándose en la torre.
 
 ### Notas
 

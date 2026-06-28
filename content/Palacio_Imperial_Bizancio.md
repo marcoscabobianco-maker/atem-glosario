@@ -39,3 +39,8 @@ Bajo el cogobierno de [[Teodora]] y [[Zoe_Emperatriz|Zoe]], el palacio es a la v
 - [[Constantinopla_Ucronica_1055_CE|Constantinopla Ucrónica]] — la ciudad-bucle que el palacio gobierna
 - [[Teodora]] / [[Zoe_Emperatriz|Zoe]] — las coemperatrices que lo habitan
 - [[Guardia_Varega_Ucronica|Guardia Varega]] — sus custodios nórdicos
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⏳
+> *Un dungeon vertical de poder: la mano levantó el [[Constantinopla_Ucronica_1055_CE|Gran Palacio]] como panal de cuatro niveles —el Salón del Gran Rey arriba, y descendiendo la Sala del Festín, las residencias reales y, al fondo, las bóvedas del diezmo donde la corona guarda lo que no muestra. Y el edificio custodia, por extensión, el arco mismo del bucle temporal que envuelve la ciudad: bajo el cogobierno de [[Teodora]] y [[Zoe_Emperatriz|Zoe]], los visitantes que viven y revisitan los cinco años aprenden el laberinto piso por piso, vigilados por la [[Guardia_Varega_Ucronica|Guardia Varega]].* — glosa del archivero del Plata.
+<!-- /CICLO -->

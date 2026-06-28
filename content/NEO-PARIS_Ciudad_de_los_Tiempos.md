@@ -37,7 +37,7 @@ imagen: Imagenes_Tier1/NEO-PARIS_Ciudad_de_los_Tiempos.png
 
 ---
 
-**Su gobierno** —presumiblemente— **se sostiene en el cuerpo de los [[Guardianes_de_Antiterra|Guardianes]] del Tiempo**, *no como burocracia palaciega sino como consejo silencioso*. El [[Palacio_del_Tiempo|Palacio del Tiempo]] del [[Iriarte_Subprefecto|Subprefecto Iriarte]] **continúa operando en su versión administrativa**, pero **el cuerpo doctrinal de NEO-PARÍS está fuera del Palacio**: en los [[Guardianes]], en los portales, en el cielo de relojes. *Las campañas que el archivo conserva —[[Paris_Ucronica|PU]], [[Templarios_Edad_Media|TE]], [[Northern_Crown_NC|NC]], [[CDI|CDI]]— **convergen en NEO-PARÍS como plano central de paso**: el viajero que ha llegado a las cuatro, tarde o temprano, atraviesa esta ciudad.
+**Su gobierno** —presumiblemente— **se sostiene en el cuerpo de los [[Guardianes_de_Antiterra|Guardianes]] del Tiempo**, *no como burocracia palaciega sino como consejo silencioso*. El [[Palacio_del_Tiempo|Palacio del Tiempo]] del [[Iriarte_Subprefecto|Subprefecto Iriarte]] **continúa operando en su versión administrativa**, pero **el cuerpo doctrinal de NEO-PARÍS está fuera del Palacio**: en los [[Guardianes]], en los portales, en el cielo de relojes. *Las gestas que el archivo conserva —[[Paris_Ucronica|PU]], [[Templarios_Edad_Media|TE]], [[Northern_Crown_NC|NC]], [[CDI|CDI]]— **convergen en NEO-PARÍS como plano central de paso**: el viajero que ha llegado a las cuatro, tarde o temprano, atraviesa esta ciudad.
 
 **Una nota arqueológica conserva el archivo del Plata**: *según la tradición que [[Marcos_el_Mago]] una vez transcribió, París se fundó por troyanos escapados de la caída de Troya*. **NEO-PARÍS es entonces refundación de refundación**: ciudad apocalíptica sobre ciudad apocalíptica, *capa sobre capa, troya escondida bajo París escondido bajo NEO-PARÍS*.
 
@@ -56,5 +56,10 @@ imagen: Imagenes_Tier1/NEO-PARIS_Ciudad_de_los_Tiempos.png
 ## Apariciones
 
 - **Post-implosión continua** — refundación sobre el sitio de la Catedral
-- **Plano de convergencia de PU / TE / NC / el Descenso** — visitada en todas las campañas mayores
+- **Plano de convergencia de PU / TE / NC / el Descenso** — visitada en todas las gestas mayores
 - **Tradición arqueológica del Plata** — refundación de Troya, capa sobre capa
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⏳ ☷
+> *Una ciudad donde el tiempo no corre en línea sino que se cruza por puertas: bajo el cielo de relojes, un portal de la Rue de Rivoli lleva a un siglo XIX sin Revolución, otro al 2089, otro a Alejandría del 415 —el tiempo se transita como mercancía, igual que en su modelo, [[Sigil|la Ciudad de las Puertas]]. Y es ciudad por estratos: refundada sobre la [[Catedral_de_Notre-Dame_PU|Catedral]] implosionada, capa sobre capa —Troya escondida bajo París escondido bajo NEO-PARÍS—, plano de convergencia donde el Descenso, [[Paris_Ucronica|PU]], [[Templarios_Edad_Media|TE]] y [[Northern_Crown_NC|NC]] tarde o temprano atraviesan.* — glosa atribuida a Paulus Alexandrinus.
+<!-- /CICLO -->

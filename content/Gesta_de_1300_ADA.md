@@ -57,3 +57,8 @@ La crónica de Florenzen **se interrumpe antes del final**: no registra con cert
 - [[Florentinos_Heroes_Invisibles|Florentinos / Héroes Invisibles]]
 - [[Gesta_de_1494_1520_ADA|Gesta de 1494–1520 A.D.A.]]
 - [[Nobiskrug]] · [[Zenobio]] · [[Infierno]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ⛓ ⌖
+> *La primera gesta de los [[Florentinos_Heroes_Invisibles|Florentinos]] es un descenso literal: de Florencia baja por la selva oscura, el mar y Tierra Santa hasta la puerta del [[Infierno]] en los Cuernos de Hattin, pasando por la [[Nobiskrug]], aduana de los que niegan. Es la banda nombrada por sus seis —[[Luca_CI|Luca]], [[Lucio_Spini|Lucio]], [[Fernandin|Fernandín]], [[Niki]], [[Varys_Docalfar|Varys]], [[Alberich]]—; y es Historia inscrita verbatim, con un Dante prior semiamnésico y [[Jacques_de_Molay|Jacques de Molay]] de carne y hueso cosidos al relato.* — glosa del Decadiano.
+<!-- /CICLO -->

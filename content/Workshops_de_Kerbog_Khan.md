@@ -80,7 +80,7 @@ Kerbog Khan **comercia / coopera / compite** con la IA del módulo de armas. Amb
 - [[El_Huevo_de_Ritornelo]] — arma producida
 - [[Ritornello]] — destino arrasado
 - [[Cristalizacion_Maquinas]] — degradación post-hiato
-- [[Novatos_Ravenloft]] — refugio cross-campaña
+- [[Novatos_Ravenloft]] — refugio cross-gesta
 - [[Arden_Vul|Ardis Vala]]
 - **Imagen Tier1 disponible**: `Workshops_Kerbog_Khan_Tier1` (verificar)
 
@@ -89,3 +89,8 @@ Kerbog Khan **comercia / coopera / compite** con la IA del módulo de armas. Amb
 - **Pre-hiato**: producción activa de autómatas
 - **Pre-corrida original**: arrasamiento de [[Ritornello]] vía libélula
 - **Post-hiato**: estado degradado
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Laboratorios sub-nivel en las entrañas del [[Mega_Dungeon_Arden_Vul]], donde [[Kerbog_Khan]] fabrica autómatas —entre ellos la libélula que arrasó [[Ritornello]]—. El mega-dungeon estratifica el mundo por niveles: los talleres conectan por túneles a Forum de Set, a Puertas de Obsidiana, a Troll Lifts, y bajo la [[Cristalizacion_Maquinas|cristalización]] esa capa se degrada mientras su operador huye hacia arriba, a [[Novatos_Ravenloft|Ravenloft]]. Cada estrato del Foso guarda su oficio.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->
