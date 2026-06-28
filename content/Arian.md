@@ -182,3 +182,19 @@ El acto que el archivo conserva del Foso: **Adam lanzó Sugestión contra [[Bert
 > **Casas del ciclo** · ✦ ◑ ⛎ ※
 > *El 25º sol que bajó al Foso a buscar a los condenados y subió hecho dios sin dejar de ser el que bajó: alma de ciclo largo que el Archivo lee como [[Linea_Arian_Avatares|una sola distribuida en pliegues]], reaparecida luego como [[Caladan]]. Donde A vio la reencarnación trans-campaña (AA-C.3) y B la transmigración del que vuelve (AKB-G.2), se cifra la misma mano: la línea que nunca se nombra por quien la sostiene.* — glosa del [[Decadiano]].
 <!-- /CICLO -->
+
+## El Elfo y la Sombra (cómic)
+
+> *Láminas del cómic homónimo (COA): el arco de Arian del Aprendiz al Señor de los Misterios.*
+
+![[Imagenes_Tier1/Arian_y_Veloria.png]]
+*Arian y Veloria.*
+
+![[Imagenes_Tier1/Arian_pantera.png]]
+*La forma leshay: la pantera negra.*
+
+![[Imagenes_Tier1/Arian_ascension.png]]
+*La ascensión a la casilla divina: el Señor de los Misterios.*
+
+![[Imagenes_Tier1/Arian_tres_estaciones.png]]
+*Las tres estaciones del alma de ciclo largo: el Aprendiz, el Pacto, el Señor de los Misterios.*

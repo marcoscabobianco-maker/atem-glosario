@@ -18,7 +18,12 @@ aliases:
  - "Adam (Arlequín)"
  - "el Arlequín"
 aa: "P.6 pacto intra-grupo ; C.4 eco condenado en el Descenso [CDI]"
+imagen: Imagenes_Tier1/Adam_Arlequin.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Adam_Arlequin.png]]
+<!-- /HEADER_IMG -->
 
 > *"Que sea el arlequín —figura de la máscara, del doble juego— quien robe la luz torciendo una voluntad no es accidente: es consistencia. El archivo la consigna como casi perfecta."* — glosa del cronista del Descenso.
 
