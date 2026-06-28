@@ -24,10 +24,15 @@ Ex-miembro de la **[[Sagrada_Orden|Sagrada Orden]]**. Empuña cimitarra de propo
 compromiso con el grupo de las "4 A" y **[[Dietrus]]**. Controla acceso subterráneo a [[Palia]]
 con sistema de trampas.
 
+*Su testimonio ante las "4 A" abre el misterio del Artefacto:*
+
+> *"Vi todo. Desde el promontorio tenía una vista privilegiada. El artefacto yacía incólume en el suelo. Había bebido hasta la última gota." — Tal vez porque la sangre lava la sangre, y su madre había sido una Liosalfar.*
+
 ## Notas
 
 Su condición de "descastada" subraya ruptura deliberada con orden previa.
-Lealtad a causa élfica y a memoria de los hermanos muertos de [[Arian]].
+Lealtad a causa élfica y a memoria de los hermanos muertos de [[Arian]]. Guarda el pasaje de la
+naga **[[Riah]]** y, tras la caída de **[[Cuatia]]**, se reconcilia con **[[Dietrus]]**.
 
 ## Ver también
 

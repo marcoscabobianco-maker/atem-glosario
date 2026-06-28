@@ -12,6 +12,12 @@ aliases:
  - "Palia"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Palia.png]]
+<!-- /HEADER_IMG -->
+
+> *Arian pudo divisar las ruinas donde encontrarían a Celemna. Los rosedales estaban más abajo, cerca del lago.*
+
 ## Presentación
 
 Rosedales al este de **[[Torregrises]]**. Guardada por **[[Celemna]]** (ex-[[Sagrada_Orden|Sagrada Orden]],

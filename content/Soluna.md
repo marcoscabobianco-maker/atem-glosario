@@ -72,6 +72,26 @@ tags:
 - **Ataque a [[Mechanus]]** — cae en el ataque o en sus inmediaciones
 - **Juicio Final 1375 DR** — vence con [[Minaya_MC|Minaya]] a Takhishis usando Lanza y Gema; los dioses retroceden el tiempo a 1348 DR
 
+---
+
+## Eco en *El Elfo y la Sombra* (COA)
+
+> *El cronista registra una resonancia, sin consolidarla*: la novela **El Elfo y la Sombra**
+> (cap. XI) narra cómo **[[Adimanto]]**, en lo alto de la torre de Semblas durante la Tormenta, es
+> llamado por el rayo "por su verdadero nombre" y deja de ser Adimanto para volverse **"el
+> Antiguo"** —*"Soy Soluna, el Antiguo"*—. Esa voz dice tener la tarea de **llegar a los cimientos**
+> y explicar por qué el **[[El_Artefacto|Artefacto]]** —cuyo núcleo es el **[[Artefacto_Engranaje|Engranaje]]**—
+> *"no pertenece al pasado de los primeros nacidos: proviene del futuro"*, robado de **[[Mechanus]]**
+> el día de su muerte por el **Príncipe de las Sombras**. La cadena causal coincide con lo
+> consolidado arriba (Sol-Luna cae en Mechanus, el robo del Engranaje sin el cual no hay
+> [[Contienda_la|Contienda]]).
+>
+> **Pendiente (no resuelto):** la novela hace de Soluna la ascensión de **Adimanto**, *humano*
+> (Oveja Negra de las Baronías del Sur), mientras esta entrada consolidada lo fija como *elfo drow*
+> de [[Los_Antiguos]]. La tensión humano↔drow queda anotada como cuestión a dirimir con fuentes
+> primigenias; el archivo **no** la resuelve aquí ni propaga la identidad Adimanto=Sol-Luna a otras
+> fichas sin verificación. Por eso esta entrada **no** lleva lámina del cómic COA.
+
 <!-- CICLO -->
 > **Casas del ciclo** · △ ✦
 > *Drow mago de [[Los_Antiguos]] que junto a [[Minaya_MC|Minaya]] empuñó la Lanza y la [[Gema_de_la_Creacion|Gema de la Creación]] —pieza fundacional de la Vara triádica— para vencer a Takhishis en el [[Juicio_Final]] y forzar a los dioses a retroceder veintisiete años en el tiempo. Cae en el ataque a [[Mechanus]], el robo del [[Artefacto_Engranaje|Engranaje]] sin el cual no hay [[Contienda_la|Contienda]]: muere primordial como mueren los que el ciclo siguiente recuerda como dioses.* — glosa de Amitlai.

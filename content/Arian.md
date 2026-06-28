@@ -198,3 +198,6 @@ El acto que el archivo conserva del Foso: **Adam lanzó Sugestión contra [[Bert
 
 ![[Imagenes_Tier1/Arian_tres_estaciones.png]]
 *Las tres estaciones del alma de ciclo largo: el Aprendiz, el Pacto, el Señor de los Misterios.*
+
+![[Imagenes_Tier1/Arian_reencuentro.png]]
+*El reencuentro final: tras dejarlo ir [[Veloria]], el rey-sol lo recibe entre los árboles de luz. "—Arian. —¿Qué, padre? —Estás en casa."*

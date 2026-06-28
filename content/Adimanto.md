@@ -26,10 +26,17 @@ drow con **[[Arian]]** en pasajes subterráneos. Miembro del grupo de las "4 A" 
 Negocia con **[[Starco]]**, participa en rescate de reliquias de [[Delgrante]]. Mantiene robustez
 notable incluso durante epidemias; combatiente de cuerpo a cuerpo febril y provocador.
 
+*Disfrazado de idiota baboso, escapa del arresto de los Sabasios y cabalga al sur:*
+
+> *"Adimanto había tomado uno de los caballos de Starco. El animal sabía cómo volver a casa." — Entre el humo y los gritos rescató a sus amigos del templo de Yelmalio. No quería involucrar más a la Sagrada Orden: sabía que condenarían sus grises alianzas.*
+
 ## Notas
 
 Copartícipe de cautividad con [[Arian]]. Elecci­ón de [[Tanastias]] sobre Selva Negra
-de [[Angara_Andgara|Andgara]] por accesibilidad vs. peligro.
+de [[Angara_Andgara|Andgara]] por accesibilidad vs. peligro. Su arco lo lleva a recuperar el
+**collar de oro** de **[[Taimo]]** entre las llamas de **[[Morvandor]]** y a tratar con
+**[[Starco]]**; la novela proyecta su destino último en la voz de **[[Soluna]]**, "el Antiguo"
+(ver el eco anotado en esa ficha).
 
 ## Ver también
 
