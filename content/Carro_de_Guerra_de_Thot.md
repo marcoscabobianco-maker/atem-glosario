@@ -19,7 +19,12 @@ tags:
  - guerra
  - mecanismo
  - thoth
+imagen: Imagenes_Tier1/Carro_de_Guerra_de_Thot.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Carro_de_Guerra_de_Thot.png]]
+<!-- /HEADER_IMG -->
 
 > *"Los caballos nunca habían tocado el suelo. La Corona Azul de la Guerra nunca había sentido la luz. Hasta ahora."*
 

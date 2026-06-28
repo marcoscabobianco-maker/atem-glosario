@@ -18,7 +18,12 @@ tags:
  - dispositivo-narrativo
  - teddy
  - howard-carter
+imagen: Imagenes_Tier1/Lady_Carter.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lady_Carter.png]]
+<!-- /HEADER_IMG -->
 
 > *"¡Es muy tarde, camarada! ¡Lady Carter ya la tiene!"* — [[Teddy_Bennet|Teddy]].
 

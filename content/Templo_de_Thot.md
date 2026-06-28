@@ -50,6 +50,9 @@ Es ingeniería —contrapesos, rieles, antorchas que se encienden solas— vesti
 
 ---
 
+![[Imagenes_Tier1/Templo_de_Thot_horoscopo.png]]
+*El primer horóscopo del mundo: la bóveda de oro y lapislázuli sobre la cámara del juicio.*
+
 ## Vínculos
 
 - [[Daga_de_Thot|Daga de Thot]] — la llave que abre la estela.

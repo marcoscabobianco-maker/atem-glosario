@@ -16,7 +16,12 @@ tags:
  - villano
  - stinger
  - amenaza-latente
+imagen: Imagenes_Tier1/Hans_LDC.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Hans_LDC.png]]
+<!-- /HEADER_IMG -->
 
 > *"Señor Bennet. Mi nombre es Hans. Tengo preguntas sobre una mujer que usted conoce."*
 

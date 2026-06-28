@@ -18,7 +18,12 @@ tags:
  - difunta
  - advertencia
  - el-cairo
+imagen: Imagenes_Tier1/Mata_Hari.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mata_Hari.png]]
+<!-- /HEADER_IMG -->
 
 > *"Ah, veo que reconoces a una vieja colega. La última espía que intentó engañarme."* — [[Paul_Morand|Morand]].
 

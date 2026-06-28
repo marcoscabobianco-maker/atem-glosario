@@ -18,7 +18,12 @@ tags:
  - aleman
  - expedicion
  - ashmunain
+imagen: Imagenes_Tier1/Gunther_Roeder.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gunther_Roeder.png]]
+<!-- /HEADER_IMG -->
 
 > *"No vienen a excavar. Vienen a sellar."* — descubrimiento de [[Irti|Irti]] junto al fuego de los obreros.
 

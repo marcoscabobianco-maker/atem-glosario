@@ -18,7 +18,12 @@ tags:
  - egipto
  - farallon
  - travesia
+imagen: Imagenes_Tier1/Desierto_Rojo.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Desierto_Rojo.png]]
+<!-- /HEADER_IMG -->
 
 > *"Más allá de los mapas. Más allá de los nombres. Donde el desierto guarda sus secretos más antiguos."*
 

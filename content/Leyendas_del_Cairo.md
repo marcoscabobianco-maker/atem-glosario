@@ -79,3 +79,7 @@ Que una mesa lejana, jugando con un sistema que ni conoce el nombre de [[Ardis_V
 ---
 
 > **[R] — Capa asertórica de mesa.** Crónica de la sub-campaña **LDC** (*Leyendas del Cairo*), jugada con el sistema **Broken Compass** en la mesa **Farol** y transmitida en YouTube como **#AventurasAzarosas** (4 partes, marzo 2024). Material primario del **cuaderno C95 BIS** (notas de GM de Pocopis). La narración manipula el tiempo deliberadamente: salto adelante (interrogatorio en el hotel) y luego *flashback* a la subasta, decisión tomada en la sesión cero para imponer tono noir desde el primer minuto. Las tres "manos" en la mesa modelaron a Camille (Femme Fatale + Spy), a Teddy (Explorer + Reporter) y a Irti (Hunk + Explorer) eligiendo *tags* del sistema. Fuentes consolidadas: transcripts del stream, *Extracción Diegética de Transcripts*, Storyboards Maestros Cap 1–4, y los reportes *Génesis*, *Cronología* y *La Corona de Thot*. **Pendiente de cotejo con el cuaderno físico C95 BIS (sin scan al 28/06/2026).**
+
+![[Imagenes_Tier1/Leyendas_del_Cairo_luna_roja.png]]
+*Bajo la luna roja, la hija de la guerra empuña la daga ante los guardianes.*
+

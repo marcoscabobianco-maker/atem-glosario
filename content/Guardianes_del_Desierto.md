@@ -19,7 +19,12 @@ tags:
  - guardianes
  - siwa
  - linaje
+imagen: Imagenes_Tier1/Guardianes_del_Desierto.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Guardianes_del_Desierto.png]]
+<!-- /HEADER_IMG -->
 
 > *"Nosotros guardamos la puerta. Lo que hay dentro es asunto de los dioses."* — su [[Lider_Beduino_de_Siwa|líder]].
 

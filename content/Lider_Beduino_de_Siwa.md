@@ -18,7 +18,12 @@ tags:
  - guardian
  - siwa
  - linaje
+imagen: Imagenes_Tier1/Lider_Beduino_de_Siwa.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lider_Beduino_de_Siwa.png]]
+<!-- /HEADER_IMG -->
 
 > *"Los ojos de Siwa. La sangre de los guardianes. Creíamos que no quedaba nadie."*
 

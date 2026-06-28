@@ -57,6 +57,9 @@ Una daga de Thot, que apunta y que abre, en una mesa que nunca oyó hablar de [[
 
 ---
 
+![[Imagenes_Tier1/Daga_de_Thot_la_llave.png]]
+*La llave perfecta: la daga encaja en la figura del niño tallado y la piedra cede.*
+
 ## Vínculos
 
 - [[Camille_Colbert|Camille Colbert]] — quien la roba, la lee y la empuña.

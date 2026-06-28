@@ -17,7 +17,12 @@ tags:
  - espia
  - barman
  - ashmunain
+imagen: Imagenes_Tier1/Gasparini.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gasparini.png]]
+<!-- /HEADER_IMG -->
 
 > *"¿Periodista, dice? Qué interesante. Morand no suele viajar con prensa."*
 

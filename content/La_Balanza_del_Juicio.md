@@ -20,7 +20,12 @@ tags:
  - juicio-de-osiris
  - anubis
  - prueba
+imagen: Imagenes_Tier1/La_Balanza_del_Juicio.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/La_Balanza_del_Juicio.png]]
+<!-- /HEADER_IMG -->
 
 > *"El corazón se pesa contra la pluma de Maat. La verdad contra el alma."* — [[Teddy_Bennet|Teddy]].
 

@@ -19,7 +19,12 @@ tags:
  - el-cairo
  - colonial
  - espionaje
+imagen: Imagenes_Tier1/Hotel_Shepheard.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Hotel_Shepheard.png]]
+<!-- /HEADER_IMG -->
 
 > *"Hotel Shepheard's. El corazón del Cairo colonial. Donde los imperios negocian y los secretos cambian de manos."*
 

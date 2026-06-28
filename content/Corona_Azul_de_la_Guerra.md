@@ -20,7 +20,12 @@ tags:
  - guerra
  - faraon
  - poder
+imagen: Imagenes_Tier1/Corona_Azul_de_la_Guerra.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Corona_Azul_de_la_Guerra.png]]
+<!-- /HEADER_IMG -->
 
 > *"Quien lleve esto decidirá la guerra: quién gana, quién pierde, quién se lleva el botín."*
 

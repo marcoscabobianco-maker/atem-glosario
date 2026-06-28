@@ -20,7 +20,12 @@ tags:
  - guardian
  - inframundo
  - bronce
+imagen: Imagenes_Tier1/Ammit_Las_Devoradoras.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ammit_Las_Devoradoras.png]]
+<!-- /HEADER_IMG -->
 
 > *"Ammit. La devoradora de almas. Eso no es historia, Teddy. Es mitología."* — [[Camille_Colbert|Camille]]. «En este lugar, ¿cuál es la diferencia?» — [[Teddy_Bennet|Teddy]].
 

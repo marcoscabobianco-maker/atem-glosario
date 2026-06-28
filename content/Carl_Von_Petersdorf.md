@@ -19,7 +19,12 @@ tags:
  - difunto
  - ocultista
  - boston
+imagen: Imagenes_Tier1/Carl_Von_Petersdorf.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Carl_Von_Petersdorf.png]]
+<!-- /HEADER_IMG -->
 
 > *"En tus ojos veo el pasado del Nilo."* — lo que le dijo a [[Camille_Colbert|Camille]], según ella.
 

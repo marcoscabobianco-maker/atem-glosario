@@ -18,7 +18,12 @@ tags:
  - mafioso
  - boston
  - instrumento
+imagen: Imagenes_Tier1/George_Vita.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/George_Vita.png]]
+<!-- /HEADER_IMG -->
 
 > *"¡Se acabó la función!"*
 

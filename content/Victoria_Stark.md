@@ -18,7 +18,12 @@ tags:
  - metropolitan
  - aliada
  - ashmunain
+imagen: Imagenes_Tier1/Victoria_Stark.png
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Victoria_Stark.png]]
+<!-- /HEADER_IMG -->
 
 > *"¿Tienes idea de cuánta dinamita hay en el depósito de provisiones?"*
 
