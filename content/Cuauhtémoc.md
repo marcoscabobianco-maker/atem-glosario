@@ -6,7 +6,7 @@ aliases: ["Cuauhtémoc"]
 ---
 
 <!-- HEADER_IMG -->
-![[Imagenes_Tier1/Cuauhtémoc.png]]
+![[Imagenes_Tier1/Cuauhtemoc.png]]
 <!-- /HEADER_IMG -->
 
 Una sola mención lo convoca al registro: en los días en que la Fronda ya sacudía las calles de París y el Quartier de Saint-Germain hervía de conspiraciones menores, alguien nombró a Cuauhtémoc junto a Juan en un mismo aliento. El nombre sorprende: suena a Nuevo Mundo en el corazón del París de 1648, y el archivo no ha podido determinar si es nombre propio, apodo adoptado, o una deformación de algún vocablo francés que el oído transcribió como pudo.

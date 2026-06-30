@@ -6,7 +6,7 @@ aliases: ["Gastón Felón"]
 ---
 
 <!-- HEADER_IMG -->
-![[Imagenes_Tier1/Gastón_Felón.png]]
+![[Imagenes_Tier1/Gaston_Felon.png]]
 <!-- /HEADER_IMG -->
 
 Miembro de la familia [[Felón]], señores de [[Château_de_Chambois]]. Gastón es el hermano sobre el que cayó la peor suerte de ese linaje enredado en pactos que exceden la comprensión humana: fue poseído por [[Andromalius]], el Conde del abismo que examina los tesoros robados y descubre a los ladrones. Que un demonio de esa naturaleza eligiera a Gastón dice algo sobre la familia y algo sobre él.
