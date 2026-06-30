@@ -17,6 +17,12 @@ tags:
  - stub
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Praga.jpg]]
+<!-- /HEADER_IMG -->
+
+> *El puente Carlos de Praga al atardecer.*
+
 > *La ciudad donde el Juego de las Sombras se instaló por primera vez. Punto de entrada de los [[Libertateurs]].*
 
 ## Presentación

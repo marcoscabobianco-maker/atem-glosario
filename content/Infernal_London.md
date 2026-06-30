@@ -1,12 +1,19 @@
 ---
-title: "Infernal London"
+title: "Londres Infernal"
 categoria: lugar
 tags:
  - "paris-ucronica"
  - "location"
 aliases:
+ - "Londres Infernal"
  - "Infernal London"
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Infernal_London.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La calle gotica y lluviosa del Londres infernal.*
 
 ## Presentación
 

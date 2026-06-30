@@ -5,6 +5,12 @@ aliases:
 en_construccion: true
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Comuna_de_Paris_1870.png]]
+<!-- /HEADER_IMG -->
+
+> *La insurreccion en las barricadas de la Comuna.*
+
 > *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
 
 ## Referencias entrantes

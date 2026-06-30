@@ -5,6 +5,12 @@ aliases:
 en_construccion: true
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mar_Muerto.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La barca naufragada sobre las aguas iridiscentes del Mar Muerto.*
+
 > *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
 
 ## Referencias entrantes

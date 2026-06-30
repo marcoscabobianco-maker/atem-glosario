@@ -12,6 +12,12 @@ aliases:
 wikipedia: https://es.wikipedia.org/wiki/Abismo_(Dragones_y_Mazmorras)
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Abismo.jpg]]
+<!-- /HEADER_IMG -->
+
+> *El trono-altar infernal suspendido sobre el abismo.*
+
 ## Presentación
 
 Plano de existencia maléfica y caótica. Destino de almas, monstruos y

@@ -24,6 +24,12 @@ tags:
  - templo-arrastrado
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Paladin_in_Hell.jpg]]
+<!-- /HEADER_IMG -->
+
+> *«A Paladin in Hell» (D. A. Sutherland): el paladin que baja solo al Foso entre demonios — la estampa fundacional del Descenso.*
+
 > *El arco fundacional. De ahí salen [[Maristo]] y Arian juntos. [[Klyssandral]] arrastró un templo al quinto nivel del imperio. El [[Vala_Cristalis|Valis Cristal]] nació allí.*
 
 ## Presentación
@@ -44,7 +50,7 @@ El arco incluye **pactos con [[Grazzt|Graz'zt]]** —en el momento del cosmos co
 
 ### Reaparición en Inferno y en crossovers
 
-El arco no se cierra: **reaparece en la gesta Inferno** —en el episodio del Sancta Sanctorum, donde se desata la lucha de todos contra todos por el Vala Cristalis—. Y reaparece también en los **crossovers Masters × Mundo de Krile** que co-dirigió con **[[Cristo_Leon|Cristo León]]**. Las líneas abiertas en el arco fundacional siguen vivas tres décadas después.
+El arco no se cierra: **reaparece en la gesta Inferno** —en el episodio del Sancta Sanctorum, donde se desata la lucha de todos contra todos por el Vala Cristalis—. Y reaparece también en los **crossovers Masters × [[Mundo_de_Kryle|Mundo de Kryle]]**. Las líneas abiertas en el arco fundacional siguen vivas tres décadas después.
 
 ## Vínculos
 
@@ -54,7 +60,7 @@ El arco no se cierra: **reaparece en la gesta Inferno** —en el episodio del Sa
 - [[Grazzt|Graz'zt]] — pactos infernales del arco
 - [[Vala_Cristalis]] — surge aquí como Valis Cristal
 - [[Anti_Inferno|Gesta Inferno]] — donde el arco reaparece
-- [[Cristo_Leon|Cristo León]] / **Mundo de Krile** — crossovers Masters
+- **[[Mundo_de_Kryle|Mundo de Kryle]]** — crossovers Masters
 - [[Lucifer]] — palacio infernal, defensa cristalina
 - *Sancta Sanctorum* — sede del Tabernáculo / Arca de la Alianza en el Inferno
 
@@ -62,9 +68,17 @@ El arco no se cierra: **reaparece en la gesta Inferno** —en el episodio del Sa
 
 - Arco fundacional del Mediterráneum — primera corrida de Paladin in Hell
 - el Descenso / Inferno — reaparición en el Sancta Sanctorum
-- Crossovers Masters × Mundo de Krile — reaparición trans-gesta
+- Crossovers Masters × [[Mundo_de_Kryle|Mundo de Kryle]] — reaparición trans-gesta
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷ ☯
 > *El arco fundacional: una incursión al [[Infierno]] de la que se vuelve herido. [[Klyssandral]] arrastró un templo entero al quinto nivel infernal —el descenso por estratos en su forma más literal—, y de ahí emergen [[Maristo]] y [[Arian]] cargando la deuda con el maestro y los pactos con [[Grazzt|Graz'zt]]. Lo que nació aquí como «Valis Cristal», tesoro local, deviene la [[Vala_Cristalis|Vala Cristalis]]: la capa de cristalización que sostiene el mundo-gema y vuelve a disputarse en el Sancta Sanctorum.* — glosa de Paulus.
 <!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente:** *Paladin in Hell*, módulo de Monte Cook para AD&D 2da edición; el Valis Cristal era su macguffin local. Los crossovers Masters × [[Mundo_de_Kryle|Mundo de Kryle]] se co-dirigieron con otro master del círculo.

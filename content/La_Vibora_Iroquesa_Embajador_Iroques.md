@@ -27,3 +27,6 @@ Embajador de las Cinco Naciones. Verdadera forma: serpiente humanizada gigante (
 ## Notas
 
 ¿Conexión con "[[La_Serpiente|La Serpiente]]" de [[Paris_Ucronica|París Ucrónica]] (entidad caótica con naturaleza proteánica)?
+
+![[Imagenes_Tier1/La_Vibora_Iroquesa_hechicera.jpg]]
+*La vibora iroquesa: la hechicera encapuchada de cola de serpiente.*

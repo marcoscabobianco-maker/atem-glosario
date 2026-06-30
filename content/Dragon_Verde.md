@@ -21,10 +21,13 @@ aliases:
 
 ## Presentación
 
-[[Sauro_Dragon|Dragón]] adulto aprisionado en la cámara de [[Secoya]]. Pelo blanco, cuernos curvados, alas poderosas. Aliento de ácido, Mirror Images. Corrompido por su asociación con [[Francis_Drake_Draco_Drake|Francis Drake]]. Fue amante de [[California]] antes de la corrupción. Se describe como "la pantera, el león y el lobo" (bestias dantescas). Propone invocar a Drake via medallón melancólico. Tiene una cría. En la [[Farruco_Arrastrado_al_Pozo_NC16|caída de Farruco al pozo]], [[Vermir]] le transmite la ubicación del [[Dragon_Staff_Baston_del_Dragon|Dragon Staff]] y el dragón enfurecido vuela hacia Ohio.
+[[Sauro_Dragon|Dragón]] adulto aprisionado en la cámara de [[Secoya]]. Pelo blanco, cuernos curvados, alas poderosas. Aliento de ácido, imágenes especulares que lo multiplican. Corrompido por su asociación con [[Francis_Drake_Draco_Drake|Francis Drake]]. Fue amante de [[California]] antes de la corrupción. Se describe como "la pantera, el león y el lobo" (bestias dantescas). Propone invocar a Drake via medallón melancólico. Tiene una cría. En la [[Farruco_Arrastrado_al_Pozo_NC16|caída de Farruco al pozo]], [[Vermir]] le transmite la ubicación del [[Dragon_Staff_Baston_del_Dragon|Bastón del Dragón]] y el dragón enfurecido vuela hacia Ohio.
 *Apariciones:* el umbral; el combate mayor en la cámara; la alianza con mercenarios; la [[Farruco_Arrastrado_al_Pozo_NC16|caída de Farruco al pozo]] (furia final)
-*Conexiones:* [[Secoya]] (lo aprisionó), [[California]] (ex-amante), [[Francis_Drake_Draco_Drake|Francis Drake]] (corruptor), [[Dragon_Staff_Baston_del_Dragon|Dragon Staff]], Medallón
+*Conexiones:* [[Secoya]] (lo aprisionó), [[California]] (ex-amante), [[Francis_Drake_Draco_Drake|Francis Drake]] (corruptor), [[Dragon_Staff_Baston_del_Dragon|Bastón del Dragón]], Medallón
 
 ## Notas
 
 ¿Hay múltiples dragones verdes o es el mismo a lo largo de toda la gesta? La cría del combate en la cámara no reaparece.
+
+![[Imagenes_Tier1/Dragon_Verde_ritual.jpg]]
+*El ritual de lucha contra el gigante de dos cabezas en la tribu del Dragon Verde.*

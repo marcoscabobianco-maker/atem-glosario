@@ -23,7 +23,7 @@ aliases:
 
 Príncipe Rumano / Heredero de título serbio. Nombre completo: [[Moni_Vivescu|Moni]]/Mony Vivescu, a veces referido como "Príncipe Vivescu." Joven advenedizo de aproximadamente 18-20 años, educado en ambiente aristocrático pero bajo influencia oculta del **[[Circulo_de_la_Serpiente|Círculo de la Serpiente]]**. Manipulado por agentes oscuros para heredar fortuna del vicecónsul **[[Bandy_Viceconsul|Bandy]]** y potencialmente usurpar poder político en Serbia.
 
-Historia personal compleja: (1) Hijo o protegido de figura aristocrática. (2) Bajo custodia nominal de **[[Bandy_Viceconsul|Bandy]]** (vicecónsul, amante suyo). (3) [[Objetivo]] de conspiración del [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] para: a) asesinato de [[Bandy_Viceconsul|Bandy]] (cortar línea de herencia), b) manipulación de Vivescu para heredar fortuna, c) forzar a **[[Stella|Estela]] (nereida)** a liberar entidades serpentinas usando poder sobre Vivescu, o d) usar su posición heredada para operaciones políticas contra monarquía serbia.
+Historia personal compleja: (1) Hijo o protegido de figura aristocrática. (2) Bajo custodia nominal de **[[Bandy_Viceconsul|Bandy]]** (vicecónsul, amante suyo). (3) Objetivo de conspiración del [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] para: a) asesinato de [[Bandy_Viceconsul|Bandy]] (cortar línea de herencia), b) manipulación de Vivescu para heredar fortuna, c) forzar a **[[Stella|Estela]] (nereida)** a liberar entidades serpentinas usando poder sobre Vivescu, o d) usar su posición heredada para operaciones políticas contra monarquía serbia.
 
 Caracterización: bisexual/ambiguo en orientación sexual. Diálogos iniciales sugieren inteligencia media, personalidad caótica, propensión a manipulación emocional. **[[Philippe|Philip]]** lo seduce en [[Grand_Hotel_de_Paris|Grand Hotel de París]], obteniendo confesiones sobre promesas que le hizo "[[La_Serpiente|La Serpiente]]." Pese a connivencia inicial, Vivescu desea escapar de Círculo; busca legitimidad y supervivencia.
 
@@ -55,3 +55,6 @@ La sexualidad de Vivescu (sugerida bisexual/ambigua) es característica recurren
 > **Casas del ciclo** · ⌖
 > *El joven heredero rumano es el nudo ficticio cosido a la Historia verbatim de la Belle Époque: el [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] lo manipula para heredar la fortuna del vicecónsul [[Bandy_Viceconsul|Bandy]] y desestabilizar la monarquía serbia, y los [[Time_Bandits]] lo escoltan por el [[Orient_Express|Orient Express]] hasta [[Bucarest_Ucronica|Bucarest]]. Geografía y política reales —Constantinopla, los Balcanes, el tren— inscritas como tablero del archivo.* — glosa del archivero del Plata.
 <!-- /CICLO -->
+
+![[Imagenes_Tier1/Moni_Vivescu_alt.jpg]]
+*Moni Vibescu: vision alternativa del acusador ante el juego.*

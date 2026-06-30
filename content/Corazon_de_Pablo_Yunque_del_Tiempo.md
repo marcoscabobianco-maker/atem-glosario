@@ -19,7 +19,13 @@ tags:
  - apocalipsis
 ---
 
-> *Plano astral donde reside la consciencia de [[Kronamon]]. Montaña donde las edades se apilan unas sobre otras. Lugar de origen de Minaya, prisión de Elías el Hijo.*
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Corazon_de_Pablo_Yunque_del_Tiempo.png]]
+<!-- /HEADER_IMG -->
+
+> *El yunque del tiempo: la entidad cosmica que sostiene el mundo en el corazon de Pablo.*
+
+> *Plano astral donde reside la consciencia de [[Chronomon|Kronamon]]. Montaña donde las edades se apilan unas sobre otras. Lugar de origen de Minaya, prisión de Elías el Hijo.*
 
 ## Presentación
 
@@ -31,12 +37,12 @@ El Yunque es **lugar de origen de personajes**: allí, en sus capas más profund
 
 **La prisión no es eterna.** En algún momento del ciclo posterior, **Elías y el [[Innombrable]] se conforman en tríada con [[Arian]]** para **buscar la [[Vara_del_Infinito]]**. La unión que se gesta dentro de los niveles del Yunque —entre los dos prisioneros que comparten era— se completa afuera con la incorporación del agente de Tiamat. **El acto de la tríada sustituye los designios del propio Pablo sobre la Vara** —ironía perfecta del Corazón: el plano que aloja la consciencia de Pablo termina siendo cuna de la unión que lo sobrepasa. De ahí brota el conflicto de [[Los_Supremos]] como cierre del ciclo cósmico.
 
-En su faceta más íntima, el Yunque es también el **Corazón de Pablo** —el plano astral donde reside la consciencia de [[Kronamon]] en su encarnación como Pablo—. La ubicación no es geográfica: se accede por vía astral, no por viaje físico. En sus secretos finales está el conocimiento del **[[Libro_Azul]]**, las **Torres del Corazón**, las claves del Apocalipsis. Cualquiera que entre en el Corazón debe estar dispuesto a enfrentarse al propio Kronamon en su plano —y la implicación es vertiginosa: si Kronamon escribió el [[Libro_Azul]] desde su corazón, y el grupo está leyendo el Libro, entonces el grupo ya está, sin saberlo, dentro del plano del Kronamon. La recursión es exacta.
+En su faceta más íntima, el Yunque es también el **Corazón de Pablo** —el plano astral donde reside la consciencia de [[Chronomon|Kronamon]] en su encarnación como Pablo—. La ubicación no es geográfica: se accede por vía astral, no por viaje físico. En sus secretos finales está el conocimiento del **[[Libro_Azul]]**, las **Torres del Corazón**, las claves del Apocalipsis. Cualquiera que entre en el Corazón debe estar dispuesto a enfrentarse al propio Kronamon en su plano —y la implicación es vertiginosa: si Kronamon escribió el [[Libro_Azul]] desde su corazón, y el grupo está leyendo el Libro, entonces el grupo ya está, sin saberlo, dentro del plano del Kronamon. La recursión es exacta.
 
 ## Vínculos
 
 - [[Pablo_de_Alejandria|Pablo de Alejandría]] — su consciencia reside acá en encarnación como Kronamon
-- [[Kronamon]] — el hijo de Pablo, narrador del *Skronamon*
+- [[Chronomon|Kronamon]] — el hijo de Pablo, narrador del *Skronamon*
 - [[Libro_Azul]] / [[Eisagogika]] — el libro escrito desde acá, contiene secretos del lugar
 - [[Minaya_MC|Minaya]] — surgió aquí en la era primigenia
 - [[Elias|Elías el Hijo]] — atrapado en una de las capas, después parte de la tríada que sustituye a Pablo

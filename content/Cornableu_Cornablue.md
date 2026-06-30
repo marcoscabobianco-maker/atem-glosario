@@ -10,6 +10,12 @@ aliases:
  - "Cornablue"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cornableu_Cornablue.jpg]]
+<!-- /HEADER_IMG -->
+
+> *Cornableu: el hombre barbado de la pipa.*
+
 ## Presentación
 
 Cargador de [[Les_Halles|Les Halles]] que hacía mal uso de su verga violeta. Antagonista principal de combate en [[Club_des_Gorriones|Club des Gorriones]] y reaparece como enemigo en [[Los_Halls|Les Halles]].

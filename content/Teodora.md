@@ -11,6 +11,12 @@ aliases:
 wikipedia: https://es.wikipedia.org/wiki/Teodora_(emperatriz_del_siglo_XI)
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Teodora.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La emperatriz Teodora, guerrera dorada en el trono.*
+
 ## Presentación
 
 Personaje de [[Racho]].

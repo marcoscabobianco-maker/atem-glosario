@@ -13,9 +13,15 @@ aliases:
  - "El Último Manhattan"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Nicaramsa_Leonino_El_Ultimo_Manhattan.jpg]]
+<!-- /HEADER_IMG -->
+
+> *El ultimo Manhattan: roach leonino, pieles de lince y lobo, las cicatrices de su gente.*
+
 ## Presentación
 
-Guerrero Lenape, "Último de los Lenape" (del Conquino). Porte imponente, melena leonina, cicatrices de scalping fallido, pieles de lince. Sus hijos están encadenados como rehenes de [[Peter_Stuyvesant_II|Peter Stuyvesant II]], transformados en criaturas demoníacas por Pacto de Sujeción iroqués. Su arco es el del padre que sacrifica todo: erupciona en furia al ver a sus hijos poseídos, los arrastra fuera del combate mientras lo apuñalan. [[Propietario]] de la morada sagrada en [[Manhattan_New_Amsterdam_1662-1666|Manhattan]] norte (futuro Central Park). Identificado como "El Último Manhattan" — último habitante indígena de la isla.
+Guerrero Lenape, "Último de los Lenape" (del Conquino). Porte imponente, melena leonina, cicatrices de scalping fallido, pieles de lince. Sus hijos están encadenados como rehenes de [[Peter_Stuyvesant_II|Peter Stuyvesant II]], transformados en criaturas demoníacas por Pacto de Sujeción iroqués. Su arco es el del padre que sacrifica todo: erupciona en furia al ver a sus hijos poseídos, los arrastra fuera del combate mientras lo apuñalan. Propietario de la morada sagrada en [[Manhattan_New_Amsterdam_1662-1666|Manhattan]] norte (futuro Central Park). Identificado como "El Último Manhattan" — último habitante indígena de la isla.
 *Apariciones:* la [[Batalla_del_Molino_NC09|batalla del Molino]] (alianza, combate del molino); el rescate de sus hijos; la morada sagrada
 *Conexiones:* [[Peter_Stuyvesant_II|Peter Stuyvesant II]], Niños-Demonios (hijos), Cadenas del Pacto de Sujeción, Reina Dorada, [[Manhattan_New_Amsterdam_1662-1666|Manhattan]]
 

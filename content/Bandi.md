@@ -9,6 +9,12 @@ aliases:
  - "Salven a Bandi"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Bandi.jpg]]
+<!-- /HEADER_IMG -->
+
+> *Bandi, retrato del pugil.*
+
 ## Presentación
 
 Pederasta y vividor que se mantuvo al margen de situaciones políticas serbias. Asesinado por bala indicada por el [[Red_Negra_Circulo_Rojo|Círculo de Serbia]].

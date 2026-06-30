@@ -7,6 +7,12 @@ aliases:
  - "Mariette"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mariette.jpg]]
+<!-- /HEADER_IMG -->
+
+> *Mariette.*
+
 ## Presentación
 
 Doncella de compañía. Nephilim que trafica objetos mágicos y sexo casual. Mujer enviada por [[Moni_Vivescu|Mony]] como portadora de cartas incriminatorias. Reaparece como empleada del Grand Hotel/[[Orient_Express|Orient Express]] en el archivo.

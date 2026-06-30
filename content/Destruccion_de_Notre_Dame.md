@@ -30,6 +30,12 @@ tags:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Destruccion_de_Notre_Dame.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La destruccion de Notre-Dame, 1946 — el lugar donde los reguladores marcharon adelante en el tiempo.*
+
 > *"Hay catedrales que arden por accidente y catedrales que caen por designio. [[Catedral_de_Notre-Dame_PU|Notre Dame]] cayó porque tenía que caer. Lo que se guardaba bajo su suelo —laberintos templarios, esferas que obliteran, sanctorum cuyo aire era ya aire infernal— pedía la apertura de París. La catedral fue la cubierta. Su caída fue la apertura."* — del *[[Anti_Inferno|Coro del Descenso]]*, libro VIII.
 
 ---
@@ -170,3 +176,6 @@ imagen: null
 > **Casas del ciclo** · ☷ ⛓
 > *La catedral era cubierta: bajo [[Catedral_de_Notre-Dame_PU|Notre Dame]] se hundía el [[Laberinto_de_Marfil]] con el [[Sancta_Sanctorum_Templarios|Sancta Sanctorum]] en el centro y aire infernal filtrando del Foso, capa sobre capa hasta el umbral del [[Anti_Inferno]]. Quien detona el caos puro es una banda nombrada —los [[Time_Bandits]], [[Arsvan|Ärsvan]] entre ellos— cuyo acto cierra el ciclo templario y abre el de [[Los_Reguladores]]: cuando Ärsvan toca la esfera de obliteración destinada a [[Ariadna_Genoveva|Ariadna]], el agente de la banda se vuelve el condenado que baja el último estrato.* — glosa del Coro del Descenso.
 <!-- /CICLO -->
+
+![[Imagenes_Tier1/Destruccion_de_Notre_Dame_sumergida.png]]
+*Notre-Dame sumergida.*

@@ -16,6 +16,12 @@ aliases:
 wikipedia: https://es.wikipedia.org/wiki/Constantinopla
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Valle_de_la_Muerte_Constantinopla_Anatolia.jpg]]
+<!-- /HEADER_IMG -->
+
+> *La fortaleza en el desierto rojo del Valle de la Muerte.*
+
 ## Presentación
 
 Área desértica a unas 10-15 millas de la costa de Anatolia oriental (zona entre Paflagonia y Teodosiopolis, cerca de Georgia y el Cáucaso). Terreno pedregoso, sin arena, cubierto de hierba seca y rocas oscuras erosionadas. Sin fauna observable: ni pájaros, ni insectos, ni rastros de vida animal. Viento constante que "suspira como una maldición." Árboles muertos y podridos, sin hojas.

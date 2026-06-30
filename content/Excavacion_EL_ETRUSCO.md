@@ -8,6 +8,12 @@ aliases:
  - "Excavación EL ETRUSCO"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Excavacion_EL_ETRUSCO.png]]
+<!-- /HEADER_IMG -->
+
+> *Los huelguistas de la excavacion del Etrusco: obreros metalurgicos reasignados al subsuelo insalubre.*
+
 ## Presentación
 
 Huelga excavadores en tumba EL ETRUSCO. Obreros metalúrgicos reasignados trabajo subterráneo insalubre sin cobertura. Reclamos: sindicalización, jornadas 8 horas, descanso dominical, aumento sueldo, horas extras. Vehiculizado por [[Claude_Nauge|Claude Nauge]] y [[Andre_La_Forge|André La Forge]] desde conventillo miserable.

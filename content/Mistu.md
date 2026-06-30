@@ -5,6 +5,12 @@ aliases:
  - "Mistu"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mistu.png]]
+<!-- /HEADER_IMG -->
+
+> *El elemental gaseoso de tentaculos rojos.*
+
 ## Presentación
 
 **Tipo:** Elemental del aire (Persa antiguo)
@@ -16,10 +22,10 @@ aliases:
 - Movimiento gaseoso (inmune a restricciones normales)
 - Barrera de viento (deflecta proyectiles)
 **Alineamiento:** No confirmado (probable neutral maligno por contexto)
-**[[Nota_narrativa|Nota narrativa]]:** Probablemente guardián/trampa de gabinete. Origen y propósito últimos desconocidos. ¿[[Entidad]] independiente o ligada a poder más grande?
+**Nota narrativa:** Probablemente guardián/trampa de gabinete. Origen y propósito últimos desconocidos. ¿Entidad independiente o ligada a poder más grande?
 **Rol futuro:** Potencial reaparición si grupo retorna a Santuario; posible aliado arcano si contactado apropiadamente.
 
 ## Ver también
 
 - Alineamiento
-- [[Nota_narrativa|Nota narrativa]]
+- Nota narrativa

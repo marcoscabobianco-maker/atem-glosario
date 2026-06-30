@@ -9,6 +9,12 @@ aliases:
  - "Abraham Wood"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Abraham_Wood.jpg]]
+<!-- /HEADER_IMG -->
+
+> *El magnate de Virginia, casaca roja y peluca.*
+
 ## Presentación
 
 Magnate maderero de Virginia. Interés en tierras Shawnee. Ensambla la expedición que envía al grupo a [[Fort_Henry|Fort Henry]]. Envía comitiva liderada por su hijo Thomas.

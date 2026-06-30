@@ -12,6 +12,12 @@ aliases:
  - "Pata de Palo"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Peter_Stuyvesant_II.png]]
+<!-- /HEADER_IMG -->
+
+> *El director de Nieu Amsterdam: calvo, coraza, capa dorada.*
+
 ## Presentación
 
 Director General de la Compañía Holandesa de las Indias Occidentales, gobernador de New Amsterdam. "Pata de Palo." Sombrero de fieltro, coraza, parche en ojo, bastón de mando/cetro que genera barreras de espinas. Retiene niños como rehenes, encarga constructo dorado de tres caras ("liberador de negros"). Referencia a la Ilíada: compara situación con "las cadenas de Glauco." Derrotado en combate pero dejado vivo — busca retaliación. No es un monstruo sino un administrador colonial que justifica tortura como "rituales paganos."
