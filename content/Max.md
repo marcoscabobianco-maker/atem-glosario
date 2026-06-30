@@ -17,6 +17,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Max.png]]
+<!-- /HEADER_IMG -->
+
 > *Primero la pistola, después las preguntas.*
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Tsilliv"
-título: "Tsilliv (líder del Consorcio Doce)"
+título: "Tsilliv"
 slug: Tsilliv
 categoria: personaje
 aliases:
@@ -20,22 +20,26 @@ tags:
  - reptiliano-cuatro-ojos
 ---
 
-> *Líder del [[Kaliyani|Consorcio Doce]] de los [[Kaliyani]]. Hechicero reptiliano de cuatro ojos. Reside en las las [[Kaliyani]] Pits. Acaba de reabrir conflicto con los [[Varumani]] al ser descubiertos sus scouts.*
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Tsilliv.png]]
+<!-- /HEADER_IMG -->
+
+> *Líder del [[Kaliyani|Consorcio Doce]] de los [[Kaliyani]]. Hechicero reptiliano de cuatro ojos. Reside en los Pozos de [[Kaliyani]]. Acaba de reabrir conflicto con los [[Varumani]] al ser descubiertos sus scouts.*
 
 ## Presentación
 
-**Tsilliv** es el **líder del Consorcio Doce** —el cuerpo de gobierno oligárquico de los **[[Kaliyani]]**, sub-raza heqeti renegada—. Reside en **Kaliyani Pits Kaliyani Pits** del [[Mega_Dungeon_Arden_Vul]]. **Hechicero reptiliano de cuatro ojos**.
+**Tsilliv** es el **líder del Consorcio Doce** —el cuerpo de gobierno oligárquico de los **[[Kaliyani]]**, sub-raza heqeti renegada—. Reside en **Pozos de Kaliyani Pozos de Kaliyani** del [[Mega_Dungeon_Arden_Vul]]. **Hechicero reptiliano de cuatro ojos**.
 
 ### El Consorcio Doce
 
-Bajo Tsilliv, los Kaliyani de [[Ardis_Vala|Arden Vul]] se organizan en una **oligarquía de 12 líderes**:
+Bajo Tsilliv, los Kaliyani de [[Ardis_Vala|Ardis Vala]] se organizan en una **oligarquía de 12 líderes**:
 
 - **Tsilliv** — líder supremo (titular)
 - **11 hechiceros adicionales** — formando el resto del Consorcio (no nombrados individualmente)
 
 **Estructura oligárquica** distingue a los Kaliyani de:
-- **[[Heqeti]]** (teocracia bajo el Great Tongue)
-- **[[Varumani]]** (monarquía feudal bajo el [[Varboka|First Thegn]])
+- **[[Heqeti]]** (teocracia bajo el Gran Lengua)
+- **[[Varumani]]** (monarquía feudal bajo el [[Varboka|Primer Thegn]])
 - **[[Papa_Alejandro_Sixto]]** (papado eclesial centralizado)
 
 Los Kaliyani prefieren **consenso de pares hechiceros** sobre **autoridad única**.
@@ -83,7 +87,7 @@ Con el **[[Vencimiento_Varumani]]**:
 
 - [[Mega_Dungeon_Arden_Vul]]
 - [[Kaliyani]] — su pueblo
-- **Kaliyani Pits** — sede
+- **Pozos de Kaliyani** — sede
 - **Consorcio Doce** — gobierno oligárquico
 - **Rivvep** — scout team líder
 - [[Heqeti]] / [[Reepsiq]] — raza madre, enemigo religioso
@@ -100,5 +104,5 @@ Con el **[[Vencimiento_Varumani]]**:
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷ ⛓
-> *Hechicero reptiliano de cuatro ojos que gobierna desde el fondo del descenso: las Kaliyani Pits y el Suelo del Gran Abismo del [[Mega_Dungeon_Arden_Vul]] son su estrato, frente a la teocracia [[Heqeti]] de arriba y la monarquía [[Varumani]] de [[Varboka]]. No manda solo: encarna el Consorcio Doce, una oligarquía colectiva de doce hechiceros que opera como un único sujeto de facción.* — glosa de Mascor Blancarba.
+> *Hechicero reptiliano de cuatro ojos que gobierna desde el fondo del descenso: las Pozos de Kaliyani y el Suelo del Gran Abismo del [[Mega_Dungeon_Arden_Vul]] son su estrato, frente a la teocracia [[Heqeti]] de arriba y la monarquía [[Varumani]] de [[Varboka]]. No manda solo: encarna el Consorcio Doce, una oligarquía colectiva de doce hechiceros que opera como un único sujeto de facción.* — glosa de Mascor Blancarba.
 <!-- /CICLO -->

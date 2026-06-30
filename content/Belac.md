@@ -1,6 +1,6 @@
 ---
 title: "Belac"
-título: "Belac (druida proscrito custodio del Árbol Gulthias)"
+título: "Belac"
 slug: Belac
 categoria: personaje
 aliases:
@@ -20,6 +20,10 @@ tags:
  - custodio-arbol-gulthias
  - bellaca
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Belac.png]]
+<!-- /HEADER_IMG -->
 
 > *Druida proscrito custodio terrenal del [[Arbol_Gulthias|Árbol Gulthias]]. [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana y Camino de Medianoche]]. Convertido al culto del árbol vampirizado. figura de los pliegos antiguos, adaptada al ciclo.*
 
@@ -43,7 +47,7 @@ tags:
 
 ### Posición en la jerarquía del Árbol
 
-| Nivel | [[Entidad]] | Rol |
+| Nivel | Entidad | Rol |
 |---|---|---|
 | **Cosmológico** | [[RAJ-750]] (semilla) → [[Arbol_de_Armas_Principal|Árbol de Armas Principal]] | Origen IA-vegetal |
 | **Regional** | [[Bellaca]] (= [[Bellaca|Lali]] vampireza) | **Reina cósmica del árbol** |
@@ -81,3 +85,11 @@ En el **relato conocido de la Ciudadela**, Belac es el druida proscrito que sirv
 - **Tradición de la Ciudadela** (relato de base)
 - **[[Novatos_Ravenloft|Novatos]] S?** — encuentro pendiente confirmar
 - **Pendiente**: cómo se conecta con Bellaca operativamente
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente externa:** Belak the Outcast, druida proscrito de *The Sunless Citadel* (Bruce R. Cordell, D&D 3e, WotC, 2000). Custodia el Árbol Gulthias y el Grove; comanda Twig/Needle/Vine Blights. Adaptado a Valachhan/Novatos subordinándolo a Bellaca como reina.

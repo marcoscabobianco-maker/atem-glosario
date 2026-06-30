@@ -14,6 +14,10 @@ tags:
  - taberna-serpiente-mundo
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Chan.png]]
+<!-- /HEADER_IMG -->
+
 > *Tullida mujer dragón. Brazo transformado en serpiente sentiente. Una de las cuatro miembros principales del grupo de [[Las_Tullidas]].*
 
 ## Presentación
@@ -48,7 +52,7 @@ Sigue el arco general de [[Las_Tullidas]]:
 
 ## Apariciones
 
-- Taller de Rol — narrativa primaria de [[Las_Tullidas]]
+- El archivo — narrativa primaria de [[Las_Tullidas]]
 - Arco del [[Amuleto_de_los_Planos]] / Supremos — agente recabadora
 
 <!-- CICLO -->

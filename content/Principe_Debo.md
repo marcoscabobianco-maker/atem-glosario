@@ -5,6 +5,10 @@ tags: ["personaje", "vala"]
 aliases: ["Príncipe Debo", "Devo"]
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Principe_Debo.png]]
+<!-- /HEADER_IMG -->
+
 Tercero en la línea de sucesión del trono de [[Uruk_(capital)_y_Casa_Azul|Uruk]], Príncipe Debo lleva en su nombre una carga que él mismo ignora: el linaje visible que lo une a la [[Casa Azul]] como descendiente de [[Gilgamesh]] el inmortal no es el único que corre por sus venas. Los registros del palacio lo inscriben como hijo del rey [[Baram I]], pero quienes frecuentan los jardines interiores murmuran otro nombre: el del anciano [[El_Jardinero|Jardinero]], custodio sabio de los patios reales, cuya sangre habría pasado al príncipe sin que corona ni corte quisieran saberlo. De ese secreto nace un conflicto sucesorio latente con un hermano que disputa la legitimidad del trono y no admite la herencia tal como fue proclamada.
 
 El compromiso matrimonial de Debo con [[Talia Cristalia]], la paladina, lo mantuvo durante un tiempo anclado a una forma de decoro. Cuando Talia desapareció — capturada, extraviada, consumida por su propia elección — el príncipe se disolvió en la juerga. Bebedor crónico, rodeado de aduladores y del paladín [[Calus Rey]], su compañero inseparable de taberna, Debo quedó atrapado entre las cláusulas legales del compromiso y la imposibilidad de honrarlo. Su melancolía tiene la forma de lo emo avant la lettre: un duelo sin cadáver ni clausura.

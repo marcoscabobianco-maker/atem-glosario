@@ -1,6 +1,6 @@
 ---
-title: "Lord Carcalus (Arena Lord)"
-título: "Lord Carcalus (Arena Lord)"
+title: "Lord Carcalus"
+título: "Lord Carcalus"
 slug: Lord_Carcalus
 categoria: personaje
 aliases:
@@ -21,11 +21,15 @@ tags:
  - inmortal
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lord_Carcalus.png]]
+<!-- /HEADER_IMG -->
+
 > *Uno de los rudishva supervivientes sin edad aparente. Máscara estética cruzada-Balduino. Dirige la Arena heqeti con mano de hierro y neutralidad estricta.*
 
 ## Presentación
 
-**Lord Carcalus** —*The Lord of the Arena* / *Arena Lord*— es el **gobernador único** de la **[[Troll_Lifts_Arena|Arena]] del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon Arden Vul]]**. Reside en **el palco que domina la Arena**. Es **uno de los pocos rudishva supervivientes sin edad aparente** —milenios viviendo en su Arena—.
+**Lord Carcalus** —*The Lord of the Arena* / *Señor de la Arena*— es el **gobernador único** de la **[[Troll_Lifts_Arena|Arena]] del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra Ardis Vala]]**. Reside en **el palco que domina la Arena**. Es **uno de los pocos rudishva supervivientes sin edad aparente** —milenios viviendo en su Arena—.
 
 ### Aspecto
 
@@ -57,13 +61,13 @@ Quien rompa esta regla **es eliminado** —sin proceso, sin discusión—. Esto 
 | Vínculo | Facción |
 |---|---|
 | **Cliente del esclavismo** | **[[Stephania_Set]]** / Gunnar (Guild of Service Forum de Set) — compra esclavos para combatir |
-| **Cliente de los monstruos** | **[[Beastmen_Niños_de_Deino|Beastmen de Deino]]** — venta de creatures |
+| **Cliente de los monstruos** | **[[Beastmen_Niños_de_Deino|Hombres-Bestia de Deino]]** — venta de creatures |
 | **Neutralidad estricta** | **Todas las demás facciones** — no se involucra políticamente |
 | **Coexistencia respetuosa** | **[[Varboka]]**, **Whitemane** — los líderes principales del nivel |
 
 ### El otro rudishva: contexto
 
-Junto con **[[Psalor_Ki]]** (Puertas de Obsidiana, vivisector loco), **[[RAJ-750]]** (Troll Lifts, IA insana), y **otros nameless**, Lord Carcalus es **uno de los rudishva sobrevivientes** del antiguo régimen. Cada uno **se adaptó de forma distinta** al colapso de su civilización:
+Junto con **[[Psalor_Ki]]** (Puertas de Obsidiana, vivisector loco), **[[RAJ-750]]** (Elevadores de los Trolls, IA insana), y **otros nameless**, Lord Carcalus es **uno de los rudishva sobrevivientes** del antiguo régimen. Cada uno **se adaptó de forma distinta** al colapso de su civilización:
 
 - **Carcalus** = ritualismo gladiatorial
 - **[[Psalor_Ki]]** = vivisección obsesiva
@@ -84,7 +88,7 @@ Con el **[[Vencimiento_Varumani]]**, la entrada en **[[Ravenloft_Dominio_Ardis_V
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Troll_Lifts_Arena|Troll Lifts — Troll Lifts & Arena]]
+- [[Troll_Lifts_Arena|Elevadores de los Trolls — Elevadores de los Trolls y Arena]]
 - **The Arena** — su dominio
 - **Tredgeris the Dapifer** — segundo
 - [[Rudishva]] — su raza

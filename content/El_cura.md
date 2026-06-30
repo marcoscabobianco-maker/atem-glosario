@@ -15,6 +15,10 @@ aliases:
  - "El seminarista"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/El_cura.png]]
+<!-- /HEADER_IMG -->
+
 > *La fe y la patria entran por el mismo gesto; el horror, por una revista.*
 
 ## El que sube con sotana
@@ -23,7 +27,7 @@ Entre los que abordan el vuelo que el [[Operativo_Condor|Operativo Cóndor]] des
 
 ## La puerta del horror
 
-Su umbral hacia lo otro no es un libro prohibido ni un grimorio hallado en el fondo de un arcón, como suele ocurrirles a quienes descienden. Es algo mucho más manso y por eso más insidioso: un aviso leído en las páginas de la revista *LIFE* —los rosacruces, la promesa de una «visión interna»—. Esa curiosidad inocente, esa rendija abierta por una publicidad de quiosco, es la primera grieta por donde a este hombre de Iglesia empieza a colársele lo que la cofradía del fondo prepara bajo las islas. La fe que lo trae es también lo que el descenso pondrá a prueba: detrás de la hospitalidad isleña esperan la [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] y las potencias que sueñan en lo hondo, el culto que aguarda la venida de [[Nyarlathotep|Tulu]].
+Su umbral hacia lo otro no es un libro prohibido ni un grimorio hallado en el fondo de un arcón, como suele ocurrirles a quienes descienden. Es algo mucho más manso y por eso más insidioso: un aviso leído en las páginas de la revista *LIFE* —los rosacruces, la promesa de una «visión interna»—. Esa curiosidad inocente, esa rendija abierta por una publicidad de quiosco, es la primera grieta por donde a este hombre de Iglesia empieza a colársele lo que la cofradía del fondo prepara bajo las islas. La fe que lo trae es también lo que el descenso pondrá a prueba: detrás de la hospitalidad isleña esperan la [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] y las potencias que sueñan en lo hondo, el culto que aguarda la venida de [[Cthulhu]].
 
 ## Notas
 

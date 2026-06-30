@@ -18,6 +18,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/El_periodista.png]]
+<!-- /HEADER_IMG -->
+
 > *La pregunta del oficio.*
 
 ---

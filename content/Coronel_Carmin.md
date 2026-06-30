@@ -15,6 +15,10 @@ aliases:
  - "el Intercesor"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Coronel_Carmin.png]]
+<!-- /HEADER_IMG -->
+
 Gobernador civil y militar de las Plataformas Unidas de la República de la Plata, el Coronel Carmín detenta en 1838 el doble título de Intercesor y Restaurador. Su camino al poder comenzó una década atrás con un agravio: el fusilamiento de [[Eldorio]] a manos de [[Gloveich]]. Ese crimen sin juicio fue el cimiento de todo lo que vendría, la lealtad herida que Carmín supo convertir en causa, en milicia, en régimen.
 
 Su base son los gauchos colorados del monte y los sectores populares federales que ven en él la única garantía de un orden que no los aplaste. Ha apadrinado al mulato pianista [[Remigio]] en el Teatro Victoria, cultivando una imagen de patrón de las artes que el rojo punzó no desmiente. Sus aliados estancieros, entre ellos los de la familia Martínez de Os con sus toros shorthorn, le dan el músculo económico de la gesta. Los masorqueros son su policía invisible, la sombra que recorre las calles de [[Torregrises]] cuando el decreto y el cuchillo se vuelven lo mismo.

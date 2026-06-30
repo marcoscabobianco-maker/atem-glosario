@@ -14,6 +14,10 @@ aliases:
  - "el de dos corazones"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Rehuen_cacique_de_dos_corazones.png]]
+<!-- /HEADER_IMG -->
+
 En los toldos y en los fortines se lo menciona con el peso de la leyenda: Rehuen, el de dos corazones. Cacique de la frontera pampeana, comanda malones contra las estancias que el régimen del Coronel Carmín considera suyas, y sus seguidores lo siguen con una devoción que va más allá de la lealtad de guerra. Hay algo en él —en la manera de moverse, en la persistencia con que vuelve cuando se lo cree derrotado— que los suyos leen como señal de algo más antiguo que la política.
 
 El apodo no es metáfora vacía. Se dice que tiene dos corazones: uno para el combate y otro para algo que nadie termina de nombrar. Los que pasaron por sus toldos —como José María, el bandido que en otra época de su vida vivió entre los indios— lo recuerdan como un poder que se retira y vuelve según tiempos propios, indiferente a los calendarios de los blancos.

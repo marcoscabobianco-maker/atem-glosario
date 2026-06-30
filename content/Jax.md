@@ -14,6 +14,10 @@ tags:
  - panteon-supremos
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Jax.png]]
+<!-- /HEADER_IMG -->
+
 > *Uno de los sobrevivientes de [[Vala_Antigua]]. Parte del panteón inicial del nuevo cosmos post-Triunvirato.*
 
 ## Presentación

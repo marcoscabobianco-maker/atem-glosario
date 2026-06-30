@@ -20,13 +20,17 @@ tags:
  - en-rex
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Senor_del_Orden_Primos.png]]
+<!-- /HEADER_IMG -->
+
 > *Primus, el dios-máquina de los Modrons y señor del [[Mechanus|Plano de la Ley]]. (El archivo lo registró a veces como "Primos", por error de transcripción.) Muerto por el Rex en el arco del [[Amuleto_de_los_Planos]].*
 
 ## Presentación
 
 El **Señor del Orden**, también nombrado en el archivo como **Primos** (probable apócope o pronunciación variante de **Primus**), es **una figura cosmológica del arco del [[Amuleto_de_los_Planos]]** que aparece en el documento canónico de [[Los_Supremos]]:
 
-> *"El señor del orden, también conocido como Primos, fue muerto por el Rex. [[Objetivo]] era poder ordenar el mismo la marcha de sus sirvientes fuera del ritmo y de los ciclos normales del universo, para encontrar el amuleto de los planos."*
+> *"El señor del orden, también conocido como Primos, fue muerto por el Rex. Objetivo era poder ordenar el mismo la marcha de sus sirvientes fuera del ritmo y de los ciclos normales del universo, para encontrar el amuleto de los planos."*
 
 ### El plan y el final
 

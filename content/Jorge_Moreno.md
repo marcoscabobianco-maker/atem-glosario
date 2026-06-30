@@ -19,6 +19,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Jorge_Moreno.png]]
+<!-- /HEADER_IMG -->
+
 > *El campo es del patrón; el orden, mío.*
 
 ---

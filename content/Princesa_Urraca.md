@@ -11,6 +11,10 @@ aliases:
  - "Princesa Urraca"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Princesa_Urraca.png]]
+<!-- /HEADER_IMG -->
+
 **Categoría:** personaje-historico
 
 ## Presentación

@@ -5,6 +5,10 @@ tags: ["personaje", "vala"]
 aliases: ["Bogeyman", "el Bogeyman"]
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Bogeyman.png]]
+<!-- /HEADER_IMG -->
+
 Criatura acechante cuya naturaleza es la sombra misma. En el archivo de Vala existe una lámina propia que lo retrata, trazada por la mano que registra la gesta: no es una figura genérica sino un ser individualizado, dotado de forma reconocible dentro del bestiario del mundo. Su nombre anglosajón —el Coco, el espanto nocturno de los niños— no es ironía sino diagnóstico: es el miedo hecho cuerpo.
 
 Durante el arco que lleva su nombre, los Wordbreakers no lo enfrentaron en batalla abierta sino que huyeron. [[Midori]], Taylor y Antinoo encabezaron la retirada; el patrón de presencias en esa crónica es el de un grupo comprimido por el pánico, devuelto a algo más viejo que la táctica. El Bogeyman no destruye desde afuera: erosiona desde la sombra que cada uno carga.

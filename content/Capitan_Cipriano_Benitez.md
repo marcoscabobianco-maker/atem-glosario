@@ -13,6 +13,10 @@ aliases:
  - "Capitán Benítez"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Capitan_Cipriano_Benitez.png]]
+<!-- /HEADER_IMG -->
+
 Oficial al mando de la guardia que custodia el recinto amurallado donde funciona la imprenta de [[Clavijero]], en [[Santa_Maria_de_Torregrises|Santa María de Torregrises]]. Los que lo conocen lo describen como «medio sacado»: un hombre de temperamento irregular, dado a reacciones que sus subordinados no siempre anticipan. Tiene de segundo a un individuo de baja estatura cuya función en la guardia resulta más oscura que la de un simple ayudante.
 
 La imprenta que custodia no es un taller ordinario: es el punto donde los escritos de [[Clavijero]] y sus aliados se vuelven papel circulante, panfletos o documentos capaces de mover voluntades en la ciudad federal. Que un capitán de carácter inestable sea quien controle ese acceso dice algo sobre la naturaleza del acuerdo entre el régimen y quienes operan dentro del recinto.

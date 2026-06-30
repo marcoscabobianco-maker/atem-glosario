@@ -19,6 +19,10 @@ tags:
  - heqeti-pequeño-equipo
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Caudatssa_the_Tongue.png]]
+<!-- /HEADER_IMG -->
+
 > *Tongue heqeti subordinado a [[Reepsiq]]. Líder del pequeño equipo heqeti en el Upper [[Temple_complejo_TE|Temple]] de la Corte del Thegn. Restauración cautelosa del antiguo zigurat heqeti.*
 
 ## Presentación
@@ -27,7 +31,7 @@ tags:
 
 ### Jerarquía
 
-Caudatssa es **subordinada a [[Reepsiq]] (Great Tongue, Ziggurat de Kauket)**. Pequeño equipo bajo su mando:
+Caudatssa es **subordinada a [[Reepsiq]] (Gran Lengua, Ziggurat de Kauket)**. Pequeño equipo bajo su mando:
 
 - **[[Heqeti]] pilgrims** menores (residentes)
 - **Builders / weavers** ocasionales (mantenimiento del zigurat)
@@ -78,7 +82,7 @@ Con el **[[Vencimiento_Varumani]]**:
 - [[Court_of_Troll_Thegn|Corte del Thegn]] — su nivel
 - **Upper Temple** — sede
 - [[Heqeti]] — su pueblo
-- [[Reepsiq]] — su superior (Great Tongue)
+- [[Reepsiq]] — su superior (Gran Lengua)
 - [[Ziggurat_de_Kauket|Ziggurat de Kauket Ziggurat]] — zigurat mayor
 - [[Kauket]] — divinidad patrona
 - [[Varumani]] (vencidos) — antiguo opositor regional

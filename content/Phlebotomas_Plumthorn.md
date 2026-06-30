@@ -21,11 +21,15 @@ tags:
  - Ritornello
 ---
 
-> *Halfling líder de los matones de la entrada de los Halls of Thoth. Fabricante de veneno virulento. Buscado en [[Ritornello]] y [[Narsileon]]. Recién asentado en el dungeon.*
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Phlebotomas_Plumthorn.png]]
+<!-- /HEADER_IMG -->
+
+> *Halfling líder de los matones de la entrada de los Salones de Thoth. Fabricante de veneno virulento. Buscado en [[Ritornello]] y [[Narsileon]]. Recién asentado en el dungeon.*
 
 ## Presentación
 
-**Phlebotomas Plumthorn** es el **líder de la banda de [[Halflings_Plumthorn|halflings malvados]]** que han ocupado **la entrada a los [[Halls_of_Thoth_Nivel|Halls of Thoth]]** del [[Mega_Dungeon_Arden_Vul]]. Su aposento se guarda **tras la frontera de entrada**.
+**Phlebotomas Plumthorn** es el **líder de la banda de [[Halflings_Plumthorn|halflings malvados]]** que han ocupado **la entrada a los [[Halls_of_Thoth_Nivel|Salones de Thoth]]** del [[Mega_Dungeon_Arden_Vul]]. Su aposento se guarda **tras la frontera de entrada**.
 
 ### Su operación
 
@@ -52,7 +56,7 @@ Su receta es **buscada por las autoridades del imperio** — Phlebotomas figura 
 
 ### Sus enemigos
 
-- **[[Goblins_Weskenim|Goblins de King Weskenim]]** — **enemigo principal**: los goblins resienten su llegada reciente y buscan exterminarlos
+- **[[Goblins_Weskenim|Goblins de Rey Weskenim]]** — **enemigo principal**: los goblins resienten su llegada reciente y buscan exterminarlos
 - **Patrullas del imperio arconteano** — Ritornello, Narsileon
 - **Posibles rivales internos** — la receta de veneno es valiosa
 
@@ -72,12 +76,12 @@ Con la entrada en **[[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]** y la centraliza
  - **Seguir operando** clandestinamente
  - **Aliarse con los goblins de Weskenim** ante el cambio (si las dinámicas anteriores se invierten)
 - **Sin patrullas varumani**, **mayor libertad operacional**
-- **Si los [[Buscadores_de_Ardis_Vala|Buscadores]] regresan a Halls of Thoth en jornadas siguientes**, pueden encontrar **Phlebotomas como informante alternativo** del estado de las facciones del nivel
+- **Si los [[Buscadores_de_Ardis_Vala|Buscadores]] regresan a Salones de Thoth en jornadas siguientes**, pueden encontrar **Phlebotomas como informante alternativo** del estado de las facciones del nivel
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Halls_of_Thoth_Nivel|Halls of Thoth]] — su nivel
+- [[Halls_of_Thoth_Nivel|Salones de Thoth]] — su nivel
 - [[Halflings_Plumthorn]] — su banda
 - **Roskelly Winterleaf** — segundo
 - [[Goblins_Weskenim]] — enemigo principal

@@ -14,6 +14,10 @@ aliases:
  - "José María"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Bandido_Jose_Maria.png]]
+<!-- /HEADER_IMG -->
+
 Bandolero que opera en la Sierra de la Cabra, al sur de las tierras bajo jurisdicción de las [[Plataformas_Unidas_del_Estuario_de_la_Plata]]. La figura de José María —también llamado José Manuel en algunos testimonios, variante que puede atribuirse a error de copia o a la costumbre de los hombres de la sierra de mudar el nombre según conviene— es la del contacto ambivalente: ni traidor pleno ni aliado confiable, sino ese tipo de intermediario que conduce hacia donde él necesita llegar sin que nadie pueda reprocharle haberlos engañado del todo.
 
 Fue por intermediación suya, a través de un convicto que sirvió de guía, que ciertos viajeros cruzaron las sierras y alcanzaron un paraje desolado donde los colorados del monte guardaban agua y provisiones en condiciones que los testimonios describen como «totalmente terribles». Al cabo de esa expedición quedó claro que José María tenía cuentas propias que saldar: el negocio con los hermanos —quiénes sean esos hermanos, el archivo no lo aclara todavía— era la verdadera razón de todo el recorrido.

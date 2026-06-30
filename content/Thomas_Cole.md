@@ -8,6 +8,10 @@ aliases:
  - "Thomas Cole"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Thomas_Cole.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Hombre Variable. Antes arreglaba cosas a domicilio en Nebraska. Devaneos ucrónicos en [[Nueva_York_New_York|Nueva York]] (s. XXII), época guerra Terra vs. Próxima Centauri. Su capacidad de arreglar cosas alteró FTL (faster than light travel). [[Alberto_Marinero|Marinero]] espía acompañando [[Meteora]]. Usar [[U-Bengala]] en emergencia. En [[Alejandria|Alejandría]] (dominio mameluco), ajustes a [[U-Reloj]]. Con [[Time_Bandits|Time Bandits]] a Oasis Al [[Oraculo_de_Amon_Siwa|Siwa]]. Muerto por [[Jinete_de_la_Guerra|Jinete de la Guerra]] (cortado en trozos, dispuesto artísticamente en cueva).

@@ -22,6 +22,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Alberto_Buscaglia.png]]
+<!-- /HEADER_IMG -->
+
 > *Mientras no enfrente lo que lo aterra, el ataque volverá. No hay cura por evitación.*
 
 ---

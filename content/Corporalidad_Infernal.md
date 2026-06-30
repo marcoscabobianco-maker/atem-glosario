@@ -8,6 +8,10 @@ aliases:
  - "Corporalidad Infernal"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Corporalidad_Infernal.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Referencia:** CC1
@@ -20,7 +24,7 @@ aliases:
 
 **Importancia:** Sugiere que infierno tiene capas de condenación — algunos son puros espíritus, otros corporalizados.
 
-**Mecánica:** Corporalidad permite:
+La Corporalidad permite:
 - Negociación física (aparecer en tribunal)
 - Susceptibilidad a daño/muerte física
 - Conexión a mundo terreno (ciclo) simultáneamente

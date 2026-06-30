@@ -21,6 +21,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Laura_Echegoyen.png]]
+<!-- /HEADER_IMG -->
+
 > *Lo vasco me tira; será la sangre, que reconoce su orilla.*
 
 ---
@@ -37,7 +41,7 @@ Es hija de [[Ernesto_Echegoyen|"el Pupe" Echegoyen]] —al que la lengua suelta 
 
 Bajo la superficie apacible de la familia más rica de la zona corre un hilo oscuro que Laura ignora. Su **abuela**, [[Abuela_Echegoyen|la vieja del Pupe]] —la anciana nudista a quien los suyos llaman Úrsula—, fue secuestrada y retenida, desnuda, en la mazmorra de la cofradía que medra en lo profundo: rehén de los hombres-pez de la [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]], moneda de cambio de un rescate orquestado para sangrar a la familia Echegoyen. Laura nunca supo del cautiverio de su abuela; vivió el verano y el romance mientras, tierra adentro del abismo, los suyos eran ya blanco de algo que excede cualquier extorsión por dinero.
 
-Su figura es, así, la cara luminosa y terrenal de un linaje que la gesta arrastra hacia el horror sin que ella lo advierta: la nieta enamorada de un vasco, ajena a que su abuela salió desnuda de una celda y a que el apellido que comparten cuelga sobre el fondo donde se rinde culto a Tulu.
+Su figura es, así, la cara luminosa y terrenal de un linaje que la gesta arrastra hacia el horror sin que ella lo advierta: la nieta enamorada de un vasco, ajena a que su abuela salió desnuda de una celda y a que el apellido que comparten cuelga sobre el fondo donde se rinde culto a Cthulhu.
 
 ---
 
@@ -46,7 +50,7 @@ Su figura es, así, la cara luminosa y terrenal de un linaje que la gesta arrast
 - [[Ernesto_Echegoyen]] — su padre, el Pupe, estanciero de los Bellocq que abre su casa al grupo
 - [[Abuela_Echegoyen]] — su abuela, la vieja del Pupe, la nudista rehén de la cofradía que Laura no supo cautiva
 - [[Operativo_Condor]] — la gesta que arrastró al sur a Rómulo, el vasco que Laura romancea
-- [[Orden_Esoterica_de_Dagon]] — los hombres-pez del culto a Tulu que secuestraron a su abuela
+- [[Orden_Esoterica_de_Dagon]] — los hombres-pez del culto a Cthulhu que secuestraron a su abuela
 
 ---
 

@@ -19,6 +19,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Yoel.png]]
+<!-- /HEADER_IMG -->
+
 > *El mar enseña el oficio y, de paso, deja oír lo que esconde.*
 
 ---
@@ -40,7 +44,7 @@ El roce con lo que duerme bajo las Malvinas le cobra caro. Yoel es herido por un
 - [[Operativo_Condor]] — el vuelo desviado a las islas en 1966, umbral del descenso
 - [[Antonio_Portet]] — el otro marino del grupo, internado en paralelo tras el roce con lo de abajo
 - [[Orden_Esoterica_de_Dagon]] — la Orden de Dagón, dueña de los trajes sin costuras con que Yoel es herido
-- [[Nyarlathotep|Tulu]] — la potencia que sueña bajo las islas
+- [[Cthulhu]] — la potencia que sueña bajo las islas
 
 ## Notas
 

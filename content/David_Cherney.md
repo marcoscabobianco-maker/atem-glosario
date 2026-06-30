@@ -21,6 +21,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/David_Cherney.png]]
+<!-- /HEADER_IMG -->
+
 > *El maestro viejo de la logia, grande pero muy sabio. Para 1966 ya no es un hombre: es una pista.*
 
 ---

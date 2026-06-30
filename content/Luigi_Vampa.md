@@ -5,6 +5,10 @@ tags: ["personaje", "vala"]
 aliases: ["Luigi Vampa"]
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Luigi_Vampa.png]]
+<!-- /HEADER_IMG -->
+
 Bandido mítico del [[Valle_de_la_Tempestad]]. El estado no lo reconoce — sus acciones, y las de su banda, constituyen una amenaza no formalizada que los registros oficiales apenas nombran oblicuamente. La figura tiene la densidad de lo legendario: no es sólo un forajido sino una presencia que el Valle ha ido construyendo alrededor de su nombre.
 
 La paladina [[Talia_Cristalia]] se adentró en el Valle para enfrentarlo. Los [[Wordbreakers]] lo encontraron cuando recuperaban el anillo encargado por [[Jalrua_Ishtarensis]]: Vampa intentó arrebatárselo mediante violencia y estuvo a punto de matar a uno del grupo. Lo capturaron, no lo mataron, y lo liberaron. Ese gesto de los Wordbreakers — la no-ejecución — inauguró una relación distinta: después de ser perdonado, Vampa envió avisos al grupo, entre ellos una advertencia relativa a un meteorito. La banda disputaba territorio con los orcos del Valle; varios de sus miembros murieron o fueron capturados en esos conflictos.

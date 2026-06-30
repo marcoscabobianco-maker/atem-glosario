@@ -16,6 +16,10 @@ tags:
  - stub
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Hannok.png]]
+<!-- /HEADER_IMG -->
+
 > *Compañero de [[Las_Tullidas]]. Aparece también en el arco de [[Agatha]] en las Beastlands.*
 
 ## Presentación

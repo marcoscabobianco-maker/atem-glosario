@@ -10,6 +10,10 @@ aliases:
  - "Blanqui Celeste"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Blanqui_Celeste.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 Versión ucrónica de Auguste Blanqui (1805-1881), revolucionario francés. Encarcelado en la [[Prision_del_Toro|Prisión del Toro]] durante la Comuna de París. Rescatado por los [[Time_Bandits|Time Bandits]] en jornadas de cierre, pero su liberación desencadena la ruptura de defensas planares que causa el cronocidio. Filósofo : discursos sobre revolución estelar, trenes de Dostoievsky, conexión cosmos-política.

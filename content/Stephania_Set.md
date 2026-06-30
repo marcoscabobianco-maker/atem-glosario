@@ -1,6 +1,6 @@
 ---
 title: "Stephania"
-título: "Stephania (Suma Sacerdotisa de Set)"
+título: "Stephania"
 slug: Stephania_Set
 categoria: personaje
 aliases:
@@ -20,14 +20,18 @@ tags:
  - mascara
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Stephania_Set.png]]
+<!-- /HEADER_IMG -->
+
 > *"Sanzorotita Suma Estefanía. Una mujer enmascarada, estética [[Marques_de_Sade_Hugo|Marqués de Sade]]. Les ofreció una elección: sacrificar a [[Sir_Circalculo]] o enfrentar la ejecución."*
 
 ## Presentación
 
-**Stephania** —**Sanzorotita Suma Estefanía** en su designación ritual completa— es la **Suma Sacerdotisa del [[Culto_de_Set]]** en el [[Forum_de_Set|Forum de Set]] del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon Arden Vul]]. Su **aposento se guarda tras la sala hipóstila**. Domina:
+**Stephania** —**Sanzorotita Suma Estefanía** en su designación ritual completa— es la **Suma Sacerdotisa del [[Culto_de_Set]]** en el [[Forum_de_Set|Forum de Set]] del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra Ardis Vala]]. Su **aposento se guarda tras la sala hipóstila**. Domina:
 
 - **Los tres Misterios de Set** (el Primero, el Segundo y el Tercero — éste último cerrado por culpa del behir que mató a su predecesor)
-- **Las ceremonias litúrgicas en el [[Forum_de_Set|Templo de Set]]** (en los Halls of Thoth)
+- **Las ceremonias litúrgicas en el [[Forum_de_Set|Templo de Set]]** (en los Salones de Thoth)
 - **El comercio del Foro** — bazar central del nivel
 - **Nominalmente, la Guild of Service** (esclavismo, vía Gunnar) — en la práctica autónoma
 
@@ -37,7 +41,7 @@ Mujer **enmascarada**, **estética [[Marques_de_Sade_Hugo|Marqués de Sade]]** s
 
 ### Su staff de mando
 
-- **[[Belisarius]] the Overseer** — segundo del culto
+- **[[Belisarius]] el Supervisor** — segundo del culto
 - **Marius Junienos** — segundo sacerdote
 - **Lacedaion** — tercer sacerdote
 - **Bibliothecarius** — archivero
@@ -65,11 +69,11 @@ Stephania es **la villana del nivel y, potencialmente, del dungeon medio**. Su p
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
-- [[Forum_de_Set|Forum of Set]] — su dominio
+- [[Forum_de_Set|Forum de Set]] — su dominio
 - [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Culto_de_Set]] — su orden religiosa
 - [[Set]] — divinidad patrona
-- **[[Belisarius]] the Overseer** — segundo
+- **[[Belisarius]] el Supervisor** — segundo
 - **Marius Junienos**, **Lacedaion** — sacerdocio
 - **Gunnar Chief Slaver** — Guild of Service
 - [[Sir_Circalculo]] — sacrificado o no sacrificado por los Buscadores

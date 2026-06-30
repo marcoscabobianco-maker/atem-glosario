@@ -15,6 +15,10 @@ tags:
  - destructor
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Latromis.png]]
+<!-- /HEADER_IMG -->
+
 > *El que partió caminos con el [[Elias|Magíster]], y volvió con la Vara del Mago.*
 
 ## Presentación

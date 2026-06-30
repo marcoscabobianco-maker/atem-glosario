@@ -13,6 +13,10 @@ aliases:
  - "Frodo (grafía original de 1993"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Frome.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 **Padre de [[Dou-Frome]].** Personaje del período primordial/[[Angara_Andgara|Andgara]]. En las primeras

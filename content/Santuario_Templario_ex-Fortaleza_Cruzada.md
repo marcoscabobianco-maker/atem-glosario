@@ -27,3 +27,6 @@ Estructura militar-religiosa abandonada, base de poder enemigo, zona de posesió
 
 ![[Imagenes_Tier1/Santuario_Templario_nomuerto.png]]
 *Un templario no-muerto guarda el santuario.*
+
+![[Imagenes_Tier1/Santuario_Templario_ex-Fortaleza_Cruzada_retrato.png]]
+*Retrato.*

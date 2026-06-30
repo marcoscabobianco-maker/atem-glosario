@@ -13,6 +13,10 @@ aliases:
  - "el Mestizo"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mestizo_de_los_ojos_cambiantes.png]]
+<!-- /HEADER_IMG -->
+
 No tiene nombre en los registros: se lo conoce por lo que el ojo ve antes de que él hable. La mezcla de sangres le dio un color de piel que no encaja limpiamente en ningún padrón, y unos ojos que cambian de tono según el humor —fenómeno que los vecinos del fortín comentan en voz baja y que él no ha explicado nunca. Se cubre la mitad del rostro con un pollerón, usa las ropas de los hombres de campo, y necesita agua con una urgencia que va más allá de la sed ordinaria: una exigencia casi ritual, casi fisiológica, cuyo origen no queda claro.
 
 Su lugar en la frontera rosista es el del explorador nato: curioso, silencioso, capaz de investigar lo que otros prefieren no tocar. En él conviven el temple del hombre forjado en el entrenamiento duro —ese tipo de figura que la tropa llama, en su jerga, "un sacado", alguien elegido por el porte tanto como por la habilidad— y el instinto del que rastrea señales donde la mayoría ve paisaje vacío. No es indio, no es blanco: es la categoría intermedia que la pampa produce y que ni federales ni unitarios saben bien cómo nombrar.

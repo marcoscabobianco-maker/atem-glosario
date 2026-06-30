@@ -5,6 +5,10 @@ tags: ["personaje", "saintgermain", "fronda", "paris-1648"]
 aliases: ["Francisco de Cominges", "Comminges", "Capitán Cominges", "Teniente Cominges"]
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Francisco_de_Cominges.png]]
+<!-- /HEADER_IMG -->
+
 Capitán Teniente General al servicio del [[Cardenal_Mazarino]]. Cominges es el brazo ejecutor de órdenes que no admiten intermediarios: hombre de acción dentro de un aparato de poder que prefiere la discreción a la exhibición de fuerza. En el París de la Fronda, cuando el gobierno del Cardenal necesita que algo se haga sin alardes, Cominges aparece.
 
 Su nombre circula a veces distorsionado en los testimonios orales del Faubourg —"Comanche" en algunos despachos confusos—, lo que dice menos de su persona que de la velocidad y el rumor con que viajan las noticias en el París sitiado. Quienes lo tratan en persona no lo confunden: su graduación, su modo de interrogar y su presencia en los momentos decisivos de la crisis lo distinguen sin equívoco. Un testimonio de S9 lo llama "Juan"; ya sea error del escriba, confusión con un hermano o nombre operativo, el registro no lo aclara.

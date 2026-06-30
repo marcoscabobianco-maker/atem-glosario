@@ -5,6 +5,10 @@ tags: ["personaje", "vala"]
 aliases: ["Capitana Andreas", "Andreas", "la capitana"]
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Capitana_Andreas.png]]
+<!-- /HEADER_IMG -->
+
 Oficial militar de [[Nesut_Biti]] y hermana de [[Thalia_Cristalia]], la paladina caída en el [[Valle_de_la_Tempestad]]. Andreas fue quien encontró el cuerpo de su hermana en ese paraje —suspendida entre la vida y la muerte, el alma capturada—, y tuvo que volver a la ciudad cargando ese hallazgo sin poder remediar nada. Desde entonces es ella quien sostiene el orden interno: cuando el arco del Devorador sacudió Nesut Biti, fue Andreas quien evitó que el pueblo virara hacia la violencia.
 
 El archivo la registra con más de noventa menciones bajo el título de "la capitana", forma que precede al nombre propio en casi todas las crónicas. En ese rasgo hay algo de su carácter: la función antes que el individuo, el cargo antes que el duelo. Hay indicios en el archivo de que Andreas opera también bajo disfraz —posiblemente como figura de la hampa local—, aunque esa identidad doble permanece sin confirmar en los cuadernos.

@@ -19,6 +19,10 @@ tags:
  - canonico
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Klyssandral.png]]
+<!-- /HEADER_IMG -->
+
 > *Maestro de Maristo. El que vio arrastrarse un templo entero al quinto nivel del imperio. Figura canónica del arco [[Paladin_in_Hell]].*
 
 ## Presentación
@@ -38,3 +42,11 @@ tags:
 
 - [[Paladin_in_Hell]] — arco fundacional
 - Referencias trans-gesta — vía Maristo, en la línea posterior del cosmos compartido
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- El Narrador lo declaró "tal cual canónico" de la fuente original (2ª edición, Monte Cook), con la indicación "lo puedes buscar en internet". Nombre y detalles pendientes de verificación cruzada; la grafía oficial del archivo es **Klyssandral** hasta entonces.

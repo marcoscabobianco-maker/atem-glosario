@@ -15,6 +15,10 @@ aliases:
  - "Dalvo Cabo"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Dardo_Cabo.png]]
+<!-- /HEADER_IMG -->
+
 La gesta de las islas no entra al mundo por un personaje inventado, sino por un hombre que existió. Dardo Cabo es el cabecilla real del operativo que desvía el vuelo a las Malvinas la medianoche del 28 de septiembre de 1966: militante de la resistencia peronista, sindicalista de cuna, cabeza visible de los dieciocho que se llamaron a sí mismos *los cóndores* y plantaron siete banderas sobre la turba. Es a él a quien la crónica reconoce como líder del golpe, y es por él —y por los suyos— que la trama desciende después hacia lo que duerme bajo el agua.
 
 ## El linaje peronista

@@ -14,6 +14,10 @@ tags:
  - taberna-serpiente-mundo
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Luquimia.png]]
+<!-- /HEADER_IMG -->
+
 > *Tullida con ojos de medusa. Nativa de Limbo. Una de las cuatro miembros principales del grupo de [[Las_Tullidas]].*
 
 ## Presentación
@@ -50,7 +54,7 @@ Sigue el arco general de [[Las_Tullidas]]:
 
 ## Apariciones
 
-- Taller de Rol — narrativa primaria de [[Las_Tullidas]]
+- El archivo — narrativa primaria de [[Las_Tullidas]]
 - Arco del [[Amuleto_de_los_Planos]] / Supremos — agente recabadora
 
 <!-- CICLO -->

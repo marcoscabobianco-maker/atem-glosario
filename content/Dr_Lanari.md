@@ -18,6 +18,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Dr_Lanari.png]]
+<!-- /HEADER_IMG -->
+
 ---
 
 ## El médico de guardia

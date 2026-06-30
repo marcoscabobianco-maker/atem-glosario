@@ -20,6 +20,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Piluso_Rodriguez.png]]
+<!-- /HEADER_IMG -->
+
 > *El que metió al marino en el avión sin decirle hacia dónde iba.*
 
 ---

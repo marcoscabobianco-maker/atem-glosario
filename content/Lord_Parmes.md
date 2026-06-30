@@ -18,11 +18,15 @@ tags:
  - gran-caverna
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lord_Parmes.png]]
+<!-- /HEADER_IMG -->
+
 > *Gobernador del reino fúngico. Trono sobre plataforma de mármol elevada en la caverna colosal. Reino de bioluminiscencia y silencio.*
 
 ## Presentación
 
-**Lord Parmes** es el **gobernador del Bosque Fúngico** —la **Gran Caverna de los [[Halls_of_Thoth_Nivel|Halls of Thoth]]** del [[Mega_Dungeon_Arden_Vul]]—. Su trono se eleva en una **plataforma de mármol** dentro del bosque bioluminiscente que cubre 680 pies de extensión y 25-30 metros de alto.
+**Lord Parmes** es el **gobernador del Bosque Fúngico** —la **Gran Caverna de los [[Halls_of_Thoth_Nivel|Salones de Thoth]]** del [[Mega_Dungeon_Arden_Vul]]—. Su trono se eleva en una **plataforma de mármol** dentro del bosque bioluminiscente que cubre 680 pies de extensión y 25-30 metros de alto.
 
 ### El Bosque Fúngico
 
@@ -56,7 +60,7 @@ Lord Parmes es **un poder menor pero estable** del dungeon. A diferencia de Dein
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
-- [[Halls_of_Thoth_Nivel|Halls of Thoth]] — nivel donde reside
+- [[Halls_of_Thoth_Nivel|Salones de Thoth]] — nivel donde reside
 - [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Trocadero]] — competidor / pretendiente
 - **Ptarmis** — predecesor histórico, fundador del bosque

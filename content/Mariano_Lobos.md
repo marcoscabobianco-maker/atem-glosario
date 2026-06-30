@@ -19,6 +19,10 @@ aliases:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mariano_Lobos.png]]
+<!-- /HEADER_IMG -->
+
 > *Antes dormíamos con el fusil al lado. Ahora hay que pedir permiso hasta para acordarse.*
 
 ---

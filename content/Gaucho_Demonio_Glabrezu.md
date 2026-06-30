@@ -17,6 +17,10 @@ aliases:
  - "El glabrezu del Caldero"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gaucho_Demonio_Glabrezu.png]]
+<!-- /HEADER_IMG -->
+
 ## Presentación
 
 En el tramo más oscuro del ciclo de [[Caldero]] —la cuarta fase, la que deshace a [[La_Jabalina]] como compañía y la devuelve convertida en otra cosa— el archivo registra a un guía improbable: un demonio de la estirpe glabrezu, de las que el Abismo cría en su taxonomía vieja, que se presenta con estampa de gaucho. La crónica lo fija en tres palabras: *un gaucho demonio borgeano*. No conserva de él nombre propio, ni pacto declarado, ni precio cobrado; conserva el oficio. De todas las tareas que una criatura de su estirpe puede arrogarse, ésta eligió la más criolla: baquiano de los mundos rotos.

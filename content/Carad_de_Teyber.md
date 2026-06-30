@@ -17,6 +17,10 @@ tags:
  - balacan
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Carad_de_Teyber.png]]
+<!-- /HEADER_IMG -->
+
 > *"Carad el maldito. Señor de panteras. Una buena verga, boludo."*
 
 ## Presentación

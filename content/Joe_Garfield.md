@@ -16,6 +16,10 @@ aliases:
  - "Joe"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Joe_Garfield.png]]
+<!-- /HEADER_IMG -->
+
 > *El sargento isleño que conduce a los recién llegados sin decirles a dónde. Mano derecha de la viuda; engranaje de la Orden que recibe a los argentinos para estudiarlos.*
 
 ## Presentación
@@ -26,7 +30,7 @@ Su lealtad verdadera no está con los viajeros sino con la viuda de Casa Brockfo
 
 ## El traslado del cilindro
 
-Donde el sargento muestra su oficio es en lo que carga. Por lo bajo, en inglés, Garfield coordina con Betsy el traslado del **cilindro** —el contenedor de esa [[Circonio_Piedra_Azul|piedra azul]] que está en el centro de todo lo de la isla— y "del otro": *you brought the other… bring it here*. Es él quien acerca a la casa la materia que la cofradía necesita poner en marcha, el material que más tarde, en el faro, se revelará órgano vivo. En esa logística callada Garfield deja de ser un chofer servicial y se vuelve lo que en verdad es: un engranaje de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]], la cofradía batracia que adora a Tulu y prepara su venida desde el fondo del mar. No es de los que oran ni de los que se transforman; es de los que transportan, de los que abren la puerta y traen lo que hay que traer. Sin agentes así, capaces de operar a la vista y con uniforme, el rito no llegaría nunca al faro.
+Donde el sargento muestra su oficio es en lo que carga. Por lo bajo, en inglés, Garfield coordina con Betsy el traslado del **cilindro** —el contenedor de esa [[Circonio_Piedra_Azul|piedra azul]] que está en el centro de todo lo de la isla— y "del otro": *you brought the other… bring it here*. Es él quien acerca a la casa la materia que la cofradía necesita poner en marcha, el material que más tarde, en el faro, se revelará órgano vivo. En esa logística callada Garfield deja de ser un chofer servicial y se vuelve lo que en verdad es: un engranaje de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]], la cofradía batracia que adora a Cthulhu y prepara su venida desde el fondo del mar. No es de los que oran ni de los que se transforman; es de los que transportan, de los que abren la puerta y traen lo que hay que traer. Sin agentes así, capaces de operar a la vista y con uniforme, el rito no llegaría nunca al faro.
 
 ## Notas
 

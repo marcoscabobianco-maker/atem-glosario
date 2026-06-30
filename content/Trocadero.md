@@ -19,11 +19,15 @@ tags:
  - ptarmis
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Trocadero.png]]
+<!-- /HEADER_IMG -->
+
 > *"Lord Tarmis, Señor de los Hongos". Mago loco. Se cree reencarnación de Ptarmis. Aliado y enemigo. Pretendiente del bosque fúngico.*
 
 ## Presentación
 
-**Trocadero de Ritornello** —**Lord Tarmis**, *Señor de los Hongos*— es un **mago loco humano** que reside en el **parvis con la gran silla** de los **[[Halls_of_Thoth_Nivel|Halls of Thoth]]** del [[Mega_Dungeon_Arden_Vul]]. **Se cree reencarnación de Ptarmis** —el sacerdote de Thoth que fundó el bosque fúngico en antigüedad—.
+**Trocadero de Ritornello** —**Lord Tarmis**, *Señor de los Hongos*— es un **mago loco humano** que reside en el **parvis con la gran silla** de los **[[Halls_of_Thoth_Nivel|Salones de Thoth]]** del [[Mega_Dungeon_Arden_Vul]]. **Se cree reencarnación de Ptarmis** —el sacerdote de Thoth que fundó el bosque fúngico en antigüedad—.
 
 ### Su delirio
 
@@ -46,18 +50,18 @@ Trocadero **invoca constantemente la identidad de Ptarmis** —el creador histó
 
 ### Su muerte
 
-Los Buscadores **mataron a Trocadero** en jornada. La transcripción confirma. **Sin embargo**, en mundos como [[Ardis_Vala|Arden Vul]] **la muerte de un mago loco es a veces reversible** —vía no-muerto, posesión, eco mental, retorno fantasmal—.
+Los Buscadores **mataron a Trocadero** en jornada. La transcripción confirma. **Sin embargo**, en mundos como [[Ardis_Vala|Ardis Vala]] **la muerte de un mago loco es a veces reversible** —vía no-muerto, posesión, eco mental, retorno fantasmal—.
 
 **Pendiente**: si Trocadero reaparece en jornadas futuras.
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Halls_of_Thoth_Nivel|Halls of Thoth — Halls of Thoth]] — su residencia
+- [[Halls_of_Thoth_Nivel|Salones de Thoth — Salones de Thoth]] — su residencia
 - [[Lord_Parmes]] — competidor
 - **Ptarmis** — el sacerdote histórico al que cree reencarnar
 - [[Lady_Deino]] — antigua aliada
-- [[Beastmen_Niños_de_Deino|Beastmen]] — ¿aliados o subordinados?
+- [[Beastmen_Niños_de_Deino|Hombres-Bestia]] — ¿aliados o subordinados?
 - **El collar maldito** — su gobierno fúngico, ahora circula en otras manos
 - **[[Papa_Alejandro_Sixto|Sir Sixto]]** — maldecido por el collar
 - **Mefite** — sirviente de planos inferiores

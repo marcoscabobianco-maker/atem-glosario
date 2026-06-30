@@ -5,6 +5,10 @@ tags: ["personaje", "vala"]
 aliases: ["El Jardinero"]
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/El_Jardinero.png]]
+<!-- /HEADER_IMG -->
+
 Anciano de palacio cuya presencia recorre el arco final de Vala desde la [[Torre_Ob_Caligni_Caligni|Torre Ob Caligni]] hasta la reunión con el Rey en [[Uruk_(capital)_y_Casa_Azul|Uruk]]. No se le conoce nombre propio: el título es el único que los registros conservan. Quienes lo vieron señalaron en él las virtudes que hacen a un buen gobernante, aunque nunca gobernó — o al menos no en la forma reconocida por las ciudades. Su figura evoca el motivo del paraíso amurallado: el primer jardín y la primera ciudad como una sola cosa, el soberano que cuida en lugar de ordenar.
 
 El Jardinero reclutó a los [[Wordbreakers]] para una misión que él mismo describía con franqueza doble: eran sus elegidos, pero también su carne al matadero. Esa ambivalencia no era crueldad sino precisión: sabía que lo que necesitaba sólo podían darlo quienes estuvieran dispuestos a ser consumidos por ello. Su agencia, en todo lo que los archivos permiten reconstruir, fue benévola.
