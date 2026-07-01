@@ -44,6 +44,7 @@ Jorge Luis Borges dirigió efectivamente la Biblioteca Nacional —en esos años
 
 ## Ver también
 
+- [[Borges_QUAR|Borges (la palabra que apaga, 2087)]] — **el otro extremo trans-campaña**: en la cuarentena del Mundo Nuevo su palabra-código *cierra* el nodo del Maestro (el jardín de los senderos que se bifurcan; cae internet). Aquí abre, allá apaga: la misma llave verbal.
 - [[Operativo_Condor]] — el vestíbulo histórico por donde la gesta entra al Mythos
 - [[Orden_Esoterica_de_Dagon]] — la cofradía que prepara la venida de Cthulhu, nombrado en el conjuro
 - [[Carcosa]] — el reino amarillo cuya «obra que no se nombra» rima con la biblioteca del signo
