@@ -1,6 +1,6 @@
 ---
 title: "El Libro de Ptolomeo"
-título: "El Libro de Ptolomeo (cara florentina del Libro Azul)"
+título: "El Libro de Ptolomeo"
 slug: El_Libro_de_Ptolomeo
 aliases:
  - El Libro

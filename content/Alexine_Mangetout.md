@@ -9,7 +9,7 @@ aliases:
 
 ## Presentación
 
-Elfa, prima de [[Aby_Warburgo|Aby Warburgo]]. Brutalmente atacada en crimen pasado (junto a [[Cukulin|Cukulín]]) por [[Cornablue]] y [[La_Salud|La Salud]]. Sigue débil tras trauma. [[Objetivo]] de protección implícita del grupo (motivación moral de Aby). Aparece débil, vulnerable.
+Elfa, prima de [[Aby_Warburgo|Aby Warburgo]]. Brutalmente atacada en crimen pasado (junto a [[Cukulin|Cukulín]]) por [[Cornablue]] y [[La_Salud|La Salud]]. Sigue débil tras trauma. Objetivo de protección implícita del grupo (motivación moral de Aby). Aparece débil, vulnerable.
 
 ## Apariciones notables
 

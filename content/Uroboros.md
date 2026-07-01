@@ -30,7 +30,7 @@ aliases:
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — gesta cuyo cierre narrativo el Uroboros simboliza
+- [[Anti_Inferno|el Descenso]] — gesta cuyo cierre narrativo el Uroboros simboliza
 - [[Ouroboros_del_Castillo_del_Prisma|Ouroboros del Castillo del Prisma]] — manifestación física del mismo símbolo en el universo ATEM
 - [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] — figura ritual paralela; serpiente como trazo de ciclo
 - [[Castillo_del_Prisma|Castillo del Prisma]] — estructura que contiene su propio Ouroboros; destino probable del grupo

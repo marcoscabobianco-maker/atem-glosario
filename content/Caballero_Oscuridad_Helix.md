@@ -19,8 +19,11 @@ tags:
  - bola-de-fuego
  - cuervo-detecta
  - sin-nombre
-imagen: null
+imagen: Imagenes_Tier1/Caballero_Oscuridad_Helix.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Caballero_Oscuridad_Helix.png]]
+<!-- /HEADER_IMG -->
 
 > *"Hay un caballero. Te dice el cuervo. Te mira y te dice. Nunca lo sentiste temblando y crees que se hizo encima. Porque el cuervo lo que siente es que hay un pozo de maldad. Un caballero de la oscuridad."* — el cuervo del Abad, a su recipiente eclesial.
 

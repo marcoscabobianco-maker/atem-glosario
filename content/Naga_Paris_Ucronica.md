@@ -1,6 +1,6 @@
 ---
-title: "Las Nagas (de París Ucrónica)"
-título: "Las Nagas (de París Ucrónica)"
+title: "Las Nagas"
+título: "Las Nagas"
 slug: Naga_Paris_Ucronica
 aliases:
  - Naga

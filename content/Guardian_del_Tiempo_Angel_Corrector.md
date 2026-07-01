@@ -13,7 +13,7 @@ aliases:
 
 ## Presentación
 
-- **Definición:** [[Entidad]] celestial anómala. Función: restaurar "normalidad" de realidad.
+- **Definición:** Entidad celestial anómala. Función: restaurar "normalidad" de realidad.
 - **Epíteto:** "[[Guardian_del_Tiempo_Angel_Exterminador|Ángel Exterminador]]," "Espada Exterminadora de Dios"
 - **Trigger:** Activado por acumulación de conocimiento sobre realidad/tiempo. Grupo identificado como "anomalía" por saber demasiado.
 - **Arma:** Espada destructora (capacidad: anular existencia de viajeros temporales anomalía)

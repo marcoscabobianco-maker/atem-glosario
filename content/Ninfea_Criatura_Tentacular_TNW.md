@@ -1,14 +1,14 @@
 ---
-title: "Nínfea / Criatura Tentacular (TNW)"
+title: "Nínfea / Criatura Tentacular (Mundo Nuevo)"
 categoria: personaje
 tags:
  - "gary-tnw"
  - "creature"
  - "enchantment"
 aliases:
- - "Nínfea / Criatura Tentacular (TNW)"
+ - "Nínfea / Criatura Tentacular (Mundo Nuevo)"
  - "Nínfea"
- - "Criatura Tentacular (TNW)"
+ - "Criatura Tentacular (Mundo Nuevo)"
  - "TNW"
  - "Nínfea / Criatura Tentacular"
 ---
@@ -26,6 +26,6 @@ Criatura de tipo tentacular registrada en la gesta [[Gary_TNW|Gary, the New Worl
 ## Vinculos
 
 - [[Gary_TNW|Gary, the New World]] — gesta en la que aparece; lore de Greyhawk como sustrato
-- [[Castillo_Greyhawk_TNW|Castillo Greyhawk (TNW)]] — lugar emblemático de esa gesta; probable origen o escenario de este encuentro
+- [[Castillo_Greyhawk_TNW|Castillo Greyhawk (Mundo Nuevo)]] — lugar emblemático de esa gesta; probable origen o escenario de este encuentro
 - [[Antiterra|Antiterra]] — plano de referencia cosmológico del ciclo TNW; las aberraciones pertenecen a su franja anómala
 - [[Libertateurs|Les Libertateurs]] — grupo activo en TNW que registra el encuentro con la criatura

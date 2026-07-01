@@ -21,8 +21,11 @@ tags:
  - elude-tributo
  - tolerado-por-glastum
  - perseguido-por-argus
-imagen: null
+imagen: Imagenes_Tier1/Wicktrimmer.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Wicktrimmer.png]]
+<!-- /HEADER_IMG -->
 
 > *"Hay quien apaga la mecha de la vela para conservar la cera. Hay quien la apaga para evitar que la luz revele lo que estaba bajo la mesa. Wicktrimmer apaga por la segunda razón."* — refrán que circula en [[Glastumville]], atribuido por algunos a un capitán mercenario veterano y por otros al mismo Wicktrimmer.
 
@@ -47,7 +50,7 @@ La lámina —*si el archivo decadiano pudiera consignar retrato de un clandesti
 
 *El nombre de la hermandad* —**Hermandad Benévola**— es **deliberadamente irónico**: la cofradía **no es benévola** en ningún sentido convencional. La fórmula la **conservan** *por tradición clandestina*, *como código de reconocimiento mutuo*, *y como ironía dirigida a las autoridades que la persiguen*. *Quien usa la fórmula con respeto irónico está dentro*; *quien la usa con respeto literal está fuera*.
 
-La actividad principal de la cofradía es **adquirir reliquias saqueadas del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]** —*objetos arqueológicos archonteos, fragmentos litúrgicos teósofos clandestinos, armaduras dañadas pero recuperables, piedras menores que los aventureros venden por debajo del valor cancilleresco oficial*—. **La cofradía elude el tributo del [[Argus_PJ|Barón Argus]]** *redirigiendo el flujo de reliquias hacia compradores externos antes de que entren al circuito impositivo formal*.
+La actividad principal de la cofradía es **adquirir reliquias saqueadas del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]** —*objetos arqueológicos archonteos, fragmentos litúrgicos teósofos clandestinos, armaduras dañadas pero recuperables, piedras menores que los aventureros venden por debajo del valor cancilleresco oficial*—. **La cofradía elude el tributo del [[Argus_PJ|Barón Argus]]** *redirigiendo el flujo de reliquias hacia compradores externos antes de que entren al circuito impositivo formal*.
 
 ---
 

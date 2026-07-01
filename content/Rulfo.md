@@ -16,8 +16,11 @@ tags:
  - calle-de-la-linterna
  - jaromir-cuidador
  - sobreviviente
-imagen: null
+imagen: Imagenes_Tier1/Rulfo.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Rulfo.png]]
+<!-- /HEADER_IMG -->
 
 > *"En un oscuro callejón que conecta con la Avenida del Magma, encontraron a Rulfo, el guardián, siendo brutalmente golpeado por un grupo conocido como la Compañía de la Risa."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

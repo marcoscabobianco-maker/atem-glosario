@@ -19,12 +19,12 @@ aliases:
 - **Rol:** Paladín negro, cuidador de refugiados en templo de Los Paradigmas
 - **Descripción:** "Velo por santidad; demasiado santo para mirar directo" — figura de autoridad moral en el [[Anti_Inferno|Descenso]]
 - **Ubicación:** Templo multiversal, exterior del tabernáculo (posiblemente en zona liminar entre el [[Anti_Inferno|Anti-Inferno]] y los círculos inferiores)
-- **Mecánica:** Testigo, non-combatant; ofrece información sobre Arca (objeto sagrado)
+- **Rol:** testigo, no combatiente; ofrece información sobre el Arca (objeto sagrado)
 - **Referencia:**
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — gesta donde Ecol opera como figura de la Resistencia
+- [[Anti_Inferno|el Descenso]] — gesta donde Ecol opera como figura de la Resistencia
 - [[Las_17_Paladinas_de_Santa_Maria|Las 17 Paladinas de Santa María]] — orden de paladinas con la que el Capitán de la Resistencia podría vincularse
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — fortaleza infernal contra la que combate la Resistencia
 - [[Asalto_a_Dite|Asalto a Dite]] — episodio bélico central del Descenso en que la Resistencia participa

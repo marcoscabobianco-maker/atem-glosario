@@ -22,7 +22,7 @@ aliases:
  - "¿Vos, [[Alexio]], estás con miedo o no?"
  - Tiradas: "21, [[Alexio]]"
 
-**[[Resolucion|Resolución]] requerida:** El recap del último encuentro templario debe aclarar:
+**Resolución requerida:** El recap del último encuentro templario debe aclarar:
  - ¿[[Alexio]] fue resucitado entre la cripta y París Ucrónica?
  - ¿O la entrada a París ocurre antes de la cripta narrativamente (salto temporal)?
  - ¿O es sustitución mecánica (cambio de compañero después de la cripta)?

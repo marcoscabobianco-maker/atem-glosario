@@ -18,8 +18,11 @@ tags:
  - yathrebu
  - nobles-beneficiarios
  - derrotado-bajo-tierra
-imagen: null
+imagen: Imagenes_Tier1/Drakthar.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Drakthar.png]]
+<!-- /HEADER_IMG -->
 
 > *"Algunos nobles —y quizás algo aún más peligroso— se beneficiaban del caos que Drakthar sembraba."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

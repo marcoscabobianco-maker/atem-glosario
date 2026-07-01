@@ -28,4 +28,4 @@ aliases:
 - [[Contencion_vs_Liberacion|Contención vs. Liberación]] — dilema conceptual que este objeto materializa: ancla entre prisión y liberación.
 - [[Tiro_ruinas|Tiro (ruinas)]] — destino final del artefacto tras la jornada; guardado en las bóvedas de Ur.
 - [[Reliquario_Cripta_Templaria|Reliquario / Cripta Templaria]] — sistema de almacenamiento de reliquias al que podría pertenecer este fragmento.
-- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta donde este objeto adquiere su función como ancla de entidad infraplanar.
+- [[Campana_Templarios_TE|Gesta Templarios]] — gesta donde este objeto adquiere su función como ancla de entidad infraplanar.

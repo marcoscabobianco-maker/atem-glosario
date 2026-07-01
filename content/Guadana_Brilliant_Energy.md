@@ -9,7 +9,7 @@ aliases:
 **Forma inicial:** Guadaña ósea encantada (dormida)
 **Activación:** Paris 1889 atemporal (lugar "fuera de espacio-tiempo")
 **Poder activado:** Luz dorada cegadora; semejante a "hoz que resplandeció sobre [[Mar_Muerto]] cuando decapitación del Pitá"
-**[[Propietario]]:** [[Viajero_de_Planos|el nuevo compañero]]
+**Propietario:** [[Viajero_de_Planos|el nuevo compañero]]
 **Manejo:** arma exótica — pocas manos la conocen
 **Naturaleza:** Arma de tajo; su filo es luz que hiere como hiere lo sagrado
 

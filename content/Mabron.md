@@ -31,7 +31,7 @@ Figura de poder numinoso: el acto de nombrar tiene consecuencias cósmicas.
 Su persistencia como fantasma vinculado a [[Wako]] subraya importancia del nombramiento
 en cosmología del cosmos compartido.
 
-En el Epílogo del Taller, el fantasma de Mabrón es invocado desde el anillo de [[Wako]] para narrar historias pasadas a [[Grazzt|Graz'zt]] y los [[Rintrah]]. Relata la visita a la ejecución de [[Elhenor]] en la ex-morada de Mortaja Roja: la Guillotina de Resurrección Contingente, un niño rubio ante un arpa, guardias Molydei. Mabrón percibe la verdad metaficcional: 'El Emperador [[Grazzt|Graz'zt]] no existe, y su fortaleza tampoco. Su mano garra tiene nervios, pero no son los suyos', sugiriendo que una fuerza exterior controla el universo. Es silenciado y succionado de vuelta al anillo.
+En el Epílogo del ciclo, el fantasma de Mabrón es invocado desde el anillo de [[Wako]] para narrar historias pasadas a [[Grazzt|Graz'zt]] y los [[Rintrah]]. Relata la visita a la ejecución de [[Elhenor]] en la ex-morada de Mortaja Roja: la Guillotina de Resurrección Contingente, un niño rubio ante un arpa, guardias Molydei. Mabrón percibe la verdad metaficcional: 'El Emperador [[Grazzt|Graz'zt]] no existe, y su fortaleza tampoco. Su mano garra tiene nervios, pero no son los suyos', sugiriendo que una fuerza exterior controla el universo. Es silenciado y succionado de vuelta al anillo.
 
 ## Ver también
 

@@ -13,16 +13,16 @@ aliases:
  - "Borges (la invocación)"
  - "La invocación de Borges"
  - "El texto invocatorio de la Biblioteca Nacional"
- - "Tlön, Uqbar, Orbis Tertius (Tulu)"
+ - "Tlön, Uqbar, Orbis Tertius (Cthulhu)"
 ---
 
-> *[[Yog-Sothoth_TNW|Yog-Sothoth]] es la puerta y la llave. El gran Tulú es su primo. Iä, Shub-Niggurath. Y en la biblioteca está el signo y el símbolo.*
+> *[[Yog-Sothoth_TNW|Yog-Sothoth]] es la puerta y la llave. El gran Cthulhu es su primo. Iä, Shub-Niggurath. Y en la biblioteca está el signo y el símbolo.*
 
 Al filo del último descenso, cuando la cofradía del Atlántico Sur ya había dejado de fingir hospitalidad, la gesta no se cierra con un disparo sino con una consulta. La escena final es una visión: alguien acude a **Jorge Luis Borges**, director de la Biblioteca Nacional —entonces todavía en la calle México—, y de su boca, o del aire de la sala, sale un texto. No una respuesta: una fórmula. El hombre que catalogaba el universo entrega, en lugar de un dato, el conjuro que lo abre.
 
 ## El texto
 
-Lo que se pronuncia es un pastiche argentinizado de aquel *horror* que un cronista de Nueva Inglaterra fechó en Dunwich. La fórmula vieja —«Yog-Sothoth es la puerta y la llave»— se dice acá con acento del Plata, y se le añade un parentesco que ningún grimorio del norte registró: **el gran Tulú es su primo**. Tulu, el que la [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] prepara desde el fondo del mar, queda así injertado por afinidad en la genealogía de lo que no debe nombrarse. Resuena también el clamor a la cabra de los mil retoños —«Iä, Shub-Niggurath»—, esa madre negra de los bosques que aquí no tiene bosque sino turba y mar.
+Lo que se pronuncia es un pastiche argentinizado de aquel *horror* que un cronista de Nueva Inglaterra fechó en Dunwich. La fórmula vieja —«Yog-Sothoth es la puerta y la llave»— se dice acá con acento del Plata, y se le añade un parentesco que ningún grimorio del norte registró: **el gran Cthulhu es su primo**. Cthulhu, el que la [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] prepara desde el fondo del mar, queda así injertado por afinidad en la genealogía de lo que no debe nombrarse. Resuena también el clamor a la cabra de los mil retoños —«Iä, Shub-Niggurath»—, esa madre negra de los bosques que aquí no tiene bosque sino turba y mar.
 
 Pero el conjuro no se conforma con citar a los antiguos: los cruza con la propia teología de quien lo dicta. Entre las cláusulas invocatorias se cuela **Tlön, Uqbar, Orbis Tertius** —el planeta inventado que terminó invadiendo la realidad, el orbe tercero que se escribe a sí mismo hasta volverse cierto— y la promesa de que **en la biblioteca está el signo y el símbolo**. La invocación no abre una puerta en el espacio: abre una puerta en el catálogo. El acceso a lo otro no se gana navegando hacia las islas, sino leyendo mal el libro exacto en el estante exacto.
 
@@ -36,7 +36,7 @@ Borges no aparece por primera vez en el archivo cuando lo visita la gesta malvin
 
 ## Eco cosmológico
 
-La fórmula no es un adorno literario: traza el mapa de la gesta. Yog-Sothoth como puerta y llave, Tulú como su primo del fondo, y Tlön como el orbe que se vuelve real a fuerza de ser leído, describen la misma cosmología que late bajo el realismo del Atlántico Sur. La «biblioteca donde está el signo y el símbolo» es prima hermana de la otra obra que el archivo no nombra —la que se representa junto al lago Hali y abre el pliegue de [[Carcosa|el reino amarillo]]—: en ambas, lo que enloquece no es una criatura sino un texto, y leerlo hasta el final es cruzar. El [[Operativo_Condor|Operativo Cóndor]] fue el vestíbulo histórico de este descenso; la invocación de Borges es su última puerta, y la más silenciosa, porque está hecha solo de palabras.
+La fórmula no es un adorno literario: traza el mapa de la gesta. Yog-Sothoth como puerta y llave, Cthulhu como su primo del fondo, y Tlön como el orbe que se vuelve real a fuerza de ser leído, describen la misma cosmología que late bajo el realismo del Atlántico Sur. La «biblioteca donde está el signo y el símbolo» es prima hermana de la otra obra que el archivo no nombra —la que se representa junto al lago Hali y abre el pliegue de [[Carcosa|el reino amarillo]]—: en ambas, lo que enloquece no es una criatura sino un texto, y leerlo hasta el final es cruzar. El [[Operativo_Condor|Operativo Cóndor]] fue el vestíbulo histórico de este descenso; la invocación de Borges es su última puerta, y la más silenciosa, porque está hecha solo de palabras.
 
 ## Notas
 
@@ -45,5 +45,5 @@ Jorge Luis Borges dirigió efectivamente la Biblioteca Nacional —en esos años
 ## Ver también
 
 - [[Operativo_Condor]] — el vestíbulo histórico por donde la gesta entra al Mythos
-- [[Orden_Esoterica_de_Dagon]] — la cofradía que prepara la venida de Tulu, nombrado en el conjuro
+- [[Orden_Esoterica_de_Dagon]] — la cofradía que prepara la venida de Cthulhu, nombrado en el conjuro
 - [[Carcosa]] — el reino amarillo cuya «obra que no se nombra» rima con la biblioteca del signo

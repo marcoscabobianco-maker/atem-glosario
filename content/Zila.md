@@ -13,7 +13,7 @@ tags:
  - stub
 ---
 
-> *[[Entidad]] relacionada con [[Wichi-Lobos]]. Otro ser terrible del archivo.*
+> *Entidad relacionada con [[Wichi-Lobos]]. Otro ser terrible del archivo.*
 
 ## Presentación
 

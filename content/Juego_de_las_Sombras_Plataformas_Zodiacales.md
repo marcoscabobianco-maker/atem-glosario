@@ -1,6 +1,6 @@
 ---
-title: "El Juego de las Sombras (las Doce Plataformas Zodiacales)"
-título: "El Juego de las Sombras (las Doce Plataformas Zodiacales)"
+title: "El Juego de las Sombras"
+título: "El Juego de las Sombras"
 slug: Juego_de_las_Sombras_Plataformas_Zodiacales
 aliases:
  - Juego de las Sombras

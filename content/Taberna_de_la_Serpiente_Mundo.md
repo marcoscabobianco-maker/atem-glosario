@@ -27,7 +27,7 @@ Aparece en múltiples narrativas del cosmos compartido: **[[Lagu]]** termina aqu
 
 La taberna funciona como nodo dimensional clave en la cosmología MC, conectando múltiples narrativas y períodos. Su destrucción marca un punto de quiebre en el control de Los Tullidas sobre sus recursos.
 
-En el Epílogo del Taller, la taberna aparece destruida por la Gran [[Marcha_de_los_Modrones]]: 'apenas quedaban algunas sillas y mesas volcadas. La pesada puerta doble, antes famosa por su solidez, había sido convertida en astillas.' Es el lugar donde [[Wako]] cita a [[Bulfie]] para la reunión con [[Grazzt|Graz'zt]].
+En el Epílogo del ciclo, la taberna aparece destruida por la Gran [[Marcha_de_los_Modrones]]: 'apenas quedaban algunas sillas y mesas volcadas. La pesada puerta doble, antes famosa por su solidez, había sido convertida en astillas.' Es el lugar donde [[Wako]] cita a [[Bulfie]] para la reunión con [[Grazzt|Graz'zt]].
 
 ## Ver también
 

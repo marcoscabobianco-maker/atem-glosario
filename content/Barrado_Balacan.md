@@ -1,6 +1,6 @@
 ---
 title: "Barrado Balacán"
-título: "Barrado Balacán (región post-hiato)"
+título: "Barrado Balacán"
 slug: Barrado_Balacan
 categoria: lugar
 aliases:
@@ -26,7 +26,7 @@ tags:
 
 ## Presentación
 
-**Barrado Balacán** —*Balacán* en pre-hiato— es el **territorio actual** donde se ubica el valle de **[[Ardis_Vala]]** y el **[[Mega_Dungeon_Arden_Vul|mega-dungeon]]**. Confirmado por el archivo en el regreso tras el Hiato:
+**Barrado Balacán** —*Balacán* en pre-hiato— es el **territorio actual** donde se ubica el valle de **[[Ardis_Vala]]** y el **[[Mega_Dungeon_Arden_Vul|mega-mazmorra]]**. Confirmado por el archivo en el regreso tras el Hiato:
 
 > *"En Balacán, ahora es Barrado Balacán. Pero antes lo conocían por Ardisvala."* (el regreso tras el Hiato)
 
@@ -49,7 +49,7 @@ tags:
 | **[[Ciudadela_Sin_Sol]]** | [[Ciudadela_Sin_Sol|Castillo Balmora]] hundido en grieta |
 | **[[Ritornello]]** | Ciudad arrasada (ruina) |
 | **Gran Cascada / Cascada** | Frontera geográfica |
-| **[[Mega_Dungeon_Arden_Vul|Mega-dungeon Arden Vul]]** | Subsuelo |
+| **[[Mega_Dungeon_Arden_Vul|Mega-mazmorra Ardis Vala]]** | Subsuelo |
 | **Cuevas / barrancos** | Entrada al |
 
 ### Habitantes
@@ -93,5 +93,5 @@ tags:
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *Un solo suelo leído en tres capas de era: [[Ardis_Vala|Ardisvala]] imperial, [[Barrado_Balacan|Balacán]] fronterizo, Barrado Balacán bajo la bruma de [[Valakhan_de_la_Bruma]] —y debajo de todo, el [[Mega_Dungeon_Arden_Vul|mega-dungeon]] que estratifica el tiempo en niveles. El nombre mismo es un descenso: cada renombre tapa el anterior como un piso tapa al de abajo. Lo que A registró como capas toponímicas (AA-D.1), en C es la misma fosa vista desde distintas alturas.* — glosa del archivero del Plata.
+> *Un solo suelo leído en tres capas de era: [[Ardis_Vala|Ardisvala]] imperial, [[Barrado_Balacan|Balacán]] fronterizo, Barrado Balacán bajo la bruma de [[Valakhan_de_la_Bruma]] —y debajo de todo, el [[Mega_Dungeon_Arden_Vul|mega-mazmorra]] que estratifica el tiempo en niveles. El nombre mismo es un descenso: cada renombre tapa el anterior como un piso tapa al de abajo. Lo que A registró como capas toponímicas (AA-D.1), en C es la misma fosa vista desde distintas alturas.* — glosa del archivero del Plata.
 <!-- /CICLO -->

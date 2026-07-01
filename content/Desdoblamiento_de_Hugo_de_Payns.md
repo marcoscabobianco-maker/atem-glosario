@@ -8,7 +8,7 @@ aliases:
 ## Presentación
 
 **Tipo:** Plot device / Antagonista revelación
-**Mecánica:** [[Marques_de_Sade_Hugo|Hugo]] habla en tercera persona, sugiere múltiples vidas/personalidades, niega ser portador de la armadura negra (aunque el grupo la presenció en la cripta tras el robo de reliquias).
+[[Marques_de_Sade_Hugo|Hugo]] habla en tercera persona, sugiere múltiples vidas/personalidades, niega ser portador de la armadura negra (aunque el grupo la presenció en la cripta tras el robo de reliquias).
 **Interpretación probable:**
 - [[Marques_de_Sade_Hugo|Hugo]] es portador de armadura negra por el día (persona legal/blanca)
 - En noche, se transforma en versión demoniaca (persona negra)

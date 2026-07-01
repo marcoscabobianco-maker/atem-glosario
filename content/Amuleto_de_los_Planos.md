@@ -33,7 +33,7 @@ El artefacto opera con la lógica **puerta-llave**: hay una puerta (Amuleto) y u
 *"En otras oportunidades también se buscó dicho artefacto"*, registra el archivo —es decir, la búsqueda es **recurrente**, no única—. La gesta documentada del arco principal:
 
 - **Quien organiza el plan**: **[[Senor_del_Orden_Primos|el Señor del Orden / Primos]]** —dios-máquina de [[Mechanus]]—. Su objetivo declarado: *"poder ordenar el mismo la marcha de sus sirvientes fuera del ritmo y de los ciclos normales del universo, para encontrar el amuleto de los planos."* Saca a los Modrons de su Marcha cíclica para enviarlos en búsqueda del Amuleto.
-- **Quienes recaban información**: **[[Las_Tullidas]]** —grupo aventurero de señoritas— operan como agentes de información. Su misión: recabar datos sobre el paradero del Amuleto. La última misión documentada en el Taller las envía a los **Pozos de la Araña Demonio** por encargo de [[Grazzt|Graz'zt]] para recuperarlo.
+- **Quienes recaban información**: **[[Las_Tullidas]]** —grupo aventurero de señoritas— operan como agentes de información. Su misión: recabar datos sobre el paradero del Amuleto. La última misión documentada en el archivo las envía a los **Pozos de la Araña Demonio** por encargo de [[Grazzt|Graz'zt]] para recuperarlo.
 - **Quien nombra a Arian**: **el señor de la mano de plomo —dios protector, enemigo de la dualidad—** nombra a Arian en el contexto del arco. La línea Mano de Plomo = anti-dualidad enmarca a las Tullidas y a Arian.
 
 ### La muerte del Señor del Orden

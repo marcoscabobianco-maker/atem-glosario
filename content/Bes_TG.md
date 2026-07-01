@@ -1,5 +1,5 @@
 ---
-title: "Bes (TG)"
+title: "Bes (Torregrises)"
 categoria: personaje
 tags:
  - "personaje"
@@ -7,7 +7,7 @@ tags:
  - "bar"
  - "barman"
 aliases:
- - "Bes (TG)"
+ - "Bes (Torregrises)"
  - "TG"
  - "Bes"
 ---
@@ -22,7 +22,7 @@ Dueño del **[[Bar_de_Bes_TG|Bar de Bes]]**, local emblemático de [[Torregrises
 
 ## Notas
 
-Ver **[[Bar_de_Bes_TG|Bar de Bes (TG)]]**, **[[Torregrises]]**.
+Ver **[[Bar_de_Bes_TG|Bar de Bes (Torregrises)]]**, **[[Torregrises]]**.
 
 ## Ver también
 

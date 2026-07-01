@@ -14,7 +14,7 @@ aliases:
 
 ## Presentación
 
-[[Entidad]] colosal de destrucción entrópica que aparece sobre el campo de batalla de [[Batalla_de_Kosovo_1389|Kosovo Polje]] ([[Batalla_de_Kosovo_1389|1389]]). Transportaba [[Predators]] y amenazaba con aplastar al ejército serbio. Destruida por [[Aby_Warburgo|Aby Warburgo]] con un hechizo de Curación de energía positiva canalizado como ataque de toque — la descarga entera de una sanación vertida como arma. Su naturaleza entrópica la hacía vulnerable a energía positiva — inversión del principio de curación.
+Entidad colosal de destrucción entrópica que aparece sobre el campo de batalla de [[Batalla_de_Kosovo_1389|Kosovo Polje]] ([[Batalla_de_Kosovo_1389|1389]]). Transportaba [[Predators]] y amenazaba con aplastar al ejército serbio. Destruida por [[Aby_Warburgo|Aby Warburgo]] con un hechizo de Curación de energía positiva canalizado como ataque de toque — la descarga entera de una sanación vertida como arma. Su naturaleza entrópica la hacía vulnerable a energía positiva — inversión del principio de curación.
 
 ## Apariciones notables
 

@@ -1,6 +1,6 @@
 ---
-title: "Las Pléyades (M45)"
-título: "Las Pléyades (M45)"
+title: "Las Pléyades"
+título: "Las Pléyades"
 slug: Pleyades_M45
 aliases:
  - "Pléyades"

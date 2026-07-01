@@ -7,10 +7,10 @@ tags:
  - "lovecraft"
  - "cosmic"
 aliases:
- - "Nyarlathotep (TNW)"
+ - "Nyarlathotep (Mundo Nuevo)"
  - "TNW"
  - "Nyarlathotep"
- - "Nyarlathotep TNW"
+ - "Nyarlathotep (Mundo Nuevo)"
 ---
 
 <!-- HEADER_IMG -->
@@ -19,7 +19,7 @@ aliases:
 
 ## Presentación
 
-**Ref.:** C73 p.92: "cuchillo de obsidiana, Nyarlathotep, puerta y llave, no referencia de Tulu."
+**Ref.:** C73 p.92: "cuchillo de obsidiana, Nyarlathotep, puerta y llave, no referencia de Cthulhu."
 **Nota:** El cuchillo de obsidiana como atributo es coherente con Nyarlathotep (el Caos Reptante). "Puerta y llave" probablemente refiere a [[Yog-Sothoth_TNW|Yog-Sothoth]] ("the gate and the key" en Lovecraft). La presencia de entidades lovecraftianas en Gary del Mundo Nuevo conecta con la mención de [[Yog-Sothoth_TNW|Yog-Sothoth]] en [[Libertateurs]] (NY 1784, "enemigos masónicos, Yog Sothoth" — Sucesos p.5-6).
 
 ## En Vala Antigua

@@ -19,7 +19,7 @@ Construcción mágica de lógica e iteración —mecanismo, no criatura viva—,
 
 ## Vinculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — gesta y geografía infernal donde aparece
+- [[Anti_Inferno|el Descenso]] — gesta y geografía infernal donde aparece
 - [[Castillo_del_Prisma]] — fortaleza del segundo círculo, escenario de CC2
 - [[Torres_del_Castillo_del_Prisma]] — las torres de prueba donde opera
 - [[Inevitable_Inevitables|Inevitable / Inevitables]] — constructos de lógica y orden con los que comparte naturaleza iterativa

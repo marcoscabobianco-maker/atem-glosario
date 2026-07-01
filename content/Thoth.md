@@ -44,9 +44,9 @@ imagen: null
 
 ---
 
-## Les Halles of Thoth — en el mega-dungeon
+## Les Halles of Thoth — en el mega-mazmorra
 
-**El piso central del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]** lleva el nombre de **[[Halls_of_Thoth_Nivel|Halls of Thoth]]**. *Geografía mayor del panteón imperial caído*: **salones de archivo donde los Custodes operaban en la fase imperial**, **bibliotecas hipogeas con manuscritos escritos en lengua que el archivo decadiano no traduce**, **cámaras rituales para la transmutación de la garza**.
+**El piso central del [[Mega_Dungeon_Arden_Vul|mega-mazmorra de Ardisvala]]** lleva el nombre de **[[Halls_of_Thoth_Nivel|Salones de Thoth]]**. *Geografía mayor del panteón imperial caído*: **salones de archivo donde los Custodes operaban en la fase imperial**, **bibliotecas hipogeas con manuscritos escritos en lengua que el archivo decadiano no traduce**, **cámaras rituales para la transmutación de la garza**.
 
 *El nivel está actualmente bajo presencia de* **[[Lord_Parmes]]** y el **Bosque Fúngico Copanegra** —*operación fúngica que parasitó el archivo después de la caída*—. **Los manuscritos preservados** *son objeto de codicia continua*: **doctrinarios decadianos, magos teósofos, peregrinos del archivo del Plata**, **todos buscan acceder a fragmentos de Thoth**.
 
@@ -81,8 +81,8 @@ imagen: null
 ## Vínculos
 
 - [[Ardis_Vala]] — fase imperial donde Thoth operaba con autonomía plena
-- [[Mega_Dungeon_Arden_Vul]] — mega-dungeon cuyo piso central lleva su nombre
-- [[Lord_Parmes]] — operador actual de los Halls of Thoth, Bosque Fúngico Copanegra
+- [[Mega_Dungeon_Arden_Vul]] — mega-mazmorra cuyo piso central lleva su nombre
+- [[Lord_Parmes]] — operador actual de los Salones de Thoth, Bosque Fúngico Copanegra
 - [[Custodes_Oculis_Solis]] — orden sacerdotal de la cabeza de garza
 - [[Papa_Alejandro_Sixto]] — figura papal que asimiló el aparato
 - [[Palacio_del_Prisma]] — sede actual del aparato asimilado
@@ -100,10 +100,10 @@ imagen: null
 - **Período post-Cisma** — manuscritos dispersos, aparato sacerdotal reducido
 - **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — operación residual de los Custodes en el subsuelo
 - **Post-Hiato, ascenso del [[Papa_Alejandro_Sixto]]** — asimilación de los Custodes al aparato papal luminoso
-- **Ciclo presente — descenso de los [[Buscadores_de_Ardis_Vala|Buscadores]]** — penetración de los [[Halls_of_Thoth_Nivel|Halls of Thoth]] en el mega-dungeon
+- **Ciclo presente — descenso de los [[Buscadores_de_Ardis_Vala|Buscadores]]** — penetración de los [[Halls_of_Thoth_Nivel|Salones de Thoth]] en el mega-mazmorra
 - **1824 AE — operación residual** — manuscritos dispersos, aparato pre-asimilación en sospechada conservación clandestina
 
 <!-- CICLO -->
 > **Casas del ciclo** · ✦ ✒
-> *Deidad escriba del panteón imperial de [[Ardis_Vala|Ardisvala]] —junto a [[Oborus]], [[Lysis]], [[Tod_Set|Set]]— que el [[Papa_Alejandro_Sixto|Papa Alejandro]] no consumió sino asimiló: dios atrapable, su aparato sacerdotal de los [[Custodes_Oculis_Solis|Custodes]] reorientado al polo luminoso, sus [[Halls_of_Thoth_Nivel|Halls]] vueltos piso del mega-dungeon. Es el cronista del cosmos: no habla con palabras sino con las marcas que el archivo conserva, dispersas en los manuscritos que [[Argus_PJ|Argus]] porta tras el templo.* — glosa del archivero del Plata.
+> *Deidad escriba del panteón imperial de [[Ardis_Vala|Ardisvala]] —junto a [[Oborus]], [[Lysis]], [[Tod_Set|Set]]— que el [[Papa_Alejandro_Sixto|Papa Alejandro]] no consumió sino asimiló: dios atrapable, su aparato sacerdotal de los [[Custodes_Oculis_Solis|Custodes]] reorientado al polo luminoso, sus [[Halls_of_Thoth_Nivel|Halls]] vueltos piso del mega-mazmorra. Es el cronista del cosmos: no habla con palabras sino con las marcas que el archivo conserva, dispersas en los manuscritos que [[Argus_PJ|Argus]] porta tras el templo.* — glosa del archivero del Plata.
 <!-- /CICLO -->

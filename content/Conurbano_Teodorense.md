@@ -11,9 +11,7 @@ aliases:
 
 ## Presentación
 
-Grupo aventurero asociado a la ciudad de [[Teodora]].
-
-*Miembros:* **[[Racho]]**, **Señora**, **[[Petrobomba]]**
+Banda de aventureros nacida al amparo de la ciudad de [[Teodora]] y de los arrabales que la rodean. El archivo cuenta entre los suyos a [[Racho|Racho]], a la Señora y a [[Petrobomba|Petrobomba]].
 
 ## Ver también
 

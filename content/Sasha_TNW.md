@@ -1,10 +1,10 @@
 ---
-title: "Sasha (TNW)"
+title: "Sasha (Mundo Nuevo)"
 tags:
  - "gary-tnw"
  - "lords-of-creation"
 aliases:
- - "Sasha (TNW)"
+ - "Sasha (Mundo Nuevo)"
  - "TNW"
  - "Sasha"
 ---

@@ -10,7 +10,12 @@ tags:
 aliases:
  - "Duquesa Sophie de Hohenberg"
 epoca: "1914 — Edad Sinterra"
+imagen: Imagenes_Tier1/Duquesa_Sophie_de_Hohenberg.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Duquesa_Sophie_de_Hohenberg.png]]
+<!-- /HEADER_IMG -->
 
 ## Presentación
 
@@ -18,13 +23,13 @@ Figura histórica real. Condesa (posteriormente Duquesa) Sophie de Hohenberg. Es
 
 **Datos históricos reales:**
 - Matrimonio con Francisco Fernando: 1 de julio de 1900 (matrimonio morganático)
-- [[Muerte]]: 28 de junio de [[Sarajevo_1914_Ucronica|1914]], [[Sarajevo_1914_Ucronica|Sarajevo]], junto a su esposo
+- Muerte: 28 de junio de [[Sarajevo_1914_Ucronica|1914]], [[Sarajevo_1914_Ucronica|Sarajevo]], junto a su esposo
 
 **En [[Paris_Ucronica|París Ucrónica]]:**
 - Asesinada junto al Archiduque durante atentado de [[Sarajevo_1914_Ucronica|Sarajevo]]
 - **Momento crucial:** Claude/[[Cvjetko_Popovic|Popović]] intenta resurrección mágica post-disparo
 - **Su rechazo:** "Let me go... let's meet in the past" — rechaza volver a la vida; prefiere morir acompañando a su marido
-- [[Muerte]] representa conflicto final entre amor (permanecer juntos) y destino (estar atrapados en evento histórico)
+- Muerte representa conflicto final entre amor (permanecer juntos) y destino (estar atrapados en evento histórico)
 
 **Significado narrativo:**
 - Símbolo de matrimonio rechazado por sociedad; amor más fuerte que clase

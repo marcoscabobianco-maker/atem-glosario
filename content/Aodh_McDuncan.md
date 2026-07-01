@@ -13,3 +13,10 @@ Guerrero celta, ahijado de **[[Nycols_OCush|Nycols O'Cush]]**. Rescata a **[[Lag
 
 - [[Nycols_OCush|Nycols O'Cush]]
 - [[Lagu|Lagu]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+

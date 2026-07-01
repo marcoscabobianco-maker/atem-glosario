@@ -67,7 +67,7 @@ Por debajo de lo evidente —el cierre, la fiebre, el doble señorío, el árbol
 - [[Hiato_15_Años_Ardis_Vala|hiato de quince años]] — período en que el dominio se forma
 - [[Barrado_Balacan|Barrado Balacán]] — geografía mortal del valle
 - [[Ardis_Vala]] — nombre anterior del territorio
-- [[Mega_Dungeon_Arden_Vul|Mega-Dungeon de Ardisvala]] — bajo el valle
+- [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra de Ardisvala]] — bajo el valle
 - [[Valdemora]] / [[Estellara]] / [[Stejara]] — pueblos del dominio
 - [[Ritornello]] — ciudad arrasada antes del cierre
 - [[Kerbog_Khan]] — operador del bombardeo y refugiado actual

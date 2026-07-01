@@ -54,7 +54,7 @@ El **Cisma Mágico** —que el aparato imperial sitúa hacia el ~1900 AEP— der
 **Los Teósofos ganaron militarmente** la guerra hacia el **1775 AEP**:
 
 - **Líderes sortianos ejecutados o exiliados** —**[[Priscus_Pulcher]]** entre ellos, según una tradición; refugiado en las ruinas del valle, según otra—.
-- **Bases sortianas destruidas o capturadas** —*el compound del [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], en el [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], hoy ocupado por los herederos [[Priscians]]*—.
+- **Bases sortianas destruidas o capturadas** —*el compound del [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], en el [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]], hoy ocupado por los herederos [[Priscians]]*—.
 - **Restauración del clero hereditario** —el sacerdocio de Thoth se reorganizó **como casta cerrada**, conforme a la doctrina vencedora—.
 
 *Pero la victoria fue cara*. El cronista decadiano la clasifica, sin glosa, como **victoria pírrica del Imperio**:
@@ -99,10 +99,10 @@ La doctrina teósofa **se reconoce parcialmente** en ese aparato. *No idéntica*
 
 ## Las presencias en el dungeon
 
-El **[[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]** conserva **cinco posibles bases de presencia teósofa**, *de las cuales el archivo registra disposición espacial pero no operatividad cierta*:
+El **[[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]** conserva **cinco posibles bases de presencia teósofa**, *de las cuales el archivo registra disposición espacial pero no operatividad cierta*:
 
-- **[[Halls_of_Thoth_Nivel|Halls of Thoth]]** — culto público de Thoth, aún operativo en algunas áreas.
-- **[[Forum_de_Set|Forum of Set]]** — el culto de Set, con relaciones complejas con el teosofismo: la doctrina teósofa **toleraba a Set** *como aspecto sombrío del orden*, no lo prohibía como la Ortodoxia posterior.
+- **[[Halls_of_Thoth_Nivel|Salones de Thoth]]** — culto público de Thoth, aún operativo en algunas áreas.
+- **[[Forum_de_Set|Forum de Set]]** — el culto de Set, con relaciones complejas con el teosofismo: la doctrina teósofa **toleraba a Set** *como aspecto sombrío del orden*, no lo prohibía como la Ortodoxia posterior.
 - **Templo Secreto Olvidado de Thoth** — posible enclave teósofo histórico, *hoy corrompido por **Oziman**, demonio tipo III que se hace pasar por avatar de Thoth*.
 - **Lich Syagria Aitón** — posible archimago teósofo lichificado durante el Cisma; *no confirmado*.
 - **[[Library_of_Thoth]]** — textos teósofos disponibles, *en proporción variable según las pasadas que la biblioteca ha sufrido*.
@@ -153,5 +153,5 @@ El cronista decadiano cierra esta entrada con la fórmula que el archivo conserv
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *Facción vencida que sobrevive hundiéndose en capas: ganaron la guerra del Cisma en 1775 AEP y luego se replegaron, estrato tras estrato, de cuerpo institucional a permeación difusa en el Collegium of Cinders y los atrios privados. El [[Mega_Dungeon_Arden_Vul]] conserva ese descenso como geología —cinco enclaves residuales apilados en sus niveles: [[Halls_of_Thoth_Nivel|Halls of Thoth]], [[Forum_de_Set|Forum of Set]], el Templo Secreto que Oziman corrompió, un lich teósofo, la [[Library_of_Thoth]]—. La doctrina vencedora terminó sepultada en los pisos de la misma [[Ardis_Vala]] que su victoria arruinó.* — glosa de Arkos.
+> *Facción vencida que sobrevive hundiéndose en capas: ganaron la guerra del Cisma en 1775 AEP y luego se replegaron, estrato tras estrato, de cuerpo institucional a permeación difusa en el Collegium of Cinders y los atrios privados. El [[Mega_Dungeon_Arden_Vul]] conserva ese descenso como geología —cinco enclaves residuales apilados en sus niveles: [[Halls_of_Thoth_Nivel|Salones de Thoth]], [[Forum_de_Set|Forum de Set]], el Templo Secreto que Oziman corrompió, un lich teósofo, la [[Library_of_Thoth]]—. La doctrina vencedora terminó sepultada en los pisos de la misma [[Ardis_Vala]] que su victoria arruinó.* — glosa de Arkos.
 <!-- /CICLO -->

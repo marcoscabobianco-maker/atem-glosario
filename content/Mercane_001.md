@@ -1,6 +1,6 @@
 ---
 title: "Mercane 001"
-título: "Mercane 001 (Cornelio)"
+título: "Mercane 001"
 slug: Mercane_001
 aliases:
  - Mercane 001

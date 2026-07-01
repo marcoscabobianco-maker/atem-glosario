@@ -73,3 +73,12 @@ El Bazaar funciona como **mercado planar** —análogo a **[[Sigil]]** (la ciuda
 
 - **Referencia conceptual** del cronista al describir el poder del Papa
 - **Pendiente exploración directa** en jornadas futuras
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente externa:** primer *Manual of the Planes* (Jeff Grubb, AD&D 1e, TSR, 1987) — primer catálogo de los Outer Planes y sus habitantes (Devas Astral/Movanic/Monadic, Planetars, Solars, Modrons, Slaad, Demons, Devils, Daemons/Yugoloths, Aasimars, Tieflings). El Bazaar de San Dragón fue invocado en dictado como referencia de ese bestiario para poblar el séquito luminoso del Papa.
+- **Self-quote (origen):** *"Sobre todo pensando en el Bazaar de San Dragón, es el primer Manual of the Planes, así que hay criaturas de ese estilo."*

@@ -32,7 +32,7 @@ Ceremonia sacrílega y ritual oscuro celebrado en **[[Mansion_de_Natalia_Petrovn
 - [[Claude_Nauge|Claude Nauge]] y [[Corvino|Corvino]] deciden combatir de inmediato para interrumpir ritual y proteger posibles víctimas.
 - Inicia combate violento entre [[Time_Bandits|Time Bandits]] y [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] ([[Natalia_Petrovna|Natalia Petrovna]], pope, guardias, [[Andre_Bar|André Bar]] dominado hipnóticamente).
 - [[Natalia]] ataca con colmillos, escapa en forma gaseosa. Persecución a sótanos.
-- [[Muerte]] de [[Natalia_Petrovna|Natalia Petrovna]] (estacada en ataúd, decapitada, agua bendita). Pope corrupto muerto en combate. Guardias derrotados. Sobrevivientes del Círculo dispersados.
+- Muerte de [[Natalia_Petrovna|Natalia Petrovna]] (estacada en ataúd, decapitada, agua bendita). Pope corrupto muerto en combate. Guardias derrotados. Sobrevivientes del Círculo dispersados.
 
 **Significado narrativo:**
 - **Punto de inflexión tonal:** [[Misa_Negra|Misa Negra]] marca transición de [[Paris_Ucronica|París Ucrónica]] desde aventura steampunk política-conspiratoria a **horror sobrenatural balcánico**. Revelación de que [[Circulo_de_la_Serpiente|Círculo de la Serpiente]] no es meramente conspiración política, sino **culto vampírico ancestral que usa política como cobertura.**

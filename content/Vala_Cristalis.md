@@ -36,7 +36,7 @@ El concepto nació en **[[Paladin_in_Hell|Paladin in Hell]]** —la aventura cl�
 
 ### El Sancta Sanctorum del Inferno
 
-En la gesta Inferno, el Vala Cristalis vuelve a estar en juego. **Está en el Sancta Sanctorum** —cámara identificada con **el mundo del Tabernáculo y del Arca de la Alianza**, donde confluyen varios mundos a la vez—. Allí, durante el arco de **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno, **se desata una lucha de todos contra todos para ver quién lo obtiene**. Más que las bombas en las Catacumbas, **más profundamente todavía en el infierno**, este combate es el centro: quien se quede con el Vala Cristalis se queda con la capa que separa los mundos. La estructura del Tabernáculo y el Arca no es accidental: el archivo deja entrever que el lugar **es punto de confluencia multi-mundo**, donde el ciclo cose sus gestas entre sí. Esas cosas reaparecen también en los crossovers **Masters × [[Cristo_Leon|Mundo de Krile]]** que se hicieron con [[Cristo_Leon|Cristo León]].
+En la gesta Inferno, el Vala Cristalis vuelve a estar en juego. **Está en el Sancta Sanctorum** —cámara identificada con **el mundo del Tabernáculo y del Arca de la Alianza**, donde confluyen varios mundos a la vez—. Allí, durante el arco de **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno, **se desata una lucha de todos contra todos para ver quién lo obtiene**. Más que las bombas en las Catacumbas, **más profundamente todavía en el infierno**, este combate es el centro: quien se quede con el Vala Cristalis se queda con la capa que separa los mundos. La estructura del Tabernáculo y el Arca no es accidental: el archivo deja entrever que el lugar **es punto de confluencia multi-mundo**, donde el ciclo cose sus gestas entre sí. Esas cosas reaparecen también en los crossovers **Masters × [[Mundo_de_Kryle|Mundo de Kryle]]**.
 
 ## Vínculos
 
@@ -50,7 +50,7 @@ En la gesta Inferno, el Vala Cristalis vuelve a estar en juego. **Está en el Sa
 - [[Thalia_Cristalia|Thalia Cristalia]] — campo semántico de cristalización
 - [[Lucifer]] — su palacio de Buckingham con la misma defensa cristalina
 - [[Anti_Inferno|Gesta Inferno]] — el ciclo donde se reabre la disputa
-- [[Cristo_Leon|Cristo León]] / **Mundo de Krile** — crossovers Masters donde reaparece
+- **[[Mundo_de_Kryle|Mundo de Kryle]]** — crossovers Masters donde reaparece
 - **Tabernáculo / Arca de la Alianza** — referencias bíblicas del Sancta Sanctorum
 - [[Albion]] / [[Rintrah]] — otras presencias blakeanas en el cosmos compartido
 
@@ -59,7 +59,7 @@ En la gesta Inferno, el Vala Cristalis vuelve a estar en juego. **Está en el Sa
 - [[Paladin_in_Hell]] — arco fundacional, Valis Cristal original
 - [[Caldero]] / [[La_Jabalina]] — capa protectora externa del mundo-gema Vala Cristalis
 - el Descenso (Inferno) — disputa en el Sancta Sanctorum
-- Crossovers Masters × Mundo de Krile (con [[Cristo_Leon|Cristo León]])
+- Crossovers Masters × [[Mundo_de_Kryle|Mundo de Kryle]]
 - [[Lucifer]] en Buckingham — defensa cristalina del palacio
 
 <!-- CICLO -->

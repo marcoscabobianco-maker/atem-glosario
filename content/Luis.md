@@ -15,9 +15,9 @@ aliases:
 
 ## Presentación
 
-compañero incorporado en el tramo del grupo principal. Acusado por el Capitán del [[Wander]] de "ayudar al dragón." Estilo de combate agresivo — carga directamente contra el [[Dragon_Verde|Dragón Verde]]. Más tarde, ya entre los Malditos, revelado como mercenario con pasado genocida: contagió lepra a indios, agente de "Potestas super terram." Pelo blanco, tez pálida, armaduras oscuras, espada terrible, cruz de hierro en el pecho, quemadura de ácido de [[Dragon_Staff_Baston_del_Dragon|Dragon Staff]] en la cabeza.
+compañero incorporado en el tramo del grupo principal. Acusado por el Capitán del [[Wander]] de "ayudar al dragón." Estilo de combate agresivo — carga directamente contra el [[Dragon_Verde|Dragón Verde]]. Más tarde, ya entre los Malditos, revelado como mercenario con pasado genocida: contagió lepra a indios, agente de "Potestas super terram." Pelo blanco, tez pálida, armaduras oscuras, espada terrible, cruz de hierro en el pecho, quemadura de ácido de [[Dragon_Staff_Baston_del_Dragon|Bastón del Dragón]] en la cabeza.
 *Apariciones:* primero con el grupo principal del [[Wander]]; luego entre los Malditos, hasta [[Farruco_Arrastrado_al_Pozo_NC16|la caída de Farruco al pozo]]
-*Conexiones:* [[Capitan_el_Coruna|Capitán el Coruña]], [[Dragon_Verde|Dragón Verde]], [[Dragon_Staff_Baston_del_Dragon|Dragon Staff]], Malditos
+*Conexiones:* [[Capitan_el_Coruna|Capitán el Coruña]], [[Dragon_Verde|Dragón Verde]], [[Dragon_Staff_Baston_del_Dragon|Bastón del Dragón]], Malditos
 
 ## Notas
 

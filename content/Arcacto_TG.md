@@ -4,7 +4,7 @@ título: "Arcacto — el Gran Carnero del fuego"
 slug: Arcacto_TG
 aliases:
  - Arcacto
- - Arcacto (TG)
+ - Arcacto (Torregrises)
  - el Gran Carnero
  - Guardián de la Primera Plataforma occidental
 categoria_diegetica: dios

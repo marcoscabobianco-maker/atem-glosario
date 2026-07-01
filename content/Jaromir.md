@@ -18,8 +18,11 @@ tags:
  - escapado-aterrorizado
  - rescatado
  - calle-de-la-linterna
-imagen: null
+imagen: Imagenes_Tier1/Jaromir.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Jaromir.png]]
+<!-- /HEADER_IMG -->
 
 > *"Entre ellos, un niño llamado Jaromir parecía ser clave. Estaba visiblemente aterrorizado, perturbado por pesadillas recurrentes que mencionaban figuras oscuras que lo acechaban."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

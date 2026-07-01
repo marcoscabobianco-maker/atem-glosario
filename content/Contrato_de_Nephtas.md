@@ -5,7 +5,6 @@ tags:
  - "objeto-mágico"
  - "contrato"
  - "mc"
- - "mecánica-narrativa"
 aliases:
  - "Contrato de Nephtas"
 ---

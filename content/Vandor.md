@@ -19,8 +19,11 @@ aliases:
  - "Augusto Vandor"
  - "el Lobo"
  - "el Lobo Vandor"
-imagen: null
+imagen: Imagenes_Tier1/Vandor.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Vandor.png]]
+<!-- /HEADER_IMG -->
 
 > *Primero golpear, después negociar.*
 

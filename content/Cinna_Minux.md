@@ -17,7 +17,12 @@ tags:
  - dominio-oculto
  - charm
  - posible-pariente-malakita
+imagen: Imagenes_Tier1/Cinna_Minux.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cinna_Minux.png]]
+<!-- /HEADER_IMG -->
 
 > *Vampiro antiguo. Dominio oculto en las capillas de la Corte del Thegn. Charm enhanced. Court de seguidores charmados. Evita a los Sun-Scarred. Posible pariente de Malakita o predecesor.*
 
@@ -32,13 +37,13 @@ Por sus **habilidades de charm intensificadas**, Cinna ha reunido una **"corte" 
 - **Vampiros menores** —descendientes vampíricos creados por él
 - **Aventureros charmados** —prisioneros voluntarios capturados por sus hechizos
 - **Monstruos charmados** —seres del dungeon sometidos a su voluntad
-- **Red extensa de informantes charmados** en otras áreas de [[Ardis_Vala|Arden Vul]]
+- **Red extensa de informantes charmados** en otras áreas de [[Ardis_Vala|Ardis Vala]]
 
 ### Su sigilo defensivo
 
 Cinna es **cauteloso por encima de todo**:
 
-- **No quiere cruzarse con los [[Caballeros_Cicatriz_del_Sol|Sun-Scarred Knights]]** (el Hold y la Ciudadela de la Cicatriz del Sol). **Específicamente no quiere alertarlos** sobre su existencia ni su ubicación
+- **No quiere cruzarse con los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** (el Bastión y la Ciudadela de la Cicatriz del Sol). **Específicamente no quiere alertarlos** sobre su existencia ni su ubicación
 - **Mantiene control estricto** sobre las entradas y salidas de sus minions
 - **Pocos saben de su existencia** dentro del dungeon
 - Los **bestial varumani de las cuevas vecinas** solo saben que **"el área está embrujada"**

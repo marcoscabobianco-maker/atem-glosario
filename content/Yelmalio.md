@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Yelmalio.png]]
 <!-- /HEADER_IMG -->
 
-Dios solar frío de la [[Sagrada_Orden|Sagrada Orden]] (Glorantha-derived). Sigilo sol-y-cuatro-flechas.
+La lámina representa a Yelmalio, el dios solar frío de la [[Sagrada_Orden|Sagrada Orden]]. Su sigilo: un sol con cuatro flechas.

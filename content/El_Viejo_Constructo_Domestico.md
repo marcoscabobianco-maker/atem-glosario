@@ -19,9 +19,9 @@ aliases:
 - Preparación alquímica (convierte cuerpos en "sangre de las sombras" — consumible vampírico)
 **Rol:** Intendente del Santuario post-combate. Realiza limpieza ritual y distribución de botín.
 **Alineamiento:** Ambiguo (leal a templarios oscuros, pero obedece nueva administración sin cuestionamiento)
-**[[Nota_narrativa|Nota narrativa]]:** Sugiere que Santuario tiene historia antigua de ocupación/custodia. "Espíritu hogareño" implica estructura mágica más antigua que orden visible.
+**Nota narrativa:** Sugiere que Santuario tiene historia antigua de ocupación/custodia. "Espíritu hogareño" implica estructura mágica más antigua que orden visible.
 
 ## Ver también
 
 - Alineamiento
-- [[Nota_narrativa|Nota narrativa]]
+- Nota narrativa

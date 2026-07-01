@@ -33,7 +33,7 @@ El **Ziggurat de Kauket** es el **piso más profundo y conceptualmente culminant
 
 **Los [[Heqeti]] controlan 100% del nivel**. El sitio fue *"cleansed"* **dos veces en antigüedad** —una por los [[Rudishva]], otra por los [[Archontean|Archonteanos]]— pero **los heqeti han retornado desde sus hogares ocultos en la [[Underearth]]** para re-santificar el lugar.
 
-**Custodio actual**: el **Great Tongue [[Reepsiq]]** — alto sacerdote de Kauket. Lo asisten varios hechiceros de alto temple y un grupo mixto de **hoppers, chosen y builders** heqeti. Pilgrims menores ascienden ocasionalmente desde la [[Underearth]].
+**Custodio actual**: el **Gran Lengua [[Reepsiq]]** — alto sacerdote de Kauket. Lo asisten varios hechiceros de alto temple y un grupo mixto de **hoppers, chosen y builders** heqeti. Pilgrims menores ascienden ocasionalmente desde la [[Underearth]].
 
 ### Las cinco zonas
 
@@ -73,23 +73,23 @@ Si los compañeros **insertan el cuerno en la Summoning Chamber, Kauket es invoc
 | Tarea | Área | Efecto sobre Ziggurat de Kauket |
 |---|---|---|
 | Limpiar la consagración oscura del Upper [[Temple_complejo_TE|Temple]] | en la Corte del Thegn | Estatuas del 3er escalón pierden palabras impías |
-| Envenenar Rimmaq-Isfet | en los Nether Reaches | Disipa la consagración oscura del Ziggurat |
+| Envenenar Rimmaq-Isfet | en los Confines Inferiores | Disipa la consagración oscura del Ziggurat |
 | Destruir o consagrar a la luz la estatua gigante de Kauket | en el Suelo del Gran Abismo | La coraza mágica de Kauket mengua |
 
 ### Conexiones / accesos
 
-- **A Troll Lifts**: un teleporter
+- **A Elevadores de los Trolls**: un teleporter
 - **A Corte del Thegn**: el mismo teleporter
 - **A Suelo del Gran Abismo**: el corredor oeste y el río
 - **A Underearth**: el río hacia el Silent Sea; el túnel del este al resto
-- **Desde otros pisos vía heqeti teleport wells**: del Forum, los Troll Lifts, la Corte, los Nether Reaches y las Lizardman Caves — todos llegan a la antecámara del pantano
+- **Desde otros pisos vía heqeti teleport wells**: del Forum, los Elevadores de los Trolls, la Corte, los Confines Inferiores y las Cuevas de los Hombres-Lagarto — todos llegan a la antecámara del pantano
 
 ### Áreas-encuentro
 
 - **[[Heqeti]] Road Up**: corredor ascendente desde Suelo del Gran Abismo, iluminado por pods bioluminiscentes verdes
-- **Hall of Mouths**: escultura abstracta (estatua dañada de Kauket) en pool con warning salamanders
+- **Salón de las Bocas**: escultura abstracta (estatua dañada de Kauket) en pool con warning salamanders
 - **Mephitic Marsh**: el pantano central
-- **[[Reepsiq|Reepsiq the Great Tongue]]** ★
+- **[[Reepsiq|Reepsiq the Gran Lengua]]** ★
 - **Qassapik the Weaver**
 - **Pikaressa the Second Tongue**
 - **Public Areas** (pilgrims)
@@ -99,11 +99,11 @@ Si los compañeros **insertan el cuerno en la Summoning Chamber, Kauket es invoc
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
 - [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Heqeti]] — facción única dominante
-- [[Reepsiq]] — Great Tongue actual
+- [[Reepsiq]] — Gran Lengua actual
 - [[Kauket]] — príncipe demonio
 - [[Underearth]] — mundo subterráneo profundo conectado por el túnel del este
 - [[Rudishva]] — tomaron el cuerno en antigüedad
-- [[Court_of_Troll_Thegn|Court of Troll Thegn]] — [[Heqeti]] Upper [[Temple_complejo_TE|Temple]] vinculado
+- [[Court_of_Troll_Thegn|Corte del Thegn]] — [[Heqeti]] Upper [[Temple_complejo_TE|Temple]] vinculado
 - [[Beacon_Faro_Brillante]] — el Beacon está dispersamente conectado al sistema rudishva
 - **AIs rudishva**: [[RAJ-750]], [[Akala|AKL-600]]
 - **[[Caudatssa_the_Tongue]]** — segunda en jerarquía heqeti tras Reepsiq
@@ -118,5 +118,5 @@ Si los compañeros **insertan el cuerno en la Summoning Chamber, Kauket es invoc
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *El piso más profundo y culminante del [[Mega_Dungeon_Arden_Vul]]: el descenso por las capas de Ardis Vala termina aquí, en el zigurat que se alza sobre el Mephitic Marsh bajo control total de los [[Heqeti]]. Tres mil cuatrocientos años, dos limpiezas en antigüedad —[[Rudishva]] y [[Archontean|Archonteanos]]—, y los heqeti retornan desde la [[Underearth]] a re-santificarlo; el [[Reepsiq|Great Tongue Reepsiq]] custodia el fondo. El estrato más bajo es siempre el más antiguo y el más sagrado: tocar tierra abajo es tocar la era primera.* — glosa de Akala.
+> *El piso más profundo y culminante del [[Mega_Dungeon_Arden_Vul]]: el descenso por las capas de Ardis Vala termina aquí, en el zigurat que se alza sobre el Mephitic Marsh bajo control total de los [[Heqeti]]. Tres mil cuatrocientos años, dos limpiezas en antigüedad —[[Rudishva]] y [[Archontean|Archonteanos]]—, y los heqeti retornan desde la [[Underearth]] a re-santificarlo; el [[Reepsiq|Gran Lengua Reepsiq]] custodia el fondo. El estrato más bajo es siempre el más antiguo y el más sagrado: tocar tierra abajo es tocar la era primera.* — glosa de Akala.
 <!-- /CICLO -->

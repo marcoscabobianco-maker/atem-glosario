@@ -11,4 +11,4 @@ aliases:
 
 ## Presentación
 
-Visir y mano derecha del rey [[Aleksandar_I|Aleksandar I]]. Conocedor de Ucronía. Recomienda [[Verdugo_Monsieur_David|Verdugo]] Atemporal para asuntos reales.
+Visir y mano derecha del rey [[Aleksandar_I|Aleksandar I]], versado en los asuntos de la Ucronía. El archivo lo recuerda recomendando los servicios del [[Verdugo_Monsieur_David|Verdugo Atemporal]] para las cuestiones de la corona.

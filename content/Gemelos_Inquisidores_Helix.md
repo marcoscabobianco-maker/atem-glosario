@@ -22,8 +22,11 @@ tags:
  - helix
  - corrompidos
  - perdonados
-imagen: null
+imagen: Imagenes_Tier1/Gemelos_Inquisidores_Helix.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gemelos_Inquisidores_Helix.png]]
+<!-- /HEADER_IMG -->
 
 > *"Somos unos hermanos que aprendimos a batallar desde muy jóvenes. Y a día de hoy somos unos mercenarios que hacemos trabajo para el Abad."* — uno de los gemelos a su propia descripción.
 

@@ -20,7 +20,12 @@ tags:
  - desgracia
  - convocadora
  - poker-de-hostias
+imagen: Imagenes_Tier1/Magda.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Magda.png]]
+<!-- /HEADER_IMG -->
 
 > *"La bruja de la fortuna —y la desgracia para otros. La carta que se da vuelta sin que la mesa lo espere."*
 

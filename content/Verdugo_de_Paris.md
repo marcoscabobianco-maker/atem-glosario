@@ -16,5 +16,5 @@ Verdugo encapuchado en cuero negro; torturado en mismo back-room que el [[Gran_I
 - [[Verdugo_Monsieur_David|Verdugo Monsieur David]] — contraparte histórica del verdugo parisino en el ATEM
 - [[Paris_Ucronica|París Ucrónica]] — escenario urbano donde opera esta figura
 - [[Catacumbas_de_Paris|Catacumbas de París]] — subsuelo parisino, espacio de ejecuciones y secretos
-- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta en cuyo París ucrónico aparece el Verdugo
+- [[Campana_Templarios_TE|Gesta Templarios]] — gesta en cuyo París ucrónico aparece el Verdugo
 - [[Asmodeus]] — señor infernal de los Nueve Infiernos que gobierna la ley y el castigo en [[Baator]]; presencia cosmológica detrás del aparato inquisitorial

@@ -57,3 +57,11 @@ El **fragmento** es **caligrafía de magigrafía**: traza propia del culto. **No
 
 - el Descenso — documentos recuperados como pista/evidencia del culto
 - París 1898 — referencia diegética del mapa (eje [[Antiterra]]/PU)
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Props (handouts) que la mesa conserva: mapa, diagrama táctico, fragmento de script. La grafía Pyrexian deriva del Phyrexian de Magic the Gathering, castellanizada por el Narrador.

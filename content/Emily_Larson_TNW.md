@@ -1,9 +1,9 @@
 ---
-title: "Emily Larson (TNW)"
+title: "Emily Larson (Mundo Nuevo)"
 tags:
  - "gary-tnw"
 aliases:
- - "Emily Larson (TNW)"
+ - "Emily Larson (Mundo Nuevo)"
  - "TNW"
  - "Emily Larson"
 ---

@@ -40,7 +40,7 @@ Nació **Cerbactos Kalthetos** en alguna provincia oriental del Imperio [[Archon
 
 ## La obsesión
 
-Lo que mueve a Kerbog Khan, y lo que ha movido cada una de sus encarnaciones, es **el [[Arcanum]]** —no la magia, no la mecánica, **el sustrato arcánico-material primigenio del que ambas brotan**—. **Sus talleres en las entrañas del Mega-Dungeon** son **fábrica de autómatas** —libélulas voladoras, exploradores acorazados, autómatas mayores que vigilan los pasillos del nivel—; pero **el verdadero objeto** no son los autómatas: es **la sustancia que los anima**. *El cronista, que se ha ocupado de teólogos similares, conoce el patrón: el oficio se vuelve devoción y la devoción, dependencia. No conviene comentar más.*
+Lo que mueve a Kerbog Khan, y lo que ha movido cada una de sus encarnaciones, es **el [[Arcanum]]** —no la magia, no la mecánica, **el sustrato arcánico-material primigenio del que ambas brotan**—. **Sus talleres en las entrañas del Mega-Mazmorra** son **fábrica de autómatas** —libélulas voladoras, exploradores acorazados, autómatas mayores que vigilan los pasillos del nivel—; pero **el verdadero objeto** no son los autómatas: es **la sustancia que los anima**. *El cronista, que se ha ocupado de teólogos similares, conoce el patrón: el oficio se vuelve devoción y la devoción, dependencia. No conviene comentar más.*
 
 ## El bombero clandestino
 

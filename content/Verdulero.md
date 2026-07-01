@@ -1,11 +1,12 @@
 ---
 title: "Verdulero"
+categoria: personaje
 aliases:
  - "Verdulero"
 referenciado_por: 2
 ---
 
-Personaje del [[Panteon_Posmoderno|Panteón Posmoderno]] (Pereza/Sloth). Aparece en heráldica de los 7 pecados capitales mapeados a [[Torregrises]].
+Figura del [[Panteon_Posmoderno|Panteón Posmoderno]], donde encarna la Pereza. Aparece en la heráldica de los siete pecados capitales que la crónica reparte sobre [[Torregrises]].
 
 ## Referencias entrantes
 

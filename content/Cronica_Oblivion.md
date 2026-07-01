@@ -20,4 +20,4 @@ Registro de eventos borrados del tiempo, o nombre de la época post-cronocidio. 
 
 ## Notas
 
-¿[[Evento]], era, o archivo? Pendiente de clarificación.
+¿Evento, era, o archivo? Pendiente de clarificación.

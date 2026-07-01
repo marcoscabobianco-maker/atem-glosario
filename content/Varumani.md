@@ -1,6 +1,6 @@
 ---
-title: "Varumani (pueblo)"
-título: "Varumani (pueblo)"
+title: "Varumani"
+título: "Varumani"
 slug: Varumani
 categoria: pueblo
 aliases:
@@ -23,11 +23,11 @@ tags:
  - tres-castas
 ---
 
-> *Los trolls de [[Ardis_Vala|Arden Vul]]. Tres castas: true, lesser, bestial. Cien true que quedan. Pueblo en declive bajo [[Varboka]]. Operadores de [[Troll_Lifts_Arena|Troll Lifts]], [[Troll_Lifts_Arena|Inn of the Lost]], Arena.*
+> *Los trolls de [[Ardis_Vala|Ardis Vala]]. Tres castas: true, lesser, bestial. Cien true que quedan. Pueblo en declive bajo [[Varboka]]. Operadores de [[Troll_Lifts_Arena|Elevadores de los Trolls]], [[Troll_Lifts_Arena|Posada de los Perdidos]], Arena.*
 
 ## Presentación
 
-Los **Varumani** son el **pueblo más poderoso de [[Mega_Dungeon_Arden_Vul]] en el presente**. Conocidos por foráneos como **"trolls"**, son en realidad **una raza bio-inclinada con tres castas distintas** que viven principalmente en los [[Troll_Lifts_Arena|Troll Lifts]] y la [[Court_of_Troll_Thegn|Corte del Thegn]]. Sociedad **feudal con códigos de honor militar**. Pueblo **en declive demográfico crítico**.
+Los **Varumani** son el **pueblo más poderoso de [[Mega_Dungeon_Arden_Vul]] en el presente**. Conocidos por foráneos como **"trolls"**, son en realidad **una raza bio-inclinada con tres castas distintas** que viven principalmente en los [[Troll_Lifts_Arena|Elevadores de los Trolls]] y la [[Court_of_Troll_Thegn|Corte del Thegn]]. Sociedad **feudal con códigos de honor militar**. Pueblo **en declive demográfico crítico**.
 
 ### Tres castas
 
@@ -51,14 +51,14 @@ Los **Varumani** son el **pueblo más poderoso de [[Mega_Dungeon_Arden_Vul]] en 
 - **~170 lesser varumani**
 - **Indeterminados bestial varumani** (mano de obra mayoritaria)
 
-**El pueblo declina** — natalidad cae, generaciones se mueren. **[[Varboka]] [[Varboka|First Thegn]] busca activar el [[Beacon_Faro_Brillante|Beacon]]** como **vía de regeneración / despertar** de su raza.
+**El pueblo declina** — natalidad cae, generaciones se mueren. **[[Varboka]] [[Varboka|Primer Thegn]] busca activar el [[Beacon_Faro_Brillante|Beacon]]** como **vía de regeneración / despertar** de su raza.
 
 ### Status post-hiato (revelación del archivo)
 
 **Los Varumani fueron vencidos** durante el [[Hiato_15_Años_Ardis_Vala|hiato de 15 años]]. Ver [[Vencimiento_Varumani]] para detalles. **Estado actual (el regreso tras el Hiato+)**:
 
 - **[[Varboka]]** derrocado, presumiblemente muerto
-- **Troll Lifts Troll Lifts** sin operadores varumani — ascensores en estado incierto
+- **Elevadores de los Trolls Elevadores de los Trolls** sin operadores varumani — ascensores en estado incierto
 - **Corte del Thegn [[Court_of_Troll_Thegn]]** vacío o reocupado
 - **Suelo del Gran Abismo Silver Mining** sin protección varumani
 - **Sociedad varumani como tal**: prácticamente extinguida o dispersa
@@ -67,7 +67,7 @@ Los **Varumani** son el **pueblo más poderoso de [[Mega_Dungeon_Arden_Vul]] en 
 
 ### Sociedad
 
-Bajo **[[Varboka]] First Thegn**:
+Bajo **[[Varboka]] Primer Thegn**:
 
 - **4 clanes principales**: Rudigaya (Hraskaya), Vanaraya (Vedraya One-Eye), Pendaya (Gavra Easy-Going), Druvaya (Igrippa Unruly)
 - **Court Sorcerer**: Ashoka
@@ -78,7 +78,7 @@ Bajo **[[Varboka]] First Thegn**:
 
 ### Dominio territorial
 
-- **Troll Lifts** — operación de los **Troll Lifts** (ascensores rudishva), **Inn of the Lost** vía Whitemane, comercio activo en **Arena**
+- **Elevadores de los Trolls** — operación de los **Elevadores de los Trolls** (ascensores rudishva), **Posada de los Perdidos** vía Whitemane, comercio activo en **Arena**
 - **Corte del Thegn** — sede principal, **corte del thegn**, **[[Court_of_Troll_Thegn|Troll Market]]**, dwellings, **caves of bestial varumani** al oeste
 - **Suelo del Gran Abismo** — silver mining bajo Prayaska (true varumani mine boss)
 
@@ -100,9 +100,9 @@ Los Varumani son **probable creación o sub-raza rudishva** —los rudishva cria
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Court_of_Troll_Thegn|Corte del Thegn — Court of Troll Thegn]]
-- [[Troll_Lifts_Arena|Troll Lifts — Troll Lifts & Arena]]
-- [[Varboka]] — First Thegn
+- [[Court_of_Troll_Thegn|Corte del Thegn — Corte del Thegn]]
+- [[Troll_Lifts_Arena|Elevadores de los Trolls — Elevadores de los Trolls y Arena]]
+- [[Varboka]] — Primer Thegn
 - [[Rudishva]] — creadores originales o predecesores
 - [[Beacon_Faro_Brillante]] — proyecto de regeneración racial
 - [[Heqeti]] / [[Kaliyani]] — enemigos
@@ -113,10 +113,10 @@ Los Varumani son **probable creación o sub-raza rudishva** —los rudishva cria
 ## Apariciones
 
 - Mencionados desde **el archivo** (embajadores [[Valumani]])
-- Jornadas de la Arena y Troll Lifts (siguientes)
+- Jornadas de la Arena y Elevadores de los Trolls (siguientes)
 - Presencia constante en niveles medios
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *Pueblo del estrato: los trolls de tres castas —true, lesser, bestial— que habitan los niveles medios del [[Mega_Dungeon_Arden_Vul]] entre los [[Troll_Lifts_Arena|Troll Lifts]] y la [[Court_of_Troll_Thegn|Corte del Thegn]], cada capa una función. Criados por los [[Rudishva]] en las troll pits, sobreviven en declive bajo [[Varboka]], que busca activar el [[Beacon_Faro_Brillante|Beacon]] para despertar a su raza —y el Beacon es de un sub-nivel más hondo que el suyo. Los bestial son el material base, el fondo de la propia escala.* — glosa del archivero del Plata.
+> *Pueblo del estrato: los trolls de tres castas —true, lesser, bestial— que habitan los niveles medios del [[Mega_Dungeon_Arden_Vul]] entre los [[Troll_Lifts_Arena|Elevadores de los Trolls]] y la [[Court_of_Troll_Thegn|Corte del Thegn]], cada capa una función. Criados por los [[Rudishva]] en las troll pits, sobreviven en declive bajo [[Varboka]], que busca activar el [[Beacon_Faro_Brillante|Beacon]] para despertar a su raza —y el Beacon es de un sub-nivel más hondo que el suyo. Los bestial son el material base, el fondo de la propia escala.* — glosa del archivero del Plata.
 <!-- /CICLO -->

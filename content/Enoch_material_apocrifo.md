@@ -29,7 +29,7 @@ Dato cosmológico: días intercalares no existían cuando el mundo no estaba inc
 
 *Fuente primaria:* el Documento Skronamon.
 
-*Conexiones:* **[[Axum_MC|Axum (MC)]]** (Iglesia Abisinia poseedora del manuscrito), **[[Contienda_la|Contienda, la]]** (caída de los dioses ↔ caída de los Vigilantes), **[[Angara_Andgara|Andgara]]** (destrucción primordial por deidades), **[[Grazzt|Graz'zt]]** (señor demoníaco ↔ Satán/jefe de satanes), **[[Panteon_el|Panteón]] Angariense** (dioses atraídos a trampa ↔ Vigilantes juramentados).
+*Conexiones:* **[[Axum_MC|Axum (ciclo)]]** (Iglesia Abisinia poseedora del manuscrito), **[[Contienda_la|Contienda, la]]** (caída de los dioses ↔ caída de los Vigilantes), **[[Angara_Andgara|Andgara]]** (destrucción primordial por deidades), **[[Grazzt|Graz'zt]]** (señor demoníaco ↔ Satán/jefe de satanes), **[[Panteon_el|Panteón]] Angariense** (dioses atraídos a trampa ↔ Vigilantes juramentados).
 
 ## Ver también
 

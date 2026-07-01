@@ -44,7 +44,7 @@ Hija de **[[Amitlai]]** y el **[[Senor_de_los_Gatos_el_Unico|Señor de los Gatos
 
 ## Notas
 
-El "pez globo" de [[Clarisa]] (mencionado en jornada oral de dic 2010) NO aparece en el Calendario. Solo hay una mención de [[Clarisa]] en el Calendario. El pez globo está pendiente de los cuadernos manuscritos. El líder "hijo de [[Pablo_de_Alejandria|Pablo]]" en Tebas Griega es un personaje no identificado — posible cruce con [[Kronamon]] (pendiente confirmación).
+El "pez globo" de [[Clarisa]] (mencionado en jornada oral de dic 2010) NO aparece en el Calendario. Solo hay una mención de [[Clarisa]] en el Calendario. El pez globo está pendiente de los cuadernos manuscritos. El líder "hijo de [[Pablo_de_Alejandria|Pablo]]" en Tebas Griega es un personaje no identificado — posible cruce con [[Chronomon|Kronamon]] (pendiente confirmación).
 
 ## Ver también
 

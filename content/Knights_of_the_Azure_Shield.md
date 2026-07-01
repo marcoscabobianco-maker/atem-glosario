@@ -1,5 +1,5 @@
 ---
-title: "Knights Of The Azure Shield"
+title: "Caballeros del Escudo Azur"
 aliases:
  - "Knights_of_the_Azure_Shield"
 en_construccion: true
@@ -15,4 +15,4 @@ Esta entrada es mencionada desde:
 
 ---
 
-*Si llegaste aquí buscando información sobre **Knights Of The Azure Shield**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+*Si llegaste aquí buscando información sobre **Caballeros del Escudo Azur**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

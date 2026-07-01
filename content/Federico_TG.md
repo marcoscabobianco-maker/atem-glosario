@@ -4,7 +4,7 @@ título: "Federico — el Rey de las Tormentas"
 slug: Federico_TG
 aliases:
  - Federico
- - Federico (TG)
+ - Federico (Torregrises)
  - Rey de las Tormentas
  - el historiador bendito
  - alter ego del cronista en Torregrises

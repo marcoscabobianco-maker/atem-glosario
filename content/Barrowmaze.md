@@ -44,7 +44,7 @@ imagen: null
 
 Esa **zona franca** es precisamente lo que la convierte en **destino del norte**:
 
-- **Los [[Buscadores_de_Ardis_Vala|Buscadores]]**, tras su despojo en la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], **eligieron Helix al sur como destino** *con el plan declarado de "operar los túmulos"* y recuperar arcano fuera del monopolio Priscian.
+- **Los [[Buscadores_de_Ardis_Vala|Buscadores]]**, tras su despojo en la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]], **eligieron Helix al sur como destino** *con el plan declarado de "operar los túmulos"* y recuperar arcano fuera del monopolio Priscian.
 - **El grupo del santuario de Helix** —el grupo encarcelado de la inquisición del Abad— **había sido enviado al Barrowmaze a recuperar la [[Tableta_del_Caos]]** antes del ciclo presente. *La misión seguía abierta al cierre*.
 - **El demonio [[Quasi_demonio_menor|Quasi]]** ofreció guiar al gemelo guardia tentado **al barro** —*donde habría diez mil monedas escondidas*— como parte del pacto.
 

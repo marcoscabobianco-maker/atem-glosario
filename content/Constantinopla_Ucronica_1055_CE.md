@@ -1,6 +1,6 @@
 ---
-title: "Constantinopla Ucrónica (1050–1055)"
-título: "Constantinopla Ucrónica (1050–1055)"
+title: "Constantinopla Ucrónica"
+título: "Constantinopla Ucrónica"
 slug: Constantinopla_Ucronica_1055_CE
 aliases:
  - Constantinopla

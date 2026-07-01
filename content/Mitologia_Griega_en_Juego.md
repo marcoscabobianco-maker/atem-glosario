@@ -16,4 +16,4 @@ El [[Isla_del_Jardin_de_Hesperides|Jardín de Hespérides]], Atlas, los [[Cronos
 - [[Tiro_ruinas|Tiro (ruinas)]] — destino de la travesía en que aparece el material mitológico griego.
 - [[Nekeia_Descenso_al_Inframundo_Mediterraneum|Nekeia / Descenso al Inframundo]] — el Hades griego proyectado como futuro plano de la gesta; anticipa el Descenso.
 - [[Mediterraneo_Ucronico|Mediterráneo Ucrónico]] — escenario geopolítico que contiene estos enclaves mitológicos como geografía real.
-- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta en que la mitología griega irrumpe como realidad diegética durante la travesía a Tiro.
+- [[Campana_Templarios_TE|Gesta Templarios]] — gesta en que la mitología griega irrumpe como realidad diegética durante la travesía a Tiro.

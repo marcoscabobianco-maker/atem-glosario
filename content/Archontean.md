@@ -1,6 +1,6 @@
 ---
-title: "Archontean (pueblo, imperio, arquitectura)"
-título: "Archontean (pueblo, imperio, arquitectura)"
+title: "Archontean"
+título: "Archontean"
 slug: Archontean
 categoria: pueblo
 aliases:
@@ -18,7 +18,7 @@ tags:
  - arquitectura
  - ardis-vala
  - mc
- - mega-dungeon-ardis-vala
+ - mega-mazmorra-ardis-vala
  - archontos
  - mithruin
  - sortianos
@@ -95,16 +95,16 @@ Los Sortianos están vinculados a **[[Priscus_Pulcher|Prisco Electe]]** (figura 
 - **Materiales**: piedra trabajada, mortero, hierro
 - **Estética**: greco-egipcia sincrética
 
-**Áreas archonteanas en el [[Mega_Dungeon_Arden_Vul|Mega-Dungeon Arden Vul]]**: la **mayoría predominante** del megadungeon —Halls of Thoth (salvo contadas cámaras rudishva y heqeti), Forum de Set (ídem), Troll Lifts (mezclado), Corte del Thegn (parcial), Nether Reaches (parcial), Suelo del Gran Abismo (parcial)—.
+**Áreas archonteanas en el [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra Ardis Vala]]**: la **mayoría predominante** del megadungeon —Salones de Thoth (salvo contadas cámaras rudishva y heqeti), Forum de Set (ídem), Elevadores de los Trolls (mezclado), Corte del Thegn (parcial), Confines Inferiores (parcial), Suelo del Gran Abismo (parcial)—.
 
-### Las cuatro tradiciones del Mega-Dungeon
+### Las cuatro tradiciones del Mega-Mazmorra
 
 | Tradición | Antigüedad | Niveles principales |
 |---|---|---|
 | **[[Heqeti]]** | ~3.400 años | Ziggurat de Kauket + áreas en la Corte del Thegn |
-| **[[Rudishva]]** | ~3.000 años | Puertas de Obsidiana, Troll Lifts ([[Troll_Lifts_Arena|Troll Lifts]]), Corte del Thegn mods, Ziggurat de Kauket |
+| **[[Rudishva]]** | ~3.000 años | Puertas de Obsidiana, Elevadores de los Trolls ([[Troll_Lifts_Arena|Elevadores de los Trolls]]), Corte del Thegn mods, Ziggurat de Kauket |
 | **Archontean** | **~1.000 años** | **Mayoría del dungeon** |
-| **[[Varumani]]** | Moderna | los Troll Lifts y la Corte del Thegn modificaciones |
+| **[[Varumani]]** | Moderna | los Elevadores de los Trolls y la Corte del Thegn modificaciones |
 
 ## Vínculos
 
@@ -131,5 +131,5 @@ Los Sortianos están vinculados a **[[Priscus_Pulcher|Prisco Electe]]** (figura 
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *El [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]] es un corte geológico de eras, y la capa archonteana es la más reciente y predominante: bajo ella yacen la [[Heqeti]] (~3.400 años) y la [[Rudishva]] (~3.000), sobre ella la [[Varumani]] moderna. El imperio de [[Archontos]] que la construyó cuenta él mismo ~3.000 años de estratos —con el retroceso temporal de la Guerra de [[Sortianos]] y [[Teosofos|Teósofos]]—, y excavar sus Halls of Thoth es bajar por las edades del mundo de [[Mundo_de_Archontos|Archontos]].* — glosa del archivero del Plata.
+> *El [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]] es un corte geológico de eras, y la capa archonteana es la más reciente y predominante: bajo ella yacen la [[Heqeti]] (~3.400 años) y la [[Rudishva]] (~3.000), sobre ella la [[Varumani]] moderna. El imperio de [[Archontos]] que la construyó cuenta él mismo ~3.000 años de estratos —con el retroceso temporal de la Guerra de [[Sortianos]] y [[Teosofos|Teósofos]]—, y excavar sus Salones de Thoth es bajar por las edades del mundo de [[Mundo_de_Archontos|Archontos]].* — glosa del archivero del Plata.
 <!-- /CICLO -->

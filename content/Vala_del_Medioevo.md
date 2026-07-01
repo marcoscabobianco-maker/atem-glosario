@@ -16,13 +16,13 @@ tags:
  - stub
 ---
 
-> *Fase intermedia del mundo Vala. Entre [[Vala_Antigua]] y [[Ardis_Vala|Arden Vul]].*
+> *Fase intermedia del mundo Vala. Entre [[Vala_Antigua]] y [[Ardis_Vala|Ardis Vala]].*
 
 ## Presentación
 
-**Vala del Medioevo** es **la fase intermedia del mundo [[Vala]]** —entre [[Vala_Antigua]] (la fase fundacional) y [[Arden_Vul]] (el ciclo presente)—. El archivo lo declara: Vala es el mundo primero, base de lo que sucede después en Vala del Medioevo y en [[Ardis_Vala|Arden Vul]].
+**Vala del Medioevo** es **la fase intermedia del mundo [[Vala]]** —entre [[Vala_Antigua]] (la fase fundacional) y [[Arden_Vul]] (el ciclo presente)—. El archivo lo declara: Vala es el mundo primero, base de lo que sucede después en Vala del Medioevo y en [[Ardis_Vala|Ardis Vala]].
 
-La fase **traslada el mundo Vala a clave medieval** —probablemente articulación entre el mundo cosmológico de [[Vala_Antigua]] y la geografía del megadungeon Arden Vul—. Detalles narrativos **pendientes de profundización**.
+La fase **traslada el mundo Vala a clave medieval** —probablemente articulación entre el mundo cosmológico de [[Vala_Antigua]] y la geografía del megadungeon Ardis Vala—. Detalles narrativos **pendientes de profundización**.
 
 ## Vínculos
 
@@ -35,3 +35,12 @@ La fase **traslada el mundo Vala a clave medieval** —probablemente articulaci�
 ## Apariciones
 
 - Fase intermedia del mundo Vala (fechas exactas pendientes)
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Cita del archivo: *"Vala, que es el Mundo que se jugó aproximadamente en 2019 y que es la base de lo que sucede después en Vala de El Medioevo y Arden Vul."*
+- Detalles de sistema de esta fase intermedia: pendientes (Vala Antigua y Arden Vul corrieron en sistemas distintos).

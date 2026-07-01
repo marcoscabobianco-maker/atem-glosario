@@ -15,7 +15,7 @@ aliases:
 
 ## Vínculos
 
-- [[Anti_Inferno|El Descenso (CDI)]] — campaign marco del que emerge este background post-descenso
+- [[Anti_Inferno|El Descenso]] — campaign marco del que emerge este background post-descenso
 - [[General_Hessiano]] — figura de la Revolución Americana en Antiterra; contraparte antagonista de la misma era
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] — grupo paralelo que opera el mismo arquetipo revolucionario un siglo antes (1717-1784 [[Anno_Domini_Antiterra_ADA|A.D.A.]])
 - [[Antiterra_Demonia|Antiterra]] — plano donde la Revolución Americana se juega con variaciones diabolicas

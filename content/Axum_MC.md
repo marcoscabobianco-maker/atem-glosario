@@ -1,5 +1,5 @@
 ---
-title: "Axum (MC)"
+title: "Axum (ciclo)"
 categoria: lugar
 tags:
  - "lugar"
@@ -11,7 +11,7 @@ tags:
  - "ge"
  - "obeliscos"
 aliases:
- - "Axum (MC)"
+ - "Axum (ciclo)"
  - "MC"
  - "Axum"
 ---

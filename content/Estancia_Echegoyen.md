@@ -39,7 +39,7 @@ Es el dominio del Pupe en su escala más cotidiana: tierra, ganado, tranqueras y
 
 La estancia entra en la gesta cuando el grupo que el [[Operativo_Condor|Operativo Cóndor]] arrastró hasta el descenso rescata a la abuela de la mazmorra de la cofradía batracia. Agradecido, el Pupe abre las tranqueras de su casa y toma a los recién llegados como invitados y protegidos. El casco se vuelve entonces **base de operaciones**: durante unos dos meses —ya entrado el verano de 1967— el grupo se acoge ahí para curarse, leer, bucear, ordenar lo que trae de las islas y de la costa, e investigar lo que la cofradía de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]] persigue bajo las olas. Es desde la estancia, al amparo del patrón, donde planean el siguiente movimiento.
 
-Pero el refugio tiene la forma de quien lo presta. La protección del Pupe viene con condiciones, y su "justicia" es la del estanciero que decide por mano propia quién merece amparo y quién castigo. La estancia es, así, refugio y jaula amable a la vez: descanso protegido mientras conviene, trampa cordial en cuanto se le cruza la voluntad al dueño. Es la cara terrenal y argentina de la gesta —el casco de campo con su tren muerto y sus cascadas— justo antes de que el abismo de [[Nyarlathotep|Tulu]], al que rinde culto la cofradía del fondo, vuelva pequeña cualquier disputa de tranqueras.
+Pero el refugio tiene la forma de quien lo presta. La protección del Pupe viene con condiciones, y su "justicia" es la del estanciero que decide por mano propia quién merece amparo y quién castigo. La estancia es, así, refugio y jaula amable a la vez: descanso protegido mientras conviene, trampa cordial en cuanto se le cruza la voluntad al dueño. Es la cara terrenal y argentina de la gesta —el casco de campo con su tren muerto y sus cascadas— justo antes de que el abismo de [[Cthulhu]], al que rinde culto la cofradía del fondo, vuelva pequeña cualquier disputa de tranqueras.
 
 ---
 
@@ -49,10 +49,10 @@ Pero el refugio tiene la forma de quien lo presta. La protección del Pupe viene
 - [[Abuela_Echegoyen]] — la vieja del Pupe, matriarca de la casa, rescatada de la cofradía
 - [[Jorge_Moreno]] — el capanga que guarda el casco a campo abierto
 - [[Operativo_Condor]] — el descenso que arrastró al grupo hasta la órbita de la estancia
-- [[Orden_Esoterica_de_Dagon]] — la cofradía de Tulu cuyos planes se investigan al amparo del casco
+- [[Orden_Esoterica_de_Dagon]] — la cofradía de Cthulhu cuyos planes se investigan al amparo del casco
 - [[Citroen_2CV]] — el cacharro robado de tierra firme cuyo origen el Pupe encubre
 - [[El_hijo_hibrido]] — la cría de la misma cofradía y el mismo descenso
-- [[Nyarlathotep]] — Tulu, el abismo del fondo ante el que la disputa rural se vuelve menuda
+- [[Nyarlathotep]] — Cthulhu, el abismo del fondo ante el que la disputa rural se vuelve menuda
 
 ---
 

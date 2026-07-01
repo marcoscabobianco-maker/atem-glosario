@@ -41,3 +41,13 @@ En el cosmos compartido, Limbo opera como:
 - [[Ysgard]] (otro plano exterior)
 - [[El_Abismo|el Abismo]] (caos, pero maligno)
 - [[Sigil]] (centro planar)
+
+---
+
+## Capa interna [R]
+
+> No diegético; no entra a productos públicos.
+
+- **Fuente externa:** *Manual of the Planes* (TSR/WotC, varias ediciones), *Planescape Campaign Setting*. Limbo = plano Chaotic Neutral de la Great Wheel; la Marcha de los Modrones lo cruza cada 289 años.
+- **Palimpsesto:** importación cosmológica sin reinterpretación profunda — el plano del caos puro.
+- **Pendientes:** ¿algún compañero visitó Limbo, y cuándo? ¿los githzerai tienen presencia concreta o son referencia? ¿relación con el [[Juego_de_las_Sombras]] / [[Plataformas_Zodiacales_Guardianes_TNW]]?

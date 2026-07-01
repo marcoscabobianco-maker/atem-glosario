@@ -22,7 +22,7 @@ Figura histórica real. Jorge ([[Black_George|Karađorđe]]) fue legendario líd
 **[[Historia_real]]:**
 - Nacimiento: ~1768
 - Liderazgo: Primera Revuelta Serbio (1804-1817) contra imperio otomano
-- [[Muerte]]: ~1817 (asesinado por rival político Miloš Obrenović)
+- Muerte: ~1817 (asesinado por rival político Miloš Obrenović)
 - Legado: Fundador de dinastía Karađorđević; símbolo de libertad serbio
 
 **En [[Paris_Ucronica|París Ucrónica]]:**

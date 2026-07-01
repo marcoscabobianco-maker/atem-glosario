@@ -20,8 +20,11 @@ tags:
  - conspirador
  - fusion-temporal
  - aby-warburgo
-imagen: null
+imagen: Imagenes_Tier1/Cvjetko_Popovic.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cvjetko_Popovic.png]]
+<!-- /HEADER_IMG -->
 
 > *"En la historia común se le recuerda por su edad. En el archivo uchrónico se le recuerda por su otro cuerpo: el del erudito que lo habitó por unas horas para corregir el atentado."*
 

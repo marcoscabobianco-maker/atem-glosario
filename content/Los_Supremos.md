@@ -107,7 +107,7 @@ En paralelo a la consolidación del nuevo orden, **aparecen Cuatro espejos negro
 Hay líneas que el Triunvirato deja activas:
 
 - **Los guardianes ejecutados en Venecia del pasado** — cabo suelto del cierre
-- **Quién decapitó a [[Kronamon]] en 1120** — pregunta abierta
+- **Quién decapitó a [[Chronomon|Kronamon]] en 1120** — pregunta abierta
 - **Quiénes sostienen la Ucronía de París** — las estrellas, los Inevitables y demás
 - **[[Rantar_Alfa]], Nexus, ciudad de 144.000 elegidos** — ¿fue deshecha? Y las **almas raptadas desde el evento de la Torre Eiffel**. Lugar del nacimiento de los dioses
 - **Las afueras de la NOBISKRUG**, las cercanías de la espina
@@ -176,7 +176,7 @@ El archivo conserva el desenlace: **Arian gana Los Supremos** (referencia *"Supr
 - **Annunaki** — quizás creadores contra los Elohim; 12 Dragones camuflados del Neo Rex
 - **[[Escalera_Infinita]] de Nimrolath** — desde donde los Word Breakers vieron el ascenso del Triunvirato
 - [[The_Word_Breakers|Word Breakers]] — testigos del ascenso
-- [[Kronamon]] — decapitado en 1120, cabo suelto
+- [[Chronomon|Kronamon]] — decapitado en 1120, cabo suelto
 - [[Corvino|Corvino]] — conexión a [[Paris_Ucronica|París Ucrónica]]
 - [[Paris_Ucronica|París Ucrónica]] — escenario conectado por [[Corvino]]
 - [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]], [[Vala_Cristalis]] — salida tetrádica

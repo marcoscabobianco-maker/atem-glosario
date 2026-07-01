@@ -17,7 +17,12 @@ aliases:
  - "Joaquín Balaguer"
  - "Balaguer"
  - "Presidente de la República Dominicana"
+imagen: Imagenes_Tier1/Dr_Joaquin_Balaguer.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Dr_Joaquin_Balaguer.png]]
+<!-- /HEADER_IMG -->
 
 > *Donde concluye América. Quinientos años desde la primera luz.*
 

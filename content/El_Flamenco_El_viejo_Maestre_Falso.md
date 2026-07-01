@@ -32,8 +32,8 @@ aliases:
 - Poseído/controlado por demonio, intentando sabotaje
 - Factotum de [[Elizabeth_de_Beauvois|Elizabeth de Beauvois]] (hipótesis)
 
-**Mecánicas especiales:**
-- Contingencia de teleport (: preparación de "exit strategy")
+**Poderes singulares:**
+- Contingencia de teletransporte —su plan de fuga—
 - Capacidad de detectar magia
 - Conocimiento de historia de la madera/vampiro
 
@@ -43,5 +43,5 @@ aliases:
 
 - [[Identidad_pre-TE03|Identidad anterior]]
 - Identidad en la jornada del falso Maestre
-- Mecánicas especiales
+- Poderes singulares
 - Preguntas abiertas

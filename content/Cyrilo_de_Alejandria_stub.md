@@ -1,5 +1,5 @@
 ---
-title: "Cyrilo de Alejandría (stub)"
+title: "Cyrilo de Alejandría"
 categoria: personaje
 tags:
  - "personaje"
@@ -14,9 +14,7 @@ aliases:
 
 ## Presentación
 
-[[Patriarca]] de [[Alejandria|Alejandría]] como su tío **Teófilo**. Nació en 376 en Theodosios, Egipto. Sobrino de Teófilo de [[Alejandria|Alejandría]] (patriarca 385-412). Contemporáneo de la época de [[Pablo_de_Alejandria|Pablo de Alejandría]].
-
-*Fuente primaria:* el Documento Skronamon.
+La crónica lo registra [[Patriarca]] de [[Alejandria|Alejandría]], heredero de la silla de su tío Teófilo, patriarca antes que él. Nacido en 376 en Theodosios, en tierra de Egipto, sobrino de aquel Teófilo que gobernó la sede entre 385 y 412, vivió en los días de [[Pablo_de_Alejandria|Pablo de Alejandría]]. Así lo asienta el Documento Skronamon.
 
 ## Ver también
 

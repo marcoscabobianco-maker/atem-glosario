@@ -1,5 +1,5 @@
 ---
-title: "Reunidos, los (TG)"
+title: "Reunidos, los (Torregrises)"
 categoria: grupo
 tags:
  - "facción"
@@ -8,7 +8,7 @@ tags:
  - "creación"
  - "galeón"
 aliases:
- - "Reunidos, los (TG)"
+ - "Reunidos, los (Torregrises)"
  - "Reunidos, los"
  - "Los Reunidos"
 ---

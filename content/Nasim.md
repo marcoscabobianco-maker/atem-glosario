@@ -19,7 +19,7 @@ aliases:
 
 Madre de **[[Clarisa]]** (III). Pareja de **[[Arcoms_Cosmar|Arcoms Cosmar]]**. Única mención documental:
 en 1354 DR nace [[Clarisa|Clarissa]] (hija de [[Arcoms_Cosmar|Arcoms]] y Nasim) en Brightwater,
-[[Arborea_Eden_CDI|Arborea]]. No hay otras apariciones en glosarios, cuadernos procesados ni Taller de Rol.
+[[Arborea_Eden_CDI|Arborea]]. No hay otras apariciones registradas en el archivo.
 
 *Relaciones:* Pareja de **[[Arcoms_Cosmar|Arcoms Cosmar]]**. Madre de **[[Clarisa]]**.
 

@@ -21,8 +21,11 @@ tags:
  - papa-dont-lich
  - aplastado-por-giganta
  - 1812-ae
-imagen: null
+imagen: Imagenes_Tier1/Papa_Borg_de_Caldero.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Papa_Borg_de_Caldero.png]]
+<!-- /HEADER_IMG -->
 
 > *"El maldito, aferrado a su trono portátil, no pudo concretar su transformación y fue aplastado por la fuerza implacable de la giganta, que implosionó dejando un breve cráter."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

@@ -54,7 +54,7 @@ imagen: null
 - **[[Glastumville]]** — sede actual y centro de operaciones
 - **[[Ritornello]]** — sede comercial antigua, **destruida por el [[El_Huevo_de_Ritornelo|Huevo de Ritornelo]]** en el cierre del ciclo primero
 - **Rutas hacia [[Gosterwick]]** — comercio menor con la población al pie de la Gran Cascada
-- **Sub-niveles del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]** *(operación clandestina sospechada, con contactos con facciones del dungeon)*
+- **Sub-niveles del [[Mega_Dungeon_Arden_Vul|mega-mazmorra de Ardisvala]]** *(operación clandestina sospechada, con contactos con facciones del dungeon)*
 
 *La pérdida de [[Ritornello]]* **fue golpe mayor para la Hermandad**: *gran parte del archivo comercial se perdió*, *figuras menores de la cofradía murieron en la caída*, *la operación logística tuvo que reorganizarse hacia Glastumville como centro único*. **[[Wicktrimmer]] asumió la dirección plena tras la catástrofe**; *previamente operaba como segundo*.
 

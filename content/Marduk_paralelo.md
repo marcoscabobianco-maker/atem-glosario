@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Marduk_paralelo.png]]
 <!-- /HEADER_IMG -->
 
-Marduk decapitando a [[Avishai_draconicos_Tiamat|Tiamat]], 4-eyed visor.
+La lámina muestra a Marduk en el instante de decapitar a [[Avishai_draconicos_Tiamat|Tiamat]]. Lo cubre un visor de cuatro ojos, rasgo que el archivo guarda de esta versión paralela del dios.

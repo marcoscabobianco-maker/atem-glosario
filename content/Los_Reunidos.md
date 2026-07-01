@@ -27,3 +27,12 @@ En la gesta de la *familia Atias*, el Barco de los Reunidos ('La Reunita') apare
 ## Ver también
 
 - [[Mohlitz|Mohlitz]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente visual:** Mohlitz como inspiración para la escena de los Reunidos (C42 líneas 341-342, 2010); stub "Reunidos los" en Catálogo MC.
+- **Fuente:** el Epílogo del ciclo — La Reunita, nave de Wako.

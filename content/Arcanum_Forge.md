@@ -1,6 +1,6 @@
 ---
 title: "Arcanum Forge"
-título: "Arcanum Forge (Forja del Arcanum)"
+título: "Arcanum Forge"
 slug: Arcanum_Forge
 categoria: lugar
 aliases:
@@ -42,7 +42,7 @@ La **Arcanum Forge** —*Forja del Arcanum*— es **artefacto cosmológico sorti
 
 ### Restauración
 
-**[[Nerub_Null]]** —archmage Priscian— la **restauró parcialmente** hace algunas décadas tras redescubrir el compound. **Aún no domina todos los secretos**:
+**[[Nerub_Null]]** —archimago Priscian— la **restauró parcialmente** hace algunas décadas tras redescubrir el compound. **Aún no domina todos los secretos**:
 
 - ✅ Producción de Priscian equipment funcional
 - ✅ Activación de semillas (confirmada)
@@ -77,7 +77,7 @@ La **Arcanum Forge** —*Forja del Arcanum*— es **artefacto cosmológico sorti
 - [[Sortianos]] — orden histórica creadora
 - [[Priscians]] — herederos modernos
 - [[Nerub_Null]] — archmage restaurador
-- [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo Floor of Great Chasm]] — nivel
+- [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo Suelo del Gran Abismo]] — nivel
 - Jornada 17 [[Ardis_Vala]] — evento del árbol
 - [[RAJ-750]] — semilla activada
 - [[Arbol_de_Armas_Principal]] — producto cósmico

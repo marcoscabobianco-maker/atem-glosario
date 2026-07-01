@@ -43,7 +43,7 @@ Su erudición lo lleva más allá de la cura. Frente al [[Libro_Azul]], estimó 
 
 ## La captura a las puertas de la ciudad temporal
 
-Al llegar el grupo a [[Paris_Ucronica|París Ucrónica]], Michel **se apagó a la entrada** — capturado por fuerzas temporales, presumiblemente el Guardián del Tiempo revelado en la incursión al plano astral, o por mano demoníaca. Llevaba consigo el **[[Reloj_de_Destino]]** —la detención del tiempo, la resurrección verdadera—. Su ausencia debilitó la capacidad del grupo de entender a [[Cronomon_Heredeth|Cronomon]] y al Reloj; su **rescate** se volvió objetivo de la jornada siguiente — *liberar a Michel era la clave para volver el Reloj contra el dios del Tiempo*.
+Al llegar el grupo a [[Paris_Ucronica|París Ucrónica]], Michel **se apagó a la entrada** — capturado por fuerzas temporales, presumiblemente el Guardián del Tiempo revelado en la incursión al plano astral, o por mano demoníaca. Llevaba consigo el **[[Reloj_de_Destino]]** —la detención del tiempo, la resurrección verdadera—. Su ausencia debilitó la capacidad del grupo de entender a [[Chronomon|Cronomon]] y al Reloj; su **rescate** se volvió objetivo de la jornada siguiente — *liberar a Michel era la clave para volver el Reloj contra el dios del Tiempo*.
 
 ## Vínculos
 

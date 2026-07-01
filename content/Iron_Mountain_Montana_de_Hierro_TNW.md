@@ -1,5 +1,5 @@
 ---
-title: "Iron Mountain / Montaña de Hierro (TNW)"
+title: "Iron Mountain / Montaña de Hierro (Mundo Nuevo)"
 categoria: lugar
 tags:
  - "gary-tnw"
@@ -7,9 +7,9 @@ tags:
  - "portal-hub"
  - "cosmic"
 aliases:
- - "Iron Mountain / Montaña de Hierro (TNW)"
+ - "Iron Mountain / Montaña de Hierro (Mundo Nuevo)"
  - "Iron Mountain"
- - "Montaña de Hierro (TNW)"
+ - "Montaña de Hierro (Mundo Nuevo)"
  - "TNW"
  - "Iron Mountain / Montaña de Hierro"
 ---
@@ -25,3 +25,12 @@ A esos seis, el archivo suma otros seis anotados en celeste: **1788** (las Dos C
 - [[Imperia_Alta_Ra|Imperia Alta Ra]]
 - [[Tana_del_Lupo|Tana del Lupo]]
 - [[Apocalypse_World_Campana_Pandemia|2087 — la Pandemia del Mundo Nuevo]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa.
+
+- **Ref. cuaderno:** 9 ("Iron Mountain"), resumen –190; lista de portales corregida y expandida el 23 mar 2026.
+- **Sistema por portal:** 1987 → Lords of Creation; 2227 → ¿D&D 5e?; 2087 → Apocalypse World (jugado durante la pandemia).

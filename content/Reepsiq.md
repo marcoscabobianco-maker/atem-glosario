@@ -1,6 +1,6 @@
 ---
-title: "Reepsiq, el Great Tongue"
-título: "Reepsiq, el Great Tongue"
+title: "Reepsiq, el Gran Lengua"
+título: "Reepsiq, el Gran Lengua"
 slug: Reepsiq
 categoria: personaje
 aliases:
@@ -20,17 +20,22 @@ tags:
  - kauket
  - ziggurat
  - cuerno-verde-palido
+imagen: Imagenes_Tier1/Reepsiq.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Reepsiq.png]]
+<!-- /HEADER_IMG -->
 
 > *Único diplomático posible para los heqeti. Alto sacerdote de Kauket. Espera el cuerno espiral verde pálido para invocar a su príncipe demonio.*
 
 ## Presentación
 
-**Reepsiq, el Great Tongue** —*El Gran Lengua*— es el **alto sacerdote actual del culto de Kauket** y **líder de facto de los [[Heqeti]]** en el [[Ziggurat_de_Kauket|Ziggurat de Kauket]] del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon Arden Vul]]. Su **aposento corona las Cámaras del Norte**.
+**Reepsiq, el Gran Lengua** —*El Gran Lengua*— es el **alto sacerdote actual del culto de Kauket** y **líder de facto de los [[Heqeti]]** en el [[Ziggurat_de_Kauket|Ziggurat de Kauket]] del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra Ardis Vala]]. Su **aposento corona las Cámaras del Norte**.
 
-### El cargo de "Great Tongue"
+### El cargo de "Gran Lengua"
 
-Entre los heqeti, el título de **"Tongue"** designa al **vocero** y diplomático principal —el único miembro de la raza capaz de **negociar** con foráneos sin sufrir psíquica o ritualmente—. El **Great Tongue** (Gran Lengua) es el **vocero principal del culto a Kauket**, jerarquía suprema.
+Entre los heqeti, el título de **"Tongue"** designa al **vocero** y diplomático principal —el único miembro de la raza capaz de **negociar** con foráneos sin sufrir psíquica o ritualmente—. El **Gran Lengua** (Gran Lengua) es el **vocero principal del culto a Kauket**, jerarquía suprema.
 
 Subordinados:
 - **Pikaressa the Second Tongue** — segundo en el cargo

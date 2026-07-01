@@ -17,7 +17,12 @@ aliases:
  - "La viuda Brockford"
  - "Viuda Brockford"
  - "La viuda de Casa Brockford"
+imagen: Imagenes_Tier1/Betsy_Clark.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Betsy_Clark.png]]
+<!-- /HEADER_IMG -->
 
 > *La isleña que abre la puerta. Hospitalaria de fachada, dueña del umbral por donde la gesta del Atlántico Sur baja a lo profundo.*
 
@@ -25,7 +30,7 @@ aliases:
 
 Cuando los cóndores reparten a los pasajeros por las casas de la isla al caer la noche, hay una puerta que se abre con una sonrisa de más. La mujer que recibe a los recién llegados del [[Operativo_Condor|Operativo Cóndor]] se llama Betsy Clark —el cuaderno 99 la registra con su otro nombre, el de viuda de **Casa Brockford**, y el archivo terminó de fijar su nombre completo: **Betsy Ann Clark**, huida de Brockford. Las dos grafías designan a la misma viuda. Es ella la dueña del umbral: la gesta entra en lo sobrenatural por su puerta.
 
-La hospitalidad es de fachada. A quien la mira con verdadera atención —quien alcanza a ver lo que está debajo— se le tuerce algo en la mirada de ella. La casa guarda señas que ninguna viuda isleña debería tener: fotos de un hombre que pudo ser oficial de la Segunda Guerra, un revólver del treinta y ocho bajo la cama, y, en algún rincón, prendas sin costura. Esos **trajes sin costura** son la primera de las señas que más tarde se revelan como una sola cosa: la marca de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]], la cofradía batracia que adora a Tulu desde el fondo del mar. Betsy no acoge a los argentinos: los estudia, y juega a recibirlos sin que sepan a qué casa han entrado.
+La hospitalidad es de fachada. A quien la mira con verdadera atención —quien alcanza a ver lo que está debajo— se le tuerce algo en la mirada de ella. La casa guarda señas que ninguna viuda isleña debería tener: fotos de un hombre que pudo ser oficial de la Segunda Guerra, un revólver del treinta y ocho bajo la cama, y, en algún rincón, prendas sin costura. Esos **trajes sin costura** son la primera de las señas que más tarde se revelan como una sola cosa: la marca de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]], la cofradía batracia que adora a Cthulhu desde el fondo del mar. Betsy no acoge a los argentinos: los estudia, y juega a recibirlos sin que sepan a qué casa han entrado.
 
 ## La que sabe lo que viene
 
@@ -33,7 +38,7 @@ Cuando habla en público, Betsy "mete algo de piedras" en su discurso —deja ca
 
 ## La madre del híbrido
 
-Su tragedia, sin embargo, no es cósmica sino doméstica. Betsy es la madre de [[El_hijo_hibrido|el hijo híbrido]]: un muchacho que por ella es humano y por el padre ausente carga la sangre de los Profundos, y que está en plena metamorfosis hacia lo anfibio. El hijo quiere descender, seguir al padre al abismo donde la familia verdadera lo espera bajo las olas; la madre lo retiene en la superficie y en lo humano. Esa pelea de madre e hijo, recortada contra el fondo abisal del Mythos, da la nota más reconociblemente humana de todo el horror malvinense. Betsy pertenece a la Orden y prepara la venida de Tulu, pero al mismo tiempo sostiene a su hijo del lado de la tierra: es a la vez sacerdotisa del umbral y mujer que no quiere perder a su muchacho en el mar.
+Su tragedia, sin embargo, no es cósmica sino doméstica. Betsy es la madre de [[El_hijo_hibrido|el hijo híbrido]]: un muchacho que por ella es humano y por el padre ausente carga la sangre de los Profundos, y que está en plena metamorfosis hacia lo anfibio. El hijo quiere descender, seguir al padre al abismo donde la familia verdadera lo espera bajo las olas; la madre lo retiene en la superficie y en lo humano. Esa pelea de madre e hijo, recortada contra el fondo abisal del Mythos, da la nota más reconociblemente humana de todo el horror malvinense. Betsy pertenece a la Orden y prepara la venida de Cthulhu, pero al mismo tiempo sostiene a su hijo del lado de la tierra: es a la vez sacerdotisa del umbral y mujer que no quiere perder a su muchacho en el mar.
 
 ## Notas
 

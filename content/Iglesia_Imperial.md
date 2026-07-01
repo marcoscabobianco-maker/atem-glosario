@@ -141,7 +141,7 @@ La pregunta doctrinal que **el archivo no resuelve**: **¿Son los Diez y los Doc
 
 En **[[Ritornello]]**, antes de la caída: **Templo de la Divina Década**. **[[Padre_Belias]]** lo regentaba con devoción ardiente —*"ferviente en la fe nueva"*, lo registra el archivo—; **[[Argus_PJ|el Barón Argus]]** asistía como devoto público.
 
-En **[[Ardis_Vala|Ardis Vala superficie y dungeon]]**: **templos antiguos de [[Thoth]] y [[Set]]**, *epicentros simbólicos de la fe vieja*. **[[Halls_of_Thoth_Nivel|Halls of Thoth]] en los Halls of Thoth**, **[[Forum_de_Set|Foro de Set]] en el Forum de Set** —*la cámara octogonal con los rubíes de [[Priscus_Pulcher]]*—, otros santuarios menores en niveles intermedios. *La Ortodoxia tolera la existencia material de estos templos como ruinas arqueológicas; condena su reactivación cultual*.
+En **[[Ardis_Vala|Ardis Vala superficie y dungeon]]**: **templos antiguos de [[Thoth]] y [[Set]]**, *epicentros simbólicos de la fe vieja*. **[[Halls_of_Thoth_Nivel|Salones de Thoth]] en los Salones de Thoth**, **[[Forum_de_Set|Foro de Set]] en el Forum de Set** —*la cámara octogonal con los rubíes de [[Priscus_Pulcher]]*—, otros santuarios menores en niveles intermedios. *La Ortodoxia tolera la existencia material de estos templos como ruinas arqueológicas; condena su reactivación cultual*.
 
 En **[[Glastumville]]**: **capilla improvisada a [[Mitra]]** —los Diez en versión popularizada—, **y santuario clandestino a [[Thoth]]** que algunos magos del séquito de **[[Sir_Glastum|Sir Glastum]]** mantienen *con la tolerancia muda del alcaide*. *Esto último, que la Ortodoxia ignora oficialmente, el archivo decadiano lo registra como dato operativo*.
 

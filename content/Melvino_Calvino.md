@@ -24,7 +24,7 @@ tags:
 
 ## Presentación
 
-**Melvino Calvino**, también conocido como **El Pingüinoide** o **Sirpe**, es **compañero del grupo** en la gesta **[[Arden_Vul]]**. Es **el más ligado a lo espacial/extraplanar del grupo** —el lado sci-fi que [[Ardis_Vala|Arden Vul]] admite a través de los **rudishva** y el **Beacon**—.
+**Melvino Calvino**, también conocido como **El Pingüinoide** o **Sirpe**, es **compañero del grupo** en la gesta **[[Arden_Vul]]**. Es **el más ligado a lo espacial/extraplanar del grupo** —el lado sci-fi que [[Ardis_Vala|Ardis Vala]] admite a través de los **rudishva** y el **Beacon**—.
 
 ### Aspecto y equipamiento
 
@@ -62,6 +62,6 @@ En el grupo, Melvino aporta:
 
 ## Apariciones
 
-- [[Ardis_Vala|Arden Vul]] 
+- [[Ardis_Vala|Ardis Vala]] 
 - **el archivo** — primera aparición documentada en archivos (junto a [[Caladan]] emergiendo del sarcófago y el Druida)
 - Jornadas siguientes — equipamiento tecnológico desplegado

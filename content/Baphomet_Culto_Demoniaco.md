@@ -23,7 +23,7 @@ En la cosmología compartida, [[Baphometa|la Baphometa]] remite al demonio prín
 
 - [[Paris_Ucronica|París Ucrónica]] — ciudad donde el culto opera como infraestructura industrial y religiosa de masas
 - [[Baphometa|la Baphometa]] — entidad hija/emanación de Baphomet presente en el ciclo
-- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — la facción que enfrenta al culto desde la operación al [[Temple_complejo_TE|Temple]]
+- [[Campana_Templarios_TE|Gesta Templarios]] — la facción que enfrenta al culto desde la operación al [[Temple_complejo_TE|Temple]]
 - [[Patio_del_Temple|Patio del Temple]] — espacio templario de resistencia frente a la expansión del culto
 - [[Arsvan|Ärsvan]] — entidad laberíntica del ciclo; su dominio del laberinto resuena con el [[Abismo]] de Baphomet (Capa 600)
 - [[Arkane_Society|Arkane Society]] — facción antagónica que puede converger con el culto en la búsqueda de artefactos sagrados

@@ -53,7 +53,7 @@ El número doce conecta con la geometría recurrente del mundo (12 plataformas z
 
 ### El vestiario de Vala
 
-El archivo aclaró: los Annunaki vs Elohim **se han trabajado utilizando el vestiario de [[Vala]]** —el cosmos trans-fases ([[Vala_Antigua]], Medioevo, [[Ardis_Vala|Arden Vul]])—, **no de un canon foráneo**. La referencia foránea, si la hubo, es **menor** y **no central** al desarrollo de los Annunaki en el ciclo. Lo que importa es la matriz del vestiario propio del cosmos Vala —donde los doce dragones camuflados aparecen con su talla y su línea narrativa específica—. La aclaración corrige una imprecisión previa del archivo que vinculaba a los Annunaki con vestiario foráneo.
+El archivo aclaró: los Annunaki vs Elohim **se han trabajado utilizando el vestiario de [[Vala]]** —el cosmos trans-fases ([[Vala_Antigua]], Medioevo, [[Ardis_Vala|Ardis Vala]])—, **no de un canon foráneo**. La referencia foránea, si la hubo, es **menor** y **no central** al desarrollo de los Annunaki en el ciclo. Lo que importa es la matriz del vestiario propio del cosmos Vala —donde los doce dragones camuflados aparecen con su talla y su línea narrativa específica—. La aclaración corrige una imprecisión previa del archivo que vinculaba a los Annunaki con vestiario foráneo.
 
 ### Wichi-Lobos y Cabezas de Piedra
 

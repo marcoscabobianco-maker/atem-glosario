@@ -14,7 +14,7 @@ tags:
  - tarot
  - arcanos
  - poker-de-hostias
- - deck-of-many-things
+ - mazo-de-muchas-cosas
  - corazones
  - convocacion
  - antiterra
@@ -45,7 +45,7 @@ Estos arcanos **no se invocan**: se ponen sobre el altar y suben solos. Lo hacen
 En el archivo, sus apariciones coinciden con momentos de **arbitraje cosmológico** —partidas donde se decide más que las cartas en la mesa—:
 
 - **El [[Poker_de_Hostias]]** en [[Paris_Ucronica|París Ucrónica]], vísperas de la Revolución
-- Mesas del **[[Arcanos_Tarot_Deck_of_Many_Things|Deck of Many Things]]** en sedes laterales del Cisma
+- Mesas del **[[Arcanos_Tarot_Deck_of_Many_Things|Mazo de Muchas Cosas]]** en sedes laterales del Cisma
 - Ciertos **ritos atlantes** que la doctrina apresurada confundió con tirada de cartas y la doctrina paciente registró como reparto cósmico
 
 *El cronista, que ha visto barajas parecidas, no aconseja sentarse a la mesa sin haber averiguado quién baraja.*
@@ -55,7 +55,7 @@ En el archivo, sus apariciones coinciden con momentos de **arbitraje cosmológic
 ## Vínculos
 
 - [[Poker_de_Hostias]] — el juego mayor donde estos arcanos circulan
-- [[Arcanos_Tarot_Deck_of_Many_Things|Deck of Many Things]] — baraja mayor de la que estos arcanos son piezas
+- [[Arcanos_Tarot_Deck_of_Many_Things|Mazo de Muchas Cosas]] — baraja mayor de la que estos arcanos son piezas
 - [[Asmodeus]] — cuya corona la lleva el Rey
 - [[Les_Libertateurs_Pretty_Women]] — grupo que más se cruzó con el [[Poker_de_Hostias]]
 - [[Paris_Ucronica]] — sede recurrente de las partidas
@@ -63,4 +63,4 @@ En el archivo, sus apariciones coinciden con momentos de **arbitraje cosmológic
 ## Apariciones
 
 - **Mesas del [[Poker_de_Hostias]]** — convocación ritual con apertura del juego mayor
-- **Tiradas del Deck of Many Things** — manifestación menor cuando la carta de Corazones sale del paquete
+- **Aperturas del Mazo de Muchas Cosas** — manifestación menor cuando la carta de Corazones sale del paquete

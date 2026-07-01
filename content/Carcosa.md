@@ -15,7 +15,7 @@ aliases:
 
 **Carcosa** es la ciudad cosmológica anterior al cómputo cristiano, asentada junto al **lago Hali**, bajo un cielo que ningún astrónomo ha conseguido encajar en mapa conocido. Es el dominio de [[Rey_Amarillo_King_in_Yellow|el Rey Amarillo]] —el de la Máscara Pálida—, cuyo nombre, como el de los demás entronizados, se atribuye al lugar que ocupa y no a la persona que pudiera ser. La doctrina prudente sostiene que Carcosa no está lejos: está aquí mismo, separada por un doblez que se abre cuando alguien termina de leer la obra que no se nombra. El cuaderno del Plata oscila al escribir su nombre y la asienta unas veces como **Carcosa** y otras como **Tarcosa** o **Tarkosa**, según ronde la fórmula de que *"Tarkosa se ve solo desde el lago Hali"*.
 
-## En Malvinas (Tulu — 1966)
+## En Malvinas (Cthulhu — 1966)
 
 Hay otra puerta a Carcosa, y no se abre leyendo: se abre soñando. En el descenso austral de 1966 —el viaje que arranca en el secuestro del avión a las islas y termina al pie del [[Faro_de_Claromeco|faro de Claromecó]]— la [[Circonio_Piedra_Azul|piedra azul]] que la [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] despierta no abre una puerta en el espacio sino en el sueño. Activada la piedra, quienes están cerca caen juntos en un **sueño compartido**: no cada uno el suyo, sino todos el mismo, como si la piedra fuera un proyector y los durmientes una sola platea.
 
@@ -37,6 +37,7 @@ Esta entrada es mencionada desde:
 - [[Faro_de_Claromeco]]
 - [[Circonio_Piedra_Azul]]
 - [[Faccion_Amarilla_Carcosa]]
+- [[Rey_Amarillo_Carcosa_MYM]] — el marco amarillo en *Never 9-11* / Earth-212
 
 ## Vínculos
 
@@ -46,7 +47,7 @@ Esta entrada es mencionada desde:
 - [[Faro_de_Claromeco]] — el faro austral donde el rito de 1966 abre la puerta onírica
 - [[Circonio_Piedra_Azul]] — la piedra que proyecta el sueño compartido; después, el huevo que encierra la tierra de los dos soles
 - [[Orden_Esoterica_de_Dagon]] — la cofradía batracia que despierta la piedra
-- [[Nyarlathotep]] — Tulu, lo que sueña en el fondo
+- [[Nyarlathotep]] — Cthulhu, lo que sueña en el fondo
 
 ## Notas
 

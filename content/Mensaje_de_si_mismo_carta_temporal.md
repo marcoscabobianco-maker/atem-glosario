@@ -61,5 +61,5 @@ Lo que la carta dice **no es lo importante**. *Lo importante es el reconocimient
 
 <!-- CICLO -->
 > **Casas del ciclo** · ⏳
-> *Carta que viaja por el tiempo y no por el espacio: [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] la escribe en un instante y la recibe en otro, emisor y receptor la misma persona en líneas de vida distintas. El tiempo aquí es algo que se gasta y se cobra — afín al [[Hilo_Dorado_Sucronico|Hilo Dorado]] y al [[Ripple_Effect|Ripple Effect]] —, y la trampa cronomántica no es el contenido sino el reconocimiento: cuando Olaus reconoce su propia letra, las dos líneas quedan cosidas y no hay vuelta. Atestada en la [[Constantinopla_Ucronica_1055_CE|Constantinopla de 1055]].* — glosa de Paulus.
+> *Carta que viaja por el tiempo y no por el espacio: [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] la escribe en un instante y la recibe en otro, emisor y receptor la misma persona en líneas de vida distintas. El tiempo aquí es algo que se gasta y se cobra — afín al [[Hilo_Dorado_Sucronico|Hilo Dorado]] y al [[Ripple_Effect|Efecto en Cascada]] —, y la trampa cronomántica no es el contenido sino el reconocimiento: cuando Olaus reconoce su propia letra, las dos líneas quedan cosidas y no hay vuelta. Atestada en la [[Constantinopla_Ucronica_1055_CE|Constantinopla de 1055]].* — glosa de Paulus.
 <!-- /CICLO -->

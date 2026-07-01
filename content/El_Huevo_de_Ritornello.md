@@ -46,7 +46,7 @@ Es **el dispositivo que destruyó la ciudad de [[Ritornello]] hace 15 años** �
 
 #### En el dungeon (pre-corrida original)
 
-- **Custodia original**: módulo de armas rudishva, **Troll Lifts Lock Cavern**, bajo [[RAJ-750]] (IA insana)
+- **Custodia original**: módulo de armas rudishva, **Elevadores de los Trolls Lock Cavern**, bajo [[RAJ-750]] (IA insana)
 - **Posible posesión secundaria**: **[[Psalor_Ki]]** **lo guardó en algún momento** —*"hizo un lazo con una Marguerite y en un momento incluso guardó el huevo"*— posible **manipulación experimental rudishva**
 
 #### Negociación con los Buscadores (corrida original)
@@ -86,7 +86,7 @@ Los **Varumani** —que **tenían el huevo y participaron de la violencia**— *
 
 ** documenta**: los Buscadores tienen **responsabilidad parcial directa**. Habiendo entregado el huevo a la facción que lo detonó, **no son inocentes**. **Esto es ancla narrativa**:
 
-- **[[Caladan]]**, **Bayrum**, **Alumine**, **Sixto**, **Valerius/[[Valerius_Utrecht|Roderick]]**, **[[Melvino_Calvino]]**, **[[El_Druida_Rodrigo]]** — todos cargan el peso de Ritornello
+- **[[Caladan]]**, **Bayrum**, **Alumine**, **Sixto**, **Valerius/[[Valerius_Utrecht|Roderick]]**, **[[Melvino_Calvino]]**, **[[Numa_Pompidio|Numa Pompilio]]** — todos cargan el peso de Ritornello
 - **[[Decio_Balmora]]** (el regreso tras el Hiato) — perdió a [[Bellaca|Lali]] presumiblemente en Ritornello. **Su llegada al grupo es confrontación moral implícita**.
 
 ### Estado actual
@@ -97,7 +97,7 @@ Los **Varumani** —que **tenían el huevo y participaron de la violencia**— *
  - **Algún PC manipula los códigos rudishva** correctamente
  - **[[Akala|AKL-600]]** sirve como puente
 
-**Si los heqeti acceden al módulo de armas vía Buscadores manipulados**, pueden **detonar [[Ardis_Vala|Arden Vul]] completo** o invocar a Kauket con consecuencias catastróficas.
+**Si los heqeti acceden al módulo de armas vía Buscadores manipulados**, pueden **detonar [[Ardis_Vala|Ardis Vala]] completo** o invocar a Kauket con consecuencias catastróficas.
 
 ## Vínculos
 

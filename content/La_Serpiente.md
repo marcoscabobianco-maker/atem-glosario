@@ -12,7 +12,7 @@ aliases:
 
 ## Presentación
 
-[[Entidad]] con "sincronía absoluta." Asociada a Proteanismo (caos, mutabilidad, transformación, anti-estructura). Puede asumir múltiples formas e identidades. Opera a través de intermediarios humanos ([[Moni_Vivescu|Moni Vivescu]], posiblemente otros). Motivación aún oscura: ¿aliada del Etrusco o independiente? Representa fuerzas del caos en dualismo cósmico con poderes [[Inevitable|Inevitables]] (orden).
+Entidad con "sincronía absoluta." Asociada a Proteanismo (caos, mutabilidad, transformación, anti-estructura). Puede asumir múltiples formas e identidades. Opera a través de intermediarios humanos ([[Moni_Vivescu|Moni Vivescu]], posiblemente otros). Motivación aún oscura: ¿aliada del Etrusco o independiente? Representa fuerzas del caos en dualismo cósmico con poderes [[Inevitable|Inevitables]] (orden).
 
 **Familiar [[Culebra_Vacio|Culebra Vacío]]:** Proteano pequeño que limpia oídos con lengua bífida, mezcla pasado-presente-futuro. Sale de entre ropas de [[Moni_Vivescu|Mony]]. En combate se transforma en criatura demoníaca grande violácea con brazos ("polimor familiar"). Lanza coletazos físicos. Al morir la criatura, la serpiente vuelve a tamaño pequeño. Olor a azufre al disiparse (naturaleza demoníaca confirmada).
 
@@ -22,7 +22,7 @@ Promesas a [[Moni_Vivescu|Mony]] (riquezas e influencia a cambio de información
 
 ## Notas
 
-[[Entidad]] de ambigüedad ontológica. Sincronía absoluta sugiere conocimiento o control temporal. Caótica y mutable, opuesto a estructuras legales y jerárquicas de Etrusco y estado francés. Naturaleza demoníaca confirmada por [[El_Explorador_de_Gotland_Oratiol_manifestacion|manifestación]]: cuerpo violáceo, brazos proteanos, olor a azufre. Posible conexión a **Papá** (entidad demoníaca) o legiones infernales de [[Antiterra_Demonia|Antiterra]].
+Entidad de ambigüedad ontológica. Sincronía absoluta sugiere conocimiento o control temporal. Caótica y mutable, opuesto a estructuras legales y jerárquicas de Etrusco y estado francés. Naturaleza demoníaca confirmada por [[El_Explorador_de_Gotland_Oratiol_manifestacion|manifestación]]: cuerpo violáceo, brazos proteanos, olor a azufre. Posible conexión a **Papá** (entidad demoníaca) o legiones infernales de [[Antiterra_Demonia|Antiterra]].
 
 ## Ver también
 

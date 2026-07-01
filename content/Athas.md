@@ -17,3 +17,11 @@ años de desgracia, cuando las potencias elementales se repartieron las
 fuentes de poder ya no retenidas por los dioses. El intento de [[Grazzt|Graz'zt]]
 de controlar lo que creía una comarca desguarnecida llevó a [[Kosuth_TG|Kosuth]] a
 hacer su entrada y considerar Athas su patio primario particular.
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente externa:** correspondencia con el mundo *Dark Sun* (Athas) de AD&D (TSR). Ref.: https://en.wikipedia.org/wiki/Dark_Sun

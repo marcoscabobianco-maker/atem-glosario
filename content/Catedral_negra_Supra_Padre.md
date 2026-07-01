@@ -22,6 +22,6 @@ Ubicación no documentada donde [[SUPRA_PADRE_Deidad_Temporal|el Supra Padre]] f
 - [[SUPRA_PADRE_Deidad_Temporal|Supra Padre]] — la entidad que esta catedral aprisiona y tortura
 - [[El_Negro_Entidad|El Negro]] — el torturador; penetró al [[SUPRA_PADRE_Deidad_Temporal|Supra Padre]] aquí para perpetuarse a través de los eones
 - [[Pablo_de_Alejandria|Pablo de Alejandría]] — hijo (o padre, por la paradoja viajera) del Supra Padre
-- [[Kronamon]] — candidato paradójico a ser el Supra Padre por la vuelta del anillo temporal
+- [[Chronomon|Kronamon]] — candidato paradójico a ser el Supra Padre por la vuelta del anillo temporal
 - [[El_Abismo|el Abismo]] — plano caótico-maligno; referente cosmológico para ubicaciones abisales de confinamiento
 - [[Grazzt|Graz'zt]] — señor demoníaco del [[Abismo]]; marco planar para entidades de tortura trans-eónica

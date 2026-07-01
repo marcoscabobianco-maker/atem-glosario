@@ -34,3 +34,11 @@ Junto con [[GRDT]], estableció una genealogía nueva para los padres de [[Axum]
 - [[Axum|Axum]]
 - [[Grazzt|Graz'zt / GRDT]]
 - [[Juan_el_Cazador|Juan el Cazador]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Fuente primaria: Documento Skronamon, l.21-22.

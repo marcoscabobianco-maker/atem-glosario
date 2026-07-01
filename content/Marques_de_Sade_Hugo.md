@@ -65,7 +65,7 @@ La voz que todavía no ha consignado en lámina **se sostiene aquí en palabra e
 
 ## Vínculos
 
-- [[Chronomon]] · [[Cronomon_Heredeth|Cronomon Heredeth]] — figura sobre la que profiere su revelación mayor
+- [[Chronomon]] · [[Chronomon|Cronomon Heredeth]] — figura sobre la que profiere su revelación mayor
 - [[Batalla_de_Kosovo_1389]] — referencia cronomántica de fondo
 - [[Sarajevo_1914_Ucronica]] — episodio final de la cadena que Sade-Hugo expone
 - [[Guardias_Ucronicos]] — figuras cuyo enmarque él denuncia

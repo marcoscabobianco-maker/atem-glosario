@@ -1,6 +1,6 @@
 ---
 title: "Sandra (Sacerdotisa Templaria)"
-categoria: lugar
+categoria: personaje
 tags:
  - "cdi"
  - "cdi-la fase tardía del ciclo primero"
@@ -12,10 +12,7 @@ aliases:
 
 ## Presentación
 
-- **Rol:** Guardiana de la Orden; traidor por amor
-- **Identidad:** Posible conexión [[Lisandra_El_Solitario_El_Paradigma_Enterrado|Lisandra]]/[[Lisandra_El_Solitario_El_Paradigma_Enterrado|El Solitario]]
-- **Acción crítica:** Abandona orden para salvar compañeros en fase final
-- **Referencia:**
+Guardiana de la Orden, sacerdotisa templaria a quien la crónica recuerda por una traición nacida del amor. En la fase tardía del primer ciclo abandona a la Orden para salvar a sus compañeros: gesto que el archivo guarda como su acción decisiva. Apunta el registro una posible identidad oculta tras su nombre, en conexión con [[Lisandra_El_Solitario_El_Paradigma_Enterrado|Lisandra, el Solitario]].
 
 ## Ver también
 

@@ -19,7 +19,7 @@ aliases:
 
 ## Presentación
 
-[[Entidad]] divina de equilibrio absoluto. [[Forma_humanoide]] compuesta de balance luz/oscuridad. Sostiene esfera de energía positiva/máxima en una mano y esfera de energía negativa/máxima en la otra. Estrellas visibles en orejas (marca celestial). Se manifiesta en la Torre Blanca del [[Castillo_del_Prisma|Castillo del Prisma]]. Ofrece al grupo elección metafísica binaria: (1) de oscuridad hacia luz, (2) de luz hacia oscuridad. Mecanismo: cabeza cercenada por fuerza interna de la esfera ("guillotina de oscuridad"), alma entra en esfera, reencarnación en nueva forma seleccionada de tabla de 1000 razas, corrupción de sombra removida. Todos los compañeros eligen oscuridad→luz. Avanzan en Mythic Trials.
+Entidad divina de equilibrio absoluto. [[Forma_humanoide]] compuesta de balance luz/oscuridad. Sostiene esfera de energía positiva/máxima en una mano y esfera de energía negativa/máxima en la otra. Estrellas visibles en orejas (marca celestial). Se manifiesta en la Torre Blanca del [[Castillo_del_Prisma|Castillo del Prisma]]. Ofrece al grupo elección metafísica binaria: (1) de oscuridad hacia luz, (2) de luz hacia oscuridad. Mecanismo: cabeza cercenada por fuerza interna de la esfera ("guillotina de oscuridad"), alma entra en esfera, reencarnación en nueva forma seleccionada de tabla de 1000 razas, corrupción de sombra removida. Todos los compañeros eligen oscuridad→luz. Avanzan en Mythic Trials.
 
 ## Apariciones notables
 

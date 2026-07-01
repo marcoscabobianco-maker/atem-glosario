@@ -20,7 +20,12 @@ aliases:
  - "Dr. Harrington"
  - "José E. Harrington"
  - "Horacio J. Harrington"
+imagen: Imagenes_Tier1/Harrington.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Harrington.png]]
+<!-- /HEADER_IMG -->
 
 > *La ciencia de los años sesenta como linaje del saber peligroso: el que mide la roca termina por despertarla.*
 

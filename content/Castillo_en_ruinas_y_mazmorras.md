@@ -42,7 +42,7 @@ Lo que el subsuelo guarda no admite mirada inocente. En las salas hay **estatuas
 
 Más adentro espera un **osario humano**: huesos roídos amontonados, unos antiguos y otros recientes, las marcas de dientes contando sin palabras una historia de **canibalismo** que no cesó con los siglos sino que sigue alimentándose. Hay **celdas con grilletes** —y en una de ellas, encerrada y desnuda como moneda de rescate, está [[Abuela_Echegoyen|la abuela Echegoyen]], a la que el grupo libera de ese encierro—. Y hay, dispersos por las cámaras, los restos de unos **ritos afro-costeros**: velas consumidas, ofrendas, huesos de animales, las señas de una devoción de orilla que oficia bajo tierra.
 
-Todo el subsuelo es propiedad de la cofradía batracia que medra bajo las islas: los hombres-pez de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]], que rinden culto a [[Nyarlathotep|Tulu]] y a lo que sueña en el fondo del mar. La mazmorra es su despensa y su prisión a la vez. De ella sale la abuela cautiva; de la misma estirpe y el mismo encierro sale [[El_hijo_hibrido|el hijo híbrido]], prueba de que lo que estas celdas retienen no es solo carne para el rescate sino la antesala de algo mucho más viejo.
+Todo el subsuelo es propiedad de la cofradía batracia que medra bajo las islas: los hombres-pez de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]], que rinden culto a [[Cthulhu]] y a lo que sueña en el fondo del mar. La mazmorra es su despensa y su prisión a la vez. De ella sale la abuela cautiva; de la misma estirpe y el mismo encierro sale [[El_hijo_hibrido|el hijo híbrido]], prueba de que lo que estas celdas retienen no es solo carne para el rescate sino la antesala de algo mucho más viejo.
 
 ---
 

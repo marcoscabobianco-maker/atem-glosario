@@ -19,8 +19,11 @@ aliases:
  - "Ricardo Moretti"
  - "Moretti"
  - "El camarada Moretti"
-imagen: null
+imagen: Imagenes_Tier1/Ricardo_Moretti.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ricardo_Moretti.png]]
+<!-- /HEADER_IMG -->
 
 > *Veinte mil dólares por subir la piedra a la torre. Lo que cuesta de verdad no se paga en dólares.*
 

@@ -25,7 +25,7 @@ Notas preliminares (descripción completa). [[Bestiario_de_Torregrises_E|Bestiar
 
 ## Notas
 
-Ver **[[Juego_de_las_Sombras|Juego de las Sombras]] / [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]**, **[[Torreluces]]**, **[[Lulu_TG|Lulú (TG)]]**.
+Ver **[[Juego_de_las_Sombras|Juego de las Sombras]] / [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]**, **[[Torreluces]]**, **[[Lulu_TG|Lulú (Torregrises)]]**.
 
 ## Ver también
 

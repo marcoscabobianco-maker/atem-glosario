@@ -1,7 +1,7 @@
 ---
-title: "Los Templarios del Tiempo (TE)"
+title: "Los Templarios del Tiempo (Templarios)"
 aliases:
- - "Los Templarios del Tiempo (TE)"
+ - "Los Templarios del Tiempo (Templarios)"
  - "TE"
  - "Templarios del Tiempo"
  - "Campaña Templarios"
@@ -18,3 +18,13 @@ Primer ciclo del grupo levantado enteramente a distancia —voces reunidas sin c
 ### Notas
 
 La relación con el cosmos compartido es deliberadamente ambigua: el archivo no resuelve si esta Jerusalén es una era anterior del mismo mundo, una inserción o una versión paralela. Sin embargo, al menos un compañero ([[Arsvan|Ärsvan]]) reaparece en el Descenso como "templario condenado", lo que sugiere retroactivamente que TE es canónica.
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Forma de mesa:** sub-campaña de rol; nivel de inicio 1.
+- **Origen del ciclo:** primera campaña corrida enteramente a distancia, durante el Gran Encierro (pandemia) — ensayo previo a la campaña de París Ucrónica. Once sesiones; siete jugadores + el cronista Pocopis.
+- **Cita del autor sobre la canonicidad:** *"No sabemos si es el mundo que jugamos antes, o si es como una inserción o es otra versión."*

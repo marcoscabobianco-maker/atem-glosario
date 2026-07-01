@@ -20,7 +20,7 @@ aliases:
 
 ## Presentación
 
-Primera ciudad invisible redimida por los emisarios del Khan. Nombre antiguo: [[Teodora]]. Gobernada por [[Baron_Cain_Gobernador_Cain|Gobernador Caín]]. Afectada por "corrupción de sombra" post-Segunda Guerra de las Sombras. [[Resolucion|Resolución]]: la hija del gobernador, Mirra, se transforma en Árbol de Mirra protector (redención sacrificial). Post-redención: templos reabren (60 cúpulas de plata), industria retorna, tributos restaurados.
+Primera ciudad invisible redimida por los emisarios del Khan. Nombre antiguo: [[Teodora]]. Gobernada por [[Baron_Cain_Gobernador_Cain|Gobernador Caín]]. Afectada por "corrupción de sombra" post-Segunda Guerra de las Sombras. Resolución: la hija del gobernador, Mirra, se transforma en Árbol de Mirra protector (redención sacrificial). Post-redención: templos reabren (60 cúpulas de plata), industria retorna, tributos restaurados.
 
 ## Apariciones notables
 

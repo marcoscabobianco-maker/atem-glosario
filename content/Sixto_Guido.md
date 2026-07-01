@@ -50,7 +50,7 @@ Su función táctica es **absorber daño y sostener la línea de combate**. Las 
 
 ## Apariciones
 
-- [[Ardis_Vala|Arden Vul]] 
+- [[Ardis_Vala|Ardis Vala]] 
 - Jornadas 4-5 — maldición del collar, remoción, subasta
 - Jornada posterior — mensaje arcano llamando a "Sir Sixto"
 - Jornadas siguientes — presencia intermitente de Sixto

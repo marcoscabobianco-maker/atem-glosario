@@ -1,10 +1,10 @@
 ---
-title: "Ray (TNW)"
+title: "Ray (Mundo Nuevo)"
 tags:
  - "gary-tnw"
  - "lords-of-creation"
 aliases:
- - "Ray (TNW)"
+ - "Ray (Mundo Nuevo)"
  - "TNW"
  - "Ray"
 ---
@@ -25,3 +25,11 @@ Grafía canónica confirmada: **Ray** (R-A-Y). El personaje pertenece a la líne
 
 - [[Pontiac_Danny_De_Sirio_TNW|Pontiac]]
 - [[Kendall_TNW|Kendall]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Coordenadas: 1b –164 ("Vamos a buscar a Ray"), 1b –999 ("¿Cómo te llamás? Ray. R-A-Y").

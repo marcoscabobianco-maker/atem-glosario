@@ -12,7 +12,7 @@ aliases:
 
 ## Presentación
 
-Genocidio temporal. [[Evento]] catastrófico de el archivo: la liberación de Blanqui de la [[Prision_del_Toro|Prisión del Toro]] rompe defensas planares, permitiendo la entrada de fuego elemental a escala continental. El intento fracasó del peor modo —los registros conservan la cifra exacta del fracaso—: Canal de la Mancha evaporado, fuego arrasa 500 millas a la redonda, millones mueren. El grupo es declarado "culpable de cronocidios" por las fuerzas elementales.
+Genocidio temporal. Evento catastrófico de el archivo: la liberación de Blanqui de la [[Prision_del_Toro|Prisión del Toro]] rompe defensas planares, permitiendo la entrada de fuego elemental a escala continental. El intento fracasó del peor modo —los registros conservan la cifra exacta del fracaso—: Canal de la Mancha evaporado, fuego arrasa 500 millas a la redonda, millones mueren. El grupo es declarado "culpable de cronocidios" por las fuerzas elementales.
 
 Ironía central de la gesta: los libertadores causan más muerte que los opresores. Es la consumación del patrón de intervención temporal catastrófica que comenzó en el archivo ([[Sarajevo_1914_Ucronica|Sarajevo]]).
 

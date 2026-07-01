@@ -1,9 +1,7 @@
 ---
-title: "compañero (sin nombre, TE)"
+title: "El paladín peregrino de León (Templarios)"
 aliases:
- - "compañero (sin nombre, TE)"
- - "sin nombre"
- - "TE"
+ - "El paladín peregrino de León"
  - "compañero"
 ---
 
@@ -13,4 +11,4 @@ Paladín. Peregrino español del reino de [[Leon_Epoca_Carlomagno_800_DC|León]]
 
 ## Notas
 
-Su nombre no se reveló en este fragmento. Pendiente.
+El archivo no conserva su nombre en este tramo de la crónica.

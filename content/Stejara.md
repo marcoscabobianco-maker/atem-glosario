@@ -1,6 +1,6 @@
 ---
 title: "Stejara"
-título: "Stejara (pueblo vivo, Novatos)"
+título: "Stejara"
 slug: Stejara
 categoria: lugar
 aliases:
@@ -104,3 +104,13 @@ Más allá del pueblo, el **barranco profundo** es **entrada a la [[Ciudadela_Hu
 - **Novatos el archivo**: introducción a Stejara
 - **Novatos esta jornada y posteriores**: exploración del barranco y la Ciudadela
 - **Novatos el archivo**: rescate del Elfo Troll ([[Kerbog_Khan]]) en habitación 12
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Stejara adapta el pueblo de **Oakhurst** del módulo *The Sunless Citadel* (Bruce R. Cordell, 2000), ravenloftizado para Novatos.
+- Equivalencias con NPCs del módulo fuente: **Baba Ileana** = fusión de Dem Nackle + Felosial; **Petre el Largo** = Rurik; **Belac** conserva nombre.
+- Dictado: "Sharra"/"Shara" son lecturas alternativas del nombre.

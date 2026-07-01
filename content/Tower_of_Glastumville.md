@@ -1,6 +1,8 @@
 ---
-title: "Tower of Glastumville"
+title: "Torre de Glastumville"
+categoria: lugar
 aliases:
+ - "Torre de Glastumville"
  - "Tower of Glastumville"
 ---
 
@@ -8,4 +10,4 @@ aliases:
 ![[Imagenes_Tier1/Tower_of_Glastumville.png]]
 <!-- /HEADER_IMG -->
 
-Torre stone con banner de [[Sagrada_Orden|Sagrada Orden]] eye-over-sun.
+La lámina muestra una torre de piedra que enarbola el estandarte de la [[Sagrada_Orden|Sagrada Orden]]: el ojo sobre el sol.

@@ -1,6 +1,6 @@
 ---
 title: "Inevitable"
-categoria: lugar
+categoria: personaje
 tags:
  - "paris-ucronica"
  - "race"
@@ -14,4 +14,4 @@ aliases:
 
 ## Presentación
 
-Primer orden Cosmos. Jerarquía secuaces. Factor tiempo. Enviados prusianos destruyen [[Apis]]. [[Draga_Machine|Draga Machine]] (Inevitable). [[Otto]] contacta.
+El archivo lo cuenta entre el primer orden del Cosmos, con su jerarquía de secuaces y su dominio sobre el factor del tiempo. A su servicio, enviados prusianos destruyen a [[Apis]]. La crónica identifica a [[Draga_Machine|Draga Machine]] como uno de estos Inevitables, y registra que [[Otto]] llega a contactarlo.

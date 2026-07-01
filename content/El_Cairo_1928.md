@@ -1,6 +1,6 @@
 ---
-title: "El Cairo (1928)"
-título: "El Cairo (1928) — la ciudad de los mil minaretes"
+title: "El Cairo"
+título: "El Cairo — la ciudad de los mil minaretes"
 slug: El_Cairo_1928
 categoria_diegetica: lugar
 campania: ldc

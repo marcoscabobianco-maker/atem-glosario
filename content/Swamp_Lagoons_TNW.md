@@ -1,12 +1,12 @@
 ---
-title: "Swamp Lagoons (TNW)"
+title: "Swamp Lagoons (Mundo Nuevo)"
 categoria: lugar
 tags:
  - "gary-tnw"
  - "faction"
  - "gang"
 aliases:
- - "Swamp Lagoons (TNW)"
+ - "Swamp Lagoons (Mundo Nuevo)"
  - "TNW"
  - "Swamp Lagoons"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Anno Domini Antiterra (A.D.A.)"
-título: "Anno Domini Antiterra (A.D.A.)"
+title: "Anno Domini Antiterra"
+título: "Anno Domini Antiterra"
 slug: Anno_Domini_Antiterra_ADA
 categoria: concepto
 aliases:

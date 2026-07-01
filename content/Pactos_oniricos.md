@@ -1,6 +1,6 @@
 ---
 title: "Los pactos oníricos"
-título: "Los pactos oníricos — los contratos faustianos del sueño compartido (1966)"
+título: "Los pactos oníricos — los contratos faustianos del sueño compartido"
 slug: Pactos_oniricos
 categoria: concepto
 epoca: "1966 — durante el descenso bajo las Islas Malvinas"
@@ -63,7 +63,7 @@ Lo que el sueño cobra no se paga en el acto. Cada firma define **con quién que
 - [[Dulce_Holler]] — la alemana que firma el contrato del Rey Amarillo
 - [[Irene_Kowalski]] — la polaca que pacta con la Triple A en la oficina de 1975
 - [[Triple_A]] — el comisario-brujo que recluta en el sueño con el adelanto del horror
-- [[Nyarlathotep|Tulu]] — la potencia que sueña bajo las islas y por cuyo envés se abren los pactos
+- [[Cthulhu]] — la potencia que sueña bajo las islas y por cuyo envés se abren los pactos
 
 ## Notas
 

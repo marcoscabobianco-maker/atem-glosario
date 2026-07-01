@@ -1,5 +1,5 @@
 ---
-title: "Sucor (TG)"
+title: "Sucor (Torregrises)"
 categoria: personaje
 tags:
  - "personaje"
@@ -9,7 +9,7 @@ tags:
  - "ira"
  - "moto"
 aliases:
- - "Sucor (TG)"
+ - "Sucor (Torregrises)"
  - "TG"
  - "Sucor"
 ---

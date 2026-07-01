@@ -10,4 +10,4 @@ aliases:
 
 ## Presentación
 
-Organismo supervisor de París (ciudad donde se juntan tiempos). Supervisa virtudes y defectos de temporalidad. Agentes: [[Meteora]] ([[Bucarest_Ucronica|Bucarest]]), [[Thomas_Cole|Thomas Cole]], [[Nagant_M1895_Swann|Swann]]. Cartografía ucrónica con localizadores estelares ([[U-Bengala]]).
+Organismo que supervisa París, la ciudad donde se juntan los tiempos, velando por las virtudes y los defectos de su temporalidad. Entre sus agentes el archivo cuenta a [[Meteora]], venida de [[Bucarest_Ucronica|Bucarest]], a [[Thomas_Cole|Thomas Cole]] y a [[Nagant_M1895_Swann|Swann]]. Levanta una cartografía ucrónica orientada por localizadores estelares, como el de [[U-Bengala]].

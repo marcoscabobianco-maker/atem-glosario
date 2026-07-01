@@ -13,4 +13,4 @@ aliases:
 
 ## Presentación
 
-Mencionada como reclamante del castillo. "El castillo es de Cleopatra". Tensión con [[Elena_de_Troya|Elena de Troya]]. No aparece como personaje activo en las escenas transcritas, pero su presencia se infiere.
+El archivo la nombra como reclamante del castillo —"el castillo es de Cleopatra"—, y en ese reclamo asoma su tensión con [[Elena_de_Troya|Elena de Troya]]. No la registran las escenas como figura activa: su presencia se adivina más que se ve, una soberanía afirmada desde fuera del cuadro.

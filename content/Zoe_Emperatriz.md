@@ -14,7 +14,7 @@ aliases:
 
 Gobernanta de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] durante época dorada (mediados siglo XI). Compañera de emperatriz principal ([[Teodora]]). Dríade; enfermó cuando árbol vinculado a sus esporas fue contaminado por [[Zygomind]]. Su muerte cataliza [[Juegos_Funebres|Juegos Fúnebres]] y duelo de [[Teodora]].
 
-**[[Muerte]]:** Le crecieron protuberancias en el pecho que explotaron; la magia no funcionó para sanarla. Olaus intentó salvarla con "líquido blanco" y vínculos estelares, fracasó. [[Muerte]] vinculada a la destrucción del retoño/árbol cósmico del mindscape: al cortarse los vínculos, Zoé perdió su conexión vital. Su consorte desapareció misteriosamente tras su muerte ("se lo tragó la tierra"), llevándose los toros de la plaza. La muerte de Zoé refuerza la maldición de [[Guardianes]] Ucrónicos: la presencia de los compañeros causa muerte de figuras de poder (eco de [[Sarajevo_1914_Salto_Temporal|Sarajevo 1914]]).
+**Muerte:** Le crecieron protuberancias en el pecho que explotaron; la magia no funcionó para sanarla. Olaus intentó salvarla con "líquido blanco" y vínculos estelares, fracasó. Muerte vinculada a la destrucción del retoño/árbol cósmico del mindscape: al cortarse los vínculos, Zoé perdió su conexión vital. Su consorte desapareció misteriosamente tras su muerte ("se lo tragó la tierra"), llevándose los toros de la plaza. La muerte de Zoé refuerza la maldición de [[Guardianes]] Ucrónicos: la presencia de los compañeros causa muerte de figuras de poder (eco de [[Sarajevo_1914_Salto_Temporal|Sarajevo 1914]]).
 
 ## Apariciones notables
 

@@ -35,3 +35,11 @@ En la gesta de los *Señores de [[York]]*, Lagu alerta a **[[Egas]]** sobre los 
 - [[Monkchester|Monkchester]]
 - [[Aodh_McDuncan|Aodh McDuncan]]
 - [[Egas|Egas]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente:** *Señores de York*, en el archivo.

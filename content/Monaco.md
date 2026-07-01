@@ -15,7 +15,12 @@ tags:
  - taberna-serpiente-mundo
  - madre
  - papi-balor
+imagen: Imagenes_Tier1/Monaco.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Monaco.png]]
+<!-- /HEADER_IMG -->
 
 > *Tullida aristócrata con látigo-cola en lugar de piernas. La que transformó a [[Cronos]] en gato. Madre de hijos devorados por Papi Balor.*
 
@@ -67,7 +72,7 @@ Sigue el arco general de [[Las_Tullidas]]:
 
 ## Apariciones
 
-- Taller de Rol — narrativa primaria de [[Las_Tullidas]]
+- El archivo — narrativa primaria de [[Las_Tullidas]]
 - Episodio Cronos / [[Taberna_de_la_Serpiente_Mundo]] — transformación clave
 - Episodio Papi Balor — devoración de sus hijos
 - Arco del [[Amuleto_de_los_Planos]] / Supremos — agente recabadora

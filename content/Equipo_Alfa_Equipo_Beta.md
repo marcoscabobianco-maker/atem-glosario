@@ -21,7 +21,7 @@ Dos grupos de compañeros operando en paralelo:
 - **Equipo Alfa** (Grupo A): Emerge primero, contacta con Torreón y fuerzas romanas.
 - **Equipo Beta** (Grupo B): Emerge después, misma misión infernal, se integra con Alfa en Gibraltar.
 
-Dinámica de dos grupos simultáneos con puntos de convergencia (guarnición de Gibraltar) y futura colaboración ([[Alejandria|Alejandría]]). Mecánica de gestión multi-grupo sofisticada.
+Dinámica de dos grupos simultáneos con puntos de convergencia (guarnición de Gibraltar) y futura colaboración ([[Alejandria|Alejandría]]). La conducción de los dos grupos en paralelo es de notable sofisticación.
 
 ## Ver también
 

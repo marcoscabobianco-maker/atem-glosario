@@ -1,6 +1,6 @@
 ---
 title: "Nerub Null"
-título: "Nerub Null (archmage Priscian)"
+título: "Nerub Null"
 slug: Nerub_Null
 categoria: personaje
 aliases:
@@ -18,9 +18,14 @@ tags:
  - mega-dungeon-ardis-vala
  - L09
  - arcanum-forge
----
+imagen: Imagenes_Tier1/Nerub_Null.png
 
-> *Archmage. Líder de los [[Priscians]] en [[Ardis_Vala|Arden Vul]]. Redescubrió y reocupó el compound Sortiano en el Suelo del Gran Abismo. Restauró parcialmente la [[Arcanum_Forge]].*
+---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Nerub_Null.png]]
+<!-- /HEADER_IMG -->
+
+> *Archmage. Líder de los [[Priscians]] en [[Ardis_Vala|Ardis Vala]]. Redescubrió y reocupó el compound Sortiano en el Suelo del Gran Abismo. Restauró parcialmente la [[Arcanum_Forge]].*
 
 ## Presentación
 
@@ -89,7 +94,7 @@ Con el **[[Vencimiento_Varumani]]** y la entrada en **Ravenloft**:
 
 ### La jornada del despojo en la cámara octagonal
 
-En el ciclo presente —*tras años de presencia oculta y operación lateral*— **Nerub Null operó por primera vez como adversario directo de los [[Buscadores_de_Ardis_Vala|Buscadores]]**. *[[Buscadores_de_Ardis_Vala|Los Buscadores]] se negaron a permitir a los Priscianos acceso a la biblioteca del [[Palacio_del_Prisma|Palacio del Prisma]]*; **el archmago respondió con teleporte de partida Priscian a la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]** mediante *sortian eyes*.
+En el ciclo presente —*tras años de presencia oculta y operación lateral*— **Nerub Null operó por primera vez como adversario directo de los [[Buscadores_de_Ardis_Vala|Buscadores]]**. *[[Buscadores_de_Ardis_Vala|Los Buscadores]] se negaron a permitir a los Priscianos acceso a la biblioteca del [[Palacio_del_Prisma|Palacio del Prisma]]*; **el archmago respondió con teleporte de partida Priscian a la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]** mediante *sortian eyes*.
 
 **El combate se decidió por degradación arcana, no por daño puro**. *La fortuna dio dos veces la delantera a los Buscadores*; **los [[Cetro_de_Absorcion|cetros de absorción]] de los magos Priscian neutralizaron sus conjuros**. **El grupo cayó inconsciente**. **Los Priscianos confiscaron todos los objetos mágicos personales** —*"brisqueados los objetos"*— **dejando intactos oro, gemas, raciones, ropa y armas no mágicas**. *El gesto fue moderado, no exterminador*: los Buscadores fueron dejados vivos por decisión deliberada del archmago.
 
@@ -117,5 +122,5 @@ En el ciclo presente —*tras años de presencia oculta y operación lateral*—
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *El archmago que opera desde abajo: reside en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], el piso más hondo del [[Mega_Dungeon_Arden_Vul|mega-dungeon]], y desde ahí los [[Priscians]] suben en núcleos de cinco hacia los niveles superiores cuando el [[Vencimiento_Varumani]] retira las patrullas. El mega-dungeon estratifica eras —el compound [[Sortianos|sortiano]] que reocupa es una era arconteana sepultada que él vuelve a encender en la [[Arcanum_Forge]]—. Su poder se mide en grados del temple, otra escala de profundidad. Lo que A registró como facción de un nivel (AA-D.2), en C es el ascenso por estratos de un mundo enterrado.* — glosa de Arkos.
+> *El archmago que opera desde abajo: reside en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], el piso más hondo del [[Mega_Dungeon_Arden_Vul|mega-mazmorra]], y desde ahí los [[Priscians]] suben en núcleos de cinco hacia los niveles superiores cuando el [[Vencimiento_Varumani]] retira las patrullas. El mega-mazmorra estratifica eras —el compound [[Sortianos|sortiano]] que reocupa es una era arconteana sepultada que él vuelve a encender en la [[Arcanum_Forge]]—. Su poder se mide en grados del temple, otra escala de profundidad. Lo que A registró como facción de un nivel (AA-D.2), en C es el ascenso por estratos de un mundo enterrado.* — glosa de Arkos.
 <!-- /CICLO -->

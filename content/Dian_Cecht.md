@@ -13,3 +13,10 @@ Deidad céltica de la curación, culto de **[[Egas]]**. En *Señores de [[York]]
 
 - [[Egas|Egas]]
 - [[Dolores|Dolores]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+

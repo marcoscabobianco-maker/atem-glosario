@@ -21,8 +21,11 @@ tags:
  - aniquilo-adrienic
  - dinastia-varumani
  - orgullo-fundacional
-imagen: null
+imagen: Imagenes_Tier1/Girbala.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Girbala.png]]
+<!-- /HEADER_IMG -->
 
 > *"El tegnu no se sienta en trono labrado; se sienta sobre los escudos de los enemigos que el Mantra de Profundidad le entregó. Quien quiera entender el orgullo varumani, mire los escudos."* — Cántico ritual varumani, fragmento traducido al lenguaje imperial por copista anónimo de [[Narsileon]] (~2810 AEP).
 
@@ -32,9 +35,9 @@ La lámina —*si los [[Varumani]] hubieran encargado retrato del tegnu*— **no
 
 ## El nombre y la cifra
 
-**Girbala** —*nombre varumani cuyo significado en la lengua imperial no se ha conservado con certeza*— fue el **31.º tegnu** —*rey, jefe ritual y militar*— del pueblo de los **[[Varumani]]** en el **[[Mega_Dungeon_Arden_Vul|Mega-Dungeon de Ardisvala]]**, *hacia el 2759 AEP*.
+**Girbala** —*nombre varumani cuyo significado en la lengua imperial no se ha conservado con certeza*— fue el **31.º tegnu** —*rey, jefe ritual y militar*— del pueblo de los **[[Varumani]]** en el **[[Mega_Dungeon_Arden_Vul|Mega-Mazmorra de Ardisvala]]**, *hacia el 2759 AEP*.
 
-La numeración del tegnu —*el orden 31, transmitido con precisión por la tradición oral varumani y registrado por los copistas imperiales tras el contacto*— **es dato cultural mayor**: los Varumani **conservan sucesión nominal exacta** desde un fundador remoto cuya fecha se pierde en los siglos anteriores a la presencia imperial en el valle. Cada tegnu recibe **número de orden** que **lo sitúa en la dinastía continua**. *Girbala el 31.º* sucedió a un 30.º que el archivo imperial no nombra; *fue sucedido por un 32.º que tampoco aparece*. **[[Varboka]]**, *tegnu del ciclo presente*, **es el [[Varboka|First Thegn]]** —*"primer pensador" o "primer rey" en alguna traducción tentativa de la lengua varumani al lenguaje imperial*—, *con número de orden en la línea pendiente de confirmar; los cronistas decadianos provisionalmente lo sitúan como el cuadragésimo o cuadragésimo primero*.
+La numeración del tegnu —*el orden 31, transmitido con precisión por la tradición oral varumani y registrado por los copistas imperiales tras el contacto*— **es dato cultural mayor**: los Varumani **conservan sucesión nominal exacta** desde un fundador remoto cuya fecha se pierde en los siglos anteriores a la presencia imperial en el valle. Cada tegnu recibe **número de orden** que **lo sitúa en la dinastía continua**. *Girbala el 31.º* sucedió a un 30.º que el archivo imperial no nombra; *fue sucedido por un 32.º que tampoco aparece*. **[[Varboka]]**, *tegnu del ciclo presente*, **es el [[Varboka|Primer Thegn]]** —*"primer pensador" o "primer rey" en alguna traducción tentativa de la lengua varumani al lenguaje imperial*—, *con número de orden en la línea pendiente de confirmar; los cronistas decadianos provisionalmente lo sitúan como el cuadragésimo o cuadragésimo primero*.
 
 *La continuidad dinástica varumani* —ininterrumpida por treinta y un generaciones registradas— **es uno de los argumentos doctrinales que los Varumani esgrimen ante el aparato imperial**: *son pueblo previo y permanente del valle, no invasores tardíos*.
 
@@ -70,7 +73,7 @@ El acto por el cual el archivo decadiano conserva el nombre de Girbala es **úni
 
 ## El sentamiento sobre los escudos
 
-Tras la victoria, *según el cántico ritual varumani conservado fragmentariamente en lengua imperial*, **Girbala se sentó sobre los escudos archonteos amontonados** en la sala que el tegnu habilitó como **trono temporal de la victoria**. La práctica es **tradición varumani profunda**: *el tegnu vencedor no se sienta en trono labrado*; **se sienta sobre las defensas del enemigo derrotado**. **Los escudos se conservaron** en la sala —*aproximadamente identificada en la [[Court_of_Troll_Thegn|Corte del Thegn]] del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], sin localización exacta archivada*— **durante todo el reinado del 31.º tegnu**.
+Tras la victoria, *según el cántico ritual varumani conservado fragmentariamente en lengua imperial*, **Girbala se sentó sobre los escudos archonteos amontonados** en la sala que el tegnu habilitó como **trono temporal de la victoria**. La práctica es **tradición varumani profunda**: *el tegnu vencedor no se sienta en trono labrado*; **se sienta sobre las defensas del enemigo derrotado**. **Los escudos se conservaron** en la sala —*aproximadamente identificada en la [[Court_of_Troll_Thegn|Corte del Thegn]] del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]], sin localización exacta archivada*— **durante todo el reinado del 31.º tegnu**.
 
 *Tras la muerte de Girbala*, los escudos **siguieron en el mismo sitio** como reliquias dinásticas. **Los tegnus sucesores se sentaban sobre los mismos escudos en ceremonias mayores**. *La práctica continuó hasta el [[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]*; *con el [[Vencimiento_Varumani|Vencimiento]] de los Varumani durante aquel silencio*, **el destino de los escudos archonteos amontonados es objeto de pregunta abierta** —*¿siguen allí? ¿fueron dispersados? ¿alguno fue recuperado por los [[Buscadores_de_Ardis_Vala|Buscadores]] en el ciclo presente?*—. *El cronista decadiano no tiene respuesta archivada*.
 
@@ -97,7 +100,7 @@ Para los Varumani —*hasta el Vencimiento durante el Hiato*— **Girbala fue fi
 - **Demostración doctrinal** de que el pueblo de las profundidades **no era pueblo sometible**.
 - **Punto de referencia ritual** en las ceremonias de coronación de tegnus sucesores: *cada nuevo tegnu, al subir al trono de escudos, se sienta sobre los escudos que Girbala depositó*.
 
-**El [[Vencimiento_Varumani|Vencimiento de los Varumani]]** durante el silencio del Hiato **cierra el arco dinástico**. Si Girbala fue el 31.º tegnu de un pueblo orgulloso, **[[Varboka|Varboka, First Thegn]]**, fue **el último tegnu de un pueblo derrotado**. *El cronista decadiano lo registra con la melancolía debida a las dinastías que terminan*: **del orgullo fundacional al cierre cosmológico, treinta y un generaciones**.
+**El [[Vencimiento_Varumani|Vencimiento de los Varumani]]** durante el silencio del Hiato **cierra el arco dinástico**. Si Girbala fue el 31.º tegnu de un pueblo orgulloso, **[[Varboka|Varboka, Primer Thegn]]**, fue **el último tegnu de un pueblo derrotado**. *El cronista decadiano lo registra con la melancolía debida a las dinastías que terminan*: **del orgullo fundacional al cierre cosmológico, treinta y un generaciones**.
 
 ---
 
@@ -112,7 +115,7 @@ Para los Varumani —*hasta el Vencimiento durante el Hiato*— **Girbala fue fi
 ## Vínculos
 
 - [[Varumani]] — pueblo
-- [[Varboka]] — First Thegn, último tegnu de la línea, sucesor lejano
+- [[Varboka]] — Primer Thegn, último tegnu de la línea, sucesor lejano
 - [[Adrienic]] — general imperial derrotado en la Cueva de Sangre
 - [[Phocion_IV]] — emperador de la expedición fallida
 - [[Lady_Deino|Lady Deino]] — bruja aliada en la masacre y transformadora de la 3.ª Cohorte

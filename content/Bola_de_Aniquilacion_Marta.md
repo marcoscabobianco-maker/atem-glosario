@@ -1,6 +1,6 @@
 ---
-title: "La Bola de Aniquilación (Marta)"
-título: "La Bola de Aniquilación (Marta)"
+title: "La Bola de Aniquilación"
+título: "La Bola de Aniquilación"
 slug: Bola_de_Aniquilacion_Marta
 aliases:
  - Bola de Aniquilación

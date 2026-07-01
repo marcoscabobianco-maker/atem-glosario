@@ -65,3 +65,21 @@ de antiterra de [[Grazzt|Graz'zt]].
 Su frase del momento: **"no haber nacido todavía en estos nuevos mundos."** *El archivero anota que la frase concuerda con la naturaleza arbitral de Kaxathros*: **figura que opera entre mundos sin pertenecer enteramente a ninguno**.
 
 **Llegó al coloso por trato antiguo con [[Grazzt|Graz'zt]]** —*pacto cuya cláusula textual conservada: "que las piernas de ninguna mujer se cerraran para él"*—. **Refugiado de tormentas astrales**; **conoce los charcos de color** (portales interplanares); **menciona el [[Palacio_del_Prisma|Castillo del Prisma]]**.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ⛧
+> *Árbitro y guardián de la plataforma de la Tentación junto a [[Coyote]] —a quien él mismo dio muerte con la lanza que se guarda en la [[Sala_del_Tesoro|Sala del Tesoro]]—: el oficio rotativo en su forma cruda, el que mata al guardián queda guardián. Llegó al coloso de la [[Cazadora_Blanca|Cazadora Blanca]] por trato antiguo con [[Grazzt|Graz'zt]], pacto cuya cláusula lo ata y lo condena a operar entre mundos sin pertenecer a ninguno.* — glosa de Arkos.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuentes:** Glosario MC (destrucción de Arcoms Cosmar). Cuadernos T: l.114-124 (árbitro de la Contienda: Kaxathros, Vladimir, Strat, Pentar, Factor Setanta); l.222 (guardián de la Tentación con Coyote).
+- **Descripción física — fuente literaria:** tomada de Théophile Gautier, *La Momia* (pp. 92-93, ed. Cátedra), aplicada a Kaxathros. Wink erudito preservado en la diégesis; la referencia bibliográfica vive acá.
+- **C57 p.45** (tinta violeta): descripción física + dibujo de la lanza en el margen. Nota marginal: "Una carta debe venir de C47, pg 12. Colección lanza con la que mató a Coyote. Explica luego."
+- **C47 p.12** (27 nov 2012): "Sala del Tesoro", descripción de cuarto. Dibujo de la lanza (naranja) junto al globo de antiterra, sobre un atril; el resto del cuarto en azul. Referencia al Atlas de 1665 (ed. facsimilar Taschen) como posible fuente visual de los mapas.
+- **Vela de invocación:** la glosa en lápiz "(Cáutico Malvada)" es notación de regla de 2ª ed. (Chaotic Evil, alineamiento del objeto). La vela figura en `Calendario merged.doc`.
+- **Caldero / Fase 4:** "Kax Athros" = probable variante Whisper del dictado original.

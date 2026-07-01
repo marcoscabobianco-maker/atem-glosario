@@ -50,3 +50,16 @@ Lo que pasó con el grupo es **lo peor que puede pasarle a una banda**: **fueron
 - Diamond Lake / Chicago (Grandes Lagos) — territorio del grupo
 - Ataque del dragón negro — disolución del grupo
 - Supervivencia del Fabuloso — base del [[Banco_Boreal]] posterior
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ⌖ ☯
+> *Banda precursora de [[Los_Profundos]] —Kaino, Arthur, Iun y [[El_Fabuloso]]— cuyo linaje de grupo continúa hasta los Reguladores del ciclo final; cuando el dragón negro la diezma, el Ñomo sobrevive y funda sobre la pérdida el [[Banco_Boreal]]. El mundo es la [[Antiterra_Demonia|Antiterra]] de los trenes y los dragones, la vertiente gemela de la nuestra; y ese dragón negro se inscribe en la Historia real: deviene presidente de Ohio y después de los Estados Unidos. Lo que A leyó como la banda eslabón (AA-G.3) y B como el linaje de grupos (AKB-J.1) cruza aquí con la Historia verbatim (AA-H.2).* — glosa del Decadiano.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Base de setting:** *Age of Worms* (adventure path de D&D; Diamond Lake como punto de partida).

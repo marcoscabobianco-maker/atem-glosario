@@ -51,6 +51,12 @@ En **París, 1886**, Pablo —disfrazado de **Paul Claudel**, parisino con bigot
 
 La cadena autorial atraviesa siglos: **Paulus Alexandrinus → [[Blavatsky_Mamushka_TNW|Helena Blavatsky]] → Paul Claudel**. El mismo escriba, tres veces, en tres siglos, dejando el texto donde le toca dejarlo para que el ciclo cierre. A esa cadena se suman los **eslabones de copia**: Theodoras Philetas traduce al griego en 950 d.C.; [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] copia/traduce al latín en Bizancio-Constantinopla 1051-1055. De allí, los **cinco libros de colores** —azul, verde, rojo, blanco, negro— como copias y variantes del original, distribuidos a [[Los_Venerables]].
 
+### El Libro en el Mediterráneum
+
+![[Imagenes_Tier1/El_Libro_Artefacto_Mediterraneum.png]]
+
+En la gesta del [[Mediterraneo_Ucronico|Mediterráneum]] el mismo volumen reaparece como su objeto disputado, el MacGuffin que todos persiguen: tratado de astrología elemental, sellado y cifrado, que sólo [[Pablo_de_Alejandria|Paulus Alexandrinus]] puede descifrar. Tiene una propiedad inquietante: **crece de tamaño cuando lo examina quien comprende lo que dice** —como cajas chinas que se despliegan—, y guarda conocimiento del porvenir y de cosas que nadie recuerda. Custodiado en la Biblioteca Infernal del Séptimo Círculo, fue robado una y otra vez —por un Djinn del desierto, por [[Simon_NPC_demoniaco|Simón]] vuelto invisible, por fuerzas que no cejan—. La advertencia que pende sobre él es la de siempre: si [[Arcoms_Cosmar|Marcos el Mago]] lo obtiene y llega a [[Alejandria|Alejandría]], la ciudad arderá.
+
 ### Los cien volúmenes y la página que no se vuelve
 
 El libro se abre por subdivisiones internas que el archivero del Plata cita con notación seca: **C[n], p.[x]** o **C[n], subsección [x]**.
@@ -69,13 +75,13 @@ La tradición conserva además el espejo arquitectónico del **Argentum Palace**
 
 - [[Pablo_de_Alejandria|Pablo de Alejandría]] / Paulus Alexandrinus / Paul Claudel — el autor en sus tres siglos
 - [[Henri_La_France]] — el receptor en 1886
-- [[Libro_Azul]] — forma física del tratado en la línea de los [[Templarios]] y de Rol Mamba 1
+- [[Libro_Azul]] — forma física del tratado en la línea de los [[Templarios]] y en la línea anterior
 - [[Libro_Negro_de_la_Ley_de_los_Muertos|Necronomicón]] — copia derivada vía [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]]
 - [[Olaus_Wormius_aka_Theodorus|Olaus Wormius]] — el copista/traductor en Bizancio 1051-1055
 - [[Arcoms_Cosmar|Marcos el Mago]] — el lich que lo robó de la Biblioteca del Infierno
 - [[Catedral_de_Notre-Dame_PU|Notre Dame]] — escenario de la entrega
 - [[Alejandria|Alejandría]] — destino del viaje temporal
-- [[Templo_Lugar_de_los_Justos]] — escenario del robo de [[Marcos_el_Mago]] en Rol Mamba 1
+- [[Templo_Lugar_de_los_Justos]] — escenario del robo de [[Marcos_el_Mago]] en esa línea anterior
 - [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales y Guardianes]] — el sistema cosmológico que el libro enseña
 - [[Blavatsky_Mamushka_TNW|Helena Blavatsky]] — eslabón intermedio de la cadena autorial
 - [[Los_Venerables]] — receptores de los cinco libros de colores
@@ -86,7 +92,7 @@ La tradición conserva además el espejo arquitectónico del **Argentum Palace**
 - 950 d.C., Bizancio — traducción al griego por Theodoras Philetas
 - 1050-1055, Bizancio-Constantinopla — copia/traducción al latín por Olaus Wormius (origen del Necronomicón)
 - Biblioteca del Infierno (Séptimo Círculo) — almacenado, robado por [[Marcos_el_Mago]] en barco arácnido
-- Rol Mamba 1, [[Templo_Lugar_de_los_Justos|Templo y Lugar de los Justos]] — clímax del robo
+- [[Templo_Lugar_de_los_Justos|Templo y Lugar de los Justos]] — clímax del robo
 - Columnas de Hércules — salida del barco arácnido al [[Mediterraneo_Ucronico|Mediterráneo]]
 - Ciclo templario — recuperado por los [[Templarios]] en mano del [[Flamenco]], llevado a Constantinopla y después a Ur
 - Bóvedas de Ur — guardado tras la fase templaria

@@ -17,4 +17,4 @@ Combate en el [[Sancta_Sanctorum_Templarios|Sancta Sanctorum]] templario; compa�
 - [[Lirio]] — combatiente de la compañía en este enfrentamiento
 - [[Arsvan]] — paladín que participa en el combate del Sancta Sanctorum
 - [[Michel]] — estratega clérigo del grupo enfrentado a los Posesos
-- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta en cuyo Templo de Salomón ocurre este combate
+- [[Campana_Templarios_TE|Gesta Templarios]] — gesta en cuyo Templo de Salomón ocurre este combate

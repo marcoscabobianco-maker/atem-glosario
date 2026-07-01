@@ -1,6 +1,6 @@
 ---
 title: "Priscians"
-título: "Priscians (Orden Secreta de Hechiceros)"
+título: "Priscians"
 slug: Priscians
 categoria: facción
 aliases:
@@ -39,7 +39,7 @@ Cada **expedición Priscian** se llama **Quintus** (literalmente "el quinto" —
 
 ### Liderazgo
 
-- **[[Nerub_Null]]** — **archmage**, **líder de los Priscians en [[Ardis_Vala|Arden Vul]]** ★
+- **[[Nerub_Null]]** — **archmage**, **líder de los Priscians en [[Ardis_Vala|Ardis Vala]]** ★
 - **Jaracondus the Sprightly** — segundo en el dungeon
 - **Cenwulf the Unseen** — ilusionista del octavo grado de su temple, líder del equipo expedicionario priscian
 - **Vingalok** — niravairi del Order of Planar Explorers
@@ -73,15 +73,15 @@ Los Priscians son **la facción "intelectual / arcana secreta"** del dungeon. **
 
 ### La jornada del despojo
 
-En el ciclo presente, **la orden inauguró operativamente el [[Monopolio_Priscian_Magia_Legitima|Monopolio Priscian de la Magia Legítima]]** mediante la primera **derrota arcana directa de los [[Buscadores_de_Ardis_Vala|Buscadores]] en la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]**. *Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] se negaron a permitir acceso a la biblioteca del [[Palacio_del_Prisma|Palacio del Prisma]]*, **la partida Priscian dirigida por [[Nerub_Null]] teleportó al lugar mediante sortian eyes**, **operó con [[Cetro_de_Absorcion|cetros de absorción]] como instrumentos cardinales**, **derrotó al grupo norte**, y **confiscó todos sus objetos mágicos personales** dejando intactos oro, gemas, raciones y suministros.
+En el ciclo presente, **la orden inauguró operativamente el [[Monopolio_Priscian_Magia_Legitima|Monopolio Priscian de la Magia Legítima]]** mediante la primera **derrota arcana directa de los [[Buscadores_de_Ardis_Vala|Buscadores]] en la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]**. *Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] se negaron a permitir acceso a la biblioteca del [[Palacio_del_Prisma|Palacio del Prisma]]*, **la partida Priscian dirigida por [[Nerub_Null]] teleportó al lugar mediante sortian eyes**, **operó con [[Cetro_de_Absorcion|cetros de absorción]] como instrumentos cardinales**, **derrotó al grupo norte**, y **confiscó todos sus objetos mágicos personales** dejando intactos oro, gemas, raciones y suministros.
 
 *El gesto fue ostensiblemente moderado*: **los [[Buscadores_de_Ardis_Vala|Buscadores]] quedaron inconscientes pero vivos**, "*les cayeron bien*". **La doctrina de la chispa abierta operó así su propia ironía**: lo que [[Priscus_Pulcher]] predicaba como apertura universal **se ejecuta hoy como custodia hermética de quien sobrevivió al silencio**. *La victoria póstuma de Pulcher se vuelve operativa contra los herederos doctrinales que se acercaron sin la inscripción adecuada*.
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo — Floor of Great Chasm]]
-- [[Halls_of_Thoth_Nivel|Halls of Thoth]] — presencia oculta (Quintus exploratory teams)
+- [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo — Suelo del Gran Abismo]]
+- [[Halls_of_Thoth_Nivel|Salones de Thoth]] — presencia oculta (Quintus exploratory teams)
 - [[Sortianos]] — orden histórica de la que se auto-proclaman descendientes
 - [[Teosofos|Teósofos]] — rivales históricos (Cisma Mágico)
 - **Nerub Null** — archmage
@@ -99,5 +99,5 @@ En el ciclo presente, **la orden inauguró operativamente el [[Monopolio_Priscia
 
 <!-- CICLO -->
 > **Casas del ciclo** · ⛓ ☷
-> *Cada expedición priscian es un Quintus —núcleo nombrado de cinco, banda con sigla propia— y la orden entera se constituye como heredera colectiva de los [[Sortianos]] derrotados en el Cisma Mágico: reocuparon su compound, restauraron la [[Arcanum_Forge]] y, dirigidos por [[Nerub_Null]], derrotaron a los [[Buscadores_de_Ardis_Vala|Buscadores]] con [[Cetro_de_Absorcion|cetros de absorción]]. Operan estratificados en los niveles del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]] —base en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], células ocultas hacia arriba—, custodios herméticos de la chispa que [[Priscus_Pulcher|Pulcher]] predicaba abierta.* — glosa del archivero del Plata.
+> *Cada expedición priscian es un Quintus —núcleo nombrado de cinco, banda con sigla propia— y la orden entera se constituye como heredera colectiva de los [[Sortianos]] derrotados en el Cisma Mágico: reocuparon su compound, restauraron la [[Arcanum_Forge]] y, dirigidos por [[Nerub_Null]], derrotaron a los [[Buscadores_de_Ardis_Vala|Buscadores]] con [[Cetro_de_Absorcion|cetros de absorción]]. Operan estratificados en los niveles del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]] —base en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], células ocultas hacia arriba—, custodios herméticos de la chispa que [[Priscus_Pulcher|Pulcher]] predicaba abierta.* — glosa del archivero del Plata.
 <!-- /CICLO -->

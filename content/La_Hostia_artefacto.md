@@ -25,3 +25,17 @@ Toda una saga toma su nombre de esta Hostia, y el laberinto donde se la disputa 
 
 - [[Pharmakon|Pharmakon]]
 - [[Poker_de_Hostias|Poker de Hostias]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯
+> *Bendita y maldita a la vez, la Hostia es un objeto de doble hemisferio: pertenece al orden sagrado católico y al maldito que lo corroe, un [[Pharmakon]] hecho cuerpo. [[Gideon]] la lleva hacia la plataforma de Virgo y en el [[Poker_de_Hostias]] se la apuesta como ficha cósmica entre las dos faces del mundo. Lo que un hemisferio consagra, el otro lo señala: el contagio entre Terra y su reverso es la propia sustancia del artefacto.* — glosa del Decadiano.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Macguffin central de la campaña; la campaña ("Rol de la Hostia") y su dungeon ("Dungeon de la Hostia") se nombran por él.
+- Origen: cargada con el conjuro del *Llamado de la Culpa* —un rastreo sobrenatural—, prendida con tal obstinación que apenas cede al más tenaz intento de disiparla.

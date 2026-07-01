@@ -62,6 +62,10 @@ el 21 de diciembre de 1889 y da paso a [[Los_Reguladores|Los Reguladores]].
 **[[Zoro_Dr_Zoulu|Zoro]] / [[Zoro_Dr_Zoulu|Dr. Zoulu]]**, [[Seth]], Labrador, Arcadia. [[Benetton]] aparece en el
 tramo final antes de la transición a **[[Los_Reguladores|Los Reguladores]]**.
 
+### El recorrido de la gesta
+
+El archivo reconstruye su periplo paso a paso: el embarque en **Cádiz** y el plan pirata; la travesía, con el capitán hechizado y el explorador de Gotland; el descenso a la **[[Atlantida_Alta_y_Baja|Atlántida]]** ante [[Cakravartin|Cakravartin]] y el exilio que sigue; las **[[Plataformas_Ucronica|Plataformas]]**, [[Gabriel_Guardian_de_Aries|Gabriel]] y los dragones; el **Desierto de Chihuahua**, donde [[Erzebeth]] da muerte al cura; el [[Patriarca_de_Glastumville|Patriarca de Glastumville]]; la muerte de **[[Stormy]]** frente a [[Oximec]]; la llegada de un **[[Viajero_de_Planos|nuevo compañero]]** y un vuelco de geopolítica; **[[Baton_Rouge_Antiterra|Baton Rouge]]** y sus muertes misteriosas; **Nueva Orleans** y el abandono de la misión; y, por fin, la **[[Copa_de_Piedra|Copa de Piedra]]** y los diablos.
+
 ## Apariciones notables
 
 Sucesos de [[Antiterra_Demonia|Antiterra]] (gesta completa,

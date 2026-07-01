@@ -1,5 +1,5 @@
 ---
-title: "Truco de la Cuerda (Rope Trick)"
+title: "Truco de la Cuerda"
 categoria: concepto
 tags:
  - "paris-ucronica"
@@ -8,8 +8,6 @@ tags:
  - "constantinopla-1050"
 aliases:
  - "Truco de la Cuerda"
- - "Rope Trick"
- - "Truco de la Cuerda (Rope Trick)"
 ---
 
 ## Presentación

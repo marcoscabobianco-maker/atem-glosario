@@ -1,5 +1,5 @@
 ---
-title: "Cimientos, los (TG)"
+title: "Cimientos, los (Torregrises)"
 categoria: lugar
 tags:
  - "lugar"
@@ -9,7 +9,7 @@ tags:
  - "portal"
  - "camisagris"
 aliases:
- - "Cimientos, los (TG)"
+ - "Cimientos, los (Torregrises)"
  - "TG"
  - "Cimientos, los"
 ---

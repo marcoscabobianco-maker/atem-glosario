@@ -23,8 +23,11 @@ tags:
  - ceniza-mojada-anticipada
  - sobrio
  - misterio
-imagen: null
+imagen: Imagenes_Tier1/Scylla.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Scylla.png]]
+<!-- /HEADER_IMG -->
 
 > *"El filo invisible de la noche. Silencioso y letal, Sila ha luchado con el peso de sus lazos con el [[Shadowfell]]. En '[[Senda_de_Drakthar|La Senda de Drakthar]]' tuvo que escoger entre la oscuridad heredada y su lealtad al grupo. Hoy, sus acrobacias imposibles y ataques certeros son vitales para las misiones más sigilosas."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

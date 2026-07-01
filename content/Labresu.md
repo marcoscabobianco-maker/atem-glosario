@@ -1,6 +1,6 @@
 ---
 title: "Labresu"
-título: "Labresu (criatura del deseo)"
+título: "Labresu"
 slug: Labresu
 categoria: entidad
 aliases:
@@ -40,7 +40,7 @@ tags:
 1. **Valerius pidió un deseo** a Labresu
 2. Labresu ofreció **dos artefactos**:
  - La **espada compañera afilada, sangrante de ácido** (que **portaría a [[Ardipithecus|Graz'zt como ardipitecus]]** escondido dentro)
- - La **[[Llave_Dual_Oro_Espina|llave del Circuito de Medianoche]]** ([[Obsidian_Gates_Midnight_Road|Obsidian Gates]] / [[Obsidian_Gates_Midnight_Road|Midnight Road]] Puertas de Obsidiana)
+ - La **[[Llave_Dual_Oro_Espina|llave del Circuito de Medianoche]]** ([[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]] / [[Obsidian_Gates_Midnight_Road|Camino de Medianoche]] Puertas de Obsidiana)
 3. Valerius **aceptó** —sea por necesidad táctica o por brecha ética—
 4. **Consecuencias cósmicas**:
  - **Fallos de poderes oscuros del paladín** (su paladinaje compromised)
@@ -82,3 +82,16 @@ Labresu es **el demonio menor de una trampa cosmológica mayor** —de la estirp
 - **Corrida original [[Ardis_Vala]]**: pacto con Valerius (jornada específica pendiente)
 - **el regreso tras el Hiato**: el demonio que ofreció *"la espada y la llave del Circuito de Medianoche"* en el círculo de invocación de la [[Ciudadela_Sin_Sol]] —**puede ser Labresu mismo** o su mensajero
 - **Pendiente desarrollo**
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛧ ◑
+> *El demonio que concedió a [[Valerius_Utrecht]] el deseo prohibido: una espada y la [[Llave_Dual_Oro_Espina|llave del Circuito de Medianoche]] a cambio de abrir la rendija por donde [[Ardis_Vala]] cae a Ravenloft. Pero el trato escondía un durmiente: dentro de la espada venía [[Ardipithecus|Graz'zt]] guardado, esperando su hora para despertar tras el Hiato. El pacto que condena al paladín (lo que A leyó como pacto sustitutivo, AA-P.5) y la crisálida que aguarda en el acero (la casa del enemigo que no se vence sino que se guarda) son, en C, las dos caras de la misma trampa.* — glosa de Paulus.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Grafía "Labresu" (dictada) por confirmar; candidatos del bestiario: Lasher (demonio menor del *Manual of the Planes* / *Monstrous Manual*), pseudonatural/aberrant fiend, wish-granting outsider custom, o variante de larva/lemur abismal.

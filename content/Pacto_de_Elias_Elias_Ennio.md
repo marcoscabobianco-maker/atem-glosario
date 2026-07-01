@@ -116,7 +116,7 @@ El archivo decadiano registra **un rumor que circula en los pliegos del valle**,
 **Dos prendas dracónicas hipotéticas** ocultas en el valle:
 
 1. **Huevo ancestral** en la **Ciénaga de los Suspiros** —*paraje pantanoso al sur del valle, fuera del recorrido habitual de los [[Buscadores_de_Ardis_Vala|Buscadores]] en su ciclo primero*—.
-2. **[[Vale_de_Cristal_Talisman_Dimension|Talismán]] de dominio dracónico** en **criptas bajo el [[Forum_de_Set|templo de Set]]** —*en el [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], donde los rubíes activan el mensaje en mítrico de [[Priscus_Pulcher]]*—.
+2. **[[Vale_de_Cristal_Talisman_Dimension|Talismán]] de dominio dracónico** en **criptas bajo el [[Forum_de_Set|templo de Set]]** —*en el [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]], donde los rubíes activan el mensaje en mítrico de [[Priscus_Pulcher]]*—.
 
 *La proximidad espacial entre los rubíes sortianos y el talismán dracónico hipotético* **es coincidencia que el cronista decadiano registra sin glosa pero con cuidado**. **Recuperar la prenda dracónica reactivaría el Pacto en plenitud**. **Romperla o destruirla lo extinguiría**. *Ningún Buscador del ciclo primero localizó la prenda*. *La cuestión queda abierta al ciclo presente*.
 

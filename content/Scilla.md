@@ -14,7 +14,7 @@ tags:
 
 ## Presentación
 
-**Scilla** es **un compañero del archivo** —la misma mano que encarnó a [[Elias|Elías Magíster]], [[Helter]], Lirio (TE), [[Krisina]] ([[Libertateurs]]) y otros—. El archivo lo distingue específicamente frente al monstruo Scya: son entidades separadas.
+**Scilla** es **un compañero del archivo** —la misma mano que encarnó a [[Elias|Elías Magíster]], [[Helter]], Lirio (Templarios), [[Krisina]] ([[Libertateurs]]) y otros—. El archivo lo distingue específicamente frente al monstruo Scya: son entidades separadas.
 
 El nombre comparte cuasi-grafía con **[[Scya]]** —el monstruo femenino de la [[Galia_Narbonensis]] derrotado por los Reguladores—. **No son la misma entidad**: Scilla es compañero; Scya es figura criatura.
 

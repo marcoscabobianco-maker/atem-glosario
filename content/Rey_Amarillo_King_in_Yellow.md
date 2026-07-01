@@ -18,6 +18,7 @@ tags:
  - mascara
  - antiterra
  - paris-ucronica
+ - never-911
 imagen: Imagenes_Tier1/Rey_Amarillo_King_in_Yellow.png
 ---
 
@@ -59,6 +60,7 @@ Algunos doctrinarios lo emparentan con **otras entidades sentadas** —**[[La_Da
 - **Anterior al cómputo cristiano** — manifestaciones documentadas en las orillas de Hali
 - **Período final de [[Antiterra]]** — referencia oblicua en archivos de [[Paris_Ucronica|París Ucrónica]]
 - **Ciclo presente** — entidad latente; las representaciones de la obra siguen ocasionalmente, *y siguen produciendo lo que producen*
+- **[[Rey_Amarillo_Carcosa_MYM|Never 9-11 / Earth-212]]** — el marco amarillo que asoma tras la New York platónica del futuro; nombrado con Hastur, las Híades y Aldebarán, y sellado con la fórmula *"Esto es Carcosa"*
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☯

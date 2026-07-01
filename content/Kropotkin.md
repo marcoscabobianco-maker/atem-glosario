@@ -19,7 +19,12 @@ tags:
  - comisario-politico
  - sigil-resarcida
  - ciencia-moderna-y-anarquismo
+imagen: Imagenes_Tier1/Kropotkin.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Kropotkin.png]]
+<!-- /HEADER_IMG -->
 
 > *El anarquista ruso de la maza. La maza de los maillotins de la revuelta de París, escondida en su saco. Aliado de los Reguladores. Después, comisario político en la Sigil resarcida.*
 

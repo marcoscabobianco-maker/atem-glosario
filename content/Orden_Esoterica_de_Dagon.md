@@ -12,16 +12,16 @@ tags:
 aliases:
  - "Orden Esotérica de Dagón"
  - "Orden de Dagón"
- - "Los Profundos (Tulu)"
+ - "Los Profundos (Cthulhu)"
  - "Los Profundos de Malvinas"
  - "Dagón"
 ---
 
-> *La cofradía batracia del Atlántico Sur. La estirpe que adora a Dagón y prepara la venida de Tulu desde el fondo del mar. Se llaman a sí mismos «los Profundos».*
+> *La cofradía batracia del Atlántico Sur. La estirpe que adora a Dagón y prepara la venida de Cthulhu desde el fondo del mar. Se llaman a sí mismos «los Profundos».*
 
 ## Presentación
 
-En las islas del Atlántico Sur, en 1966, hay una cofradía que se llama a sí misma **los Profundos**: la **Orden Esotérica de Dagón**. Es la estirpe que adora a Dagón y prepara la venida de **Tulu** desde el fondo del mar —sombra batracia bajo la disputa de soberanía, mucho más vieja que cualquier bandera plantada sobre la turba.
+En las islas del Atlántico Sur, en 1966, hay una cofradía que se llama a sí misma **los Profundos**: la **Orden Esotérica de Dagón**. Es la estirpe que adora a Dagón y prepara la venida de **Cthulhu** desde el fondo del mar —sombra batracia bajo la disputa de soberanía, mucho más vieja que cualquier bandera plantada sobre la turba.
 
 Lo que al principio parecía hospitalidad isleña —**trajes sin costura**, un **hijo que vuelve al agua**, una **piedra azul** que pasa de mano en mano— se revela como las señas de una sola cosa: una Orden, una célula con agentes capaces de operar tierra adentro, en el continente. La cofradía que recibió a los recién llegados del [[Operativo_Condor|Operativo Cóndor]] no los acogía: los estudiaba.
 

@@ -1,6 +1,6 @@
 ---
 title: "Arcanum"
-título: "Arcanum (sustancia mágica primordial)"
+título: "Arcanum"
 slug: Arcanum
 categoria: entidad
 aliases:
@@ -68,7 +68,7 @@ El **Arcanum** es **la sustancia mágica primordial** del mundo [[Ardis_Vala]] �
 - [[Arcanum_Forge|Forja Arcanum]] — locus de manipulación
 - [[Kerbog_Khan]] — obsesionado con el Arcanum
 - [[Sortianos]] / [[Priscians]] — herederos del culto al Arcanum
-- [[Nerub_Null]] — archmage Priscian que restaura la forja
+- [[Nerub_Null]] — archimago Priscian que restaura la forja
 - [[Arbol_de_Armas_Principal]] — crecido con poder Arcanum
 - [[Mega_Dungeon_Arden_Vul]]
 - [[Beacon_Faro_Brillante]] — sistema rudishva vinculado

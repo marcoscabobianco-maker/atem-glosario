@@ -1,6 +1,6 @@
 ---
-title: "Floor of Great Chasm"
-título: "Floor of Great Chasm"
+title: "Suelo del Gran Abismo"
+título: "Suelo del Gran Abismo"
 slug: L09_Floor_of_Great_Chasm
 categoria: lugar
 aliases:
@@ -26,7 +26,7 @@ tags:
 
 ## Presentación
 
-El **Floor of Great Chasm** —*Suelo del Gran Abismo*— es el **suelo de la caverna colosal central** del [[Mega_Dungeon_Arden_Vul]]. **Sin techo en la mitad oeste** (acceso vertical desde múltiples niveles); **techo de 50' en la mitad este**. **Bosques de hongos colosales** bifurcados por la **lake** formada por las dos waterfalls que caen desde niveles superiores. **Rimpled Run** —río subterráneo— exits al norte.
+El **Suelo del Gran Abismo** —*Suelo del Gran Abismo*— es el **suelo de la caverna colosal central** del [[Mega_Dungeon_Arden_Vul]]. **Sin techo en la mitad oeste** (acceso vertical desde múltiples niveles); **techo de 50' en la mitad este**. **Bosques de hongos colosales** bifurcados por la **lake** formada por las dos waterfalls que caen desde niveles superiores. **Rimpled Run** —río subterráneo— exits al norte.
 
 ### Seis regiones
 
@@ -46,11 +46,11 @@ El **Floor of Great Chasm** —*Suelo del Gran Abismo*— es el **suelo de la ca
 - **Cenwulf the Unseen** — ilusionista del octavo grado de su temple, líder de la expedición priscian
 - **Vingalok** — niravairi del Order of Planar Explorers
 - **Syagria Aitón** — **lich**
-- **Jaracondus the Sprightly** — segundo Priscian en [[Ardis_Vala|Arden Vul]]
+- **Jaracondus the Sprightly** — segundo Priscian en [[Ardis_Vala|Ardis Vala]]
 - **Nerub Null** — **archmage**, líder Priscian
 - **Walid** — chief ogre magi
 - **Celsus Torquatius** — **vengeance aspect de Sekhmet**
-- **Rivvep** — **kaliyani sorcerer**, líder exploration team
+- **Rivvep** — **hechicero kaliyani**, líder exploration team
 
 ### Construcción
 
@@ -60,16 +60,16 @@ El **Floor of Great Chasm** —*Suelo del Gran Abismo*— es el **suelo de la ca
 
 ### Accesos / salidas
 
-- **Great Chasm**: sube hasta los pisos altos
+- **Gran Abismo**: sube hasta los pisos altos
 - **A Puertas de Obsidiana**: el Great Pillar y el pozo de tránsito
-- **A Troll Lifts**: el Great Pillar y el pozo de tránsito
+- **A Elevadores de los Trolls**: el Great Pillar y el pozo de tránsito
 - **A Corte del Thegn**: el Great Pillar, el pozo de tránsito y los **Dread Risers**
 - **A Ziggurat de Kauket**: el río y el corredor oeste (**ruta principal**)
 
 ### Aliados / enemigos importantes
 
 - **Los heqeti han ocupado** el **forward post** que conduce a Ziggurat de Kauket. **Alerta de aquí dispara la defensa del Ziggurat**.
-- **Los kaliyani han enviado expedición** desde Kaliyani Pits (Rivvep)
+- **Los kaliyani han enviado expedición** desde Pozos de Kaliyani (Rivvep)
 - **Los varumani extraen plata** y comen hongos
 - **Los [[Priscians]] han reocupado** Sortian compound
 
@@ -85,7 +85,7 @@ El **Floor of Great Chasm** —*Suelo del Gran Abismo*— es el **suelo de la ca
 - [[Kaliyani]] — expedición de Rivvep
 - [[Varumani]] — silver mining
 - [[Sekhmet]] — reliquary con vengeance aspect
-- **Nerub Null** — archmage Priscian
+- **Nerub Null** — archimago Priscian
 - **Walid** — ogre magi chief
 - **Celsus Torquatius** — Sekhmet vengeance aspect
 - **Old Father** — heqeti undead spirit
@@ -94,7 +94,7 @@ El **Floor of Great Chasm** —*Suelo del Gran Abismo*— es el **suelo de la ca
 ## Apariciones
 
 - **Pendiente** — visita exhaustiva
-- Probablemente referenciado en jornadas del Great Chasm
+- Probablemente referenciado en jornadas del Gran Abismo
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷ ⟳

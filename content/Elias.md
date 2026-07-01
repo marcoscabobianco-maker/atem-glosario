@@ -20,7 +20,12 @@ tags:
  - cascarrabias
  - linaje
  - magister
+imagen: Imagenes_Tier1/Elias.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Elias.png]]
+<!-- /HEADER_IMG -->
 
 > *Viejo maldito que se hacía llamar Magíster. Con G, para que se notara.*
 

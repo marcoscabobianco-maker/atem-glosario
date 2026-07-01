@@ -12,10 +12,5 @@ aliases:
 
 ## Presentación
 
-- **Rol:** Emergente figura; posible Redención/[[Vito_Guia|Guía]]
-- **Identidad:** Confusión narrativa; "Orfeo volvés a pasar al otro lado?"
-- **Relación con [[Sariel]]:** ¿Oposición? ¿Alineamiento?
-- **Referencia:**
-
-## Ver también
+Figura que emerge en la fase tardía del ciclo primero, posible [[Vito_Guia|guía]] o redención. El archivo no termina de fijar su identidad: lo persigue el eco de una pregunta, "Orfeo, ¿volvés a pasar al otro lado?", como si su don fuera el de ir y volver del umbral. Su relación con [[Sariel]] queda en suspenso, sin que la crónica decida si lo opone o lo acompaña.
 

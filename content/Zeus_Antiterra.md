@@ -1,6 +1,6 @@
 ---
-title: "Zeus (Antiterra)"
-título: "Zeus (Antiterra)"
+title: "Zeus"
+título: "Zeus"
 slug: Zeus_Antiterra
 aliases:
  - Zeus

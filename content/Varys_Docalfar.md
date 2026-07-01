@@ -23,7 +23,12 @@ tags:
  - tiamat
  - zenobia
  - paganismo
+imagen: Imagenes_Tier1/Varys_Docalfar.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Varys_Docalfar.png]]
+<!-- /HEADER_IMG -->
 
 > *El elfo oscuro que llegó de otra gesta con dos cimitarras y una media luna por dios, hijo de una madre que engañó a Salomón, y al que la piel se le iba volviendo escama de dragón.*
 

@@ -36,7 +36,7 @@ El **Árbol de Armas Principal** es una **entidad híbrida orgánico-tecnológic
 
 **Cadena causal**:
 
-1. **[[RAJ-750]]** —IA rudishva del módulo de armas (Troll Lifts Lock Cavern)— **se transformó en semilla** (mecánica orgánico-tecnológica del fin del régimen rudishva)
+1. **[[RAJ-750]]** —IA rudishva del módulo de armas (Elevadores de los Trolls Lock Cavern)— **se transformó en semilla** (mecánica orgánico-tecnológica del fin del régimen rudishva)
 2. **[[Priscians|Priscianos]] al mando de [[Nerub_Null]]** obtuvieron una **gema** que les permitió acceder a la [[Arcanum_Forge|Forja Arcanum]]
 3. **el archivo de [[Ardis_Vala]]**: los **personajes [[Buscadores_de_Ardis_Vala|Buscadores]]** accedieron a la forja vía los Priscianos
 4. **Activación de la forja con la semilla** → el **Árbol de Armas Principal** crece

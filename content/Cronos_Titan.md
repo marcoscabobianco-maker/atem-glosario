@@ -1,6 +1,6 @@
 ---
-title: "Cronos (titán)"
-título: "Cronos (titán)"
+title: "Cronos"
+título: "Cronos"
 slug: Cronos_Titan
 categoria: personaje
 aliases:
@@ -18,13 +18,18 @@ tags:
  - exarca
  - arian
  - distinto-de-kronamon
----
+imagen: Imagenes_Tier1/Cronos_Titan.png
 
-> *Titán propietario original de la [[Taberna_de_la_Serpiente_Mundo]]. Transformado en gato por [[Monaco|Mónaco]]. Después, mano de Arian contra los exarcas. NO es [[Kronamon]].*
+---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cronos_Titan.png]]
+<!-- /HEADER_IMG -->
+
+> *Titán propietario original de la [[Taberna_de_la_Serpiente_Mundo]]. Transformado en gato por [[Monaco|Mónaco]]. Después, mano de Arian contra los exarcas. NO es [[Chronomon|Kronamon]].*
 
 ## Presentación
 
-**[[Cronos]]** —el **titán propietario original** de la **[[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]]**— es **un personaje del archivo que NO debe confundirse con [[Kronamon]]** (el hijo de [[Pablo_de_Alejandria|Pablo de Alejandría]], decapitado en 1120). Son **dos personajes distintos del mismo campo semántico** —ambos relacionados con el tiempo, ambos con nombres derivados del [[Cronos]] griego, pero **ontológica y narrativamente separados**—.
+**[[Cronos]]** —el **titán propietario original** de la **[[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]]**— es **un personaje del archivo que NO debe confundirse con [[Chronomon|Kronamon]]** (el hijo de [[Pablo_de_Alejandria|Pablo de Alejandría]], decapitado en 1120). Son **dos personajes distintos del mismo campo semántico** —ambos relacionados con el tiempo, ambos con nombres derivados del [[Cronos]] griego, pero **ontológica y narrativamente separados**—.
 
 ### El titán de la Taberna
 
@@ -40,7 +45,7 @@ El archivo registra que en algún momento del arco de **[[Lords_of_Creation|los 
 
 ### Distinción CRÍTICA frente a Kronamon
 
-**Cronos titán ≠ [[Kronamon]]**. El archivo insiste en la distinción: Cronos titán, propietario de la taberna de serpientes, ya está en la narrativa y no debe confundirse con Kronamon. Las diferencias:
+**Cronos titán ≠ [[Chronomon|Kronamon]]**. El archivo insiste en la distinción: Cronos titán, propietario de la taberna de serpientes, ya está en la narrativa y no debe confundirse con Kronamon. Las diferencias:
 
 | Cronos titán | Kronamon |
 |---|---|
@@ -64,7 +69,7 @@ El nombre del titán evoca al **Cronos griego original** (Κρόνος, titán h
 - [[Klyssandral]] — uno de los exarcas en algún momento
 - [[Marcha_de_los_Modrons]] — destrucción posterior de la taberna
 - **Cronos griego** (titán) — referencia mitológica
-- **NO confundir con [[Kronamon]]** — el hijo de Pablo de Alejandría
+- **NO confundir con [[Chronomon|Kronamon]]** — el hijo de Pablo de Alejandría
 
 ## Apariciones
 
@@ -72,3 +77,12 @@ El nombre del titán evoca al **Cronos griego original** (Κρόνος, titán h
 - Transformación en gato por Mónaco — adquisición de la taberna por Las Tullidas
 - Ciclo de los Señores de la Creación — mano de Arian en la disputa de exarcas
 - [[Marcha_de_los_Modrones]] — destrucción de la taberna (su forma post-titán pendiente)
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Forma de mesa:** ciclo *Lords of Creation* (fase paralela), corrido ~2024.
+- **Distinción declarada por el autor (2026-05-20):** *"Cronos titán propietario de la taberna de serpientes. Todo eso ya está en la narrativa, no confundir con Kronamon."* En esa misma instancia se fijó que Arian ganó usando la "mano de Cronos titán".

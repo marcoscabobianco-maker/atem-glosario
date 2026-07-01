@@ -23,8 +23,11 @@ tags:
  - chispa-abierta
  - mensaje-en-mitrico
  - eco-doctrinal
-imagen: null
+imagen: Imagenes_Tier1/Priscus_Pulcher.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Priscus_Pulcher.png]]
+<!-- /HEADER_IMG -->
 
 > *"Yo, Priscus Pulcher, he hablado."* — última cláusula del único discurso completo del mártir conservado en el archivo, grabado en mítrico sobre placa interior de la cámara octogonal del [[Forum_de_Set|Foro de Set]].
 
@@ -39,7 +42,7 @@ La lámina —*el rostro del mártir*— **no llegó al archivo cerrado**. Los r
 - **Priscus Pulcher** — grafía canónica de los archivos imperiales y de la cancillería de [[Narsileon]].
 - **Prisco Electe** — variante popular del valle, *"Prisco el Elegido"*, atestiguada en archivos provinciales y en transmisión oral. *Probablemente corrupción dialectal* —el adjetivo *pulcher* fue interpretado por oído como *electe*—; *o, según otra tradición*, **título secundario del mártir** otorgado por sus seguidores tras la muerte: *Pulcher* en vida, *Electe* en memoria.
 
-*El cronista decadiano conserva las dos formas sin pronunciarse*. Los **[[Priscians|Priscians]]** modernos —*orden hermética del [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], en el [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]*— **toman su nombre del mártir** sin precisar cuál de las dos grafías reivindican; **algunos doctrinarios sostienen que reivindican ambas como una sola figura**.
+*El cronista decadiano conserva las dos formas sin pronunciarse*. Los **[[Priscians|Priscians]]** modernos —*orden hermética del [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], en el [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]*— **toman su nombre del mártir** sin precisar cuál de las dos grafías reivindican; **algunos doctrinarios sostienen que reivindican ambas como una sola figura**.
 
 ---
 
@@ -58,7 +61,7 @@ Priscus Pulcher fue **el portavoz histórico de los [[Sortianos]]** —*facción
 
 ## El mensaje en mítrico
 
-La sentencia mayor del mártir **no se conserva en los archivos imperiales escritos**: los Teósofos vencedores, en los siglos posteriores al cierre militar de la guerra, **purgaron las copias en pergamino**. **Sobrevive en una sola forma**: **grabado en mítrico sobre placa interior de la cámara octogonal del Foro de [[Set]]**, en el **[[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]**.
+La sentencia mayor del mártir **no se conserva en los archivos imperiales escritos**: los Teósofos vencedores, en los siglos posteriores al cierre militar de la guerra, **purgaron las copias en pergamino**. **Sobrevive en una sola forma**: **grabado en mítrico sobre placa interior de la cámara octogonal del Foro de [[Set]]**, en el **[[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]**.
 
 El mecanismo de activación del mensaje es **doctrinalmente significativo**: la placa se ilumina —*y la sentencia se hace audible en mítrico para todo presente*— sólo cuando **los rubíes están colocados en los ojos de la estatua mayor de Set**. La condición es **paradoja deliberada**: el mensaje del **reformador Sortiano** se activa por **ofrenda al dios sombrío de los Teósofos**.
 

@@ -18,8 +18,11 @@ tags:
  - helix
  - inquisicion
  - baculo-de-redencion
-imagen: null
+imagen: Imagenes_Tier1/Vicario_Otar.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Vicario_Otar.png]]
+<!-- /HEADER_IMG -->
 
 > *"Yo sé que todavía puedes dar vuelta al maldito. El maldito puede ser revivido. Entonces... Si hay algo de bien, eres el único que lo puede despertar."* — Otar al clérigo [[Mortan]], antes del cerco.
 

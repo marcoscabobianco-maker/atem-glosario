@@ -8,7 +8,7 @@ aliases:
  - Tria Conversio
  - Vnvs Cor
 categoria_diegetica: concepto
-epoca: "doctrina alquímica continuada; aplicación moderna en el subterráneo TNW"
+epoca: "doctrina alquímica continuada; aplicación moderna en el subterráneo (Mundo Nuevo)"
 ubicacion_principal: "talleres alquímicos / cuevas bajo Gary, Indiana"
 tags:
  - concepto

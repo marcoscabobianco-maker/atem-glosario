@@ -26,7 +26,7 @@ La genealogía refundada por [[GRDT]] y **[[KAXA]]** retrotrae el linaje a Noé 
 
 *Fuente primaria:* Documento Skronamon (líneas 21-22).
 
-*Conexiones:* **[[Grazzt|Graz'zt]] / [[GRDT]]** (portador del título), **[[Axum_MC|Axum (MC)]]** (reino), **[[KAXA]]** (co-refundador genealógico), **[[Minborgen]]** (posible cruce: *legatus* del *solis invicti* → [[Minborgen]] luchó en legión del [[Sol_Invictus_Culto_Mediterraneum|Sol Invictus]]).
+*Conexiones:* **[[Grazzt|Graz'zt]] / [[GRDT]]** (portador del título), **[[Axum_MC|Axum (ciclo)]]** (reino), **[[KAXA]]** (co-refundador genealógico), **[[Minborgen]]** (posible cruce: *legatus* del *solis invicti* → [[Minborgen]] luchó en legión del [[Sol_Invictus_Culto_Mediterraneum|Sol Invictus]]).
 
 ## Ver también
 

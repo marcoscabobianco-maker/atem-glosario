@@ -24,9 +24,9 @@ Lanza un poderoso conjuro de sugestión mágica sobre el grupo. Exige el cuerno 
 
 En el relato representa la tentación cósmica frente a la obligación religiosa y moral: el grupo elige la obligación (la salida) sobre la tentación (quedarse). [[Michel|Michel]] lidera la resistencia mediante la fe ("lujuria es camino demonio").
 
-**[[Misterio_abierto|Misterio abierto]]:** ¿Aliado de [[Marques_de_Sade_Hugo|Hugo]]? ¿Prueba deliberada? ¿Enemigo oculto? ¿Cuál es el propósito de la tentación?
+**Misterio abierto:** ¿Aliado de [[Marques_de_Sade_Hugo|Hugo]]? ¿Prueba deliberada? ¿Enemigo oculto? ¿Cuál es el propósito de la tentación?
 **Posible identidad:** Titán de la mitología griega, poder antiguo, tal vez asociado a Ur (la negociación con los gigantes) o a fuerzas extradimensionales superiores.
 
 ## Ver también
 
-- [[Misterio_abierto|Misterio abierto]]
+- Misterio abierto

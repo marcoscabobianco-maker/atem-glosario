@@ -17,18 +17,18 @@ aliases:
 - Los símbolos pentaculares rodeaban la estructura como **ritual de selado**
 - Estaba bajo el control de una criatura infraplanar (posiblemente [[Minotauro_Jefe_del_Laberinto|Minotauro]] como guardián-esclavo)
 
-**[[Propiedades]] mágicas:**
+**Propiedades mágicas:**
 - Función primaria: **ancla de contención mágica** (mantenía sellada una criatura extraplanar)
 - Al remover: libera el sello, consecuencias desconocidas
 
 **Estado post-[[Jornada_del_Falso_Maestre]]:** Asegurada por grupo. Guardada por [[Michel|Michel]] (línea 605: "le la guardo"). Llevada hacia salida.
 
-**[[Teologia|Teología]]:** Símbolo de herejía templaria histórica (acusación de adoración a [[Baphomet]] en siglo XIV). En la fase templaria, posiblemente representa contención de un demonio bajo rituales templarios.
+**Teología:** Símbolo de herejía templaria histórica (acusación de adoración a [[Baphomet]] en siglo XIV). En la fase templaria, posiblemente representa contención de un demonio bajo rituales templarios.
 
-**Vinculación:** Centro narrativo de la jornada del falso Maestre. [[Resolucion|Resolución]] del enigma de "qué fue atacado en el asalto inicial al [[Temple_complejo_TE|Temple]]" — no fue el [[Temple_complejo_TE|Temple]] sin más, fue un intento de liberar la criatura contenida.
+**Vinculación:** Centro narrativo de la jornada del falso Maestre. Resolución del enigma de "qué fue atacado en el asalto inicial al [[Temple_complejo_TE|Temple]]" — no fue el [[Temple_complejo_TE|Temple]] sin más, fue un intento de liberar la criatura contenida.
 
 ## Ver también
 
-- [[Propiedades]] mágicas
-- [[Teologia|Teología]]
+- Propiedades mágicas
+- Teología
 - Vinculación

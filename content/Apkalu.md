@@ -16,13 +16,7 @@ aliases:
 
 ## Presentación
 
-**Vigilantes** introducidos en la Fase 5 (el archivo [[SOGOL]]). Cabeza de halcón. Conectan con Hawkwoman. Función pendiente de ingesta detallada de archivos.
-
-## Conexiones
-
-- [[SOGOL]] (Fase 5)
-- Hawkwoman
-- Mythic Actions discutidos en jornada
+Los Apkalu son **vigilantes** de cabeza de halcón, surgidos en el archivo de [[SOGOL]]. La crónica los vincula a la Mujer-Halcón, de cuya estirpe parecen guardar el rostro. Más allá de su condición de centinelas, el archivo no asienta todavía su función.
 
 ## Ver también
 

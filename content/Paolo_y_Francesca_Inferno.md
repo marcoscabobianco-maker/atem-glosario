@@ -34,7 +34,7 @@ La historia de los amantes dantescos funciona como modelo diegético para el rit
 - [[Campana_Dante_S_Inferno_CDI|Gesta Dante's Inferno]] — marco narrativo de la gesta
 - [[Minos_Inferno|Minos]] — juez infernal que los condenó al Segundo Círculo
 - [[Tempestari]] — criatura de tormenta que habita el Segundo Círculo con ellos
-- [[Tel_Inferno|Tel]] — personaje del grupo que atraviesa el Segundo Círculo
+- [[Thel|Tel]] — la guía del Descenso (Thel) que atraviesa el Segundo Círculo
 - [[Lost_Ones]] — los condenados del [[Anti_Inferno|Ante-Inferno]], contraste con los clasificados por Minos
 
 <!-- CICLO -->

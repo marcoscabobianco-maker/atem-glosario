@@ -8,7 +8,6 @@ aliases:
  - Arkoms Kosmar
  - El Bibliotecario de Mithranor
  - El Duward de Brightwater
- - El Maestro del Taller
 categoria_diegetica: personaje
 epoca: "edad larga; presencia atestada en Arborea, Mithranor y la Grieta hasta su retiro tardío"
 ubicacion_principal: "Arborea (Brightwater, Sea Hill); más tarde, la biblioteca de Mithranor; Islaire al final"
@@ -26,7 +25,7 @@ tags:
  - maestro
  - linaje
  - clarisa
-imagen: null
+imagen: Imagenes_Tier1/Arcoms_Cosmar.png
 linaje:
  hija: "[[Clarisa]]"
  discipulos:
@@ -35,6 +34,9 @@ linaje:
  - "[[Moran_Atias|Moran Atias]]"
  linaje_lejano: "[[Elias|Elías]]"
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Arcoms_Cosmar.png]]
+<!-- /HEADER_IMG -->
 
 > *"Cuidaba la biblioteca como se cuida una herida que cicatriza despacio: con luz tasada, con humedad medida, y sin nombrarla cada mañana."*
 

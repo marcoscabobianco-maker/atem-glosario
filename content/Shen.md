@@ -28,7 +28,7 @@ de [[More]]). Su sufrimiento marca coste de las maquinaciones de [[Lubina]] en v
 Shen representa lo vulnerable en trama épica. Su rastreo olfativo es habilidad
 excepcional en ser común — contraste con poderes de guerreros y clérigos del grupo.
 
-En *Señores de [[York]]* (Taller l.979-1089), Shen es 'el Comunero', representante de los campesinos. De apariencia 'un tanto siniestra', con capacidad olfativa sobrehumana (rastrea a [[More]] con la nariz en la nieve). Lo que escupe mata la vegetación. Llora al ver [[Monkchester]] destruido: sus campos eran 'lo que más había amado en su vida'. En la repartición de experiencia, se lo describe como bufón en la corte, conquistando a Selina con trucos y produciendo una 'valiente distracción' contra el dragón.
+En *Señores de [[York]]*, Shen es 'el Comunero', representante de los campesinos. De apariencia 'un tanto siniestra', con capacidad olfativa sobrehumana (rastrea a [[More]] con la nariz en la nieve). Lo que escupe mata la vegetación. Llora al ver [[Monkchester]] destruido: sus campos eran 'lo que más había amado en su vida'. En la repartición de experiencia, se lo describe como bufón en la corte, conquistando a Selina con trucos y produciendo una 'valiente distracción' contra el dragón.
 
 ## Ver también
 

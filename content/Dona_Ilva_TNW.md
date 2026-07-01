@@ -1,10 +1,10 @@
 ---
-title: "Doña Ilva (TNW)"
+title: "Doña Ilva (Mundo Nuevo)"
 tags:
  - "gary-tnw"
  - "matriarch"
 aliases:
- - "Doña Ilva (TNW)"
+ - "Doña Ilva (Mundo Nuevo)"
  - "TNW"
  - "Doña Ilva"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Library of Thoth"
-título: "Library of Thoth"
+title: "Biblioteca de Thoth"
+título: "Biblioteca de Thoth"
 slug: Library_of_Thoth
 categoria: lugar
 aliases:
@@ -19,11 +19,11 @@ tags:
  - fuente-informacion
 ---
 
-> *Una de las bibliotecas más antiguas del mega-dungeon. Cuevas Aullantes dentro de las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes]]. Fuente de información histórica masiva sobre toda la cosmología MC. Custodiada por Gerrilad el Grey e Isocritis Half-Hand.*
+> *Una de las bibliotecas más antiguas del mega-mazmorra. Cuevas Aullantes dentro de las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes]]. Fuente de información histórica masiva sobre toda la cosmología MC. Custodiada por Gerrilad el Grey e Isocritis Half-Hand.*
 
 ## Presentación
 
-La **Library of Thoth** —**Biblioteca de Thoth**— es **una de las bibliotecas más antiguas y completas** del [[Mega_Dungeon_Arden_Vul]]. Ubicada en el corazón de las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes y Pozo de Luz]]. Fuente clave de **información histórica** sobre todo el mundo Vala/Archontos.
+La **Biblioteca de Thoth** —**Biblioteca de Thoth**— es **una de las bibliotecas más antiguas y completas** del [[Mega_Dungeon_Arden_Vul]]. Ubicada en el corazón de las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes y Pozo de Luz]]. Fuente clave de **información histórica** sobre todo el mundo Vala/Archontos.
 
 ### Contenido
 
@@ -37,7 +37,7 @@ La biblioteca contiene:
 - **Información sobre los Archonteans** (fundadores imperiales)
 - **Información sobre los [[Varumani]]** (origen, declive)
 - **Tratados mágicos** —magia thotiana, magia arcana, contra-magia
-- **Textos sobre las facciones del dungeon** —Beastmen, Goblins, Halflings, [[Heqeti]], [[Kaliyani]], Caballeros
+- **Textos sobre las facciones del dungeon** —Hombres-Bestia, Goblins, Halflings, [[Heqeti]], [[Kaliyani]], Caballeros
 - **Posibles textos sobre el Beacon** y la tecnología rudishva
 - **Posibles textos sobre Kauket** y los príncipes demonio
 - **Mapas y planos** del dungeon (antiguos, algunos obsoletos)
@@ -46,7 +46,7 @@ La biblioteca contiene:
 
 #### Gerrilad el Grey
 
-**Druida humano**, **señor de los babuinos** de las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes]]. Pasa **38% de su tiempo en la biblioteca**, **60% en su aposento contiguo**, **2% viajando por Druids Retreat**.
+**Druida humano**, **señor de los babuinos** de las [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes]]. Pasa **38% de su tiempo en la biblioteca**, **60% en su aposento contiguo**, **2% viajando por Retiro de los Druidas**.
 
 Gerrilad **conoce el contenido de la biblioteca**. **Puede negociar acceso** a los [[Buscadores_de_Ardis_Vala|Buscadores]] si lo aborda con respeto. Es **menos hostil que sus babuinos** y opera con **inteligencia diplomática** —druida de mente abierta—.
 
@@ -56,11 +56,11 @@ Gerrilad **conoce el contenido de la biblioteca**. **Puede negociar acceso** a l
 
 ### Babuinos como guardianes naturales
 
-Los **babuinos de Gerrilad** patrullan el nivel y **protegen instintivamente la biblioteca**. **Si los compañeros reparan los espejos del [[L02_Howling_Caves_Well_of_Light|Well of Light]]** y activan la iluminación, **los babuinos pierden moral** y **la biblioteca se vuelve más accesible**.
+Los **babuinos de Gerrilad** patrullan el nivel y **protegen instintivamente la biblioteca**. **Si los compañeros reparan los espejos del [[L02_Howling_Caves_Well_of_Light|Pozo de Luz]]** y activan la iluminación, **los babuinos pierden moral** y **la biblioteca se vuelve más accesible**.
 
 ### Función narrativa
 
-La Library of Thoth es **el "punto de info-dump" del dungeon** —donde los compañeros pueden investigar cualquier pregunta histórica/mágica/cosmológica. puede **sembrar conocimiento** aquí sobre:
+La Biblioteca de Thoth es **el "punto de info-dump" del dungeon** —donde los compañeros pueden investigar cualquier pregunta histórica/mágica/cosmológica. puede **sembrar conocimiento** aquí sobre:
 
 - Identidad del **señor élfico anterior a vampiros** del [[Palacio_del_Prisma]]
 - Mecánica de **invocación de Kauket**
@@ -86,7 +86,7 @@ Con la entrada en **[[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]**:
 - **Gerrilad el Grey** — custodio principal
 - **Isocritis Half-Hand** — bibliotecario
 - **Babuinos albinos** — guardianes naturales
-- **Well of Light** — punto adyacente
+- **Pozo de Luz** — punto adyacente
 - [[Thoth]] — divinidad patrona
 - [[Sortianos]] / [[Teosofos]] — material del Cisma
 - [[Papa_Alejandro_Sixto]] — autoridad post-hiato (¿accede a la biblioteca?)

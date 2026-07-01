@@ -4,10 +4,10 @@ título: "Gary, el Mundo Nuevo"
 slug: Gary_TNW
 categoria: campaña
 aliases:
- - Gary TNW
+ - Gary (Mundo Nuevo)
  - Gary, The New World
  - The New World
- - TNW
+ - (Mundo Nuevo)
 tags:
  - campania
  - 1987
@@ -120,3 +120,20 @@ Los 6 portales de Iron Mountain anclan 6 épocas con eclipses:
 - 1987 — corrida diegética (Gary, Indiana, Monte Hurón / Iron Mountain)
 - 14 de abril 1987 — eclipse, ventana de fusión de las 5 versiones de Grast
 - Portales abiertos hacia 1494, 1788, 1887, 428 — eras aún no recorridas del todo
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓ ☷ ◑ ⟳
+> *La banda que baja a [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]] —[[Pontiac_Danny_De_Sirio_TNW|Pontiac]], [[Chantal_TNW|Chantal]], [[Kendall_TNW|Kendall]], [[Jean-Baptiste_TNW|Jean-Baptiste]]— descubre el archivo físico del tiempo: una cámara esférica con seis portales a seis épocas estratificadas (1494, 1788, 428…). El [[Grazzt|Dios de Hierro]] está sellado bajo la montaña esperando fusionar sus cinco versiones en el eclipse, enemigo guardado que [[Eagwulf_Iggwilf|Eagwulf]] encerró con Truenames; y cuando Jean-Baptiste mata a la guardiana arácnida hereda el rol —custodia de Scorpio—, porque el que mata al guardián se vuelve guardián.* — glosa de Sucesos.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Sistema:** *Lords of Creation* (Tom Moldvay, Avalon Hill, 1984). Progresión Neófito → Señor de la Creación, con estadios Dimensional Sight / Space Travel / Time Travel.
+- **Mesa:** corrida ~2024; el demiurgo (Marcos) la nombra *The Neverending World*. Fase paralela **T2.5** (junto al ciclo de Leyenda **T1.5**), según `Supremos.docx`.
+- **Fuentes del archivo:** `GARY_TNW_GLOSARIO_ADDITIONS.md`, archivos 1a-9, audios, resumen docx.
+- **Guiño preservado en la diégesis:** Gary (la ciudad) ↔ Gary Gygax (autor de D&D); la premisa "volverse Señor de la Creación / crear mundos" ↔ el demiurgo que escribe ATEM. El guiño se queda; el aparato (sistema, editorial, año, nombre real) vive acá.
+- **Asertórico (origen del setting):** Gary, Indiana lo propuso quien encarnó a [[Pontiac_Danny_De_Sirio_TNW|Pontiac]] —pasó por la ciudad y trajo a la mesa su decadencia industrial—; el archivo lo conserva como elección deliberada. (Identidad del jugador en la capa Akashic.) El dato de que Gary fue cuna de Michael Jackson queda en la diégesis como textura real del mundo conectado.

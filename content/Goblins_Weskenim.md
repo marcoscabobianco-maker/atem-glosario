@@ -1,6 +1,6 @@
 ---
-title: "Goblins de King Weskenim"
-título: "Goblins de King Weskenim"
+title: "Goblins de Rey Weskenim"
+título: "Goblins de Rey Weskenim"
 slug: Goblins_Weskenim
 categoria: facción
 aliases:
@@ -19,16 +19,16 @@ tags:
  - aliados-kerbog-khan
 ---
 
-> *El Grand King Weskenim gobierna desde Goblin Warrens. Fecundos, expansivos. Aliados de [[Kerbog_Khan]]. Pelean contra halflings de Plumthorn en los Halls of Thoth.*
+> *El Gran Rey Weskenim gobierna desde Madrigueras Goblin. Fecundos, expansivos. Aliados de [[Kerbog_Khan]]. Pelean contra halflings de Plumthorn en los Salones de Thoth.*
 
 ## Presentación
 
-Los **Goblins de King Weskenim** son la **facción goblin más numerosa** del [[Mega_Dungeon_Arden_Vul]]. Su **sede principal está en las Goblin Warrens — Goblin Warrens** (bajo el [[Forum_de_Set|Forum de Set]]), bajo **King Weskenim** ([[King_Weskenim|Goblin Warrens]]), llamado **Grand King** por sus subordinados. **Fecundos, expansivos**, **propensos al conflicto** territorial.
+Los **Goblins de Rey Weskenim** son la **facción goblin más numerosa** del [[Mega_Dungeon_Arden_Vul]]. Su **sede principal está en las Madrigueras Goblin — Madrigueras Goblin** (bajo el [[Forum_de_Set|Forum de Set]]), bajo **Rey Weskenim** ([[King_Weskenim|Madrigueras Goblin]]), llamado **Gran Rey** por sus subordinados. **Fecundos, expansivos**, **propensos al conflicto** territorial.
 
 ### Distribución
 
-- **Sede central**: las Goblin Warrens
-- **Foothold Halls of Thoth**: la frontera con los halflings de Plumthorn
+- **Sede central**: las Madrigueras Goblin
+- **Foothold Salones de Thoth**: la frontera con los halflings de Plumthorn
 - **Foothold Puertas de Obsidiana**: presencia en el [[Obsidian_Gates_Midnight_Road|Camino de Medianoche]] superior
 - **Killik** — sub-jefe goblin, "big boss of the wet caves" en las Puertas de Obsidiana
 
@@ -42,12 +42,12 @@ Los **Goblins de King Weskenim** son la **facción goblin más numerosa** del [[
 
 | Vínculo | Facción |
 |---|---|
-| **Hostilidad activa** | **[[Halflings_Plumthorn|Halflings de Plumthorn]]** — territorio Halls of Thoth entrada |
-| **Tensión** | **[[Beastmen_Niños_de_Deino|Beastmen]]** (Halls of Thoth centro) |
+| **Hostilidad activa** | **[[Halflings_Plumthorn|Halflings de Plumthorn]]** — territorio Salones de Thoth entrada |
+| **Tensión** | **[[Beastmen_Niños_de_Deino|Hombres-Bestia]]** (Salones de Thoth centro) |
 
 ### Estructura
 
-- **King Weskenim** — soberano ([[King_Weskenim|Goblin Warrens]])
+- **Rey Weskenim** — soberano ([[King_Weskenim|Madrigueras Goblin]])
 - **Sub-chiefs** — de talla y fiereza de hobgoblin 
 - **Goblin emissaries** — emisarios en visita a otras facciones (al [[Forum_de_Set]], etc.)
 - **Goblins regulares**: -1, -7, spear
@@ -61,10 +61,10 @@ Los Goblins son **la facción más demográficamente expansiva** del dungeon —
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Halls_of_Thoth_Nivel|Halls of Thoth]] — foothold
+- [[Halls_of_Thoth_Nivel|Salones de Thoth]] — foothold
 - [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]] — foothold en wet caves
-- **Goblin Warrens** — sede
-- **King Weskenim** — soberano
+- **Madrigueras Goblin** — sede
+- **Rey Weskenim** — soberano
 - **Killik** — sub-jefe wet caves Puertas de Obsidiana
 - [[Kerbog_Khan]] — aliado principal
 - [[Halflings_Plumthorn|Halflings de Plumthorn]] — enemigo principal
@@ -72,5 +72,5 @@ Los Goblins son **la facción más demográficamente expansiva** del dungeon —
 
 ## Apariciones
 
-- Encuentros aleatorios en los Halls of Thoth, Puertas de Obsidiana, Goblin Warrens
+- Encuentros aleatorios en los Salones de Thoth, Puertas de Obsidiana, Madrigueras Goblin
 - **Posible aliado** o **enemigo** según decisiones de los [[Buscadores_de_Ardis_Vala|Buscadores]]

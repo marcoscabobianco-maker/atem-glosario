@@ -37,3 +37,13 @@ Ysgard opera como:
 - [[Juicio_Final|Juicio Final]] (posible conexión con su destino guerrero)
 - [[Limbo]] (otro plano del caos)
 - [[Escalera_Infinita|Escalera Infinita]] (conexión planar)
+
+---
+
+## Capa interna [R]
+
+> No diegético; no entra a productos públicos.
+
+- **Fuente externa:** *Manual of the Planes*, *Deities & Demigods*, *Planescape*. Ysgard (Gladsheim) = plano Chaotic Neutral (tendencia Good) de la Great Wheel; tres niveles Asgard / Muspelheim / Nidavellir.
+- **Palimpsesto:** importación canónica sin reescritura.
+- **Pendientes:** ¿qué jornadas ocurren en Ysgard? ¿conexión de Minaya: ascendencia, destino tras el [[Juicio_Final]] (1375 DR)? ¿algún compañero einherjar o que haya visitado Asgard?

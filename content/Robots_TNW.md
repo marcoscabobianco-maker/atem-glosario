@@ -1,5 +1,5 @@
 ---
-title: "Robots TNW"
+title: "Robots (Mundo Nuevo)"
 aliases:
  - "Robots"
  - "Robots_TNW"

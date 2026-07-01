@@ -8,7 +8,7 @@ aliases:
 ## Presentación
 
 **Fecha en-game:** 19 diciembre 1889 (una semana antes apocalipsis 25 dic)
-**Mundo de destino:** París Post-[[Cronomon]]; temporalmente dañada
+**Mundo de destino:** París Post-[[Chronomon|Cronomon]]; temporalmente dañada
 **Descripción físico:**
  - Ciudad vacía, "arrasada, soplan los vientos"
  - "Un millón de rehenes de los daemons" (presumiblemente TP esclavizadas o en bolsillo dimensional)

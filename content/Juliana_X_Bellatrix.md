@@ -23,8 +23,11 @@ tags:
  - exarcados
  - edad-de-plata
  - reinado-fundacional
-imagen: null
+imagen: Imagenes_Tier1/Juliana_X_Bellatrix.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Juliana_X_Bellatrix.png]]
+<!-- /HEADER_IMG -->
 
 > *"La emperatriz no escribió el mapa nuevo; recogió el mapa antiguo del suelo donde había caído y le dio espalda recta. Eso, en el aparato decadiano, no se llama conquista. Se llama Reconquista. Y exige otra clase de monarca."* — del *[[Decadiano]]*, libro VI, sobre los reinados restauradores del Imperio.
 

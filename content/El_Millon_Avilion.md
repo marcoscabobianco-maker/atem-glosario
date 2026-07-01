@@ -1,6 +1,6 @@
 ---
-title: "El Millón (Avilión)"
-título: "El Millón (Avilión) — las logias de derecha y su mansión neogótica"
+title: "El Millón"
+título: "El Millón — las logias de derecha y su mansión neogótica"
 slug: El_Millon_Avilion
 categoria: facción
 epoca: "1966 — la trama política sobre el descenso de las Malvinas"
@@ -39,7 +39,7 @@ Bajo este techo conviven dos hermandades rivales. Está **la Pedue** —la que e
 
 ## Escritores famosos y magia negra
 
-La mansión no es solo un club de notables. Por sus salones desfilan **escritores famosos** invitados a las veladas —el prestigio de las letras prestado como tapadera del prestigio del oro—, y en sus pisos altos, lejos de las visitas de gala, se **practica magia negra**. Ahí está la bisagra de toda la gesta isleña: lo que en la superficie es interna sindical, logia masónica y mesa de poder, en el fondo roza lo mismo que duerme bajo las Malvinas. La casa de los diez pisos es la cara mundana y porteña de una verdad que solo se revela cuando alguien acepta bajar —el envés realista de la cofradía batracia que, mar de por medio, prepara la venida de Tulu.
+La mansión no es solo un club de notables. Por sus salones desfilan **escritores famosos** invitados a las veladas —el prestigio de las letras prestado como tapadera del prestigio del oro—, y en sus pisos altos, lejos de las visitas de gala, se **practica magia negra**. Ahí está la bisagra de toda la gesta isleña: lo que en la superficie es interna sindical, logia masónica y mesa de poder, en el fondo roza lo mismo que duerme bajo las Malvinas. La casa de los diez pisos es la cara mundana y porteña de una verdad que solo se revela cuando alguien acepta bajar —el envés realista de la cofradía batracia que, mar de por medio, prepara la venida de Cthulhu.
 
 A la mansión se llega tirando de un hilo gremial. Tras la fachada de la interna metalúrgica de **[[Vandor]]** y del gremio gráfico, una hebra que enlaza a un tal **Uriel** con el nombre de **Lucio Gelli** conduce desde el sindicato hacia estas logias y poderes menos confesables. El padre de uno de los cóndores, el sindicalista **[[Armando_Cabo]]**, abre sin saberlo esa puerta: cree que negocia política y franquea, en cambio, el vestíbulo de algo mucho más hondo que la disputa de soberanía.
 

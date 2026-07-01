@@ -14,7 +14,7 @@ wikipedia: https://es.wikipedia.org/wiki/Abraxas
 
 ## Presentación
 
-[[Entidad]] gnóstica de la tradición del gnosticismo tardío (especialmente en Basílides, siglo II d.C.), asociada al tiempo, los ciclos y el poder supremo. En el cosmos compartido de , Abraxas aparece integrado al universo compartido como referencia cosmológica de peso.
+Entidad gnóstica de la tradición del gnosticismo tardío (especialmente en Basílides, siglo II d.C.), asociada al tiempo, los ciclos y el poder supremo. En el cosmos compartido de , Abraxas aparece integrado al universo compartido como referencia cosmológica de peso.
 
 **Relación con el Altísimo:Ambigüedad intencional de diseño**. El cronista no ha establecido una respuesta canónica cerrada sobre si Abraxas y el Altísimo son la misma entidad bajo nombres distintos o dos fuerzas separadas. Esta ambigüedad es parte del corpus mítico de la gesta — la respuesta, si llega, surgirá del juego.
 

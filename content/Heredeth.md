@@ -14,7 +14,7 @@ imagen: Imagenes_Tier1/Heredeth.jpg
 
 ## Presentación
 
-- **Definición:** Encarnación/sirviente anterior de [[Cronomon]]. Titán negro caído.
+- **Definición:** Encarnación/sirviente anterior de [[Chronomon|Cronomon]]. Titán negro caído.
 - **Descripción:** Gigante decapitado, "delfín de los tiempos," movedor de destinos
 - **Historia:** Recibió golpe de catapulta ([[Masada]]) con astilla Veracruz en ojo. Cayó a plano astral.
 - **Pensamientos:** "Recauchutados" (remachados/reconfigurados) con referencias [[Baphomet]] y Laberinto Templario del [[Infierno]]

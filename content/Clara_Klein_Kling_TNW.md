@@ -1,12 +1,12 @@
 ---
-title: "Clara Klein / Kling (TNW)"
+title: "Clara Klein / Kling (Mundo Nuevo)"
 tags:
  - "gary-tnw"
  - "guardian"
 aliases:
- - "Clara Klein / Kling (TNW)"
+ - "Clara Klein / Kling (Mundo Nuevo)"
  - "Clara Klein"
- - "Kling (TNW)"
+ - "Kling (Mundo Nuevo)"
  - "TNW"
  - "Clara Klein / Kling"
 ---

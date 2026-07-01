@@ -71,7 +71,7 @@ Los **Custodes Oculis Solis** —*Custodios del Ojo Solar*, también llamados **
 - [[Numa_Pompidio]] — vio la procesión celestial antes de morir
 - [[Argus_PJ|Argus]] — figura "georgiana con cruz tatuada" presente en la procesión, posible iniciado o conocedor
 - [[Caladan]] — su aura positiva lo amenaza
-- [[Halls_of_Thoth_Nivel|Halls of Thoth]] / [[Ritornello]] — sedes históricas del culto totiano
+- [[Halls_of_Thoth_Nivel|Salones de Thoth]] / [[Ritornello]] — sedes históricas del culto totiano
 - [[Caballeros_Cicatriz_del_Sol]] — orden vinculada simbólicamente al sol (relación a explorar)
 - [[Ardis_Vala_campaña|Ardis Vala (gesta)]]
 

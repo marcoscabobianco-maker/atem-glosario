@@ -19,7 +19,7 @@ aliases:
 
 | Tema | Estado | Seguridad |
 |------|--------|-----------|
-| [[Muerte]] [[Marques_de_Sade_Hugo|Hugo]] | Confirmada | 100% |
+| Muerte [[Marques_de_Sade_Hugo|Hugo]] | Confirmada | 100% |
 | Desdoblamiento [[Marques_de_Sade_Hugo|Hugo]] | Parcialmente confirmada | 80% |
 | Demonio en fuga | Confirmado | 100% |
 | [[Campana]] Veracruz | Confirmada funcional | 100% |
@@ -29,4 +29,4 @@ aliases:
 
 **Compilado:** 19 marzo 2026
 **Entradas:** 14 principales + 6 secundarias
-**Palabras clave:** Forbiddence, Demonio andrógeno, Zona 5, Sellos Salomón, [[Campana]] Veracruz
+**Palabras clave:** Interdicto, Demonio andrógeno, Zona 5, Sellos Salomón, [[Campana]] Veracruz

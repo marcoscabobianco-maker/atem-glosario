@@ -39,7 +39,7 @@ La razón cosmológica es la del **tránsito astrológico**: quince es la mitad 
 
 ## Lo que parecía no pasar
 
-Visto desde fuera del valle, el Hiato es **interrupción**: los [[Buscadores_de_Ardis_Vala|Buscadores]] dejaron de bajar, los caminos a [[Ritornello]] se llenaron de yerba, el mega-dungeon **siguió respirando bajo tierra** sin que nadie subiera a contar.
+Visto desde fuera del valle, el Hiato es **interrupción**: los [[Buscadores_de_Ardis_Vala|Buscadores]] dejaron de bajar, los caminos a [[Ritornello]] se llenaron de yerba, el mega-mazmorra **siguió respirando bajo tierra** sin que nadie subiera a contar.
 
 Visto desde dentro del valle, el Hiato es **otra cosa**. *Aquí el cronista pide pausa.* Lo que parecía no pasar **estaba pasando** —y con la velocidad cosmológica con que las cosas pasan cuando ningún testigo las anota—.
 
@@ -55,7 +55,7 @@ Durante el silencio, **el coro hizo su trabajo**. La lista, sin tabla técnica, 
 
 **[[Ritornello]] cayó.** Una libélula con **huevo bomba** —*extracto del módulo arcano de los rudishva, posiblemente trabajo lateral de [[Kerbog_Khan]]*— se acercó a la ciudad imperial del valle del [[Barrado_Balacan|Barrado Balacán]] y la convirtió en **cenizas**. [[Buscadores_de_Ardis_Vala|Los Buscadores]] tienen, en esta caída, **responsabilidad parcial**: entregaron, en el ciclo primero, el huevo a la facción que lo detonó. *El archivo lo anota sin glosa.*
 
-**Los [[Varumani]] fueron vencidos.[[Varboka]]** y su pueblo —señores de la [[Court_of_Troll_Thegn|Corte del Thegn]], operadores de los [[Troll_Lifts_Arena|Troll Lifts]]— **cayeron en algún punto del cierre del ciclo primero o del Hiato**, con consecuencias para el sub-dominio: los **[[Troll_Lifts_Arena|Troll Lifts]]** dejaron de operar, la **[[Court_of_Troll_Thegn]]** quedó vacante, las **operaciones mineras del Suelo del Gran Abismo** suspendidas o capturadas por otra mano.
+**Los [[Varumani]] fueron vencidos.[[Varboka]]** y su pueblo —señores de la [[Court_of_Troll_Thegn|Corte del Thegn]], operadores de los [[Troll_Lifts_Arena|Elevadores de los Trolls]]— **cayeron en algún punto del cierre del ciclo primero o del Hiato**, con consecuencias para el sub-dominio: los **[[Troll_Lifts_Arena|Elevadores de los Trolls]]** dejaron de operar, la **[[Court_of_Troll_Thegn]]** quedó vacante, las **operaciones mineras del Suelo del Gran Abismo** suspendidas o capturadas por otra mano.
 
 **Las brumas se cosieron al valle.** Lo que era valle se convirtió en **dominio**: **[[Valakhan_de_la_Bruma|Valakhan]]**, *brumas en los bordes, fiebre blanca en los pueblos*. La autoridad cosmológica que cose las brumas a los lugares —la que cose, no la que gobierna— **operó durante el silencio sin pedir permiso**.
 
@@ -153,7 +153,7 @@ Volvieron, pero no enteros. **Los quince años los habían tocado a todos**:
 
 ## Apariciones
 
-- **Cierre del ciclo primero** — los Buscadores se retiran sin agotar el mega-dungeon
+- **Cierre del ciclo primero** — los Buscadores se retiran sin agotar el mega-mazmorra
 - **Año primero del silencio** — caída de Ritornello por la libélula con huevo bomba
 - **Años intermedios del silencio** — Sir Sixto emerge como [[Papa_Alejandro_Sixto|Papa Alejandro VI]]; los [[Varumani]] caen; las brumas cosen el valle; [[Caladan]] se asienta como darklord; Lali se corrompe; aparecen Decio, Argus, [[Carad_de_Teyber]], [[Mirela_Valka]]
 - **Tránsito sin testigo** — Arkos es invocado vía plata mercurial; [[Ardipithecus]] se asienta en la espada de Valerius
@@ -161,5 +161,5 @@ Volvieron, pero no enteros. **Los quince años los habían tocado a todos**:
 
 <!-- CICLO -->
 > **Casas del ciclo** · ◑ ☷
-> *Durante el silencio, lo que se guarda espera su hora: [[Ardipithecus]], el proto-guardián que [[Grazzt|Graz'zt]] escondió en la espada de [[Valerius_Utrecht|Valerius]], se asienta sin emerger; [[Caladan]], vampirizado por [[Master_Malakita|Malakita]], aguarda como darklord involuntario en el castillo de la colina. No se los vence —se preparan en crisálida. Y todo ocurre por capas hacia abajo: el mega-dungeon sigue respirando nivel por nivel y la [[Ciudadela_Sin_Sol]] se hunde en grieta mientras emerge [[Papa_Alejandro_Sixto|Papa Alejandro VI]] de los niveles bajos.* — glosa de Paulus.
+> *Durante el silencio, lo que se guarda espera su hora: [[Ardipithecus]], el proto-guardián que [[Grazzt|Graz'zt]] escondió en la espada de [[Valerius_Utrecht|Valerius]], se asienta sin emerger; [[Caladan]], vampirizado por [[Master_Malakita|Malakita]], aguarda como darklord involuntario en el castillo de la colina. No se los vence —se preparan en crisálida. Y todo ocurre por capas hacia abajo: el mega-mazmorra sigue respirando nivel por nivel y la [[Ciudadela_Sin_Sol]] se hunde en grieta mientras emerge [[Papa_Alejandro_Sixto|Papa Alejandro VI]] de los niveles bajos.* — glosa de Paulus.
 <!-- /CICLO -->

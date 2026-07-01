@@ -1,10 +1,10 @@
 ---
-title: "Aunt Nancy (TNW)"
+title: "Aunt Nancy (Mundo Nuevo)"
 tags:
  - "gary-tnw"
  - "faction-leader"
 aliases:
- - "Aunt Nancy (TNW)"
+ - "Aunt Nancy (Mundo Nuevo)"
  - "TNW"
  - "Aunt Nancy"
 ---

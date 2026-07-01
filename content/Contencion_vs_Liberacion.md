@@ -22,4 +22,4 @@ aliases:
 - [[Fragmento_de_Madera_con_Pentaculo|Fragmento de Madera con Pentáculo]] — el ancla material del sellado; removida en esta jornada.
 - [[Encierro_invocacion_del|Encierro / Invocación del]] — mecanismo de contención vinculado a este dilema.
 - [[Temple_complejo_TE|Temple (complejo)]] — edificio que funciona como contenedor; su arquitectura responde a la lógica del sellado.
-- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta que desarrolla la historia del [[Temple_complejo_TE|Temple]] como prisión infraplanar.
+- [[Campana_Templarios_TE|Gesta Templarios]] — gesta que desarrolla la historia del [[Temple_complejo_TE|Temple]] como prisión infraplanar.

@@ -10,7 +10,7 @@ aliases:
 
 ## Presentación
 
-Mencionados en el archivo como elementos relevantes para contrarrestar la devastación de fuego. Agua como contrapeso al fuego elemental. Conexión con la clepsidra de [[Chronomon]].
+El archivo los nombra como recurso para contrarrestar la devastación del fuego: agua tendida como contrapeso al fuego elemental. La crónica los enlaza con la clepsidra de [[Chronomon]].
 
 ## Apariciones notables
 

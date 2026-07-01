@@ -1,6 +1,6 @@
 ---
-title: "Llave Dual (oro y espina)"
-título: "Llave Dual (oro y espina)"
+title: "Llave Dual"
+título: "Llave Dual"
 slug: Llave_Dual_Oro_Espina
 categoria: artefacto
 aliases:
@@ -22,7 +22,7 @@ tags:
  - espina
 ---
 
-> *"La llave de oro y espina". Artefacto de afinación moral. Posesión de Alumine. Conecta con el Circuito de Medianoche / [[Obsidian_Gates_Midnight_Road|Obsidian Gates]]. Una llave que el demonio negoció con la espada en el regreso tras el Hiato.*
+> *"La llave de oro y espina". Artefacto de afinación moral. Posesión de Alumine. Conecta con el Circuito de Medianoche / [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]]. Una llave que el demonio negoció con la espada en el regreso tras el Hiato.*
 
 ## Presentación
 
@@ -37,7 +37,7 @@ La **Llave Dual de Oro y Espina** es un **artefacto de "afinación moral"** que 
 
 ### Su conexión con el Circuito de Medianoche
 
-**[[Obsidian_Gates_Midnight_Road|Obsidian Gates / Midnight Road]]** — **donde Alumine sospecha que la llave opera**. **El circuito de medianoche** es el **broad corridor rudishva que conecta sitios importantes**, incluyendo:
+**[[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana / Camino de Medianoche]]** — **donde Alumine sospecha que la llave opera**. **El circuito de medianoche** es el **broad corridor rudishva que conecta sitios importantes**, incluyendo:
 
 - Cloister + transportation hub
 - [[Rudishva]] forge
@@ -46,7 +46,7 @@ La **Llave Dual de Oro y Espina** es un **artefacto de "afinación moral"** que 
 - Troll pits
 - Great Pillar
 
-**Posible función**: la Llave **abre alguna sección secreta del Midnight Road** o **activa algún mecanismo rudishva** que requiere afinación moral.
+**Posible función**: la Llave **abre alguna sección secreta del Camino de Medianoche** o **activa algún mecanismo rudishva** que requiere afinación moral.
 
 ### En el regreso tras el Hiato: el demonio negociante
 
@@ -62,7 +62,7 @@ En **el regreso tras el Hiato**, en el círculo de invocaciones que [[Valerius_U
 
 - **Material doble**: oro + espina cristalizada
 - **Condición**: requiere **portador moralmente afinado** —rectitud o **pureza ritual**
-- **Uso**: abre puertas y mecanismos en el Midnight Road
+- **Uso**: abre puertas y mecanismos en el Camino de Medianoche
 - **Riesgo**: el portador no afinado **sufre la espina**: le drena vigor y memoria, o **le tuerce el alma por la fuerza**
 - **Posible guardián de umbral**: discierne intenciones y se cierra ante el uso indebido
 
@@ -76,12 +76,12 @@ Con la entrada en **Ravenloft**:
 
 - **La llave puede haberse despertado o aquietado** bajo las nuevas leyes cosmológicas del dominio
 - **El [[Papa_Alejandro_Sixto]]** podría **arrancarle la llave** si Alumine cediera su afinación moral o sucumbiera a la mácula del dominio
-- **Posible uso** en jornadas siguientes para abrir alguna prisión o acceder a un secreto crítico del Midnight Road
+- **Posible uso** en jornadas siguientes para abrir alguna prisión o acceder a un secreto crítico del Camino de Medianoche
 
 ## Vínculos
 
 - [[Alumine]] — portador
-- [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana Midnight Road]] — locus de uso
+- [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana Camino de Medianoche]] — locus de uso
 - [[Rudishva]] — origen tecnológico probable
 - [[Valerius_Utrecht]] — testigo de la oferta demoníaca
 - [[Argus_PJ]] — paradigma caído presente en el regreso tras el Hiato

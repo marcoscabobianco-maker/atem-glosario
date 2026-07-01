@@ -16,4 +16,4 @@ Catedral gótica de [[Glastumville]]. Dos torres flanqueantes, gran rose window.
 - [[Fortaleza_Azur|Fortaleza Azur]] — ciudadela de [[Glastumville]], otra estructura dominante de la ciudad
 - [[Hermandad_Benevola|Hermandad Benvola]] — contrabandistas de Glastumville, facción opuesta al poder eclesiástico
 - [[Lucky|Lucky, el Caballero de la Sagrada Orden]] — figura emblemática de la [[Sagrada_Orden]] activa en Glastumville
-- [[Ciudadela_Hundida|Sunless Citadel]] — dungeon en la misma región de juego
+- [[Ciudadela_Hundida|Ciudadela Hundida]] — dungeon en la misma región de juego

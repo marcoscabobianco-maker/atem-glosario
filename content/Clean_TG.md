@@ -1,5 +1,5 @@
 ---
-title: "Clean (TG)"
+title: "Clean (Torregrises)"
 categoria: personaje
 tags:
  - "personaje"
@@ -8,7 +8,7 @@ tags:
  - "rectora"
  - "liceo-sabasio"
 aliases:
- - "Clean (TG)"
+ - "Clean (Torregrises)"
  - "TG"
  - "Clean"
 ---

@@ -47,7 +47,7 @@ imagen: Imagenes_Tier1/Innombrable.png
 
 ## El Yunque del Tiempo y la prisión compartida *(voz Mascor Blancarba)*
 
-*Antes del Triunvirato*, **el Innombrable quedó atrapado en el [[Corazon_de_Pablo_Yunque_del_Tiempo|Yunque del Tiempo]]** —*plano astral donde reside la consciencia de [[Kronamon]] en su encarnación como [[Pablo_de_Alejandria|Pablo]]*—. **Allí compartió prisión con [[Elias|Elías el Hijo]]**: *dos figuras congeladas en su era propia mientras el resto del mundo cruzaba siglos sobre sus cabezas*.
+*Antes del Triunvirato*, **el Innombrable quedó atrapado en el [[Corazon_de_Pablo_Yunque_del_Tiempo|Yunque del Tiempo]]** —*plano astral donde reside la consciencia de [[Chronomon|Kronamon]] en su encarnación como [[Pablo_de_Alejandria|Pablo]]*—. **Allí compartió prisión con [[Elias|Elías el Hijo]]**: *dos figuras congeladas en su era propia mientras el resto del mundo cruzaba siglos sobre sus cabezas*.
 
 *La ironía es estructural*: **el plano que aloja la consciencia de Pablo terminó siendo cuna de la unión que lo sobrepasa**. **La tríada con Arian se completó afuera del Yunque**, pero **se gestó dentro** —*entre el Innombrable y Elías, los dos prisioneros que compartían era*—. *Cuando Arian se sumó*, **la operación quedó completa**.
 
@@ -95,7 +95,7 @@ imagen: Imagenes_Tier1/Innombrable.png
 - [[Gema_de_la_Creacion]] · [[Cetro_de_los_Dioses]] — piezas de los co-miembros
 - [[Corazon_de_Pablo_Yunque_del_Tiempo]] — prisión de origen
 - [[Pablo_de_Alejandria]] — autor de los designios sustituidos por la tríada
-- [[Kronamon]] — consciencia que reside en el Yunque
+- [[Chronomon|Kronamon]] — consciencia que reside en el Yunque
 - [[Anti_Inferno|la figura del segundo círculo]] — manifestación cosmológica paralela en Dante's Inferno
 - [[Anti_Inferno]] — gesta donde la figura paralela opera
 - [[Paris_Ucronica]] — geografía donde la línea [[Corvino]] adyacente opera

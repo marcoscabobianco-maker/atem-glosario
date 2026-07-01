@@ -58,3 +58,19 @@ El Abismo conserva su estructura, pero se densifica con la cosmogonía propia:
 - [[Artefacto_Engranaje|Engranaje]] (robado por Graz'zt)
 - [[Magia_dual|Magia Dual]] ("secretos duales")
 - [[Sigil]] (donde los dioses no entran, pero los demonios pueden visitar)
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *El plano del caos maligno se ordena por estratos numerados: más de seiscientas capas, cada una un reino de leyes propias bajo su Señor Demonio, y [[Azzagrat]] son las capas 45 a 47 donde [[Grazzt|Graz'zt]] reina. El descenso es literal —los compañeros caen al Abismo como castigo en los arcos críticos, [[Clarisa|Clarissa]] cae «en las garras» del monstruo y [[Arcoms_Cosmar|Arcoms]] desciende a rescatarla—; la numeración estratifica el mal igual que el Inferno dantesco estratifica las eras.* — glosa de Paulus.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; no entra a productos públicos.
+
+- **Fuente externa:** *Manual of the Planes*, *Fiendish Codex I*, *Planescape Campaign Setting*, *Out of the Abyss* (5e). Abismo = plano Chaotic Evil de la Great Wheel, 666+ capas; Guerra Sangrienta (Blood War) contra los baatezu (lawful evil) de los Nueve Infiernos.
+- **Cita primaria:** *"Old Father. [[Arcoms_Cosmar|Arcoms]]. Daughter. [[Clarisa|Clarissa]]. Monster. Abyss. Tiamat. Quest. Rescue the Daughter."* (C50 p.42).
+- **Asertórico:** los especialistas del taller reconocidos en política planar y en dinámicas de poder demoníaco quedan asentados en el registro akáshico.
+- **Pendientes:** ¿qué jornadas ocurren en el Abismo? ¿qué capas además de Azzagrat son relevantes? ¿mapa diegético? ¿relación con el [[Inferno_Acheron|Inferno]] (Dante / Aqueronte)?

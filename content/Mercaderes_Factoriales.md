@@ -62,7 +62,7 @@ imagen: null
 - **Tarifa imperial fija** — sin negociación posible en transacciones menores; las grandes admiten ajuste con autoridad imperial superior.
 - **Rutas registradas** — cada caravana lleva documentación oficial; el cuerpo de guardia archonteo provee escolta.
 - **Depósitos protegidos** — la Fortaleza Azur custodia mercancías valiosas en sus archivos subterráneos.
-- **Acceso a mercancía exótica** — vía conexiones con el aparato imperial central (mercancía rudishva ocasional, artefactos del mega-dungeon recuperados, productos archonteos no disponibles para la Hermandad).
+- **Acceso a mercancía exótica** — vía conexiones con el aparato imperial central (mercancía rudishva ocasional, artefactos del mega-mazmorra recuperados, productos archonteos no disponibles para la Hermandad).
 - **Lealtad vertical** — los Factoriales sirven al aparato imperial antes que a sus propios miembros; la deserción se castiga.
 
 ---
@@ -71,7 +71,7 @@ imagen: null
 
 **La operación de [[Kerbog_Khan]] sobre [[Ritornello]]** *(cierre del ciclo primero del aparato Ardisvala)* **causó pérdida mayor a los Factoriales**: *la sede comercial antigua de Casa Glesteon en [[Ritornello]] se perdió*, *el archivo comercial se desconectó del cosmos común*, *figuras menores del cuerpo desaparecieron en la operación*. **[[Theron_Glesteon]] reorganizó el aparato hacia [[Glastumville]]** *como sede única post-catástrofe*; **el aparato imperial central proporcionó subvención de reorganización** *para evitar el colapso del cuerpo Factorial*.
 
-*La doctrina interna post-Ritornello*: **vigilancia mayor de las rutas hacia el mega-dungeon**, **coordinación más estrecha con la Fortaleza Azur**, **alerta ante operación futura del Huevo de Ritornelo o aparato equivalente**.
+*La doctrina interna post-Ritornello*: **vigilancia mayor de las rutas hacia el mega-mazmorra**, **coordinación más estrecha con la Fortaleza Azur**, **alerta ante operación futura del Huevo de Ritornelo o aparato equivalente**.
 
 [*Los Mercaderes Factoriales son cuerpo donde el aparato imperial archonteo opera en su dimensión más cotidiana: el comercio. Mientras los Factoriales operen, el valle del Barrado [[Barrado_Balacan|Balacán]] es geografía imperial. Si cayeran, el valle se vuelve geografía mercante libre. La diferencia importa al aparato más que a los mercaderes. —Glosa de [[Arkos]] el archivero del Plata.*]
 

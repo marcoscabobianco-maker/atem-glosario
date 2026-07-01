@@ -1,5 +1,6 @@
 ---
 title: "Zenith Splintershield"
+categoria: personaje
 tags:
  - "caldero"
 aliases:
@@ -13,7 +14,7 @@ aliases:
 
 ## Presentación
 
-figura introducido en la Fase 2. Pendiente de ingesta detallada de archivos. Conecta con el arco político de [[Caldero]].
+Figura que el archivo incorpora ya entrada la crónica del [[Caldero]], ligada a su arco político y al hilo de [[La_Jabalina|La Jabalina]].
 
 ## Conexiones
 

@@ -17,8 +17,11 @@ tags:
 aliases:
  - "Arquímedes"
  - "Alquimedes"
-imagen: null
+imagen: Imagenes_Tier1/Arquimedes.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Arquimedes.png]]
+<!-- /HEADER_IMG -->
 
 > *Dame un punto de apoyo y moveré el mundo —los mundos.*
 

@@ -1,5 +1,5 @@
 ---
-title: "Grast Dios De Hierro TNW"
+title: "Grast Dios De Hierro (Mundo Nuevo)"
 aliases:
  - "Grast Dios de Hierro"
  - "Grast_Dios_de_Hierro_TNW"

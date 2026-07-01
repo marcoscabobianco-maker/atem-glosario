@@ -23,3 +23,11 @@ Involucrado en la política de corte de [[Amitlai]] como elemento militar en ten
 ## Notas
 
 Ver **[[Amitlai]]**, **[[Utah]]**, **[[Tii_TiiMhut|Tii]]** (Reina Madre antagonista en mismo arco).
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Cuadernos T (minería S17T1): C21 l.82-88 (2005-06). Catálogo MC (stub: "Hircan", "Hircano").

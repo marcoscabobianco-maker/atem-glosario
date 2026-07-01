@@ -30,3 +30,11 @@ Ver **[[Amitlai]]** (madre), **[[Sedi]]** (hermana), **Akhenatón** (stub).
 ## Ver también
 
 - [[Amitlai|Amitlai]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente:** C21 líneas 189-213 (2005-06).

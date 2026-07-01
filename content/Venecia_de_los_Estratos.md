@@ -103,9 +103,9 @@ imagen: null
 
 ## El Stimmung del archivo
 
-**El cronista anota en rosa**, *al margen del 14-11*: **"[[Stimmung]]"** — *palabra alemana que reúne ambiente, ánimo, afinación*. **No la traduce porque no se traduce sin pérdida**.
+**El cronista anota en rosa**, *al margen del 14-11*: **"Stimmung"** — *palabra alemana que reúne ambiente, ánimo, afinación*. **No la traduce porque no se traduce sin pérdida**.
 
-**Lo que el archivero del Plata recoge de la anotación**: **el archivo de ATEM tiene [[Stimmung]]**. *No es enumeración de hechos*; **es ambiente afinado**. La voz del cronista, las capas palimpsésticas, las anotaciones marginales, **operan todos en clave de Stimmung**: lo que se busca cuando se lee no es información, **es afinación**.
+**Lo que el archivero del Plata recoge de la anotación**: **el archivo de ATEM tiene Stimmung**. *No es enumeración de hechos*; **es ambiente afinado**. La voz del cronista, las capas palimpsésticas, las anotaciones marginales, **operan todos en clave de Stimmung**: lo que se busca cuando se lee no es información, **es afinación**.
 
 ---
 
@@ -113,11 +113,11 @@ imagen: null
 
 **El archivero del Plata cataloga las decantaciones**:
 
-- **[[Clinamen]]** → teoría doctrinal de la creación narrativa, capas palimpsésticas operativas.
+- **Clinamen** → teoría doctrinal de la creación narrativa, capas palimpsésticas operativas.
 - **Six memes** (de las six memos) → doctrina del archivo lúdico, Homo Ludens.
 - **Agregador / Montaje / Archivo** → diagrama fundacional metodológico de ATEM.
 - **El tiempo como curador** → inversión de la perspectiva sobre el depósito temporal.
-- **Stimmung** → categoría operativa del archivo entero.
+- Stimmung → categoría operativa del archivo entero.
 - **Panteón posmoderno con fotografía como divinidad menor** → ramo doctrinal del Panteón.
 
 **El archivero anota la paradoja final**: *este cuaderno escribió ATEM antes de que ATEM tuviera nombre*. **El nombre vino siete años después, en C97**; *pero el cuerpo doctrinal estaba esperando, en Venecia, sentado al sol en el Rialto, en una página manuscrita con violeta, rosa, negro y verde*.
@@ -133,9 +133,7 @@ imagen: null
 - [[Italo_Calvino_R|Italo Calvino]] — autor de *Six memos*, lectura matriz
 - [[Lucrecio_R|Lucrecio]] — autor de *De Rerum Natura*, fuente del clinamen
 - [[Homo_Ludens_Huizinga|Homo Ludens]] — concepto que el cuaderno trae a la puerta
-- [[Clinamen]] — teoría doctrinal del archivo
 - [[Diagrama_Agregador_Montaje_Archivo]] — el método central
-- [[Stimmung]] — categoría operativa
 - [[Panteon_Posmoderno|Panteón Posmoderno]] — el cuerpo doctrinal de los dioses contemporáneos
 - [[Akala]]
 - [[Renfrew_y_Bahn_R|Renfrew y Bahn]] — manual arqueológico de fondo
@@ -152,5 +150,5 @@ imagen: null
 
 <!-- CICLO -->
 > **Casas del ciclo** · ✒
-> *El cuaderno donde la voz que glosa todo el archivo se retrata como hombre concreto: el mismo cronista del [[Paris_de_los_Pasajes|cuaderno parisino]] que cae enfermo en el Rialto, salva a la chica del canal y escribe en violeta el diagrama Agregador/Montaje/[[Diagrama_Agregador_Montaje_Archivo|Archivo]]. No habla desde fuera del mundo: lo habita, lee a [[Italo_Calvino_R|Calvino]] y a [[Lucrecio_R|Lucrecio]], y deja el [[Clinamen]] como doctrina antes de que ATEM tenga nombre. Lo que el archivero del Plata cataloga es una sola cosa: el que cuenta el cosmos es un personaje del cosmos.* — glosa del archivero del Plata.
+> *El cuaderno donde la voz que glosa todo el archivo se retrata como hombre concreto: el mismo cronista del [[Paris_de_los_Pasajes|cuaderno parisino]] que cae enfermo en el Rialto, salva a la chica del canal y escribe en violeta el diagrama Agregador/Montaje/[[Diagrama_Agregador_Montaje_Archivo|Archivo]]. No habla desde fuera del mundo: lo habita, lee a [[Italo_Calvino_R|Calvino]] y a [[Lucrecio_R|Lucrecio]], y deja el clinamen como doctrina antes de que ATEM tenga nombre. Lo que el archivero del Plata cataloga es una sola cosa: el que cuenta el cosmos es un personaje del cosmos.* — glosa del archivero del Plata.
 <!-- /CICLO -->

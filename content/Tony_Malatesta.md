@@ -21,8 +21,11 @@ tags:
  - negocia-con-vampiros
  - escoba-miles-corp
  - linea-cronologica
-imagen: null
+imagen: Imagenes_Tier1/Tony_Malatesta.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Tony_Malatesta.png]]
+<!-- /HEADER_IMG -->
 
 > *"Aunque más de uno lo tilda de excéntrico, Tony siempre encuentra soluciones fuera de lo común. Es el que propone pararse a negociar con un vampiro o intercambiar últimas palabras con un sumo sacerdote, si eso ayuda a entender las amenazas existenciales."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

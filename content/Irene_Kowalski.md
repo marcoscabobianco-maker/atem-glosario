@@ -18,8 +18,11 @@ aliases:
  - "Irene Kowalski"
  - "Irene"
  - "La polaca"
-imagen: null
+imagen: Imagenes_Tier1/Irene_Kowalski.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Irene_Kowalski.png]]
+<!-- /HEADER_IMG -->
 
 > *Bajé a cerrar el capítulo y volví hablando de lo que vi abajo.*
 
@@ -66,7 +69,7 @@ De ese descenso Irene no regresa rota, como tantos, sino transfigurada. Vuelve *
 - [[Antonio_Portet]] — el camarada [[Antonio]] / Alex, nexo del grupo con la esfera onírica donde Irene sella su pacto
 - [[Orden_Esoterica_de_Dagon]] — la Orden de Dagón, dueña del rito del faro al que Irene llega tarde
 - [[Carcosa]] — el reino amarillo que late del otro lado del mismo umbral onírico
-- [[Nyarlathotep|Tulu]] — la potencia que sueña bajo las islas
+- [[Cthulhu]] — la potencia que sueña bajo las islas
 
 ## Notas
 

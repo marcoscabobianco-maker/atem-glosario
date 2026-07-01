@@ -20,8 +20,6 @@ tags:
  - embarazo-oscuro
  - grazzt
  - neorex
- - taller-de-rol
- - rol-mamba-1
 ---
 
 <!-- HEADER_IMG -->
@@ -32,7 +30,7 @@ tags:
 
 ## Presentación
 
-Samsara es **sacerdotisa de Ishtar de Babilonia** —no maga errante, no aventurera de oficio, sino mujer del templo y del culto a la gran diosa de Inanna-Ishtar—. Su historia entró a la mesa cuando el archivo todavía hacía sus primeras pruebas: **el Taller de Rol** la conserva con líneas, escenas y un poema propio. la confirma directamente: **es de Babilonia**, no de otra cosa, y la confusión que pudo deslizarse en algún dictado con "Jabalina" es **error de transcripción**; el origen canónico es **Babilonia, Ishtar, el templo**.
+Samsara es **sacerdotisa de Ishtar de Babilonia** —no maga errante, no aventurera de oficio, sino mujer del templo y del culto a la gran diosa de Inanna-Ishtar—. Su historia entró al archivo cuando este todavía hacía sus primeras pruebas: lo conserva con líneas, escenas y un poema propio. la confirma directamente: **es de Babilonia**, no de otra cosa, y la confusión que pudo deslizarse en algún dictado con "Jabalina" es **error de transcripción**; el origen canónico es **Babilonia, Ishtar, el templo**.
 
 ### La expedición a la montaña invertida
 
@@ -49,19 +47,19 @@ Lo que encontraron en la montaña excedía la geografía: **un gigante en una ca
 
 ### El embarazo del dragón blanco
 
-El acto que define a Samsara para el archivo ocurre allí, en la montaña invertida: **el dragón blanco la preñó** —*"la semilla de una criatura oscura"*, registra el Taller—. Desde entonces **Samsara carga la semilla oscura del dragón** y **escucha sus susurros desde adentro de su cuerpo**. El embarazo no es metafórico: es presencia continua, voz que la habita, peso que la dobla cuando la noche cae.
+El acto que define a Samsara para el archivo ocurre allí, en la montaña invertida: **el dragón blanco la preñó** —*"la semilla de una criatura oscura"*, registra el archivo—. Desde entonces **Samsara carga la semilla oscura del dragón** y **escucha sus susurros desde adentro de su cuerpo**. El embarazo no es metafórico: es presencia continua, voz que la habita, peso que la dobla cuando la noche cae.
 
 ### Capturada por Graz'zt
 
-Después de la expedición fallida, **Samsara fue capturada por las fuerzas de [[Grazzt|Graz'zt]]** e **interrogada por [[Zamora]]**, agente del demonio mayor. La escena del interrogatorio —que el Taller conserva con detalle— ocurre **mientras Samsara flota desintegrada en un incubador de agua dorada**. Relata allí toda la expedición: la montaña que se movía y flotaba, el gigante, los homo erectus, la maga de hielo, el dragón blanco, la capa de la antigua amante de Neorex, el fracaso. La voz del dragón se cuela en su relato.
+Después de la expedición fallida, **Samsara fue capturada por las fuerzas de [[Grazzt|Graz'zt]]** e **interrogada por [[Zamora]]**, agente del demonio mayor. La escena del interrogatorio —que el archivo conserva con detalle— ocurre **mientras Samsara flota desintegrada en un incubador de agua dorada**. Relata allí toda la expedición: la montaña que se movía y flotaba, el gigante, los homo erectus, la maga de hielo, el dragón blanco, la capa de la antigua amante de Neorex, el fracaso. La voz del dragón se cuela en su relato.
 
 ### Su poema
 
 Samsara es autora del poema **"Los Sinsabores de Samsara"** —que el archivo conserva entre sus páginas—. La voz del poema es la voz de la sacerdotisa que ya no es solo sacerdotisa: la que carga un dragón en el vientre, la que recuerda el agua dorada del incubador, la que sabe que no hay vuelta atrás.
 
-### Rol Mamba 1
+### Reaparición
 
-En la línea del **Rol Mamba 1** —las jornadas que el ciclo corrió en el **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]**, cruce de **Mediterráneum** con la posibilidad de revisitar el infierno— **Samsara aparece nuevamente** como antigua habitante del mundo. Es uno de los rostros del Taller que la mesa volvió a ver años después, ya con su peso de embarazo dragónico y de cautiverio en el agua dorada.
+En una línea posterior —el cruce de **Mediterráneum** con la posibilidad de revisitar el infierno— **Samsara aparece nuevamente** como antigua habitante del mundo. Es uno de los rostros que el archivo vuelve a registrar años después, ya con su peso de embarazo dragónico y de cautiverio en el agua dorada.
 
 ## Vínculos
 
@@ -74,9 +72,8 @@ En la línea del **Rol Mamba 1** —las jornadas que el ciclo corrió en el **Mu
 - [[Grazzt|Graz'zt]] / **Neorex** — su captor
 - [[Zamora]] — agente de [[Grazzt|Graz'zt]] que la interrogó
 - **Capa de la antigua amante de Neorex** — objeto encontrado en la montaña
-- [[Templo_Lugar_de_los_Justos]] — escenario donde la línea Rol Mamba 1 culmina
-- [[Arcoms_Cosmar|Marcos el Mago]] — figura conexa de Rol Mamba 1 (barco arácnido, robo del [[Libro_Azul]])
-- **Taller de Rol** (compilado 2007) — fuente primaria del personaje
+- [[Templo_Lugar_de_los_Justos]] — escenario donde esa línea culmina
+- [[Arcoms_Cosmar|Marcos el Mago]] — figura conexa de esa línea (barco arácnido, robo del [[Libro_Azul]])
 - *Los Sinsabores de Samsara* — su poema
 
 ## Apariciones
@@ -84,5 +81,5 @@ En la línea del **Rol Mamba 1** —las jornadas que el ciclo corrió en el **Mu
 - Babilonia, templo de Ishtar — su origen
 - Bajo Egipto / Delta del Nilo — expedición a la montaña invertida
 - Captura por las fuerzas de [[Grazzt|Graz'zt]] — interrogatorio en incubador de agua dorada
-- Mamba 1 (Museo de Arte Moderno, Buenos Aires) — reaparición
+- Reaparición en una línea posterior (cruce Mediterráneum × Infierno)
 - El archivo — fuente narrativa primaria (incluido el poema "Los Sinsabores de Samsara")

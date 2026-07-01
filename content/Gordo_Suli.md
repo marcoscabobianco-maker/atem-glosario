@@ -20,3 +20,10 @@ Miembro del **[[Panteon_el|Panteón, el]]** (mapeado como Gula en el [[Panteon_P
 ## Ver también
 
 - [[Panteon_el|Panteón, el]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+

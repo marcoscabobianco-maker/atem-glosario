@@ -59,7 +59,7 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 | 2 | **[[Plataforma_Tauro]]** | ♉ Tauro | fuerza estática, tierra | [[Erzebeth]] *(futura)* |
 | 3 | **[[Plataforma_Geminis]]** | ♊ Géminis | dualidad reflexiva | *pendiente* |
 | 4 | **[[Plataforma_Cancer]]** | ♋ Cáncer | caparazón, aguas profundas | *pendiente* |
-| 5 | **[[Plataforma_Leo]]** | ♌ Leo | soberanía solar | *pendiente* — vínculo con [[Cristo_Leon]] / [[Leon_Epoca_Carlomagno_800_DC|León época Carlomagno]] |
+| 5 | **[[Plataforma_Leo]]** | ♌ Leo | soberanía solar | *pendiente* — vínculo con [[Leon_Epoca_Carlomagno_800_DC|León época Carlomagno]] |
 | 6 | **[[Plataforma_Virgo]]** | ♍ Virgo | cosecha, orden | la doncella *(sin nombre canónico)* |
 | 7 | **[[Plataforma_Libra]]** | ♎ Libra | equilibrio, juicio | *pendiente* |
 | 8 | **[[Plataforma_Escorpio]]** | ♏ Escorpio | transformación, aguijón | [[Jean-Baptiste_TNW|Jean-Baptiste]] *(transformado)* |
@@ -77,14 +77,14 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 - **[[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** *(1717-1784 [[Anno_Domini_Antiterra_ADA|A.D.A.]])* — **enfrentan la [[Plataforma_Aries|Plataforma de Aries]]**, cerrando su pasaje con la independencia americana.
 - **[[Los_Reguladores]]** *(1888 [[Anno_Domini_Antiterra_ADA|A.D.A.]])* — **vuelven a enfrentar Aries con la guía de [[Gabriel_Guardian_de_Aries|Gabriel]]**; en abril del mismo año, **enfrentan Tauro** *(recibida por Jack Bull en Fort Clark)*.
 - **[[Juego_de_las_Sombras_Plataformas_Zodiacales|El Juego de las Sombras]]** — *concepto cosmológico mayor que enmarca las activaciones zodiacales*.
-- **[[Ardis_Vala]]** — *el mega-dungeon descendente* **opera con diez de las doce capas zodiacales superpuestas**: **Acuario es la superficie**, *abajo Piscis*, *más abajo Sagitario y Escorpio*, *en el fondo Aries de carneros y primeros abismos*.
+- **[[Ardis_Vala]]** — *el mega-mazmorra descendente* **opera con diez de las doce capas zodiacales superpuestas**: **Acuario es la superficie**, *abajo Piscis*, *más abajo Sagitario y Escorpio*, *en el fondo Aries de carneros y primeros abismos*.
 - **[[Atlantida_Alta_y_Baja|Atlántida]]** — **Piscis es la plataforma de acceso por aguas**: *quien sabe operar la plataforma desciende sin necesidad de túneles*.
 
 ---
 
 ## El cristal de Ardisvala como apilamiento zodiacal
 
-**El mega-dungeon de [[Ardis_Vala]]** *no es excavación de tierra*: **es apilamiento cristalino de plataformas zodiacales sucesivas**. *Diez capas atestadas en el archivo*:
+**El mega-mazmorra de [[Ardis_Vala]]** *no es excavación de tierra*: **es apilamiento cristalino de plataformas zodiacales sucesivas**. *Diez capas atestadas en el archivo*:
 
 - **Capa I — Acuario** *(superficie, era presente)* — [[Gosterwick]] / [[Glastonbury]], [[Buscadores_de_Ardis_Vala|Buscadores]] activos
 - **Capa II — Piscis** *(aguas que recuerdan)*
@@ -126,7 +126,7 @@ imagen: Imagenes_Tier1/Plataformas_Zodiacales_Guardianes_TNW.png
 
 ### Gestas y eventos
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] · [[Los_Reguladores]] — grupos que enfrentaron plataformas
-- [[Ardis_Vala]] — mega-dungeon como apilamiento zodiacal
+- [[Ardis_Vala]] — mega-mazmorra como apilamiento zodiacal
 - [[Atlantida_Alta_y_Baja|Atlántida]] — acceso via [[Plataforma_Piscis|Plataforma de Piscis]]
 
 ### Fuentes

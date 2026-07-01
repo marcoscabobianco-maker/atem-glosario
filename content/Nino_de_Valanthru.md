@@ -20,8 +20,11 @@ tags:
  - nombre-no-preservado
  - cageewrights-candidato
  - figura-anticipada
-imagen: null
+imagen: Imagenes_Tier1/Nino_de_Valanthru.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Nino_de_Valanthru.png]]
+<!-- /HEADER_IMG -->
 
 > *"Adoptó a uno de los niños rescatados, sin que [[La_Jabalina]] pueda demostrar aún que sus intenciones son siniestras."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

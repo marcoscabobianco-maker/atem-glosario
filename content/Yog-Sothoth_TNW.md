@@ -1,5 +1,5 @@
 ---
-title: "Yog-Sothoth (TNW)"
+title: "Yog-Sothoth (Mundo Nuevo)"
 categoria: lugar
 tags:
  - "gary-tnw"
@@ -8,7 +8,7 @@ tags:
  - "cosmic"
  - "trans-campaign"
 aliases:
- - "Yog-Sothoth (TNW)"
+ - "Yog-Sothoth (Mundo Nuevo)"
  - "TNW"
  - "Yog-Sothoth"
 ---
@@ -27,3 +27,11 @@ Las crónicas del Mundo Nuevo lo nombran como la potencia que cooptó el mecanis
 
 - [[Corrupcion_Dual|Corrupción Dual]]
 - [[Juego_de_las_Sombras|Juego de las Sombras]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Coordenadas: C73 p.93 ("cooptado por Yog-Sothoth"); C73 p.7 ("el secreto de la magia dual"); Libertateurs, Sucesos p.5-6 (NY 1784).

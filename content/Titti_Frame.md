@@ -23,8 +23,11 @@ tags:
  - brazos-mecanicos
  - busca-marca-condenados
  - alta-sociedad
-imagen: null
+imagen: Imagenes_Tier1/Titti_Frame.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Titti_Frame.png]]
+<!-- /HEADER_IMG -->
 
 > *"Una noble cuyos modales impecables ocultan una mente tan afilada como sus promesas de mejorar la vida de los desafortunados... a cambio de favores peligrosos. Se rumorea que promueve la creación de brazos mecánicos para guerreros mutilados, aunque el origen de su tecnología mágica es un misterio."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

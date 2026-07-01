@@ -21,8 +21,11 @@ aliases:
  - "Rómulo Hayeche"
  - "Rómulo Etcheche"
  - "El vasco"
-imagen: null
+imagen: Imagenes_Tier1/Romulo_Ezzayeche.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Romulo_Ezzayeche.png]]
+<!-- /HEADER_IMG -->
 
 > *Iba a ser muchas cosas y no fui ninguna; recién ahora me entero de para qué servía.*
 
@@ -40,7 +43,7 @@ Es **vasco**, y eso en la gesta no es un dato menor: su apellido comparte la ra�
 
 Lo que empieza como vocación rota se va volviendo, con el descenso, otra cosa. Rómulo desarrolla un **costado ocultista** que lo liga al maestro [[Malnati|Malnati]], el conductor de la [[Logia_Hijos_del_Trabajo|Logia Hijos del Trabajo]] de Barracas que recibe, banca y aloja al grupo a la vuelta del Atlántico Sur. De la mano de ese magisterio obrero —la doctrina de las logias blancas y negras, la guerra que se libra en la sombra— el vasco encuentra al fin un saber al que aplicarse, el oficio que el fútbol y el periodismo le negaron. Es la primera de sus vocaciones que no se le rompe en las manos.
 
-El precio de ese saber se le nota en el carácter. Lo que ve bajo las islas, y lo que aprende del fondo del tablero, lo dejan **más irascible**, con la razón corrida de su eje; **acumula armas** como quien presiente que va a hacerle falta defenderse de algo que no se nombra. Y sobre todo se le enquista una **obsesión protectora con Laura Echegoyen**: el romance de costa se endurece en cuidado celoso, en guardia permanente sobre la muchacha —sin que él sepa que el linaje de ella cuelga, por el lado de su abuela, sobre la misma cofradía de hombres-pez de la [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] que medra en lo profundo y rinde culto a [[Nyarlathotep|Tulu]]—. Cuida a Laura de un peligro cuya forma verdadera todavía no alcanza a ver.
+El precio de ese saber se le nota en el carácter. Lo que ve bajo las islas, y lo que aprende del fondo del tablero, lo dejan **más irascible**, con la razón corrida de su eje; **acumula armas** como quien presiente que va a hacerle falta defenderse de algo que no se nombra. Y sobre todo se le enquista una **obsesión protectora con Laura Echegoyen**: el romance de costa se endurece en cuidado celoso, en guardia permanente sobre la muchacha —sin que él sepa que el linaje de ella cuelga, por el lado de su abuela, sobre la misma cofradía de hombres-pez de la [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] que medra en lo profundo y rinde culto a [[Cthulhu]]—. Cuida a Laura de un peligro cuya forma verdadera todavía no alcanza a ver.
 
 ---
 
@@ -50,8 +53,8 @@ El precio de ese saber se le nota en el carácter. Lo que ve bajo las islas, y l
 - [[Laura_Echegoyen]] — la rubia vasca de Claromecó que lo romancea; su obsesión protectora
 - [[Malnati]] — el maestro de la logia obrera que despierta su costado ocultista
 - [[Logia_Hijos_del_Trabajo]] — el templo de Barracas que hace base del grupo
-- [[Orden_Esoterica_de_Dagon]] — los hombres-pez del culto a Tulu, el fondo del que cuelga el linaje de Laura
-- [[Nyarlathotep|Tulu]] — la potencia que sueña bajo las islas
+- [[Orden_Esoterica_de_Dagon]] — los hombres-pez del culto a Cthulhu, el fondo del que cuelga el linaje de Laura
+- [[Cthulhu]] — la potencia que sueña bajo las islas
 
 ---
 

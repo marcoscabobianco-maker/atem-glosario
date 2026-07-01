@@ -22,8 +22,11 @@ tags:
  - padre-alexia
  - padre-glastum
  - medio-hermano-juliana
-imagen: null
+imagen: Imagenes_Tier1/Lord_Burdock_Iskander_Basileon.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lord_Burdock_Iskander_Basileon.png]]
+<!-- /HEADER_IMG -->
 
 > *"El arconte que delega es figura sin sombra: en el suelo del feudo cae la sombra del barón delegado, no la suya. Es nobleza por inscripción, no por presencia. El archivo la registra; el valle no la ve."* — del *[[Decadiano]]*, libro VII, sobre las arcontías nominales del Imperio.
 
@@ -61,7 +64,7 @@ Los **tres hijos** del arconte se reparten el valle según la disposición que e
 
 *El patrón es legible en cuanto se enuncia*: el padre puso al hijo legítimo en la baronía formal, al hijo extraoficial en la alcaidía paralela, y a la hija mayor en la sede principal del valle. **La pinza frontera** —Argus en [[Ritornello]], Glastum en [[Glastumville]]— **se sostiene por su propia fricción interna**, mientras Alexia gobierna el centro político del valle desde Burdock. *Burdock, el arconte, no necesita estar presente: la geometría que dispuso opera sola.*
 
-[*El archivero del Plata, que ha leído algunas cartas privadas del arconte —no preguntemos cómo—, sostiene que la asimetría no era pereza, sino realismo: Burdock sabía que un valle frontera con un mega-dungeon respirando debajo no se gobierna desde la sala del arconte. Se gobierna desde los puestos de avanzada, y se gobierna mejor si las dos avanzadas se vigilan entre sí. —Glosa de [[Arkos]].*]
+[*El archivero del Plata, que ha leído algunas cartas privadas del arconte —no preguntemos cómo—, sostiene que la asimetría no era pereza, sino realismo: Burdock sabía que un valle frontera con un mega-mazmorra respirando debajo no se gobierna desde la sala del arconte. Se gobierna desde los puestos de avanzada, y se gobierna mejor si las dos avanzadas se vigilan entre sí. —Glosa de [[Arkos]].*]
 
 ---
 

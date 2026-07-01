@@ -1,5 +1,5 @@
 ---
-title: "Johny Vengador (TG)"
+title: "Johny Vengador (Torregrises)"
 categoria: personaje
 tags:
  - "personaje"
@@ -7,7 +7,7 @@ tags:
  - "aviador"
  - "inmigrante"
 aliases:
- - "Johny Vengador (TG)"
+ - "Johny Vengador (Torregrises)"
  - "TG"
  - "Johny Vengador"
 ---
@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-Aviador que llega a [[Torregrises]] por aire. "Espiralado por la rejilla mundial caigo hacia [[Torregrises]] Imperial." No logra aterrizar al distraerse con **[[Nigrina_TG|Nigrina (TG)]]** asoleándose sobre el ala de un avión. Sigue sobrevolando la ciudad con su recuerdo como luz. "Historia para Johny Vengador" es el título de su sección en [[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]].
+Aviador que llega a [[Torregrises]] por aire. "Espiralado por la rejilla mundial caigo hacia [[Torregrises]] Imperial." No logra aterrizar al distraerse con **[[Nigrina_TG|Nigrina (Torregrises)]]** asoleándose sobre el ala de un avión. Sigue sobrevolando la ciudad con su recuerdo como luz. "Historia para Johny Vengador" es el título de su sección en [[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]].
 
 ## Apariciones notables
 

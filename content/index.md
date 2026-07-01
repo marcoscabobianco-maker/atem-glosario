@@ -104,7 +104,7 @@ Dieciséis posiciones recorre toda gesta del cosmos extendido — de la **Convoc
 - [[Plataformas_Zodiacales_Sistema_de_Guardianes]] — 12+1 sectores cósmicos
 
 ### Lugares
-- [[Ardis_Vala]] — mega-dungeon canónico (10 capas zodiacales)
+- [[Ardis_Vala]] — mega-mazmorra canónico (10 capas zodiacales)
 - [[Paris_Ucronica]] — capital de la ucronía
 - [[Caldero]] — ciudad-región dual
 - [[Torregrises]] — setting de novela cósmica

@@ -20,7 +20,7 @@ tags:
 
 ---
 
-*250 entradas inscritas. 2049 entradas del archivo aún esperan su lugar en la rueda. La crónica se renueva conforme la amanuense halla en los cuadernos una fecha que no había anotado.*
+*250 entradas inscritas. 2013 entradas del archivo aún esperan su lugar en la rueda. La crónica se renueva conforme la amanuense halla en los cuadernos una fecha que no había anotado.*
 
 ---
 
@@ -32,7 +32,8 @@ tags:
 - **geografía primordial cuya cronología precede al descenso; eco activo en el ciclo presente del Foso** — [[Arborea_Eden_CDI|Arborea Eden CDI]]
 - **Era Primordial — anterior al tiempo** — [[Gema_de_la_Creacion|Gema de la Creacion]]
 - **Era Primordial — antes del registro** — [[Los_Antiguos|Los Antiguos]]
-- **era primordial — primera etapa de la mega gesta** — [[Soluna|Soluna]]
+- **era primordial — primera etapa de la mega campaña** — [[Soluna|Soluna]]
+- **Antes del tiempo — el acto originario** — [[Yunque_del_Tiempo|Yunque del Tiempo]]
 
 ## 01 — Edad de los Imperios
 
@@ -103,7 +104,7 @@ tags:
 - **antes del Hiato — miembro del Triunvirato; activo en el cierre del ciclo cósmico** — [[Innombrable|Innombrable]]
 - **antes del Hiato; tortura continuada en cortes infernales** — [[Kal-el|Kal-el]]
 - **antes del Hiato — fundación del Palacio del Tiempo / continuo akásico** — [[PABLO_Viajero_Temporal_Primigenio|PABLO Viajero Temporal Primigenio]]
-- **trans-gesta; presencia documentada desde el ciclo primero; consolidación como sede papal tras el Hiato** — [[Palacio_del_Prisma|Palacio del Prisma]]
+- **trans-campaña; presencia documentada desde el ciclo primero; consolidación como sede papal tras el Hiato** — [[Palacio_del_Prisma|Palacio del Prisma]]
 - **elevado durante el Hiato; gobierna el dominio brumoso desde el regreso del ciclo presente** — [[Papa_Alejandro_Sixto|Papa Alejandro Sixto]]
 - **se forma durante el hiato de los quince años; vigente al ciclo presente** — [[Valakhan_de_la_Bruma|Valakhan de la Bruma]]
 - **tradición continuada desde antes del cómputo conocido; activa con manifestaciones en Caldero (caída del Papa Borg ~1812 AE) y en Ardis Vala (ascensión del Papa Alejandro Sixto durante el Hiato)** — [[Papas_Borg|Papas Borg]]
@@ -170,7 +171,6 @@ tags:
 *Constantinopla a Tiro, fase templaria.*
 
 - **siglos XII-XIII; estudio activo durante la pertenencia templaria del maestro** — [[Casa_de_Glaucom|Casa de Glaucom]]
-- **antes del cosmos compartido; final en el cruce templario** — [[Cronomon_Heredeth|Cronomon Heredeth]]
 - **fecha precisa no fijada en el archivo del cosmos extendido; evento bisagra entre el ciclo templario y el ciclo de los Reguladores** — [[Destruccion_de_Notre_Dame|Destruccion de Notre Dame]]
 - **circulación continua desde un Ragnarok frustrado; tránsitos sucesivos en manos templarias y heréticas** — [[Lamentacion_de_los_que_no_tienen_fe|Lamentacion de los que no tienen fe]]
 - **atestado en el episodio constantinopolitano de Olaus Wormius; recurso recurrente del archivo cronomántico** — [[Mensaje_de_si_mismo_carta_temporal|Mensaje de si mismo carta temporal]]
@@ -185,7 +185,6 @@ tags:
 - **1119 AD — Edad Templaria — hasta su sacrificio en 1889 A.D.A.** — [[Arsvan|Arsvan]]
 - **1119-1120 AD — Edad Templaria — primer Maestre** — [[Hugo_de_Payns|Hugo de Payns]]
 - **1119-1120 AD — Edad Templaria — recuperación del Libro Azul** — [[Jornada_del_Falso_Maestre|Jornada del Falso Maestre]]
-- **anterior al cosmos compartido; apoteosis-decapitación documentada hacia 1120; eco continuo en el FTL** — [[Chronomon|Chronomon]]
 
 ## 06 — Edad del Renacimiento
 
@@ -198,7 +197,7 @@ tags:
 
 *Libertateurs, paso de Aries.*
 
-- **anacronismo deliberado: armadura de placas en vísperas de la Guerra Civil norteamericana; arco de la misma mano: Boreales → Reguladores → Libertateurs** — [[Bloom|Bloom]]
+- **anacronismo deliberado: armadura de placas en vísperas de la Guerra Civil norteamericana; arco de mesa: Boreales → Reguladores → Libertateurs** — [[Bloom|Bloom]]
 - **Antiterra siglo XVIII — gesta de Les Libertateurs** — [[Magda|Magda]]
 - **innovación tecnológico-mágica activa desde la aceleración de la Revolución Industrial Mágica** — [[Milagro_de_Miles|Milagro de Miles]]
 - **París — referencia a 1715 A.D.A.** — [[Paris_Bien_Vale_una_Misa|Paris Bien Vale una Misa]]
@@ -225,6 +224,7 @@ tags:
 - **Belle Époque uchrónica — 13 maggio 1914 / antes y después** — [[Duque_de_Blanquist|Duque de Blanquist]]
 - **28 de junio de 1914 — Belle Époque uchrónica en cierre** — [[Sarajevo_1914_Ucronica|Sarajevo 1914 Ucronica]]
 - **Belle Époque uchrónica — 1863-1914; momento cardinal: 28 de junio de 1914** — [[Archiduque_Francisco_Fernando_de_Austria|Archiduque Francisco Fernando de Austria]]
+- **New York de gaslight, siglo XIX (1870-1890) — un pliegue del tiempo bajo la New York platónica** — [[Never911_S10|Never911 S10]]
 - **1876-1889 (vida temprana); reinado de Serbia en el ciclo final ucrónico** — [[Aleksandar_I|Aleksandar I]]
 - **1888-1890 A.D.A. — Belle Époque — Antiterra** — [[Lotario|Lotario]]
 - **Belle Époque uchrónica — actividad documentada 1900-1901 y reapariciones cronománticas en Constantinopla 1051-1055** — [[Aby_Warburgo|Aby Warburgo]]
@@ -329,7 +329,7 @@ tags:
 *Corona del Norte, América alternativa.*
 
 - **Northern Crown — siglo XVII tardío** — [[Concilio_Tribal_NC|Concilio Tribal NC]]
-- **doctrina alquímica continuada; aplicación moderna en el subterráneo TNW** — [[Corazon_de_Plomo_Alquimia_de_Transmutacion_TNW|Corazon de Plomo Alquimia de Transmutacion TNW]]
+- **doctrina alquímica continuada; aplicación moderna en el subterráneo (Mundo Nuevo)** — [[Corazon_de_Plomo_Alquimia_de_Transmutacion_TNW|Corazon de Plomo Alquimia de Transmutacion TNW]]
 - **Edad del Mundo Nuevo — América alternativa siglo XVII** — [[Corona_del_Norte|Corona del Norte]]
 - **ciclo TNW, despliegue de la 345ª Fuerza Motorizada** — [[Dimitri_TNW|Dimitri TNW]]
 - **siglo XVII Northern Crown; tránsito que no termina** — [[Flying_Dutchman_Holandes_Errante|Flying Dutchman Holandes Errante]]
@@ -347,7 +347,7 @@ Ver [[ERAS_PLATONICAS|Las trece eras platónicas del archivo]].
 
 Calendarios reconocidos por la crónica:
 
-- **DR** — calendario de los Reinos Olvidados (Torregrises)
+- **DR** (Dale Reckoning) — calendario de los Reinos Olvidados (Torregrises)
 - **A.D.A.** (Anno Domini Antiterra) — calendario del mundo gemelo
 - **AD / d.C.** — calendario gregoriano (Mediterraneum, Templarios, Sinterra)
 - **AE** — calendario del Caldero
@@ -357,8 +357,3 @@ Calendarios reconocidos por la crónica:
 ---
 
 *— Cierre de la crónica. La amanuense deja la pluma.*
-
-<!-- CICLO -->
-> **Casas del ciclo** · ✒ ⏳ ☯ ⛓
-> *La voz que reúne todos los calendarios es ella misma personaje del mundo: [[Akala|Akala]] recoge lo que el [[Arkos|cronista del Plata]] ya no puede dictar, porque la pluma que glosa también muere y transmigra. No traduce entre tiempos —el DR de [[Torregrises]], el A.D.A. del mundo gemelo [[Antiterra_Demonia|Antiterra]], el AE del [[Caldero]] corren cada uno por su mano—, y sin embargo los ordena en trece estaciones. Reunir el archivo es la última tarea del cronista interno: contar el tiempo de cosmos que no comparten tiempo.* — glosa de Akala.
-<!-- /CICLO -->

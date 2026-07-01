@@ -34,7 +34,7 @@ El cuaderno donde quedó primero anotada esta pieza la conserva como uno de los 
 
 ## Los receptores y los emisores de la señal
 
-El corazón del documento habla de algo que, en la isla, nadie nombra en voz alta: **"receptores y emisores de la señal"**. La carta postula un sistema de transmisión —aparatos, o personas, o cosas que hacen las veces de aparatos— sintonizados con aquello que late bajo la turba. Leída en el Atlántico Sur, donde un faro se vuelve columna y emite frecuencias que vacían la voluntad, la página deja de ser metáfora: es una **descripción técnica de la difusión** de [[Nyarlathotep|Tulu]], la voz que sueña en el fondo y reclama oídos. El texto distingue a los que reciben de los que emiten, como si catalogara una red tendida entre la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] y lo que duerme debajo.
+El corazón del documento habla de algo que, en la isla, nadie nombra en voz alta: **"receptores y emisores de la señal"**. La carta postula un sistema de transmisión —aparatos, o personas, o cosas que hacen las veces de aparatos— sintonizados con aquello que late bajo la turba. Leída en el Atlántico Sur, donde un faro se vuelve columna y emite frecuencias que vacían la voluntad, la página deja de ser metáfora: es una **descripción técnica de la difusión** de [[Cthulhu]], la voz que sueña en el fondo y reclama oídos. El texto distingue a los que reciben de los que emiten, como si catalogara una red tendida entre la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] y lo que duerme debajo.
 
 Hay un eco de biblioteca en todo esto —*la voz del amo*, esa fantasía de la transmisión que no se sabe si viene de afuera o de adentro de quien la escucha—, pero el documento no especula: **afirma**. Por eso pesa. No teoriza sobre la señal: la da por hecha, la mapea, la administra.
 
@@ -56,7 +56,7 @@ Ahí se cierra el círculo. El documento que habla de receptores y emisores **es
 
 ## Vínculos
 
-- [[Nyarlathotep]] — Tulu, la voz que sueña bajo las islas; la "señal" que el documento mapea
+- [[Nyarlathotep]] — Cthulhu, la voz que sueña bajo las islas; la "señal" que el documento mapea
 - [[Orden_Esoterica_de_Dagon]] — la red de receptores y emisores tendida entre la Orden y el fondo
 - [[Operativo_Condor]] — la historia verdadera en la que se enrosca la deriva biográfica de la carta
 - [[Antonio_Portet]] — el nexo del grupo con la esfera onírica, el que oye lo que el resto no alcanza a oír

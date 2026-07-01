@@ -26,7 +26,7 @@ Notas preliminares (descripción del [[Universo_Dual_TG|Universo Dual]]). Cosmog
 
 ## Notas
 
-Ver **[[Torregrises]]**, **[[Universo_Dual_TG|Universo Dual (TG)]]**, **[[Corporacion_de_las_Sombras|Corporación de las Sombras]]**, **[[Juego_de_las_Sombras|Juego de las Sombras]] / [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]**.
+Ver **[[Torregrises]]**, **[[Universo_Dual_TG|Universo Dual (Torregrises)]]**, **[[Corporacion_de_las_Sombras|Corporación de las Sombras]]**, **[[Juego_de_las_Sombras|Juego de las Sombras]] / [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]**.
 
 ## Ver también
 

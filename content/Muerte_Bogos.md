@@ -13,4 +13,4 @@ aliases:
 **Registro oral (sentido dudoso):** la cooperación del grupo con la "destrucción del tiempo" habría inclinado la balanza a su favor. La frase exacta queda custodiada en el Akashic.
 **Objeto:** Bolsa de Navidad con tesoros cósmicos (guadaña, reloj, alas)
 
-**Interpretación:** Posible encarnación menor de [[Cronomon]] o entidad neutral ([[Muerte]] tradicional). Su rol es distribuir poder necesario para grupo. Presumiblemente NO enemiga.
+**Interpretación:** Posible encarnación menor de [[Chronomon|Cronomon]] o entidad neutral (Muerte tradicional). Su rol es distribuir poder necesario para grupo. Presumiblemente NO enemiga.

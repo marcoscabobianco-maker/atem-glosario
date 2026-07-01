@@ -5,12 +5,12 @@ tags:
  - "archimage"
  - "trans-campaign"
 aliases:
- - "Eagwulf / Iggwilf (TNW)"
+ - "Eagwulf / Iggwilf (Mundo Nuevo)"
  - "Eagwulf"
- - "Iggwilf (TNW)"
+ - "Iggwilf (Mundo Nuevo)"
  - "TNW"
  - "Eagwulf / Iggwilf"
- - "Eagwulf Iggwilf TNW"
+ - "Eagwulf Iggwilf (Mundo Nuevo)"
 ---
 
 <!-- HEADER_IMG -->

@@ -23,8 +23,11 @@ tags:
  - lampara-esperanza
  - valle-tempestad
  - blake-vala-or-four-zoas
-imagen: null
+imagen: Imagenes_Tier1/Thalia_Cristalia.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Thalia_Cristalia.png]]
+<!-- /HEADER_IMG -->
 
 > *Madre de [[Vitalis]]. Pareja de Taylor ([[Tailoor]], anagrama de [[Lotario]] y [[Oratiol]]). Identidad oculta: [[Swedenborg]] en el Anti-Inferno. Linaje mayor de la [[Casa_Azul_de_Vala]].*
 

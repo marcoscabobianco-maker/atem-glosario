@@ -20,7 +20,7 @@ aliases:
 
 ## Cronología de la jornada del robo de reliquias
 
-| Hora | [[Evento]] |
+| Hora | Evento |
 |---|---|
 | T+0 | Grupo emerge del laberinto (cierre de la jornada del falso Maestre, hora exacta incierta) |
 | T+12h | Debriefing con [[Hugo_de_Payns|Hugo de Payns]] en jardín del [[Temple_complejo_TE|Temple]] |

@@ -23,8 +23,11 @@ tags:
  - companhia-lanza-dorada
  - barba-bermeja
  - aliado-del-alcaide
-imagen: null
+imagen: Imagenes_Tier1/Kaitor_el_Rojo.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Kaitor_el_Rojo.png]]
+<!-- /HEADER_IMG -->
 
 > *"Los delvers no necesitan jerarquía permanente. Pero necesitan a alguien que hable por todos cuando el alcaide pregunta. Esa figura existe en cada villa frontera de Irthuin con dungeon respirando debajo. En [[Glastumville]] se llama Kaitor el Rojo, y la barba le hace honor al nombre."* — pliego de la cofradía mercenaria de [[Narsileon]], comentario al margen.
 
@@ -34,7 +37,7 @@ La lámina —*si el alcaide hubiera autorizado retrato del portavoz*— **no se
 
 ## El portavoz
 
-**Kaitor el Rojo** es **portavoz del [[Compañia_de_la_Lanza_Dorada|Consejo de Delvers]]** —*figura coordinadora de la Comunidad de Aventureros que opera desde [[Glastumville]] descendiendo regularmente al [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]*—. *La portavocía no es cargo formal*: es **reconocimiento operativo** de los grupos aventureros activos en el valle. *Cuando una cuestión común afecta a varios grupos* —*reparto de zonas del dungeon, negociación con la alcaidía, respuesta a amenazas mayores*— **los capitanes de los grupos eligen al portavoz**, *generalmente por aclamación tras debate menor en la taberna principal*.
+**Kaitor el Rojo** es **portavoz del [[Compañia_de_la_Lanza_Dorada|Consejo de Delvers]]** —*figura coordinadora de la Comunidad de Aventureros que opera desde [[Glastumville]] descendiendo regularmente al [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]*—. *La portavocía no es cargo formal*: es **reconocimiento operativo** de los grupos aventureros activos en el valle. *Cuando una cuestión común afecta a varios grupos* —*reparto de zonas del dungeon, negociación con la alcaidía, respuesta a amenazas mayores*— **los capitanes de los grupos eligen al portavoz**, *generalmente por aclamación tras debate menor en la taberna principal*.
 
 Kaitor **ha sido portavoz durante varias temporadas consecutivas** —*desde aproximadamente el 2989 AEP*—. **La continuidad no es exigida**, *pero los grupos lo han reconfirmado en cada temporada* sin desafío significativo. *El cronista decadiano lo interpreta como **señal de competencia operativa**: los aventureros no toleran portavoces incompetentes; *los relevan rápido*; *Kaitor sigue*.
 

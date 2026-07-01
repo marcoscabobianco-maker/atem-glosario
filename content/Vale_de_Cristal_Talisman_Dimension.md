@@ -18,7 +18,7 @@ Lugar misterioso del [[Anti_Inferno|Descenso]] en el que el grupo logró estable
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — gesta en la que el Vale funciona como refugio o llave de salida
+- [[Anti_Inferno|el Descenso]] — gesta en la que el Vale funciona como refugio o llave de salida
 - [[Vala_Cristalis|Vala Cristalis]] — dimensión cristalina análoga; posiblemente el mismo locus bajo otro nombre
 - [[Ardis_Vala|Ardis Vala]] — el cristal de diez capas cuya naturaleza eco-dimensional resuena con el Vale
 - [[Castillo_del_Prisma|Castillo del Prisma]] — estructura cristalina mayor que podría contener o proyectar este Vale

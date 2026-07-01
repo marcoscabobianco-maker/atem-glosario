@@ -20,6 +20,6 @@ Variante o aspecto de los [[Inevitable_Inevitables|Inevitables]] enfatizando su 
 - [[Inevitable_Inevitables|Inevitables]] — entrada principal de la clase de entidades; constructos de ley cósmica
 - [[Mechanus|Mechanus]] — plano de origen (Planescape): sede de la maquinaria universal y del orden cósmico
 - [[Marshall_Inevitable|Marshall Inevitable]] — entidad de rango superior; ejecuta reabsorción de Inevitables desviados
-- [[Maruts|Maruts]] — Inevitables axiales del catálogo clásico; custodian al Masracht en el Prism Keep
+- [[Maruts|Maruts]] — Inevitables axiales del catálogo clásico; custodian al Masracht en el Castillo del Prisma
 - [[Draga_Machine|Draga Machine]] — [[Inevitable]] "desviada" que abdicó su misión; caso paradigmático de transgresión cósmica
 - [[Senor_del_Orden_Primos|Primos]] — dios-máquina supremo de [[Mechanus]], señor de los Modrones y la legalidad planar

@@ -80,3 +80,16 @@ En el ciclo final de [[Antiterra_Demonia|Antiterra]], El Fabuloso fue **uno de l
 - 1890 [[Anno_Domini_Antiterra_ADA|A.D.A.]] [[Torneo_de_la_Torre_Eiffel]] — sube dentro de Boro, bebe de la Copa, redirige la Gema a U-5-7-1
 - [[Sucesos_de_Antiterra]] — referencias posteriores como banquero
 - Familia [[DreyFab]] — *"el Fabuloso dio mala fama, prototipo Errante"*
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Único sobreviviente de [[Los_Boreales]] —la banda diezmada por el dragón negro— levanta sobre esa pérdida el [[Banco_Boreal]], una sigla que ya no necesita compañeros para multiplicarse. Y cuando vuelve a una banda, [[Los_Reguladores]], la traiciona desde adentro: en el [[Torneo_de_la_Torre_Eiffel]] desvía la [[Gema_de_la_Creacion]] a la bóveda de los [[Mercane_Welcome_Back_Henri|Mercane]] en vez de fundar [[Sigil]]. Lo que el escenario público lee como traición al grupo, el privado lo lee como operación del banco con sus socios. Lo que A registró como un PJ de banda (AA-G.1), en C es la casa de la banda nombrada vuelta del revés: la sigla que sobrevive a su propia banda y deshace la siguiente.* — glosa del archivero del Plata.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Origen del grupo Boreales:** corrido en el setting de Diamond Lake / Chicago, con *Age of Worms* (D&D 3.5) como base suelta.

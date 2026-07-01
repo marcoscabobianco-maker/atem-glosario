@@ -21,11 +21,11 @@ tags:
  - troll-lifts
 ---
 
-> *[[Buscadores_de_Ardis_Vala|Los Buscadores]] derrotaron a los [[Varumani|trolls]] de los Troll Lifts y la Corte del Thegn. [[Varboka]] depuesto. [[Court_of_Troll_Thegn]] cae. Cómo y cuándo: durante el cierre original o durante el [[Hiato_15_Años_Ardis_Vala|hiato]]. Cambia la Corte del Thegn hacia abajo radicalmente.*
+> *[[Buscadores_de_Ardis_Vala|Los Buscadores]] derrotaron a los [[Varumani|trolls]] de los Elevadores de los Trolls y la Corte del Thegn. [[Varboka]] depuesto. [[Court_of_Troll_Thegn]] cae. Cómo y cuándo: durante el cierre original o durante el [[Hiato_15_Años_Ardis_Vala|hiato]]. Cambia la Corte del Thegn hacia abajo radicalmente.*
 
 ## Presentación
 
-El **Vencimiento de los [[Varumani]]** —la **derrota del pueblo troll** que gobernaba los [[Troll_Lifts_Arena|Troll Lifts]] y la [[Court_of_Troll_Thegn|Corte del Thegn]] del [[Mega_Dungeon_Arden_Vul]]— **es un evento cardinal** de la transición entre la corrida original y la post-hiato de [[Arden_Vul|Ardis Vala]].
+El **Vencimiento de los [[Varumani]]** —la **derrota del pueblo troll** que gobernaba los [[Troll_Lifts_Arena|Elevadores de los Trolls]] y la [[Court_of_Troll_Thegn|Corte del Thegn]] del [[Mega_Dungeon_Arden_Vul]]— **es un evento cardinal** de la transición entre la corrida original y la post-hiato de [[Arden_Vul|Ardis Vala]].
 
  lo confirma como hecho consumado:
 > *"Aunque ahora vencieron a los trolls... "* (revelación del archivo)
@@ -34,7 +34,7 @@ El **Vencimiento de los [[Varumani]]** —la **derrota del pueblo troll** que go
 
 #### En la Corte del Thegn
 
-- **[[Varboka]], [[Varboka|First Thegn]]** — depuesto, muerto o exiliado
+- **[[Varboka]], [[Varboka|Primer Thegn]]** — depuesto, muerto o exiliado
 - **4 clanes** (Rudigaya, Vanaraya, Pendaya, Druvaya) — disueltos o dispersos
 - **Hraskaya, Vedraya One-Eye, Gavra Easy-Going, Igrippa Unruly** — chiefs depuestos
 - **Ashoka Court Sorcerer** — destino desconocido
@@ -44,11 +44,11 @@ El **Vencimiento de los [[Varumani]]** —la **derrota del pueblo troll** que go
 - **[[Lords_of_Creation_Sistema_TNW|Sistema]] de chokepoints defensivos** — neutralizados
 - **Silver mining en el Suelo del Gran Abismo** — sin gobierno minero
 
-#### En los Troll Lifts
+#### En los Elevadores de los Trolls
 
 - **Trijax vice-overseer** — depuesto
 - **Gorlen overseer** — depuesto
-- **[[Troll_Lifts_Arena|Troll Lifts]]** — sin operadores varumani, ¿ascensores parados? ¿capturados? ¿reemplazados?
+- **[[Troll_Lifts_Arena|Elevadores de los Trolls]]** — sin operadores varumani, ¿ascensores parados? ¿capturados? ¿reemplazados?
 - **Tarifa fijada** (10 sp por leg) — sin estructura recaudatoria
 - **Bestial varumani** — sin guía, posibles ferales / exiliados / esclavos
 
@@ -56,12 +56,12 @@ El **Vencimiento de los [[Varumani]]** —la **derrota del pueblo troll** que go
 
 - **Gog** — lesser varumani exiliado **antes** del Vencimiento. Su estatus puede haber cambiado: ¿regresó al pueblo, mantuvo exilio, ascendió como nuevo líder?
 - **Peabo**, **Muq** — lesser varumani exiliados; similar a Gog
-- **Ecath** — apprentice overseer Troll Lifts — destino tras la caída de los Lifts: incierto
+- **Ecath** — apprentice overseer Elevadores de los Trolls — destino tras la caída de los Lifts: incierto
 - **Prayaska true varumani mine boss** — el de la mina de plata. Su operación se interrumpió, dejándola sin protección
 
 ### Cómo se hizo (revelación del archivo)
 
-**Mecánica canónica confirmada**: los [[Varumani]] **fueron destruidos como castigo cósmico** —no por derrota militar pura de los [[Buscadores_de_Ardis_Vala|Buscadores]]—. :
+**Hecho canónico confirmado**: los [[Varumani]] **fueron destruidos como castigo cósmico** —no por derrota militar pura de los [[Buscadores_de_Ardis_Vala|Buscadores]]—. :
 
 > *"Fueron destruidos por castigo ante tamaña violencia contra la humanidad, los Varumani, que eran los que tenían el huevo-bomba."*
 
@@ -73,7 +73,7 @@ El **Vencimiento de los [[Varumani]]** —la **derrota del pueblo troll** que go
 4. **La violencia contra la humanidad** —miles de muertos en [[Ritornello]]— **disparó el castigo cósmico**
 5. **Los Varumani fueron vencidos** —cómo exactamente: a desarrollar—. **Los Buscadores ejecutaron parte** del castigo, pero **hubo fuerzas cosmológicas más amplias** —posible mano de los [[Custodes_Oculis_Solis]] / energía del plano positivo / autoridad emergente que sería el [[Papa_Alejandro_Sixto]]—
 
-### Consecuencias para el mega-dungeon
+### Consecuencias para el mega-mazmorra
 
 #### Para los aliados originales de los Varumani
 
@@ -82,23 +82,23 @@ El **Vencimiento de los [[Varumani]]** —la **derrota del pueblo troll** que go
 
 #### Para los enemigos originales de los Varumani
 
-- **[[Kaliyani]] / Tsilliv** — bounty de 100gp/colmillo se vuelve irrelevante. Pueden expandirse desde Kaliyani Pits
+- **[[Kaliyani]] / Tsilliv** — bounty de 100gp/colmillo se vuelve irrelevante. Pueden expandirse desde Pozos de Kaliyani
 - **[[Heqeti]] / [[Caudatssa_the_Tongue|Caudatssa]]** del [[Heqeti]] Upper [[Temple_complejo_TE|Temple]] — pueden expandir territorio
 - **[[Reepsiq]] del Ziggurat Ziggurat de Kauket** — sin opositor regional, mayor libertad para invocar a Kauket
 
 #### Para terceros
 
 - **[[Cinna_Minux]] vampiro** — su dominio oculto puede ser **más fácilmente descubierto** o, paradójicamente, **más seguro** sin Varumani patrullando
-- **[[Caballeros_Cicatriz_del_Sol]] (el Hold y la Ciudadela de la Cicatriz del Sol)** bajo [[Valerius_Utrecht|Valerius]] / [[Papa_Alejandro_Sixto|Papa Alejandro Sixto]] — vacuum de poder permite expansión hacia Corte del Thegn / Nether Reaches
-- **Inn of the Lost ([[Thegan_Whitemane|Whitemane]])** — el endorsement varumani se pierde; reconfiguración de alianzas
+- **[[Caballeros_Cicatriz_del_Sol]] (el Bastión y la Ciudadela de la Cicatriz del Sol)** bajo [[Valerius_Utrecht|Valerius]] / [[Papa_Alejandro_Sixto|Papa Alejandro Sixto]] — vacuum de poder permite expansión hacia Corte del Thegn / Confines Inferiores
+- **Posada de los Perdidos ([[Thegan_Whitemane|Whitemane]])** — el endorsement varumani se pierde; reconfiguración de alianzas
 
 ## Vínculos
 
 - [[Varumani]] — pueblo derrotado
-- [[Varboka]] — First Thegn depuesto
+- [[Varboka]] — Primer Thegn depuesto
 - [[Hiato_15_Años_Ardis_Vala]] — el evento es parte del hiato
-- [[Court_of_Troll_Thegn|Corte del Thegn Court of Troll Thegn]] — escenario principal
-- [[Troll_Lifts_Arena|Troll Lifts Troll Lifts & Arena]] — escenario secundario
+- [[Court_of_Troll_Thegn|Corte del Thegn Corte del Thegn]] — escenario principal
+- [[Troll_Lifts_Arena|Elevadores de los Trolls Elevadores de los Trolls y Arena]] — escenario secundario
 - [[Mega_Dungeon_Arden_Vul]] — cambio mayor en topología de facciones
 - [[Beacon_Faro_Brillante]] — posible factor (activación mal manejada)
 - [[Kaliyani]] / [[Tsilliv]] — beneficiarios
@@ -115,5 +115,5 @@ El **Vencimiento de los [[Varumani]]** —la **derrota del pueblo troll** que go
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *La caída de los [[Varumani]] reordena un piso entero del [[Mega_Dungeon_Arden_Vul|mega-dungeon]]: depuesto [[Varboka]], cae la [[Court_of_Troll_Thegn|Corte del Thegn]] y se vacían los [[Troll_Lifts_Arena|Troll Lifts]] —los ascensores que comunican los estratos numerados del Abismo—. El dungeon estratifica eras y facciones por niveles (L06, L07, el Suelo del Gran Abismo), y este vencimiento abre el estrato hacia abajo para que [[Papa_Alejandro_Sixto]] y los suyos asciendan al vacío de poder.* — glosa del Decadiano.
+> *La caída de los [[Varumani]] reordena un piso entero del [[Mega_Dungeon_Arden_Vul|mega-mazmorra]]: depuesto [[Varboka]], cae la [[Court_of_Troll_Thegn|Corte del Thegn]] y se vacían los [[Troll_Lifts_Arena|Elevadores de los Trolls]] —los ascensores que comunican los estratos numerados del Abismo—. El dungeon estratifica eras y facciones por niveles (L06, L07, el Suelo del Gran Abismo), y este vencimiento abre el estrato hacia abajo para que [[Papa_Alejandro_Sixto]] y los suyos asciendan al vacío de poder.* — glosa del Decadiano.
 <!-- /CICLO -->

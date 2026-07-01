@@ -1,6 +1,6 @@
 ---
-title: "Kaliyani (Consorcio Doce)"
-título: "Kaliyani (Consorcio Doce)"
+title: "Kaliyani"
+título: "Kaliyani"
 slug: Kaliyani
 categoria: pueblo
 aliases:
@@ -26,20 +26,20 @@ tags:
 
 ## Presentación
 
-Los **Kaliyani** son una **sub-raza de los [[Heqeti]] renegada** —separados del culto a Kauket hace milenios—. Habitantes principales del **[[Mega_Dungeon_Arden_Vul]]** en las **Kaliyani Pits**, bajo el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]]. **Seres reptilianos con cuatro ojos**, descritos en archivos el archivo como tales.
+Los **Kaliyani** son una **sub-raza de los [[Heqeti]] renegada** —separados del culto a Kauket hace milenios—. Habitantes principales del **[[Mega_Dungeon_Arden_Vul]]** en las **Pozos de Kaliyani**, bajo el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]]. **Seres reptilianos con cuatro ojos**, descritos en archivos el archivo como tales.
 
 ### Estructura social: el Consorcio Doce
 
-Los Kaliyani de [[Ardis_Vala|Arden Vul]] se organizan en el **Consorcio Doce** —doce líderes hechiceros— bajo el comando de:
+Los Kaliyani de [[Ardis_Vala|Ardis Vala]] se organizan en el **Consorcio Doce** —doce líderes hechiceros— bajo el comando de:
 
 - **[[Tsilliv]]** ★ — líder del Consorcio Doce
 - **Otros 11 hechiceros** — no nombrados individualmente
 
 ### Reaparición reciente
 
-**Recientemente** los varumani **descubrieron** a un kaliyani scout team enviado por **Rivvep** a explorar el chasm floor. **Lo mataron**. **[[Varboka]] [[Varboka|First Thegn]] declaró bounty público: 100 gp por colmillo kaliyani**.
+**Recientemente** los varumani **descubrieron** a un kaliyani scout team enviado por **Rivvep** a explorar el chasm floor. **Lo mataron**. **[[Varboka]] [[Varboka|Primer Thegn]] declaró bounty público: 100 gp por colmillo kaliyani**.
 
-**Rivvep, kaliyani sorcerer**, lidera la **exploration team** desde Kaliyani Pits hacia Suelo del Gran Abismo (el Silent Canyon).
+**Rivvep, hechicero kaliyani**, lidera la **exploration team** desde Pozos de Kaliyani hacia Suelo del Gran Abismo (el Silent Canyon).
 
 ### Aliados y enemigos
 
@@ -47,7 +47,7 @@ Los Kaliyani de [[Ardis_Vala|Arden Vul]] se organizan en el **Consorcio Doce** �
 |---|---|
 | **Enemigo ancestral (A)** | **[[Varumani]]** — bounty activo, conflicto declarado |
 | **Posible relación tensa** | **[[Heqeti]]** — son sub-raza renegada del mismo origen |
-| **Posible rival** | **[[Caballeros_Cicatriz_del_Sol|Sun-Scarred Knights]]** — los Sun-Scarred conocen su existencia |
+| **Posible rival** | **[[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** — los Sun-Scarred conocen su existencia |
 | **Negociación** | **Acuerdo 75%** con los [[Buscadores_de_Ardis_Vala|Buscadores]] en el archivo — ¿qué fue exactamente? Pendiente |
 
 ### Capacidades
@@ -70,11 +70,11 @@ Los Kaliyani son **la facción "alienígena sorpresa"** del Suelo del Gran Abism
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- **Kaliyani Pits** — su sede
+- **Pozos de Kaliyani** — su sede
 - [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]] — exploration team activa
 - [[Heqeti]] — raza madre
 - [[Tsilliv]] — líder del Consorcio Doce
-- **Rivvep** — kaliyani sorcerer, líder exploration team
+- **Rivvep** — hechicero kaliyani, líder exploration team
 - [[Varumani]] / [[Varboka]] — enemigos ancestrales
 - [[Reepsiq]] / [[Kauket]] — culto del que renegaron
 - [[Caballeros_Cicatriz_del_Sol]] — relación tensa
@@ -87,5 +87,5 @@ Los Kaliyani son **la facción "alienígena sorpresa"** del Suelo del Gran Abism
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *Su domicilio cosmológico es una profundidad: las Kaliyani Pits bajo el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], el estrato más hondo del [[Mega_Dungeon_Arden_Vul]]. Sub-raza [[Heqeti]] renegada que el [[Tsilliv|Consorcio Doce]] dirige, los Kaliyani son la facción que el descenso esconde en su fondo —enemigos ancestrales de los [[Varumani]] de los pisos superiores—. Bajar en el dungeon es bajar también en el tiempo de las razas: cada nivel guarda una era anterior, y los cuatro ojos del fondo miran desde la más vieja.* — glosa del Decadiano.
+> *Su domicilio cosmológico es una profundidad: las Pozos de Kaliyani bajo el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]], el estrato más hondo del [[Mega_Dungeon_Arden_Vul]]. Sub-raza [[Heqeti]] renegada que el [[Tsilliv|Consorcio Doce]] dirige, los Kaliyani son la facción que el descenso esconde en su fondo —enemigos ancestrales de los [[Varumani]] de los pisos superiores—. Bajar en el dungeon es bajar también en el tiempo de las razas: cada nivel guarda una era anterior, y los cuatro ojos del fondo miran desde la más vieja.* — glosa del Decadiano.
 <!-- /CICLO -->

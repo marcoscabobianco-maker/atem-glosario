@@ -25,7 +25,7 @@ Alma condenada en el segundo círculo. 62 años, aspecto de esqueleto. Mencionad
 
 ## Vinculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — gesta infernal; Fanchon habita los círculos del Foso
+- [[Anti_Inferno|el Descenso]] — gesta infernal; Fanchon habita los círculos del Foso
 - [[Lost_Ones]] — categoría de alma sin esperanza a la que pertenece
 - [[Tempestari]] — la tormenta del segundo círculo que sacude a los condenados de su círculo
 - [[Minos_Inferno]] — juez del segundo círculo que dictaminó su condenación

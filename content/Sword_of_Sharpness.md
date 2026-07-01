@@ -1,6 +1,8 @@
 ---
-title: "Sword of Sharpness"
+title: "Espada del Filo Cortante"
+categoria: objeto
 aliases:
+ - "Espada del Filo Cortante"
  - "Sword of Sharpness"
 ---
 

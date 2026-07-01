@@ -41,7 +41,7 @@ El faro de Claromecó no es solo un faro: es la copia austral de otro que está 
 
 ## El rito — cuando la luz se da vuelta
 
-En la linterna del faro, donde debería ir la lámpara que avisa a los barcos, va otra cosa. La [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] —los hombres-pez que rinden culto a [[Nyarlathotep|Tulu]] y a lo que sueña en el fondo del mar— quería mover hasta aquí su [[Circonio_Piedra_Azul|piedra azul]] y despertarla en lo alto de la torre. El faro era el altar; la piedra, el anzuelo; la luz, el cebo.
+En la linterna del faro, donde debería ir la lámpara que avisa a los barcos, va otra cosa. La [[Orden_Esoterica_de_Dagon|Orden Esotérica de Dagón]] —los hombres-pez que rinden culto a [[Cthulhu]] y a lo que sueña en el fondo del mar— quería mover hasta aquí su [[Circonio_Piedra_Azul|piedra azul]] y despertarla en lo alto de la torre. El faro era el altar; la piedra, el anzuelo; la luz, el cebo.
 
 Colocada en la linterna y manchada de sangre, la piedra deja de ser mineral y empieza a respirar. Entonces el faro entero deja de ser faro: se vuelve **columna**, un tentáculo de piedra que se conecta hacia el norte y hacia el mar, y emite una **frecuencia rosada** que baja sobre el pueblo y vacía de voluntad a su gente, que queda mansa y hueca como sonámbula. La baliza, que existía para traer barcos a puerto, queda invertida: ya no guía hacia tierra firme, guía hacia lo otro. La luz que salva, vuelta del revés, es una boca que llama.
 
@@ -69,7 +69,7 @@ Claromecó es un lugar real de la costa de Tres Arroyos, conservado tal cual en 
 - [[Citroen_2CV]] — el cacharro robado que carga al grupo los quinientos treinta kilómetros de ripio hasta aquí
 - [[El_hijo_hibrido]] — la cría de la misma cofradía y el mismo descenso
 - [[Carcosa]] — la tierra de los dos soles que el huevo encierra como un mundo en miniatura
-- [[Nyarlathotep]] — Tulu, lo que la luz invertida llama desde el fondo
+- [[Nyarlathotep]] — Cthulhu, lo que la luz invertida llama desde el fondo
 
 ## Apariciones
 

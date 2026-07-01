@@ -24,7 +24,12 @@ aliases:
  - "P2"
  - "Propaganda Due"
  - "Propaganda 2"
+imagen: Imagenes_Tier1/Lucio_Gelli_P2_Propaganda_Due.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lucio_Gelli_P2_Propaganda_Due.png]]
+<!-- /HEADER_IMG -->
 
 > *Nadie lo vota, nadie lo elige; y sin embargo es él quien decide quién gobierna.*
 

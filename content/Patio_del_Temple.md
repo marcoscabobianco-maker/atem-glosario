@@ -12,7 +12,7 @@ Patio del Templo Jerusalén lleno de refugiados, [[Campana_Templarios_TE|Templar
 
 ## Vinculos
 
-- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta en la que se inscribe este espacio sagrado
+- [[Campana_Templarios_TE|Gesta Templarios]] — gesta en la que se inscribe este espacio sagrado
 - [[Santuario_Templario_ex-Fortaleza_Cruzada|Santuario Templario (ex-Fortaleza Cruzada)]] — recinto templario relacionado; comparten el eje de la fortaleza sagrada
 - [[Cementerio_Jerusalorium|El Cementerio de Jerusalorium]] — espacio funerario contiguo al complejo templario de Jerusalén
 - [[Baphomet_Culto_Demoniaco|Baphomet & Culto Demoníaco]] — el culto que el [[Temple_complejo_TE|Temple]] resiste; el patio con refugiados y pan es imagen opuesta a la industrialización bafomética

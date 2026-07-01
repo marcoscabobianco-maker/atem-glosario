@@ -16,11 +16,11 @@ wikipedia: https://en.wikipedia.org/wiki/Hundun
 
 ## Presentación
 
-**Tipo:** [[Entidad]] — Caos primordial / Antagonista no consumado
+**Tipo:** Entidad — Caos primordial / Antagonista no consumado
 
 Villano final del escenario alternativo del [[Anti_Inferno|Descenso]]. Fue considerado como antagonista principal pero nunca fue enfrentado: se reencarna en "elfomarino" como forma de escape. [[Faizandro]] lo señala como candidato a "jinete de la guerra."
 
-**Cosmología:** Nombre evoca el Hundun (渾沌, caos primordial en mitología china). [[Entidad]] cósmica de caos puro, con resonancia en el [[Limbo]] (Plano del Caos) y el [[Abismo]] (caos maligno). Representa el camino no tomado: el antagonista que pudo ser y no fue.
+**Cosmología:** Nombre evoca el Hundun (渾沌, caos primordial en mitología china). Entidad cósmica de caos puro, con resonancia en el [[Limbo]] (Plano del Caos) y el [[Abismo]] (caos maligno). Representa el camino no tomado: el antagonista que pudo ser y no fue.
 
 ## Links externos
 

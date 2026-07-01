@@ -37,7 +37,7 @@ La triple naturaleza —**alienígena + vampiro + máquina**— es una declaraci
 
 ### Fundador de la Orden de la Cicatriz del Sol
 
-Según los pliegos antiguos de Ardisvala, **Melok-Ri fundó tres organizaciones paramilitares sucesivas**, siendo la última la **[[Caballeros_Cicatriz_del_Sol|Orden de los Caballeros de la Cicatriz del Sol]]** en el **año 1123 AEP** (Después del [[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc]] / Elías). [[Sagrada_Orden|La Orden]] opera desde su **Hold y su Ciudadela**, en lo más hondo del mega-dungeon. Sus miembros llevan **[[Anillos_Solares]]** —cobre con plata escarlata, invocan luz solar, caída de pluma, salto, respiración acuática— como insignia.
+Según los pliegos antiguos de Ardisvala, **Melok-Ri fundó tres organizaciones paramilitares sucesivas**, siendo la última la **[[Caballeros_Cicatriz_del_Sol|Orden de los Caballeros de la Cicatriz del Sol]]** en el **año 1123 AEP** (Después del [[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc]] / Elías). [[Sagrada_Orden|La Orden]] opera desde su **Bastión y su Ciudadela**, en lo más hondo del mega-mazmorra. Sus miembros llevan **[[Anillos_Solares]]** —cobre con plata escarlata, invocan luz solar, caída de pluma, salto, respiración acuática— como insignia.
 
 La paradoja de Melok-Ri es brutal: **vampiro que funda orden de caballeros del sol**. Pero la paradoja es **operativa**: el sol que los Caballeros invocan no es el sol real, es **fachada arcana** —los anillos hacen luz solar artificial, no luz solar verdadera—. El vampiro fundó la Orden para **disfrazarse del propio enemigo solar** y operar a la vista de todos.
 
@@ -55,13 +55,13 @@ Lo que cae al suelo no es solo una cabeza: es **una calavera flotante con IA emb
 
 ### La cadena: del Masracht a Malakita a Caladan
 
-La estructura del vampirismo en [[Ardis_Vala|Arden Vul]] es **jerárquica trans-generacional**:
+La estructura del vampirismo en [[Ardis_Vala|Ardis Vala]] es **jerárquica trans-generacional**:
 
-1. **El [[Masracht_Prism_Keep|Masracht]]** —vampiro primigenio, **padre de [[Caladan]]/Arian**— estaba **capturado por seis [[Maruts]] en el [[Prism_Keep]]** (capítulo inserto en los pliegos de [[Ardis_Vala|Arden Vul]]). Es **eslabón superior**.
+1. **El [[Masracht_Prism_Keep|Masracht]]** —vampiro primigenio, **padre de [[Caladan]]/Arian**— estaba **capturado por seis [[Maruts]] en el [[Prism_Keep]]** (capítulo inserto en los pliegos de [[Ardis_Vala|Ardis Vala]]). Es **eslabón superior**.
 2. **Malakita / Melok-Ri** vampirizó a **[[Caladan]]**. Es **eslabón medio**.
 3. **Caladan / Arian** —vampirizado, ahora del lado de los compañeros—. Es **eslabón final** (de momento).
 
-En la **el archivo (audio pendiente de transcribir)**, **el grupo libera al [[Masracht_Prism_Keep|Masracht del Prism Keep]]**, lo enfrenta y lo elimina. **Tomar la cadena entera —Masracht + Malakita ya muerto— es lo que permite a los compañeros tomar control de la Orden**. Los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]] pasan de ser herramienta de Malakita a ser **organización liderada por los buscadores** (los compañeros).
+En la **el archivo (audio pendiente de transcribir)**, **el grupo libera al [[Masracht_Prism_Keep|Masracht del Castillo del Prisma]]**, lo enfrenta y lo elimina. **Tomar la cadena entera —Masracht + Malakita ya muerto— es lo que permite a los compañeros tomar control de la Orden**. Los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]] pasan de ser herramienta de Malakita a ser **organización liderada por los buscadores** (los compañeros).
 
 ### Botín de la decapitación
 
@@ -91,7 +91,7 @@ La victoria templó a cada uno de los miembros como pocas gestas.
 - **[[Beacon_Faro_Brillante|Beacon / Faro Brillante]]** — nave que trajo a los rudishva hace ~3.000 años
 - **Calavera flotante con IA** — su forma real revelada
 - **Anillos Solares** — insignia de los Caballeros
-- **El Hold y la Ciudadela** — territorio de la Orden
+- **El Bastión y la Ciudadela** — territorio de la Orden
 - **[[Pacto_de_Elias_Elias_Ennio|Pacto de Enoc]] / Elías** — referencia cronológica (1123 AEP)
 - **Cámara hiperbárica sci-fi** — entorno de la decapitación
 - **Armadura con granadas, esfera oscura, [[RAJ-750]]** — botín tecnológico
@@ -100,10 +100,10 @@ La victoria templó a cada uno de los miembros como pocas gestas.
 
 - 1123 AEP — fundación de la Orden de la Cicatriz del Sol (referencia histórica)
 - ~3.000 años antes — llegada con el Beacon
-- Arden Vul — antagonista activo hasta la fase media del ciclo primero
+- Ardis Vala — antagonista activo hasta la fase media del ciclo primero
 - **el archivo** — decapitado por Alúmine
 - Jornadas posteriores — cabeza arcanum flotante residual, derrotada
-- el archivo (audio pendiente) — el grupo cierra la cadena con el [[Masracht_Prism_Keep|Masracht del Prism Keep]]
+- el archivo (audio pendiente) — el grupo cierra la cadena con el [[Masracht_Prism_Keep|Masracht del Castillo del Prisma]]
 
 <!-- CICLO -->
 > **Casas del ciclo** · ◑ ⟳

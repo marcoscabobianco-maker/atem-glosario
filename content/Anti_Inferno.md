@@ -141,6 +141,7 @@ El Inferno mantiene cruces operativos con otras geografías del universo extendi
 
 ## Vínculos
 
+- [[Naraka]] — el infierno budista que envuelve el cono dantesco en la París petrificada
 - [[Swedenborg]] — guía conductora del umbral
 - [[Thalia_Cristalia|Talia Cristalia]] — identidad oculta de la guía
 - [[Arsvan|Ärsvan condenado]] — templario rezando en la capilla profanada

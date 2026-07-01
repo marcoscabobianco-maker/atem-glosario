@@ -33,11 +33,11 @@ adicional: 6 dioses del [[Panteon_el|Panteón]] con nombres latinizantes y doble
 **Nix** (nieve/drogas), **[[Anxifer]]** (inquietante/medios), **[[Intrico]]** (enredar/política),
 **[[Intimus]]** (secreto/sexo), **[[Intactus]]** (intangibilidad/tribus), **[[Tentator]]** (tentación/dinero).
 "El Panteón Posmoderno ha resurgido. Sus dioses tienen nombre." Ver entrada separada
-**[[Panteon_Posmoderno_dioses_menores_TG|Panteón Posmoderno — dioses menores]] (TG)** para el detalle completo.
+**[[Panteon_Posmoderno_dioses_menores_TG|Panteón Posmoderno — dioses menores]] (Torregrises)** para el detalle completo.
 
 ## Notas
 
-Ver **[[Panteon_el|Panteón, el]]** (grupo de héroes — distinto del Panteón Posmoderno), **[[Curiales_los|Curiales, los]]** (sistema paralelo para [[Rintrah]]), **[[Sabas]]**, **[[Lubina]]**, **[[Panteon_Posmoderno_dioses_menores_TG|Panteón Posmoderno — dioses menores]] (TG)**.
+Ver **[[Panteon_el|Panteón, el]]** (grupo de héroes — distinto del Panteón Posmoderno), **[[Curiales_los|Curiales, los]]** (sistema paralelo para [[Rintrah]]), **[[Sabas]]**, **[[Lubina]]**, **[[Panteon_Posmoderno_dioses_menores_TG|Panteón Posmoderno — dioses menores]] (Torregrises)**.
 
 ## Ver también
 
@@ -49,3 +49,16 @@ Ver **[[Panteon_el|Panteón, el]]** (grupo de héroes — distinto del Panteón 
 - [[Lubina|Lubina]]
 - [[Verdulero|Verdulero]]
 - [[Sabas|Sabas]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✦
+> *Los siete pecados de [[Torregrises]] no quedan en concepto: ascienden a deidades con nombre propio. La ira se vuelve [[Sucor_TG|Sucor]], la avaricia [[Gordo_Suli|Gordo Suli]], la lujuria [[Lubina]], la soberbia [[Sabas]] —y cuando el archivo anuncia que «el Panteón Posmoderno ha resurgido, sus dioses tienen nombre», la apoteosis ya está consumada: fuerzas del mundo convertidas en panteón que se sabe mirado.* — glosa del Decadiano.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuentes:** C1 GREEN líneas 1357-1358 (1995-96, primera mención); C17 líneas 118-119, 259, 480, 525, 560, 730 (oct 2003-ene 2004, tabla completa); C18 (2004); C42 (2010).

@@ -61,7 +61,7 @@ La lámina **ha sido dictada** — la consignó en la ronda iconográfica del de
 - **Lámpara de la Esperanza** ([[Swedenborg]]): *fuego que indica el camino al que la mira sin quemarse*. **Función pastoral**.
 - **Linterna de Llama Divina** (Bertrand): *fuego que el cazador porta para reconocer las geografías del descenso al avanzar*. **Función exploratoria**.
 
-**La linterna está bondeada** —*"bonded weapon"* en la fórmula ritual del Foso—: **está enlazada al alma del cazador por vínculo arcano**, *de modo que el portador no puede ser separado de ella sin operación específica del aparato infernal*. **La doctrina lo registra como protección estándar** del Lost One de oficio: *quien depende de su herramienta para operar, queda ligado a ella por mecánica del descenso*.
+**La linterna está bondeada** —*"arma enlazada"* en la fórmula ritual del Foso—: **está enlazada al alma del cazador por vínculo arcano**, *de modo que el portador no puede ser separado de ella sin operación específica del aparato infernal*. **La doctrina lo registra como protección estándar** del Lost One de oficio: *quien depende de su herramienta para operar, queda ligado a ella por mecánica del descenso*.
 
 ---
 

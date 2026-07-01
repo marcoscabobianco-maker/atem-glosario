@@ -58,7 +58,7 @@ La pluma puede ser **artefacto preexistente** del culto de Thoth o **creación c
 
 **Posibles ubicaciones del origen**:
 - **Cuevas Aullantes [[Library_of_Thoth]]** — posible custodia
-- **Halls of Thoth Templo público de Thoth** —donde Numa Pompidio fue inmolado
+- **Salones de Thoth Templo público de Thoth** —donde Numa Pompidio fue inmolado
 - **Don de Thoth a un sacerdote** —ritualmente invocada
 
 ## Vínculos
@@ -67,7 +67,7 @@ La pluma puede ser **artefacto preexistente** del culto de Thoth o **creación c
 - [[Bayrum_Cristalia]] — usuario en el regreso tras el Hiato retrospección
 - [[Numa_Pompidio]] — druida muerto en el ritual
 - [[Caladan]] — acompañante del ritual
-- [[Halls_of_Thoth_Nivel|Halls of Thoth]] — sede ritual probable
+- [[Halls_of_Thoth_Nivel|Salones de Thoth]] — sede ritual probable
 - [[Library_of_Thoth]] — posible custodia
 - [[Custodes_Oculis_Solis]] — orden sacerdotal de Thoth (procesión celestial presente)
 - [[Mega_Dungeon_Arden_Vul]]
@@ -77,3 +77,12 @@ La pluma puede ser **artefacto preexistente** del culto de Thoth o **creación c
 
 - **el regreso tras el Hiato (retrospección)** — ritual de muerte de Numa Pompidio
 - **Pendiente**: posible reuso en jornadas siguientes con Bayrum como portador del conocimiento
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Probable combinación de *Quaal's Feather Token* + *Pen of Inscription* + rasgos custom; cargas limitadas por el módulo o ilimitadas. Posible artefacto preexistente del culto de Thoth en el módulo de Barton.
+- **Fuente del archivo:** retrospección post-hiato, líneas ~400-500.

@@ -46,7 +46,7 @@ tags:
 
 ### Adaptación al subterráneo
 
- registra una **adaptación progresiva** de Alúmine al espacio bajo tierra: **piel cada vez más pálida, pelo blanqueado, desarrollo de infravisión**. La adaptación es parte de la figura, no estado inicial. Quien empezó como elfo del bosque o de la superficie va, en [[Ardis_Vala|Arden Vul]], **transformándose físicamente** según la profundidad a la que opera.
+ registra una **adaptación progresiva** de Alúmine al espacio bajo tierra: **piel cada vez más pálida, pelo blanqueado, desarrollo de infravisión**. La adaptación es parte de la figura, no estado inicial. Quien empezó como elfo del bosque o de la superficie va, en [[Ardis_Vala|Ardis Vala]], **transformándose físicamente** según la profundidad a la que opera.
 
 ## Vínculos
 
@@ -63,7 +63,7 @@ tags:
 
 ## Apariciones
 
-- [[Ardis_Vala|Arden Vul]] 
+- [[Ardis_Vala|Ardis Vala]] 
 - **el archivo** — decapita a [[Master_Malakita]] (acto pivote)
 - Jornadas siguientes — derrota la cabeza arcanum, evoca antimagia en la Arena, recibe la llave dual
 

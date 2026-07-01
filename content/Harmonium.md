@@ -42,3 +42,18 @@ El Harmonium opera como:
 - [[Sigil]] (su ciudad)
 - [[Dama_del_Dolor|Dama del Dolor]] (regente, autoridad superior)
 - [[Sigil_Ciudad_de_las_Puertas_contexto_Reguladores|Sigil — contexto Reguladores]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Una banda con sigla y divisa propias —tres anillos entrelazados, los "Hardheads"— devenida brazo de gobierno: el Harmonium no es un personaje sino un sujeto colectivo que vigila [[Sigil]] bajo el credo «armonía por la unidad». Como toda banda nombrada del ciclo entra en fricción con otras —roza a los [[Reguladores_Jabalina|Reguladores]] y a [[Los_Profundos]], y contrasta con la [[Doomguard]]— y responde a la [[Dama_del_Dolor|Dama del Dolor]] como autoridad mayor de la Ciudad de las Puertas.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; no entra a productos públicos.
+
+- **Fuente externa:** *Planescape Campaign Setting* (TSR, 1994), *Factols' Manifesto* (TSR, 1995). Alineamiento canónico Lawful Neutral / Lawful Good; origen en el plano de Arcadia.
+- **Palimpsesto:** importación operativa del canon Planescape, sin reescritura — un cuerpo de vigilancia planar reconocible.
+- **Pendientes:** ¿algún compañero detenido o juzgado por el Harmonium? ¿alguno miembro? ¿relación con la Dama del Dolor y las demás facciones? Catalogar apariciones.

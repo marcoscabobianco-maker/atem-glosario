@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Reloj_de_Bolsillo_familia_Philippe.png]]
 <!-- /HEADER_IMG -->
 
-Pocket watch ornate con 12 manecillas de la familia [[Philippe]].
+La lámina muestra un reloj de bolsillo recargado de ornamentos, con doce manecillas en lugar de las dos de costumbre, perteneciente a la familia [[Philippe]].

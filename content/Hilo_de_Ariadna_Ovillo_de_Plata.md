@@ -15,7 +15,7 @@ aliases:
 
 **Descripción:** Mencionado en la primera incursión al [[Laberinto_Omniporal]] como "hilo de plata" usado para navegación. Continúa en la jornada del falso Maestre.
 
-**[[Propiedades]]:**
+**Propiedades:**
 - Marcador de ruta de salida (función primaria)
 - Posiblemente mágico (se mantiene teso, seguible incluso en oscuridad)
 - Vínculo planar (posiblemente conectado a entrada del Laberinto)
@@ -27,4 +27,4 @@ aliases:
 
 ## Ver también
 
-- [[Propiedades|Propiedades]]
+- Propiedades

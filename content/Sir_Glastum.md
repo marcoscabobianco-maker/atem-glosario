@@ -22,8 +22,11 @@ tags:
  - medio-hermano-argus
  - hijo-lord-burdock
  - rivalidad-fraterna
-imagen: null
+imagen: Imagenes_Tier1/Sir_Glastum.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Sir_Glastum.png]]
+<!-- /HEADER_IMG -->
 
 > *"Hay nobles que se quedan en su patio. Y hay nobles que el patio los desconoce desde el día que firmaron el destino del segundo hijo. A esos los llaman aventureros, porque la palabra 'desheredado' fue prohibida por la Décima Sátira del [[Decadiano]]."* — glosa marginal anónima al *libro VII* del [[Decadiano]], atribuida por algunos al archivero del Plata.
 
@@ -31,7 +34,7 @@ imagen: null
 
 ## El cargo y la cascada
 
-**Sir Glastum** es **alcaide** —*custos arcis* en la lengua oficial del Imperio Archonteo— de la **[[Fortaleza_Azur|Fortaleza Azur]]**, ciudadela imperial encajada en lo alto de la cascada del valle de **[[Ardis_Vala|Ardis Vala]]**. Auspició, **al pie de la misma cascada**, la formación de **[[Glastumville]]**: villa fronteriza, fundada como base de avituallamiento para los aventureros que bajaban al **[[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]**, que **lleva su nombre por costumbre del pueblo** —no por decreto imperial, *que el cronista decadiano subraya: la villa lo nombra; el aparato imperial no*—.
+**Sir Glastum** es **alcaide** —*custos arcis* en la lengua oficial del Imperio Archonteo— de la **[[Fortaleza_Azur|Fortaleza Azur]]**, ciudadela imperial encajada en lo alto de la cascada del valle de **[[Ardis_Vala|Ardis Vala]]**. Auspició, **al pie de la misma cascada**, la formación de **[[Glastumville]]**: villa fronteriza, fundada como base de avituallamiento para los aventureros que bajaban al **[[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]**, que **lleva su nombre por costumbre del pueblo** —no por decreto imperial, *que el cronista decadiano subraya: la villa lo nombra; el aparato imperial no*—.
 
 El título de **alcaide** le fue conferido por delegación del **[[Lord_Burdock_Iskander_Basileon|arconte del valle]]**, padre suyo —*y aquí empieza la asimetría*—.
 
@@ -59,7 +62,7 @@ Las malas lenguas del valle lo dicen sin pudor:
 
 Sir Glastum **no mantiene gobierno formal sólido** sobre [[Glastumville]]. La administración cotidiana queda en manos de un **concejo informal de notables** —mercaderes con tasa de almacén, capitanes mercenarios con cuadrilla propia, sabios residentes que llevan ya años bajando al dungeon y volviendo con piedras—. Las órdenes del alcaide **rara vez bajan a las calles**: bajan a las puertas de la [[Fortaleza_Azur]], donde la guarnición las redistribuye.
 
-Lo que Sir Glastum **sí mantiene** es una fórmula clara, conocida por todo aventurero que pasa por la villa: **"protección dentro de la [[Fortaleza_Azur]] a cambio del diezmo del dungeon"**. *Una décima parte del botín* que cada grupo extrae del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]] entra por la puerta del alcaide al regreso. *El alcaide cobra. El alcaide no preguntará.*
+Lo que Sir Glastum **sí mantiene** es una fórmula clara, conocida por todo aventurero que pasa por la villa: **"protección dentro de la [[Fortaleza_Azur]] a cambio del diezmo del dungeon"**. *Una décima parte del botín* que cada grupo extrae del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]] entra por la puerta del alcaide al regreso. *El alcaide cobra. El alcaide no preguntará.*
 
 Con la **[[Eusebia_Phokas|tesmóteta imperial Eusebia Phokas]]** mantiene un **acuerdo táctico** de administración logística: ella lleva los libros del aparato; él lleva el sello en la mano. El cronista lo describe como *"sociedad asimétrica con beneficio mutuo"*: ella necesita un alcaide que no insista en supervisar el flujo de la tesmotetia; él necesita una administradora que no insista en cuestionar el porqué del flujo.
 

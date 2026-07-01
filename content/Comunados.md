@@ -1,18 +1,15 @@
 ---
-title: "Comunados"
+título: "Comunados — redirect"
+slug: Comunados
+estado: redirect
+target: "[[Los_Comunados]]"
 aliases:
- - "Comunados"
-en_construccion: true
+ - Comunados
+tags:
+ - redirect
+ - alias-retrocompatible
 ---
 
-> *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
+# Comunados
 
-## Referencias entrantes
-
-Esta entrada es mencionada desde:
-
-- [[Orient_Express]]
-
----
-
-*Si llegaste aquí buscando información sobre **Comunados**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+→ Consolidado en **[[Los_Comunados]]**. *La masa revolucionaria de París Ucrónica, de los Maillotins de 1382 a los Comunardos de 1870.*

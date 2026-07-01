@@ -18,8 +18,11 @@ aliases:
  - "Néstor Falkowski"
  - "Lic. Falkowski"
  - "Falkowski"
-imagen: null
+imagen: Imagenes_Tier1/Nestor_Falkowski.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Nestor_Falkowski.png]]
+<!-- /HEADER_IMG -->
 
 > *Sacá tu emoción. No la guardes: descargala.*
 

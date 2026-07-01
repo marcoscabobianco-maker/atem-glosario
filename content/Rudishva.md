@@ -38,15 +38,15 @@ El **[[Beacon_Faro_Brillante|Beacon / Faro Brillante]]** es **la nave que trajo 
 
 ### Los Varumani como descendientes
 
-Los **[[Varumani]] —trolls de la [[Court_of_Troll_Thegn|Corte del Thegn]] controlados por [[Varboka]] [[Varboka|First Thegn]]—** son **descendientes modernos de servidores de los Rudishva**. La estructura jerárquica es paralela a la heqeti-kaliyani: raza principal + sub-raza servidora. Los [[Varumani]] **operan los [[Troll_Lifts_Arena|Troll Lifts]]** —ascensores rudishva que siguen funcionando— lo que confirma su línea técnica heredada. Su construcción es **modificación de la rudishva original**.
+Los **[[Varumani]] —trolls de la [[Court_of_Troll_Thegn|Corte del Thegn]] controlados por [[Varboka]] [[Varboka|Primer Thegn]]—** son **descendientes modernos de servidores de los Rudishva**. La estructura jerárquica es paralela a la heqeti-kaliyani: raza principal + sub-raza servidora. Los [[Varumani]] **operan los [[Troll_Lifts_Arena|Elevadores de los Trolls]]** —ascensores rudishva que siguen funcionando— lo que confirma su línea técnica heredada. Su construcción es **modificación de la rudishva original**.
 
 ### Distribución de tecnología rudishva en el dungeon
 
-- **L05 [[Obsidian_Gates_Midnight_Road|Obsidian Gates]]** — **mayor concentración**. Dispositivos intactos. Hall of Forty Pillars. Barreras de conjuro anti-magia.
-- **L06 [[Troll_Lifts_Arena|Troll Lifts]]** — ascensores operativos
+- **L05 [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]]** — **mayor concentración**. Dispositivos intactos. Salón de los Cuarenta Pillars. Barreras de conjuro anti-magia.
+- **L06 [[Troll_Lifts_Arena|Elevadores de los Trolls]]** — ascensores operativos
 - **L07** — modificaciones secundarias
 - **Ziggurat de Kauket Ziggurat** — [[Heqeti]] control (¿absorción heqeti de tech rudishva?)
-- **Chamber of Beacon Chamber of Beacon** — **teletransportadores rudishva a Puertas de Obsidiana y Suelo del Gran Abismo**, faro energético
+- **Cámara del Faro Cámara del Faro** — **teletransportadores rudishva a Puertas de Obsidiana y Suelo del Gran Abismo**, faro energético
 - El inventario del archivo cuenta unos 69 objetos tecnológicos dispersos, con **10% de fallo por uso** debido a la antigüedad.
 
 ### Conexión trans-gesta con Graz'zt
@@ -61,7 +61,7 @@ La identificación canónica del archivo: **Eagwulf (del Mundo Nuevo) = Iggwilv 
 - [[Master_Malakita|Master Malakita / Melok-Ri]] — el más conocido, decapitado en la fase media del ciclo primero
 - [[Caballeros_Cicatriz_del_Sol]] — orden fundada por Melok-Ri
 - [[Varumani]] — descendientes modernos de sus servidores
-- [[Varboka]] — First Thegn varumani
+- [[Varboka]] — Primer Thegn varumani
 - [[Heqeti]] — otra raza alienígena del mundo
 - **[[RAJ-750]]** — IA del módulo de armas del Beacon
 - **[[Psalor_Ki]]** — vivisector alienígena de Puertas de Obsidiana
@@ -77,3 +77,19 @@ La identificación canónica del archivo: **Eagwulf (del Mundo Nuevo) = Iggwilv 
 - 1123 AEP — Melok-Ri funda la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]
 - el archivo — decapitación de Malakita
 - el archivo (audio pendiente) — toma de la Orden por los compañeros
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ◑
+> *El dungeon estratifica las eras en capas, y los Rudishva son una de ellas: cayeron con el crash del [[Beacon_Faro_Brillante|Beacon]] hace tres mil años y dejaron su capa arquitectónica —la segunda más antigua, bajo la heqeti y sobre la archontean— sembrada de tecnología y de los [[Troll_Lifts_Arena|Elevadores de los Trolls]] que aún funcionan. Su [[Master_Malakita|Melok-Ri]], decapitado por [[Alumine_Manwe_Finwe|Alúmine]], se sospecha faceta trans-gesta de [[Grazzt|Graz'zt]]: el enemigo que no se vence sino que reaparece en otra capa, otro mundo.* — glosa de Arkos.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Identificación cruzada con el canon D&D: Eagwulf = **Iggwilv**, creadora de Graz'zt; "Tovag"/Beacon-lore = importaciones del setting.
+- Dictado del Narrador (regreso tras el Hiato), origen rudishva *"al estilo Lost"*: *"venía de las estrellas y estuvo acá durante mil años y tuvieron un tiempo a solas. Todo parecía significar que Malachitas es el que más logró arreglar una función de estas armaduras góticas que tenían también como un equipo de los Caballeros de la Cruz del Sol."*
+- Distribución de tech por niveles tomada del ROUTER; inventario en `APP_New_Technological_Items.md`.
+- *Lords of Creation* es el sistema del ciclo hermano (Mundo Nuevo / Iron Mountain).

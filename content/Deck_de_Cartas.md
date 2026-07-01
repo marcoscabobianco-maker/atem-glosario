@@ -1,21 +1,12 @@
 ---
-title: "Deck de Cartas"
-categoria: lugar
+title: "Mazo de Cartas"
+categoria: objeto
 tags:
  - "cdi"
 aliases:
- - "**Deck de Cartas**"
+ - "Mazo de Cartas"
 ---
 
 ## Presentación
 
-**Categoría**: Tesoro / Objeto de poder aleatorio
-
-**Descripción**: Deck de naipes mágicas obtenidas tesoro. Presumiblemente variante [[Deck_of_Many_Things_variante_CDI|Deck of Many Things]], pero podría ser deck italiano (el Descenso Italia-based).
-**Mecanismo**: Desconocido. Posiblemente de azar extremo / consecuencias narrativas.
-**[[Peligro]]**: [[Deck_of_Many_Things_variante_CDI|Deck of Many Things]] es infame entre los planos por sus consecuencias impredecibles.
-**Issue abierto**: Identificación exacta; definir reglas uso.
-
-## Ver también
-
-- [[Peligro|Peligro]]
+Mazo de naipes mágicos obtenido como tesoro. Presumiblemente una variante del [[Deck_of_Many_Things_variante_CDI|Mazo de Muchas Cosas]], aunque podría ser un mazo italiano (el Descenso transcurre en suelo italiano). De su virtud el archivo no guarda certeza: azar extremo, consecuencias narrativas mayores. El [[Deck_of_Many_Things_variante_CDI|Mazo de Muchas Cosas]] es infame entre los planos por lo impredecible de sus efectos.

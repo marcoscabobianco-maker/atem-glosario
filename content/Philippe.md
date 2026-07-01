@@ -34,7 +34,7 @@ Y entonces vino la **caída**. Doce años antes del Philippe que conocemos, **Pa
 
 Ahí empezó lo otro. Una **figura titánica** se le apareció en sueños. Le enseñó a potenciar las capacidades de los seres vivos —no a sanar, no a herir, sino a **amplificar**: hacer que el caballo corra más, que el aliado vea más lejos, que el corazón del enemigo lata por un instante con miedo—. Philippe creció con esa enseñanza secreta, sin saber del todo de quién venía.
 
-Lo que la figura le preparaba se reveló cuando heredó **[[El_Primer_Reloj]]** —legendario, canalizador del poder de **[[Kronamon]]**, el dios del tiempo—. Con el reloj llegó la **[[Enmienda_de_Kronamon]]**: una *quest* que pesa más que cualquier juramento. Corregir un ascenso astral sesgado, deshacer lo que se había hecho mal en el flujo del tiempo, devolverle al cosmos algo que se le había quitado.
+Lo que la figura le preparaba se reveló cuando heredó **[[El_Primer_Reloj]]** —legendario, canalizador del poder de **[[Chronomon|Kronamon]]**, el dios del tiempo—. Con el reloj llegó la **[[Enmienda_de_Kronamon]]**: una *quest* que pesa más que cualquier juramento. Corregir un ascenso astral sesgado, deshacer lo que se había hecho mal en el flujo del tiempo, devolverle al cosmos algo que se le había quitado.
 
 Su arma no es la espada. Es **el matrimonio político**, el anillo vinculante, la diplomacia. Por amor se mete en disputas que no son suyas —Mony, Bucarest, Sarajevo—. Por amor financia huidas. Por amor intenta dormir cien años en las **Cuevas de Éfeso**, esperando despertar en otro siglo donde el dolor no le pese tanto. Lo despiertan a medias.
 
@@ -48,7 +48,7 @@ Es el más joven del grupo [[Time_Bandits]]. También el más herido desde antes
 
 - [[El_Primer_Reloj|El Primer Reloj]] — la herencia legendaria
 - [[Reloj_de_Bolsillo_familia_Philippe|Reloj de Bolsillo de la Familia]] — la reliquia paterna
-- [[Kronamon]] — el dios del tiempo, fuente del poder del reloj
+- [[Chronomon|Kronamon]] — el dios del tiempo, fuente del poder del reloj
 - [[Enmienda_de_Kronamon|Enmienda de Kronamon]] — la *quest* heredada
 - [[Time_Bandits]] — el grupo
 - [[Moni_Vivescu|Mony]] — el amor que lo lleva a Bucarest
@@ -60,10 +60,10 @@ Es el más joven del grupo [[Time_Bandits]]. También el más herido desde antes
 - [[Paris_Ucronica|París Ucrónica]] ~1901 — primer encuentro en la taberna Montparnasse
 - Bucarest — viaje en [[Orient_Express]], conspiración del Príncipe
 - Sarajevo 1914 — uso de rollo de teleportación
-- [[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]] — búsqueda de respuestas sobre [[Kronamon]]
+- [[Facciones_de_Colores_Constantinopla_1055|Constantinopla 1055]] — búsqueda de respuestas sobre [[Chronomon|Kronamon]]
 - Cuevas de Éfeso — intento fallido de letargo
 
 <!-- CICLO -->
 > **Casas del ciclo** · ⏳ ⛓
-> *El tiempo no es trasfondo sino herencia que se paga: Philippe carga [[El_Primer_Reloj]] de [[Kronamon]] y la [[Enmienda_de_Kronamon]], una deuda con el flujo temporal que pesa más que un juramento, e intenta dormir cien años en las Cuevas de Éfeso para gastar el dolor en sueño. Opera como el más joven de los [[Time_Bandits]], la banda que viaja, presta y corrige el tiempo.* — glosa del archivero del Plata.
+> *El tiempo no es trasfondo sino herencia que se paga: Philippe carga [[El_Primer_Reloj]] de [[Chronomon|Kronamon]] y la [[Enmienda_de_Kronamon]], una deuda con el flujo temporal que pesa más que un juramento, e intenta dormir cien años en las Cuevas de Éfeso para gastar el dolor en sueño. Opera como el más joven de los [[Time_Bandits]], la banda que viaja, presta y corrige el tiempo.* — glosa del archivero del Plata.
 <!-- /CICLO -->

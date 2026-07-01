@@ -1,5 +1,5 @@
 ---
-title: "Kosuth (TG)"
+title: "Kosuth (Torregrises)"
 categoria: entidad
 tags:
  - "deidad"
@@ -8,7 +8,7 @@ tags:
  - "fuego"
  - "primordial"
 aliases:
- - "Kosuth (TG)"
+ - "Kosuth (Torregrises)"
  - "TG"
  - "Kosuth"
 ---
@@ -19,7 +19,7 @@ aliases:
 
 ## Presentación
 
-Ser primigenio, "el máxime de Fuego." Lo único que hacía era "practicar con su espada flamígera y especiar el aire de chispas" en el sur, mientras todo estaba congelado. Una de esas chispas cayó cerca de **[[Tiamat_TG|Tiamat (TG)]]** semienterrada, causando que sudara y diera origen a elfos y hombres. Señor del fuego elemental heredado de la tradición de los Reinos Olvidados, adaptado a la cosmogonía propia de [[Torregrises]].
+Ser primigenio, "el máxime de Fuego." Lo único que hacía era "practicar con su espada flamígera y especiar el aire de chispas" en el sur, mientras todo estaba congelado. Una de esas chispas cayó cerca de **[[Tiamat_TG|Tiamat (Torregrises)]]** semienterrada, causando que sudara y diera origen a elfos y hombres. Señor del fuego elemental heredado de la tradición de los Reinos Olvidados, adaptado a la cosmogonía propia de [[Torregrises]].
 
 ## Apariciones notables
 

@@ -1,10 +1,10 @@
 ---
-title: "Antiterra (CDI)"
+title: "Antiterra (Descenso)"
 categoria: lugar
 tags:
  - "cdi"
 aliases:
- - "Antiterra (CDI)"
+ - "Antiterra (Descenso)"
  - "CDI"
 ---
 
@@ -31,10 +31,10 @@ aliases:
 
 **Estatus:** Destino actual de [[Arian|Adam]] post-planeshift. Conciencia dual entre Expulsión y Antiterra.
 
-**[[Primeras_apariciones]]:** el archivo
+**Primeras apariciones:** el archivo
 
 ## Ver también
 
 - Sinónimos
 - Estatus
-- [[Primeras_apariciones]]
+- Primeras apariciones

@@ -1,10 +1,10 @@
 ---
-title: "Ciudad de Dis (CDI)"
+title: "Ciudad de Dis (Descenso)"
 categoria: lugar
 tags:
  - "cdi"
 aliases:
- - "Ciudad de Dis (CDI)"
+ - "Ciudad de Dis (Descenso)"
  - "CDI"
  - "Ciudad de Dis"
 ---

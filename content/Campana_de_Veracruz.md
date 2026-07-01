@@ -10,12 +10,12 @@ aliases:
 - **Naturaleza:** Reliquia sagrada de forma de campana, metalwork ortodoxo
 - **Peso:** ~1000 kg (no transportable)
 - **Ubicación:** Cúpula zona 4, colgada bajo andamios recientes
-- **[[Propiedades]]:**
+- **Propiedades:**
  - Activación: Golpe/toque directo con objeto sagrado
  - Badajo presente; grabados metalúrgicos distintivos
  - Matriz de magia potente (Detección: Abjuración + Invocación celestial)
 - **Efecto activado en la jornada de la campana templaria:**
- - **Forbiddence:** 120 pies de radio
+ - **Interdicto:** unos 120 pies a la redonda
  - Castigo automático a todo corazón caótico o malvado: pocos lo resisten entero; los más firmes lo sufren a medias
  - Efecto 1: Sanctidad (moral a buenos)
  - Efecto 2: Expulsión a plano de origen (demonios)

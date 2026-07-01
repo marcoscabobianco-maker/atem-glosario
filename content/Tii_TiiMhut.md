@@ -1,6 +1,6 @@
 ---
-title: "Tii (Tii'Mhut)"
-título: "Tii (Tii'Mhut)"
+title: "Tii"
+título: "Tii"
 slug: Tii_TiiMhut
 aliases:
  - Tii

@@ -17,7 +17,6 @@ tags:
  - primer-nivel-infierno
  - limbo
  - mediterraneum
- - rol-mamba
  - museo-arte-moderno-bsas
  - confluencia
  - multi-mundo
@@ -29,9 +28,9 @@ tags:
 
 El **Templo y Lugar de los Justos** es **el palacio-fortaleza del primer nivel del Infierno**, en la línea declarada de **Dante** —el lugar que la *Commedia* dedica a los paganos virtuosos, los justos no bautizados, antes del descenso a los círculos del castigo—. En el cosmos compartido aparece como **lugar real diegético**, no como referencia metafórica: tiene **catedral, fortaleza, palacio** —arquitectura compuesta que recoge el doble carácter del primer nivel: morada honrosa y, al mismo tiempo, antesala del Infierno.
 
-### El cruce de Rol Mamba 1
+### El cruce anterior
 
-Antes del setting de la gesta Inferno propiamente dicho, el Templo y Lugar de los Justos **ya había aparecido** en **Rol Mamba 1** —la serie de jornadas que la mesa corrió en el **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]**—. Allí se cruzaron las líneas: **historia de Mediterráneum** + **posibilidad de revisitar el infierno**. Aparecieron antiguas habitantes como **[[Samsara]]** —compañero— y **[[Equis]]** —compañero—, y se desarrolló la historia de **[[Arcoms_Cosmar|Marcos el Mago]] y su barco**, un **ser arácnido salido del infierno** que se lleva el **libro azul de la Biblioteca del Infierno**. La historia culminó en el Templo y Lugar de los Justos y después **el barco salió por las Columnas de Hércules** al [[Mediterraneo_Ucronico|Mediterráneo]].
+Antes del setting de la gesta Inferno propiamente dicho, el Templo y Lugar de los Justos **ya había aparecido** en una línea anterior. Allí se cruzaron las líneas: **historia de Mediterráneum** + **posibilidad de revisitar el infierno**. Aparecieron antiguas habitantes como **[[Samsara]]** —compañero— y **[[Equis]]** —compañero—, y se desarrolló la historia de **[[Arcoms_Cosmar|Marcos el Mago]] y su barco**, un **ser arácnido salido del infierno** que se lleva el **libro azul de la Biblioteca del Infierno**. La historia culminó en el Templo y Lugar de los Justos y después **el barco salió por las Columnas de Hércules** al [[Mediterraneo_Ucronico|Mediterráneo]].
 
 ### El asalto y las bombas en Inferno
 
@@ -39,7 +38,7 @@ En la gesta Inferno, el Templo y Lugar de los Justos vuelve a ser escenario. **U
 
 ### Confluencia multi-mundo
 
-Más allá de las bombas, el Templo y Lugar de los Justos contiene **el Sancta Sanctorum** —cámara identificada con **el Tabernáculo y el Arca de la Alianza**—. Allí se desata la **lucha de todos contra todos por el [[Vala_Cristalis]]**, en el arco **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno. La función del lugar es entonces **nodo de confluencia multi-mundo**: donde las gestas del cosmos compartido se cosen entre sí. Pasan por aquí Mediterráneum, [[Paladin_in_Hell]], Rol Mamba 1, Inferno, y los crossovers Masters × [[Cristo_Leon|Mundo de Krile]] con [[Cristo_Leon|Cristo León]].
+Más allá de las bombas, el Templo y Lugar de los Justos contiene **el Sancta Sanctorum** —cámara identificada con **el Tabernáculo y el Arca de la Alianza**—. Allí se desata la **lucha de todos contra todos por el [[Vala_Cristalis]]**, en el arco **[[Paladin_in_Hell|Paladin in Hell]]** en su versión Inferno. La función del lugar es entonces **nodo de confluencia multi-mundo**: donde las gestas del cosmos compartido se cosen entre sí. Pasan por aquí Mediterráneum, [[Paladin_in_Hell]], Inferno, y los crossovers Masters × [[Mundo_de_Kryle|Mundo de Kryle]].
 
 ## Vínculos
 
@@ -51,18 +50,17 @@ Más allá de las bombas, el Templo y Lugar de los Justos contiene **el Sancta S
 - [[Tres_Brujas_Macbeth]] — las del plano-coven que coordinan el segundo intento
 - [[Vala_Cristalis]] — el objeto en disputa en el Sancta Sanctorum
 - [[Paladin_in_Hell|Paladin in Hell]] — el arco fundacional que aquí reaparece
-- [[Samsara]] — compañero Rol Mamba 1 (pendiente entrada)
-- [[Equis]] — compañero Rol Mamba 1 (pendiente entrada)
-- [[Arcoms_Cosmar|Marcos el Mago]] — el del barco arácnido, Rol Mamba 1
+- [[Samsara]] — compañera de esa línea anterior
+- [[Equis]] — compañero de esa línea anterior
+- [[Arcoms_Cosmar|Marcos el Mago]] — el del barco arácnido
 - **Libro azul de la Biblioteca del Infierno** — robado por [[Marcos_el_Mago]] (pendiente cotejar con [[Eisagogika]])
 - **Columnas de Hércules** — salida del barco arácnido
-- **Museo de Arte Moderno de [[Buenos_Aires_Ucronica|Buenos Aires]]** — locación real de Rol Mamba 1
-- [[Cristo_Leon]] / **Mundo de Krile** — crossovers Masters
+- **[[Mundo_de_Kryle|Mundo de Kryle]]** — crossovers Masters
 - [[Anti_Inferno|Gesta Inferno]] — escenario del eco de bombas
 
 ## Apariciones
 
-- Rol Mamba 1 — jornadas Museo de Arte Moderno BsAs, cruce Mediterráneum × Infierno
+- Línea anterior — cruce Mediterráneum × Infierno
 - Inferno (el Descenso) — eco del episodio de bombas, Sancta Sanctorum, lucha por [[Vala_Cristalis]]
 - [[Paladin_in_Hell]] — sede del [[Vala_Cristalis]] (Sancta Sanctorum)
-- Crossovers Masters × Mundo de Krile — punto de cruce
+- Crossovers Masters × [[Mundo_de_Kryle|Mundo de Kryle]] — punto de cruce

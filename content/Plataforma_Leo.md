@@ -31,7 +31,7 @@ imagen: Imagenes_Tier1/Plataforma_Leo.png
 
 Su columna esencial es **la soberanía solar**: *el centro reconocido*, *la luz que no compite*, *la realeza que opera sin demostrarse*. **Los ojos del león con tono cálido dorado** *son signo cosmológico*: **quien los mira despierta al león**.
 
-*El sistema completo está en* [[Juego_de_las_Sombras_Plataformas_Zodiacales|el Juego de las Sombras]]. **El guardián canónico** *está pendiente de documentación en el archivo*; *posible vínculo con figuras leoninas del archivo* (*[[Cristo_Leon]]*, *[[Leon_Epoca_Carlomagno_800_DC|León época Carlomagno]]*, *[[Nicaramsa_Leonino_El_Ultimo_Manhattan|Nicaramsa Leonino]]*) — *operación cosmológica del signo a través de avatares solares menores*.
+*El sistema completo está en* [[Juego_de_las_Sombras_Plataformas_Zodiacales|el Juego de las Sombras]]. **El guardián canónico** *está pendiente de documentación en el archivo*; *posible vínculo con figuras leoninas del archivo* (*[[Leon_Epoca_Carlomagno_800_DC|León época Carlomagno]]*, *[[Nicaramsa_Leonino_El_Ultimo_Manhattan|Nicaramsa Leonino]]*) — *operación cosmológica del signo a través de avatares solares menores*.
 
 ## Vínculos
 
@@ -39,7 +39,7 @@ Su columna esencial es **la soberanía solar**: *el centro reconocido*, *la luz 
 - [[Plataforma_Virgo]] — vecina posterior, sexta casa
 - [[Plataformas_Zodiacales_Sistema_de_Guardianes|Plataformas Zodiacales]] — familia de doce
 - [[Corrupcion_Dual]] — ley rotativa de guardianes
-- [[Cristo_Leon]] · [[Leon_Epoca_Carlomagno_800_DC]] · [[Nicaramsa_Leonino_El_Ultimo_Manhattan]] — avatares leoninos posibles
+- [[Leon_Epoca_Carlomagno_800_DC]] · [[Nicaramsa_Leonino_El_Ultimo_Manhattan]] — avatares leoninos posibles
 - **Estatua colosal de león** — figura central de la plataforma
 - **Círculo de antorchas** — guardianes menores periféricos
 
@@ -50,5 +50,5 @@ Su columna esencial es **la soberanía solar**: *el centro reconocido*, *la luz 
 
 <!-- CICLO -->
 > **Casas del ciclo** · ⟳
-> *Quinta casa, soberanía solar: una estatua colosal de león de ojos entreabiertos que despiertan a quien los mira, cercada por guardianes menores con antorchas. El trono leonino rota por avatares —el archivo apunta a [[Cristo_Leon]], [[Leon_Epoca_Carlomagno_800_DC|León de la época de Carlomagno]], [[Nicaramsa_Leonino_El_Ultimo_Manhattan|Nicaramsa Leonino]]— como si la realeza fuera un cargo que distintas figuras ocupan en sucesión. Entre [[Plataforma_Cancer]] y [[Plataforma_Virgo]], otra de las doce que giran bajo la [[Corrupcion_Dual]].* — glosa del Decadiano.
+> *Quinta casa, soberanía solar: una estatua colosal de león de ojos entreabiertos que despiertan a quien los mira, cercada por guardianes menores con antorchas. El trono leonino rota por avatares —el archivo apunta a [[Leon_Epoca_Carlomagno_800_DC|León de la época de Carlomagno]] y a [[Nicaramsa_Leonino_El_Ultimo_Manhattan|Nicaramsa Leonino]]— como si la realeza fuera un cargo que distintas figuras ocupan en sucesión. Entre [[Plataforma_Cancer]] y [[Plataforma_Virgo]], otra de las doce que giran bajo la [[Corrupcion_Dual]].* — glosa del Decadiano.
 <!-- /CICLO -->

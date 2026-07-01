@@ -11,4 +11,4 @@ aliases:
 
 ## Presentación
 
-Leal purgado de afectos relacionados con [[Milano]] (anterior comandante). Asociado a [[Milano]] y [[Aleksandar_I|Aleksandar I]] en corte serbia.
+Figura de la corte serbia, asociada a [[Milano]] —su anterior comandante— y a [[Aleksandar_I|Aleksandar I]]. El archivo lo recuerda como leal, purgado de los afectos que lo unían a [[Milano]].

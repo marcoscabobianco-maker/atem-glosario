@@ -17,3 +17,11 @@ Demonesa de seis brazos con cola serpentina, seis espadas. Tanar'ri mayor del [[
 - [[Demonomicon_Truenames|Demonomicon de Truenames]] — registro de entidades abisales del archivo
 - [[Asmodeus|Asmodeus]] — archidiablo de los Nueve Infiernos, enemigo eterno de los tanar'ri
 - [[Infierno|Infierno]] — plano opuesto al [[Abismo]] en la guerra de sangre
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Entidad del bestiario Planescape / AD&D 2e (la Marilith como general tanar'ri del Abismo; la Blood War).

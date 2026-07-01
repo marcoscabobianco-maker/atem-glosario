@@ -50,7 +50,7 @@ Los **[[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** activaron las primera
 **Las plataformas zodiacales han ido cambiando a lo largo de los siglos** —no son fijas en su contenido, solo en su número doce y en su anclaje zodiacal—. En la gesta **[[Les_Libertateurs_Pretty_Women|Les Libertateurs]]** del siglo XVIII aparecen **reinas de distinto tipo** como guardianas o aspirantes a guardianas:
 
 - **Una reina jeva** —*"jeva"* del coloquial argentino, probable referencia a **reina judía/hebrea** del mundo, o mala lectura de un nombre específico—
-- **Una reina eslava** —probable **Reina Eva / [[Erzebeth]] la Spell Queen despechada**, encerrada en torre de castillo en Polonia, mencionada en *[[Sucesos_de_Antiterra]]* dentro del arco de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]—
+- **Una reina eslava** —probable **Reina Eva / [[Erzebeth]] la Reina Hechicera despechada**, encerrada en torre de castillo en Polonia, mencionada en *[[Sucesos_de_Antiterra]]* dentro del arco de [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]—
 - **Otras reinas** —pendiente identificar individualmente—
 
 ### Washingstorm como guardián
@@ -63,7 +63,7 @@ Los **[[Los_Reguladores|Reguladores]]** y **[[Los_Profundos|Los Profundos]]** �
 
 - [[Cakravartin]] — Rey de la Atlántida, supervisor del Juego
 - [[Atlantida_Alta_y_Baja|Atlántida]] — territorio supervisor
-- [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales (TNW)]] — paralelo estructural en otra gesta
+- [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales (Mundo Nuevo)]] — paralelo estructural en otra gesta
 - [[Guardianes]] — la categoría de seres que quedan atrapados
 - [[Reunidos_los_TG|Reunidos]] — asistentes trans-temporales del salto
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] — primeros activadores documentados
@@ -85,3 +85,17 @@ Los **[[Los_Reguladores|Reguladores]]** y **[[Los_Profundos|Los Profundos]]** �
 - Ciclo final 1901 — cierre del juego completo de doce plataformas
 - *Sucesos de Antiterra* p.3-4 — fuente narrativa primaria
 - Cuadernos T (C1 GREEN, C27, C42) — descripciones arquitectónicas
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⟳ ☯ ⛓
+> *Doce plataformas zodiacales instaladas en 1784, supervisadas por el [[Cakravartin]] desde la [[Atlantida_Alta_y_Baja|Atlántida]]: en cada signo se alzan dos guardianes opuestos —guillotina contra ángel, la arquera contra la [[Kimchi_Princess]]— y «el que mata al guardián se vuelve guardián», atrapado para siempre, como [[La_Princesa_Profundos|la Princesa]] o [[Washingstorm]]. Por sus doce casas pasaron las bandas nombradas —[[Los_Reguladores|Reguladores]], [[Los_Profundos|Profundos]], antes [[Les_Libertateurs_Pretty_Women|Les Libertateurs]]— para cerrar el ciclo: el oficio rotativo es la mecánica misma del Juego.* — glosa del archivero del Plata.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; declaraciones de autor/GM (2026-05-20), fuera de la lectura pública.
+
+- *"Las plataformas zodiacales que han ido cambiando… tiene que ver con la campaña de Libertateurs, donde aparecen reinas de distinto tipo, inclusive una reina jeva, una reina eslava y otros que luego detallaremos."*
+- *"Creo que incluso aparece como guardián Washingstorm."*

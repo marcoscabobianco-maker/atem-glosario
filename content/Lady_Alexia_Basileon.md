@@ -24,8 +24,11 @@ tags:
  - azure-keep
  - regalia-arcontica
  - madre-thorcin
-imagen: null
+imagen: Imagenes_Tier1/Lady_Alexia_Basileon.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lady_Alexia_Basileon.png]]
+<!-- /HEADER_IMG -->
 
 > *"La hermana mayor de las casas que tienen barones no aspira a baronía. Aspira a la silla del padre. El archivo lo entiende cuando empieza a contar las regalias que ella va comprando, una a una, a los anticuarios del valle."* — anotación marginal del cronista decadiano al *libro VII*, sobre las sucesiones laterales del Imperio.
 
@@ -85,17 +88,17 @@ Las regalias son varias: **un cetro de obsidiana** que perteneció al primer arc
 
 ## La fortaleza azul
 
-El **Azure Keep** —*fortaleza azul* en lengua imperial común, *Cetatea Albastră* en la lengua del valle, donde la Dama prefiere oírse llamada por el nombre del lugar antes que por el cargo que no porta— es **ciudadela imperial alejada de la cascada**, en posición intermedia entre [[Ritornello]] y Gosterwick. **Reparada y modernizada bajo su iniciativa** desde aproximadamente 2987 AEP, alberga al **sept** —*subdivisión territorial específica*— de los **[[Knights_of_the_Azure_Shield|Knights of the Azure Shield]]** que ella **lidera personalmente**.
+El **Fortaleza Azur** —*fortaleza azul* en lengua imperial común, *Cetatea Albastră* en la lengua del valle, donde la Dama prefiere oírse llamada por el nombre del lugar antes que por el cargo que no porta— es **ciudadela imperial alejada de la cascada**, en posición intermedia entre [[Ritornello]] y Gosterwick. **Reparada y modernizada bajo su iniciativa** desde aproximadamente 2987 AEP, alberga al **sept** —*subdivisión territorial específica*— de los **[[Knights_of_the_Azure_Shield|Caballeros del Escudo Azur]]** que ella **lidera personalmente**.
 
 Sobre los Knights y su orden, el cronista anota lo que el archivo conserva sin glosa: **orden caballeresca imperial menor, de fundación reciente** —*comparada con las grandes órdenes archonteas*—, **vinculada simbólicamente al pacto azul** del cielo imperial, *que algunos doctrinarios del Decadiano sospechan que es eco tardío de los pactos primeros del Imperio*. Sept específico bajo Alexia: **caballería mediana, con apoyo de magos teurgos y batallón propio de exploradores reclutados entre los thegns thorcin**.
 
-*El detalle de los exploradores thorcin no aparece en los pliegos imperiales. Aparece en la práctica cotidiana del Azure Keep.*
+*El detalle de los exploradores thorcin no aparece en los pliegos imperiales. Aparece en la práctica cotidiana del Fortaleza Azur.*
 
 ---
 
 ## El reclutamiento de Gosterwick
 
-**Gosterwick** —la villa imperial mayor del valle, *más alejada de la cascada y de la frontera dura del dungeon*— funciona como **núcleo de reclutamiento activo** de la Dama. Mercaderes, artesanos, *aventureros que han pasado por Ritornello o [[Glastumville]] y buscan un patrón más estable*, ingenieros militares teósofos que la Ortodoxia no acepta en sus filas, exploradores thorcin con buena conexión local —*todos confluyen al portal del Azure Keep*—. La Dama recibe, anota, paga con regularidad.
+**Gosterwick** —la villa imperial mayor del valle, *más alejada de la cascada y de la frontera dura del dungeon*— funciona como **núcleo de reclutamiento activo** de la Dama. Mercaderes, artesanos, *aventureros que han pasado por Ritornello o [[Glastumville]] y buscan un patrón más estable*, ingenieros militares teósofos que la Ortodoxia no acepta en sus filas, exploradores thorcin con buena conexión local —*todos confluyen al portal del Fortaleza Azur*—. La Dama recibe, anota, paga con regularidad.
 
 El reclutamiento es **disciplinado**: ella sabe lo que necesita, *no contrata por entusiasmo*, no se rodea de cualquier capa. *Aquí la diferencia con sus hermanos es legible*. Argus recluta soldados de frontera y aventureros para el dungeon. [[Sir_Glastum|Glastum]] tolera la villa laxa que se recluta sola. Alexia **construye corte**, *con la lentitud de los que apuestan a la sucesión y no al ciclo presente*.
 
@@ -109,9 +112,9 @@ La aristocracia archontea de [[Narsileon]] la considera:
 
 - **Bien conectada** —no se le niega capacidad ni red—,
 - **Inteligente** —no se le niega lectura política—,
-- pero **impredecible** —*acumula regalias que no son suyas; mantiene contactos thorcin que no debería; restaura un Azure Keep en una posición geográficamente ambigua; recluta corte propia con dineros cuya procedencia el censo no acaba de cuadrar*—.
+- pero **impredecible** —*acumula regalias que no son suyas; mantiene contactos thorcin que no debería; restaura un Fortaleza Azur en una posición geográficamente ambigua; recluta corte propia con dineros cuya procedencia el censo no acaba de cuadrar*—.
 
-*El cronista, que aprende a leer los epítetos del aparato como diagnósticos invertidos, propone una lectura distinta*: la Dama Verde **no es cañón suelto**; es **cañón fijado a base distinta de la que el aparato suponía**. La base no es el padre. La base no es Narsileon. La base es **la propia casa, refundada a su modo**, con sangre cruzada, regalias antiguas, corte verde y Azure Keep restaurado. *Si la sucesión opera, opera porque ella lo dispuso así*.
+*El cronista, que aprende a leer los epítetos del aparato como diagnósticos invertidos, propone una lectura distinta*: la Dama Verde **no es cañón suelto**; es **cañón fijado a base distinta de la que el aparato suponía**. La base no es el padre. La base no es Narsileon. La base es **la propia casa, refundada a su modo**, con sangre cruzada, regalias antiguas, corte verde y Fortaleza Azur restaurado. *Si la sucesión opera, opera porque ella lo dispuso así*.
 
 ---
 
@@ -133,21 +136,21 @@ El cronista cierra esta entrada con la fórmula que el archivo ofrece sobre el t
 - [[Sir_Glastum]] — medio hermano extraoficial, alcaide de [[Fortaleza_Azur]]
 - [[Juliana_X_Bellatrix]] — tía-abuela imperial (medio hermana del padre)
 - [[Drusus_IX_El_Palido|Basileus Drusus IX]] — autoridad imperial
-- [[Knights_of_the_Azure_Shield|Knights of the Azure Shield]] — orden que lidera
+- [[Knights_of_the_Azure_Shield|Caballeros del Escudo Azur]] — orden que lidera
 - [[Archontean]] — pueblo imperial
 - [[Thorcin_etnia|Thorcin]] — etnia materna; relación secreta con sus thegns
 - [[Valle_de_Burdock]] — región
 - [[Ritornello]] — pueblo del hermano
 - [[Glastumville]] — villa del medio hermano
 - [[Iglesia_Imperial]] — devoción pública decadiana
-- **Azure Keep** — fortaleza azul, residencia operativa
+- **Fortaleza Azur** — fortaleza azul, residencia operativa
 - **Gosterwick** — villa imperial mayor donde recluta
 - **Regalias arcónticas de Ardisvala** — cetro de obsidiana, manto verde con galón thorcin, corona baja, sello, libro de fueros, anillo
 
 ## Apariciones
 
 - **Infancia y juventud en la residencia arcóntica del padre** — formación archontea pública + iniciación thorcin privada
-- **~2987 AEP — toma del Azure Keep** — inicia restauración y modernización; funda el sept de Knights bajo su mando directo
+- **~2987 AEP — toma del Fortaleza Azur** — inicia restauración y modernización; funda el sept de Knights bajo su mando directo
 - **Compras sistemáticas de regalias arcónticas** — anticuarios del valle, agentes en Narsileon, *atestiguación callada en sus salones*
 - **2993 AEP — los pliegos del valle la registran como figura activa** —no titulada— de la casa Basileon
 - **Caída de Ritornello y Hiato** — *el papel de la Dama Verde durante el silencio es elemento que el archivo no ha conseguido transcribir; la corte de Gosterwick siguió operando, las regalias siguieron acumulándose*

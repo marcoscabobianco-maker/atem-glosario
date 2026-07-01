@@ -42,7 +42,7 @@ La derrota de Scya deja al grupo con un trofeo simbólico que servirá después:
 
 ### El ultimátum de los Inevitables y la necesidad del decreto
 
-Los **Inevitables** —los espíritus mecánicos del orden cósmico, mencionados también en el concilio del Taller donde se decidió el destino de la [[Piedra_del_Apocalipsis]]— **se presentan como docenas de drones que depositan caballeros metálicos sobre la cubierta**. Plantean ultimátum: los descendientes de los atlantes deben dejar de serlo. La única forma de que cese la persecución es que los 300 **adopten otra ciudadanía**, y para eso se necesita **decreto del Virrey de París, [[Lord_Gaul]]** —que tiene legión [[Baatezu]] en su hueste y va a querer demostración de fuerza—.
+Los **Inevitables** —los espíritus mecánicos del orden cósmico, mencionados también en el concilio del archivo donde se decidió el destino de la [[Piedra_del_Apocalipsis]]— **se presentan como docenas de drones que depositan caballeros metálicos sobre la cubierta**. Plantean ultimátum: los descendientes de los atlantes deben dejar de serlo. La única forma de que cese la persecución es que los 300 **adopten otra ciudadanía**, y para eso se necesita **decreto del Virrey de París, [[Lord_Gaul]]** —que tiene legión [[Baatezu]] en su hueste y va a querer demostración de fuerza—.
 
 Un **Zelekuth** —centauro de hierro con látigo— intenta apresar a [[Maleika_Maleyka]], cuyo nombre aparece "como uno jodido en la lista de Prófugos". El conflicto se intensifica.
 

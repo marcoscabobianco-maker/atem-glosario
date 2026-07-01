@@ -1,6 +1,6 @@
 ---
 title: "Warburga"
-categoria: lugar
+categoria: grupo
 tags:
  - "paris-ucronica"
  - "family"
@@ -10,4 +10,4 @@ aliases:
 
 ## Presentación
 
-Origen hamburgués. Industria acero. Ovejas negras prefirieron libros herencia primogenitura. Ejemplo: [[Aby_Warburgo|Aby Warburgo]] (académico, investigador temporal).
+Familia de origen hamburgués, hecha en la industria del acero. La crónica recuerda a sus ovejas negras: los que prefirieron los libros antes que la herencia del primogénito. De esa estirpe es [[Aby_Warburgo|Aby Warburgo]], el erudito, investigador del tiempo.

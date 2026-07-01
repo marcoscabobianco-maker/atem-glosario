@@ -1,6 +1,6 @@
 ---
-title: "Workshops of Kerbog Khan"
-título: "Workshops of Kerbog Khan"
+title: "Talleres de Kerbog Khan"
+título: "Talleres de Kerbog Khan"
 slug: Workshops_de_Kerbog_Khan
 categoria: lugar
 aliases:
@@ -22,11 +22,11 @@ tags:
  - cristalizacion
 ---
 
-> *Laboratorios de [[Kerbog_Khan]]. En las entrañas del mega-dungeon. Producción de autómatas (incluida la libélula que arrasó [[Ritornello]]). Estado post-cristalización: degradado.*
+> *Laboratorios de [[Kerbog_Khan]]. En las entrañas del mega-mazmorra. Producción de autómatas (incluida la libélula que arrasó [[Ritornello]]). Estado post-cristalización: degradado.*
 
 ## Presentación
 
-Los **Workshops of Kerbog Khan** —**Talleres de Kerbog Khan**, **Workshops de Kerbog Khan** en el [[Mega_Dungeon_Arden_Vul]]— son **laboratorios sub-nivel** donde **[[Kerbog_Khan]]** (originalmente **[[Kerbog_Khan|Cerbactos Kalthetos]]**) opera su producción de **autómatas vivos vinculados al [[Arcanum]]**. **12 páginas** del módulo *Ardisvala*.
+Los **Talleres de Kerbog Khan** —**Talleres de Kerbog Khan**, **Workshops de Kerbog Khan** en el [[Mega_Dungeon_Arden_Vul]]— son **laboratorios sub-nivel** donde **[[Kerbog_Khan]]** (originalmente **[[Kerbog_Khan|Cerbactos Kalthetos]]**) opera su producción de **autómatas vivos vinculados al [[Arcanum]]**. **12 páginas** del módulo *Ardisvala*.
 
 ### Producción documentada
 
@@ -39,7 +39,7 @@ Los **Workshops of Kerbog Khan** —**Talleres de Kerbog Khan**, **Workshops de 
 
 **Revelación del archivo**:
 
-> *"El arma de la bomba que deshace las unidades de carbono, lo hemos charlado y está canónico en el módulo de armas, que creo que es el 629 del módulo de [[Ardis_Vala|Arden Vul]]."*
+> *"El arma de la bomba que deshace las unidades de carbono, lo hemos charlado y está canónico en el módulo de armas, que creo que es el 629 del módulo de [[Ardis_Vala|Ardis Vala]]."*
 
 **El módulo 629** del módulo *Ardisvala* (Vol. 2) **es el área canónica del arma que disuelve uniones de carbono**. **Kerbog Khan obtuvo la receta** y la integró en su producción de libélulas armadas.
 
@@ -49,7 +49,7 @@ Kerbog Khan **comercia / coopera / compite** con la IA del módulo de armas. Amb
 
 ### Aliados (pre-cristalización)
 
-- **[[Goblins_Weskenim|Goblins de King Weskenim]]** — autómatas por mano de obra y ácido
+- **[[Goblins_Weskenim|Goblins de Rey Weskenim]]** — autómatas por mano de obra y ácido
 - **[[Varumani]]** — crystal device varumani (vínculo terminó con el [[Vencimiento_Varumani|Vencimiento]])
 
 ### Enemigos
@@ -60,7 +60,7 @@ Kerbog Khan **comercia / coopera / compite** con la IA del módulo de armas. Amb
 
 - **A Forum de Set**: un túnel
 - **A Puertas de Obsidiana**: el túnel de agua
-- **A Troll Lifts**: un túnel
+- **A Elevadores de los Trolls**: un túnel
 
 ### Estado post-cristalización
 
@@ -92,5 +92,5 @@ Kerbog Khan **comercia / coopera / compite** con la IA del módulo de armas. Amb
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *Laboratorios sub-nivel en las entrañas del [[Mega_Dungeon_Arden_Vul]], donde [[Kerbog_Khan]] fabrica autómatas —entre ellos la libélula que arrasó [[Ritornello]]—. El mega-dungeon estratifica el mundo por niveles: los talleres conectan por túneles a Forum de Set, a Puertas de Obsidiana, a Troll Lifts, y bajo la [[Cristalizacion_Maquinas|cristalización]] esa capa se degrada mientras su operador huye hacia arriba, a [[Novatos_Ravenloft|Ravenloft]]. Cada estrato del Foso guarda su oficio.* — glosa de Mascor Blancarba.
+> *Laboratorios sub-nivel en las entrañas del [[Mega_Dungeon_Arden_Vul]], donde [[Kerbog_Khan]] fabrica autómatas —entre ellos la libélula que arrasó [[Ritornello]]—. El mega-mazmorra estratifica el mundo por niveles: los talleres conectan por túneles a Forum de Set, a Puertas de Obsidiana, a Elevadores de los Trolls, y bajo la [[Cristalizacion_Maquinas|cristalización]] esa capa se degrada mientras su operador huye hacia arriba, a [[Novatos_Ravenloft|Ravenloft]]. Cada estrato del Foso guarda su oficio.* — glosa de Mascor Blancarba.
 <!-- /CICLO -->

@@ -1,17 +1,13 @@
 ---
-title: "CABALLO (HORSE)"
-categoria: lugar
+title: "Caballo"
+categoria: concepto
 tags:
  - "cdi"
 aliases:
- - "CABALLO (HORSE)"
- - "HORSE"
+ - "Caballo"
  - "CABALLO"
 ---
 
 ## Presentación
 
-En el nuevo mundo, los caballos son recursos escasos: pueden ser poseídos individualmente o provistos por el estado. Existe la especialidad de "Médico de Caballos" como oficio reconocido.
-
-## Ver también
-
+En el nuevo mundo, el caballo es bien escaso: lo posee un particular o lo provee el estado, y nunca se da por descontado. Tan precioso es que la crónica registra el oficio del "Médico de Caballos" como especialidad reconocida, señal de cuánto vale mantener vivo a uno.

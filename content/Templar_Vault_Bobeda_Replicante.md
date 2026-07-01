@@ -1,5 +1,5 @@
 ---
-title: "Templar Vault Bobeda Replicante"
+title: "Bóveda Templaria Replicante"
 aliases:
  - "Templar Vault Bobeda Replicante"
 ---

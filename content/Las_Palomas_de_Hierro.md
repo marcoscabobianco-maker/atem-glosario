@@ -21,7 +21,7 @@ Líder conocida: **[[Estrella_de_la_Manana|Estrella de la Mañana]]** (ferroviar
 
 ## Apariciones notables
 
-el archivo (mención de palomas de hierro en contexto de [[Comunados]], ferroviarias en [[Orient_Express|Orient Express]]), construcción del mundo sobre ferrocarril como eje político-económico de [[Antiterra_Demonia|Antiterra]].
+el archivo (mención de palomas de hierro en contexto de [[Los_Comunados|Comunados]], ferroviarias en [[Orient_Express|Orient Express]]), construcción del mundo sobre ferrocarril como eje político-económico de [[Antiterra_Demonia|Antiterra]].
 
 ## Ver también
 

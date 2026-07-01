@@ -1,10 +1,10 @@
 ---
 title: "Capa de Protección"
-categoria: lugar
+categoria: artefacto
 tags:
  - "cdi"
 aliases:
- - "**Capa de Protección**"
+ - "Capa de Protección"
 ---
 
 <!-- HEADER_IMG -->
@@ -13,12 +13,4 @@ aliases:
 
 ## Presentación
 
-**Categoría**: Tesoro / Armadura mágica
-
-**Descripción**: Capa mágica del tesoro de [[Pluton_CDI|Plutón]]. Desvía golpes que debían encontrar carne; el alcance exacto de su amparo no quedó asentado.
-**[[Posesion|Posesión]]**: No especificado.
-**Refs**:
-
-## Ver también
-
-- [[Posesion|Posesión]]
+Capa mágica del tesoro de [[Pluton_CDI|Plutón]]. Desvía los golpes que debían encontrar carne, aunque el alcance exacto de su amparo no quedó asentado en el archivo. Tampoco se dejó constancia de en qué manos terminó.

@@ -1,10 +1,11 @@
 ---
-title: "Master Rifleman"
+title: "El Maestro Fusilero"
 tags:
  - "personaje"
  - "baton-rouge"
  - "aduana"
 aliases:
+ - "El Maestro Fusilero"
  - "Master Rifleman"
 ---
 

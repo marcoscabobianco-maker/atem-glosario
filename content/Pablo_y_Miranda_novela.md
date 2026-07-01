@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Pablo_y_Miranda_novela.png]]
 <!-- /HEADER_IMG -->
 
-Composición tipo book-cover. [[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]] hacia [[Torregrises]].
+La lámina, compuesta a la manera de una cubierta de novela, muestra a [[Pablo_de_Alejandria|Pablo]] y a [[Miranda_TG|Miranda]] encaminados hacia [[Torregrises]].

@@ -1,6 +1,6 @@
 ---
-title: "Varboka, First Thegn"
-título: "Varboka, First Thegn"
+title: "Varboka, Primer Thegn"
+título: "Varboka, Primer Thegn"
 slug: Varboka
 categoria: personaje
 aliases:
@@ -19,13 +19,18 @@ tags:
  - declive-de-pueblo
  - kaliyani
  - recompensa
+imagen: Imagenes_Tier1/Varboka.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Varboka.png]]
+<!-- /HEADER_IMG -->
 
 > *Rey de un pueblo que se extingue. Busca el [[Beacon_Faro_Brillante|Beacon]] para restaurar a los suyos. Declaró recompensa de 100 piezas de oro por colmillo kaliyani.*
 
 ## Presentación
 
-**Varboka, First Thegn** es el **soberano de los [[Varumani]]** —el "troll thegn" para todos los no-varumani del dungeon—. Su **trono preside la sala mayor** de la [[Court_of_Troll_Thegn|Corte del Thegn]] del [[Mega_Dungeon_Arden_Vul]]. **True varumani veterano**: las heridas se le cierran solas y su mente es inexpugnable.
+**Varboka, Primer Thegn** es el **soberano de los [[Varumani]]** —el "troll thegn" para todos los no-varumani del dungeon—. Su **trono preside la sala mayor** de la [[Court_of_Troll_Thegn|Corte del Thegn]] del [[Mega_Dungeon_Arden_Vul]]. **True varumani veterano**: las heridas se le cierran solas y su mente es inexpugnable.
 
 ### Una corte en peligro
 
@@ -48,7 +53,7 @@ Otros oficiales:
 - **Ashoka the Court Sorcerer**
 - **Glif, First Adept**
 - **Vimela the Record Keeper**
-- **Trijax, vice-overseer [[Troll_Lifts_Arena|Troll Lifts]]**
+- **Trijax, vice-overseer [[Troll_Lifts_Arena|Elevadores de los Trolls]]**
 - **Housecarls** — guardia personal
 
 ### Pasaportes obligatorios
@@ -77,7 +82,7 @@ Varboka **se mueve activamente por su dominio**, alternando entre el trono, los 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]] — dungeon contenedor
-- [[Court_of_Troll_Thegn|Court of Troll Thegn]] — su dominio
+- [[Court_of_Troll_Thegn|Corte del Thegn]] — su dominio
 - [[Arden_Vul|Ardis Vala (gesta)]]
 - [[Varumani]] — su pueblo
 - [[Beacon_Faro_Brillante]] — su proyecto central
@@ -86,7 +91,7 @@ Varboka **se mueve activamente por su dominio**, alternando entre el trono, los 
 - [[Papa_Alejandro_Sixto|Sir Sixto]] — vinculación posible vía las negociaciones de los Buscadores
 - **Hraskaya, Vedraya One-Eye, Gavra, Igrippa, Ashoka, Glif, Vimela, Trijax** — staff
 - [[Troll_Market]] — mercado bajo su jurisdicción
-- [[Lord_Carcalus]] ([[Lord_Carcalus|Arena Lord]]) — comerciante de esclavos / monstruos, cliente
+- [[Lord_Carcalus]] ([[Lord_Carcalus|Señor de la Arena]]) — comerciante de esclavos / monstruos, cliente
 - **[[Stephania_Set|Stephania]] (Set)** — comerciante de esclavos / objetos, cliente cliente
 
 ## Apariciones

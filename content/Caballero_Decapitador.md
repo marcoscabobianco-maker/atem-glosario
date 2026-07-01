@@ -23,7 +23,7 @@ aliases:
 - Arma: Hacha de escala gigante
 - Rol: Guardián de cripta/bóveda de reliquias
 
-**[[Evento]] del robo de reliquias:**
+**Evento del robo de reliquias:**
 - Atacado durante el incidente nocturno
 - Derribado por criatura infraplanar/entidad desconocida
 - Debilitado post-combate

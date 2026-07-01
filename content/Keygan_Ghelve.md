@@ -20,8 +20,11 @@ tags:
  - ejecutado-por-ayrton
  - acceso-jzadirune
  - reloj-torre-eiffel
-imagen: null
+imagen: Imagenes_Tier1/Keygan_Ghelve.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Keygan_Ghelve.png]]
+<!-- /HEADER_IMG -->
 
 > *"Un gnomo peculiar que caminaba sobre zancos y se ganaba la vida como cerrajero."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

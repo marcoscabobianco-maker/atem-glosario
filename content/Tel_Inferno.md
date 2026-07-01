@@ -1,30 +1,16 @@
 ---
-title: "Tel (Inferno)"
-categoria: lugar
-tags:
- - "cdi"
- - "figura"
- - "inferno"
- - "guía"
- - "castillo"
+título: "Tel (Inferno) — redirect"
+slug: Tel_Inferno
+estado: redirect
+target: "[[Thel]]"
 aliases:
+ - Tel
  - "Tel (Inferno)"
- - "Inferno"
- - "Tel"
+tags:
+ - redirect
+ - alias-retrocompatible
 ---
 
-<!-- HEADER_IMG -->
-![[Imagenes_Tier1/Tel_Inferno.png]]
-<!-- /HEADER_IMG -->
+# Tel (Inferno)
 
-## Presentación
-
-[[Vito_Guia|Guía]] en el [[Infierno]], conectado al Castillo de los Justos. Aparece en las secciones iniciales del Descenso el archivo (secciones 1–2).
-
-## Apariciones notables
-
-el Descenso el archivo secciones 1–2 (Castillo de los Justos/Bustos).
-
-### Apariciones
-
-el Descenso el archivo secciones 1–2 (Castillo de los Justos/Bustos).
+→ Consolidado en **[[Thel]]**. *«Tel» es la grafía con que las crónicas del Descenso registraron a Thel, la guía velada del Inferno.*

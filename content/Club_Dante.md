@@ -25,7 +25,7 @@ Apodo informal del Descenso entre sus compañeros. Indica un tono ludico en la r
 
 ## Vinculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — la gesta a la que alude el apodo; geografía infernal de los círculos dantescos
+- [[Anti_Inferno|el Descenso]] — la gesta a la que alude el apodo; geografía infernal de los círculos dantescos
 - [[Campana_Dante_S_Inferno_CDI]] — entrada formal de la gesta
 - [[Contexto_Dante]] — el marco literario dantesco que da nombre al club informal
 - [[Infierno_Dantesco]] — la geografía canónica de la Comedia que subyace a la gesta

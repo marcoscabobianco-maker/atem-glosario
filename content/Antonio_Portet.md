@@ -19,8 +19,11 @@ aliases:
  - "Antonio"
  - "Alex"
  - "Antonio R. Santamaría"
-imagen: null
+imagen: Imagenes_Tier1/Antonio_Portet.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Antonio_Portet.png]]
+<!-- /HEADER_IMG -->
 
 > *Perdí mi norte.*
 
@@ -52,7 +55,7 @@ En sueños revive una y otra vez el hundimiento de su barco. En vez de huir, eli
 
 ## Algo en la sangre
 
-El mar, que debería haberlo matado, lo respeta. Termina por revelarse por qué Antonio sobrevivió al hundimiento que se tragó a su tripulación: tiene **algo en la sangre, algo en el corazón** —la insinuación, nunca del todo dicha, de que por sus venas corre sangre de los Profundos, esos hombres-pez de la **Orden de Dagon** que medran en el fondo y rinden culto a [[Nyarlathotep|Tulu]] y a las potencias que sueñan bajo las islas. Esa herencia lo convierte en el nexo del grupo con la **esfera onírica**: es Antonio quien sintoniza el "huevo" que cristaliza los sueños, quien oye lo que el resto no alcanza a oír.
+El mar, que debería haberlo matado, lo respeta. Termina por revelarse por qué Antonio sobrevivió al hundimiento que se tragó a su tripulación: tiene **algo en la sangre, algo en el corazón** —la insinuación, nunca del todo dicha, de que por sus venas corre sangre de los Profundos, esos hombres-pez de la **Orden de Dagon** que medran en el fondo y rinden culto a [[Cthulhu]] y a las potencias que sueñan bajo las islas. Esa herencia lo convierte en el nexo del grupo con la **esfera onírica**: es Antonio quien sintoniza el "huevo" que cristaliza los sueños, quien oye lo que el resto no alcanza a oír.
 
 ---
 
@@ -65,7 +68,7 @@ Hay una segunda raíz en Antonio, tierra adentro de su propia sangre: una **asce
 ## Vínculos
 
 - **Orden de Dagon / [[Los_Profundos]]** — el linaje oculto en su sangre, hombres-pez del fondo del mar
-- [[Nyarlathotep]] — Tulu y las potencias que sueñan bajo las Malvinas
+- [[Nyarlathotep]] — Cthulhu y las potencias que sueñan bajo las Malvinas
 - **Operativo Cóndor (1966)** — el vuelo desviado a las islas en el que viaja de mula
 - **Hospital Borda** — donde es internado tras el brote de Top Malo
 - **Teniente coronel Guzmán** — gobernador designado, compañero de avión

@@ -24,8 +24,11 @@ tags:
  - hijo-lord-burdock
  - medio-hermano-sir-glastum
  - paradigma-caido
-imagen: null
+imagen: Imagenes_Tier1/Argus_PJ.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Argus_PJ.png]]
+<!-- /HEADER_IMG -->
 
 > *"Los buenos barones no se hacen de imperio; se hacen del polvo que dejan los caminos cuando se cierra la puerta de su torre."* — máxima atribuida a Paulus en glosa lateral al *[[Decadiano]]*, libro VII.
 
@@ -68,7 +71,7 @@ Cuatro tareas escritas, una no escrita:
 1. **Asegurar las rutas** desde la costa archontea hacia el valle, en particular el camino de [[Narsileon]] —a dos semanas de marcha, *distancia que el cronista anota como sentencia geopolítica: lejos para auxilio, cerca para impuestos*—.
 2. **Administrar justicia** en nombre del Basileus —*"no siempre estrictamente"*, susurra la glosa decadiana, fórmula que en frontera significa: *recoge lo que el suelo deja, no lo que el código pide*—.
 3. **Coordinar la seguridad del [[Valle_de_Burdock]]** entero, función que el padre arconte le había delegado, junto con la presión competitiva del medio hermano en [[Glastumville]].
-4. **Forjar alianzas con aventureros** —*"recompensa a quienes eliminen amenazas locales antes de que crezcan"*, leía el bando público del bastión, fórmula que en la frontera del Imperio es invitación abierta a los grupos que bajan al mega-dungeon de Ardisvala con permisos vagos—.
+4. **Forjar alianzas con aventureros** —*"recompensa a quienes eliminen amenazas locales antes de que crezcan"*, leía el bando público del bastión, fórmula que en la frontera del Imperio es invitación abierta a los grupos que bajan al mega-mazmorra de Ardisvala con permisos vagos—.
 5. **La quinta tarea, la no escrita**: lidiar con [[Glastumville]]. El medio hermano y los notables de su villa resisten cualquier intento de Argus de gravar las ganancias del dungeon o imponer guarnición regular. *Argus lo sabe; el archivo lo registra; el comunicado imperial lo omite.*
 
 ---

@@ -17,3 +17,12 @@ Cautivos hallados en el laberinto:
 - Total: varias decenas (estimado)
 
 Son el objeto del rescate, la justificación moral de la incursión en el laberinto. Tras el combate con el Cíclope, Lirio/[[Michel|Michel]] les ordena seguir el hilo hacia la salida.
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Víctimas de tráfico infernal. Paralelo con los refugiados del [[Temple_complejo_TE|Temple]] del asalto inicial (300-400 personas en campamento). Posible que sean los mismos desaparecidos.
+- Coordenadas: Líneas 290-310, 550-560.

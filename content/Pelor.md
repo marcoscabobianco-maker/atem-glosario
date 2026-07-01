@@ -18,3 +18,11 @@ Dios solar de aire griego, coronado de laurel y de rayos. Deidad del sol, la luz
 - [[Sol_Invictus_Culto_Mediterraneum]] — tradición solar mediterránea que resuena con el arquetipo de Pelor
 - [[Anillos_Solares]] — símbolo astral solar vinculado a las potencias de la luz en el cosmos compartido
 - [[Mechanus]] — plano del orden cósmico; Pelor como potencia de la ley y la luz frente al caos
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Deidad del panteón de D&D / Greyhawk (Pelor, dios del sol y la curación).

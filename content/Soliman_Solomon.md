@@ -18,12 +18,4 @@ aliases:
 
 ## Presentación
 
-Vicealmirante del [[Gran_Khan|Gran Khan]]. Saluda al grupo en región lacustre. Presencia militar sugiere ataque pirata reciente. Navío tipo dragón observado. Discusión estratégica: isla principal vs. rutas alternativas por río.
-
-## Apariciones notables
-
-PM 4b2.
-
-### Apariciones
-
-PM 4b2.
+Vicealmirante del [[Gran_Khan|Gran Khan]]. La crónica lo registra saludando al grupo en una región de lagos, rodeado de una presencia militar que delata un ataque pirata reciente; entre las naves se avistó un navío con forma de dragón. Allí se discutió la estrategia: si tomar la isla principal o abrir camino por las rutas alternativas del río.

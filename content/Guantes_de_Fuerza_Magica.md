@@ -1,16 +1,11 @@
 ---
 title: "Guantes de Fuerza Mágica"
-categoria: lugar
+categoria: artefacto
 aliases:
  - "Guantes de Fuerza Mágica"
 ---
 
 ## Presentación
 
-**Rareza:** Menor
-**Descripción:** Conceden un vigor suplementario que dura un día entero desde que se calzan
-**Efecto limitado:** Sirven una sola vez; después el encanto se agota
-**Presencia en grupo:** Múltiples disponibles (del Santuario)
-
-## Ver también
+Guantes menores que, al calzarse, prestan a su portador un vigor suplementario por una jornada entera. El don es de un solo uso: agotado el encanto, no queda en ellos más que cuero. El archivo cuenta varios de estos pares entre los enseres del Santuario.
 

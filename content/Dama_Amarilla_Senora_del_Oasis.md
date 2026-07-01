@@ -15,7 +15,7 @@ aliases:
 
 Gobernante de un reino fronterizo desértico, establecido en un oasis a unas diez millas de la costa. Desea incorporar su territorio al Imperio Bizantino. Se presenta sin máscara (la única que lo hace en la recepción diplomática), vestida con joyas, portando una pluma con la que se hinca el hombro. Habla con refinamiento, ofrece frutas, mieses y esclavos liberados como tributo. Dice admirar a la Emperatriz [[Teodora]] y desear ser actriz como ella.
 
-**Posesiones mágicas detectadas (Detect Magic por Aby):**
+**Posesiones mágicas que Aby detecta:**
 - Pluma: mágica, con propiedades de conjuración, curación y divinación
 - Máscara (de animales, colgada en patio): encantamiento con componentes de [[Naga_Paris_Ucronica|necromancia]] y divinación ("combo fuerte")
 - Atuendos: protección/resistencia a magia (clausura)

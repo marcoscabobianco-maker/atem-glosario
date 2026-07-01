@@ -23,8 +23,11 @@ tags:
  - lady-deino
  - varumani
  - reinado-trunco
-imagen: null
+imagen: Imagenes_Tier1/Phocion_IV.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Phocion_IV.png]]
+<!-- /HEADER_IMG -->
 
 > *"Hay emperadores cuyo nombre el aparato graba en piedra junto a una sola fecha, y la fecha no es la del reinado sino la del fracaso. Eso es Phocion IV. Es figura honorable, pero archivada de pie ante una losa."* — del *[[Decadiano]]*, libro VIII, sobre los reinados truncos.
 
@@ -36,7 +39,7 @@ La lámina —*el monarca de pie ante el mapa del valle, mano sobre la frontera*
 
 **Phocion IV** —*cuarto emperador del nombre Phocion en el linaje archonteo*— ocupó el trono imperial **hacia el 2742 AEP**, *unos doscientos cincuenta y un años antes del ciclo presente del valle*. Su reinado se sitúa entre la **Reconquista de [[Juliana_X_Bellatrix|Juliana X Bellatrix]]** (algunas décadas antes) y la **dinastía Drusus actual** (varios reinados después): *Phocion IV es el emperador del intermedio*, *cuando el Imperio creía haber consolidado la Reconquista y se aventuró a expandirla más allá de los límites prudentes que la Bellatrix había trazado*.
 
-*El cronista decadiano subraya que el nombre Phocion **no se confunde** con **Phocion the Builder** —arconte arcaico del Imperio cuya tumba se conserva en los Nether Reaches del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]—*. Las dos figuras son **distintas en épocas y posiciones**; *los archivos rurales del valle a veces las confunden por homonimia*, pero el aparato cancilleresco las distingue claramente.
+*El cronista decadiano subraya que el nombre Phocion **no se confunde** con **Phocion the Builder** —arconte arcaico del Imperio cuya tumba se conserva en los Confines Inferiores del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]—*. Las dos figuras son **distintas en épocas y posiciones**; *los archivos rurales del valle a veces las confunden por homonimia*, pero el aparato cancilleresco las distingue claramente.
 
 ---
 
@@ -61,7 +64,7 @@ Phocion IV **encomendó la operación** al **general [[Adrienic]]** —*comandan
 
 > *"La campaña inicia con optimismo, pero pronto enfrenta la feroz resistencia de las extrañas criaturas que habitan las ruinas."* — pliego oficial de la cancillería, conservado en los archivos de [[Narsileon]].
 
-*El optimismo inicial* —el cronista decadiano lo registra— **se sostuvo durante los primeros meses**. La expedición **avanzó hacia el valle**, *estableció campamentos fortificados en el [[Barrado_Balacan|Barrado Balacán]]*, **rotó patrullas exploratorias por los niveles superiores del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]**. *El Imperio creyó que la Reconquista de Ardisvala estaba en marcha*.
+*El optimismo inicial* —el cronista decadiano lo registra— **se sostuvo durante los primeros meses**. La expedición **avanzó hacia el valle**, *estableció campamentos fortificados en el [[Barrado_Balacan|Barrado Balacán]]*, **rotó patrullas exploratorias por los niveles superiores del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]**. *El Imperio creyó que la Reconquista de Ardisvala estaba en marcha*.
 
 **Los Tagmata no sabían qué los esperaba en los niveles inferiores**. *El Imperio tampoco*.
 
@@ -73,7 +76,7 @@ Phocion IV **encomendó la operación** al **general [[Adrienic]]** —*comandan
 
 > *"En la infame **Masacre de la Cueva de Sangre**, las fuerzas imperiales son emboscadas y aniquiladas por **[[Girbala]]**, el 31.º tegnu (rey) de los varumani, señores guerreros de las profundidades."*
 
-La Cueva de Sangre —*locus que el archivo decadiano sitúa en los niveles intermedios del dungeon, en sección que los pliegos modernos identifican tentativamente con los [[Troll_Lifts_Arena|Troll Lifts]] o la [[Court_of_Troll_Thegn|Corte del Thegn]]*— **era trampa preparada por los [[Varumani]]**, *pueblo guerrero de las profundidades cuyo dominio sobre el dungeon era anterior a la presencia archontea*. **[[Girbala]]**, *trigésimo primer tegnu* —*rey, jefe ritual y militar*— **de los [[Varumani]]**, **emboscó a la columna imperial principal** en la cueva. **Las pérdidas archonteas fueron casi totales**.
+La Cueva de Sangre —*locus que el archivo decadiano sitúa en los niveles intermedios del dungeon, en sección que los pliegos modernos identifican tentativamente con los [[Troll_Lifts_Arena|Elevadores de los Trolls]] o la [[Court_of_Troll_Thegn|Corte del Thegn]]*— **era trampa preparada por los [[Varumani]]**, *pueblo guerrero de las profundidades cuyo dominio sobre el dungeon era anterior a la presencia archontea*. **[[Girbala]]**, *trigésimo primer tegnu* —*rey, jefe ritual y militar*— **de los [[Varumani]]**, **emboscó a la columna imperial principal** en la cueva. **Las pérdidas archonteas fueron casi totales**.
 
 **Una cohorte completa de los Tagmata fue capturada viva** y entregada a **[[Lady_Deino|Lady Deino]]**, *bruja antigua del valle, aliada del 31.º tegnu*. **Deino los transformó en hombres-bestia** mediante **magia sangrienta** ritualizada. *El cronista decadiano lo registra con la sequedad que la doctrina exige a las atrocidades*; **los hombres-bestia transformados siguen operando en los niveles del dungeon en el ciclo presente**, *aunque dispersos y desorganizados tras la muerte de su transformadora*.
 
@@ -127,7 +130,7 @@ En el ciclo presente, **Phocion IV es figura mixta**:
 
 - [[Drusus_IX_El_Palido|Basileus Drusus IX]] — emperador actual, varios reinados después
 - [[Juliana_X_Bellatrix]] — emperatriz predecesora, autora de la Reconquista prudente
-- **Phocion the Builder** — arconte arcaico no relacionado directamente; tumba en los Nether Reaches del dungeon
+- **Phocion the Builder** — arconte arcaico no relacionado directamente; tumba en los Confines Inferiores del dungeon
 - [[Adrienic]] — general comandante de la expedición fallida
 - [[Girbala]] — 31.º tegnu varumani, autor de la emboscada
 - [[Lady_Deino]] — bruja transformadora de la cohorte capturada

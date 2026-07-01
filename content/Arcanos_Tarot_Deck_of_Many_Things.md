@@ -1,32 +1,25 @@
 ---
-title: "Arcanos (Tarot — Deck of Many Things)"
-categoria: personaje
+title: "Arcanos (Tarot)"
+categoria: concepto
 tags:
  - "cdi"
 aliases:
- - "Arcanos (Tarot — Deck of Many Things)"
- - "Tarot — Deck of Many Things"
+ - "Arcanos (Tarot)"
+ - "Tarot"
  - "Arcanos"
 ---
 
 ## Presentación
 
-**Referencia:** el archivo
+**Contexto:** cuando el grupo invoca la [[Esperanza_Recurso_mecanicista|Esperanza]] bajo presión —las paladinas enfrentadas en la catedral— se elevan dos arcanos: el [[Arcanos_Rey_Reina_de_Corazones|Rey y la Reina de Corazones]].
 
-**Contexto:** Cuando grupo invoca [[Esperanza_Recurso_mecanicista|Esperanza]] bajo presión (paladinas enfrentadas en catedral), aparecen dos arcanos: [[Arcanos_Rey_Reina_de_Corazones|Rey y Reina de Corazones]].
+**Las figuras:**
+- **[[Arcanos_Rey_Reina_de_Corazones|Reina de Corazones]]:** "figura coreana, vestida con brazo negro".
+- **Rey de Corazones:** "pelirrojo, capa larga, corona de [[Asmodeus]]".
 
-**Descripción:**
-- **[[Arcanos_Rey_Reina_de_Corazones|Reina de Corazones]]:** "Figura coreana, vestida con brazo negro"
-- **Rey de Corazones:** "Pelirrojo, capa larga, corona de [[Asmodeus]]"
-
-**Mecánica:** Estos no son cartas consumibles del [[Deck_of_Many_Things_variante_CDI|Deck of Many Things]] (ese deck está parcialmente agotado en jornadas siguientes). En cambio, parecen ser invocaciones dimensionales cuando grupo gasta [[Esperanza_Recurso_mecanicista|Esperanza]] en situaciones críticas.
-
-**Vinculación dantesca:** [[Corona_activacion_desconocida|Corona]] de [[Asmodeus]] sugiere conexión a círculo 6+ (Lujuria/Avaricia).
-
-**Moraleja:** Grupo puede invocar figuras dantescas como aliados temporales si sacrifican [[Esperanza_Recurso_mecanicista|Esperanza]].
+No son cartas consumibles del [[Deck_of_Many_Things_variante_CDI|Mazo de Muchas Cosas]] —ese mazo queda gastado en jornadas siguientes—, sino apariciones dimensionales que acuden cuando el grupo entrega su Esperanza en el trance mayor. La corona de [[Asmodeus]] que porta el Rey los anuda a los círculos profundos del Foso (Lujuria, Avaricia). Quien sacrifica su Esperanza puede convocarlos como aliados de un instante.
 
 ## Ver también
 
 - [[Reina_de_Corazones|Reina de Corazones]]
 - [[Rey_de_Corazones|Rey de Corazones]]
-- Moraleja

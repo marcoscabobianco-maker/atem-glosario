@@ -1,5 +1,5 @@
 ---
-title: "Minaya (TG)"
+title: "Minaya (Torregrises)"
 categoria: entidad
 tags:
  - "deidad"
@@ -8,7 +8,7 @@ tags:
  - "creador"
  - "tiamat"
 aliases:
- - "Minaya (TG)"
+ - "Minaya (Torregrises)"
  - "TG"
  - "Minaya"
 ---
@@ -19,7 +19,7 @@ aliases:
 
 ## Presentación
 
-Dios supremo en la cosmogonía de [[Torregrises]]. Mató a **[[Tiamat_TG|Tiamat (TG)]]** y proclamó la victoria del Bien sobre el Mal. Carácter dominante, impaciente: "¡Sólo hay un corredor de verdades mágicas, el amor que soy yo y es todo!" Posee la lanza coronada con la **[[Gema_de_la_Creacion|Gema de la Creación]]**.
+Dios supremo en la cosmogonía de [[Torregrises]]. Mató a **[[Tiamat_TG|Tiamat (Torregrises)]]** y proclamó la victoria del Bien sobre el Mal. Carácter dominante, impaciente: "¡Sólo hay un corredor de verdades mágicas, el amor que soy yo y es todo!" Posee la lanza coronada con la **[[Gema_de_la_Creacion|Gema de la Creación]]**.
 
 ## Apariciones notables
 

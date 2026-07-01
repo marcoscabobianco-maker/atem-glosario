@@ -21,9 +21,9 @@ aliases:
 - Toca la armadura negra tras el robo de reliquias, llora confirmando la posesión
 - Establece plazo de respuesta (antes del amanecer)
 **Conexiones:** Opuesto al [[Hugo_de_Payns|Gran Maestre]]; aliado del Rey
-**[[Nota_narrativa|Nota narrativa]]:** [[Patriarca]] es la autoridad religiosa legítima por encima de [[Marques_de_Sade_Hugo|Hugo]]. Introduce dimensión de "iglesia vs. orden militar" en conflicto.
+**Nota narrativa:** [[Patriarca]] es la autoridad religiosa legítima por encima de [[Marques_de_Sade_Hugo|Hugo]]. Introduce dimensión de "iglesia vs. orden militar" en conflicto.
 
 ## Ver también
 
 - Alineamiento
-- [[Nota_narrativa|Nota narrativa]]
+- Nota narrativa

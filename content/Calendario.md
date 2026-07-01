@@ -134,3 +134,18 @@ Algunos de los hechos cosmogónicos que la crónica conserva:
 - [[Magia_dual|Magia Dual]] (concepto cosmológico inicial)
 - [[Juicio_Final|Juicio Final 1375 DR]] (evento clave del Calendario)
 - [[Danza_del_Conocimiento|Danza del Conocimiento 1368 DR]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ✒ ☯
+> *La crónica no la mira un cronista externo: la escribe un compañero que vivió los hechos. [[Amitlai]] levanta el Calendario «desde dentro del mundo» y [[Clarisa]] hereda la pluma —como [[Arcoms_Cosmar|Arcoms]] cedió el cargo de Maestro Bibliotecario en [[Myth_Drannor]]—: la voz que glosa el cosmos es ella misma personaje del cosmos, que pasa la posta de mano en mano. Y registra el doble fondo de los mundos —del [[Juicio_Final]] en 1375 DR al nacimiento de [[Elisteo]] en Andgara «o La Tierra», el Primario que es y no es la nuestra—.* — glosa de Amitlai.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; manifestación física y método, fuera de la lectura pública.
+
+- **Documento físico:** `Calendario merged.doc` (+ espejo `.gdoc` en Académicas, snapshot `.pdf` de agosto 2018). Construido entre 2005 y 2018 como narración interna en voz de Amitlai.
+- **Jerarquía de fuentes (Constitución §3):** el Calendario es *fuente lúdica primaria* —consolidación dentro del juego—, por debajo de los cuadernos manuscritos y por encima de las mitologizaciones posteriores. Palimpsesto declarado (§5): citarlo marcando que proviene del Calendario, no del cuaderno físico.
+- **Pendiente:** minería sistemática de todos los eventos → `MC_LINEA_TEMPORAL.md` (parcial).

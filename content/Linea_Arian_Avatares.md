@@ -53,7 +53,7 @@ El archivo cosmológico preserva **cinco avatares de Arian identificados con cer
 | Avatar | Geografía | Modo doctrinal | Pliegue |
 |---|---|---|---|
 | **[[Arian]]** | Cosmos central — [[Antiterra]] / Panteón / [[Sagrada_Orden|Sagrada Orden]] de [[Tanastias]] | **Elfo primigenio divinizado**, *el 25.º sol*, *figura luminosa de los aprendices originales de la [[Sagrada_Orden]]*, *miembro de las [[Las_4_A|4 A]]* | Capa luminosa, columna doctrinal |
-| **[[Auro_CI|Auro]]** | Geografía cosmológica del C63 — [[Ciudades_Invisibles_campana|Ciudades Invisibles]] | **Héroe** del ciclo intermedio, *paladín no-divinizado pero portador de virtud heroica* | Capa intermedia, columna heroica |
+| **[[Auro_CI|Auro]]** | Geografía cosmológica del C63 — [[Ciudades_Invisibles|Ciudades Invisibles]] | **Héroe** del ciclo intermedio, *paladín no-divinizado pero portador de virtud heroica* | Capa intermedia, columna heroica |
 | **[[Arian|Adam Arlequín]]** | [[Anti_Inferno|Foso del Descenso]] / [[Anti_Inferno]] | **Paladín-arlequín del tercer aliento**, *condenado del Foso operando con función de transferencia* | Capa negativa, columna teatral |
 | **[[Caladan]]** | [[Valakhan_de_la_Bruma]] / [[Ardis_Vala]] | **Wonderwalker noviriano** despertado del sarcófago, *vampirizado por [[Master_Malakita]]*, *darklord involuntario del dominio brumoso* | Capa intermedia oscurecida, columna doliente |
 | **Lucky** | [[Caldero]] / [[La_Jabalina]] | **Caballero de la [[Sagrada_Orden|Sagrada Orden]]**, *smites celestiales*, *nombre real reservado*, *linaje "antiguo de caballeros relacionados con Arian, aunque pocos se arriesgan a que cuente más"* | Capa luminosa secundaria, columna recuperada |
@@ -171,7 +171,7 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 
 ## El sexto avatar y los pliegues por abrir
 
-**El archivo cosmológico anticipa al menos un sexto avatar** de la Línea Arian que aún no se ha consolidado plenamente. *Su geografía hipotética*: **un pliegue cosmológico que el cosmos extendido aún no ha abierto plenamente** —*posiblemente vinculado con las [[Plataformas_de_Vala_Ely|Plataformas de Vala]]-Ely en su fase estancada*, *posiblemente vinculado con el cosmos de Krile que **[[Cristo_Leon|Cristo León]]** ha co-dirigido*, *posiblemente vinculado con geografías cosmológicas que el archivo no ha terminado de catalogar*—.
+**El archivo cosmológico anticipa al menos un sexto avatar** de la Línea Arian que aún no se ha consolidado plenamente. *Su geografía hipotética*: **un pliegue cosmológico que el cosmos extendido aún no ha abierto plenamente** —*posiblemente vinculado con las [[Plataformas_de_Vala_Ely|Plataformas de Vala]]-Ely en su fase estancada*, *posiblemente vinculado con el cosmos de [[Mundo_de_Kryle|Kryle]] en sus Convergencias*, *posiblemente vinculado con geografías cosmológicas que el archivo no ha terminado de catalogar*—.
 
 **El sexto avatar** *operaría* **con función específica de su pliegue**, *manteniendo consistencia interior con los otros cinco*, **completando o expandiendo el esquema cuádruple capas+columnas** en dirección que el cronista mayor anticipa pero no fija.
 
@@ -205,7 +205,7 @@ Las **cuatro columnas** —*ejes abstractos constantes que la [[Eisagogika|Isag�
 - [[Los_Cuatro_Pilares]] — estructura mayor del cosmos extendido
 - [[Papas_Borg]] — fuerza papal que ocupa geografías de la Línea Arian sin ser de la línea
 - [[Capilla_Oscura]] — locus cosmológico donde líneas se cruzan operativamente
-- [[Cristo_Leon]] / Mundo de Krile — pliegue cosmológico anticipado del sexto avatar
+- **[[Mundo_de_Kryle|Mundo de Kryle]]** — pliegue cosmológico anticipado del sexto avatar (vía las Convergencias)
 - **[[Tony_Malatesta]]** — candidato tentativo al sexto avatar o operador adyacente
 
 ## Apariciones

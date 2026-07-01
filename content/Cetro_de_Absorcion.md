@@ -26,7 +26,7 @@ imagen: null
 
 ## El implemento
 
-**El Cetro de Absorción** es **implemento arcano característico de los magos [[Priscians]]** —la orden secreta de hechiceros que opera desde el antiguo compound sortiano del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]—. **No es objeto único**: *cada mago Priscian de cierta graduación lo porta como parte de su panoplia operativa estándar*. **Su función**: **absorber los conjuros lanzados contra su portador** y devolverlos como **materia neutra al arcano** del usuario.
+**El Cetro de Absorción** es **implemento arcano característico de los magos [[Priscians]]** —la orden secreta de hechiceros que opera desde el antiguo compound sortiano del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]—. **No es objeto único**: *cada mago Priscian de cierta graduación lo porta como parte de su panoplia operativa estándar*. **Su función**: **absorber los conjuros lanzados contra su portador** y devolverlos como **materia neutra al arcano** del usuario.
 
 *El cronista del Plata anota la mecánica con cuidado*: el cetro **no es escudo pasivo**. **Es activo y bidireccional**. *Lo que el atacante lanza, el cetro lo recoge*; *lo que el cetro recoge, el portador lo redirige* —como combustible para sus propios conjuros, o como inversión sobre el atacante—.
 

@@ -33,14 +33,14 @@ Concepto/habilidad de **divination cósmica** usada por [[Michel|Michel]] en el 
 
 - Obtención de **coordenadas temporales**: [[Leon_Epoca_Carlomagno_800_DC|León]] época [[Carlos_Rey_Carlos_Carlomagno|Carlomagno]] (~800 DC).
 - Confirmación de **cronología** del arco temporal.
-- Identidad de [[Cronomon]].
+- Identidad de [[Chronomon|Cronomon]].
 - Ubicación futura de la [[Lanza_del_Destino_Ubicacion_Futura|Lanza del Destino]].
 
 ## Ver también
 
 - [[Michel|Michel]] (compañero que usa la habilidad)
 - [[Libro_Azul]] (fuente del acceso planar)
-- [[Cronomon]] (identidad revelada vía Akashic Records)
+- [[Chronomon|Cronomon]] (identidad revelada vía Akashic Records)
 - [[Aura_Sight_Habilidad_Michel|Aura Sight]] (otra habilidad de [[Michel]])
 - [[Minds_Eye_Nueva_Habilidad_Michel|Mind's Eye]] (nueva habilidad de su último umbral)
 

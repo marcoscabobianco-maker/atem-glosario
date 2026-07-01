@@ -189,7 +189,7 @@ Antes (o después) del fin, alguien escribe lo ocurrido *dentro del mundo* — y
 
 La hija de los héroes escribe el Calendario — la cronología interna del mundo — y al morir le pasa la pluma a otra bibliotecaria. Un revolucionario redacta sus memorias y son, hoy, la fuente primaria de su era. Bajo los monumentos de Constantinopla, un obrero del futuro entierra cápsulas con manuscritos para destinatarios que nacerán siglos después. El propio archivillano, amnésico y mutilado, escribe tabletas bilingües — su Biblia — para que cualquier versión futura de sí mismo pueda recordar. Dos magos gemelos en el oficio depositan obras que el archivo hoy reconstruye de sus cenizas — una de ellas es **este mismo tratado**. En el Atlántico Sur, el registro de la Orden batracia se guarda en el cuaderno noventa y nueve, y una carta de treinta páginas cruza el océano con la verdad adentro. Hasta el fuego respeta esta posición: cuando los amantes de Torregrises se inmolan, el cuaderno no arde.
 
-**En el archivo:** [[Amitlai]] · [[Clarisa]] · [[Oratiol]] · [[Time_Capsules]] · [[Tabletas_del_Caos_del_Barrowmaze|las Tabletas del Caos]] · [[Pablo_Casas_TG|Pablo Casas]] · [[Federico_TG|Federico]] · [[Kronamon]] · [[Eisagogika]] · [[Rerum_divinarum_et_humanarum]] · [[Ludus_Umbrarum]] · [[La_carta_de_30_paginas|la carta de treinta páginas]]
+**En el archivo:** [[Amitlai]] · [[Clarisa]] · [[Oratiol]] · [[Time_Capsules]] · [[Tabletas_del_Caos_del_Barrowmaze|las Tabletas del Caos]] · [[Pablo_Casas_TG|Pablo Casas]] · [[Federico_TG|Federico]] · [[Chronomon|Kronamon]] · [[Eisagogika]] · [[Rerum_divinarum_et_humanarum]] · [[Ludus_Umbrarum]] · [[La_carta_de_30_paginas|la carta de treinta páginas]]
 
 ---
 

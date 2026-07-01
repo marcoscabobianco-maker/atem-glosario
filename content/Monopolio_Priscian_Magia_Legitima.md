@@ -28,7 +28,7 @@ imagen: null
 
 ## El régimen
 
-**El Monopolio Priscian de la Magia Legítima** es **el régimen operativo arcano que la orden de los [[Priscians]] ejerce sobre el valle** desde la jornada del despojo en la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]. *No es decreto formal*; *no se promulgó en concilio*. **Es de facto**: **ningún aventurero del valle puede operar objeto arcano sin pasar por la [[Arcanum_Forge]] del Suelo del Gran Abismo**, y **la Forge no se franquea sin negociación con [[Nerub_Null]]**.
+**El Monopolio Priscian de la Magia Legítima** es **el régimen operativo arcano que la orden de los [[Priscians]] ejerce sobre el valle** desde la jornada del despojo en la cámara octagonal del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]. *No es decreto formal*; *no se promulgó en concilio*. **Es de facto**: **ningún aventurero del valle puede operar objeto arcano sin pasar por la [[Arcanum_Forge]] del Suelo del Gran Abismo**, y **la Forge no se franquea sin negociación con [[Nerub_Null]]**.
 
 *El cronista del Plata anota sin glosa*: el régimen se inauguró **por confiscación, no por declaración**. **Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] fueron despojados de sus objetos mágicos en la cámara octagonal**, *los Priscianos no leyeron el acto como saqueo*; **lo leyeron como restitución de jurisdicción**. **La asimetría es decisiva**: lo que el grupo norte vivió como derrota, *los Priscianos vivieron como acto fundacional de su régimen renovado*.
 

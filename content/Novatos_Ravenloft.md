@@ -1,6 +1,6 @@
 ---
-title: "Novatos Ravenloft (saga paralela)"
-título: "Novatos Ravenloft (saga paralela)"
+title: "Novatos Ravenloft"
+título: "Novatos Ravenloft"
 slug: Novatos_Ravenloft
 categoria: campaña
 aliases:

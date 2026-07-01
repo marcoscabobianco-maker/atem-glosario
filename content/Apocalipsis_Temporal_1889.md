@@ -46,7 +46,7 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 - **Viajeros dejan de poder reencarnar** — *los ciclos de reencarnación terminan*; *quien estaba en tránsito queda atrapado en el último cuerpo*.
 - **Personas vivas quedan congeladas en estado indefinido** — *"como cerámica"*, anota un cronista anónimo del lugar—; **no hay percepción de tiempo en ese estado**.
 - **Edificios solapados** con sus versiones pasada y futura — la lámina lo recoge.
-- **Relojes girando en ambos sentidos** — el reloj-cuerpo de [[Kronamon]] ya no administra.
+- **Relojes girando en ambos sentidos** — el reloj-cuerpo de [[Chronomon|Kronamon]] ya no administra.
 
 **La síntesis doctrinal**: **destrucción del continuum temporal**. *No es muerte de un dios*, **es muerte de la administración del Tiempo**; **el dios cae con el reloj porque era el reloj**.
 
@@ -54,7 +54,7 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 
 **El archivo no fija el culpable con seguridad**. **Hipótesis activas**:
 
-- **[[Kronamon]] / [[Chronomon]]** — *la cadena cronomántica del 1050-1120 desata la implosión*. **El reloj que el dios sostenía dejó de repartir**; *lo que cayó de un lado del vidrio faltaba del otro, y al final faltó del todo*.
+- **[[Chronomon|Kronamon]] / [[Chronomon]]** — *la cadena cronomántica del 1050-1120 desata la implosión*. **El reloj que el dios sostenía dejó de repartir**; *lo que cayó de un lado del vidrio faltaba del otro, y al final faltó del todo*.
 - **El Negro** — *fuerzas demoníacas que aprovechan la pérdida administrativa*.
 - **[[Huevo_Infernal]]** — *encubación de criatura apocalíptica como mecanismo del colapso*.
 - **[[Paradoja]] temporal creada por viajeros** — *los [[Cronoboys]] y los [[Time_Bandits]], al operar fuera de la administración legal del [[Palacio_del_Tiempo]], acumularon paradojas hasta el límite*.
@@ -63,7 +63,7 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 
 ## La consecuencia
 
-**Tras la implosión, París renace como [[NEO-PARIS_Ciudad_de_los_Tiempos|NEO-PARÍS, Ciudad de los Tiempos]]**: *refundación sobre el sitio del colapso, fuera del tiempo lineal*, **con portales temporales que conectan distintas eras**. **El colapso no es fin absoluto**: *es transición*. **El dios del Tiempo cayó**; **el cosmos siguió contando**, **aunque ya no con la mano de [[Kronamon]]-[[Chronomon]]**.
+**Tras la implosión, París renace como [[NEO-PARIS_Ciudad_de_los_Tiempos|NEO-PARÍS, Ciudad de los Tiempos]]**: *refundación sobre el sitio del colapso, fuera del tiempo lineal*, **con portales temporales que conectan distintas eras**. **El colapso no es fin absoluto**: *es transición*. **El dios del Tiempo cayó**; **el cosmos siguió contando**, **aunque ya no con la mano de [[Chronomon|Kronamon]]-[[Chronomon]]**.
 
 [*"Hay apocalipsis que terminan el mundo; hay apocalipsis que sólo terminan la administración del mundo. El de 1889 fue del segundo tipo, y por eso costó más entender qué se había acabado." — Glosa del libro V del [[Decadiano]].*]
 
@@ -75,8 +75,8 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 
 - [[Paris_Ucronica]] — escenario del colapso
 - [[NEO-PARIS_Ciudad_de_los_Tiempos|NEO-PARIS]] — ciudad reconstruida tras la implosión
-- [[Chronomon]] / [[Kronamon]] — entidad cosmológica responsable / sacrificada
-- [[Cronomon_Heredeth|Cronomon Heredeth]] — forma titánica posterior
+- [[Chronomon]] / [[Chronomon|Kronamon]] — entidad cosmológica responsable / sacrificada
+- [[Chronomon|Cronomon Heredeth]] — forma titánica posterior
 - [[Michel|Michel]] — quien articula la misión grupal de prevención
 - [[Cronoboys|Cronoputas]] — figuras que el archivo cataloga como acumulación de paradoja
 - [[Time_Bandits]] — grupo afectado por la cadena cronomántica
@@ -107,5 +107,5 @@ La lámina la fija en el instante del colapso: **paisaje Belle Époque de París
 
 <!-- CICLO -->
 > **Casas del ciclo** · ⏳ ✒
-> *El día que la administración del Tiempo dejó de repartir: [[Kronamon]] era el reloj y al caer el reloj, los viajeros dejan de reencarnar y los vivos quedan "como cerámica". El cronocidio no mata un mundo, mata la contabilidad del mundo —los [[Cronoboys]] y los [[Time_Bandits]] habían acumulado paradoja fuera del [[Palacio_del_Tiempo]] hasta el límite—. Que la glosa la firmen el [[Decadiano]] y el [[Arkos|archivero del Plata]], cada uno con su lectura del palimpsesto, es parte del evento: la voz que cuenta el colapso es interna al colapso.* — glosa del archivero del Plata.
+> *El día que la administración del Tiempo dejó de repartir: [[Chronomon|Kronamon]] era el reloj y al caer el reloj, los viajeros dejan de reencarnar y los vivos quedan "como cerámica". El cronocidio no mata un mundo, mata la contabilidad del mundo —los [[Cronoboys]] y los [[Time_Bandits]] habían acumulado paradoja fuera del [[Palacio_del_Tiempo]] hasta el límite—. Que la glosa la firmen el [[Decadiano]] y el [[Arkos|archivero del Plata]], cada uno con su lectura del palimpsesto, es parte del evento: la voz que cuenta el colapso es interna al colapso.* — glosa del archivero del Plata.
 <!-- /CICLO -->

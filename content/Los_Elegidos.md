@@ -10,11 +10,7 @@ aliases:
 
 ## Presentación
 
-Grupo aventurero.
-
-*Miembros:* **Dragomir Cortés**, **[[Mazada]]**, **[[Andrei]]**, **[[Deimon]]**
-
-*Nota:* [[Andrei]] ya tiene stub en Catálogo MC.
+Grupo de aventureros que el archivo reúne bajo este nombre. Lo componen [[Dragomir_Cortes|Dragomir Cortés]], [[Mazada]], [[Andrei]] y [[Deimon]].
 
 ## Ver también
 

@@ -23,4 +23,4 @@ aliases:
 
 ## Ver también
 
-- [[Muerte|Muerte]]
+- Muerte

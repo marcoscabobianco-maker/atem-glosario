@@ -16,7 +16,7 @@ aliases:
 
 **Forma:** Probablemente un hacha, por el contexto de armas medievales templarias.
 
-**[[Propiedades]]:** Se le asumen mágicas, por pertenecer a un jefe demoníaco.
+**Propiedades:** Se le asumen mágicas, por pertenecer a un jefe demoníaco.
 
 **Estado tras la jornada del falso Maestre:** Mencionada como posible trofeo —"el [[H_del_minotauro]] está en el piso, sí"—. No se aclara si el grupo la toma o queda atrás.
 
@@ -24,4 +24,4 @@ aliases:
 
 ## Ver también
 
-- [[Propiedades|Propiedades]]
+- Propiedades

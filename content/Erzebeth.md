@@ -22,7 +22,11 @@ Miembro del grupo anarquista. Ficha de personaje casi vacía en el guión: su ú
 
 ## Notas
 
-Nombre centroeuropeo (eco de Erzsébet Báthory). Erzebeth es **figura fundacional del archivo**. Después de la fase fundacional, Erzebeth se convierte en guardiana de la **[[Plataforma_Tauro|Plataforma de Tauro]]** y se retira del juego activo. La línea operativa continúa con **[[Maleika_Maleyka]]** como personaje nuevo. La sucesión Erzebeth → [[Maleika_Maleyka]] es transición de personaje dentro de la misma línea trans-gesta.
+Nombre centroeuropeo (eco de Erzsébet Báthory). Erzebeth es **figura fundacional del archivo**. Después de la fase fundacional, Erzebeth se convierte en guardiana de la **[[Plataforma_Tauro|Plataforma de Tauro]]** y se retira del juego activo. Así la retrata el archivo del Mundo Nuevo: ya transformada, una de las **dos guardianas imposibles** apostadas en la gesta.
+
+![[Imagenes_Tier1/Erzebeth_guardiana.png]]
+
+La línea operativa continúa con **[[Maleika_Maleyka]]** como personaje nuevo. La sucesión Erzebeth → [[Maleika_Maleyka]] es transición de personaje dentro de la misma línea trans-gesta.
 
 <!-- CICLO -->
 > **Casas del ciclo** · ⛓ ⟳ ◑

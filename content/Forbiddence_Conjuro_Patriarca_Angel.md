@@ -1,8 +1,10 @@
 ---
-title: "Forbiddence Conjuro (Patriarca/Ángel)"
-categoria: lugar
+title: "El Interdicto (Conjuro del Patriarca / Ángel)"
+categoria: concepto
 aliases:
- - "Forbiddence Conjuro (Patriarca/Ángel)"
+ - "El Interdicto (Conjuro del Patriarca / Ángel)"
+ - "Interdicto"
+ - "Forbiddence"
 ---
 
 <!-- HEADER_IMG -->
@@ -11,13 +13,6 @@ aliases:
 
 ## Presentación
 
-- **Componente activador:** [[Campana]] (objeto sagrado)
-- **Radio efectivo:** 120 pies
-- **Efectos múltiples:**
- 1. Santidad + moral
- 2. Castigo automático a todo ser caótico o malvado — pocos lo resisten entero
- 3. Los de voluntad más firme sufren solo la mitad del castigo
- 4. Expulsión planar (demonios)
- 5. [[Proteccion_Hechizo_de_Encantamiento|Protección]] contra mal (aura de bondad adicional)
-- **Duración:** No especificada (presumiblemente mientras dura la concentración del oficiante)
-- **Alcance:** Golpea a múltiples blancos simultáneamente
+El **Interdicto** es la veda sagrada que el [[Patriarca]] —o el ángel que obra por él— pronuncia sobre un recinto. Se enciende con la [[Campana]] como objeto activador y tiende su radio a unos ciento veinte pies a la redonda.
+
+Dentro de ese círculo, todo se vuelve contra lo profano: la santidad sostiene la moral de los justos; todo ser caótico o malvado recibe un castigo automático que pocos resisten enteros —solo los de voluntad más firme lo padecen a medias—; los demonios son arrojados de vuelta a su plano; y sobre los protegidos cae un aura de bondad que los escuda del mal. Su veda dura mientras el oficiante sostiene la concentración, y golpea a la vez a cuantos profanos haya bajo su sombra.

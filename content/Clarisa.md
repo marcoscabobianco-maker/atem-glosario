@@ -139,3 +139,12 @@ contexto en que Arcoms pierde su torre y su hija queda desprotegida.
 - [[Laveth|Laveth]]
 - [[Elisteo|Elisteo]]
 - [[Minaya|Minaya]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuentes del archivo:** MC_LINEA_TEMPORAL (1354, 1375, 1377 DR); C50 p.42 (esquema de quest); C50 p.167 (diseño narrativo); INDICE C21 y C25; Memorias de Amitlai (el archivo). Variantes de grafía: "Clarissa" en MC_LINEA_TEMPORAL y C50 p.42; "Clarisa" en INDICE C21/C25 y C50 p.167.
+- **El pez globo:** un registro oral de dic 2010 pregunta por "el pez globo... cómo era la historia?" asociado a Clarisa. Respuesta del GM: "lo del pez globo no estaba escrito. Lo extraeré de mis cuadernos luego." Material oral pendiente de minería en los cuadernos.

@@ -31,7 +31,7 @@ imagen: null
 
 ## La facción *(voz del Decadiano)*
 
-**El Culto de Set** —*"Culto de Tod-Set"* en grafía sincrética del aparato decadiano archonteo, *"Cultistas de Set"* en boca de los [[Buscadores_de_Ardis_Vala|Buscadores]] que los enfrentan— **es facción mayor del aparato imperial corrupto** *operando desde el [[Forum_de_Set]], en el [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]*. **Su rol cosmológico**: **culto al polo oscuro de la dualidad imperial archontea**, *funcionalmente complementario al culto mitráico de luz y juramento*; **operación del orden imperial en su faceta de destrucción cíclica y renovación violenta**.
+**El Culto de Set** —*"Culto de Tod-Set"* en grafía sincrética del aparato decadiano archonteo, *"Cultistas de Set"* en boca de los [[Buscadores_de_Ardis_Vala|Buscadores]] que los enfrentan— **es facción mayor del aparato imperial corrupto** *operando desde el [[Forum_de_Set]], en el [[Mega_Dungeon_Arden_Vul|mega-mazmorra de Ardisvala]]*. **Su rol cosmológico**: **culto al polo oscuro de la dualidad imperial archontea**, *funcionalmente complementario al culto mitráico de luz y juramento*; **operación del orden imperial en su faceta de destrucción cíclica y renovación violenta**.
 
 *La doctrina interna del culto*:
 
@@ -44,7 +44,7 @@ imagen: null
 
 ## Las figuras del culto
 
-**[[Marius_Urianius]]** *(figura sacerdotal mayor del [[Forum_de_Set]])* **opera como cabeza visible del culto en el ciclo presente del mega-dungeon**. *Otros operadores documentados*:
+**[[Marius_Urianius]]** *(figura sacerdotal mayor del [[Forum_de_Set]])* **opera como cabeza visible del culto en el ciclo presente del mega-mazmorra**. *Otros operadores documentados*:
 
 - **Estefanía** *(Sanzorotita Estefanía, figura ritual menor del Forum)* — *cuerpo sacerdotal subalterno con doctrina específica*.
 - **Melisario** *(figura aliada del culto en el aparato del Forum)* — *operador de liturgia secundaria*.
@@ -59,7 +59,7 @@ imagen: null
 
 ## El Forum de Set como sede
 
-**El [[Forum_de_Set]]** —*templo hipogeo del mega-dungeon de Ardisvala*— **es sede arquitectónica central del culto**. *Su estructura*: **gran sala hipostila con bajorrelieves de Set en operación cíclica**, *altar central con doctrina específica del polo oscuro*, **sub-niveles laterales para liturgia menor**, **acceso a los niveles inferiores donde la operación oscura se prolonga**.
+**El [[Forum_de_Set]]** —*templo hipogeo del mega-mazmorra de Ardisvala*— **es sede arquitectónica central del culto**. *Su estructura*: **gran sala hipostila con bajorrelieves de Set en operación cíclica**, *altar central con doctrina específica del polo oscuro*, **sub-niveles laterales para liturgia menor**, **acceso a los niveles inferiores donde la operación oscura se prolonga**.
 
 *La doctrina cosmológica del Forum*: **es la casa cuarta del cristal de plataformas zodiacales** *(en el apilamiento de Ardisvala como cristal cosmológico)*; **corresponde funcionalmente a [[Plataforma_Cancer]]** *(la casa del caparazón y las aguas profundas)*. **La doctrina interna del culto sostiene que Set opera con doctrina cancerina** *(el caparazón es metáfora del polo oscuro que protege al mundo)*.
 
@@ -67,7 +67,7 @@ imagen: null
 
 ## El enfrentamiento con los Buscadores
 
-**Los [[Buscadores_de_Ardis_Vala]]** *durante su descenso por el mega-dungeon* **enfrentaron al culto en operación de saqueo del templo de Set**. **Episodio doctrinal mayor**: *el saqueo del templo, recuperación de artefactos rituales*, *enfrentamiento con [[Marius_Urianius]] y figuras menores*, *salida con artefactos imperiales del archivo del culto*.
+**Los [[Buscadores_de_Ardis_Vala]]** *durante su descenso por el mega-mazmorra* **enfrentaron al culto en operación de saqueo del templo de Set**. **Episodio doctrinal mayor**: *el saqueo del templo, recuperación de artefactos rituales*, *enfrentamiento con [[Marius_Urianius]] y figuras menores*, *salida con artefactos imperiales del archivo del culto*.
 
 *Las consecuencias*:
 
@@ -96,10 +96,10 @@ imagen: null
 
 - **Fase imperial archontea sostenida** — operación cultual continuada en el Forum
 - **Período del Hiato de Ardisvala** — operación clandestina sin disrupción mayor
-- **Descenso de los Buscadores al mega-dungeon** — saqueo del templo, enfrentamiento con Marius Urianius
+- **Descenso de los Buscadores al mega-mazmorra** — saqueo del templo, enfrentamiento con Marius Urianius
 - **Post-saqueo (ciclo presente)** — culto en operación de venganza ritual diferida
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷ ◑
-> *El culto vive en la profundidad: el [[Forum_de_Set]] es templo hipogeo del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]], con sub-niveles que prolongan la operación oscura hacia abajo y que la doctrina lee como la casa cuarta del cristal, la de [[Plataforma_Cancer|Cáncer]] —el caparazón. Y al enemigo no se lo vence: [[Marius_Urianius]] sobrevive al saqueo de los [[Buscadores_de_Ardis_Vala|Buscadores]] y se guarda en venganza ritual diferida, esperando su época como quien aguarda en crisálida bajo el polo oscuro de [[Tod_Set|Set]].* — glosa del Decadiano.
+> *El culto vive en la profundidad: el [[Forum_de_Set]] es templo hipogeo del [[Mega_Dungeon_Arden_Vul|mega-mazmorra de Ardisvala]], con sub-niveles que prolongan la operación oscura hacia abajo y que la doctrina lee como la casa cuarta del cristal, la de [[Plataforma_Cancer|Cáncer]] —el caparazón. Y al enemigo no se lo vence: [[Marius_Urianius]] sobrevive al saqueo de los [[Buscadores_de_Ardis_Vala|Buscadores]] y se guarda en venganza ritual diferida, esperando su época como quien aguarda en crisálida bajo el polo oscuro de [[Tod_Set|Set]].* — glosa del Decadiano.
 <!-- /CICLO -->

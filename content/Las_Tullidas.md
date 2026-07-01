@@ -23,7 +23,7 @@ Las Tullidas son un grupo de cuatro mujeres torturadas y mutiladadas mágicament
 
 Tras esta gesta inicial, completaron varios viajes y misiones: visitaron la Biblioteca de los Espejos, derrotaron a Moloch en [[Baator]] mediante la [[Escalera_Infinita]], y posteriormente tomaron control de la **[[Taberna_de_la_Serpiente_Mundo|Taberna de la Serpiente Mundo]]** después de que [[Monaco|Mónaco]] transformara a [[Cronos]] (titán propietario original) en un gato. La taberna funcionó como su base operativa hasta que fue destruida por la [[Marcha_de_los_Modrones]]. Su última misión conocida fue para [[Grazzt|Graz'zt]]: recuperar el [[Amuleto_de_los_Planos]].
 
-*Miembros canónicos (Taller de Rol):* **[[Luquimia]]**, **Chan**, **[[Liddha]]**, **Mónaco**. Aliada: **Mina**. Compañero: **[[Hannok]]**.
+*Miembros canónicos:* **[[Luquimia]]**, **Chan**, **[[Liddha]]**, **Mónaco**. Aliada: **Mina**. Compañero: **[[Hannok]]**.
 
 *Miembros documentados (Google Site megacamp):* **X (Malta)**, **Luquimia**, **Chan**, **[[Samsara]]**, **Mónaco**, **[[Hannok]]**
 

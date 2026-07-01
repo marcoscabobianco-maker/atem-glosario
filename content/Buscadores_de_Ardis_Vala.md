@@ -22,7 +22,7 @@ imagen: null
 
 > *"Se llaman a sí mismos buscadores no porque hayan encontrado algo, sino porque saben que lo que vinieron a buscar todavía no está donde están mirando."*
 
-Posada de [[Estellara]], hace un mes. Cinco viajeros tomando vino caliente, [[Decio_Balmora|Decio]] el sexto, dos almas más al rincón anotando en libreta —Arkos entre ellas, recién contratado—. La conversación pasa de la cosecha local al estado de [[Valdemora]] y termina, como termina siempre últimamente, en el [[Palacio_del_Prisma]]. **No están de acuerdo sobre qué hacer.** Ninguno levanta la voz. Se separan a dormir sin haber decidido. *Al día siguiente, igual, descienden.* **Esta es su disciplina operativa.Los Buscadores de Ardis Vala** son **el grupo de aventureros centrales** del ciclo del [[Vala|mundo Vala]] en su fase actual —**la fase del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]** y, después del [[Hiato_15_Años_Ardis_Vala|Hiato]], **la fase de [[Valakhan_de_la_Bruma|Valakhan de la Bruma]]**—. **Heterogéneos por raza, clase y temperamento**, **unidos por la imposibilidad de irse del valle**, **a esta altura por costumbre tanto como por destino**.
+Posada de [[Estellara]], hace un mes. Cinco viajeros tomando vino caliente, [[Decio_Balmora|Decio]] el sexto, dos almas más al rincón anotando en libreta —Arkos entre ellas, recién contratado—. La conversación pasa de la cosecha local al estado de [[Valdemora]] y termina, como termina siempre últimamente, en el [[Palacio_del_Prisma]]. **No están de acuerdo sobre qué hacer.** Ninguno levanta la voz. Se separan a dormir sin haber decidido. *Al día siguiente, igual, descienden.* **Esta es su disciplina operativa.Los Buscadores de Ardis Vala** son **el grupo de aventureros centrales** del ciclo del [[Vala|mundo Vala]] en su fase actual —**la fase del [[Mega_Dungeon_Arden_Vul|mega-mazmorra de Ardisvala]]** y, después del [[Hiato_15_Años_Ardis_Vala|Hiato]], **la fase de [[Valakhan_de_la_Bruma|Valakhan de la Bruma]]**—. **Heterogéneos por raza, clase y temperamento**, **unidos por la imposibilidad de irse del valle**, **a esta altura por costumbre tanto como por destino**.
 
 ## Composición
 
@@ -32,19 +32,19 @@ Posada de [[Estellara]], hace un mes. Cinco viajeros tomando vino caliente, [[De
 - **[[Valerius_Utrecht|Valerius Utrecht]]** — paladín/inquisidor de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]], *"Primer Caballero"* según el bibliotecario del Papa. Carga la espada compañera de [[Ardipithecus|Ardipithecus / Graz'zt-proto]] obtenida por pacto con [[Labresu]]. Fiebre blanca incipiente.
 - **[[Sixto_Guido]]** — guerrero humano, presencia intermitente, homónimo del noble que se transformó en [[Papa_Alejandro_Sixto|Papa Alejandro VI]]. **La coincidencia del nombre todavía no se ha resuelto**.
 - **[[Melvino_Calvino]]** — pingüinoide tecnológico, interfaz natural con las inteligencias rudishva.
-- **[[El_Druida_Rodrigo]]** — humano, llegado tarde al grupo, primer druida convertido en vampiro y muerto en el Templo de Thoth durante el Hiato.
+- **[[Numa_Pompidio|Numa Pompilio]]** — humano, llegado tarde al grupo, primer druida convertido en vampiro y muerto en el Templo de Thoth durante el Hiato.
 - **[[Decio_Balmora]]** — Montaraz de [[Valdemora]], ex-Lord de [[Ciudadela_Sin_Sol]], viudo de [[Bellaca|Lali]]. **Anexado al grupo en el regreso** como guía del valle.
 - **[[Argus_PJ|Argus]]** — Barón de [[Ritornello]], paradigma caído. **No integrante activo del grupo** sino noble cercano al Papa, presencia tutelar más que operativa.
 
 ## La condición del regreso
 
-**El grupo cerró su ciclo primero** sin haber agotado el mega-dungeon. **Lo siguió el Hiato**. Cuando regresaron, **el valle ya no era el valle**: la bruma lo cerraba, los pueblos sobrevivían en estado de fiebre blanca, [[Ritornello]] estaba arrasada, [[Caladan]] era darklord, el [[Palacio_del_Prisma]] había ascendido al [[Papa_Alejandro_Sixto|Papa Alejandro VI]]. **Los Buscadores aceptaron las novedades con la disciplina de los que ya habían visto cambiar mundos**. Empezaron por bajar a [[Valdemora]]. No han parado de bajar desde entonces.
+**El grupo cerró su ciclo primero** sin haber agotado el mega-mazmorra. **Lo siguió el Hiato**. Cuando regresaron, **el valle ya no era el valle**: la bruma lo cerraba, los pueblos sobrevivían en estado de fiebre blanca, [[Ritornello]] estaba arrasada, [[Caladan]] era darklord, el [[Palacio_del_Prisma]] había ascendido al [[Papa_Alejandro_Sixto|Papa Alejandro VI]]. **Los Buscadores aceptaron las novedades con la disciplina de los que ya habían visto cambiar mundos**. Empezaron por bajar a [[Valdemora]]. No han parado de bajar desde entonces.
 
 [*El grupo "está en la lista" del Papa desde el regreso. La naturaleza exacta de la lista no se ha clarificado. Se sospecha juicio, se sospecha conscripción, se sospecha contrato. Las tres cosas, en el aparato del [[Decadiano]], **suelen coincidir**. —Anot. del [[Arkos|archivero del Plata]], libreta corriente.*]
 
 ## Vínculos
 
-- [[Mega_Dungeon_Arden_Vul|Ardisvala (mega-dungeon)]] — escenario principal
+- [[Mega_Dungeon_Arden_Vul|Ardisvala (mega-mazmorra)]] — escenario principal
 - [[Valakhan_de_la_Bruma|Valakhan]] — dominio del regreso
 - [[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]] — interrupción entre corridas
 - [[Papa_Alejandro_Sixto|Papa Alejandro VI]] — autoridad bajo la que ahora operan
@@ -58,7 +58,7 @@ Posada de [[Estellara]], hace un mes. Cinco viajeros tomando vino caliente, [[De
 
 ## Apariciones
 
-- **Ciclo primero del valle** — exploración del mega-dungeon de Ardisvala desde su superficie hasta los sub-niveles medios
+- **Ciclo primero del valle** — exploración del mega-mazmorra de Ardisvala desde su superficie hasta los sub-niveles medios
 - **Fase media del ciclo primero** — decapitación de Malakita por Alumine en la cámara hiperbárica del Sub-Nivel décimo; toma de la Orden de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]
 - **Fase tardía del ciclo primero** — operaciones en los sub-niveles profundos; cierre de la primera estancia en el valle
 - **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — el grupo no opera; el valle cambia bajo bruma y fiebre blanca
@@ -69,5 +69,5 @@ Posada de [[Estellara]], hace un mes. Cinco viajeros tomando vino caliente, [[De
 
 <!-- CICLO -->
 > **Casas del ciclo** · ⛓ ☷ ◑
-> *Banda bautizada por lo que aún no halló —[[Caladan]], [[Alumine]], [[Valerius_Utrecht|Valerius]], [[Bayrum_Cristalia|Bayrum]]— que no puede salir del valle: desciende por el [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]] sin parar de bajar, estrato tras estrato. Y a [[Master_Malakita|Malakita]] lo decapitó [[Alumine]] sin vencerlo: volvió como [[Caladan]] darklord, porque al que se guarda no se lo mata, se lo demora. Lo que B leyó como la banda con sigla (AKB-J.1) cruza acá con el que espera en crisálida.* — glosa del archivero del Plata.
+> *Banda bautizada por lo que aún no halló —[[Caladan]], [[Alumine]], [[Valerius_Utrecht|Valerius]], [[Bayrum_Cristalia|Bayrum]]— que no puede salir del valle: desciende por el [[Mega_Dungeon_Arden_Vul|mega-mazmorra de Ardisvala]] sin parar de bajar, estrato tras estrato. Y a [[Master_Malakita|Malakita]] lo decapitó [[Alumine]] sin vencerlo: volvió como [[Caladan]] darklord, porque al que se guarda no se lo mata, se lo demora. Lo que B leyó como la banda con sigla (AKB-J.1) cruza acá con el que espera en crisálida.* — glosa del archivero del Plata.
 <!-- /CICLO -->

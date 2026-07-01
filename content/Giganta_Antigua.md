@@ -22,8 +22,11 @@ tags:
  - liberada-por-peregrinos
  - aplastadora-papa-borg
  - estela-ceniza-dorada
-imagen: null
+imagen: Imagenes_Tier1/Giganta_Antigua.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Giganta_Antigua.png]]
+<!-- /HEADER_IMG -->
 
 > *"Aquella entidad colosal —nacida de las antiguas deidades volcánicas y protectoras del orden natural— había sido apresada desde tiempos remotos."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

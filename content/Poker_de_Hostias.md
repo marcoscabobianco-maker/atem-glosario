@@ -20,7 +20,7 @@ aliases:
 
 ## Presentación
 
-[[Evento]] clave en la fase de París. Híbrido entre juego de cartas y ritual de tortura. El grupo tortura cautivos (Gran Inquisidor, [[Verdugo_Monsieur_David|Verdugo]]) mientras "juega." Cada mano/carta invoca efectos sobrenaturales o fuerza revelaciones. Resultado: el grupo cruza una frontera moral convirtiéndose en torturadores. Revelación clave: el grupo está siendo observado y "marcado" por un **[[Jerarca]]** (jerarquía oculta).
+Evento clave en la fase de París. Híbrido entre juego de cartas y ritual de tortura. El grupo tortura cautivos (Gran Inquisidor, [[Verdugo_Monsieur_David|Verdugo]]) mientras "juega." Cada mano/carta invoca efectos sobrenaturales o fuerza revelaciones. Resultado: el grupo cruza una frontera moral convirtiéndose en torturadores. Revelación clave: el grupo está siendo observado y "marcado" por un **[[Jerarca]]** (jerarquía oculta).
 
 Conecta con la entrada existente del glosario donde [[Magda]] invoca dos presencias durante el poker, una de ellas la [[Kimchi_Princess|Princesa Kimchi]] (Q♥).
 
@@ -30,7 +30,7 @@ Conecta con la entrada existente del glosario donde [[Magda]] invoca dos presenc
 
 > *"El póker de hostias fue una actividad blasfema y de alto riesgo arcano que se llevó a cabo en una cripta cerca de la Bastilla en París en una serie no especificada de domingos o lunes a la madrugada. Las invitaciones eran repartidas a personalidades en auge por correo de sirviente aéreo. El ganador absoluto fue [[Oratiol]]. Hay quienes dicen que el precio de su participación fue aceptar un pacto con las autoridades diabólicas de [[Catedral_de_Notre-Dame_PU|Notre Dame]]."*
 
-### Mecánica blasfema: hostias → guardianes; almas → hostias
+### El mecanismo blasfemo: hostias → guardianes; almas → hostias
 
 *"Se apuestan hostias que hacen guardianes, se compran con almas intensas."* La cadena operativa:
 

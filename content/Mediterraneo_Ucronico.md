@@ -49,7 +49,7 @@ Cuerpo de agua euromediterráneo entre Europa, África, y Asia Menor. Ruta de na
 - Rutas secundarias: evitar puertos principales, tránsito fluvial hacia [[Bucarest_Ucronica|Bucarest]] via Danubio o tributarios.
 
 **Peligros / Incidentes:**
-- Ataque de **[[Naga_acuatica|Naga acuática]]** (criatura serpentina de tamaño considerable, capacidades hipnóticas).
+- Ataque de **Naga acuática** (criatura serpentina de tamaño considerable, capacidades hipnóticas).
 - Batalia en cubierta: [[Corvino]] encantado, [[Swan]]/[[Claude_Nauge|Claude]]/[[Philip]]/Aby en combate directo.
 - Victoria después de disparo crítico; preservación de cuerpo/cabeza en salmuera.
 
@@ -66,7 +66,7 @@ El Mediterráneo en [[Paris_Ucronica|París Ucrónica]] no es meramente océano 
 
 ## Ver también
 
-- [[Naga_acuatica|Naga acuática]]
+- Naga acuática
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷ ☯

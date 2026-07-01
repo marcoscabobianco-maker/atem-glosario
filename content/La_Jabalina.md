@@ -54,7 +54,7 @@ imagen: null
 | 2 | **[[Ayrton_Auslander|Ayrton]]** | Ladrón de Dagas Rápidas | *[[Ayrton_Auslander|La mano más veloz de Caldero]]*, sonrisa antes del botín, [[Bazar_de_la_Vida]] |
 | 3 | **[[Fogimer|Foggimer]]** | Clérigo de la Luz | *[[Fogimer|La chispa que ilumina el camino]]*, justicia y amor por la gente humilde, [[Temporada_de_Inundaciones]] |
 | 4 | **[[Teo_Paladin_Sin_Brazo|Teo]]** | Paladín Sin Brazo | *[[Teo_Paladin_Sin_Brazo|El sacrificio hecho carne]]*, brazo perdido rescatando a un compañero, profecía [[Cageewrights]] |
-| 5 | **[[Lucky]]** | Caballero de la [[Sagrada_Orden]] | *Smites que retumban en el cielo*, nombre real reservado, linaje vinculado con Arian |
+| 5 | **[[Lucky]]** | Caballero de la [[Sagrada_Orden]] | *Castigos sagrados que retumban en el cielo*, nombre real reservado, linaje vinculado con Arian |
 | 6 | **[[Belicio]]** | Guerrero Siempre Gostoso | *Fuerza, bravura y sonrisa seductora*, frase de combate "¡Belleza!", taberna [[Bastardo_Cromas]] |
 | 7 | **[[Tony_Malatesta|Tony]]** | Mago de Ideas Extrañas | *[[Tony_Malatesta|El maestro de la diplomacia arcana]]*, negocia con vampiros, conjuros de adivinación y control |
 | 8 | **[[Vitalis|El Hechicero del Río Blackwater]]** | Hechicero del Tiempo | *Especias del tiempo y magia fluida*, [[Casa_Azul_de_Vala]], sangre Taylor + [[Thalia_Cristalia]], recién incorporado |

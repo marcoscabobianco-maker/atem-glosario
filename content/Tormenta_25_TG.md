@@ -4,7 +4,7 @@ título: "Tormenta 25 — el diluvio y el congelamiento de Torregrises"
 slug: Tormenta_25_TG
 aliases:
  - Tormenta 25
- - Tormenta 25 (TG)
+ - Tormenta 25 (Torregrises)
  - el diluvio del cierre
  - el congelamiento de Camelot
 categoria_diegetica: evento

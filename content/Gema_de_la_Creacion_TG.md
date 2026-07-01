@@ -1,10 +1,10 @@
 ---
-title: "Gema de la Creación (TG)"
-título: "Gema de la Creación (TG)"
+title: "Gema de la Creación"
+título: "Gema de la Creación"
 slug: Gema_de_la_Creacion_TG
 categoria: artefacto
 aliases:
- - Gema de la Creación (TG)
+ - Gema de la Creación (Torregrises)
  - Gema TG
 tags:
  - artefacto
@@ -25,7 +25,7 @@ tags:
 
 La **[[Gema_de_la_Creacion|Gema de la Creación]] en su faceta [[Torregrises]]** es la **variante TG** del artefacto cosmogónico cuya entrada principal es **[[Gema_de_la_Creacion]]**. La pieza es estructuralmente la misma —**rubí cosmogónico, punta de lanza, secreto de un universo**— pero su trayectoria, sus portadores y su geografía pertenecen al ciclo propio de **[[Torregrises]]**.
 
-En la *Cosmogonía Gris* —fuente primaria del ciclo TG— la Gema aparece como **el artefacto supremo**. **[[Corona_activacion_desconocida|Corona]] la lanza de [[Minaya_TG|Minaya (TG)]]** y **fue el artefacto central del acto creador del ciclo TG** *(el agente creador específico no figura nombrado en las fuentes primarias verificadas; el archivo conserva el acto pero no asigna el rol con seguridad)*. La fórmula del archivo TG es directa: *"artefacto mágico y no mágico a la vez que encierra el secreto de todo un nuevo Universo"*. Su origen es de creación, su destino es de creación, su función es de creación.
+En la *Cosmogonía Gris* —fuente primaria del ciclo TG— la Gema aparece como **el artefacto supremo**. **[[Corona_activacion_desconocida|Corona]] la lanza de [[Minaya_TG|Minaya (Torregrises)]]** y **fue el artefacto central del acto creador del ciclo TG** *(el agente creador específico no figura nombrado en las fuentes primarias verificadas; el archivo conserva el acto pero no asigna el rol con seguridad)*. La fórmula del archivo TG es directa: *"artefacto mágico y no mágico a la vez que encierra el secreto de todo un nuevo Universo"*. Su origen es de creación, su destino es de creación, su función es de creación.
 
 ### Custodiada en el volcán de Arcacto
 
@@ -38,11 +38,11 @@ La *Cosmogonía Gris* conserva la profecía: **cuando las tierras de fuego sean 
 ## Vínculos
 
 - [[Gema_de_la_Creacion|Gema de la Creación]] (ciclo) — la entrada principal del artefacto trans-gesta
-- [[Minaya_TG|Minaya (TG)]] — porta la lanza coronada por la Gema
+- [[Minaya_TG|Minaya (Torregrises)]] — porta la lanza coronada por la Gema
 
-- [[Arcacto_TG|Arcacto (TG)]] — volcán que la custodia
+- [[Arcacto_TG|Arcacto (Torregrises)]] — volcán que la custodia
 - [[Torregrises]] — el ciclo donde opera
-- [[Universo_Dual_TG|Universo Dual (TG)]] — el orden cosmológico
+- [[Universo_Dual_TG|Universo Dual (Torregrises)]] — el orden cosmológico
 - [[Franja_de_la_Disolucion_TG|Franja de Disolución]] — el límite cuyo cumplimiento la profecía requiere
 - [[Guardianes]] — la categoría cuyos dos enfrentados deben unirse según la profecía
 - *Cosmogonía Gris* — fuente primaria del ciclo TG

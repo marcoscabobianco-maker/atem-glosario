@@ -34,3 +34,12 @@ El nombre evoca a Eliseo bíblico (profeta, sucesor de Elías) — posible reson
 ## Ver también
 
 - [[Amitlai|Amitlai]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuentes del archivo:** C19 líneas 42-60 (2004, gesta en Tebas: muerte del Faraón); C21 (2005-06, arco de Amitlai); Calendario merged.doc (encuentro en Babilonia; origen en l.90); Catálogo MC (stub).
+- **Registro oral (dic 2010):** se pregunta "cómo resultó ser el hijo de ellos y Elisteo qué onda." El "de ellos" podría referir a la pareja Clarisa (II) + Minaya (padres de Elisteo, 1349 DR) u otra relación; el "hijo" y el "pez globo" de Clarisa podrían estar conectados. Pendiente aclaración.

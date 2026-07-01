@@ -21,8 +21,11 @@ tags:
  - sagrada-orden
  - ong-pobres-huerfanos
  - vinculo-trece
-imagen: null
+imagen: Imagenes_Tier1/Teo_Paladin_Sin_Brazo.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Teo_Paladin_Sin_Brazo.png]]
+<!-- /HEADER_IMG -->
 
 > *"El brazo perdido por una buena causa ahora es un símbolo de perseverancia y fe dentro del grupo (y también una ONG para pobres niños deshauciados). Su vínculo con la [[Sagrada_Orden]] lo ha colocado en el centro de las profecías relacionadas con los [[Cageewrights]]."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

@@ -83,5 +83,5 @@ imagen: Imagenes_Tier1/Argivah.png
 ## Apariciones
 
 - **Presente continuo del eje Torregrises** — reino bajo la Gran Mano
-- **Episodios documentados del Taller de Rol** — operaciones de los Sabasios, caída de [[Delgrante]], persecución de la Sagrada Orden
+- **Episodios documentados del archivo** — operaciones de los Sabasios, caída de [[Delgrante]], persecución de la Sagrada Orden
 - **Sociedad de Torregrises (C14)** — descripción del régimen y de sus efectos

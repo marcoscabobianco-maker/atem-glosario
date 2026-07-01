@@ -101,7 +101,7 @@ Otras líneas del archivo absorben la Gema con peso narrativo propio:
 - [[Gran_Khan]] — portador de dos porciones en el Torneo
 - [[Lotario]] — receptor mitologizado de la Gema
 - [[Arian]] — entregador mitologizado de la Gema
-- [[Gema_de_la_Creacion_TG|Gema de la Creación (TG)]] — variante [[Torregrises]] de la cosmogonía
+- [[Gema_de_la_Creacion_TG|Gema de la Creación (Torregrises)]] — variante [[Torregrises]] de la cosmogonía
 - [[La_Jabalina|La Jabalina]] — gesta que retoma el hilo en [[Caldero]]
 
 ## Apariciones

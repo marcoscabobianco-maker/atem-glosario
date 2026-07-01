@@ -92,7 +92,7 @@ imagen: Imagenes_Tier1/Amitlai.png
 
 ## La parte babilónica y la parte egipcia
 
-**El arco babilónico** —**"La Puerta del Cielo"**, primera parte de las *Memorias de Amitlai* en el archivo del Taller— **la coloca como Sarai**, dada en matrimonio a **Nimrod/Teraj**. *Vive los últimos días de Babilonia bajo el asedio de Abraham/Abram*; **escapa a Egipto con [[Hircano]]**. *Conoce al Faraón Mentuhotep*.
+**El arco babilónico** —**"La Puerta del Cielo"**, primera parte de las *Memorias de Amitlai* en el archivo— **la coloca como Sarai**, dada en matrimonio a **Nimrod/Teraj**. *Vive los últimos días de Babilonia bajo el asedio de Abraham/Abram*; **escapa a Egipto con [[Hircano]]**. *Conoce al Faraón Mentuhotep*.
 
 **El arco egipcio** —segunda parte, **[[Islaire]]**— **la envía a infiltrar la nueva ciudad de [[Islaire]]** por orden del Faraón. **Allí encuentra a [[Frome]], a Bazim-Gorag 'el sanguinario', a [[Latromis]] y a [[Arcoms_Cosmar|Arcoms Cosmar]]**. *Envía cartas a Mentuhotep describiendo la situación política*.
 
@@ -112,7 +112,7 @@ imagen: Imagenes_Tier1/Amitlai.png
 
 **Amitlai aparece doblemente referenciada como hija de [[Maristo]] de Agua Profunda** —*"padre adoptivo"*, según las *Memorias* en su Primera parte— **y como hija biológica del [[Senor_de_los_Gatos_el_Unico|Señor de los Gatos]]** —tras la mordida que engendra a [[Agatha]]—. *Algunos archivos también consignan a [[Kosuth_TG|Kosuth]] como posible padre*; la cuestión no se ha cerrado.
 
-**Embarazo del dragón Red**: el archivo del Taller la registra *"doblemente embarazada por el dragón Red"* en pleno conflicto con el Faraón. **La conflagración de paternidades** —dragón, padre adoptivo, señor felino, kosuth— **es propia de la biografía mítica que el Calendario tampoco consigue ordenar**, *y por eso Amitlai la deja sin ordenar*.
+**Embarazo del dragón Red**: el archivo la registra *"doblemente embarazada por el dragón Red"* en pleno conflicto con el Faraón. **La conflagración de paternidades** —dragón, padre adoptivo, señor felino, kosuth— **es propia de la biografía mítica que el Calendario tampoco consigue ordenar**, *y por eso Amitlai la deja sin ordenar*.
 
 [*El cronista anota que la doble paternidad en el mito antiguo no es excepción: es regla. Heracles tuvo a Anfitrión y a Zeus. Romulo y Remo tuvieron pastor y dios. Amitlai tuvo lo que tuvo. — Glosa atribuida al [[Pablo_de_Alejandria|Paulus]] en margen del Calendario.*]
 

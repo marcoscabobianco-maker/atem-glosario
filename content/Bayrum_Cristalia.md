@@ -31,7 +31,7 @@ tags:
 
 ### Oficio: Escriba, séptimo grado de su temple
 
-**Escriba** —escriba/sacerdote, en el contexto [[Ardis_Vala|Arden Vul]] **sacerdote de Thoth con poderes de hechicero**—. Es **híbrido sacerdote/mago**: los registros lo muestran **acelerando el paso de los suyos** y **multiplicando su imagen en espejismos** (artes arcanas) junto a **deshacer maldiciones** (don sacerdotal). La doble corriente arcana/divina es estructural de la figura, no recurso eventual. La función social: **el grupo lo conoce por función ("el sacerdote de Thoth") más que por nombre**.
+**Escriba** —escriba/sacerdote, en el contexto [[Ardis_Vala|Ardis Vala]] **sacerdote de Thoth con poderes de hechicero**—. Es **híbrido sacerdote/mago**: los registros lo muestran **acelerando el paso de los suyos** y **multiplicando su imagen en espejismos** (artes arcanas) junto a **deshacer maldiciones** (don sacerdotal). La doble corriente arcana/divina es estructural de la figura, no recurso eventual. La función social: **el grupo lo conoce por función ("el sacerdote de Thoth") más que por nombre**.
 
 ### Política: Sortiano sin declaración
 
@@ -54,5 +54,5 @@ Junto con **[[Alumine_Manwe_Finwe|Alúmine]]** y **[[Caladan]]**, Bayrum forma p
 
 ## Apariciones
 
-- [[Ardis_Vala|Arden Vul]] —, parte del núcleo del grupo
+- [[Ardis_Vala|Ardis Vala]] —, parte del núcleo del grupo
 - Jornadas siguientes — activo

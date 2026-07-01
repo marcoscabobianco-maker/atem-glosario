@@ -19,8 +19,11 @@ tags:
  - compilado-gacetilla
  - testigo-ocular
  - voz-narrativa-mayor
-imagen: null
+imagen: Imagenes_Tier1/Mascor_Blancarba.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mascor_Blancarba.png]]
+<!-- /HEADER_IMG -->
 
 > *"Mi nombre es Mascor Blancarba, y hace más de un año dejé mi hogar en la [[Ciudad_Estrella]], un lugar que tras doce ciclos ha logrado sacudirse el yugo de la teocracia y sorprender al mundo con sus avances en la llamada 'revolución mágico-industrial.'"* — *[[Crónica_de_un_Visitante_Curioso]]*.
 

@@ -1,5 +1,5 @@
 ---
-title: "Sadi y Madi (TG)"
+title: "Sadi y Madi (Torregrises)"
 categoria: personaje
 tags:
  - "personaje"
@@ -8,7 +8,7 @@ tags:
  - "liceo-sabasio"
  - "guardianas"
 aliases:
- - "Sadi y Madi (TG)"
+ - "Sadi y Madi (Torregrises)"
  - "TG"
  - "Sadi y Madi"
 ---

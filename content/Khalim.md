@@ -33,7 +33,7 @@ Es uno de los rostros que el ciclo final de Antiterra hereda de Ciudades Invisib
 ## Vínculos
 
 - [[Mediterraneum]] — su origen
-- [[Ciudades_Invisibles_campana|Ciudades Invisibles]] — su gesta central
+- [[Ciudades_Invisibles|Ciudades Invisibles]] — su gesta central
 - [[Luca_CI|Luca]] — compañero de gesta, al que ayuda a rescatar
 - [[Sisi]] — vinculada por el wish genético
 - [[Grazzt|Graz'zt]] — el demonio al que pide compartir paternidad

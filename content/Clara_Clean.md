@@ -4,10 +4,10 @@ tags:
  - "gary-tnw"
  - "guardian"
 aliases:
- - "Clara Clean (TNW)"
+ - "Clara Clean (Mundo Nuevo)"
  - "TNW"
  - "Clara Clean"
- - "Clara Clean TNW"
+ - "Clara Clean (Mundo Nuevo)"
 ---
 
 <!-- HEADER_IMG -->
@@ -21,3 +21,12 @@ Una de las guardianas del ciclo del Mundo Nuevo, junto a [[Richard_Bentham_TNW|R
 ## Ver también
 
 - [[Clara_Clean|Clara Clean]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuentes del archivo:** 2d, 4b, 9 ("Richard Bentham y Clara Kling, los guardianes"; "Clara Klim Grimm dejó unas cargas"), 8b ("clara clean"); C73 p.24; C73 p.92.
+- **Grafía:** confirmada por el GM como **Clara Clean**. La transcripción produce distorsiones: "Klein", "Kling", "Klim", "Grimm".

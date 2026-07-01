@@ -1,13 +1,14 @@
 ---
-title: "Casco de Lirio con \"Breath of Life\""
-categoria: lugar
+title: "Casco de Lirio con Aliento de Vida"
+categoria: artefacto
 aliases:
+ - "Casco de Lirio con Aliento de Vida"
  - "Casco de Lirio con \"Breath of Life\""
 ---
 
 ## Presentación
 
-Artefacto mágico portado por [[Lirio|Lirio]]: un casco encantado con el poder "[[Breath_of_Life|Breath of Life]]", que lo regenera automáticamente cuando cae herido de gravedad. En la jornada de Tiro y Hespérides, el casco se activó y Lirio pudo continuar en pie.
+Casco encantado que porta [[Lirio|Lirio]], dotado del don del [[Breath_of_Life|Aliento de Vida]]: lo regenera por sí mismo cuando cae herido de gravedad. En la jornada de Tiro y las Hespérides, el casco obró su prodigio y Lirio pudo seguir en pie.
 
 ## Ver también
 

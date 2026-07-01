@@ -19,8 +19,11 @@ aliases:
  - "El Pupe Echegoyen"
  - "Pupias"
  - "Pupesito"
-imagen: null
+imagen: Imagenes_Tier1/Ernesto_Echegoyen.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ernesto_Echegoyen.png]]
+<!-- /HEADER_IMG -->
 
 > *Les abrí las tranqueras de mi casa: ahora suelten la mala compañía y déjenme hacer justicia a mi manera.*
 
@@ -40,7 +43,7 @@ El Pupe entra en la gesta cuando el grupo que el [[Operativo_Condor|Operativo C�
 
 Pero su gratitud tiene la forma de un patrón que maneja la zona como un grupo de tareas. Llega siempre armado —un subfusil de los que reglamenta el Ejército cruzado a la espalda y un chumbo al cinto— y su protección viene con condiciones. Encubre sin reparos el robo del [[Citroen_2CV|Citroën]] que el grupo trae de tierra firme; a cambio, les ofrece ayudarlos a "hacer justicia", con la exigencia de que suelten a la "mala compañía" que arrastran —los hombres que en la gesta responden a los nombres de Moretti y Uriel—, gente que al Pupe le huele mal y que no quiere bajo su techo.
 
-Es, así, un aliado de doble filo: útil mientras conviene, peligroso en cuanto se le cruza la voluntad. Su estancia es refugio y a la vez jaula amable, y la "justicia" que promete es la del patrón que decide por mano propia quién merece amparo y quién castigo. En el mapa de la gesta de las islas, el Pupe es la cara terrenal y argentina del poder —la del estanciero con escopeta y código propio— justo antes de que el abismo de Tulu, al que rinde culto la cofradía bajo las olas, vuelva pequeña cualquier disputa de tranqueras.
+Es, así, un aliado de doble filo: útil mientras conviene, peligroso en cuanto se le cruza la voluntad. Su estancia es refugio y a la vez jaula amable, y la "justicia" que promete es la del patrón que decide por mano propia quién merece amparo y quién castigo. En el mapa de la gesta de las islas, el Pupe es la cara terrenal y argentina del poder —la del estanciero con escopeta y código propio— justo antes de que el abismo de Cthulhu, al que rinde culto la cofradía bajo las olas, vuelva pequeña cualquier disputa de tranqueras.
 
 ---
 
@@ -48,7 +51,7 @@ Es, así, un aliado de doble filo: útil mientras conviene, peligroso en cuanto 
 
 - [[Abuela_Echegoyen]] — su madre, la vieja del Pupe, rehén de la cofradía a la que él busca rescatar y vengar
 - [[Operativo_Condor]] — la gesta que arrastró a las islas al grupo que liberó a su madre y al que él toma por protegidos
-- [[Orden_Esoterica_de_Dagon]] — los hombres-pez del culto a Tulu que secuestraron a la abuela
+- [[Orden_Esoterica_de_Dagon]] — los hombres-pez del culto a Cthulhu que secuestraron a la abuela
 - [[Citroen_2CV]] — el auto robado cuyo origen el Pupe encubre a cambio de lealtad
 
 ---

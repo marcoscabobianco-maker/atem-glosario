@@ -52,7 +52,7 @@ Lo que salvó al templo aquella noche fueron los **símbolos**, los **triángulo
 
 ## Notas
 
-El registro físico de la logia —su biblioteca, sus candelabros desde 1880, el frontispicio egipcio, el episodio del techo— proviene del cuaderno 99. Los nombres históricos y políticos que rozan a los Hijos del Trabajo, y el contraste con las logias de la derecha esotérica de los años sesenta, se conservan tal como la gesta los hereda de la Buenos Aires real de 1966. La piedra que la logia guarda es lo que en otras crónicas del grupo se nombra como [[Circonio_Piedra_Azul|Circonio o Piedra Azul]], el dispositivo que la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] prepara para despertar a [[Nyarlathotep|Tulu]] desde el fondo del mar.
+El registro físico de la logia —su biblioteca, sus candelabros desde 1880, el frontispicio egipcio, el episodio del techo— proviene del cuaderno 99. Los nombres históricos y políticos que rozan a los Hijos del Trabajo, y el contraste con las logias de la derecha esotérica de los años sesenta, se conservan tal como la gesta los hereda de la Buenos Aires real de 1966. La piedra que la logia guarda es lo que en otras crónicas del grupo se nombra como [[Circonio_Piedra_Azul|Circonio o Piedra Azul]], el dispositivo que la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] prepara para despertar a [[Cthulhu]] desde el fondo del mar.
 
 ---
 
@@ -63,4 +63,4 @@ El registro físico de la logia —su biblioteca, sus candelabros desde 1880, el
 - [[Circonio_Piedra_Azul]] — la piedra que zumba bajo la lona aceitosa en el local de la logia
 - [[Orden_Esoterica_de_Dagon]] — la Orden que codicia esa piedra; las criaturas del norte que rondan el techo
 - [[Basilica_del_Sagrado_Corazon_Barracas]] — el templo de la derecha esotérica a pocas cuadras; el reverso de la logia obrera
-- [[Nyarlathotep]] — Tulu, la potencia que duerme bajo las islas
+- [[Nyarlathotep]] — Cthulhu, la potencia que duerme bajo las islas

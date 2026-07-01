@@ -1,8 +1,7 @@
 ---
-title: "Biblioteca de Alejandria stub MC"
+title: "Biblioteca de Alejandría"
 categoria: lugar
 aliases:
- - "Biblioteca de Alejandria stub MC"
  - "Biblioteca de Alejandría"
  - "Biblioteca de Alejandria"
 tags:

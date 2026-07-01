@@ -24,3 +24,11 @@ Prisión dimensional extra-planar donde Graz ([[Ludovico]] Sforza/[[Grazzt|Graz'
 ## Notas
 
 La jornada del rescate de Luca es una de las más largas del corpus. Ver **[[Luca_CI|Luca]]**, **[[Grazzt|Graz'zt]]**, **[[Verdugo_Monsieur_David|Verdugo]]**.
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- "Tovag Baragu" proviene del lore de World of Greyhawk: círculo de megalitos con propiedades planares.

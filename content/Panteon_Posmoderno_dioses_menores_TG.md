@@ -1,5 +1,5 @@
 ---
-title: "Panteón Posmoderno — dioses menores (TG)"
+title: "Panteón Posmoderno — dioses menores (Torregrises)"
 categoria: entidad
 tags:
  - "concepto"
@@ -8,7 +8,7 @@ tags:
  - "deidades"
  - "posmodernismo"
 aliases:
- - "Panteón Posmoderno — dioses menores (TG)"
+ - "Panteón Posmoderno — dioses menores (Torregrises)"
  - "TG"
  - "Panteón Posmoderno — dioses menores"
 ---

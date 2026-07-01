@@ -44,6 +44,7 @@ Su línea diegética es larguísima y atraviesa todo el ciclo del final de Antit
 - [[Atlantida_Alta_y_Baja|Atlántida]] — bendición del Rey
 - [[Gema_de_la_Creacion|Gema de la Creación]] — artefacto en etapa tardía
 - [[Barbatos]] — del que carga el báculo [[Eyjatas]]
+- [[Akasha_MYM|Akasha]] (Never 9-11) — eco futuro de la línea-alma: en el ciclo, la sombra de ese viajero sin cuerpo responde a este nombre
 
 ## Apariciones
 

@@ -18,5 +18,5 @@ El archivo conserva **otra entrada de la misma ciudad amurallada**: **[[Carcason
 - [[Francia]] — nacion contenedora; Carcassone pertenece al Languedoc, provincia conquistada por la corona
 - [[Foix]] — condado vecino; las redes del sur vinculan ambas ciudades
 - [[Felón]] — familia noble con presencia en el sur de Francia, activa en el periodo de la Fronda
-- [[Provence]] — otra region meridional del mismo contexto de campana
+- [[Provence]] — otra region meridional del mismo contexto de campaña
 - [[Cardenal_Mazarino]] — contexto politico de 1648; las ciudades del sur son tablero de la Fronda periferica

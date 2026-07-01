@@ -61,7 +61,7 @@ imagen: Imagenes_Tier1/Minborgen.png
 
 ## El "Enano Anónimo" y las Crónicas Enanas
 
-**El archivo del Taller de Rol conserva las Crónicas Enanas** —*narración en primera persona del "Enano Anónimo", compañero de Minborgen, líneas 271-282 del compilado*—. *Minborgen aparece descrito allí como* **"gran guerrero enano de extrañas características"** —*frase incompleta que el cronista no transcribe entera porque la transcripción la dejó cortada el copista original*—; **las "extrañas características" admiten varias lecturas que el archivero del Plata anota sin decidir**:
+**El archivo conserva las Crónicas Enanas** —*narración en primera persona del "Enano Anónimo", compañero de Minborgen*—. *Minborgen aparece descrito allí como* **"gran guerrero enano de extrañas características"** —*frase incompleta que el cronista no transcribe entera porque la transcripción la dejó cortada el copista original*—; **las "extrañas características" admiten varias lecturas que el archivero del Plata anota sin decidir**:
 
 - **Doble hacha portada sin descanso, incluso en la mesa común**.
 - **Marca del Ojo en la frente** —*la lámina lo conserva*—; **rasgo que ningún otro enano del Glosario porta**.
@@ -87,7 +87,7 @@ imagen: Imagenes_Tier1/Minborgen.png
 - **Antes de la Contienda — vida en los reinos enanos** — formación con las hachas, marca del Ojo
 - **Contienda — candidatura por Helm** — cuerpo en saco-contenedor, perdido en plano astral
 - **1370 DR — Tres Coronas** — proclamación como Rey de los Enanos
-- **Crónicas Enanas del Taller de Rol** — narración del Enano Anónimo (líneas 271-282)
+- **Crónicas Enanas** — narración del Enano Anónimo
 - **[[Lords_of_Creation_Sistema_TNW|Sistema]] de los Curiales (C9 [3-9])** — Avaricia / Generosidad
 
 <!-- CICLO -->

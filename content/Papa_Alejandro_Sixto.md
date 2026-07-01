@@ -29,8 +29,11 @@ tags:
  - alejandro-borgia
  - trono-de-rubi
  - custodes
-imagen: null
+imagen: Imagenes_Tier1/Papa_Alejandro_Sixto.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Papa_Alejandro_Sixto.png]]
+<!-- /HEADER_IMG -->
 
 > *"El trono de rubí no se levanta cuando recibe. La autoridad eclesial, en este dominio, no necesita pararse para mandar."*
 
@@ -38,7 +41,7 @@ imagen: null
 
 ## Antes: Sir Sixto, el caballero perdido
 
-Era **Sir Sixto**, **Caballero de la [[Caballeros_Cicatriz_del_Sol|Orden de la Cicatriz del Sol]]**. **Homónimo del compañero [[Sixto_Guido|Sixto Guido]]**, recursividad nominal que ya entonces el archivo registraba como **inquietante**. Sobre la cámara octogonal de piedra del mega-dungeon —tras el escape del [[Forum_de_Set|Foro de Set]] con los rubíes de [[Priscus_Pulcher|Prisco Electe]]— un mensaje arcano lo había nombrado: *"Lo perdimos en el nivel de abajo. Encuéntrenlo."*
+Era **Sir Sixto**, **Caballero de la [[Caballeros_Cicatriz_del_Sol|Orden de la Cicatriz del Sol]]**. **Homónimo del compañero [[Sixto_Guido|Sixto Guido]]**, recursividad nominal que ya entonces el archivo registraba como **inquietante**. Sobre la cámara octogonal de piedra del mega-mazmorra —tras el escape del [[Forum_de_Set|Foro de Set]] con los rubíes de [[Priscus_Pulcher|Prisco Electe]]— un mensaje arcano lo había nombrado: *"Lo perdimos en el nivel de abajo. Encuéntrenlo."*
 
 **No lo encontraron.** Los [[Buscadores_de_Ardis_Vala|Buscadores]] cerraron el ciclo primero del valle sin haber localizado a Sir Sixto. La doctrina apresurada lo dio por perdido en alguna región profunda del dungeon.
 
@@ -52,7 +55,7 @@ Durante los quince años del **[[Hiato_15_Años_Ardis_Vala|Hiato]]**, Sir Sixto 
 
 Lo que el cronista anota sin pretensión de glosa:
 
-- **Sobrevivió al colapso de la Orden** —decapitación de [[Master_Malakita|Malakita]] por [[Alumine|Alúmine]] en la cámara hiperbárica, toma del Hold por los [[Buscadores_de_Ardis_Vala|Buscadores]]—. Emergió **como único líder eclesial superviviente legitimable**.
+- **Sobrevivió al colapso de la Orden** —decapitación de [[Master_Malakita|Malakita]] por [[Alumine|Alúmine]] en la cámara hiperbárica, toma del Bastión por los [[Buscadores_de_Ardis_Vala|Buscadores]]—. Emergió **como único líder eclesial superviviente legitimable**.
 - **Asumió el cargo papal** cuando el [[Palacio_del_Prisma|Castillo del Prisma]] cayó bajo dominio brumoso.
 - **Asimiló a los [[Custodes_Oculis_Solis|Custodes Oculis Solis]]** —orden sacerdotal de Thoth, transmutados a servidores de luz dorada del plano positivo—.
 - **Accedió a una fuente luminosa que sus archivos no describen**. *El cronista, que respeta los silencios, no insiste.*

@@ -21,7 +21,7 @@ El Thunderbird es el **poder ancestral** de [[Anti_Inferno|la figura del segundo
 
 ## Ver también
 
-- [[Anti_Inferno|el Descenso (CDI)]] — gesta en la que el Thunderbird despliega su vuelo
+- [[Anti_Inferno|el Descenso]] — gesta en la que el Thunderbird despliega su vuelo
 - [[Cancerbero_CDI|Cancerbero]] — el guardián que lo destruyó
 - [[Innombrable|el Innombrable]] — figura mítica vinculada al linaje ancestral de su convocante
 

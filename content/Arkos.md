@@ -1,6 +1,6 @@
 ---
-title: "Arkos (el Archivero del Plata)"
-título: "Arkos (el Archivero del Plata)"
+title: "Arkos"
+título: "Arkos"
 slug: Arkos
 aliases:
  - Arkos

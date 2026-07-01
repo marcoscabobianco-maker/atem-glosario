@@ -10,4 +10,4 @@ aliases:
 
 ## Presentación
 
-Corregir ascenso astral sesgado. [[Philippe]] busca respuestas. Ejecución [[Kronamon]] año 1120. Tres interrogantes: ¿Quién ejecutó? ¿Quién traidor? ¿Cuándo traición? Hitos/señales a lo largo tiempo.
+Empresa de enmendar un ascenso astral torcido. [[Philippe]] anda tras las respuestas, volviendo sobre la ejecución de [[Chronomon|Kronamon]] en el año 1120. Tres interrogantes guían la pesquisa: quién lo ejecutó, quién fue el traidor y cuándo se consumó la traición. El archivo promete hitos y señales sembrados a lo largo del tiempo para quien sepa leerlos.

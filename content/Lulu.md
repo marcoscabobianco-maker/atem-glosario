@@ -9,7 +9,7 @@ tags:
  - "corporación"
 aliases:
  - "Lulú"
- - "Lulú (TG)"
+ - "Lulú (Torregrises)"
  - "Lulu"
  - "Lulu_TG"
 ---

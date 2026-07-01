@@ -27,7 +27,7 @@ El estatus exacto de Rantar Alfa **es ambiguo** en la formulación del archivo. 
 
 - **Denominación alterna de Nexus** —otro nombre para la misma ciudad—
 - **Sección o distrito de Nexus** —parte específica de la ciudad-constante—
-- **[[Entidad]] asociada** —ser, lugar o concepto vinculado pero distinto de Nexus—
+- **Entidad asociada** —ser, lugar o concepto vinculado pero distinto de Nexus—
 - **Ciudad paralela** —la ciudad de los 144.000 elegidos puede ser separada de Nexus—
 
 ### Los 144.000 elegidos

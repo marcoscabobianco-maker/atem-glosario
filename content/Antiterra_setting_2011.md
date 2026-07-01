@@ -1,6 +1,6 @@
 ---
 title: "Antiterra — pliego fundacional 2011"
-título: "Antiterra — pliego fundacional del mundo (2011)"
+título: "Antiterra — pliego fundacional del mundo"
 slug: Antiterra_setting_2011
 categoria_diegetica: obra
 estado: documento_fundacional
@@ -49,3 +49,17 @@ Antiterra es el mundo marco de múltiples gestas: [[Los_Boreales|Los Boreales]] 
 - [[Lord_Gaul|Lord Gaul]]
 - [[Diamond_Lake|Diamond Lake]]
 - [[Los_Boreales|Los Boreales]]
+
+<!-- CICLO -->
+> **Casas del ciclo** · ⛓
+> *Pliego fundacional del mundo-marco de 1888 —*mundus alter et idem*, distinto pero igual a la Tierra— donde acampan las bandas nombradas: [[Los_Boreales|Los Boreales]] que arrancan en [[Diamond_Lake]], [[Los_Profundos|Los Profundos]] y [[Los_Reguladores|Los Reguladores]]. La esfera de [[Antiterra_Demonia|Demonia]] es el tablero compartido sobre el que esos grupos con sigla se relevan y se cruzan; el documento traza la geografía donde cada banda devendrá sujeto de su propia gesta. El mundo se funda como escenario de colectivos, no de individuos.* — glosa del archivero del Plata.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Documento de origen:** PDF de setting fundacional (2011), firmado "Un master apurado". Es la base de diseño del mundo Antiterra/Demonia.
+- **Base de [[Los_Boreales|Los Boreales]]:** arranca en [[Diamond_Lake]] usando *Age of Worms* (adventure path, Paizo/Dungeon) como cimiento suelto.

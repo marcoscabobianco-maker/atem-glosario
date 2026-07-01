@@ -1,12 +1,12 @@
 ---
-title: "HG (TNW)"
+title: "HG (Mundo Nuevo)"
 categoria: lugar
 tags:
  - "gary-tnw"
  - "equipment"
  - "robot"
 aliases:
- - "HG (TNW)"
+ - "HG (Mundo Nuevo)"
  - "TNW"
  - "HG"
 ---
@@ -25,4 +25,12 @@ Robot defensivo que opera en [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain
 - [[Genesis_Foundation_Fundacion_Genesis_TNW|Genesis Foundation / Fundación Génesis]] — organización que provee el robot
 - [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain / Montaña de Hierro]] — complejo donde funciona como defensor y herramienta
 - [[Grazzt|Grast / Dios de Hierro]] — entidad cuya contención mediante círculos de sellos HG facilita
-- [[Clara_Klein_Kling_TNW|Clara Klein / Kling (TNW)]] — representante de la [[Genesis_Foundation_Fundacion_Genesis_TNW|Genesis Foundation]] que dota al grupo con armas y robots
+- [[Clara_Klein_Kling_TNW|Clara Klein / Kling (Mundo Nuevo)]] — representante de la [[Genesis_Foundation_Fundacion_Genesis_TNW|Genesis Foundation]] que dota al grupo con armas y robots
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Ref.: fuente 6 (HG), resumen l.113.

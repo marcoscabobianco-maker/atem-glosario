@@ -1,5 +1,5 @@
 ---
-title: "Bar de Bes (TG)"
+title: "Bar de Bes (Torregrises)"
 categoria: lugar
 tags:
  - "lugar"
@@ -7,14 +7,14 @@ tags:
  - "bar"
  - "social"
 aliases:
- - "Bar de Bes (TG)"
+ - "Bar de Bes (Torregrises)"
  - "TG"
  - "Bar de Bes"
 ---
 
 ## Presentación
 
-Local de referencia en [[Torregrises]], operado por **[[Bes_TG|Bes (TG)]]**. Espacio social donde convergen personajes antes del fin. Capítulo propio en [[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]] ("El Bar de Bes", págs 110-124 EDICION FINAL). En el cosmos compartido diegética no documentado aún como tal.
+Local de referencia en [[Torregrises]], operado por **[[Bes_TG|Bes (Torregrises)]]**. Espacio social donde convergen personajes antes del fin. Capítulo propio en [[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]] ("El Bar de Bes", págs 110-124 EDICION FINAL). En el cosmos compartido diegética no documentado aún como tal.
 
 ## Apariciones notables
 

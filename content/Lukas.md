@@ -19,8 +19,11 @@ tags:
  - espada-larga
  - escudo
  - protector
-imagen: null
+imagen: Imagenes_Tier1/Lukas.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lukas.png]]
+<!-- /HEADER_IMG -->
 
 > *"Lukas, con su porte solemne, dio un paso al frente, mostrando calma a pesar del peligro."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*, sobre el encuentro con el [[Howler]].
 
@@ -56,7 +59,7 @@ imagen: null
 
 - **Espada larga** *como arma principal*; *blande con precisión, no con teatralidad*.
 - **Escudo** *que usa tanto para protección personal como para protección de compañeros*; **bloqueo de los brutales ataques de [[Kazmojen]]** mientras Lukas lanzaba cortes precisos con su espada.
-- **[[Lucky|Smites celestiales]]** *—aunque menos documentados que los de Lucky—* *en operaciones contra entidades del polo negativo*.
+- **[[Lucky|Castigos celestiales]]** *—aunque menos documentados que los de Lucky—* *en operaciones contra entidades del polo negativo*.
 - **Sanación divina menor** *que opera principalmente en momentos críticos de combate*; *no es clérigo principal*, *pero opera con apoyo doctrinal*.
 - **Liderazgo táctico** *en formaciones de combate*; **el grupo se reorganiza con Lukas al frente cuando la situación lo requiere**.
 

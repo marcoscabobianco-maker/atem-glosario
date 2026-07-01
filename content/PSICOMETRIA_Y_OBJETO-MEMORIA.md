@@ -12,3 +12,11 @@ aliases:
 - **Información obtenida:** El huevo fue dado por una figura encapuchada a la serpiente. La figura susurraba en Abisal. Visión de "parte de dragón".
 
 **Nota del archivo:** el don le permite al cronista revelar el trasfondo sin exposición directa. La lectura de [[Michel]] abre una puerta narrativa importante.
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente:** líneas 369-375.

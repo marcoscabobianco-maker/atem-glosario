@@ -14,7 +14,7 @@ aliases:
 
 ## Presentación
 
-figura de la Fase 2. **Muere por diablos**. Información pendiente de ingesta detallada.
+El archivo lo recuerda como una figura de la segunda fase del [[Caldero]], ligada a la crónica de [[La_Jabalina|La Jabalina]]. Su final está sellado: muere a manos de los diablos.
 
 ## Conexiones
 

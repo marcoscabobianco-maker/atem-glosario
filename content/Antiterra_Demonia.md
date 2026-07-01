@@ -1,6 +1,6 @@
 ---
-title: "Antiterra (también Demonia)"
-título: "Antiterra (también Demonia)"
+title: "Antiterra"
+título: "Antiterra"
 slug: Antiterra_Demonia
 aliases:
  - Antiterra

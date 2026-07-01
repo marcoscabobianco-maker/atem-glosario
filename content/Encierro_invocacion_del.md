@@ -15,7 +15,7 @@ Las referencias sugieren un encarcelamiento astral o mágico —acaso una limpie
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — contexto de gesta donde opera el Encierro
+- [[Anti_Inferno|el Descenso]] — contexto de gesta donde opera el Encierro
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — posible sede o origen de esta defensa infernal
 - [[Pluton_CDI|Plutón]] — señor del plano bajo cuya jurisdicción actúa el encierro
 - [[Ley_del_Equilibrio_Constante|Ley del Equilibrio Constante]] — marco legal del [[Infierno]] que podría sustentar este mecanismo

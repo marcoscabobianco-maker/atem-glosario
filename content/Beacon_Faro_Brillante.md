@@ -37,9 +37,9 @@ La nave llegó **desde las estrellas** —*"venía de las estrellas y estuvo ac�
 
 Los restos del Beacon están distribuidos por el complejo subterráneo:
 
-- **L05 [[Obsidian_Gates_Midnight_Road|Obsidian Gates]]** — **mayor concentración** de dispositivos rudishva intactos
-- **L06 [[Troll_Lifts_Arena|Troll Lifts]]** — ascensores que siguen funcionando, operados por [[Varumani]]
-- **Chamber of Beacon Chamber of Beacon** — **faro energético + teletransportadores rudishva** a Puertas de Obsidiana y Suelo del Gran Abismo. **Es el corazón energético** que probablemente queda de la nave en sí
+- **L05 [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]]** — **mayor concentración** de dispositivos rudishva intactos
+- **L06 [[Troll_Lifts_Arena|Elevadores de los Trolls]]** — ascensores que siguen funcionando, operados por [[Varumani]]
+- **Cámara del Faro Cámara del Faro** — **faro energético + teletransportadores rudishva** a Puertas de Obsidiana y Suelo del Gran Abismo. **Es el corazón energético** que probablemente queda de la nave en sí
 - **L07** — modificaciones secundarias en algunos sectores
 
 ### El módulo de armas y RAJ-750
@@ -48,11 +48,11 @@ El **módulo de armas del Beacon** contenía la **inteligencia artificial [[RAJ-
 
 ### El Castillo Cristalino
 
-En **Jornadas 7a-7c**, el grupo discutía referencias al **"Castillo Cristalino"** —probable forma residual o sede principal del Beacon dentro del complejo subterráneo—. **"Faro Brillante" / "Castillo Cristalino"** son **nombres alternos de la nave o de su núcleo energético**. Pendiente identificar la ubicación exacta en las profundidades (probable Chamber of Beacon o sección de Puertas de Obsidiana).
+En **Jornadas 7a-7c**, el grupo discutía referencias al **"Castillo Cristalino"** —probable forma residual o sede principal del Beacon dentro del complejo subterráneo—. **"Faro Brillante" / "Castillo Cristalino"** son **nombres alternos de la nave o de su núcleo energético**. Pendiente identificar la ubicación exacta en las profundidades (probable Cámara del Faro o sección de Puertas de Obsidiana).
 
 ### El "huevo cósmico" y el "faro energético"
 
-La línea del **huevo** —que algunos discuten como **"huevo cósmico"** o **"verdadero secreto atlante"** en otros contextos del archivo MC (con la dragonesa de cristal del Pugil Atlante)— **se conecta con el módulo de armas del Beacon en [[Ardis_Vala|Arden Vul]]**. El **huevo del [[Tarrasque_Antiterra|Tarrasque]]** que aparece en Welcome Back Henri ([[Paris_Ucronica|París Ucrónica]]) **podría ser el mismo objeto cosmológico** en otra época, vehículo de Seth. La hipótesis trans-saga queda abierta.
+La línea del **huevo** —que algunos discuten como **"huevo cósmico"** o **"verdadero secreto atlante"** en otros contextos del archivo MC (con la dragonesa de cristal del Pugil Atlante)— **se conecta con el módulo de armas del Beacon en [[Ardis_Vala|Ardis Vala]]**. El **huevo del [[Tarrasque_Antiterra|Tarrasque]]** que aparece en Welcome Back Henri ([[Paris_Ucronica|París Ucrónica]]) **podría ser el mismo objeto cosmológico** en otra época, vehículo de Seth. La hipótesis trans-saga queda abierta.
 
 ## Vínculos
 
@@ -61,9 +61,9 @@ La línea del **huevo** —que algunos discuten como **"huevo cósmico"** o **"v
 - [[Master_Malakita|Master Malakita / Melok-Ri]] — el rudishva más conocido, fundador de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]
 - [[Caballeros_Cicatriz_del_Sol]] — orden fundada por [[Master_Malakita|Melok-Ri]]
 - [[Mega_Dungeon_Arden_Vul]] — donde están sus restos
-- **Chamber of Beacon Chamber of Beacon** — sede principal probable
-- **L05 [[Obsidian_Gates_Midnight_Road|Obsidian Gates]]** — mayor concentración tech
-- **L06 [[Troll_Lifts_Arena|Troll Lifts]]** — ascensores funcionando
+- **Cámara del Faro Cámara del Faro** — sede principal probable
+- **L05 [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]]** — mayor concentración tech
+- **L06 [[Troll_Lifts_Arena|Elevadores de los Trolls]]** — ascensores funcionando
 - **RAJ-750** — IA del módulo de armas
 - **Ritornello / [[Ritornello]]** — ciudad arrasada por el huevo
 - **"Lo de las cenizas"** — evento de 4.000 desvanecidos

@@ -24,8 +24,11 @@ tags:
  - 4-A
  - inferno
  - ante-inferno
-imagen: null
+imagen: Imagenes_Tier1/Maristo_condenado.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Maristo_condenado.png]]
+<!-- /HEADER_IMG -->
 
 > *"El paladín que sostuvo el Ojo arriba lleva el Ojo abajo, pero el Ojo ya no parpadea en el modo en que parpadeaba arriba. El Ojo bajado opera distinto. Ver primero, golpear después, no al revés —regla del Edecán— sigue siendo regla; pero **ver primero, en el Foso, es ver el descenso de uno mismo**, y eso modifica el golpe."* — del *[[Anti_Inferno|Coro del Descenso]]*, libro VII.
 

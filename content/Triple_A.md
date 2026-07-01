@@ -1,6 +1,6 @@
 ---
 title: "La Triple A — el comisario-brujo"
-título: "La Triple A — el comisario-brujo que recluta en el sueño (1975)"
+título: "La Triple A — el comisario-brujo que recluta en el sueño"
 slug: Triple_A
 categoria: facción
 epoca: "1975 — adelanto onírico de las desapariciones"
@@ -60,7 +60,7 @@ En la diégesis ese desfasaje es un presagio: el sueño muestra, a quien baja, *
 - [[Operativo_Condor]] — el vuelo desviado de 1966, umbral histórico del descenso que esta escena adelanta a 1975
 - [[Orden_Esoterica_de_Dagon]] — la cofradía que guarda el fondo de las islas, otra cara del mismo horror al que el comisario pertenece
 - [[Carcosa]] — el reino amarillo que late del otro lado del mismo umbral onírico
-- [[Nyarlathotep|Tulu]] — la potencia que sueña bajo las islas y por cuyo envés se cuela el comisario
+- [[Cthulhu]] — la potencia que sueña bajo las islas y por cuyo envés se cuela el comisario
 
 ## Notas
 

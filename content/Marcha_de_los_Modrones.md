@@ -16,7 +16,7 @@ aliases:
  - "Marcha_de_los_Modrons"
 ---
 
-> La gran Marcha cíclica de los modrones de [[Mechanus]] a través de los planos exteriores. [[Evento]] cosmológico que aparece en el cosmos compartido como ciclo del mundo.
+> La gran Marcha cíclica de los modrones de [[Mechanus]] a través de los planos exteriores. Evento cosmológico que aparece en el cosmos compartido como ciclo del mundo.
 
 ## La gran Marcha
 
@@ -54,3 +54,13 @@ La Marcha opera como:
 - [[Clarisa]] (compañero en C25)
 - [[Juego_de_las_Sombras|Juego de las Sombras]] (otro ciclo cosmológico)
 - [[Las_Tullidas|Las Tullidas]] (arco paralelo)
+
+---
+
+## Capa interna [R]
+
+> No diegético; no entra a productos públicos.
+
+- **Fuente externa:** *The Great Modron March* (TSR, 1997, módulo Planescape), *Modron Manual*.
+- **Palimpsesto:** importación del canon Planescape sin reescritura — el evento cosmológico de orden cíclico.
+- **Pendientes:** ¿en qué año diegético ocurre la Marcha jugada en C25 (¿1375 DR? ¿1888 ADA?)? ¿paralelo con las [[Plataformas_Zodiacales_Guardianes_TNW|Plataformas Zodiacales]]? ¿modrones en la cosmogonía pre-Tiamat?

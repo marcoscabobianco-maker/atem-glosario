@@ -18,7 +18,12 @@ tags:
 aliases:
  - "Uriel"
  - "Urién"
+imagen: Imagenes_Tier1/Uriel_Urien.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Uriel_Urien.png]]
+<!-- /HEADER_IMG -->
 
 > *Predica la paz en la mesa de luz, y por debajo de la mesa reparte el trabajo sucio.*
 

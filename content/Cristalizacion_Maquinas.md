@@ -22,7 +22,7 @@ tags:
  - campaña-activa
 ---
 
-> *[[Evento]] durante el hiato. Las armaduras góticas rudishva y la tecnología de las naves quedaron cristalizadas. [[Kerbog_Khan]] sobrevivió pero refugiado. Mecánica cosmológica completa: gesta activa.*
+> *Evento durante el hiato. Las armaduras góticas rudishva y la tecnología de las naves quedaron cristalizadas. [[Kerbog_Khan]] sobrevivió pero refugiado. Mecánica cosmológica completa: gesta activa.*
 
 ## Presentación
 
@@ -75,9 +75,9 @@ En **el regreso tras el Hiato**, [[Alumine]] aparece con **"armadura semicristal
 **Pendiente de confirmar en el archivo**:
 
 - **¿[[Caladan]] sufrió cristalización?** —su transformación feral post-hiato (ojos rojos, garras felinas) sugiere otra dirección de corrupción
-- **¿Bayrum, Valerius, Sixto, [[Melvino_Calvino]], Druida Rodrigo** llevaban tech rudishva al momento de la cristalización?
+- **¿Bayrum, Valerius, Sixto, [[Melvino_Calvino]], [[Numa_Pompidio|Numa Pompilio]]** llevaban tech rudishva al momento de la cristalización?
 - **¿La [[Pluma_de_Thoth]]** y otros artefactos del culto siguen activos?
-- **¿Cuánto del Beacon sobrevivió** —Engine Room en la Corte del Thegn, Bridge Crew en el Suelo del Gran Abismo?
+- **¿Cuánto del Beacon sobrevivió** —Sala de Máquinas en la Corte del Thegn, Bridge Crew en el Suelo del Gran Abismo?
 
 ## Vínculos
 

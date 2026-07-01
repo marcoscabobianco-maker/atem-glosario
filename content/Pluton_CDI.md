@@ -1,9 +1,9 @@
 ---
-title: "Plutón (CDI)"
+title: "Plutón (Descenso)"
 tags:
  - "cdi"
 aliases:
- - "**Plutón (CDI)**"
+ - "**Plutón (Descenso)**"
  - "CDI"
  - "**Plutón**"
 epoca: "Edad del Descenso — Plutón del Inferno"

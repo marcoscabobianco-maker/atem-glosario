@@ -24,3 +24,25 @@ El Bestiario completo, conservado entre los pliegos de Torregrises.
 ## Notas
 
 Las [[Torretas]] del Bestiario aparecen también en la versión teatral de [[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]] como "Torretas magnéticas con espiralados dentro."
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente:** `Bestiario de Torregrises.doc`, archivado en `fuentes/E/`.
+
+## Ver también
+
+- [[Nino_Rubio|Niño Rubio]]
+- [[Mujer_Gato|Mujer Gato]]
+- [[Bola_Rugosa_Amarillenta|Bola Rugosa Amarillenta]]
+- [[Perro_Mosca|Perro Mosca]]
+- [[Torretas|Torretas]]
+- [[Camisagris|Camisagris]]
+- [[Asesino_Serial|Asesino Serial]]
+- [[Sadi_y_Madi|Sadi y Madi]]
+- [[Lulu|Lulú]]
+- [[Clean|Clean]]
+- [[Barbarella|Barbarella]]

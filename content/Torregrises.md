@@ -49,11 +49,11 @@ Cosmogonía Gris, Notas Preliminares, Bestiario), Torregrises es "seno de las ci
 ocultas" y proyección ficcional de [[Buenos_Aires_Ucronica|Buenos Aires]]. La declaración programática del setting:
 "Un día te levantás en Torregrises, seno de las ciudades ocultas. Torregrises elemental,
 poder del frío gana las almas." La ciudad tiene gemela luminosa: **[[Torreluces]]**. Los
-**Cimientos (TG)** conectan ambas. Gobernada por **[[Sabas]]** con su **[[Liceo_Sabasio|Liceo Sabasio]]**
-(rectora **[[Clean_TG|Clean]]**, guardianas **[[Sadi_y_Madi_TG|Sadi y Madi]]**). Rival: **[[Sucor_TG|Sucor (TG)]]** desde "el móvil
+**Cimientos (Torregrises)** conectan ambas. Gobernada por **[[Sabas]]** con su **[[Liceo_Sabasio|Liceo Sabasio]]**
+(rectora **[[Clean_TG|Clean]]**, guardianas **[[Sadi_y_Madi_TG|Sadi y Madi]]**). Rival: **[[Sucor_TG|Sucor (Torregrises)]]** desde "el móvil
 templo de su Moto." La **[[Corporacion_de_las_Sombras|Corporación de las Sombras]]** opera como resistencia. Criaturas
 del **[[Bestiario_de_Torregrises_E|Bestiario de Torregrises (E)]]** pueblan los Cimientos. Destrucción final: **[[Tormenta_25_TG|Tormenta 25]]
-(TG)** (diluvio + congelamiento). Narrada en la novela *[[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]]* por **[[Federico_TG|Federico (TG)]]**
+(Torregrises)** (diluvio + congelamiento). Narrada en la novela *[[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]]* por **[[Federico_TG|Federico (Torregrises)]]**
 ("[[Federico_TG|Rey de las Tormentas]]") desde el piso 25 del edificio más alto.
 
 ## Notas
@@ -64,7 +64,7 @@ Grafía canónica: **Torregrises** (una sola palabra, sin tilde).
 Pendiente ortográfico resuelto. Torregrises marca gateway entre mundos: ultramar/
 ultraterreno, comercio/magia, poder regio/poder espiritual. El cruce E↔MC es el más
 antiguo y denso del archivo: setting de novela (E, 1997) y capital de [[Tanastias]] (MC,
-1990s+). Ver **[[Torreluces]]**, **[[Universo_Dual_TG|Universo Dual (TG)]]**, **[[Corporacion_de_las_Sombras|Corporación de las Sombras]]**,
+1990s+). Ver **[[Torreluces]]**, **[[Universo_Dual_TG|Universo Dual (Torregrises)]]**, **[[Corporacion_de_las_Sombras|Corporación de las Sombras]]**,
 **[[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]]**.
 
 ## Ver también

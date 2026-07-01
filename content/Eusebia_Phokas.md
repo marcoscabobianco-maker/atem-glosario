@@ -21,8 +21,11 @@ tags:
  - fortaleza-azur
  - socia-de-glastum
  - cancilleria-imperial
-imagen: null
+imagen: Imagenes_Tier1/Eusebia_Phokas.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Eusebia_Phokas.png]]
+<!-- /HEADER_IMG -->
 
 > *"La tesmóteta es la figura que la mano del Basileus nombra cuando el alcaide es lo bastante hábil para sospechar que su propio control administrativo es insuficiente, y lo bastante prudente para aceptar la supervisión. Quien rechaza a su tesmóteta, pierde la patente de alcaidía. Quien la abraza, mantiene la patente y pierde la sombra. Es siempre una transacción."* — del *[[Decadiano]]*, libro XII, sobre las jurisdicciones administrativas del aparato imperial.
 

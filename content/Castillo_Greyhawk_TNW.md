@@ -1,5 +1,5 @@
 ---
-title: "Castillo Greyhawk (TNW)"
+title: "Castillo Greyhawk (Mundo Nuevo)"
 categoria: lugar
 tags:
  - "gary-tnw"
@@ -7,7 +7,7 @@ tags:
  - "trans-campaign"
  - "greyhawk"
 aliases:
- - "Castillo Greyhawk (TNW)"
+ - "Castillo Greyhawk (Mundo Nuevo)"
  - "TNW"
  - "Castillo Greyhawk"
 ---
@@ -19,6 +19,15 @@ El **Castillo Greyhawk** es el megadungeon seminal de [[Gary_TNW|Gary, el Mundo 
 ## Vinculos
 
 - [[Gary_TNW|Gary, the New World]] — gesta que toma este castillo como escenario central
-- [[Ninfea_Criatura_Tentacular_TNW|Nínfea / Criatura Tentacular (TNW)]] — criatura registrada en el mismo ciclo de gesta
+- [[Ninfea_Criatura_Tentacular_TNW|Nínfea / Criatura Tentacular (Mundo Nuevo)]] — criatura registrada en el mismo ciclo de gesta
 - [[Libertateurs|Les Libertateurs]] — facción activa en TNW que opera en este entorno
 - [[Columna_concepto|Las Columnas]] — eje cosmológico abstracto; el castillo puede funcionar como nodo vertical entre niveles del plano
+
+---
+
+## Capa interna [R]
+
+> No diegético; no entra a productos públicos.
+
+- **Fuente externa:** sustrato de Gary Gygax / Greyhawk; resonancia pop con Castle Grayskull (He-Man).
+- **Ref. cuaderno:** 9–4 («castillo Greyhawk, Greyskull, los magos de la orden»).

@@ -28,9 +28,13 @@ Versión ucrónica de Auguste Blanqui (1805-1881), revolucionario francés. Enca
 
 *Nota (R52):* Después de rescatar al revolucionario de la Isla del Toro, el gusano probablemente se autoinmoló. Hubo una gran onda de revoluciones paralela a 1848-1870.
 
+## Reaparición en *Never 9-11* (MYM)
+
+El mismo gusano lunar que repite "Blanqui" vuelve, más de un siglo diegético después, en la campaña **Never 9-11**: es **[[Blanqui_gusano_lunar|Blanqui, el gusano lunar]]** —criado en la cara oculta de la Luna, cebado con ambrosía y enviado al pasado (~1890) para madurar durante casi tres siglos y estallar en el futuro—. Es la contracara futura de esta misma figura del ciclo, y confirma que la imagen del comunero-gusano del eterno retorno cruza de una campaña a otra.
+
 ## Notas
 
-Destino post-devastación incierto. Ver también **[[Cronocidio]]**, **[[Prision_del_Toro|Prisión del Toro]]**, **[[Gusano_Dimensional|Gusano Dimensional]]**.
+Destino post-devastación incierto. Ver también **[[Cronocidio]]**, **[[Prision_del_Toro|Prisión del Toro]]**, **[[Gusano_Dimensional|Gusano Dimensional]]**, **[[Blanqui_gusano_lunar|Blanqui (el gusano lunar de Never 9-11)]]**.
 
 <!-- CICLO -->
 > **Casas del ciclo** · ⏳

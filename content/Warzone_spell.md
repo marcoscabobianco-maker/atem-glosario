@@ -1,5 +1,5 @@
 ---
-title: "Warzone Spell"
+title: "Conjuro de Guerra"
 aliases:
  - "Warzone_spell"
 en_construccion: true

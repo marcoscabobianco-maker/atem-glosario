@@ -18,7 +18,7 @@ aliases:
 
 Tren legendario de lujo. Ruta París → [[Bucarest_Ucronica|Bucarest]] (5 días según itinerario de [[Moni_Vivescu|Mony]]) → Frankfurt → Praga → Viena. Frontera germana a 3-4 horas de París. Vehículo de escape y transporte de grupo. Símbolo de viaje transeuropeo, misterio, y destino. Estructura: vagones WTG privados, restaurante, Pullman, carga. Maquinistas golem. Empleadas ferroviarias (ej. **[[La_Modelo|La Modelo]]**). Papel central en control de [[Las_Palomas_de_Hierro|Las Palomas de Hierro]] sobre rutas ferroviarias.
 
-Nota importante: El arco esta jornada y posteriores([[Isla_de_la_Serpiente|Isla Serpiente]]) NO es autoconclusivo. La ciclo sigue después de el archivo — no cambian los personajes (el mismo grupo continúa) pero cambia la época: los compañeros viajan temporalmente. Esto conecta con la **Comuna de París 1870** y los **[[Comunados]]** — los compañeros viajan "para acá y para allá" entre épocas.
+Nota importante: El arco esta jornada y posteriores([[Isla_de_la_Serpiente|Isla Serpiente]]) NO es autoconclusivo. La ciclo sigue después de el archivo — no cambian los personajes (el mismo grupo continúa) pero cambia la época: los compañeros viajan temporalmente. Esto conecta con la **Comuna de París 1870** y los **[[Los_Comunados|Comunados]]** — los compañeros viajan "para acá y para allá" entre épocas.
 
 ## Apariciones notables
 
@@ -36,4 +36,4 @@ Transporte crucial para trama de viaje a [[Bucarest_Ucronica|Bucarest]] y círcu
 
 - [[La_Modelo|La Modelo]]
 - [[Comuna_de_Paris_1870|Comuna de París 1870]]
-- [[Comunados|Comunados]]
+- [[Los_Comunados|Comunados]]

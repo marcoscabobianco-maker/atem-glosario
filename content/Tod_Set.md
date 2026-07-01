@@ -54,7 +54,7 @@ imagen: null
 
 ## El Forum de Set
 
-**El [[Forum_de_Set]]** —*templo hipogeo del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]*— **es sede arquitectónica central del culto**. *Su estructura*: **gran sala hipostila con bajorrelieves de Set en operación cíclica**, *altar central con doctrina específica del polo oscuro*. **[[Marius_Urianius]]** *(figura sacerdotal mayor del culto)* **opera el aparato** *junto con figuras menores como Estefanía y Melisario*.
+**El [[Forum_de_Set]]** —*templo hipogeo del [[Mega_Dungeon_Arden_Vul|mega-mazmorra de Ardisvala]]*— **es sede arquitectónica central del culto**. *Su estructura*: **gran sala hipostila con bajorrelieves de Set en operación cíclica**, *altar central con doctrina específica del polo oscuro*. **[[Marius_Urianius]]** *(figura sacerdotal mayor del culto)* **opera el aparato** *junto con figuras menores como Estefanía y Melisario*.
 
 *El [[Culto_de_Set]]* **es la facción del aparato cultual**; **el Forum es la geografía**; **Tod-Set es la deidad**. *Los tres operan en triángulo doctrinal*.
 
@@ -94,5 +94,5 @@ imagen: null
 
 <!-- CICLO -->
 > **Casas del ciclo** · ✦
-> *El Set egipcio del caos del Nilo aterrizó como deidad mayor del panteón imperial Archonteo: el dios de una cosmología anterior se vuelve par estructural de [[Mitra]] en la siguiente, con su [[Forum_de_Set]] hipogeo en el [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]] y [[Marius_Urianius]] oficiando el culto. La apoteosis no lo limpia: lo instala como operador del orden —el polo oscuro que renueva por destrucción, atrapable en el [[Culto_de_Set]] pero nunca neutralizado.* — glosa de Paulus.
+> *El Set egipcio del caos del Nilo aterrizó como deidad mayor del panteón imperial Archonteo: el dios de una cosmología anterior se vuelve par estructural de [[Mitra]] en la siguiente, con su [[Forum_de_Set]] hipogeo en el [[Mega_Dungeon_Arden_Vul|mega-mazmorra de Ardisvala]] y [[Marius_Urianius]] oficiando el culto. La apoteosis no lo limpia: lo instala como operador del orden —el polo oscuro que renueva por destrucción, atrapable en el [[Culto_de_Set]] pero nunca neutralizado.* — glosa de Paulus.
 <!-- /CICLO -->

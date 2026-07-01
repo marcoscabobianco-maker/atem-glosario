@@ -5,7 +5,7 @@ slug: Bronzo
 imagen: "Imagenes_Tier1/Bronzo.png"
 aliases:
  - Bronzo
- - Bronzo (ANQ2)
+ - Bronzo
  - Bronzo_ANQ2
 tags:
  - personaje
@@ -52,7 +52,7 @@ Los compañeros lo quieren mucho. Es de los pocos figuras del ciclo que el grupo
 
 - Corte del Cakravartin — primera aparición, audiencia de [[Los_Profundos]]
 - Travesía desde Atlántida hasta la superficie (norte de México) — en forma de rueda/cakra
-- **Transporte Chihuahua → Golfo de México** *(ANQ2)* — interviene en combate contra dos dragones (rojo y verde) en el templo, golpeando paredes; marca un círculo de teleportación.
+- **Transporte Chihuahua → Golfo de México** — interviene en combate contra dos dragones (rojo y verde) en el templo, golpeando paredes; marca un círculo de teleportación.
 - Juego de las plataformas zodiacales — agente de inserción
 - Ciclo final de Antiterra — rescate junto a [[Sheridron]] en la franja de disolución
 

@@ -1,13 +1,13 @@
 ---
-title: Gary, Indiana (TNW)
+title: Gary, Indiana (Mundo Nuevo)
 categoria: lugar
 tags:
   - gary-tnw
   - location
   - tierra-real
 aliases:
-  - Gary, Indiana (TNW)
-  - TNW
+  - Gary, Indiana (Mundo Nuevo)
+  - (Mundo Nuevo)
   - Gary, Indiana
 ---
 
@@ -18,3 +18,11 @@ aliases:
 ## Presentación
 
 Ciudad acerera de los Estados Unidos, escenario principal de la gesta de [[Gary_TNW|Gary del Mundo Nuevo]] en 1987. Antigua gloria industrial caída en manos del [[Grazzt|Dios de Hierro]]: hornos apagados, torres de enfriamiento color ceniza, estacionamientos vacíos donde antes había turnos de doce horas. Bajo sus calles corre una red de cavernas que conecta con la [[Torre_de_Cristal_TNW|Torre de Cristal]] y la [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain]]. En el imaginario, dos datos la marcan: aquí nació Michael Jackson, y de aquí se fue el acero.
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Ref.: archivos 1a-9, resumen docx. Escenario principal de la gesta, corrida ~2024. Cronista: Pocopis.

@@ -122,7 +122,7 @@ El arco de los Reguladores converge —en línea larga— con el **cierre del ci
 - [[Ministerio_de_Asuntos_Ucronicos]] — triángulo político con los Reguladores
 - **Socialistas Ucrónicos** — tercer vértice del triángulo político
 - *Journal "[[Paris_Bien_Vale_una_Misa|París Bien Vale una Misa]]"* — desfase temporal en el evento del [[Tarrasque_Antiterra|Tarrasque]]
-- *Taller de Rol* l.243-253 — concilio [[Inevitable]], Piedra como Manzana de la Discordia entregada a [[Latromis]]
+- El archivo — concilio [[Inevitable]], Piedra como Manzana de la Discordia entregada a [[Latromis]]
 
 ## Apariciones
 
@@ -132,7 +132,7 @@ El arco de los Reguladores converge —en línea larga— con el **cierre del ci
 - "Navidad intensa y eventful" del itinerario
 - Arcadia Wilderness Park (Los Ángeles) — Zoro obtiene el poder de [[Faragod]]
 - Palacio de Buckingham — episodio
-- Prism Keep — episodio
+- Castillo del Prisma — episodio
 - París — [[Catedral_de_Notre-Dame_PU|Notre Dame]], Catacumbas, Torneo Eiffel
 - 1890 A.D.A. — [[Torneo_de_la_Torre_Eiffel]]
 - Hacia 1901 A.D.A. — confrontación con Barbatos, recuperación de la Piedra

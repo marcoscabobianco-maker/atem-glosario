@@ -37,7 +37,7 @@ imagen: null
 
 ## La tecnología subyacente
 
-*La doctrina del Plata sospecha que el Huevo opera con tecnología rudishva*: **los rudishva** —*pueblo alienígena llegado al valle en el [[Beacon]] hace ~3000 años*— **dejaron en los sub-niveles del mega-dungeon de Ardisvala** *artefactos cuya operación los [[Buscadores_de_Ardis_Vala|Buscadores]] recién comienzan a comprender*. **La [[RAJ-750]]** —*IA del módulo de armas del Beacon*— **es la operadora técnica del Huevo**: *el aparato no se dispara por gatillo simple*, *requiere coordinación con la IA*.
+*La doctrina del Plata sospecha que el Huevo opera con tecnología rudishva*: **los rudishva** —*pueblo alienígena llegado al valle en el [[Beacon]] hace ~3000 años*— **dejaron en los sub-niveles del mega-mazmorra de Ardisvala** *artefactos cuya operación los [[Buscadores_de_Ardis_Vala|Buscadores]] recién comienzan a comprender*. **La [[RAJ-750]]** —*IA del módulo de armas del Beacon*— **es la operadora técnica del Huevo**: *el aparato no se dispara por gatillo simple*, *requiere coordinación con la IA*.
 
 *Operación documentada*:
 
@@ -61,7 +61,7 @@ imagen: null
 
 ## La pregunta abierta
 
-*¿Hay otros Huevos de Ritornelo?* **El archivo no lo confirma plenamente**. **La [[RAJ-750]] sigue operativa** *en los sub-niveles del mega-dungeon*; *los trolls intermediarios podrían configurar nuevas operaciones*. **Si el cosmos extendido requiere otra "desconexión" de geografía mayor en el próximo ciclo**, *el aparato del Huevo está disponible*.
+*¿Hay otros Huevos de Ritornelo?* **El archivo no lo confirma plenamente**. **La [[RAJ-750]] sigue operativa** *en los sub-niveles del mega-mazmorra*; *los trolls intermediarios podrían configurar nuevas operaciones*. **Si el cosmos extendido requiere otra "desconexión" de geografía mayor en el próximo ciclo**, *el aparato del Huevo está disponible*.
 
 *La hipótesis cosmológica del Plata*: **el Huevo no es arma única**, *es modelo replicable*. **Lo que arrasó Ritornello** *podría arrasar otras geografías* **si el aparato técnico-arcano se reactiva**.
 

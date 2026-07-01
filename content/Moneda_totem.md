@@ -52,7 +52,7 @@ Su uso más cruel no fue para ver, sino para ablandar. La moneda sirve también 
 
 ## Notas
 
-El registro físico de la moneda-tótem se guarda en el cuaderno 99. Es una pieza de adivinación nacida del mismo sustrato onírico que el cristalizador de sueños de [[Circonio_Piedra_Azul|la Piedra Azul]] —ambos sintonizados por la misma mano, ambos brújulas hacia lo que late bajo la realidad—, aunque la moneda es objeto propio y distinto: no encierra mundos, los espía. Detrás de lo que muestra late siempre el mismo fondo: la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] que prepara, desde el agua y desde los arsenales de tierra, la venida de [[Nyarlathotep|Tulu]].
+El registro físico de la moneda-tótem se guarda en el cuaderno 99. Es una pieza de adivinación nacida del mismo sustrato onírico que el cristalizador de sueños de [[Circonio_Piedra_Azul|la Piedra Azul]] —ambos sintonizados por la misma mano, ambos brújulas hacia lo que late bajo la realidad—, aunque la moneda es objeto propio y distinto: no encierra mundos, los espía. Detrás de lo que muestra late siempre el mismo fondo: la [[Orden_Esoterica_de_Dagon|Orden de Dagón]] que prepara, desde el agua y desde los arsenales de tierra, la venida de [[Cthulhu]].
 
 ## Vínculos
 

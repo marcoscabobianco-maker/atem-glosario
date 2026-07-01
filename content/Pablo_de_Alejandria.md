@@ -6,6 +6,7 @@ aliases:
  - Pablo de Alejandría
  - Paulus Alexandrinus
  - Paulus
+ - Pablus
  - Pablo el Cronista
  - Paul Claudel
  - Pablo Claudel
@@ -56,7 +57,7 @@ La tradición lo da por muerto **en su época**. Los archivos siguen citándolo 
 
 Hay otra Alejandría —la que [[Antiterra]] fundó para sí en el año 270 de su propio calendario, el [[Anno_Domini_Antiterra_ADA|A.D.A.]]— y Paulus también está en ella. El archivero no va a explicar el cómo; lo anota, como anotó la paradoja, en calidad de dato. Las crónicas de la **[[Gesta_de_Khalim|Gesta de Khalim]]** —documentada en los *[[Sucesos_de_Antiterra|Sucesos de Antiterra]]*— lo registran ese mismo año **exhortando a Alejandro, el paladín griego**; cinco años después, **hay quien busca sus escritos en la biblioteca infernal**. Entre una fecha y la otra, un "Pablo" fue **hallado torturado en el [[Serapeum_270_ADA|Serapeum]]**, el templo-biblioteca de Rakotis; el rescate se cuenta en la entrada de aquel templo. El archivero ha cotejado los registros: el Pablo del [[Serapeum_270_ADA|Serapeum]] y el Pablo de los *Sucesos* son, **casi con certeza, la misma entidad**. En materia paulina, "casi con certeza" es el grado más alto de identificación que la prudencia tolera.
 
-De aquella estancia viene el asunto del **[[El_Libro_Artefacto_Mediterraneum|Libro]]**: un tratado de astrología **sellado y cifrado**, custodiado en la Biblioteca Infernal del Séptimo Círculo, que **sólo Paulus puede descifrar**. **Los cielos juzgaron que él debía recibirlo** —la fórmula es de las crónicas; el archivero no encuentra manera de mejorarla—. Y la conjetura mayor: que el autor original del tratado habría sido **el propio Paulus, en una encarnación anterior**. La cadena autorial que los archivos proponen —¿Paulus, [[Blavatsky_Mamushka_TNW|Blavatsky]], Claudel?— se cierra sobre sí misma, porque Claudel, el lector de esta ficha ya lo sabe, es Paulus. **Anacronismo o bucle del tiempo**: el archivero consigna las dos hipótesis y no se pronuncia. [*Que el hombre que es el único capaz de descifrar un libro sea acaso el hombre que lo escribió no es, en Paulus, una irregularidad: es el método. —Anot. propia del archivero.*]
+De aquella estancia viene el asunto del **[[Eisagogika|Libro]]**: un tratado de astrología **sellado y cifrado**, custodiado en la Biblioteca Infernal del Séptimo Círculo, que **sólo Paulus puede descifrar**. **Los cielos juzgaron que él debía recibirlo** —la fórmula es de las crónicas; el archivero no encuentra manera de mejorarla—. Y la conjetura mayor: que el autor original del tratado habría sido **el propio Paulus, en una encarnación anterior**. La cadena autorial que los archivos proponen —¿Paulus, [[Blavatsky_Mamushka_TNW|Blavatsky]], Claudel?— se cierra sobre sí misma, porque Claudel, el lector de esta ficha ya lo sabe, es Paulus. **Anacronismo o bucle del tiempo**: el archivero consigna las dos hipótesis y no se pronuncia. [*Que el hombre que es el único capaz de descifrar un libro sea acaso el hombre que lo escribió no es, en Paulus, una irregularidad: es el método. —Anot. propia del archivero.*]
 
 ## Toledo
 
@@ -88,15 +89,20 @@ Quedó vivo cuando los suyos murieron. Quedó afuera cuando los actos siguieron.
 
 **Después de la liberación de 1901**, cuando el mundo que lo había visto caer frente a [[Catedral_de_Notre-Dame_PU|Notre Dame]] se dio **un sistema nuevo de dioses**, la figura de Paulus no se apagó con la forma de Paul Claudel: **se volvió culto**. El nuevo politeísmo lo venera bajo el título de **Señor de la Historia**, y el archivero observa que el título no es lisonja sino diagnóstico: *lo que esa devoción adora es la Historia como poder*. Sus actos finales fueron transformadores — **decidió cambiar las iglesias de París en bibliotecas**, los edificios religiosos vueltos depósitos de conocimiento —, y por ellos se lo recuerda como **héroe de la transformación urbana posrevolucionaria de París**, en paralelo al [[Panteon_de_Paris_PU|Panteón]] donde las estatuas de los [[Heroes_Parisinos|héroes]] reciben honor sin promesa de resurrección. Los cronistas lo cuentan, además, como **símbolo del tránsito de [[Terra_vs_Antiterra|Terra a Antiterra]]**. [*El archivero anota la simetría sin sorprenderse: el hombre que dejó de actuar para registrar terminó adorado por convertir los templos en archivos.*]
 
+## Pablus, el que cruzó
+
+Entre los nombres que la línea paulina acumula, el archivo registra uno aparte: **Pablus**, el Pablo que **cruzó del otro lado** —al [[Mundo_de_Kryle|Mundo de Kryle]], el cosmos de santidad— por las Convergencias. Allí tuvo historias propias, una rama de su vida vicaria que transcurrió fuera del eje Mediterráneum/[[Antiterra_Demonia|Antiterra]]. *El archivo aún no las consigna*: de la estancia de Pablus en Kryle quedan, por ahora, el hecho del cruce y el nombre. Que uno de los Pablos haya pasado a un mundo vecino y vuelto con relatos no es, en la línea paulina, irregularidad: es —otra vez— el método. [*Hilo abierto: las historias de Pablus del lado de Kryle, pendientes de que el cronista mayor las dicte.*]
+
 ## Vínculos
 
+- [[Mundo_de_Kryle|Mundo de Kryle]] — el cosmos de santidad al que cruzó como Pablus
 - [[Grazzt]] — el que lo ejecutó en la calle de [[Catedral_de_Notre-Dame_PU|Notre Dame]]
 - [[Henri_La_France]] — el testigo
 - [[Libro_Azul]] — el libro sobre el que iba a advertirle
 - [[Catedral_de_Notre-Dame_PU|Notre Dame]] — escenario de la muerte penúltima
 - [[Juan_Lobos|Padre Juan Lobos]] — corresponsal toledano
 - [[Evangelio_Apocrifo_de_Noc]] — códice abisinio archivoso
-- [[El_Libro_Artefacto_Mediterraneum|El Libro]] — el tratado sellado y cifrado que sólo él descifra
+- [[Eisagogika|El Libro]] — el tratado sellado y cifrado que sólo él descifra
 - [[Serapeum_270_ADA|Serapeum]] — el templo donde fue hallado torturado
 - [[Gesta_de_Khalim]] — la gesta que lo registra en la otra Alejandría
 - [[Sucesos_de_Antiterra]] — la crónica que documenta aquella gesta
@@ -120,5 +126,5 @@ Quedó vivo cuando los suyos murieron. Quedó afuera cuando los actos siguieron.
 
 <!-- CICLO -->
 > **Casas del ciclo** · ✒ ※ ⏳
-> *La voz que glosa esta enciclopedia es un personaje de ella: Paulus dejó de actuar para registrar, no terminó de morir, y atraviesa los siglos —el [[Serapeum_270_ADA|Serapeum]] del 270, el Toledo sufí del padre [[Juan_Lobos]], la Abisinia de [[Grazzt|GRDT]], el carro frente a [[Catedral_de_Notre-Dame_PU|Notre Dame]]—. La coincidencia onomástica es la firma: [[Pablo_de_Alejandria|Pablo]], Paul Claudel y el autor del [[El_Libro_Artefacto_Mediterraneum|Libro]] sellado que sólo él descifra son la misma mano que se relee. Lo que A separó como el cronista interno (AA-E.1) y como el nombre que es la cosa (AA-N.1) es, en C, una sola casa.* — glosa de Arkos, el archivero del Plata.
+> *La voz que glosa esta enciclopedia es un personaje de ella: Paulus dejó de actuar para registrar, no terminó de morir, y atraviesa los siglos —el [[Serapeum_270_ADA|Serapeum]] del 270, el Toledo sufí del padre [[Juan_Lobos]], la Abisinia de [[Grazzt|GRDT]], el carro frente a [[Catedral_de_Notre-Dame_PU|Notre Dame]]—. La coincidencia onomástica es la firma: [[Pablo_de_Alejandria|Pablo]], Paul Claudel y el autor del [[Eisagogika|Libro]] sellado que sólo él descifra son la misma mano que se relee. Lo que A separó como el cronista interno (AA-E.1) y como el nombre que es la cosa (AA-N.1) es, en C, una sola casa.* — glosa de Arkos, el archivero del Plata.
 <!-- /CICLO -->

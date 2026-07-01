@@ -9,7 +9,7 @@ aliases:
 
 - **Descripción:** Fragmento de reliquia cristiana (clavo de crucifixión, asociado a ladrón penitente)
 - **Portador:** [[Michel|Michel]] (Clérigo/Campeón Erudito)
-- **[[Propiedades]]:**
+- **Propiedades:**
  - Activa artefactos sagrados mayores (campana)
  - Resonancia con reliquias (Veracruz)
  - Golpe directo = acción estándar

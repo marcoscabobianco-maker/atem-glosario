@@ -19,7 +19,12 @@ tags:
  - juicio-final
  - gema-de-la-creacion
  - mc
+imagen: Imagenes_Tier1/Soluna.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Soluna.png]]
+<!-- /HEADER_IMG -->
 
 > *Personaje de la era primordial. Elfo drow mago. Miembro de [[Los_Antiguos]]. Cae en el ataque a [[Mechanus]]. Vence a Takhishis junto a Minaya con la Lanza y la Gema.*
 

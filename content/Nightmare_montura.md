@@ -41,7 +41,7 @@ otras jornadas.
 
 **A:** Abaddon el Exterminador · Aditharmon · Aga del Ay · [[Agatha]] *(→ entrada completa)* · Ahazu · Akhenatón Faraón ·
 Álamos Negros (bosque de los) · Alberic · [[Amonio_Sacas]] *(→ stub MC)* · [[Amuleto_de_los_Planos]] ·
-Ananta · Ancianos los · [[Andrei]] · Anitharmon · [[Ankara_Ancyra_MC|Ankara]] / Ancyra *(→ stub MC)* · Antioquía de Siria *(→ stub MC)* · Ao · Apocalipsis · Arvier · Athux · [[Aureliano]] *(→ entrada completa)* · [[Axum]] *(→ entrada completa: [[Axum_MC|Axum (MC)]])* · [[Azzagrat]]
+Ananta · Ancianos los · [[Andrei]] · Anitharmon · [[Ankara_Ancyra_MC|Ankara]] / Ancyra *(→ stub MC)* · Antioquía de Siria *(→ stub MC)* · Ao · Apocalipsis · Arvier · Athux · [[Aureliano]] *(→ entrada completa)* · [[Axum]] *(→ entrada completa: [[Axum_MC|Axum (ciclo)]])* · [[Azzagrat]]
 
 **B:** Babilonia · Barbiel · Barbarela · Bastión de la última esperanza · [[Baton_Rouge_Antiterra|Baton Rouge]] · Bazim-Gorag · [[Belial]] ·
 Beluvah · [[Bestia]] la · Biblioteca de [[Alejandria|Alejandría]] *(→ stub MC)* · Bosque de los Bosques · Bosque de los Onirios · Branebol Neff · Braxidus · Bright Water · [[Broken_Reach|Broken Reach]] *(→ entrada completa)* · [[Bronzo]]
@@ -71,14 +71,14 @@ Hypnatia
 
 **J:** Jaques de Molais · Jaques Destripateur · Jean du Arc Gannibal · Jean Paul Malmonde · Jerónimo · [[Jinetes_del_Apocalipsis]] · Jonás · [[Juan_el_Cazador|Juan el Cazador]] *(→ entrada completa)* · [[Juicio_Final]] el
 
-**K:** Kaino · Kalibak · Kalimar · [[Kartir]] *(→ entrada completa)* · Kas el destructor · [[KAXA]] *(→ entrada completa)* · [[Kaxathros]] · Kestatl · [[Khamul]] · Khonsu · [[Klyssandral]] · [[Kronamon]] *(→ entrada completa)* ·
+**K:** Kaino · Kalibak · Kalimar · [[Kartir]] *(→ entrada completa)* · Kas el destructor · [[KAXA]] *(→ entrada completa)* · [[Kaxathros]] · Kestatl · [[Khamul]] · Khonsu · [[Klyssandral]] · [[Chronomon|Kronamon]] *(→ entrada completa)* ·
 Kosakov el Conde · [[Kosuth_TG|Kosuth]] · Kropoktkin · Kulavaishyrus · Kyrios · Kyuss
 
 **L:** Ladón · [[La_Dama_Notre_Dame|La Dama]] del Dolor · La Fiebre · [[Latromis]] · Layo · [[Laveth]] · Libeck · [[Lolth]] · [[Lord_Gaul|Lord Gaul]] · Los · [[Lotan]] *(→ entrada completa)* · Lorenzo de Medici · [[Lotario]] · Lovborg · Lucca · [[Lucifer]] · Lucio Spini · **[[Lubina]]** *(→ entrada completa)* · [[Luquimia]] · [[Lujambio]] · Luvah
 
 **M:** Malcantet · [[Malakya-Axum]] *(→ entrada completa)* · [[Mani]] *(→ entrada completa)* · Marco Polo · Marcus · [[Marcos_el_Mago_Lich_Marcos_Arcoms_Cosmar|Marcos el Mago]] · María · [[Maristo]] · Markstead · Mat · Matilde Tout de Tué · Mauritius / San Mauricio *(→ stub MC)* · [[Maurito]] · [[Mazada]] ·
 Mazes · ciclo · [[Melania]] · Mencratia · Mephistofeles · Mequetref · [[Mentol]] · Mentuhotep Faraón · [[Minaya_MC|Minaya]] · [[Minborgen]] ·
-Mirabilia · Miss Diana Diamond · Mitch · Moloch · [[Innombrable|el Innombrable]] · Most · Mundos · Musel · Musel Wyrm · [[Muerte]] Plateada · Myriddyn · Mystra · [[Monaco|Mónaco]]
+Mirabilia · Miss Diana Diamond · Mitch · Moloch · [[Innombrable|el Innombrable]] · Most · Mundos · Musel · Musel Wyrm · Muerte Plateada · Myriddyn · Mystra · [[Monaco|Mónaco]]
 
 **N:** Nada la · Naves del caos las · [[Grazzt|Neorex]] · Nemrod · Nezarith · Nikki · Nombres Verdaderos · Nubia · Nueva Orleans · [[Nueva_York_New_York|Nueva York]] *(→ entrada completa)* · Niño
 Gadorcha
@@ -87,7 +87,7 @@ Gadorcha
 
 **P:** [[Pablo_de_Alejandria|Pablo de Alejandría]] · [[Pablo_de_Samosata|Pablo de Samosata]] *(→ entrada completa)* · Palemón · Pairaka · Pale Night · Palacio Argénteo · [[Panteon_el|Panteón]] el · Pantano de las Brujas · Papi Baalor · París ·
 [[Pazuzu]] · Pedro el Grande · [[Petrobomba]] · Pico del Águila · [[Piedra_del_Apocalipsis|Piedra del Apocalipsis]] · Pilares de la Nada · Plague Mort · [[Plotino]] *(→ stub MC)* · [[Poncho]] ·
-Poderes Oscuros · Posiciones de Poder · Presbítero Garuby · Primer Portal el · Primario · [[Senor_del_Orden_Primos|Primus]] · Prism Keep
+Poderes Oscuros · Posiciones de Poder · Presbítero Garuby · Primer Portal el · Primario · [[Senor_del_Orden_Primos|Primus]] · Castillo del Prisma
 
 **Q:R:** Ra · Rael · Rancid · [[Ray_TNW|Ray]] · Red Shroud · Reghalid Matheos · Reina [[Elizabeth_madre_de_Swan|Elizabeth]] · Reina Lich · Reina-Ra · Reunidos los · Rilmanis · Ritos & Reglas · Rowntree
 

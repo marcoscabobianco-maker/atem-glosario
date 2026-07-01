@@ -1,12 +1,12 @@
 ---
-title: "Torre de Cristal (TNW)"
+title: "Torre de Cristal (Mundo Nuevo)"
 categoria: lugar
 tags:
  - "gary-tnw"
  - "location"
  - "dungeon"
 aliases:
- - "Torre de Cristal (TNW)"
+ - "Torre de Cristal (Mundo Nuevo)"
  - "TNW"
  - "Torre de Cristal"
 ---
@@ -24,6 +24,14 @@ Gran torre de cristal púrpura bajo las cavernas de [[Gary_Indiana_TNW|Gary, Ind
 - [[Gary_TNW|Gary TNW (gesta)]] — escenario central de la gesta
 - [[Iron_Mountain_Montana_de_Hierro_TNW|Iron Mountain / Montaña de Hierro]] — complejo mayor del que forma parte la Torre
 - [[Rachel_Betta_Rijel_Betta_TNW|Rachel Betta / Rijel Betta]] — guardiana arácnida ejecutada aquí por [[Jean-Baptiste_TNW|Jean-Baptiste]]
-- [[Jean-Baptiste_TNW|Jean-Baptiste (TNW)]] — compañero que mata a la guardiana y hereda la custodia de plataforma Scorpio
-- [[Aracnidos_TNW|Arácnidos (TNW)]] — habitantes del complejo subterráneo
+- [[Jean-Baptiste_TNW|Jean-Baptiste (Mundo Nuevo)]] — compañero que mata a la guardiana y hereda la custodia de plataforma Scorpio
+- [[Aracnidos_TNW|Arácnidos (Mundo Nuevo)]] — habitantes del complejo subterráneo
 - [[Grazzt|Grast / Dios de Hierro]] — entidad prisionera cuyo centro de poder conecta con la Torre
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Coordenadas: Resumen –78, 5d, 7b.

@@ -1,6 +1,6 @@
 ---
-title: "Bellaca (en su vida mortal, Lali)"
-título: "Bellaca (en su vida mortal, Lali)"
+title: "Bellaca"
+título: "Bellaca"
 slug: Bellaca
 aliases:
  - Bellaca
@@ -22,7 +22,12 @@ tags:
  - cabeza-volante
  - penanggalan
  - cross-dominio
+imagen: Imagenes_Tier1/Bellaca.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Bellaca.png]]
+<!-- /HEADER_IMG -->
 
 > *"Toda mujer que fue muy querida en su valle y muy perdida después tiene, en este mundo, un final que el cronista habría preferido no transcribir. Pero el oficio es el oficio."*
 

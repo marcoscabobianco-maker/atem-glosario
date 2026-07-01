@@ -1,16 +1,13 @@
 ---
-title: "Necklace of Netted Stars / Teclas de Estrellas en Red"
+title: "Teclas de Estrellas en Red"
 categoria: artefacto
 tags:
  - "corona-del-norte"
  - "artefacto"
  - "collar"
- - "counterspell"
- - "pearls-of-power"
 aliases:
- - "Necklace of Netted Stars / Teclas de Estrellas en Red"
- - "Necklace of Netted Stars"
  - "Teclas de Estrellas en Red"
+ - "Collar de Estrellas en Red"
 ---
 
 <!-- HEADER_IMG -->
@@ -19,10 +16,11 @@ aliases:
 
 ## Presentación
 
-Artefacto de mithril/plata con siete gemas (roja, azul, transparente, negra). Auras de ilusión + transmutación. Siete gemas funcionan como Pearls of Power (recuperan niveles de hechizo 1/día). Habilidad primaria: counterspell (+12 + perlas sin usar, max +19). Valor: 5,000-10,000+ oro. Originalmente vinculado a La Llorona. Entregado a [[Warhol]].
-*Apariciones:* su identificación y asignación
-*Conexiones:* [[Warhol]], La Llorona, Caverna de Lágrimas
+Collar de mithril y plata con siete gemas —roja, azul, transparente, negra— que despiden auras de ilusión y transmutación. Cada gema guarda una fuerza mágica ya gastada y la devuelve a quien lo porta, una vez por jornada; su virtud mayor es deshacer el conjuro del enemigo en el instante mismo en que se pronuncia. Reliquia de poder altísimo, codiciada como un tesoro de reyes. Estuvo vinculado en su origen a La Llorona y fue entregado a [[Warhol]].
+
+*Apariciones:* su identificación y entrega.
+*Conexiones:* [[Warhol]], La Llorona, Caverna de Lágrimas.
 
 ## Notas
 
-Artefacto potentísimo para grupo de este nivel. La profecía de [[Warhol]] ("Reinas sin corona en el inframundo") sugiere conexión más profunda.
+Artefacto potentísimo. La profecía de [[Warhol]] ("Reinas sin corona en el inframundo") sugiere una conexión más profunda.

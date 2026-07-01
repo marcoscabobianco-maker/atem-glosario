@@ -1,5 +1,5 @@
 ---
-title: "Latino Cravits (TG)"
+title: "Latino Cravits (Torregrises)"
 categoria: personaje
 tags:
  - "personaje"
@@ -9,7 +9,7 @@ tags:
  - "sil"
  - "muerte"
 aliases:
- - "Latino Cravits (TG)"
+ - "Latino Cravits (Torregrises)"
  - "TG"
  - "Latino Cravits"
 ---
@@ -20,7 +20,7 @@ aliases:
 
 ## Presentación
 
-Personaje recurrente de [[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]]. Viejo amigo de **[[Federico_TG|Federico (TG)]]**, "tiene particular relevancia en el futuro." Tomó vacaciones en un hotel playero de Canción donde conoció a **Sil (TG)**, "una motoneta colorada." Escribió cartas de amor. Bailaba en discotecas. Eventual destino: muere o desaparece — "su desdichada participación en esta historia se detuvo fehaciente en la sala de un hospital pública." "Una motoneta que ya no se fabrica en [[Torregrises]], sus repuestos son difíciles de alcanzar" = elegía a Sil. Alias variantes: Latino Cravis, Lati Borrach.
+Personaje recurrente de [[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]]. Viejo amigo de **[[Federico_TG|Federico (Torregrises)]]**, "tiene particular relevancia en el futuro." Tomó vacaciones en un hotel playero de Canción donde conoció a **Sil (Torregrises)**, "una motoneta colorada." Escribió cartas de amor. Bailaba en discotecas. Eventual destino: muere o desaparece — "su desdichada participación en esta historia se detuvo fehaciente en la sala de un hospital pública." "Una motoneta que ya no se fabrica en [[Torregrises]], sus repuestos son difíciles de alcanzar" = elegía a Sil. Alias variantes: Latino Cravis, Lati Borrach.
 
 ## Apariciones notables
 
@@ -28,4 +28,4 @@ Personaje recurrente de [[Pablo_de_Alejandria|Pablo]] y [[Miranda_TG|Miranda]]. 
 
 ## Notas
 
-Ver **Sil (TG)**, **[[Federico_TG|Federico (TG)]]**. Grafía principal: Cravits (también aparece Cravis).
+Ver **Sil (Torregrises)**, **[[Federico_TG|Federico (Torregrises)]]**. Grafía principal: Cravits (también aparece Cravis).

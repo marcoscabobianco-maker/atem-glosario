@@ -20,8 +20,11 @@ tags:
  - predecesor-dinastico
  - linaje-drusus
  - apertura-magica
-imagen: null
+imagen: Imagenes_Tier1/Drusus_V.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Drusus_V.png]]
+<!-- /HEADER_IMG -->
 
 > *"El nombre Drusus pesa más en quien lo hereda que en quien lo lleva primero. Drusus V abrió la Orden; sus sucesores la administraron; el nombre quedó como obligación cosmológica antes que como apellido dinástico."*
 

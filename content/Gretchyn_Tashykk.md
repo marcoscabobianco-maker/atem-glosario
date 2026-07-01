@@ -18,8 +18,11 @@ tags:
  - calle-de-la-linterna
  - cautelosa
  - rulfo-coadministradora
-imagen: null
+imagen: Imagenes_Tier1/Gretchyn_Tashykk.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gretchyn_Tashykk.png]]
+<!-- /HEADER_IMG -->
 
 > *"Anciana halfling arrugada como una pasa. Aunque desconfió inicialmente de ellos, al ver el estado de Rulfo y reconocer a los aventureros como enviados del templo, les permitió la entrada, aunque seguía cautelosa."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

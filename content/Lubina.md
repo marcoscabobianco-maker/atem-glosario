@@ -33,7 +33,7 @@ Lubina encarna el tema del control y la seducción en la cosmología del cosmos 
 de huir ante luz divina marca límite de su poder. La víctima [[Shen]] contrasta con [[More]]
 (endemoniado, bajo control de Lubina, responsable de muertes de niños).
 
-En *Señores de [[York]]* (Taller l.991-1022), Lubina lidera un campamento de pictos. Descrita como súcubo: piel blanca como leche, cabellos pelirrojos, cuerpo menudo. Seduce a [[More]] y luego captura a todo el grupo de búsqueda mediante un hechizo de bienestar y relajación en su tienda. Obliga a los prisioneros a atacar [[York]] y [[Monkchester]]. Solo la intervención divina ('los brazos de Lugh' o ángeles celestes) rompe su dominio. En el Epílogo, [[Wako]] la menciona como 'la arpía'.
+En *Señores de [[York]]*, Lubina lidera un campamento de pictos. Descrita como súcubo: piel blanca como leche, cabellos pelirrojos, cuerpo menudo. Seduce a [[More]] y luego captura a todo el grupo de búsqueda mediante un hechizo de bienestar y relajación en su tienda. Obliga a los prisioneros a atacar [[York]] y [[Monkchester]]. Solo la intervención divina ('los brazos de Lugh' o ángeles celestes) rompe su dominio. En el Epílogo, [[Wako]] la menciona como 'la arpía'.
 
 ## Ver también
 

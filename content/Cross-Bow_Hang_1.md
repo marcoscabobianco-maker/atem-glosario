@@ -1,15 +1,14 @@
 ---
-title: "Cross-Bow Hang"
+title: "Ballesta Hang"
 categoria: objeto
 aliases:
+ - "Ballesta Hang"
  - "Cross-Bow Hang"
 ---
 
 ## Presentación
 
-**Rareza:** Menor
-**Descripción:** Ballesta encantada. Sus virotes muerden con frío de escarcha; la madera resiste el fuego sostenido.
-**Nota:** Arma defensiva con daño secundario; no particularmente potente
+Ballesta encantada, reliquia menor. Sus virotes muerden con frío de escarcha; la madera resiste el fuego sostenido. Arma defensiva de daño secundario, no particularmente potente.
 
 ## Vinculos
 

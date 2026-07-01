@@ -1,5 +1,5 @@
 ---
-title: "Azure Keep"
+title: "Fortaleza Azur"
 aliases:
  - "Azure_Keep"
 en_construccion: true
@@ -15,4 +15,4 @@ Esta entrada es mencionada desde:
 
 ---
 
-*Si llegaste aquí buscando información sobre **Azure Keep**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+*Si llegaste aquí buscando información sobre **Fortaleza Azur**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

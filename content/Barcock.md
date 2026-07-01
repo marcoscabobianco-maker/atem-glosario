@@ -14,6 +14,6 @@ Halfling pícaro, retratado en pleno latrocinio. De la [[Novatos_Ravenloft|compa
 
 - [[Novatos_Ravenloft|Gesta Novatos Ravenloft]] — contexto de gesta en el que opera
 - [[Halflings_Plumthorn|Halflings de Plumthorn]] — facción halfling del mismo entorno
-- [[Barrowmaze]] — mega-dungeon al que la gesta tiene acceso
+- [[Barrowmaze]] — mega-mazmorra al que la gesta tiene acceso
 - [[Ciudadela_Sin_Sol]] — fortaleza en ruinas central a la gesta [[Novatos_Ravenloft|Novatos]]
 - [[Barrado_Balacan|Barrado Balacán]] — región territorial de la gesta

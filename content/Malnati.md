@@ -20,8 +20,11 @@ aliases:
  - "Malnati"
  - "Maldati"
  - "El maestro de la logia"
-imagen: null
+imagen: Imagenes_Tier1/Malnati.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Malnati.png]]
+<!-- /HEADER_IMG -->
 
 > *Una logia es un equipo; el gran maestre, la AFA. Lo demás es saber de qué lado de la cancha juega cada uno.*
 
@@ -60,7 +63,7 @@ Esa pedagogía tiene un filo político. Es Malnati quien **descubre que [[Ricard
 - [[Logia_Anael]] — la logia de derecha rival; la hermandad de Moretti que Malnati destapa
 - [[Circonio_Piedra_Azul]] — la piedra que zumba bajo la lona en el local de la logia que él conduce
 - [[Orden_Esoterica_de_Dagon]] — la Orden de Dagón que codicia esa piedra; el fondo del tablero
-- [[Nyarlathotep|Tulu]] — la potencia que duerme bajo las islas, lo que late debajo de la lección
+- [[Cthulhu]] — la potencia que duerme bajo las islas, lo que late debajo de la lección
 
 ## Notas
 

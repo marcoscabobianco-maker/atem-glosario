@@ -109,5 +109,5 @@ imagen: Imagenes_Tier1/Estela_Nereida.png
 - **Escape en locomotora fronteriza germana** — invocación elemental acuático
 - **Desembarque en Niza** — fin del arco compartido con el grupo
 - **Viena — actuación ante Emperador** — destino final del recorrido (decisión de alejarse de París)
-- **Time Capsule 1** — mención en carta de Claude: *"salvada junto a Velo bajo cielo de [[Plataforma_Piscis]]"*
+- **Cápsula del Tiempo 1** — mención en carta de Claude: *"salvada junto a Velo bajo cielo de [[Plataforma_Piscis]]"*
 - **Promesa de contacto futuro con ninfas de rango mayor** — hilo pendiente

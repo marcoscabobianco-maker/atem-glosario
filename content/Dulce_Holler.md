@@ -20,8 +20,11 @@ aliases:
  - "La alemana"
  - "La rubia"
  - "La kraut"
-imagen: null
+imagen: Imagenes_Tier1/Dulce_Holler.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Dulce_Holler.png]]
+<!-- /HEADER_IMG -->
 
 > *Todo lo resuelve con el hacha. Lo demás —el encanto, la coartada, la mentira bien dicha— es apenas el filo de antes.*
 

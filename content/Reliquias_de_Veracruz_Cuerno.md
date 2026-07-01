@@ -16,4 +16,4 @@ Cuerno ritual de ivory oscuro con inscripciones, vapor saliendo del mouthpiece. 
 - [[Astilla_de_la_Veracruz|Astilla de la Veracruz]] — reliquia principal del mismo origen sagrado
 - [[Campana_de_Veracruz|Campana de Veracruz]] — artefacto de poder análogo, mismo ámbito cultual
 - [[Reliquias_Templarias|Reliquias Templarias]] — colección mayor a la que pertenece
-- [[Campana_Templarios_TE|Gesta Templarios (TE)]] — gesta donde circulan estas reliquias
+- [[Campana_Templarios_TE|Gesta Templarios]] — gesta donde circulan estas reliquias

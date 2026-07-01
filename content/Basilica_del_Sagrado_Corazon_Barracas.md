@@ -1,6 +1,6 @@
 ---
-title: "Basílica del Sagrado Corazón (Barracas)"
-título: "Basílica del Sagrado Corazón (Barracas) — el templo sobre el arsenal"
+title: "Basílica del Sagrado Corazón de Barracas"
+título: "Basílica del Sagrado Corazón de Barracas — el templo sobre el arsenal"
 slug: Basilica_del_Sagrado_Corazon_Barracas
 categoria: lugar
 epoca: "1966 — Buenos Aires, tras el descenso bajo las Malvinas"
@@ -25,7 +25,7 @@ En el sur de [[Buenos_Aires_Ucronica|Buenos Aires]], en el barrio de Barracas, s
 
 ## La fachada y lo que esconde
 
-La basílica se erige a pocas cuadras de la logia de los **Hijos del Trabajo**, de modo que el barrio mismo es un nudo de obediencias cruzadas: el trabajo por un lado, la cruz por el otro, y bajo ambas la pólvora. La piedra sagrada de Barracas no es un santuario sino una bisagra: el lugar donde la trama política de la Buenos Aires de 1966 —anticomunismo, logias, armas que esperan una guerra que nadie ha declarado todavía— se enrosca con lo que el grupo arrastra desde el Atlántico Sur. Para quienes bajaron bajo las islas y volvieron sabiendo de más, el arsenal del templo es el rostro continental de una misma cofradía del fondo: la mano que arma en tierra es prima de la mano batracia que espera en el agua, la de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]] que prepara la venida de [[Nyarlathotep|Tulu]].
+La basílica se erige a pocas cuadras de la logia de los **Hijos del Trabajo**, de modo que el barrio mismo es un nudo de obediencias cruzadas: el trabajo por un lado, la cruz por el otro, y bajo ambas la pólvora. La piedra sagrada de Barracas no es un santuario sino una bisagra: el lugar donde la trama política de la Buenos Aires de 1966 —anticomunismo, logias, armas que esperan una guerra que nadie ha declarado todavía— se enrosca con lo que el grupo arrastra desde el Atlántico Sur. Para quienes bajaron bajo las islas y volvieron sabiendo de más, el arsenal del templo es el rostro continental de una misma cofradía del fondo: la mano que arma en tierra es prima de la mano batracia que espera en el agua, la de [[Orden_Esoterica_de_Dagon|la Orden Esotérica de Dagón]] que prepara la venida de [[Cthulhu]].
 
 ## El arquitecto y el nombre
 

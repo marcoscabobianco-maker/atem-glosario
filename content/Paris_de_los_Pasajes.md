@@ -166,3 +166,12 @@ Justo antes de partir, el cronista había hojeado la *Storia della belleza* de U
 - **1 de enero de 2011** — siesta, frío intempestivo, sueño de la plataforma-gusano
 - **2 de enero** — sueño de las Cronoputas y del [[Corazon_de_Pablo_Yunque_del_Tiempo|Yunque del Tiempo]]
 - **17 de enero** — [[Caballo]] Blanco, último apunte parisino del cuaderno
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente visual (meta de imagen):** Philippe Mohlitz, grabador francés contemporáneo, llegó como regalo de París traído por Baudio un par de años antes; el GM lo usó para retratar a los Reunidos alrededor del fuego cerca del Pico del Águila. Cita del cuaderno: *"Baudio me había traído un par de años antes un regalo de París: Mohlitz. Es este un dibujante que inspiró algunas escenas del ciclo. Recuerdo haberlo usado para retratar a los Reunidos…"*. La regla de cero-meta de imágenes mantiene los grabadores reales fuera de la lectura pública; el cuaderno parisino es asertórico antes que diegético, de ahí que esta entrada sea una bisagra.
+- **Fuente:** cuaderno C42 (dic 2010 – ene 2011).

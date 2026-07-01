@@ -11,4 +11,4 @@ aliases:
 
 ## Presentación
 
-[[Mistu]] sugiere que existe infraestructura sobrenatural persa previa a Cruzadas. ¿Conexión con eventos PU ([[Paris_Ucronica|París Ucrónica]], magia antigua)?
+[[Mistu]] sostiene que ya antes de las Cruzadas existía en tierra persa una infraestructura sobrenatural, un poder antiguo asentado mucho antes de aquellas guerras. El archivo deja abierto si ese sustrato comunica con la magia vieja de [[Paris_Ucronica|París Ucrónica]].

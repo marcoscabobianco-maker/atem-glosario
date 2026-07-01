@@ -12,7 +12,12 @@ aliases:
  - "Pablo Mono"
  - "Pablo Grast"
 aa: "P.4 pacto por proxy ; C.2 el doble: es lo que no es ; A.1 amnesia operativa [MC]"
+imagen: Imagenes_Tier1/Pablo_Mono.png
+
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Pablo_Mono.png]]
+<!-- /HEADER_IMG -->
 
 ## Presentación
 

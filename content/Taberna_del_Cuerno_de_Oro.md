@@ -11,12 +11,8 @@ aliases:
 
 ## Presentación
 
-Locación en el [[Infierno]] de la el Descenso. Referenciada en el archivo.
-
-## Apariciones notables
-
-el Descenso el archivo.
+Paraje del [[Infierno]] en la era del Descenso, que el archivo recuerda apenas por su nombre.
 
 ## Notas
 
-"[[Cuerno_Reliquia_Objeto_Magico|Cuerno]] de Oro" resuena con el [[Cuerno_Reliquia_Objeto_Magico|Cuerno]] de Oro de Estambul/[[Constantinopla_Ucronica_1055_CE|Constantinopla]] — patrón de de nombrar locaciones infernales con referencia histórica.
+Su nombre, "[[Cuerno_Reliquia_Objeto_Magico|Cuerno]] de Oro", resuena con el Cuerno de Oro de Estambul, la [[Constantinopla_Ucronica_1055_CE|Constantinopla]] ucrónica: la crónica advierte aquí el hábito de bautizar los parajes infernales con un eco de la geografía histórica.

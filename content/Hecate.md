@@ -51,7 +51,7 @@ imagen: null
 
 - **Costas de Albion** — primer escenario documentado del desvío de Rintrah.
 - **Cruces entre los efluvios elementales y los dioses paganos** — operación recurrente.
-- **Sub-niveles del mega-dungeon de Ardisvala** — operación esporádica documentada en jornadas del aparato [[Buscadores_de_Ardis_Vala|Buscadores]].
+- **Sub-niveles del mega-mazmorra de Ardisvala** — operación esporádica documentada en jornadas del aparato [[Buscadores_de_Ardis_Vala|Buscadores]].
 - **Posibles cruces con la doctrina cancerina del polo lunar nocturno** — vínculo doctrinal con [[Serpiente_Luna_Auna]] *(la doctrina lo sospecha sin confirmarlo plenamente)*.
 
 ---

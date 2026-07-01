@@ -22,8 +22,11 @@ tags:
  - templo-san-cutberto
  - geas-cadena
  - vaticano-historico
-imagen: null
+imagen: Imagenes_Tier1/Fogimer.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Fogimer.png]]
+<!-- /HEADER_IMG -->
 
 > *"La chispa que ilumina el camino. Con un profundo sentido de justicia y amor por la gente humilde, Foggimer emplea milagros de luz para disipar las tinieblas, sean mágicas o metafóricas. Durante la '[[Temporada_de_Inundaciones]]', él encabezó la búsqueda de las varitas robadas que permitirían desviar las aguas de la ciudad, salvando incontables vidas."* — [[Mascor_Blancarba]], *[[Gacetilla_de_Caldero]]*.
 

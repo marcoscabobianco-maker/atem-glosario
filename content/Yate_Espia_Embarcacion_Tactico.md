@@ -27,7 +27,7 @@ Ruta documentada: puerto de [[Niza_Costa_Azul|Niza]] (costa mediterránea france
 
 En la trama es puente logístico entre la fuga terrestre ([[Orient_Express|Orient Express]] + Suiza) y la llegada a [[Bucarest_Ucronica|Bucarest]]. Permite a [[Time_Bandits|Time Bandits]] reorganizarse, recibir apoyos del Ministerio (papeles falsos, compensación de 1000 francos por cabeza, inteligencia sobre el Círculo de Serbia), y mantener discreción diplomática.
 
-Incidente marinero: Ataque de **[[Naga_acuatica|Naga acuática]]** (entidad serpentina de tamaño mayor, capacidades hipnóticas/encantamiento). Batalla en cubierta: [[Corvino]] es encantado momentáneamente, [[Swan]] y Claude combaten cuerpo a cuerpo, [[Philippe|Philip]] y Aby atacan con municiones mágicas. Disparo crítico mata a la naga. Cuerpo/cabeza preservada como trofeo macabro (sumergida en salmuera para conservación post mortem).
+Incidente marinero: Ataque de **Naga acuática** (entidad serpentina de tamaño mayor, capacidades hipnóticas/encantamiento). Batalla en cubierta: [[Corvino]] es encantado momentáneamente, [[Swan]] y Claude combaten cuerpo a cuerpo, [[Philippe|Philip]] y Aby atacan con municiones mágicas. Disparo crítico mata a la naga. Cuerpo/cabeza preservada como trofeo macabro (sumergida en salmuera para conservación post mortem).
 
 El ataque de naga sugiere: (a) Círculo de Serbia controla o alianza con criaturas serpentinas, (b) Mar [[Mediterraneo_Ucronico|Mediterráneo]] contiene enclaves de nagas/entidades marinas hostiles, (c) ruta a [[Bucarest_Ucronica|Bucarest]] es territorialmente disputada entre fuerzas sobrenaturales.
 
@@ -48,4 +48,4 @@ Diseño/especificaciones sugieren fusión steampunk + magia arcana: calderas, m�
 ## Ver también
 
 - [[Meteora|Meteora]]
-- [[Naga_acuatica|Naga acuática]]
+- Naga acuática

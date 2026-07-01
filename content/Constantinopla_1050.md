@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Constantinopla_1050.png]]
 <!-- /HEADER_IMG -->
 
-Vista de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] con [[Hagia_Sophia]] al amanecer.
+La lámina ofrece una vista de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] al amanecer, con la [[Hagia_Sophia]] recortada contra la primera luz. El archivo la guarda como estampa de la ciudad hacia el año 1050.

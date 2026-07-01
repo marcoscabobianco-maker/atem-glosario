@@ -20,6 +20,6 @@ El anillo fue parte del arco de [[Wako]] en la [[Contienda_la|Contienda]] (el to
 - [[Mabron|Mabrón]] — el espectro encerrado en el anillo; poeta y profeta asesinado por los mismos que nominó
 - [[Wako]] — portador del anillo; general de [[Rintrah]] que invoca y custodia el fantasma
 - [[Rintrah]] — grupo ante el que se invoca el testimonio espectral
-- [[Grazzt|Graz'zt]] — señor demoníaco interlocutor de Wako en el Epílogo del Taller
+- [[Grazzt|Graz'zt]] — señor demoníaco interlocutor de Wako en el Epílogo del ciclo
 - [[Contienda_la|la Contienda]] — arco narrativo donde el anillo opera (1370 DR)
 - [[Sigil]] — Ciudad de las [[Puertas]]; lugar de convocatoria de Wako para la misión de las coronas

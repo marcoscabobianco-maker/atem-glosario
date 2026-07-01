@@ -59,7 +59,7 @@ Quien presencia la convocatoria no sale entero. La razón se va a jirones, como 
 
 ## El reino del otro lado
 
-Lo que late detrás de los cthonianos no se agota en la isla. Pertenecen al mismo sustrato que en estas Malvinas rinde culto a [[Nyarlathotep|Tulu]] y a las potencias que sueñan bajo el agua; son una de las muchas caras con que ese fondo asoma a la superficie. Del otro costado del espejo que los convoca rima siempre la misma visión —la **tierra de los dos soles**, el reino amarillo de [[Carcosa]] que en este archivo se filtra por cada umbral que alguien tiene la mala fortuna de abrir. Los cthonianos no son el fondo: son lo que sube de él cuando alguien arde lo bastante para llamarlos. El registro físico de estas apariciones se conserva en el cuaderno 99, junto al resto de los aparatos de la Orden.
+Lo que late detrás de los cthonianos no se agota en la isla. Pertenecen al mismo sustrato que en estas Malvinas rinde culto a [[Cthulhu]] y a las potencias que sueñan bajo el agua; son una de las muchas caras con que ese fondo asoma a la superficie. Del otro costado del espejo que los convoca rima siempre la misma visión —la **tierra de los dos soles**, el reino amarillo de [[Carcosa]] que en este archivo se filtra por cada umbral que alguien tiene la mala fortuna de abrir. Los cthonianos no son el fondo: son lo que sube de él cuando alguien arde lo bastante para llamarlos. El registro físico de estas apariciones se conserva en el cuaderno 99, junto al resto de los aparatos de la Orden.
 
 ---
 
@@ -68,7 +68,7 @@ Lo que late detrás de los cthonianos no se agota en la isla. Pertenecen al mism
 - [[Espejo_de_laton_galico]] — la lámina de bronce que los convoca; el umbral por donde acuden
 - [[Circonio_Piedra_Azul]] — el huevo amarillo que, expuesto ante el espejo, abre el ojo que los deja pasar
 - [[Orden_Esoterica_de_Dagon]] — los Profundos del Atlántico Sur, dueños del aparato que los llama
-- [[Nyarlathotep]] — Tulu y las potencias que sueñan bajo las islas, sustrato del que los cthonianos son cara visible
+- [[Nyarlathotep]] — Cthulhu y las potencias que sueñan bajo las islas, sustrato del que los cthonianos son cara visible
 - [[Carcosa]] — la tierra de los dos soles que asoma del otro lado del mismo umbral
 
 ## Apariciones

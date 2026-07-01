@@ -1,5 +1,5 @@
 ---
-title: "Gallia Placidia (stub)"
+title: "Gallia Placidia"
 categoria: personaje
 tags:
  - "personaje"

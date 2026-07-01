@@ -27,7 +27,7 @@ aliases:
 
 - [[Pluton_CDI|Plutón]] — señor y dueño de la Manada; sus lobos son extensión de su voluntad
 - [[Forma_de_Pluton|Forma de Plutón]] — avatares/manifestaciones del mismo ser que pueden solaparse con la Manada
-- [[Anti_Inferno|el Descenso (CDI)]] — gesta y marco dramático del arco de la Manada
+- [[Anti_Inferno|el Descenso]] — gesta y marco dramático del arco de la Manada
 - [[El_Abismo|el Abismo]] — plano demoníaco de referencia para criaturas-lobo de naturaleza caótica
 - [[Erinyes|Erinyes]] — otras sirvientas infernales con las que la Manada podría rivalizar o colaborar
 - [[Herding_Devils_Diablos_Pastores|Diablos Pastores]] — categoría de diablos que también manejan bestias infernales

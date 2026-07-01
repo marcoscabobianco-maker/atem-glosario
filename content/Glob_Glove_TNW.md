@@ -1,12 +1,12 @@
 ---
-title: "Glob / Glove (TNW)"
+title: "Glob / Glove (Mundo Nuevo)"
 tags:
  - "gary-tnw"
  - "invocador"
 aliases:
- - "Glob / Glove (TNW)"
+ - "Glob / Glove (Mundo Nuevo)"
  - "Glob"
- - "Glove (TNW)"
+ - "Glove (Mundo Nuevo)"
  - "TNW"
  - "Glob / Glove"
 ---
@@ -24,3 +24,11 @@ Conductor de automóviles y [[Lavador_de_coches|lavador de coches]] de [[Gary_In
 ## Ver también
 
 - [[Lavador_de_coches|Lavador de coches]]
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Ref.: 1b l.940 ("Sí, glove"), 1b ("El nombre es Glob, señorita. Soy piloto"), 2d l.851 ("Le dicen ya Glovi"), 3_intro ("Glob es el conductor de automóviles"). C73 p.24: "Drogue en los bolsillos del lavador de coches, o sea, Glove." C73 p.92: "El invocador Glove lo empieza a ver."

@@ -15,7 +15,7 @@ Levantamiento político armado que define el nuevo ciclo de gesta nacido del [[A
 
 ## Vínculos
 
-- [[Anti_Inferno|El Descenso (CDI)]] — gesta del que nace esta gesta post-CDI de temática revolucionaria
+- [[Anti_Inferno|El Descenso]] — gesta del que nace esta gesta post-CDI de temática revolucionaria
 - [[General_Hessiano]] — antagonista de la Revolución Americana en Antiterra; espejo del bando contrario al mismo conflicto
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] — grupo del siglo XVIII cuyo tema central es también la revolución y la independencia americana (Aries / 1784 [[Anno_Domini_Antiterra_ADA|A.D.A.]])
 - [[Bastilla_uchronica|Bastilla ucrónica]] — eco revolucionario en el Paris ucrónico; resonancia temática directa

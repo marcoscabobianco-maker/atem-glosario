@@ -1,10 +1,11 @@
 ---
-title: "Time Capsules"
+title: "Cápsulas del Tiempo"
 categoria: lugar
 tags:
  - "paris-ucronica"
  - "quest"
 aliases:
+ - "Cápsulas del Tiempo"
  - "Time Capsules"
 ---
 

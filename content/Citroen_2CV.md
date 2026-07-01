@@ -1,6 +1,6 @@
 ---
-title: "Citroën 2CV (robado)"
-título: "Citroën 2CV (robado)"
+title: "Citroën 2CV"
+título: "Citroën 2CV"
 slug: Citroen_2CV
 categoria: objeto
 epoca: "1966 — el descenso bajo las Malvinas"

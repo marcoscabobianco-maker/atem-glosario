@@ -76,3 +76,13 @@ Que la cuna de una bibliotecaria-cronista —la que escribe el [[Calendario]] y 
 - [[Arborea_Eden_CDI|Arborea / Eden]] (plano contenedor — confirmar relación)
 - [[Arcoms_Cosmar|Arcoms Cosmar]] (padre de Clarisa)
 - [[Nasim]] (madre de Clarisa)
+
+---
+
+## Capa interna [R]
+
+> No diegético; no entra a productos públicos.
+
+- **Fuente externa:** *Faiths & Avatars* (TSR, 1996), *Planes of Chaos* (TSR, 1994). Brightwater = dominio de Tymora (Reinos Olvidados) en Arborea; Clarisa nace 1354 DR.
+- **Palimpsesto:** importación de Reinos Olvidados sin reinterpretación profunda; la elección de Brightwater como cuna de Clarisa fue producida en situación lúdica.
+- **Pendientes:** ¿Brightwater es el mismo lugar que [[Arborea_Eden_CDI|Arborea/Eden]] del Descenso? ¿Tymora tiene presencia explícita en el cosmos compartido? ¿otros compañeros nacen o transitan Brightwater?

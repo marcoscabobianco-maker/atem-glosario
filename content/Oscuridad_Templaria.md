@@ -31,7 +31,7 @@ imagen: Imagenes_Tier1/Oscuridad_Templaria.png
 
 La oscuridad no es ausencia de luz. Es **doctrina**: lo que la Orden no pudo confesar en concilio público lo confiesa aquí, en bosque, donde los confesores son los árboles y los testigos los ahorcados. **Quien entra a este pliegue no sale igual.** El paladín suele perder su carisma; el clérigo, su don; el villano, en cambio, **prospera**.
 
-Toca varias regiones: la **cripta del Temple en París** la roza; la **bóveda replicante** la duplica; el **vampirismo del Druida Rodrigo en el Templo de Thoth** entra por su umbral. Conviene distinguirla del [[Arbol_Gulthias|Árbol Gulthias]], que opera por savia, no por penitencia: el árbol exige sangre; la Oscuridad Templaria exige confesión que la fe no admite.
+Toca varias regiones: la **cripta del Temple en París** la roza; la **bóveda replicante** la duplica; el **vampirismo de [[Numa_Pompidio|Numa Pompilio]] en el Templo de Thoth** entra por su umbral. Conviene distinguirla del [[Arbol_Gulthias|Árbol Gulthias]], que opera por savia, no por penitencia: el árbol exige sangre; la Oscuridad Templaria exige confesión que la fe no admite.
 
 ## Vínculos
 
@@ -46,4 +46,4 @@ Toca varias regiones: la **cripta del Temple en París** la roza; la **bóveda r
 
 - **Post-disolución de la Orden del Temple** — el bosque emerge donde el Concilio dejó deudas sin cobrar
 - **[[Cripta_del_Temple]], París** — manifestación arquitectónica del pliegue
-- **Templo de Thoth, primer Druida Rodrigo** — vampirización en el umbral del bosque
+- **Templo de Thoth, Numa Pompilio** — vampirización en el umbral del bosque

@@ -114,7 +114,7 @@ En la gesta **[[La_Jabalina|Caldero / La Jabalina]]** (la crónica retomada del 
 - [[Benetton]] — quien dio muerte a Barbatos y cambió de manos la Piedra
 - [[Los_Reguladores]] — buscadores de la Piedra
 - [[La_Jabalina|Caldero / La Jabalina]] — gesta 2024-25 que retoma el hilo
-- [[Kronamon]] — vinculado en eje [[Anno_Domini_Antiterra_ADA|A.D.A.]] ([[Sucesos_de_Antiterra]] p.13)
+- [[Chronomon|Kronamon]] — vinculado en eje [[Anno_Domini_Antiterra_ADA|A.D.A.]] ([[Sucesos_de_Antiterra]] p.13)
 - [[Panteon_el|Panteón]] — uno de los buscadores
 - [[Elias|Elías]] — parte de la tríada que sustituye los designios de Pablo
 - [[Arian]] — parte de la tríada

@@ -1,6 +1,6 @@
 ---
 title: "Strahd"
-título: "Strahd (referencia Ravenloft canónica)"
+título: "Strahd"
 slug: Strahd
 categoria: referencia
 estado: stub_diegetico
@@ -70,3 +70,12 @@ En **el regreso tras el Hiato [[Ardis_Vala]]**, los [[Buscadores_de_Ardis_Vala|B
 
 - **Referencia indirecta**: mencionado en el regreso tras el Hiato como "Strahd" / "Estrada" / "Baret"
 - **No aparece directamente en el ciclo** — función estructural de referencia
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Origen del darklord arquetípico: módulo *I6: Ravenloft* (Tracy & Laura Hickman, 1983); reimpresión moderna *Curse of Strahd* (2016); sistematización en *Domains of Dread* (1997).
+- En la mesa, Strahd funciona como molde declarado para [[Caladan]] sobre [[Valakhan_de_la_Bruma]].

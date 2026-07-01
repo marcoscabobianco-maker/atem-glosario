@@ -1,12 +1,12 @@
 ---
-title: "Gladiators (TNW)"
+title: "Gladiators (Mundo Nuevo)"
 categoria: lugar
 tags:
  - "gary-tnw"
  - "faction"
  - "gang"
 aliases:
- - "Gladiators (TNW)"
+ - "Gladiators (Mundo Nuevo)"
  - "TNW"
  - "Gladiators"
 ---

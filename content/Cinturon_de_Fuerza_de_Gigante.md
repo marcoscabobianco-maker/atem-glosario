@@ -17,9 +17,9 @@ aliases:
 
 **Descripción**: Objeto mágico obtenido de [[Pluton_CDI|Plutón]]. Confiere al portador la fuerza de un gigante —de fuego, se presume—.
 **Naturaleza**: Amplifica el poder de combate del portador. Posiblemente solo responda a cierto compañero, o a manos ya fuertes.
-**[[Posesion|Posesión]]**: No especificado quién lo lleva (issue abierto).
+**Posesión**: No especificado quién lo lleva (issue abierto).
 **Refs**:
 
 ## Ver también
 
-- [[Posesion|Posesión]]
+- Posesión

@@ -3,7 +3,6 @@ title: "Ala del Cuervo (Estilo de Combate)"
 categoria: lugar
 tags:
  - "paris-ucronica"
- - "mecánica"
  - "combate"
 aliases:
  - "Ala del Cuervo (Estilo de Combate)"
@@ -19,7 +18,7 @@ aliases:
 
 Estilo de combate personal de [[Corvino|Corvino]], inspirado en patrones de vuelo de cuervos ("el pueblo de los cuervos"). Primera documentación detallada en combate: [[Fruto_del_Conocimiento_S11|la jornada]].
 
-**Mecánica:**
+**En combate:**
 - Postura defensiva con deflexión automática de un ataque por ronda
 - Compatible con espada del oficio de la línea Cuervo
 - Permite defensa plena (full defense) sin perder capacidad de contraataque al turno siguiente

@@ -38,7 +38,7 @@ Su arco de mesa lo lleva de **[[Los_Boreales|los Boreales]]** al ciclo de **[[Lo
 - [[Los_Boreales]] — gesta de origen
 - [[Los_Reguladores]] — paso intermedio
 - [[Les_Libertateurs_Pretty_Women|Les Libertateurs]] — destino del arco
-- [[Ray_TNW|Ray (TNW)]] — eco trans-gesta en otra línea del cosmos
+- [[Ray_TNW|Ray (Mundo Nuevo)]] — eco trans-gesta en otra línea del cosmos
 - [[Akala]]
 
 ## Apariciones

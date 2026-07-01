@@ -1,5 +1,5 @@
 ---
-title: "Ankara / Ancyra (MC)"
+title: "Ankara / Ancyra (ciclo)"
 categoria: lugar
 tags:
  - "lugar"
@@ -9,9 +9,9 @@ tags:
  - "galatia"
  - "georgia"
 aliases:
- - "Ankara / Ancyra (MC)"
+ - "Ankara / Ancyra (ciclo)"
  - "Ankara"
- - "Ancyra (MC)"
+ - "Ancyra (ciclo)"
  - "MC"
  - "Ankara / Ancyra"
 ---

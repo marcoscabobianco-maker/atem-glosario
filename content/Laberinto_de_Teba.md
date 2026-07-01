@@ -27,3 +27,16 @@ Paredes de roca sólida, aunque algunas son ilusiones de arquitectura mágica qu
 Construcción posiblemente infernal, quizás pre-medieval: las menciones de Amón y los [[Rollos_del_Mar_Muerto]] sugieren sincretismo antiguo-cristiano. El cronista lo plantea deliberadamente como una **inversión del mito de Teseo**: en vez de un héroe solitario contra un monstruo singular, un grupo de cruzados contra una escalada de criaturas —el mito clásico releído en clave cristiana y gnóstica—.
 
 **Eco trans-saga:** cumple una función similar al "[[Infierno]] de 9 círculos" del Descenso —bajada, pruebas, escalada de adversarios—. Ambas sagas estructuran el conflicto como *purgatorio subterráneo progresivo*.
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷
+> *Una bajada que escala adversarios en vez de oponer un único monstruo: la serpiente custodia del huevo infernal, el [[Leon_Epoca_Carlomagno_800_DC|León]] en jaula mágica, el cíclope y el [[Minotauro_Jefe_del_Laberinto|Minotauro]] al fondo son peldaños de un purgatorio subterráneo, atravesado con el ovillo de [[Ariadna_Genoveva|Ariadna]]. El cronista lo declara eco del [[Infierno|Infierno de nueve círculos]] del Descenso: misma máquina de estratos, releída en clave cristiana y gnóstica.* — glosa del Decadiano.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente:** líneas 31-722 (jornada completa, estructura primaria).

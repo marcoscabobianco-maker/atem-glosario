@@ -18,7 +18,7 @@ aliases:
 
 ## Presentación
 
-Institución bajo el dominio de **[[Sabas]]** en [[Torregrises]]. Tiene múltiples pisos/sub-plataformas, incluyendo la "sub-plataforma del Sadomasoquismo" custodiada por **[[Sadi_y_Madi_TG|Sadi y Madi (TG)]]**. Rectora: **[[Clean_TG|Clean (TG)]]**, cuya "gestión es pulcra por definición". Funciona como aparato de control: "muchos han perdido miembros, esperanzas y calor" bajo la gestión de [[Clean_TG|Clean]]. Los [[Sabasios]] como agentes del rey se mencionan tanto en el Bestiario como en el cosmos compartido (Taller de Rol: "¡Cuidado, se acercan [[Sabasios]]!").
+Institución bajo el dominio de **[[Sabas]]** en [[Torregrises]]. Tiene múltiples pisos/sub-plataformas, incluyendo la "sub-plataforma del Sadomasoquismo" custodiada por **[[Sadi_y_Madi_TG|Sadi y Madi (Torregrises)]]**. Rectora: **[[Clean_TG|Clean (Torregrises)]]**, cuya "gestión es pulcra por definición". Funciona como aparato de control: "muchos han perdido miembros, esperanzas y calor" bajo la gestión de [[Clean_TG|Clean]]. Los [[Sabasios]] como agentes del rey se mencionan tanto en el Bestiario como en el cosmos compartido (el archivo: "¡Cuidado, se acercan [[Sabasios]]!").
 
 ## Apariciones notables
 
@@ -26,7 +26,7 @@ Institución bajo el dominio de **[[Sabas]]** en [[Torregrises]]. Tiene múltipl
 
 ## Notas
 
-Ver **[[Sabas]]**, **[[Clean_TG|Clean (TG)]]**, **[[Sadi_y_Madi_TG|Sadi y Madi (TG)]]**.
+Ver **[[Sabas]]**, **[[Clean_TG|Clean (Torregrises)]]**, **[[Sadi_y_Madi_TG|Sadi y Madi (Torregrises)]]**.
 
 ## Ver también
 

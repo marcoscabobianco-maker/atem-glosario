@@ -15,7 +15,7 @@ Registro temporal mayor del arco de la [[Paris_Ucronica|París Ucrónica]]. El a
 
 El nombre dice dos veces lo mismo: «crono», la raíz antigua del tiempo, soldada a «time», su eco en lengua inglesa. Redundancia deliberada o nombre propio —los registros no zanjan la cuestión—, como si el tiempo de la [[Paris_Ucronica|París Ucrónica]] exigiera nombrarse en más de una lengua para quedar asentado.
 
-Su materia se trenza con el resto del aparato temporal del período: la empresa de las [[Time_Capsules|Time Capsules]], los instrumentos que miden o tuercen las horas —[[El_Primer_Reloj|el Primer Reloj]], el Reloj [[Mediterraneo_Ucronico|Ucrónico]], el [[U-Reloj]]— y el [[Pseudo-plano_del_Tiempo|Pseudo-plano del Tiempo]].
+Su materia se trenza con el resto del aparato temporal del período: la empresa de las [[Time_Capsules|Cápsulas del Tiempo]], los instrumentos que miden o tuercen las horas —[[El_Primer_Reloj|el Primer Reloj]], el Reloj [[Mediterraneo_Ucronico|Ucrónico]], el [[U-Reloj]]— y el [[Pseudo-plano_del_Tiempo|Pseudo-plano del Tiempo]].
 
 ## Vínculos
 
@@ -28,5 +28,5 @@ Su materia se trenza con el resto del aparato temporal del período: la empresa 
 
 <!-- CICLO -->
 > **Casas del ciclo** · ⏳ ※
-> *El registro maestro del tiempo de la [[Paris_Ucronica|París Ucrónica]]: el hilo donde sus horas quedan asentadas en orden, paralelo a la [[Cronologia_en_MC_LINEA_TEMPORAL|cronología del ciclo mayor]]. Su nombre dice dos veces lo mismo —«crono» soldado a «time»—, como si el tiempo de este arco exigiera nombrarse en dos lenguas para existir. Su materia se trenza con los instrumentos que miden o tuercen las horas: las [[Time_Capsules|Time Capsules]], [[El_Primer_Reloj|el Primer Reloj]], el [[U-Reloj]]. Donde hay registro del tiempo, el tiempo es mercancía contada.* — glosa del archivero del Plata.
+> *El registro maestro del tiempo de la [[Paris_Ucronica|París Ucrónica]]: el hilo donde sus horas quedan asentadas en orden, paralelo a la [[Cronologia_en_MC_LINEA_TEMPORAL|cronología del ciclo mayor]]. Su nombre dice dos veces lo mismo —«crono» soldado a «time»—, como si el tiempo de este arco exigiera nombrarse en dos lenguas para existir. Su materia se trenza con los instrumentos que miden o tuercen las horas: las [[Time_Capsules|Cápsulas del Tiempo]], [[El_Primer_Reloj|el Primer Reloj]], el [[U-Reloj]]. Donde hay registro del tiempo, el tiempo es mercancía contada.* — glosa del archivero del Plata.
 <!-- /CICLO -->

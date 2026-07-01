@@ -1,6 +1,6 @@
 ---
-title: "Valerius Utrecht (y Roderick)"
-título: "Valerius Utrecht (y Roderick)"
+title: "Valerius Utrecht"
+título: "Valerius Utrecht"
 slug: Valerius_Utrecht
 aliases:
  - Valerius Utrecht
@@ -20,7 +20,7 @@ tags:
  - puertas-oceanicas
 ---
 
-> *Dos figuras hermanadas del archivo en [[Ardis_Vala|Arden Vul]]. Roderick murió cerca de las [[Puertas]] Oceánicas. Valerius llegó después, paladín inquisidor desertor de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]].*
+> *Dos figuras hermanadas del archivo en [[Ardis_Vala|Ardis Vala]]. Roderick murió cerca de las [[Puertas]] Oceánicas. Valerius llegó después, paladín inquisidor desertor de la [[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]].*
 
 ## Presentación
 
@@ -65,7 +65,16 @@ Cuando **[[Alumine_Manwe_Finwe|Alúmine]] decapita a Malakita en la fase media d
 
 ## Apariciones
 
-- [[Ardis_Vala|Arden Vul]] 
+- [[Ardis_Vala|Ardis Vala]] 
 - Roderick — jornadas tempranas a mediano arco, muerte cerca de las Puertas Oceánicas
 - Valerius Utrecht — jornadas siguientes, eje moral del enfrentamiento final
 - la fase media del ciclo primero (audio pendiente) — toma de la Orden
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Una misma mano encarnó **dos compañeros sucesivos** en Arden Vul: Roderick (caído cerca de las Puertas Oceánicas) y luego Valerius Utrecht.
+- "Rodri" aparece en algunas transcripciones por confusión con el personaje Roderick.

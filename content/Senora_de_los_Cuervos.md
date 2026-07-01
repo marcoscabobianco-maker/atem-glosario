@@ -21,10 +21,10 @@ aliases:
 
 ## Presentación
 
-Princesa hada de la Corte Unseelie (Corte Anzili), diosa terrible conectada a [[Corvino]]. Confirmada como virgen guerrera furiosa. [[Entidad]] hada específica, no Morrígan directamente aunque temáticamente relacionada. Aparece en visión de [[Swan]] en el regreso tras el Hiato y cierre de jornada de Kosovo.
+Princesa hada de la Corte Unseelie (Corte Anzili), diosa terrible conectada a [[Corvino]]. Confirmada como virgen guerrera furiosa. Entidad hada específica, no Morrígan directamente aunque temáticamente relacionada. Aparece en visión de [[Swan]] en el regreso tras el Hiato y cierre de jornada de Kosovo.
 
 ## Notas
 
 Ver también **[[Corvino]]**, **Kosovo**.
 
-*Nota (R38):* Princesa hada de la Corte Unseelie (Corte Anzili), diosa terrible conectada a Corvino. Confirmada como virgen guerrera furiosa. [[Entidad]] hada específica, no Morrígan directamente aunque temáticamente relacionada.
+*Nota (R38):* Princesa hada de la Corte Unseelie (Corte Anzili), diosa terrible conectada a Corvino. Confirmada como virgen guerrera furiosa. Entidad hada específica, no Morrígan directamente aunque temáticamente relacionada.

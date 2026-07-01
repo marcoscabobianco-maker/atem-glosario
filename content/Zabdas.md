@@ -19,7 +19,7 @@ Gran conquistador de Egipto, general de **[[Zenobia_de_Palmyra|Zenobia de Palmyr
 
 *Fuente primaria:* Documento Skronamon (línea 12, personaje 15).
 
-*Conexiones:* **[[Zenobia_de_Palmyra|Zenobia de Palmyra]]** (comandante), **[[Axum_MC|Axum (MC)]]** (transmisión de conocimiento oculto), **[[Mani]]** (misterios), **[[GRDT]]** (rey de [[Axum]] receptor del conocimiento).
+*Conexiones:* **[[Zenobia_de_Palmyra|Zenobia de Palmyra]]** (comandante), **[[Axum_MC|Axum (ciclo)]]** (transmisión de conocimiento oculto), **[[Mani]]** (misterios), **[[GRDT]]** (rey de [[Axum]] receptor del conocimiento).
 
 ## Ver también
 

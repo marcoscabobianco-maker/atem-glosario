@@ -1,6 +1,6 @@
 ---
 title: "Protección (Hechizo de Encantamiento)"
-categoria: lugar
+categoria: concepto
 aliases:
  - "Protección (Hechizo de Encantamiento)"
  - "Hechizo de Encantamiento"
@@ -9,9 +9,7 @@ aliases:
 
 ## Presentación
 
-**Invocador:** Múltiples ([[Arsvan|Ärsvan]], [[Alexio]])
-**Descripción:** [[Idiotizacion_Hechizo|Hechizo]] defensivo estándar. Duración 1 minuto/nivel = ~10 minutos en combate.
-**Efectos:** Bonus defensivo, posiblemente resistencia mágica
+Encantamiento defensivo de uso corriente entre los que conocen el arte. El archivo lo registra en boca de más de una mano: tanto [[Arsvan|Ärsvan]] como [[Alexio]] lo invocaron en la hora del peligro. Tendido sobre quien lo recibe, lo escuda mientras dura el embate; la crónica lo emparenta con la [[Idiotizacion_Hechizo|familia de los conjuros]] que blindan al cuerpo y, acaso, a la voluntad contra lo arcano.
 
 ## Ver también
 

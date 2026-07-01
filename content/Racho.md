@@ -27,3 +27,11 @@ Registrado en [[Plataforma_Piscis|Piscis]].
 - [[Arkos|Arkos (el Archivero del Plata)]] — otro alias del mismo nodo de identidad autoral
 - [[Linea_Arian_Avatares|La Línea Arian]] — marco de avatares y Reunidos al que pertenece
 - [[Sigil|Sigil]] — ciudad de los portales desde cuyas 8 puertas se organiza la cosmología del archivo
+
+---
+
+## Capa interna [R]
+
+> No diegético.
+
+- **Distinción editorial:** "para Racho" / "yo soy Racho" = registro M (autodenominación del autor en contexto de mesa); "para [nombre real]" en el mismo contexto puede ser desliz de dictado, a validar. Ref. C50 p.140 (Piscis).

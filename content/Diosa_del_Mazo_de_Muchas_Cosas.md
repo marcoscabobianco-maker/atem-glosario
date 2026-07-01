@@ -56,7 +56,7 @@ imagen: null
 
 **Los ancianos de Caldero** *repiten la historia de la diosa y el Mazo de Muchas Cosas para recordar a cada generación*: **el fuego de la inteligencia, bien encauzado, puede forjar un hogar común en medio de las adversidades**. *El mito opera con doctrina civilizatoria*: **la inteligencia es regalo**; **el encauzamiento es responsabilidad humana**; **el hogar común es resultado de ambos**.
 
-*El Mazo de Muchas Cosas* **opera como **artefacto cosmológico mayor*** del cosmos extendido. **Su nombre evoca el famoso Deck of Many Things** *de las tradiciones arcanas del cosmos extendido*; **pero la Diosa lo opera con martillo, no con cartas**. *Posible interpretación*: **el Mazo primigenio fue la fuente original**; **el Deck de cartas es operación tardía derivada**.
+*El Mazo de Muchas Cosas* **opera como **artefacto cosmológico mayor*** del cosmos extendido. **Su nombre evoca el famoso Mazo de Muchas Cosas en cartas** *de las tradiciones arcanas del cosmos extendido*; **pero la Diosa lo opera con martillo, no con cartas**. *Posible interpretación*: **el Mazo primigenio fue la fuente original**; **el mazo de cartas es operación tardía derivada**.
 
 ---
 
@@ -76,7 +76,7 @@ imagen: null
 - [[Aguila_Asvila]] / [[Serpiente_Luna_Auna]] — figuras míticas complementarias
 - **Mazo de Muchas Cosas** — artefacto cosmológico mayor
 - [[Vala_Cristalis]] — mundo-gema cuya forma volcánica opera la doctrina
-- **Deck of Many Things** — operación tardía derivada del Mazo primigenio
+- **Mazo de cartas** — operación tardía derivada del Mazo primigenio
 - [[Mascor_Blancarba]] — cronista del mito
 
 ## Apariciones
@@ -88,5 +88,5 @@ imagen: null
 
 <!-- CICLO -->
 > **Casas del ciclo** · △ ✦
-> *El Mazo de Muchas Cosas es el artefacto cosmológico que decide un mundo: jugando en el cráter, la diosa golpea la roca incandescente y de cada chispa nace la inteligencia humana, y el último golpe marca el sitio de [[Caldero]] —la ciudad no se construye, responde a la marca. El nombre evoca el famoso Deck of Many Things, pero el mito lo lee al revés: el Mazo primigenio fue la fuente, el Deck de cartas la operación tardía derivada. Hoy la deidad se retiró al estado cosmológico y opera como ausencia activa, presente en cada golpe del forjador sobre la obsidiana de [[Vala_Cristalis|la forma volcánica]].* — glosa de Mascor Blancarba.
+> *El Mazo de Muchas Cosas es el artefacto cosmológico que decide un mundo: jugando en el cráter, la diosa golpea la roca incandescente y de cada chispa nace la inteligencia humana, y el último golpe marca el sitio de [[Caldero]] —la ciudad no se construye, responde a la marca. El nombre evoca el famoso mazo de cartas, pero el mito lo lee al revés: el Mazo primigenio fue la fuente, el mazo de cartas la operación tardía derivada. Hoy la deidad se retiró al estado cosmológico y opera como ausencia activa, presente en cada golpe del forjador sobre la obsidiana de [[Vala_Cristalis|la forma volcánica]].* — glosa de Mascor Blancarba.
 <!-- /CICLO -->

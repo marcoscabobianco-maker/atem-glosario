@@ -8,4 +8,6 @@ aliases:
 ![[Imagenes_Tier1/Hipodromo_Bizantino.png]]
 <!-- /HEADER_IMG -->
 
-Hipodromo de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] ca. 1055 con chariots en carrera.
+## Presentación
+
+La lámina muestra el Hipódromo de [[Constantinopla_Ucronica_1055_CE|Constantinopla]] hacia 1055, con sus carros lanzados en plena carrera.

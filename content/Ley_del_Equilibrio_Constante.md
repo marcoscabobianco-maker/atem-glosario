@@ -13,12 +13,12 @@ aliases:
 
 ## Presentación
 
-**Categoría**: Cosmología / Mecánica [[Anti_Inferno|Inferno]]
+**Categoría**: Cosmología del [[Anti_Inferno|Inferno]]
 
 **Descripción**: Principio fundamental que rige dinámica del [[Anti_Inferno|Infierno]]. El [[Infierno]] está diseñado para "jalar hacia abajo"; cualquier intento de ascender atrae todas las fuerzas del [[Infierno]] contra los ascendentes.
 **Implicación táctica**: Grupo NO puede usar ascenso como escape. Descenso es única ruta viable.
 **Origen**: Posiblemente eco de cosmologías del Aqueronte o lectura propia del archivo sobre Dante.
-**Estado**: Mecánica activa; explica desaparición castillo (ascendió = se fue).
+**Estado**: Ley activa; explica la desaparición del castillo (ascendió = se fue).
 
 ## Ver también
 

@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Lich_Filactera.png]]
 <!-- /HEADER_IMG -->
 
-Phylactery negro con vial conteniendo el alma de [[Arcoms_Cosmar|Arcoms Cosmar]].
+La lámina muestra la filacteria negra del lich: un receptáculo oscuro que guarda, en un vial, el alma de [[Arcoms_Cosmar|Arcoms Cosmar]]. El archivo la conserva como prenda de su no-muerte, el objeto donde su esencia queda atada lejos del cuerpo.

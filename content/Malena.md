@@ -17,8 +17,11 @@ tags:
 aliases:
  - "Malena"
  - "La bióloga"
-imagen: null
+imagen: Imagenes_Tier1/Malena.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Malena.png]]
+<!-- /HEADER_IMG -->
 
 > *Quería ver lo que hay adentro de la montaña. No sabía que la montaña también mira.*
 

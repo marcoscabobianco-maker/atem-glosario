@@ -21,7 +21,7 @@ wikipedia: https://es.wikipedia.org/wiki/Excalibur
 ## Presentación
 
 Espada del gran rey, símbolo de poder legítimo ancestral. Portada por dos personajes
-en Taller de Rol: **[[Dolores]]** (guerrera, Alcaldía de [[York]], esposa de [[David]] — portadora
+en el archivo: **[[Dolores]]** (guerrera, Alcaldía de [[York]], esposa de [[David]] — portadora
 designada y noble) y **[[More]]** (guerrero endemoniado, víctima de posesión por [[Lubina]] —
 portador accidental, "espada de la vergüenza"). Dualidad de portación marca inversión
 moral y poder: mismo arma en manos de redención ([[Dolores]]) vs. condenación ([[More]]).

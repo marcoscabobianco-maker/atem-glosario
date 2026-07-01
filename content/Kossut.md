@@ -23,14 +23,14 @@ En el cuerpo de la **[[Contienda_la|Contienda]]** —el concilio supra-divino—
 
 ## El eco del primer señor
 
-La doctrina del archivo conserva una resonancia que excede el elemento: el fuego de Kossut **rima con el Tiempo primigenio**. Como [[Kronamon]] —el señor primigenio del Tiempo, cuya administración repartía las masas temporales del cosmos—, Kossut pertenece a la estirpe de los **primeros señores**: potencias anteriores al reparto fino de los panteones, cada una tiranizando su materia. El archivero del Plata anota la rima sin fundirlos: *el que quema y el que cuenta operan la misma autoridad sobre sustancias que los mortales solo padecen*.
+La doctrina del archivo conserva una resonancia que excede el elemento: el fuego de Kossut **rima con el Tiempo primigenio**. Como [[Chronomon|Kronamon]] —el señor primigenio del Tiempo, cuya administración repartía las masas temporales del cosmos—, Kossut pertenece a la estirpe de los **primeros señores**: potencias anteriores al reparto fino de los panteones, cada una tiranizando su materia. El archivero del Plata anota la rima sin fundirlos: *el que quema y el que cuenta operan la misma autoridad sobre sustancias que los mortales solo padecen*.
 
 ## Vínculos
 
 - [[Contienda_la|la Contienda]] — concilio donde retuvo el cuerpo de [[Maristo]]
 - [[Maristo]] — el paladín cuyo cuerpo fue su botín
 - [[Torregrises]] — donde el paladín despertó después
-- [[Kronamon]] — el señor primigenio del Tiempo; eco de estirpe entre primeros señores
+- [[Chronomon|Kronamon]] — el señor primigenio del Tiempo; eco de estirpe entre primeros señores
 - [[Helm]] — el dios del Ojo, contraparte doctrinal del episodio Maristo
 
 ## Apariciones

@@ -26,7 +26,7 @@ aliases:
  - Ataque múltiple — tres golpes por embate
  - Vuelo
 - **Castigo recibido en la jornada de la campana templaria:**
- - El Forbiddence de la campana lo quemó hasta el hueso
+ - El Interdicto de la campana lo quemó hasta el hueso
  - Heridas adicionales de combate, sin cuenta exacta
  - Estado: "Muy dañado" pero **ESCAPA a zona 5**
 - **Estado final:** Vivo; en fuga; ubicación: Zona 5

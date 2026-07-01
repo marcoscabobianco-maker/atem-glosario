@@ -21,7 +21,7 @@ tags:
  - ballestazo
 ---
 
-> *La fortaleza famosa por los mártires judíos contra Roma. La que también existe en la época de las cruzadas. Desde acá viene el ballestazo que decapita a [[Kronamon]].*
+> *La fortaleza famosa por los mártires judíos contra Roma. La que también existe en la época de las cruzadas. Desde acá viene el ballestazo que decapita a [[Chronomon|Kronamon]].*
 
 ## Presentación
 
@@ -37,13 +37,13 @@ Lo que el archivo MC añade a Masada es **su segunda vida en la época de las cr
 
 ### El ballestazo desde Masada que decapita a Kronamon
 
-El acto más cargado del archivo sobre Masada es la **decapitación de [[Kronamon]] en 1120**. lo declaró textualmente (2026-05-20): *"el ballestazo vino desde Masada... Todo parece indicar que fue alguna forma de [[Grazzt|Graz'zt]] quien decapitó a [[Kronamon]] en su forma de verdugo u ángel del abismo."* La línea es directa: desde Masada **se disparó la ballesta que decapitó al hijo de Pablo**. El tirador fue **[[Grazzt|Graz'zt]] en faceta verdugo / ángel del abismo** —una de las máscaras del demonio mayor adaptada al momento operativo—.
+El acto más cargado del archivo sobre Masada es la **decapitación de [[Chronomon|Kronamon]] en 1120**. lo declaró textualmente (2026-05-20): *"el ballestazo vino desde Masada... Todo parece indicar que fue alguna forma de [[Grazzt|Graz'zt]] quien decapitó a [[Chronomon|Kronamon]] en su forma de verdugo u ángel del abismo."* La línea es directa: desde Masada **se disparó la ballesta que decapitó al hijo de Pablo**. El tirador fue **[[Grazzt|Graz'zt]] en faceta verdugo / ángel del abismo** —una de las máscaras del demonio mayor adaptada al momento operativo—.
 
 La elección de Masada como punto de disparo no es geográfica solamente: es **simbólica**. La fortaleza de los mártires judíos contra Roma sirve, mil años después, como **plataforma de ejecución del dios del tiempo**. La memoria de la muerte voluntaria en Masada se transforma en sede de la muerte forzada de Kronamon. [[Grazzt|Graz'zt]] elige el lugar con la precisión del demonio que conoce los símbolos.
 
 ## Vínculos
 
-- [[Kronamon]] — decapitado por el ballestazo desde Masada en 1120
+- [[Chronomon|Kronamon]] — decapitado por el ballestazo desde Masada en 1120
 - [[Grazzt|Graz'zt]] — el ejecutor del ballestazo en faceta verdugo / ángel del abismo
 - [[Pablo_de_Alejandria|Pablo de Alejandría]] — padre de Kronamon
 - [[Ejecucion_de_Kronamon|Ejecución de Kronamon]] — evento del que Masada es punto de disparo
@@ -64,5 +64,5 @@ La elección de Masada como punto de disparo no es geográfica solamente: es **s
 
 <!-- CICLO -->
 > **Casas del ciclo** · ◑ ⌖
-> *La fortaleza no muere con sus mártires: late en el siglo I con los sicarios contra Roma, queda en crisálida casi mil años abandonada y reaparece en las cruzadas como plataforma operativa. Desde su altura sale el ballestazo de [[Grazzt|Graz'zt]] verdugo que decapita a [[Kronamon]] en 1120 —la sede de la muerte voluntaria reescrita como sede de la muerte forzada del dios del tiempo. La Historia real entra verbatim: [[Flavio_Josefo|Flavio Josefo]], la X Legión, el suicidio en masa, todo inscrito sin maquillaje en el archivo.* — glosa de Mascor Blancarba.
+> *La fortaleza no muere con sus mártires: late en el siglo I con los sicarios contra Roma, queda en crisálida casi mil años abandonada y reaparece en las cruzadas como plataforma operativa. Desde su altura sale el ballestazo de [[Grazzt|Graz'zt]] verdugo que decapita a [[Chronomon|Kronamon]] en 1120 —la sede de la muerte voluntaria reescrita como sede de la muerte forzada del dios del tiempo. La Historia real entra verbatim: [[Flavio_Josefo|Flavio Josefo]], la X Legión, el suicidio en masa, todo inscrito sin maquillaje en el archivo.* — glosa de Mascor Blancarba.
 <!-- /CICLO -->

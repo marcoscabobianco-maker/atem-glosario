@@ -10,4 +10,4 @@ aliases:
 
 ## Presentación
 
-Familiar pequeño de [[Moni_Vivescu|Mony]], proteano. Limpia oídos con lengua bífida, mezcla pasado-presente-futuro. Cuando [[Moni_Vivescu|Mony]] conjura, crece o es reemplazada por Proteano más grande con brazos.
+Familiar menudo de [[Moni_Vivescu|Mony]], de naturaleza proteana. Le limpia los oídos con la lengua bífida y, al hacerlo, confunde pasado, presente y futuro en una sola lamida. Cuando [[Moni_Vivescu|Mony]] conjura, la culebra crece —o cede su lugar a un proteano mayor, ya provisto de brazos.

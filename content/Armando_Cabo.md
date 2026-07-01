@@ -17,8 +17,11 @@ tags:
 aliases:
  - "Armando Cabo"
  - "El padre de Dardo Cabo"
-imagen: null
+imagen: Imagenes_Tier1/Armando_Cabo.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Armando_Cabo.png]]
+<!-- /HEADER_IMG -->
 
 > *A mi hijo lo tienen en el fin del mundo. Tráiganme con qué sacarlo.*
 

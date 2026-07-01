@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Alejandria_eterna.png]]
 <!-- /HEADER_IMG -->
 
-[[Alejandria|Alejandría]] trans-temporal: tres capas (antigua, medieval, ucrónica).
+La lámina muestra a [[Alejandria|Alejandría]] como ciudad fuera del tiempo, donde tres edades se superponen sin anularse: la antigua, la medieval y la ucrónica. El archivo la recuerda así, trans-temporal, como si las tres capas habitaran a un tiempo las mismas calles.

@@ -5,7 +5,7 @@ aliases:
 referenciado_por: 2
 ---
 
-Criatura del [[Bestiario_de_Torregrises_E|Bestiario de Torregrises]]. Aparece en los Cimientos.
+Criatura del [[Bestiario_de_Torregrises_E|Bestiario de Torregrises]]. El catálogo los recuerda como guerreros antiguos —una falange de otro tiempo— que pueblan los [[Cimientos_los_TG|Cimientos]], el laberinto subterráneo bajo las dos ciudades, donde se interponen entre los aventureros y el paso al otro lado.
 
 ## Referencias entrantes
 

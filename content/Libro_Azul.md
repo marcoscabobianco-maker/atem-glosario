@@ -38,11 +38,11 @@ imagen: Imagenes_Tier1/Libro_Azul.png
 
 El **Libro Azul** es **la forma física más sellada de la [[Eisagogika|Eisagogiká Apotelesmatiká]]** —el tratado de astrología elemental que **[[Pablo_de_Alejandria|Paulus]] firmó en Alejandría** hacia 378 del cómputo terrestre—. El nombre original árabe es **Al Azif**, *"el rumor del desierto"* —**el siseo que se oye cuando uno se queda solo de noche en un lugar donde no hay nadie**—; el cronista no lo glosa, porque la glosa, en este caso, le quitaría aire al lector.
 
-**Pero los lectores que llamaron al libro *Eisagogiká* y los lectores que lo llamaron *Al Azif* no estaban leyendo lo mismo.[[El_Libro_Artefacto_Mediterraneum|El Libro]] contiene los dos textos** —y **probablemente otros**—. Las páginas que el primer lector ve como tratado de tránsitos planetarios, **el segundo lector las lee como invocación**. Las que el segundo lee como invocación, **el tercero las lee como cuento histórico**. *No es metáfora. Es una propiedad del libro.*
+**Pero los lectores que llamaron al libro *Eisagogiká* y los lectores que lo llamaron *Al Azif* no estaban leyendo lo mismo.[[Eisagogika|El Libro]] contiene los dos textos** —y **probablemente otros**—. Las páginas que el primer lector ve como tratado de tránsitos planetarios, **el segundo lector las lee como invocación**. Las que el segundo lee como invocación, **el tercero las lee como cuento histórico**. *No es metáfora. Es una propiedad del libro.*
 
 ## El sello
 
-**[[El_Libro_Artefacto_Mediterraneum|El Libro]] no se abre sin sacrificio.Sangre, en la lectura literal**; **ofrenda de mayor cuantía, en la lectura prudente**: **algo del lector que el lector ya no recuperará después de la lectura**. Quien lo abre **sin sacrificio** se queda **ciego**, según testimonio que el archivero del Plata atestiguó en al menos tres casos. Quien lo abre **con sacrificio correctono vuelve siendo el mismo** —cláusula que el cronista, por temperamento, **no consigna como amenaza sino como dato técnico**—. *Las dos opciones son severas. La diferencia entre ellas es que la segunda, al menos, permite seguir leyendo.*
+**[[Eisagogika|El Libro]] no se abre sin sacrificio.Sangre, en la lectura literal**; **ofrenda de mayor cuantía, en la lectura prudente**: **algo del lector que el lector ya no recuperará después de la lectura**. Quien lo abre **sin sacrificio** se queda **ciego**, según testimonio que el archivero del Plata atestiguó en al menos tres casos. Quien lo abre **con sacrificio correctono vuelve siendo el mismo** —cláusula que el cronista, por temperamento, **no consigna como amenaza sino como dato técnico**—. *Las dos opciones son severas. La diferencia entre ellas es que la segunda, al menos, permite seguir leyendo.*
 
 ## El periplo
 

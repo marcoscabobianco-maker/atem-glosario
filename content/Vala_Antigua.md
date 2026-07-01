@@ -18,7 +18,7 @@ tags:
  - blake
 ---
 
-> *El mundo previo al cierre cósmico. Base de [[Vala_del_Medioevo]] y de [[Ardis_Vala|Arden Vul]]. De ahí salieron los sobrevivientes que después fueron deificados.*
+> *El mundo previo al cierre cósmico. Base de [[Vala_del_Medioevo]] y de [[Ardis_Vala|Ardis Vala]]. De ahí salieron los sobrevivientes que después fueron deificados.*
 
 ## Narrativa de los Word Breakers
 
@@ -76,7 +76,7 @@ La lógica de la transición es la del héroe que los mortales toman por dios: c
 
 Vala Antigua sostiene narrativamente dos fases posteriores del mundo:
 
-- **[[Vala_del_Medioevo]]** — el mundo en clave medieval (probable cruce con la gesta de [[Ardis_Vala|Arden Vul]])
+- **[[Vala_del_Medioevo]]** — el mundo en clave medieval (probable cruce con la gesta de [[Ardis_Vala|Ardis Vala]])
 - **[[Arden_Vul]]** — la corrida del ciclo presente, basada en los pliegos de *[[Mega_Dungeon_Arden_Vul|Ardisvala]]*
 
 La continuidad es del relato, no de la forma en que cada fase se narró: cada época de Vala tuvo su propia cadencia. Lo que conecta las fases es **el mundo Vala como continuum**.
@@ -96,4 +96,18 @@ La continuidad es del relato, no de la forma en que cada fase se narró: cada é
 
 - La primera corrida de Vala Antigua
 - Sobrevivientes deificados en el panteón post-Triunvirato
-- Base narrativa para [[Vala_del_Medioevo]] y Arden Vul
+- Base narrativa para [[Vala_del_Medioevo]] y Ardis Vala
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☯ ✦ ⛓
+> *Una mesopotamia de dos ríos —el de la Luna y el del Sol— que existe dentro del cristal [[Vala_Cristalis|Vala]] sin saberlo. De su colapso emergen, deificados, los sobrevivientes que cruzaron: [[Tailoor]] dios del amor, [[Antino|Antinoo]] de las estrellas, [[Sheridron|Shadydron]] dragón lunar. Y quienes los cruzan son los Word Breakers, la banda que rompe palabras porque en un mundo cosido con hilo de cristal romper un nombre es romper un mundo.* — glosa de Mascor Blancarba.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- Vala Antigua se jugó ~2019, en su propio sistema; [[Vala_del_Medioevo]] en otro; [[Arden_Vul]] en **ACKS**.
+- Fórmula declarada del Narrador para la deificación de los sobrevivientes: *"como marvel hizo con los panteones clásicos. Se puede encontrar a Thor, quien fue adorado como un dios en la antigüedad pero realmente es un ser MUY poderoso que a ojos de simples mortales, era un dios."*

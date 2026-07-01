@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Panteon_de_Tanastias.png]]
 <!-- /HEADER_IMG -->
 
-Composición triádica: [[Arian]], [[Maristo]], [[Minborgen]] con altar central.
+La lámina dispone una composición triádica: [[Arian]], [[Maristo]] y [[Minborgen]] flanqueando un altar central. Así representa el archivo el panteón de Tanastias, los tres en torno al ara que los congrega.

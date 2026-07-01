@@ -1,6 +1,6 @@
 ---
-title: "Vala (mundo)"
-título: "Vala (mundo)"
+title: "Vala"
+título: "Vala"
 slug: Vala
 aliases:
  - Vala
@@ -37,7 +37,7 @@ Bosque inglés a finales del XVIII. William Blake —grabador rabioso, místico 
 
 2. **[[Vala_del_Medioevo]]** — fase intermedia, en clave medieval. La menos documentada de las tres; **los puentes entre Antigua y Medioevo son conjeturales**, los puentes entre Medioevo y la fase actual están registrados.
 
-3. **[[Arden_Vul|Ardisvala]]** — fase actual, en curso. Centrada en el **[[Mega_Dungeon_Arden_Vul|mega-dungeon homónimo]]** y el valle del [[Barrado_Balacan|Barrado Balacán]]. Bajo el cierre del [[Hiato_15_Años_Ardis_Vala|hiato]], **el valle es ahora [[Valakhan_de_la_Bruma|Valakhan]]**, dominio brumoso de [[Caladan]]. El [[Papa_Alejandro_Sixto|Papa Alejandro VI]] gobierna desde el [[Palacio_del_Prisma|Palacio del Prisma]].
+3. **[[Arden_Vul|Ardisvala]]** — fase actual, en curso. Centrada en el **[[Mega_Dungeon_Arden_Vul|mega-mazmorra homónimo]]** y el valle del [[Barrado_Balacan|Barrado Balacán]]. Bajo el cierre del [[Hiato_15_Años_Ardis_Vala|hiato]], **el valle es ahora [[Valakhan_de_la_Bruma|Valakhan]]**, dominio brumoso de [[Caladan]]. El [[Papa_Alejandro_Sixto|Papa Alejandro VI]] gobierna desde el [[Palacio_del_Prisma|Palacio del Prisma]].
 
 El **nombre Vala**, importado del blakeano *Four Zoas*, **se reproduce fractalmente** en el archivo: aparece como continente —[[Albion]]—, como entidad femenina —**Vala/Enitharmon**, la virgen cosmológica—, como grupo —**[[Rintrah]]**, *"[[Rintrah]] roars"*—, como artefacto —**[[Vala_Cristalis]]**, la capa de cristalización del mundo-gema **[[Vala_Cristalis|Vala Cristalis]]**—. La doctrina interna sostiene que **estas multiplicaciones no son metáfora**: **Vala es estructuralmente repetitiva**. **Donde aparece el nombre, aparece la cosa.** Blake lo intuyó. El archivo lo confirma.
 
@@ -94,10 +94,10 @@ Vala se asienta en los intersticios. **No participa de la cadena, la observa.** 
 
 - **Fase Antigua** — corrida primera, supervivientes deificados
 - **Fase del Medioevo** — escasa documentación, continuidad inferida
-- **Fase Ardisvala** — en curso; mega-dungeon activo, hiato cerrado, Valakhan formado, [[Papa_Alejandro_Sixto|Papa Alejandro VI]] gobernando
+- **Fase Ardisvala** — en curso; mega-mazmorra activo, hiato cerrado, Valakhan formado, [[Papa_Alejandro_Sixto|Papa Alejandro VI]] gobernando
 - **Matriz literaria** — el nombre y la estructura vienen del blakeano *Four Zoas*; el mundo precede al poema
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☯ ☷
-> *Mundo doble por dentro: [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]] es la capa-gema que sostiene a Vala desde adentro —«quien camina por Vala con los pies, camina por Vala con la mirada»—, matriz compartida de dos hemisferios que no se tocan. Y es mundo de estratos: tres fases sucesivas —[[Vala_Antigua]], [[Vala_del_Medioevo]], [[Arden_Vul|Ardisvala]]— apiladas como eras, la actual hundida en el mega-dungeon homónimo cuyo propio nombre, «Ardīs», cifra el lugar de la flecha donde se decide. Bajar por Vala es bajar por sus capas y por su reverso a la vez.* — glosa del archivero del Plata.
+> *Mundo doble por dentro: [[Vala_Cristalis|Vala Cristalis]] / [[Eilidh]] es la capa-gema que sostiene a Vala desde adentro —«quien camina por Vala con los pies, camina por Vala con la mirada»—, matriz compartida de dos hemisferios que no se tocan. Y es mundo de estratos: tres fases sucesivas —[[Vala_Antigua]], [[Vala_del_Medioevo]], [[Arden_Vul|Ardisvala]]— apiladas como eras, la actual hundida en el mega-mazmorra homónimo cuyo propio nombre, «Ardīs», cifra el lugar de la flecha donde se decide. Bajar por Vala es bajar por sus capas y por su reverso a la vez.* — glosa del archivero del Plata.
 <!-- /CICLO -->

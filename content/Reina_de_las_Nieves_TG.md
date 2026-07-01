@@ -1,5 +1,5 @@
 ---
-title: "Reina de las Nieves (TG)"
+title: "Reina de las Nieves (Torregrises)"
 categoria: personaje
 tags:
  - "personaje"
@@ -9,7 +9,7 @@ tags:
  - "hielo"
  - "hechicera"
 aliases:
- - "Reina de las Nieves (TG)"
+ - "Reina de las Nieves (Torregrises)"
  - "TG"
  - "Reina de las Nieves"
 ---
@@ -20,7 +20,7 @@ aliases:
 
 ## Presentación
 
-Guardiana de la mitad oriental de la Primera [[Aldebaran_Estrella_Plataforma|Plataforma]], opuesta a **[[Arcacto_TG|Arcacto (TG)]]**. Poderosa hechicera que domina con tormentas heladas. Reside en los riscos de la cumbre más alta, tras bosques de coníferas donde habitan sus lobos blancos de corazón de hielo. "Su grito helado se siente durante las noches, y todos los corazones de esta fría comarca dejan de latir hasta el amanecer" (Cosmogonía Gris). Policía secreta patrulla los poblados; los fieles encuentran puestos de privilegio.
+Guardiana de la mitad oriental de la Primera [[Aldebaran_Estrella_Plataforma|Plataforma]], opuesta a **[[Arcacto_TG|Arcacto (Torregrises)]]**. Poderosa hechicera que domina con tormentas heladas. Reside en los riscos de la cumbre más alta, tras bosques de coníferas donde habitan sus lobos blancos de corazón de hielo. "Su grito helado se siente durante las noches, y todos los corazones de esta fría comarca dejan de latir hasta el amanecer" (Cosmogonía Gris). Policía secreta patrulla los poblados; los fieles encuentran puestos de privilegio.
 
 ## Apariciones notables
 

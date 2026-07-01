@@ -28,7 +28,7 @@ tags:
 
 ## Presentación
 
-**Los Caballeros de la Cicatriz del Sol** —en inglés *Sun-Scarred Knights*, traducción literal de los pliegos de *Ardisvala*— son **orden caballeresca del mundo de [[Arden_Vul]]** con sede en su **Hold y su Ciudadela**, en lo más hondo del mega-dungeon. Su historia tiene **paradoja fundacional**: fueron **fundados por un vampiro**.
+**Los Caballeros de la Cicatriz del Sol** —en inglés *Caballeros de la Cicatriz del Sol*, traducción literal de los pliegos de *Ardisvala*— son **orden caballeresca del mundo de [[Arden_Vul]]** con sede en su **Bastión y su Ciudadela**, en lo más hondo del mega-mazmorra. Su historia tiene **paradoja fundacional**: fueron **fundados por un vampiro**.
 
 ### Fundación: 1123 AEP por Melok-Ri
 
@@ -50,7 +50,7 @@ Los anillos son **distribuibles** —el grupo recuperó varios tras la decapitac
 
 - **[[Papa_Alejandro_Sixto|Sir Sixto]]** —**Caballero homónimo del compañero Sixto**. Mensaje arcano lo busca en el archivo: *"lo perdieron en el nivel de abajo. Encuéntrenlo."* **Revelación del archivo**: durante el [[Hiato_15_Años_Ardis_Vala|hiato de 15 años]], **se transformó en [[Papa_Alejandro_Sixto]]** —autoridad eclesial suprema del [[Castillo_del_Prisma|Castillo / Palacio del Prisma]] bajo el dominio [[Ravenloft_Dominio_Ardis_Vala|Ravenloft]]—. [[Sagrada_Orden|La Orden]] ahora opera **convergente o subordinada al Papa**.
 - **[[Sir_Circalculo]]** —alto (1.90+), ojos amarillos/miel, apariencia de Adonis. Aparece en el [[Forum_de_Set|Foro de Set]] durante la subasta del collar de [[Trocadero|Lord Tarmis]]. Su comportamiento es **ambiguo**: parece duplicado durante la puja —*"algo salió mal, y otra versión de él aparece de la niebla y toma el collar por 30.000 oro"*—. ¿figura, compañero encubierto, manifestación dual?
-- **[[Sir_Simonet]]** —Sun-Scarred solitario que vivía en una celda de los [[Halls_of_Thoth_Nivel|Halls of Thoth]] antes de la caída de la Orden. Estado post-hiato incierto.
+- **[[Sir_Simonet]]** —Sun-Scarred solitario que vivía en una celda de los [[Halls_of_Thoth_Nivel|Salones de Thoth]] antes de la caída de la Orden. Estado post-hiato incierto.
 - **[[Valerius_Utrecht]]** —**escudero/varlet formado dentro de la Orden, desertor para unirse a los PCs**. Eje moral del enfrentamiento final con la Orden corrompida. Vuelve a la Orden al final, del lado limpio. compañero. **En el regreso tras el Hiato es "Inquisidor, Primer Caballero" según el bibliotecario del [[Papa_Alejandro_Sixto|Papa Alejandro]]** —posible **figura de liderazgo dual / paralela** al Papa, o **subordinado convergente**.
 
 ### Cadena vampírica jerárquica
@@ -67,7 +67,7 @@ El arco más profundo de la gesta culmina cuando **los PCs toman el control de l
 
 1. **el archivo** — **[[Alumine_Manwe_Finwe|Alúmine]] decapita a Malakita** en la cámara hiperbárica sci-fi.
 2. **Jornadas siguientes** — derrota de la **cabeza arcanum flotante** residual.
-3. **el archivo** — el grupo enfrenta y elimina al **Masracht en el Prism Keep**.
+3. **el archivo** — el grupo enfrenta y elimina al **Masracht en el Castillo del Prisma**.
 4. **Resultado** — **los compañeros lideran la Orden**, con [[Valerius_Utrecht]] como **eje moral** del nuevo liderazgo (redención individual para los caballeros engañados, decapitación selectiva del liderazgo corrupto).
 
 El acto de tomar la Orden es **transformación faccional mayor** del mundo: los Caballeros pasan de ser herramienta vampírica a ser **brazo militar de los buscadores** (los compañeros).
@@ -79,7 +79,7 @@ El acto de tomar la Orden es **transformación faccional mayor** del mundo: los 
 - [[Masracht_Prism_Keep|Masracht]] — eslabón superior, eliminado en la fase media del ciclo primero
 - [[Caladan]] — vampirizado, parte de la cadena, ahora del lado de los PCs
 - [[Prism_Keep]] — aventura inserta donde estaba el Masracht
-- **El Hold y la Ciudadela** — Hall and Citadel of the Sun-Scarred Knights en los pliegos
+- **El Bastión y la Ciudadela** — Hall and Ciudadela de the Caballeros de la Cicatriz del Sol en los pliegos
 - **Anillos Solares** — insignia
 - [[Papa_Alejandro_Sixto|Sir Sixto]] — figura homónimo del compañero Sixto
 - [[Sir_Circalculo]] — figura con comportamiento ambiguo
@@ -92,7 +92,7 @@ El acto de tomar la Orden es **transformación faccional mayor** del mundo: los 
 
 - 1123 AEP — fundación por [[Master_Malakita|Melok-Ri]] (tercera organización paramilitar de su línea)
 - Pre-el archivo — operación encubierta del vampirismo
-- [[Ardis_Vala|Arden Vul]] — orden activa hasta la fase media del ciclo primero
+- [[Ardis_Vala|Ardis Vala]] — orden activa hasta la fase media del ciclo primero
 - **el archivo** — decapitación del fundador
 - **el archivo** — toma de la Orden por los PCs
 - Jornadas siguientes — Orden purificada bajo liderazgo de los buscadores

@@ -1,13 +1,13 @@
 ---
-title: "Beastmen (Niños de Deino)"
-título: "Beastmen (Niños de Deino)"
+title: "Hombres-Bestia"
+título: "Hombres-Bestia"
 slug: Beastmen_Niños_de_Deino
 categoria: facción
 aliases:
- - Beastmen
+ - Hombres-Bestia
  - Niños de Deino
  - Hombres-bestia
- - Beastmen de Deino
+ - Hombres-Bestia de Deino
 tags:
  - faccion
  - pueblo
@@ -20,11 +20,11 @@ tags:
  - hombres-bestia
 ---
 
-> *Hombres-bestia disciplinados de [[Lady_Deino]]. ~115 soldados + 40 civiles. Cohorte militar más profesional de los Halls of Thoth.*
+> *Hombres-bestia disciplinados de [[Lady_Deino]]. ~115 soldados + 40 civiles. Cohorte militar más profesional de los Salones de Thoth.*
 
 ## Presentación
 
-Los **Beastmen** —*Niños de Deino*— son la **facción militar más disciplinada de los [[Halls_of_Thoth_Nivel|Halls of Thoth]]** del [[Mega_Dungeon_Arden_Vul]]. **Cohorte cooptada** de **~115 soldados beastmen + ~40 civiles**, gobernada por la "madre" **[[Lady_Deino]]**.
+Los **Hombres-Bestia** —*Niños de Deino*— son la **facción militar más disciplinada de los [[Halls_of_Thoth_Nivel|Salones de Thoth]]** del [[Mega_Dungeon_Arden_Vul]]. **Cohorte cooptada** de **~115 soldados beastmen + ~40 civiles**, gobernada por la "madre" **[[Lady_Deino]]**.
 
 ### Composición de las patrullas
 
@@ -39,7 +39,7 @@ Los **Beastmen** —*Niños de Deino*— son la **facción militar más discipli
 
 ### Forma física
 
-Los Beastmen tienen **diversas formas animales**:
+Los Hombres-Bestia tienen **diversas formas animales**:
 - **Hombres-cabra**
 - **Hombres-rata**
 - **Hombres-cerdo**
@@ -55,7 +55,7 @@ Los Beastmen tienen **diversas formas animales**:
 
 ### Función social
 
-Los Beastmen **patrullan los Precincts Centrales de los Halls of Thoth** y **la Gran Caverna sur** (vía la LRCP). Funciones:
+Los Hombres-Bestia **patrullan los Precincts Centrales de los Salones de Thoth** y **la Gran Caverna sur** (vía la LRCP). Funciones:
 
 - **Mantener orden** en el centro del nivel
 - **Vigilar las periferias** (frescos thotianos limpiados de su lugar)
@@ -66,21 +66,21 @@ Los Beastmen **patrullan los Precincts Centrales de los Halls of Thoth** y **la 
 
 ### Construcción de su zona
 
-Los Beastmen han **limpiado las áreas al este del Great Hall** de **los frescos thothianos**, dejando las paredes **desnudas**. Esta **iconoclasis pragmática** sugiere que **no comparten devoción** por Thoth — operan en un nivel funcional/político.
+Los Hombres-Bestia han **limpiado las áreas al este del Gran Salón** de **los frescos thothianos**, dejando las paredes **desnudas**. Esta **iconoclasis pragmática** sugiere que **no comparten devoción** por Thoth — operan en un nivel funcional/político.
 
 ### Aliados y enemigos
 
 | Vínculo | Facción |
 |---|---|
-| **Cliente** | **[[Thegan_Whitemane|Whitemane]]** ([[Troll_Lifts_Arena|Inn of the Lost]] Troll Lifts) — recibe rastite lotus powder vía traders |
-| **Tensión** | **[[Halflings_Plumthorn|Halflings de Plumthorn]]** (Halls of Thoth entry zone) — competencia territorial |
-| **Tensión** | **[[Culto_de_Set]]** (Halls of Thoth oeste / Forum de Set) — vecinos rivales |
-| **Enemigo declarado** | **Skreel Lizardmen** |
+| **Cliente** | **[[Thegan_Whitemane|Whitemane]]** ([[Troll_Lifts_Arena|Posada de los Perdidos]] Elevadores de los Trolls) — recibe rastite lotus powder vía traders |
+| **Tensión** | **[[Halflings_Plumthorn|Halflings de Plumthorn]]** (Salones de Thoth entry zone) — competencia territorial |
+| **Tensión** | **[[Culto_de_Set]]** (Salones de Thoth oeste / Forum de Set) — vecinos rivales |
+| **Enemigo declarado** | **Hombres-Lagarto Skreel** |
 
 ## Vínculos
 
 - [[Mega_Dungeon_Arden_Vul]]
-- [[Halls_of_Thoth_Nivel|Halls of Thoth — Halls of Thoth]]
+- [[Halls_of_Thoth_Nivel|Salones de Thoth — Salones de Thoth]]
 - [[Lady_Deino]] — "madre"
 - **[[Count_Skleros]]** — comandante
 - **Count Trisko the Natty** — LRCP comandante
@@ -97,5 +97,5 @@ Los Beastmen han **limpiado las áreas al este del Great Hall** de **los frescos
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷
-> *Cohorte de hombres-bestia de [[Lady_Deino]] que patrulla los [[Halls_of_Thoth_Nivel|Halls of Thoth]] del [[Mega_Dungeon_Arden_Vul]]: su sitio es un nivel del descenso, una franja del estrato que comparten con rivales del mismo piso. Que hayan limpiado las paredes de los frescos thothianos para vecinar al [[Culto_de_Set]] y a los [[Halflings_Plumthorn|Halflings de Plumthorn]] muestra cómo cada capa del dungeon se reparte entre facciones que heredaron y reescribieron la era anterior.* — glosa de Arkos.
+> *Cohorte de hombres-bestia de [[Lady_Deino]] que patrulla los [[Halls_of_Thoth_Nivel|Salones de Thoth]] del [[Mega_Dungeon_Arden_Vul]]: su sitio es un nivel del descenso, una franja del estrato que comparten con rivales del mismo piso. Que hayan limpiado las paredes de los frescos thothianos para vecinar al [[Culto_de_Set]] y a los [[Halflings_Plumthorn|Halflings de Plumthorn]] muestra cómo cada capa del dungeon se reparte entre facciones que heredaron y reescribieron la era anterior.* — glosa de Arkos.
 <!-- /CICLO -->

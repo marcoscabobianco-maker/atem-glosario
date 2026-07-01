@@ -24,8 +24,11 @@ tags:
  - dragones-cromaticos
  - paladines-renacimiento
  - patricios-antiguos
-imagen: null
+imagen: Imagenes_Tier1/Drusus_IX_El_Palido.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Drusus_IX_El_Palido.png]]
+<!-- /HEADER_IMG -->
 
 > *"El Pálido no se llama así por la enfermedad. Se llama así por el reflejo lunar que la copa del Pacto le devolvió cuando volvió a sostenerla en el [[Monte_Ennio]]. Quien sostiene la copa hereda el reflejo. Eso lo saben los dragones; el aparato eclesial lo calla."* — Anotación marginal de cancillería, atribuida a un secretario del Primarca, mid 2987 AEP.
 

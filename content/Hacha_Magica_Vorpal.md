@@ -17,9 +17,9 @@ aliases:
 
 **Descripción**: Hacha mágica de tesoro [[Pluton_CDI|Plutón]]. Presumido Vorpal (corte automático de miembros/decapitación en 20 natural), pero no confirmado explícitamente.
 **Status**: Identificación pendiente.
-**[[Posesion|Posesión]]**: No especificado.
+**Posesión**: No especificado.
 **Refs**:
 
 ## Ver también
 
-- [[Posesion|Posesión]]
+- Posesión

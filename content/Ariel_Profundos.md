@@ -5,7 +5,7 @@ slug: Ariel_Profundos
 aliases:
  - Ariel
  - Ariel (Profundos)
- - Ariel (ANQ2)
+ - Ariel
 linaje:
  origen: "[[Atlantida_Alta_y_Baja|Atlántida]]"
 tags:

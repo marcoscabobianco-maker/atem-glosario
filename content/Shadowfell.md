@@ -51,7 +51,7 @@ imagen: null
 
 - **[[Yathrebu]] bajo [[Caldero]]** — sub-estructura subterránea cuya geografía ritual antigua dejó la membrana parcialmente abierta. **[[Drakthar]] estableció base aquí** durante el ciclo presente.
 - **[[Catacumbas_de_Paris|Catacumbas de París]] Ucrónica** — geografía ucrónica donde las membranas operan con menor disimulo; *los [[Time_Bandits]] y otros operadores las usan ocasionalmente*.
-- **Sub-niveles del [[Mega_Dungeon_Arden_Vul|mega-dungeon de Ardisvala]]** — algunas capas zodiacales tienen contacto con el Shadowfell vía sub-estructuras laterales.
+- **Sub-niveles del [[Mega_Dungeon_Arden_Vul|mega-mazmorra de Ardisvala]]** — algunas capas zodiacales tienen contacto con el Shadowfell vía sub-estructuras laterales.
 - **Cavernas de [[Vala_Cristalis|Vala Cristalis]]** — el mundo-gema sostiene membranas en cavernas profundas; *la doctrina serpentina y la shadowfelliana operan en proximidad sin fusión*.
 
 *La doctrina operativa*: **mientras las membranas permanezcan porosas pero contenidas, el equilibrio cosmológico se sostiene**. **Si una membrana se abre del todo**, *el Shadowfell penetra el material*; **operaciones como las de [[Drakthar]] serían sólo el preludio**.
@@ -76,7 +76,7 @@ imagen: null
 
 - **Operadores menores** asociados a [[Drakthar]] en la gesta [[Caldero]].
 - **Figuras de la [[Compania_de_la_Risa|Compañía de la Risa]]** —*posiblemente bajo influencia shadowfelliana indirecta*, *no plenamente confirmada*—.
-- **Criaturas anómalas** documentadas en sub-niveles del mega-dungeon de Ardisvala.
+- **Criaturas anómalas** documentadas en sub-niveles del mega-mazmorra de Ardisvala.
 
 ---
 

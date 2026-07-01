@@ -60,7 +60,7 @@ Las tres lecturas son una sola, si uno aprende a leerlas sin apuro. **Pero el ap
 
 La era de Acuario es la última que se asentó. *Por eso es la más blanda*. **El visitante común no nota que está pisando una capa cristalina** —cree que pisa suelo común— porque la era de Acuario tiene la cortesía de fingirse tierra. **Es la era de la cascada**: el agua que se vuelve cristal sin que el ojo lo registre.
 
-**Sobre esta capa se asienta [[Gosterwick]] / [[Glastonbury]]** —pueblo modesto al pie de la cascada, casas bajas, taberna con techo de paja, dos posadas, una iglesia que no aclara cuál—, y se asientan también **los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** y los **[[Buscadores_de_Ardis_Vala|Buscadores]]** que descienden al mega-dungeon. **Vale recordar**: lo que llamamos *"Ardisvala superficial"* es Acuario funcionando como mostrador.
+**Sobre esta capa se asienta [[Gosterwick]] / [[Glastonbury]]** —pueblo modesto al pie de la cascada, casas bajas, taberna con techo de paja, dos posadas, una iglesia que no aclara cuál—, y se asientan también **los [[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** y los **[[Buscadores_de_Ardis_Vala|Buscadores]]** que descienden al mega-mazmorra. **Vale recordar**: lo que llamamos *"Ardisvala superficial"* es Acuario funcionando como mostrador.
 
 ---
 
@@ -142,28 +142,28 @@ Cuando los [[Buscadores_de_Ardis_Vala|Buscadores]] regresen —si regresan, dice
 
 ---
 
-## La gesta operativa — los diez niveles del Mega-Dungeon
+## La gesta operativa — los diez niveles del Mega-Mazmorra
 
-**Lo que los Buscadores tienen entre manos** —*lo que la crónica presente recorre en su ciclo más reciente*— **es la cartografía descendente de Ardisvala como mega-dungeon**. *La superficie del mundo es [[Gosterwick]] / [[Glastonbury]]*, **al pie de la Gran Cascada**, **con dos estatuas colosales (una arrodillada con espada y yelmo corintio, otra encapuchada)**, *ruinas de la ciudad antigua arriba*.
+**Lo que los Buscadores tienen entre manos** —*lo que la crónica presente recorre en su ciclo más reciente*— **es la cartografía descendente de Ardisvala como mega-mazmorra**. *La superficie del mundo es [[Gosterwick]] / [[Glastonbury]]*, **al pie de la Gran Cascada**, **con dos estatuas colosales (una arrodillada con espada y yelmo corintio, otra encapuchada)**, *ruinas de la ciudad antigua arriba*.
 
 Bajo y dentro de esas ruinas, **diez niveles principales**:
 
 | Nivel | Nombre | Notas operativas |
 |---|---|---|
 | 0 | [[Gosterwick]] / [[Glastonbury]] + Ruinas | Superficie, cascadas, estatuas |
-| 1 | The Basement | Poco explorado |
-| 2 | [[L02_Howling_Caves_Well_of_Light|Howling Caves]] / [[L02_Howling_Caves_Well_of_Light|Well of Light]] | Cuevas, Pozo de Luz |
-| 3 | [[Halls_of_Thoth_Nivel|Halls of Thoth]] / Bosque Fúngico | [[Lord_Parmes]], Copanegra |
-| 4 | [[Forum_de_Set|Forum of Set]] | [[Marius_Urianius]], Sanzorotita Estefanía |
-| 5 | [[Obsidian_Gates_Midnight_Road|Obsidian Gates]] / [[Obsidian_Gates_Midnight_Road|Midnight Road]] | Puertas de Obsidiana |
-| 6 | [[Troll_Lifts_Arena|Troll Lifts]] / Arena (Ludus) | [[Lord_Carcalus]], [[Troll_Lifts_Arena|Posada de los Perdidos]] |
+| 1 | el Sótano | Poco explorado |
+| 2 | [[L02_Howling_Caves_Well_of_Light|Cuevas Aullantes]] / [[L02_Howling_Caves_Well_of_Light|Pozo de Luz]] | Cuevas, Pozo de Luz |
+| 3 | [[Halls_of_Thoth_Nivel|Salones de Thoth]] / Bosque Fúngico | [[Lord_Parmes]], Copanegra |
+| 4 | [[Forum_de_Set|Forum de Set]] | [[Marius_Urianius]], Sanzorotita Estefanía |
+| 5 | [[Obsidian_Gates_Midnight_Road|Puertas de Obsidiana]] / [[Obsidian_Gates_Midnight_Road|Camino de Medianoche]] | Puertas de Obsidiana |
+| 6 | [[Troll_Lifts_Arena|Elevadores de los Trolls]] / Arena (Ludus) | [[Lord_Carcalus]], [[Troll_Lifts_Arena|Posada de los Perdidos]] |
 | 7 | [[Court_of_Troll_Thegn]] / [[Barumani]] | Trolls vikingos, [[Varboka]], Ashoka |
-| 8 | Nether Reaches | No explorado |
-| 9 | [[L09_Floor_of_Great_Chasm|Floor of Great Chasm]] | No explorado |
+| 8 | Confines Inferiores | No explorado |
+| 9 | [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]] | No explorado |
 | 10 | [[Ziggurat_de_Kauket]] | No explorado |
 | Sub-10A/B | **[[Caballeros_Cicatriz_del_Sol|Cicatriz del Sol]]** | **Tomada por los Buscadores en la fase media del ciclo primero** |
 
-**Más quince sub-niveles** —Tumbas de Luz, Cuevas de Lagartomanes, Talleres de [[Kerbog_Khan]], Cámaras Perdidas de Arden, etc.—. *El Hold y la Ciudadela de la Cicatriz del Sol son el sector tomado por los [[Buscadores_de_Ardis_Vala|Buscadores]]*.
+**Más quince sub-niveles** —Tumbas de Luz, Cuevas de Lagartomanes, Talleres de [[Kerbog_Khan]], Cámaras Perdidas de Arden, etc.—. *El Bastión y la Ciudadela de la Cicatriz del Sol son el sector tomado por los [[Buscadores_de_Ardis_Vala|Buscadores]]*.
 
 **La regla doctrinal central de la mesa** —*declarada explícitamente*— **es**: ***"el tiempo se vuelve espacio"***. **Cada nivel es capa temporal además de espacial**. *Es por eso que la lectura cosmológica del cristal y la lectura operativa del dungeon coinciden*: **los niveles del dungeon son las capas zodiacales, simplemente vistas desde adentro del cristal en vez de desde el cristal cortado**.
 
@@ -173,7 +173,7 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 
 | Facción | Estado al cierre del ciclo primero |
 |---|---|
-| **[[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** | **Liderados por los Buscadores** tras eliminar a [[Master_Malakita|Malakita]] y a [[Masracht_Prism_Keep|Masracht]] en su Hold y su Ciudadela |
+| **[[Caballeros_Cicatriz_del_Sol|Caballeros de la Cicatriz del Sol]]** | **Liderados por los Buscadores** tras eliminar a [[Master_Malakita|Malakita]] y a [[Masracht_Prism_Keep|Masracht]] en su Bastión y su Ciudadela |
 | **[[Culto_de_Set|Culto de Set]]** | Enemigos tras el saqueo del templo. [[Marius_Urianius]], Estefanía, Melisario |
 | **[[Sortianos]]** ([[Sortianos|Priscos]]) | Aliados ideológicos. **[[Prisco_Electe]] como figura fundacional** |
 | **[[Teosofos]]** | Opuestos. No confrontados directamente |
@@ -194,7 +194,7 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 5. **La Diplomacia Subterránea** — navegación faccional, propuesta de Feria.
 6. **El Misterio Tecnológico** — los **[[Rudishva]]**, el **[[Beacon]]** (nave alienígena de ~3000 años).
 7. **"El Tiempo se Vuelve Espacio"** — doctrina del dungeon-cristal.
-8. **La Redención de la Orden** — [[Caladan]] vampirizado por Malakita; los Buscadores eliminan a Malakita y al [[Masracht_Prism_Keep|Masracht del Prism Keep]] (padre del Arian/[[Caladan]]), toman la Orden.
+8. **La Redención de la Orden** — [[Caladan]] vampirizado por Malakita; los Buscadores eliminan a Malakita y al [[Masracht_Prism_Keep|Masracht del Castillo del Prisma]] (padre del Arian/[[Caladan]]), toman la Orden.
 9. **La Bomba / Huevo / Destrucción de [[Ritornello]]** — [[RAJ-750]] IA, los trolls la usan para destruir [[Ritornello]], "fecha fatídica" de 18 días activa al cierre del ciclo primero.
 10. **Las Nieblas / Ravenloft** — escalada de nieblas, convergencia con el Demiplane of Dread, formación de Valakhan.
 
@@ -205,7 +205,7 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 **Tras los quince años de silencio**, **el Hiato se cierra y los Buscadores regresan**. *El elenco se renueva*:
 
 - **[[Caladan]]** (continuación de [[Arian]], treinta años de línea) — *emerge del sarcófago de Tuliarios como bodhisattva del 25º sol*.
-- **[[Bayrum_Cristalia]]**, **[[Alumine_Manwe_Finwe]]** (Rockseer Elf), **[[Melvino_Calvino]]**, **[[Valerius_Utrecht]]** (paladín de la espada compañera donde [[Ardipithecus]] se ocultaba), **[[El_Druida_Rodrigo|el Druida]]**, **[[Sixto_Guido|Sixto]]**.
+- **[[Bayrum_Cristalia]]**, **[[Alumine_Manwe_Finwe]]** (Rockseer Elf), **[[Melvino_Calvino]]**, **[[Valerius_Utrecht]]** (paladín de la espada compañera donde [[Ardipithecus]] se ocultaba), **[[Numa_Pompidio|el Druida]]**, **[[Sixto_Guido|Sixto]]**.
 - *Nuevos compañeros incorporados en el regreso tras el Hiato*:
  - **[[Decio_Balmora]]** — Ranger/Montaraz de [[Valdemora]], ex-señor de la [[Ciudadela_Sin_Sol]] caída en grieta hace 15 años. Esposa Lali perdida. Tipo Trancos.
  - **[[Argus_PJ]]** — Guerrero curtido, georgiano del Cáucaso. Cruz tatuada, sandalias, manuscritos de Thoth. **Revela ser paradigma caído / [[Ardipithecus]] / ancestro primigenio** —*figura del abismo previo a la diferencia entre hombres y demonios*—. Su espada es **inteligente, demoníaca, compañera**, *pide sangre y transpira ácido*.
@@ -249,7 +249,7 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 - [[Palacio_del_Prisma]] — sede eclesial bajo tierra
 - [[Ritornello]] — ciudad imperial del valle arrasada antes del cierre
 - [[Buscadores_de_Ardis_Vala]] — el grupo que desciende
-- [[Caballeros_Cicatriz_del_Sol]] — orden establecida en su Hold y su Ciudadela, en lo más hondo del dungeon
+- [[Caballeros_Cicatriz_del_Sol]] — orden establecida en su Bastión y su Ciudadela, en lo más hondo del dungeon
 - [[Lord_Parmes]] · [[Lord_Carcalus]] · [[Barumani]] · [[Marius_Urianius]] — figuras de niveles activos
 - [[Beacon]] · [[Rudishva]] — nave alienígena, residentes pre-imperiales
 - [[Gran_Cisma_Magico]] — guerra civil que la deshizo
@@ -269,3 +269,16 @@ Bajo y dentro de esas ruinas, **diez niveles principales**:
 - **Ciclo primero — descenso de los Buscadores** — mapeo de los diez niveles
 - **[[Hiato_15_Años_Ardis_Vala|Hiato de los Quince Años]]** — silencio y formación de Valakhan
 - **Ciclo presente — bruma sobre la cristalería** — Caladan arriba, Papa abajo, fiebre blanca, sospecha de la decimoprimera capa
+
+<!-- CICLO -->
+> **Casas del ciclo** · ☷ ☯ ⟳ ✒
+> *Cristal de diez plataformas zodiacales que se lee hacia abajo, una era por capa: se desciende de Acuario (la superficie de [[Gosterwick]]) a Aries (los primeros abismos, el [[Gabriel_Guardian_de_Aries|Guardián]] de carneros), porque acá «el tiempo se vuelve espacio». La flecha (Ardis) cae a la vez sobre [[Vala]] blakeano y sobre el mundo-gema de [[Caldero]] —dos caras de un solo evento—, y cada signo tiene su guardián que vela su puesto. Quien glosa el descenso, el monje copista, termina él mismo fragmento del margen. Lo que A leyó como el descenso por estratos (AA-D.1) y como el oficio que cada guardián custodia (AA-R.1) es, en C, una sola casa.* — glosa del archivero del Plata.
+<!-- /CICLO -->
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Transcripción:** en dictado a Wispr (y herramientas afines), las variantes "Ardis Vala" / "Arden Bull" suelen ser errores de transcripción del audio donde se dijo "Ardis Vala". Caso ambiguo: chequear contra contexto antes de tratar como entidad distinta.

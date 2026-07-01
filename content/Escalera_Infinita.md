@@ -39,3 +39,13 @@ La Escalera opera como:
 - [[Sigil]] (centro planar accesible)
 - [[Ysgard]] (otro plano conectado)
 - [[Juego_de_las_Sombras|Juego de las Sombras]] (camino cosmológico paralelo)
+
+---
+
+## Capa interna [R]
+
+> No diegético; no entra a productos públicos.
+
+- **Fuente externa:** *Planescape Campaign Setting*, *Tales from the Infinite Staircase*.
+- **Palimpsesto:** importación canónica Planescape, sin reescritura.
+- **Pendientes:** ¿qué jornadas usan la Escalera? ¿Minaya u otro compañero viajó por ella? ¿relación con la **Cadena de Reencarnación** (otra forma de tránsito entre identidades)?

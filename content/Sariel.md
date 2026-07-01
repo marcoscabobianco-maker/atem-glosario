@@ -31,7 +31,7 @@ No es malvada sino facilitadora de conocimiento. Conflicto posterior: "Y ahora m
 
 **Conexión cosmológica:** Sangre vinculada a línajes MC (Leland). Posible que represente la dualidad ángel-demonio de la cosmología el Descenso.
 
-**[[Primeras_apariciones]]:** jornadas tempranas
+**Primeras apariciones:** jornadas tempranas
 
 ---
 
@@ -45,13 +45,13 @@ No es malvada sino facilitadora de conocimiento. Conflicto posterior: "Y ahora m
 
 **Confusión de identidad pre-muerte**: en las rondas previas al final, una pregunta del grupo —*"¿Sariel pasó al campeón de Bale?"*— *queda sin respuesta clara*. **El archivo conserva la duda**: ¿hubo migración angélica entre cuerpos? ¿La Sariel ejecutada era la Sariel original o una manifestación tardía? *[[Decadiano|El Decadiano]] no resuelve. El cronista del [[Anti_Inferno|Coro del Descenso]] tampoco.*
 
-**Conexión con [[Muerte]]**: Sariel cae en la lista de las ejecuciones canónicas del cosmos extendido, junto a otras figuras del Inferno y del Descenso.
+**Conexión con Muerte**: Sariel cae en la lista de las ejecuciones canónicas del cosmos extendido, junto a otras figuras del Inferno y del Descenso.
 
 ---
 
 ## Ver también
 
-- [[Muerte]] — su ejecutora en la ronda final
+- Muerte — su ejecutora en la ronda final
 - [[Sven]] — el avatar que dio el golpe
 - [[Arborea_Eden_CDI|Arbórea/Edén]] — escenario original (forma angélica-serpentina)
 - [[Arian|Adam]] — interlocutor del ofrecimiento del fruto

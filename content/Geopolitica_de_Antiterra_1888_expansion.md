@@ -1,6 +1,6 @@
 ---
-title: "Geopolítica de Antiterra — 1888 (expansión)"
-título: "Geopolítica de Antiterra — 1888 (expansión)"
+title: "Geopolítica de Antiterra — 1888"
+título: "Geopolítica de Antiterra — 1888"
 slug: Geopolitica_de_Antiterra_1888_expansion
 aliases:
  - Geopolítica de Antiterra 1888

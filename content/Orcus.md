@@ -8,7 +8,7 @@ aliases:
 ![[Imagenes_Tier1/Orcus.png]]
 <!-- /HEADER_IMG -->
 
-Príncipe demonio goat-headed con Wand of Orcus. Señor demoníaco del [[Abismo]] cuyo dominio es Thanatos — reino de los muertos y los no-muertos. El [[Abismo]] lo registra entre sus potencias dominantes junto a [[Grazzt|Graz'zt]], [[Pazuzu]] y [[Demogorgon]].
+Príncipe demonio de cabeza de cabra, portador de la Vara de Orcus. Señor demoníaco del [[Abismo]] cuyo dominio es Thanatos — reino de los muertos y los no-muertos. El [[Abismo]] lo registra entre sus potencias dominantes junto a [[Grazzt|Graz'zt]], [[Pazuzu]] y [[Demogorgon]].
 
 ## Vinculos
 

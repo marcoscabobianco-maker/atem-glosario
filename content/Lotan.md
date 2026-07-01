@@ -34,13 +34,13 @@ imagen: Imagenes_Tier1/Lotan_Tiamat_Ugaritic.png
 
 ---
 
-**Lotan es el nombre ugarítico de lo que en Mesopotamia se llama [[Tiamat_MC|Tiamat]]**. *La hipótesis la formuló [[Kronamon]] en el documento Skronamon*: ¿y si **la deidad que destruyó [[Angara_Andgara|Andgara]] y atrapó a sus dioses fuera Lotan, no Tiamat?** La diferencia onomástica importa: *Tiamat carga peso mesopotámico de Enuma Elish*, *Lotan carga peso ugarítico del ciclo de Baal*. **Si [[Kronamon]] acertó, el origen del enemigo no estaba en la cuenca del Tigris sino en la cuenca del [[Mediterraneo_Ucronico|Mediterráneo]] oriental**.
+**Lotan es el nombre ugarítico de lo que en Mesopotamia se llama [[Tiamat_MC|Tiamat]]**. *La hipótesis la formuló [[Chronomon|Kronamon]] en el documento Skronamon*: ¿y si **la deidad que destruyó [[Angara_Andgara|Andgara]] y atrapó a sus dioses fuera Lotan, no Tiamat?** La diferencia onomástica importa: *Tiamat carga peso mesopotámico de Enuma Elish*, *Lotan carga peso ugarítico del ciclo de Baal*. **Si [[Chronomon|Kronamon]] acertó, el origen del enemigo no estaba en la cuenca del Tigris sino en la cuenca del [[Mediterraneo_Ucronico|Mediterráneo]] oriental**.
 
 **LTN — Litanu en la lengua del ciclo de Baal** —**la serpiente de siete cabezas que Baal venció a su tiempo, encadenando el caos en favor de los reinos costeros**—. *Los mitos ugaríticos la describen con todas las marcas que la lámina conserva*: siete cabezas, cuerpo serpentino, aguas primordiales, **cuello tan largo que el héroe debe golpearlo varias veces antes de alcanzar el último**. El paralelo con la Tiamat decapitada por Marduk **no es préstamo**: es **memoria compartida**.
 
 ---
 
-**Lo que se sabe del paso de Lotan por el cosmos compartido**: *destruyó [[Angara_Andgara|Andgara]]* —el primero de los grandes reinos divinos pre-cósmicos— **y atrapó a sus dioses**. *No los mató*: los atrapó. *Los archivos no consignan cómo* —el archivero del Plata sospecha que **los integró a sus cabezas**, una cabeza por dios cautivo, y que por eso son siete y no ocho ni seis. La hipótesis no está confirmada y [[Kronamon]] misma, en sus últimas anotaciones, **la dejó como pregunta abierta**.
+**Lo que se sabe del paso de Lotan por el cosmos compartido**: *destruyó [[Angara_Andgara|Andgara]]* —el primero de los grandes reinos divinos pre-cósmicos— **y atrapó a sus dioses**. *No los mató*: los atrapó. *Los archivos no consignan cómo* —el archivero del Plata sospecha que **los integró a sus cabezas**, una cabeza por dios cautivo, y que por eso son siete y no ocho ni seis. La hipótesis no está confirmada y [[Chronomon|Kronamon]] misma, en sus últimas anotaciones, **la dejó como pregunta abierta**.
 
 **En el catálogo mayor de eufemizaciones del archivo**, *Lotan se aproxima a la [[Tiamat_MC|Reina Oscura]] sin coincidir del todo*. **[[Reina_Oscura]] es nombre del archivo moderno; Lotan es nombre arqueológico**. *La continuidad entre las dos figuras la marca el sigilo LTN, que aparece tanto en relieves de Ugarit como en tablillas posteriores que el archivero del Plata interpreta como referidas, ya, a la [[Reina_Oscura]] disfrazada de Lotan*.
 
@@ -51,7 +51,7 @@ imagen: Imagenes_Tier1/Lotan_Tiamat_Ugaritic.png
 - [[Tiamat_MC|Reina Oscura]] — la figura moderna a la que Lotan se aproxima
 - [[Angara_Andgara|Andgara]] — el reino divino que destruyó
 - [[Contienda_la|la Contienda]] — marco del conflicto divino mayor
-- [[Kronamon]] — quien formuló la hipótesis Lotan = Tiamat
+- [[Chronomon|Kronamon]] — quien formuló la hipótesis Lotan = Tiamat
 - [[Chaoskampf]] — la categoría doctrinal: Ley contra Caos, matar al guardián
 - [[Marcos_el_Mago_Lich_Marcos_Arcoms_Cosmar|Marcos el Mago]] — quien tradujo varios pasajes ugaríticos
 - [[Akala]]

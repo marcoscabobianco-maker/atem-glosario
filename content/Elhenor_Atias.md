@@ -25,7 +25,7 @@ Vivió en la fortaleza de **[[Arcoms_Cosmar|Arcoms]]** y fue padre de **[[Moran_
 
 Su muerte vino cuando la diosa **Shar** se manifestó y lo mató, absorbiendo su esencia divina.
 
-Origen de Taller de Rol: Adoptado, criado en **[[Torregrises]]**. Primer grupo de compañeros:
+Origen según el archivo: Adoptado, criado en **[[Torregrises]]**. Primer grupo de compañeros:
 **[[Drag-dur]]**, **[[Ancannis]]**. Integración inicial en trama de búsqueda y aventura desde
 perspectiva de guardabosques.
 

@@ -1,10 +1,11 @@
 ---
-title: "Machine"
-categoria: lugar
+title: "Las Máquinas"
+categoria: personaje
 tags:
  - "paris-ucronica"
  - "race"
 aliases:
+ - "Las Máquinas"
  - "Machine"
 ---
 
@@ -14,4 +15,4 @@ aliases:
 
 ## Presentación
 
-Criaturas metal. Mente colectiva. Posibles sentimientos. [[Tetraxis]] metrópolis. Invasión Tierra (Black Cygnus Quest).
+La lámina muestra a las Máquinas: criaturas de metal regidas por una mente colectiva, a las que el archivo atribuye incluso la sospecha de sentimientos propios. Tienen su metrópolis en [[Tetraxis]]. La crónica las registra en la invasión de la Tierra, durante la gesta del Cisne Negro.

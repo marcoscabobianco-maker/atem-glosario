@@ -1,7 +1,8 @@
 ---
-title: "Esperanza Recurso Mecanicista"
+title: "La Esperanza (el aliento)"
 aliases:
- - "Esperanza_Recurso_mecanicista"
+ - "La Esperanza (el aliento)"
+ - "Esperanza Recurso Mecanicista"
 en_construccion: true
 ---
 
@@ -15,4 +16,4 @@ Esta entrada es mencionada desde:
 
 ---
 
-*Si llegaste aquí buscando información sobre **Esperanza Recurso Mecanicista**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*
+*Si llegaste aquí buscando información sobre **la Esperanza**, las fichas listadas arriba contienen el contexto donde aparece. Cuando el cronista expanda esta entrada, su contenido aparecerá en este lugar.*

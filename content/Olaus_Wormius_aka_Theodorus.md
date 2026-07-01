@@ -1,6 +1,6 @@
 ---
-title: "Olaus Wormius (a.k.a. Theodorus)"
-título: "Olaus Wormius (a.k.a. Theodorus)"
+title: "Olaus Wormius"
+título: "Olaus Wormius"
 slug: Olaus_Wormius_aka_Theodorus
 categoria: personaje
 imagen: "Imagenes_Tier1/Olaus_Wormius_aka_Theodorus.png"

@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Naga_Guardiana.png]]
 <!-- /HEADER_IMG -->
 
-[[Naga_Paris_Ucronica|Naga]] en threshold del [[Faro-Monolito_El_Faro|Faro-Monolito]], robes green silk.
+La lámina muestra a la [[Naga_Paris_Ucronica|naga]] apostada en el umbral del [[Faro-Monolito_El_Faro|Faro-Monolito]], ceñida en túnicas de seda verde. La crónica la recuerda como guardiana de ese paso: vela el límite antes que cruzarlo.

@@ -9,7 +9,7 @@ tags:
  - "sombra"
  - "psicodelia"
 aliases:
- - "Barbarella (TG)"
+ - "Barbarella (Torregrises)"
  - "TG"
  - "Barbarella"
  - "Barbarella TG"

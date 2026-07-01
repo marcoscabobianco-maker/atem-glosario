@@ -1,12 +1,12 @@
 ---
-title: "Panteón de París (PU)"
-título: "Panteón de París (PU)"
+title: "Panteón de París"
+título: "Panteón de París"
 slug: Panteon_de_Paris_PU
 categoria: lugar
 imagen: "Imagenes_Tier1/Panteon_de_Paris_PU.png"
 aliases:
  - Panteón de París
- - Panteón de París (PU)
+ - Panteón de París (París Ucrónica)
  - El Panteón de los Doce
 tags:
  - lugar

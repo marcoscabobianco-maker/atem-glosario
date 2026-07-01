@@ -41,7 +41,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 **[[Lotan]] —en otros archivos [[Tiamat_MC|Tiamat]], en algunos la propia [[Reina_Oscura]]—llegó y acabó con todos los dioses del Panteón**. *No los mató*: **los atrapó y los encerró en el [[Abismo]]**. **Operación cosmológica mayor que el archivo del Plata reconstruye con varias hipótesis** sobre el cómo, pero coincide en el qué.
 
-**[[Kronamon]] —el señor primigenio del Tiempo— planteó la pregunta cardinal**: *"¿Qué significa que Tiamat llegó y acabó con todos los dioses de Andgara? ¿Qué quiere decir que los atrapó?"*. **Pablo le respondió**, según los archivos transcriptos por el archivero del Plata, *que la captura no fue cárcel*: **fue absorción**. **Los dioses pasaron a ser parte del cuerpo de su captora** —*hipótesis Lotan = serpiente de siete cabezas, una cabeza por dios captado*, **lectura que el archivero anota como posible y no segura**—.
+**[[Chronomon|Kronamon]] —el señor primigenio del Tiempo— planteó la pregunta cardinal**: *"¿Qué significa que Tiamat llegó y acabó con todos los dioses de Andgara? ¿Qué quiere decir que los atrapó?"*. **Pablo le respondió**, según los archivos transcriptos por el archivero del Plata, *que la captura no fue cárcel*: **fue absorción**. **Los dioses pasaron a ser parte del cuerpo de su captora** —*hipótesis Lotan = serpiente de siete cabezas, una cabeza por dios captado*, **lectura que el archivero anota como posible y no segura**—.
 
 ---
 
@@ -57,9 +57,9 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 
 **El archivo del Plata sostieneuna serie de cruces inter-fuente** sobre el nombre Andgara:
 
-- **"Se acabó Armenia y los arsácidas. Es a eso que mi padre llama Andgara"** —**Pablo a [[Kronamon]]**—. *Identidad histórica imperial cancelada como sustrato del mito*.
+- **"Se acabó Armenia y los arsácidas. Es a eso que mi padre llama Andgara"** —**Pablo a [[Chronomon|Kronamon]]**—. *Identidad histórica imperial cancelada como sustrato del mito*.
 - **Eco fonético Andgara / [[Ankara_Ancyra_MC|Ankara]]** —Ancyra = ancla en griego antiguo, **"primer lugar de la Caída" según el documento Skronamon**—.
-- **[[Lotan]] como nombre ugarítico de Tiamat** —**hipótesis [[Kronamon]]**—: *si la captora era Lotan, el origen del enemigo no estaba en Mesopotamia sino en la costa sirio-ugarítica*.
+- **[[Lotan]] como nombre ugarítico de Tiamat** —**hipótesis [[Chronomon|Kronamon]]**—: *si la captora era Lotan, el origen del enemigo no estaba en Mesopotamia sino en la costa sirio-ugarítica*.
 
 [*"Hay continentes que se restauran al cabo de los siglos; hay otros que sólo se conmemoran. Andgara es del segundo tipo, porque la memoria es lo único que no se drena con el continente." — Glosa del libro V del [[Decadiano]].*]
 
@@ -71,7 +71,7 @@ La voz que todavía no ha consignado en lámina **sostiene la entrada en palabra
 - [[Abismo]] — donde fueron encerrados
 - [[Athas]] — el continente mil años después
 - [[Pablo_de_Alejandria|Pablo de Alejandría]] — transcriptor del relato
-- [[Kronamon]] — quien formula la pregunta cardinal
+- [[Chronomon|Kronamon]] — quien formula la pregunta cardinal
 - [[Ankara_Ancyra_MC|Ankara/Ancyra]] — eco fonético, primer lugar de la Caída
 - [[Contienda_la|la Contienda]] — marco doctrinal mayor
 - [[Grazzt|Graz'zt]] — figura demoníaca implicada lateralmente

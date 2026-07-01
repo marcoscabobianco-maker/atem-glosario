@@ -11,7 +11,7 @@ en_construccion: true
 
 Esta entrada es mencionada desde:
 
-- [[Objetivo]]
+- Objetivo
 
 ---
 

@@ -35,7 +35,7 @@ La lámina de la facción —*si alguna vez tuvo lámina*— **no llegó al arch
 
 ## La doctrina
 
-El nombre *Sortianos* —del archonteo antiguo *sortianus*, derivado de *sors*, "suerte" o "lote"— refiere a la tesis fundacional de la facción: **la chispa mágica se reparte por suerte, no por sangre**. La fórmula completa, conservada en el mensaje en mítrico que la cámara octogonal del **[[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]** custodia y que se activa sólo cuando los rubíes ocupan los ojos de la estatua mayor de **[[Set]]**, dice así:
+El nombre *Sortianos* —del archonteo antiguo *sortianus*, derivado de *sors*, "suerte" o "lote"— refiere a la tesis fundacional de la facción: **la chispa mágica se reparte por suerte, no por sangre**. La fórmula completa, conservada en el mensaje en mítrico que la cámara octogonal del **[[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]** custodia y que se activa sólo cuando los rubíes ocupan los ojos de la estatua mayor de **[[Set]]**, dice así:
 
 > *"Todo el que posea la chispa debe ser entrenado sin importar su origen. El Imperio será mejor por ello. Yo, [[Priscus_Pulcher]], he hablado."*
 
@@ -85,7 +85,7 @@ Desde entonces, los Sortianos **dejaron de ser sólo facción derrotada**: pasar
 
 ## Los herederos modernos: Priscians
 
-En el ciclo presente, **los [[Priscians|Priscians]]** —orden secreta de hechiceros liderada por **[[Nerub_Null]]**— **se auto-proclaman descendientes y herederos espirituales** de los Sortianos. Operan desde el **antiguo compound sortiano del [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]]**, en el [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], **donde restauraron la [[Arcanum_Forge]]**.
+En el ciclo presente, **los [[Priscians|Priscians]]** —orden secreta de hechiceros liderada por **[[Nerub_Null]]**— **se auto-proclaman descendientes y herederos espirituales** de los Sortianos. Operan desde el **antiguo compound sortiano del [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]]**, en el [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]], **donde restauraron la [[Arcanum_Forge]]**.
 
 La continuidad doctrinal es **discutible**: los [[Priscians]] son **más herméticos** que los Sortianos fundacionales, *más volcados al saber arcano puro y menos a la política de la chispa abierta*. Algunos cronistas decadianos sospechan que la auto-proclamación es **invocación de linaje sin compromiso doctrinal pleno**. Otros —*el archivero del Plata entre ellos*— sostienen que **la línea es real, sólo que mutada**: los [[Priscians]] siguen creyendo en la chispa abierta; sólo que ya no necesitan defender la tesis en el aparato imperial, porque el aparato la concedió hace siglos.
 
@@ -143,5 +143,5 @@ Tras el **[[Vencimiento_Varumani|Vencimiento de los Varumani]]** y el cierre del
 
 <!-- CICLO -->
 > **Casas del ciclo** · ☷ ※
-> *Facción vencida cuya doctrina —la chispa mágica se reparte por suerte, no por sangre— sobrevive sepultada por estratos: su mensaje en mítrico duerme en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]] del [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]] y sólo se activa cuando los rubíes ocupan los ojos de la estatua de [[Set]]. Y el nombre persiste en el cuerpo: [[Priscus_Pulcher]] sigue vivo en los [[Priscians]] de [[Nerub_Null]], que se proclaman su línea aunque la facción haya perdido la guerra y ganado el argumento siglos después con [[Drusus_V]].* — glosa de Arkos.
+> *Facción vencida cuya doctrina —la chispa mágica se reparte por suerte, no por sangre— sobrevive sepultada por estratos: su mensaje en mítrico duerme en el [[L09_Floor_of_Great_Chasm|Suelo del Gran Abismo]] del [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]] y sólo se activa cuando los rubíes ocupan los ojos de la estatua de [[Set]]. Y el nombre persiste en el cuerpo: [[Priscus_Pulcher]] sigue vivo en los [[Priscians]] de [[Nerub_Null]], que se proclaman su línea aunque la facción haya perdido la guerra y ganado el argumento siglos después con [[Drusus_V]].* — glosa de Arkos.
 <!-- /CICLO -->

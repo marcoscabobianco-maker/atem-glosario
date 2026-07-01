@@ -1,110 +1,91 @@
 ---
-title: "Chronomon"
-título: "Chronomon"
+title: "Chronomon — el dios del Tiempo"
+título: "Chronomon — el dios del Tiempo"
 slug: Chronomon
+categoria: entidad
 aliases:
  - Chronomon
- - Kronamon (identidad confirmada)
- - el dios del Tiempo
- - el reloj sin manecillas
- - el divino decapitado
-categoria_diegetica: dios
-epoca: "anterior al cosmos compartido; apoteosis-decapitación documentada hacia 1120; eco continuo en el FTL"
-ubicacion_principal: "vacío FTL / planos cronománticos sin geografía mortal"
+ - "el dios del Tiempo"
+ - "el reloj sin manecillas"
+ - "el divino decapitado"
+ - "Cronomon Heredeth"
+ - "el Titán Negro del Tiempo"
+ - "Señor de las Horas Devoradas"
 tags:
- - dios
+ - entidad
  - tiempo
- - paris-ucronica
- - kronamon
- - decapitado
- - apoteosis
+ - dios
+ - eje-del-tiempo
  - pablo-de-alejandria
- - hijo-de-pablo
- - mega-asesinato-temporal
- - 1050
-imagen: Imagenes_Tier1/Chronomon.png
+ - paris-ucronica
+ - templarios
+ - apoteosis
+ - reloj
 ---
 
 <!-- HEADER_IMG -->
 ![[Imagenes_Tier1/Chronomon.png]]
 <!-- /HEADER_IMG -->
 
-> *Misma entidad que [[Kronamon]] — esta entrada es **la mirada de la cronomancia uchrónica París-Constantinopla-Sarajevo** sobre el dios del Tiempo. Para la entrada arquetípica (hijo de [[Pablo_de_Alejandria|Pablo]], cronista del Skronamon, ejecutado en 1120 con astilla de Vera Cruz en el ojo izquierdo) ver* **[[Kronamon]]**. *Para la forma titánica posterior (relojería-pendiente-campana) ver* **[[Cronomon_Heredeth]]**. **Tres ángulos del mismo dios**.
+> *Una sola entidad, el eje de los misterios del tiempo de la mega campaña. Las grafías —Cronomon, Kronamon, Chronomon— no son tres dioses distintos: son fases de uno. Lo que cambia no es la escritura; son las edades del mismo señor del Tiempo.*
 
-> *"El reloj de arena de Chronomon no mide. Reparte. Lo que cae de un lado del vidrio falta del otro lado del cosmos."*
+## Presentación
 
-**Como figura cósmica enteramente de relojería**: *cuerpo compuesto de engranajes superpuestos —ruedas, palancas, esferas, todo en bronce-oro—*; **rostro como esfera de brújula con múltiples manecillas** *(una marca el sur, otra el norte, otra una hora imposible)*; **sentado en flor de loto en el vacío del FTL**; **estrellas y galaxias en torno moviéndose en direcciones equivocadas**; *en las manos, un reloj de arena cuya arena fluye en todas direcciones a la vez* —**hacia arriba, hacia abajo, en espirales blancas que la lámina conserva en relámpago suspendido**—.
+**Chronomon** es **el dios del Tiempo** del cosmos compartido: no el Titán [[Cronos]], sino una figura más reciente, **administrador del Tiempo dividido en eras y arcos**. Es **uno de los principales ejes de los misterios del tiempo de la mega campaña** —el nudo donde se atan la cronomancia uchrónica, la decapitación ritual de 1120 y la cadena que llega hasta Sarajevo.
 
-*El cronista, que ha verificado las efemérides cosmonómicas, observa que Chronomon admite contemplación sin riesgo, siempre que el contemplador no toque*.
+El archivo lo nombró durante años con tres grafías distintas, según el ángulo desde el que lo miraba; aquí se reúnen en uno solo, ordenadas por **fases**.
 
----
+## Fase I — Kronamon, el hijo del cronista
 
-## Quién es
+En su edad mortal fue **Kronamon**, **hijo de [[Pablo_de_Alejandria|Pablo de Alejandría]]** y narrador del documento *Skronamon*, donde se presenta como compilador del legado de su padre. Su madre —dice él— fue la única mujer capaz de fijar a Pablo en un punto del tiempo: el verdadero amor del cronista, **el Tiempo personificado**. De esa estirpe nace el dios: el padre escribe el Tiempo, el hijo lo administra; continuidad de oficio por línea agnaticia.
 
-**Chronomon** —*identidad confirmada con [[Kronamon]] según [[Pablo_de_Alejandria|Pablo]] en 23 marzo 2026*— **es el dios del Tiempo en la cosmología del cosmos compartido**. **No es [[Cronos]] titán**: *es figura más reciente que el Titán*, **operando como administrador del Tiempo dividido en eras y arcos**.
+Con la clave cifrada del tratado de astrología de su padre —la [[Eisagogika]]— reconstruye la historia primera: la destrucción de [[Angara_Andgara|Andgara]] por [[Avishai_draconicos_Tiamat|Tiamat]] / [[Lotan]], la genealogía de [[GRDT]] / [[Grazzt|Graz'zt]] como gobernante de [[Axum]], los personajes del siglo III al V que se cruzan con el cosmos compartido.
 
-**Su filiación**: **hijo de [[Pablo_de_Alejandria|Pablo de Alejandría]]** —*el cronista trans-temporal, el [[Pablo_de_Alejandria|Maestro Alterador]]*—. **La paternidad opera doctrinalmente**: *Pablo escribe el Tiempo*; **Chronomon-[[Kronamon]] lo administra**. **El padre cronista, el hijo dios del oficio del padre**: **continuidad por línea agnaticia de oficio**.
+![[Imagenes_Tier1/Kronamon.png]]
 
-**Aparece en el archivo bajo dos nombres** —**Chronomon en los archivos de [[Paris_Ucronica|París Ucrónica]]** *(viaje FTL de [[Fruto_del_Conocimiento_S11|la jornada]])*, **[[Kronamon]] en los archivos de [[Templarios]]** *(donde figura como "divino decapitado")*—. **La confirmación de identidad** *cierra una pregunta abierta del archivo del Plata durante años*: **misma entidad, dos archivos, dos nombres**.
+## Fase II — el dios del Tiempo y el reloj que reparte
 
----
+Como figura cósmica es enteramente de relojería: cuerpo de engranajes de bronce-oro, rostro como esfera de brújula de muchas manecillas, sentado en flor de loto en el vacío, con un reloj de arena cuya arena fluye en todas direcciones a la vez.
 
-## La apoteosis-decapitación
+Su instrumento mayor —el reloj de arena reversible— **no medía: repartía**. *Lo que caía de un lado del vidrio faltaba del otro lado del cosmos.* Por eso algunos episodios del cosmos compartido tienen su gemelo simétrico en otra época: durante su tenencia, el reloj redistribuyó las masas temporales para que el Tiempo conservara equilibrio.
 
-**Su muerte fue simultáneamente su apoteosis**. *El [[Marques_de_Sade_Hugo|Marqués de Sade — Hugo]] lo reveló desde la torre del [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]*: **"la apoteosis de ese señor del tiempo"** —*frase textual que el archivero del Plata transcribe sin glosa*—. **La paradoja doctrinal mayor**: **lo que cae como dios asciende como cifra**.
+## Fase III — la apoteosis-decapitación (1120)
 
-**La "explosión de la cabeza de Chronomon" durante el viaje FTL de [[Fruto_del_Conocimiento_S11|aquel arco]]** —*archivo a las 01:08:35*— *es la otra cara del mismo evento*: **la decapitación ritual de Kronamon en el archivo templario (año 1120) es la causa material**; **la "explosión de la cabeza" en el FTL es el eco cosmológico**.
+Su muerte fue, a la vez, su apoteosis. El [[Marques_de_Sade_Hugo|Marqués de Sade — Hugo]] lo reveló desde la torre del [[Valle_de_la_Muerte_Constantinopla_Anatolia|Valle de la Muerte]]: *«la apoteosis de ese señor del tiempo»*. La **decapitación ritual de 1120** —disparo, decapitación, astilla de Vera Cruz en el ojo izquierdo; el ballestazo vino desde [[Masada]], obra de [[Grazzt|Graz'zt]] en faceta verdugo— es la causa material; la **«explosión de la cabeza»** que el grupo percibe en el viaje FTL de [[Fruto_del_Conocimiento_S11|aquella jornada]] es su eco cosmológico. En los archivos de [[Templarios]] figura como **«el divino decapitado»**.
 
-**El cosmos no recibió la noticia de la muerte sino la firma de la apoteosis**: *Chronomon caído sigue operando como administrador*, **lo cual el archivero del Plata anota como rasgo único entre los dioses muertos**.
+Fue un **mega-asesinato temporal planificado durante setenta años desde 1050** (el bucle bizantino). No todas las fuerzas lo querían: hubo disenso sobre el sacrificio. Al quedar el reloj sin tenedor, el cosmos perdió la administración fina y se entregó a bucles y arrugas —los [[Cronoboys]]—, en la cadena **Kosovo 1389 → Sarajevo 1914 → los [[Guardias_Ucronicos]]**.
 
----
+## Fase IV — Cronomon Heredeth, el Titán Negro
 
-## El mega-asesinato temporal
+En su forma titánica y final, el archivo templario lo conserva como **Cronomon Heredeth, el Titán Negro del Tiempo**, **Señor de las Horas Devoradas**: cuerpo de campanario, cabeza de campana mayor, un péndulo único por corazón, el resto disuelto en engranajes que ya no encajan. El segundo nombre —*Heredeth*— señala que **no se hizo, fue legado**: lo recibió de un Titán anterior, y por eso su muerte tampoco lo termina del todo; el linaje admite sucesor.
 
-**El mega-asesinato temporal fue planificado desde 1050 a lo largo de setenta años**: *operación cronomántica mayor* **que culmina en la decapitación de 1120**. **"No todas las fuerzas lo querían"** —Sade lo subraya—: **facciones divididas sobre el sacrificio del dios del Tiempo**.
+Vivía mientras el Tiempo girase; para detenerlo había que sumar la lanza a una [[Esfera_de_Aniquilacion|Esfera de Aniquilación]]. En la hora final, [[Arsvan|Ärsvan]] lo atravesó sobre la Esfera: el golpe **absorbió** el poder temporal en vez de dispersarlo, y la predestinación que sostenía el [[Apocalipsis_Temporal_1889|Apocalipsis de 1889]] se desató y cesó a la vez. El cuerpo quedó suspendido en su propia ruina, ni caído ni en pie.
 
-*La cadena causal mayor* que el archivo del Plata reconstruye:
-1. **Conjura cronomántica iniciada en 1050 (bucle bizantino)** — célula primigenia.
-2. **Sacrificio-apoteosis de Chronomon hacia 1120** — desplazamiento del dios del Tiempo de su posición administrativa.
-3. **Desorden temporal sucesivo** — bucles, arrugas, plataformas zodiacales activadas a destiempo.
-4. **Kosovo 1389 → Sarajevo 1914 → los Guardias Ucrónicos del grupo** — efecto de la cadena en su forma moderna.
-
-**El cosmos sigue contando**, *pero no con la mano de Chronomon-Kronamon*; **lo cuenta otra figura, o nadie, según el archivo del Plata se aventure a decirlo**.
-
----
-
-## El reloj de arena que reparte
-
-**El instrumento mayor que Chronomon sostenía en vida** —*el reloj de arena de arena reversible*— **no medía**: *repartía*. **Lo que caía de un lado del vidrio faltaba del otro lado del cosmos**. *La doctrina del reloj* —**registrada por Pablo en cuaderno que el archivero del Plata transcribe con cuidado**— **explica por qué algunos episodios del cosmos compartido tienen su gemelo simétrico en otra época**: *el reloj de Chronomon redistribuyó, durante su tenencia, las masas temporales de manera que el Tiempo conservara equilibrio*.
-
-**Tras la apoteosis-decapitación**, *el reloj quedó sin tenedor*; **otros agentes lo tomaron parcialmente**; **el cosmos perdió la administración fina** *y se entregó a desequilibrios sucesivos*. **Los bucles, las arrugas, los [[Cronoboys]]**: **son consecuencias operativas de la pérdida del reloj**.
-
-[*"Hay dioses cuya muerte cierra un libro; hay dioses cuya muerte sólo abre otro tomo. Chronomon es del segundo tipo. El tomo abierto desde su decapitación todavía no se ha cerrado." — Glosa del libro V del [[Decadiano]].*]
+> *El dios muerto no es dios menos: el reloj que ya no tictac sigue contando; la ausencia es también medida.*
 
 ## Vínculos
 
-- [[Kronamon]] — identidad confirmada (misma entidad, archivo distinto)
-- [[Pablo_de_Alejandria|Pablo de Alejandría]] — padre
-- [[Marques_de_Sade_Hugo|Marqués de Sade — Hugo]] — quien expone la apoteosis-decapitación
-- [[Cronomon_Heredeth|Cronomon Heredeth]] — figura titánica sucesora o paralela
-- [[Apocalipsis_Temporal_1889]] — episodio relacionado con la pérdida del reloj
-- [[Batalla_de_Kosovo_1389]] · [[Sarajevo_1914_Ucronica|Sarajevo 1914]] — eslabones de la cadena causal
-- [[Guardias_Ucronicos]] — figura cronomántica derivada de la cadena
-- [[Time_Bandits]] — grupo afectado por el desorden temporal
-- [[Bucle_de_5_Anos_Constantinopla]] — episodio del 1050 vinculado
-- [[Ejecucion_de_Kronamon|Ejecución de Kronamon (1120)]] — episodio templario de la decapitación
-- [[Fruto_del_Conocimiento_S11|el viaje FTL]] — donde la explosión de la cabeza se percibe
+- [[Pablo_de_Alejandria|Pablo de Alejandría]] — su padre, el cronista que escribe el Tiempo
+- [[Kronamon_Church|Kronamon Church]] — la secta que lo adora y administra el viaje temporal
+- [[Marques_de_Sade_Hugo|Marqués de Sade — Hugo]] — quien expone su apoteosis-decapitación
+- [[Grazzt|Graz'zt]] — su verdugo en 1120, desde [[Masada]]
+- [[Arsvan|Ärsvan]] — quien atraviesa al Titán Negro sobre la [[Esfera_de_Aniquilacion|Esfera de Aniquilación]]
+- [[Apocalipsis_Temporal_1889]] — predestinación que su muerte canceló
+- [[Cronoboys]] · [[Guardias_Ucronicos]] — consecuencias de la pérdida del reloj
+- [[Batalla_de_Kosovo_1389]] · [[Sarajevo_1914_Ucronica|Sarajevo 1914]] — eslabones de la cadena temporal
+- [[Fruto_del_Conocimiento_S11|el viaje FTL]] — donde se percibe la explosión de la cabeza
+- [[Eisagogika]] — la clave cifrada que recibió de su padre
 - [[Akala]]
 
 ## Apariciones
 
-- **Antes del cosmos compartido — administrador del Tiempo en su versión repartidora**
-- **1050 — inicio de la conjura cronomántica** — bucle bizantino
-- **1120 — decapitación ritual** — apoteosis simultánea
-- **Viaje FTL de los [[Time_Bandits]] — explosión de la cabeza de Chronomon** — eco cosmológico
-- **Revelaciones del [[Marques_de_Sade_Hugo|Marqués de Sade]] — Hugo** — exposición de la cadena en la torre del Valle
+- **Edad mortal** — Kronamon, hijo de Pablo, narrador del *Skronamon*
+- **Antes del cosmos compartido** — administrador del Tiempo, el reloj que reparte
+- **1050–1120** — la conjura cronomántica y la apoteosis-decapitación
+- **Cruce templario** — caída del Titán Negro (Cronomon Heredeth) ante Ärsvan
+- **Viaje FTL de [[Paris_Ucronica|París Ucrónica]]** — la explosión de la cabeza, eco del sacrificio
 
 <!-- CICLO -->
-> **Casas del ciclo** · ⏳ ✒
-> *Su reloj de arena no mide: reparte —lo que cae de un lado del vidrio falta del otro lado del cosmos—, y cuando la apoteosis-decapitación de 1120 lo deja sin tenedor, el cosmos pierde la administración fina y se entrega a bucles y arrugas, los [[Cronoboys]]. La doctrina del reloj la escribe [[Pablo_de_Alejandria|Pablo]], su padre cronista: el que glosa el Tiempo engendra al dios que lo administra, padre amanuense e hijo del oficio. Lo que [[Templarios]] archivó como «el divino decapitado» y [[Paris_Ucronica|París]] como la explosión de la cabeza es, confirmado, una sola entidad: [[Kronamon]].* — glosa del Decadiano.
+> **Casas del ciclo** · ⏳ ✒ ⟳
+> *Un solo eje del Tiempo con cuatro edades: el hijo del cronista [[Pablo_de_Alejandria|Pablo]] (Kronamon), el dios del reloj que reparte (Chronomon), el divino decapitado de 1120 cuya muerte es apoteosis, y el Titán Negro legado (Cronomon Heredeth) que cae sobre la [[Esfera_de_Aniquilacion|Esfera de Aniquilación]] ante [[Arsvan|Ärsvan]]. Lo que el archivo guardó bajo tres grafías es una sola entidad: el padre escribe el Tiempo, el hijo lo administra, y cuando el reloj queda sin tenedor el cosmos se entrega a los bucles. El reloj que ya no tictac sigue contando.* — glosa del Decadiano.
 <!-- /CICLO -->

@@ -36,7 +36,7 @@ More encarna dilema de redención y control demoníaco. Su doble portación de
 Estado físico post-posesión: ojos enrojecidos, rostro demacrado. Sangre de hija de **[[Lagu]]**
 vincula su control mágico a victimario anterior ([[Lagu]] linchada, hija en poder de posessor).
 
-En *Señores de [[York]]* (Taller l.903-1090), More es el centro del arco trágico. Asesina a su propia hija como sacrificio demoníaco, simulando un ataque de oso ante [[Egas]]. La voz interior demoniaca lo urge a matar también a [[Egas]], pero su amor se lo impide. Huye de [[Monkchester]] tras intimidar a la turba con su sola presencia. Se refugia con [[Lubina]], su amante súcubo. Tras la intervención divina que libera al grupo del hechizo de [[Lubina]], More se arrodilla ante [[Egas]] pidiendo perdón. Es exorcizado por el Arzobispo de [[York]] usando la [[Excalibur]], aunque 'sus acciones hicieron que no tardase mucho en regresar' el mal. Su arma es el hacha Molydei.
+En *Señores de [[York]]*, More es el centro del arco trágico. Asesina a su propia hija como sacrificio demoníaco, simulando un ataque de oso ante [[Egas]]. La voz interior demoniaca lo urge a matar también a [[Egas]], pero su amor se lo impide. Huye de [[Monkchester]] tras intimidar a la turba con su sola presencia. Se refugia con [[Lubina]], su amante súcubo. Tras la intervención divina que libera al grupo del hechizo de [[Lubina]], More se arrodilla ante [[Egas]] pidiendo perdón. Es exorcizado por el Arzobispo de [[York]] usando la [[Excalibur]], aunque 'sus acciones hicieron que no tardase mucho en regresar' el mal. Su arma es el hacha Molydei.
 
 ## Ver también
 

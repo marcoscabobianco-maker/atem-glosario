@@ -19,7 +19,7 @@ Umbral de la estructura infernal donde [[Loba_CDI|Loba]] actúa como guía e int
 
 ## Vínculos
 
-- [[Anti_Inferno|el Descenso (CDI)]] — gesta y estructura narrativa donde se inscribe este nivel
+- [[Anti_Inferno|el Descenso]] — gesta y estructura narrativa donde se inscribe este nivel
 - [[Infierno|Infierno]] — cosmología que organiza los niveles infernales
 - [[Pluton_CDI|Plutón]] — señor cuya jerarquía interna define los "niveles" de acceso
 - [[Ciudad_de_Dis_CDI|Ciudad de Dis]] — fortaleza infernal hacia la que el Primer Nivel es antesala

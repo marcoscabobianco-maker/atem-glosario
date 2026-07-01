@@ -28,7 +28,7 @@ El documento Skronamon describe la ambientación: tenores rojos en las planicies
 
 *Fuente primaria:* Documento Skronamon (línea 21, localidad β).
 
-*Conexiones:* **[[Axum_MC|Axum (MC)]]** (reino al que da acceso), **[[Grazzt|Graz'zt]] / [[GRDT]]** (asociado), **[[KAXA]]** (asociado), **[[Antiterra_Demonia|Antiterra]] / [[Antiterra_Demonia|Demonia]]** (eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]).
+*Conexiones:* **[[Axum_MC|Axum (ciclo)]]** (reino al que da acceso), **[[Grazzt|Graz'zt]] / [[GRDT]]** (asociado), **[[KAXA]]** (asociado), **[[Antiterra_Demonia|Antiterra]] / [[Antiterra_Demonia|Demonia]]** (eje [[Anno_Domini_Antiterra_ADA|A.D.A.]]).
 
 ## Notas
 

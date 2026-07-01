@@ -8,4 +8,4 @@ aliases:
 ![[Imagenes_Tier1/Bola_Cristal_comunicacion.png]]
 <!-- /HEADER_IMG -->
 
-Esfera cristal con rostro de [[Meteora]]-espíritu hablando desde más allá.
+La lámina muestra una esfera de cristal en la que se aparece el rostro de [[Meteora]], ya espíritu, hablando desde el más allá. El archivo la guarda como instrumento de comunicación: la voz de quien ya partió, traída a este lado por el cristal.

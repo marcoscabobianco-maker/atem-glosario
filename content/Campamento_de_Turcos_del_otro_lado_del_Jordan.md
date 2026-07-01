@@ -15,7 +15,7 @@ aliases:
 
 **Características:** Tiendas de campaña militares. Armas de batalla. [[Lords_of_Creation_Sistema_TNW|Sistema]] de captura y prisiones.
 
-**[[Evento]] de la noche del robo de reliquias:** [[Arsvan|Ärsvan]] aparece desnudo en este campamento, es capturado y encadenado. Contexto desconocido.
+**Evento de la noche del robo de reliquias:** [[Arsvan|Ärsvan]] aparece desnudo en este campamento, es capturado y encadenado. Contexto desconocido.
 
 **Implicación:** Ubicación de fuerzas enemigas principales. Potencial teatro de operaciones futuro.
 

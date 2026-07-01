@@ -10,4 +10,4 @@ aliases:
 
 ## Presentación
 
-Gremio railroaders. Llevan tiempo al espacio de otras ciudades [[Antiterra_Demonia|Antiterra]]. Miembros: [[Henriette]], [[Claude_Nauge|Claude Nauge]].
+Gremio de ferroviarios que tienden sus vías hacia el espacio de otras ciudades de [[Antiterra_Demonia|Antiterra]], llevando el tiempo de unas a otras. El archivo cuenta entre sus miembros a [[Henriette]] y a [[Claude_Nauge|Claude Nauge]].

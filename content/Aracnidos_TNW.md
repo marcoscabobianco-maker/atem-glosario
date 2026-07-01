@@ -1,5 +1,5 @@
 ---
-title: "Aracnidos TNW"
+title: "Aracnidos (Mundo Nuevo)"
 aliases:
  - "Aracnidos"
  - "Aracnidos_TNW"

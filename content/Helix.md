@@ -42,7 +42,7 @@ La pequeña hermandad eclesial del santuario **opera con discreción de masoner�
 
 ## Bajo cerco
 
-En el ciclo presente —*cuando las nieblas de Valakhan se asentaron sobre el valle entero*— Helix quedó **expuesta por su posición sur**: lejos del [[Palacio_del_Prisma]], lejos de los [[Buscadores_de_Ardis_Vala|Buscadores]] que descienden al [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]], **vulnerable a lo que sube desde los túmulos**.
+En el ciclo presente —*cuando las nieblas de Valakhan se asentaron sobre el valle entero*— Helix quedó **expuesta por su posición sur**: lejos del [[Palacio_del_Prisma]], lejos de los [[Buscadores_de_Ardis_Vala|Buscadores]] que descienden al [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]], **vulnerable a lo que sube desde los túmulos**.
 
 En **la jornada del altar partido** —*así la registra el cronista local*— la aldea sufrió:
 

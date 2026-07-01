@@ -64,7 +64,7 @@ La doctrina interna de la Casa Azul de Vala —*conservada en archivos privados 
 
 ### Casa Azul en Ardis Vala
 
-*La geografía nominal del linaje*. **El valle entero** —*[[Ardis_Vala]], que en algunos códices más antiguos lleva el nombre completo "Valle de la Casa Azul"*— **toma su nombre del linaje**. **Las ruinas imperiales** que el [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]] preserva conservan **vestigios heráldicos azules** en cámaras profundas que los [[Buscadores_de_Ardis_Vala|Buscadores]] aún no han explorado. **El [[Azure_Keep|Azure Keep]] restaurado por [[Lady_Alexia_Basileon|Lady Alexia]]** —*la Dama Verde de los Basileon*— **es manifestación reciente de la rama Casa Azul en el cosmos archonteo**. *Alexia* **es Casa Azul por línea materna** —*o, según otra lectura, por línea paterna oculta*; *el archivo no fija con certeza*—, **lo cual sostiene su agenda de recuperación de las regalias arcónticas con respaldo doctrinal que el aparato imperial todavía no ha terminado de procesar**.
+*La geografía nominal del linaje*. **El valle entero** —*[[Ardis_Vala]], que en algunos códices más antiguos lleva el nombre completo "Valle de la Casa Azul"*— **toma su nombre del linaje**. **Las ruinas imperiales** que el [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]] preserva conservan **vestigios heráldicos azules** en cámaras profundas que los [[Buscadores_de_Ardis_Vala|Buscadores]] aún no han explorado. **El [[Azure_Keep|Fortaleza Azur]] restaurado por [[Lady_Alexia_Basileon|Lady Alexia]]** —*la Dama Verde de los Basileon*— **es manifestación reciente de la rama Casa Azul en el cosmos archonteo**. *Alexia* **es Casa Azul por línea materna** —*o, según otra lectura, por línea paterna oculta*; *el archivo no fija con certeza*—, **lo cual sostiene su agenda de recuperación de las regalias arcónticas con respaldo doctrinal que el aparato imperial todavía no ha terminado de procesar**.
 
 ### Casa Azul en Caldero
 
@@ -154,7 +154,7 @@ La doctrina interna de la Casa Azul de Vala —*conservada en archivos privados 
 ## Apariciones
 
 - **Origen primigenio** — geografía no fijada, posiblemente [[Plataformas_de_Vala_Ely|Plataformas de Vala]]-Ely / Islaires / Elysian
-- **Imperio archonteo temprano** — manifestaciones tempranas en Ardis Vala, vestigios heráldicos en el [[Mega_Dungeon_Arden_Vul|Mega-Dungeon]]
+- **Imperio archonteo temprano** — manifestaciones tempranas en Ardis Vala, vestigios heráldicos en el [[Mega_Dungeon_Arden_Vul|Mega-Mazmorra]]
 - **Período [[Templarios]] / Reguladores** — Thalia Cristalia operativa como paladina cristalina; matrimonio con Lotario-Oratiol-Taylor; nacimiento de Vitalis
 - **Hiato de Ardis Vala** — [[Lady_Alexia_Basileon|Lady Alexia]] opera restauración del [[Azure_Keep]] como rama Casa Azul; el linaje gana presencia visible en el valle
 - **Ciclo presente (Caldero 1824 AE)** — [[Vitalis|Hechicero del Río Blackwater]] se incorpora a [[La_Jabalina]], opera en sociedad alta de [[Ciudad_Estrella]], mezcla con saga de Thalia Cristalia

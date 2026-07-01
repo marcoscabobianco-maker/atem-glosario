@@ -99,3 +99,11 @@ El árbol-rizoma produce:
 - **el archivo Ardis Vala**: nacimiento del árbol madre ([[Arcanum_Forge|Forja Arcanum]])
 - **Hiato 15 años**: arraigo del rizoma bajo [[Stejara]]
 - **[[Novatos_Ravenloft|Novatos Ravenloft]] (varias jornadas)**: descubrimiento y posible combate
+
+---
+
+## Capa interna [R]
+
+> No diegético; el dispositivo de la mesa, fuera de la lectura pública.
+
+- **Fuente externa:** *The Gulthias Tree*, árbol vampírico del módulo *The Sunless Citadel* (Bruce R. Cordell, D&D 3e, WotC/TSR, 2000). Canónicamente genera Twig/Needle/Vine Blights; manzana roja (curación con powers check Ravenloft), manzana blanca (veneno, salvación -2); muere al quemarse y los blights se desmoronan. El reveal de 2026-05-20 lo recontextualiza como rizoma del Árbol de Armas Principal.

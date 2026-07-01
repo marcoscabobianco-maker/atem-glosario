@@ -16,7 +16,7 @@ aliases:
 - Dejada en bóveda de [[Temple_complejo_TE|Temple]]
 - **Robada en la noche siguiente, durante el descanso del grupo en el [[Temple_complejo_TE|Temple]]** (responsable desconocido)
 
-**[[Propiedades]] mágicas:**
+**Propiedades mágicas:**
 - Viscosidad sobrenatural
 - Resistencia a desintegración normal
 - Reacción a sustancias específicas
@@ -27,4 +27,4 @@ aliases:
 ## Ver también
 
 - Robada en la noche del [[Temple_complejo_TE|Temple]]
-- [[Propiedades]] mágicas
+- Propiedades mágicas

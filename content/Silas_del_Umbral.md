@@ -19,8 +19,11 @@ tags:
  - umbral
  - ejecutado
  - altar
-imagen: null
+imagen: Imagenes_Tier1/Silas_del_Umbral.png
 ---
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Silas_del_Umbral.png]]
+<!-- /HEADER_IMG -->
 
 > *"Operaba en el umbral. Entre el pacto y la magia legítima. Es ahí donde la inquisición opera con menos lengua y más maza."* — anot. del cronista del Plata, al cierre de la jornada.
 

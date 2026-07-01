@@ -5,7 +5,9 @@ aliases:
 referenciado_por: 2
 ---
 
-compañero ligada a combates con el Ciclope y el Triceratops en el Laberinto.
+## Presentación
+
+Compañera que el archivo liga a los combates contra el [[Ciclope_del_Laberinto|Cíclope]] y el [[Dinosaurio_Triceratops|Triceratops]] en el Laberinto.
 
 ## Referencias entrantes
 
