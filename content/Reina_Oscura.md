@@ -7,6 +7,12 @@ aliases:
 en_construccion: true
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Reina_Oscura.png]]
+<!-- /HEADER_IMG -->
+
+> *La Reina Oscura entronizada, presidiendo el pacto.*
+
 > *Esta entrada del archivo está **en construcción**. El cronista aún no ha desplegado su contenido completo; lo que se conserva por ahora son las referencias que otras fichas hacen a ella.*
 
 ## Referencias entrantes

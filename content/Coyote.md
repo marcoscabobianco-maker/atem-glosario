@@ -47,3 +47,6 @@ en la [[Contienda]]. Puede ofrecer la vida a [[Maristo]].
 > **Casas del ciclo** · ⟳
 > *Jinete de wyvern de Krynn que muere y despierta desnudo en una vida nueva, y termina —junto a [[Kaxathros]]— de guardián de la plataforma de la Tentación en la [[Contienda]]. Es el oficio que rota: quien cae en una plataforma puede pasar a custodiarla, y el cargo sobrevive al cuerpo que lo ocupa, como la vida que aún puede ofrecer a [[Maristo]].* — glosa de Amitlai.
 <!-- /CICLO -->
+
+![[Imagenes_Tier1/Coyote_c1.png]]
+*La resurrección de Coyote sobre el altar. (Primera época — C1.)*

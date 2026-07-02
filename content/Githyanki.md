@@ -16,6 +16,12 @@ tags:
  - tiamat
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Githyanki.png]]
+<!-- /HEADER_IMG -->
+
+> *Los githyanki en el Plano Astral.*
+
 > *Caballeros de un vacío sin orillas, montados en naves que respiran, en guerra desde antes de la memoria contra la madre de los dragones. No quieren el mundo: quieren clausurarlo.*
 
 ## Presentación

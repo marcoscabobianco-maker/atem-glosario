@@ -28,6 +28,12 @@ tags:
 imagen: null
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Palacio_del_Prisma.png]]
+<!-- /HEADER_IMG -->
+
+> *El Palacio del Prisma (Prism Keep): el templo-isla en el lago subterráneo.*
+
 > *"El castillo del Prisma es una fortaleza volante probablemente mágica y llena de torres de distintos colores de gemas. Estaba también funcionando como una suerte de prisión de un ser muy antiguo, élfico tal vez, pero como un señor anterior de vampiros. Y ese estaba atrapado hoy por [[Maruts]]."*
 
 ---

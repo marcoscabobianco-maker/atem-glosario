@@ -31,3 +31,6 @@ aliases:
 
 ![[Imagenes_Tier1/Dragon_Verde_ritual.jpg]]
 *El ritual de lucha contra el gigante de dos cabezas en la tribu del Dragon Verde.*
+
+![[Imagenes_Tier1/Dragon_Verde_tesoro.png]]
+*El dragón verde sobre su montaña de oro. (Primera época — C1.)*

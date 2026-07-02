@@ -74,3 +74,9 @@ Si en algún cuaderno posterior asienta una conexión Natalio↔Gema (por ejempl
 - [[Coyote]] (segundo eslabón en cadena de reencarnación)
 - [[Gema_de_la_Creacion|Gema de la Creación]] (artefacto de Minaya/Soluna, NO de Natalio)
 - [[Arian]] (cuarto eslabón)
+
+![[Imagenes_Tier1/Natalio_Ruiz_c1_negro.png]]
+*Natalio Ruiz y su dragón «el Negro» (Caustalak). (Primera época — C1.)*
+
+![[Imagenes_Tier1/Natalio_Ruiz_c1_griselda.png]]
+*Griselda sobre el dragón rojo, frente al Negro. (Primera época — C1.)*

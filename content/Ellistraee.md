@@ -10,6 +10,12 @@ aliases:
  - "Ellistraee"
 ---
 
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ellistraee.png]]
+<!-- /HEADER_IMG -->
+
+> *La diosa de los drow redimidos: rito de invocación en la cámara de sellos.*
+
 ## Presentación
 
 **Diosa de los drow redimidos**, la luna de los elfos oscuros que han abandonado el culto de la

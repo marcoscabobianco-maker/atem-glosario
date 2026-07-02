@@ -74,3 +74,6 @@ De ahí brota el **conflicto de [[Los_Supremos]]** —el Triunvirato del cierre 
 > **Casas del ciclo** · ☯ △
 > *El necromante que persigue la [[Vara_del_Infinito]] junto al [[Innombrable]] y a [[Arian]] —y obtiene el [[Cetro_de_los_Dioses]], la pieza regia del artefacto triádico, ligada a él eternamente por las actas del [[Los_Supremos|Tribunal]]—. La Vara no existe entera: se cristaliza recién cuando las fuerzas duales llevan la disputa a un tribunal por fuera del universo, ese contagio entre hemisferios que sobrepasa los designios de [[Pablo_de_Alejandria|Pablo de Alejandría]]. Lo que A leyó como el objeto trans-campaña (AA-O.1) y como la dualidad cosmológica (AA-C.1) es, en C, la misma costura: el reparto de las tres piezas sólo se firma cuando el cosmos gemelo dirime.* — glosa del Decadiano.
 <!-- /CICLO -->
+
+![[Imagenes_Tier1/Elias_c1_grimorio.png]]
+*El primer libro de conjuros de Elías, con el sello de la «E». (Primera época — C1.)*
