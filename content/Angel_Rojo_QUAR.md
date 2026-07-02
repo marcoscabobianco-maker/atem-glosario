@@ -16,7 +16,12 @@ aliases:
  - "Ángel Rojo"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Angel_Rojo_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Angel_Rojo_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 El **Ángel Rojo** ya estaba muerto cuando empezó esta crónica: un ángel sanador caído en aventuras pasadas, sacrificado, cuyo nombre-ritual quedó flotando en la memoria de los sobrevivientes como una plegaria. Cuando [[Shibuya_QUAR|Shibuya]] llamó a la fe desde el tren, ese nombre fue la respuesta: nació el culto del Ángel Rojo, los [[Caramelo_Flogger_QUAR|Caramelo Flogger]] se reconvirtieron en su "pueblo", una artista lo esculpió en tres dimensiones y un vagón rojo entero del [[tren_rojo_QUAR|tren blindado]] fue consagrado a su memoria.
 

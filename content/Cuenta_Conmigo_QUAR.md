@@ -15,7 +15,12 @@ tags:
 aliases: []
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Cuenta_Conmigo_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Cuenta_Conmigo_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Cuando el tren blindado de [[Kreider_QUAR|Kreider]] ya rodaba hacia lo desconocido, apareció caminando por las vías una figura sola: un [[Caramelo_Flogger_QUAR|Caramelo Flogger]] algo más crecido que el resto, atraído por un mensaje pintado. Se hacía llamar **Cuenta Conmigo**, y el nombre era el programa: llegó para sumarse al pueblo del [[Angel_Rojo_QUAR|Ángel Rojo]], el culto recién nacido del llamado a la fe de [[Shibuya_QUAR|Shibuya]], y se quedó.
 

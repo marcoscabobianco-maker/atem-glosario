@@ -1,6 +1,6 @@
 ---
 title: "el tren rojo (tren blindado)"
-título: "El tren rojo — hogar móvil del hardhold, después tren blanco"
+título: "El tren rojo — hogar móvil del búnker, después tren blanco"
 slug: tren_rojo_QUAR
 categoria: lugar
 campania: QUAR
@@ -17,9 +17,14 @@ aliases:
  - "el tren blanco"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónicas de las jornadas 6 y 7, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/tren_rojo_QUAR.jpg
 ---
 
-Cuando el hardhold decidió abandonar el búnker y echarse al riel, su nueva casa fue un tren blindado de composición imposible: vagones de lujo, pullman, tercera clase y frigorífico, un vagón-laboratorio para [[Taito_QUAR|Taito]] y una torreta artillada, todo tirado por dos locomotoras que permiten marchar hacia adelante o hacia atrás sin dar vuelta. Tres días llevó cargarlo de suministros, armas y mercadería; la mitad de la gente quedó cuidando el [[hardhold_Kreider_QUAR|búnker]] y la otra mitad subió a bordo, con los pitufos de gorro rojo como guardia del jefazo.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/tren_rojo_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Cuando el **[[hardhold_Kreider_QUAR|búnker]]** decidió echarse al riel, su nueva casa fue un tren blindado de composición imposible: vagones de lujo, pullman, tercera clase y frigorífico, un vagón-laboratorio para [[Taito_QUAR|Taito]] y una torreta artillada, todo tirado por dos locomotoras que permiten marchar hacia adelante o hacia atrás sin dar vuelta. Tres días llevó cargarlo de suministros, armas y mercadería; la mitad de la gente quedó cuidando el [[hardhold_Kreider_QUAR|búnker]] y la otra mitad subió a bordo, con los pitufos de gorro rojo como guardia del jefazo.
 
 El tren fue también templo rodante. Una artista de a bordo esculpió al [[Angel_Rojo_QUAR|Ángel Rojo]] y se consagró a su memoria un vagón pintado de rojo, donde viajaba el pueblo de fieles nacido del llamado de [[Shibuya_QUAR|Shibuya]] —los [[Caramelo_Flogger_QUAR|Caramelo Flogger]] reconvertidos en congregación.
 

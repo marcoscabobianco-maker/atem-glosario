@@ -17,7 +17,12 @@ aliases:
  - "el galpón de cristales"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/vivero_subte_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/vivero_subte_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Antes de llegar al reducto de [[Kreider_QUAR|Kreider]] hay que cruzar el **vivero de subte**: un galpón de cristales y vagones abandonados que la vegetación se tragó entera, verde salvaje creciendo donde antes había andenes. Es la antesala del asentamiento y su primera línea de defensa — un bosque techado en medio de la [[la_Zona_QUAR|Zona]] muerta.
 

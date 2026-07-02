@@ -17,7 +17,12 @@ aliases:
  - "la región de la cuarentena"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/la_Zona_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/la_Zona_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 **La Zona** es la región de origen de la banda: el pedazo de mundo donde la cuarentena de 2087 se volvió perpetua. Arriba manda el [[El_Maestro_QUAR|Maestro]] y su red; la mayoría de la población vive encerrada en sus casas, presa de un pavor absoluto al contacto, refugiada en la realidad virtual mientras afuera las calles se pudren. Algunos la llaman también el Maelstrom, porque acá la vorágine psíquico-digital que envuelve al planeta se siente más espesa que en ningún lado: la Zona es el remolino hecho territorio.
 

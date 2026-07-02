@@ -17,7 +17,12 @@ aliases:
  - "el impostor"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/clon_Michael_Douglas_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/clon_Michael_Douglas_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Llegó a la última cena con su familia entera, la sonrisa fabricada y el rostro prestado de un viejo ídolo del cine: **el emisario clonado**, embajador del enemigo con inmunidad diplomática del "capitalismo de plataformas", venido en persona a juzgar a la banda que se había atrevido a romper el espectáculo. Brindó por el sistema que sus anfitriones combatían, celebró la mercancía en que el mundo se había convertido, y se reveló por lo que era: una copia con credenciales, la cara amable de la máquina.
 

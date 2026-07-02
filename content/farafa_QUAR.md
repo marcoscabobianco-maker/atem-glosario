@@ -15,9 +15,14 @@ aliases:
  - "faralá"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de las jornadas 1-2, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/farafa_QUAR.jpg
 ---
 
-En el reducto donde el dinero dejó de significar algo, la farafa lo reemplazó: droga y moneda en el mismo sobre. Con farafa se paga, se cobra y se calma; los programadores de [[Willy_Vision_QUAR|Willy Vision]] viven enchufados y adictos a ella, y es esa misma adicción la que financia sus augurios —la antena psíquica funciona porque alguien la mantiene drogada—. Circula por los pisos bajos del [[hardhold_Kreider_QUAR|hardhold]] como circulaba antes la plata: sosteniendo lealtades que duran lo que dura la dosis.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/farafa_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+En el reducto donde el dinero dejó de significar algo, la farafa lo reemplazó: droga y moneda en el mismo sobre. Con farafa se paga, se cobra y se calma; los programadores de [[Willy_Vision_QUAR|Willy Vision]] viven enchufados y adictos a ella, y es esa misma adicción la que financia sus augurios —la antena psíquica funciona porque alguien la mantiene drogada—. Circula por los pisos bajos del [[hardhold_Kreider_QUAR|búnker]] como circulaba antes la plata: sosteniendo lealtades que duran lo que dura la dosis.
 
 ## Vínculos
 

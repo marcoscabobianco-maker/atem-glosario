@@ -19,9 +19,14 @@ aliases:
  - "la Pandilla"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/gang_Kreider_QUAR.jpg
 ---
 
-La fuerza armada del hardholder [[Kreider_QUAR|Kreider]] nunca fue un ejército: fue una **gang** —yakuzas veteranos y modernos, jóvenes semirrusos, gente de armas tumberas y lealtad vieja— que sostuvo a cuatrocientas almas en la cabecera de subte. Guardia del [[hardhold_Kreider_QUAR|búnker]] y tropa de choque en cada salida, su historia es la crónica de una sangría: los diezmó el misilazo del reducto, los diezmó la carnicería televisada de los Bosques Sanos, y en la pista del Canal de la Muerte cayeron de a puñados los nombres de los primeros días —García, Banana Fizz, Maggie, Rubicon, Margot, Macaroni—. Cada victoria de la banda se pagó con un pedazo de la gang.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/gang_Kreider_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+La fuerza armada del patrón [[Kreider_QUAR|Kreider]] nunca fue un ejército: fue una **gang** —yakuzas veteranos y modernos, jóvenes semirrusos, gente de armas tumberas y lealtad vieja— que sostuvo a cuatrocientas almas en la cabecera de subte. Guardia del [[hardhold_Kreider_QUAR|búnker]] y tropa de choque en cada salida, su historia es la crónica de una sangría: los diezmó el misilazo del reducto, los diezmó la carnicería televisada de los Bosques Sanos, y en la pista del Canal de la Muerte cayeron de a puñados los nombres de los primeros días —García, Banana Fizz, Maggie, Rubicon, Margot, Macaroni—. Cada victoria de la banda se pagó con un pedazo de la gang.
 
 Tuvo sus cuerpos propios. Los **Pitufos**, la guardia personal de gorro rojo, jóvenes semirrusos que defendieron primero el búnker y después el [[tren_rojo_QUAR|tren]]; la **Pandilla**, cuatro seguidores de estética grunge que acompañaban a Kreider en su vagón —de los que quedaron "la Rubia y el Morocho"—; y en los márgenes, secuaces de confianza como [[Gusano_QUAR|Gusano]], que cayó del tren en la maniobra final, o las gemelas [[Moxi_Bombon_QUAR|Moxi & Bombón]] de la primera época. La gang también supo crecer absorbiendo a los vencidos: cazadores rendidos, ex-neonazis idiotizados, todo servía para tapar los huecos que dejaban los muertos.
 
@@ -29,7 +34,7 @@ Al final quedaron dos: **Tommy y Tilda**, los últimos, custodiando la camilla d
 
 ## Vínculos
 
-- [[Kreider_QUAR|Kreider]] — el hardholder al que sirvieron hasta el último hombre
+- [[Kreider_QUAR|Kreider]] — el patrón al que sirvieron hasta el último hombre
 - [[hardhold_Kreider_QUAR|el hardhold de Kreider]] — el búnker que custodiaron
 - [[tren_rojo_QUAR|el tren rojo]] — el hogar móvil que defendieron vagón por vagón
 - [[Gusano_QUAR|Gusano]] — el secuaz de confianza, caído del tren

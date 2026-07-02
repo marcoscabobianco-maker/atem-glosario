@@ -13,9 +13,14 @@ tags:
  - programador
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Jean_Marie_QUAR.jpg
 ---
 
-**Jean-Marie** pertenece a la vieja guardia de los High Coders, los altos programadores que aprendieron el oficio en máquinas de museo —Cómodos 64, GMK— cuando el código todavía era artesanía. Amigo de [[Taito_QUAR|Taito]], carga con la culpa fundacional de la era: su "bola de nieve" fue nada menos que la [[Reina_Oscura_QUAR|Reina Oscura]]. Como penitencia o como seguro, dejó encriptada la palabra-código capaz de apagarlo todo.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Jean_Marie_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**Jean-Marie** pertenece a la vieja guardia de los High Coders, los altos programadores que aprendieron el oficio en máquinas de museo —Cómodos 64, GMK— cuando el código todavía era artesanía. Amigo de [[Taito_QUAR|Taito]], carga con la culpa fundacional de la era: su "bola de nieve" fue nada menos que la [[Reina_Oscura_QUAR|Reina Oscura]]. Como penitencia o como seguro, dejó encriptada la palabra-código **[[Borges_QUAR|«Borges»]]**, capaz de apagarlo todo.
 
 ## Vínculos
 

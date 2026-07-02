@@ -15,9 +15,14 @@ aliases:
  - "el Saltimbanqui"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Saltimbanqui_QUAR.jpg
 ---
 
-En un mundo donde nadie sale, alguien tiene que mover las cosas. El **Saltimbanqui** es un motociclista tatuado al estilo de las viejas maras, el único que se anima a romper la cuarentena para trasladar cargas de un punto a otro, y conduce uno de los pocos vehículos que todavía andan. Eso, en la clausura de 2087, es un oficio y un privilegio: por sus manos pasa lo que el encierro dice que no debe circular.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Saltimbanqui_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+En un mundo donde nadie sale, alguien tiene que mover las cosas. El **Saltimbanqui** es un motociclista tatuado al estilo de las viejas maras, el único que se anima a romper la cuarentena del **[[hardhold_Kreider_QUAR|reducto]]** de **[[Kreider_QUAR|Kreider]]** para trasladar cargas de un punto a otro, y conduce uno de los pocos vehículos que todavía andan. Eso, en la clausura de 2087, es un oficio y un privilegio: por sus manos pasa lo que el encierro dice que no debe circular.
 
 ## Vínculos
 

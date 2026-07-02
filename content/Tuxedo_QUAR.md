@@ -15,7 +15,12 @@ aliases:
  - "Tuxedo Raver"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Tuxedo_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Tuxedo_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Presentador de sonrisa profesional y piloto de un taxi aéreo de tecnología extraña, **Tuxedo** es de esos hombres que el mundo del show fabrica por docenas — salvo por un detalle: le debía un viejo favor a [[Kreider_QUAR|Kreider]], y los favores, en la cuarentena de 2087, son la única moneda que no se devalúa. Comprado primero con dinero y mercancía, fiel después por algo parecido al cariño, terminó siendo el ángel de la guarda aéreo de la banda.
 

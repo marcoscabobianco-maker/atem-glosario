@@ -16,9 +16,14 @@ aliases:
  - "la jaula de Faraday"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de las jornadas 2, 4 y 7, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/EMP_QUAR.jpg
 ---
 
-Aparato de [[Taito_QUAR|Taito]] —a medio camino entre granada y jaula de Faraday— que desactiva toda electrónica a su alcance. En un mundo donde cada cámara transmite y cada transmisión es una condena, el pulso no destruye: apaga. La banda lo usó una y otra vez para arruinar las transmisiones de los shows que la cazaban y comprar, a precio de chatarra quemada, lo más caro que había en 2087: unos minutos de silencio en los que nadie mira.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/EMP_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Aparato de [[Taito_QUAR|Taito]] —a medio camino entre granada y jaula de Faraday— que desactiva toda electrónica a su alcance. En un mundo donde cada cámara transmite y cada transmisión es una condena, el pulso no destruye: apaga. La banda lo usó una y otra vez para arruinar las transmisiones del **[[evento_battle_royale_QUAR|Battle Royale]]** que la cazaba y comprarle al **[[El_Maestro_QUAR|Maestro]]**, a precio de chatarra quemada, lo más caro que había en 2087: unos minutos de silencio en los que nadie mira.
 
 ## Vínculos
 

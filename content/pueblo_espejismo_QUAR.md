@@ -17,7 +17,12 @@ aliases:
  - "el pueblo de la doble Rueda"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/pueblo_espejismo_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/pueblo_espejismo_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Donde el puente se derrumbó y los rieles quedaron tendidos sobre un cielo de agua, el paisaje deja de coincidir consigo mismo. Ese es el **pueblo espejismo**: una comunidad apocalíptica de reflejos engañosos donde lo que se ve en la superficie y lo que se ve en el agua no son lo mismo. Bajo el espejo acechan casas embrujadas; arriba, los rieles parecen vivos, hay esqueletos de trenes oxidados al costado del camino y microclimas que se abren de golpe — un claro de luz y sol en medio del desastre puede esconder un oso gigante de garras de acero.
 

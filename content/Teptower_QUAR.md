@@ -13,9 +13,14 @@ tags:
  - zepelin
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Teptower_QUAR.jpg
 ---
 
-**Teptower** coordinaba el zepelín nazi —un Hindenburg resucitado para la guerra— que se cernía sobre la ruta del tren rojo como una sombra alargada de otro siglo. Su amenaza aérea terminó en bola de fuego cuando [[emulo_Putin_QUAR|el émulo de Putin]] vació la torreta contra el casco del gigante.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Teptower_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**Teptower** coordinaba el **[[zepelin_nazi_QUAR|zepelín nazi]]** —un Hindenburg resucitado para la guerra, con **[[Krueger_QUAR|Krueger]]** entre su tripulación— que se cernía sobre la ruta del [[tren_rojo_QUAR|tren rojo]] como una sombra alargada de otro siglo. Su amenaza aérea terminó en bola de fuego cuando [[emulo_Putin_QUAR|el émulo de Putin]] vació la torreta contra el casco del gigante.
 
 ## Vínculos
 

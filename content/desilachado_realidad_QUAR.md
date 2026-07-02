@@ -15,9 +15,14 @@ aliases:
  - "el desilachado"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 6, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/desilachado_realidad_QUAR.jpg
 ---
 
-Aparato de [[Taito_QUAR|Taito]] que liga su cuerpo, por nanobots, al maelström: donde termina la piel del genio técnico empieza el tejido de la red psíquica, y la costura es tan fina que ya no se sabe cuál hilo es carne y cuál es señal. El desilachado le otorga augurio —ver lo que la red ve— y control sobre los objetos conectados a ella, al precio de quedar él mismo enhebrado en el telar del [[El_Maestro_QUAR|Maestro]]. Es el límite de la realidad deshilachándose en un solo cuerpo.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/desilachado_realidad_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Aparato de [[Taito_QUAR|Taito]] que liga su cuerpo, por nanobots forjados en **[[Sky_Metal_QUAR|Sky Metal]]**, al maelström: donde termina la piel del genio técnico empieza el tejido de la red psíquica, y la costura es tan fina que ya no se sabe cuál hilo es carne y cuál es señal. El desilachado le otorga augurio —ver lo que la red ve— y control sobre los objetos conectados a ella, al precio de quedar él mismo enhebrado en el telar del [[El_Maestro_QUAR|Maestro]]. Es el límite de la realidad deshilachándose en un solo cuerpo.
 
 ## Vínculos
 

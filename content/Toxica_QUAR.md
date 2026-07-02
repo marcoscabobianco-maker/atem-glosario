@@ -16,9 +16,14 @@ aliases:
  - "la Tóxica"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Toxica_QUAR.jpg
 ---
 
-**Tóxica**, ex líder del círculo de programadores de [[Willy_Vision_QUAR|Willy Vision]], vivía conectada: siempre enchufada, siempre en línea, fue ella quien vislumbró la pista que permitió rastrear a la [[Head_Hunter_QUAR|Head Hunter]] en los primeros días de la crónica. Su final fue el espejo exacto de su vida: cuando la palabra-código apagó Internet por primera vez en diez años, Tóxica murió de una última sobredosis, sin recibir ya ninguna llamada — la única muerte que la [[evento_caida_internet_QUAR|caída de la red]] se cobró por abstinencia.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Toxica_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**Tóxica**, ex líder de los **[[AK_Boys_QUAR|A.K. Boys]]**, el círculo de programadores de [[Willy_Vision_QUAR|Willy Vision]], vivía conectada: siempre enchufada, siempre en línea, fue ella quien vislumbró la pista que permitió rastrear a la [[Head_Hunter_QUAR|Head Hunter]] en los primeros días de la crónica. Su final fue el espejo exacto de su vida: cuando la palabra-código apagó Internet por primera vez en diez años, Tóxica murió de una última sobredosis, sin recibir ya ninguna llamada — la única muerte que la [[evento_caida_internet_QUAR|caída de la red]] se cobró por abstinencia.
 
 ## Vínculos
 

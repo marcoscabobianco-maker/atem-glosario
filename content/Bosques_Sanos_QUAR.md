@@ -17,7 +17,12 @@ aliases:
  - "el conglomerado"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónicas de las jornadas 2 y 3, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Bosques_Sanos_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Bosques_Sanos_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Mientras el resto del mundo se pudre encerrado, los Bosques Sanos respiran. Es un enclave de matuselaides —longevos, adinerados, regenerados una y otra vez en quirófano— donde la cuarentena se vuelve laxa: baños milenarios, canteras, un campo de golf donde se paga sobreprecio por todo, cabañas junto al lago para ricos y famosos. La escenografía es de parque temático romano-japonés, con pinos milenarios de verdad —Pinus aristata, con su claro drúidico adentro— y la [[Refinery_Dam_QUAR|Refinería y el dique]] humeando del otro lado del bosque.
 

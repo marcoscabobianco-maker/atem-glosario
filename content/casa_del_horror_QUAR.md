@@ -18,7 +18,12 @@ aliases:
  - "el circo del horror"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/casa_del_horror_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/casa_del_horror_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 A diez cuadras de la nueva base, en el corazón del [[pueblo_espejismo_QUAR|pueblo espejismo]], se levantaba la **casa del horror**: una casa encantada que era en verdad un set de televisión, un Truman Show amplificado hasta la muerte. Adentro funcionaba el circo: la [[secta_vampirica_QUAR|secta vampírico-robótica]] de figuras de caucho torturaba niños cautivos —entre ellos los hermanitos de [[Masha_QUAR|Masha]]—, el [[Payaso_Maldito_QUAR|Payaso Maldito]] ejecutaba prisioneros como director-verdugo, y las cámaras convertían cada tormento en rating. Hasta una reproducción clonada del [[Angel_Rojo_QUAR|Ángel Rojo]] guardaban allí, cautiva, como reliquia del sanador caído.
 

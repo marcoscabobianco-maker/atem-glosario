@@ -16,7 +16,12 @@ aliases:
  - "las gemelas"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Moxi_Bombon_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Moxi_Bombon_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 **Moxi & Bombón** son las gemelas de piernas prostéticas que forman la guardia personal armada del [[hardhold_Kreider_QUAR|hardhold de Kreider]]: dos cuerpos idénticos, reconstruidos a fuerza de metal, patrullando los pasillos del búnker con la lealtad feroz de quien no tiene otro hogar que defender. Su enemistad con [[Zaa_QUAR|Zaa]] viene de lejos y de abajo: alguna vez la arregladora les falló una prótesis, y en el mundo de la cuarentena una pierna que falla no se perdona.
 

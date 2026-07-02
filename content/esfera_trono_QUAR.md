@@ -18,7 +18,12 @@ aliases:
  - "el corazón del Maestro"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/esfera_trono_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/esfera_trono_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Sobre un Tokio-York de neón y templos sintoístas, suspendida entre monolitos blancos y columnas, flota **la esfera**: el complejo tecnológico que es el corazón neurálgico del [[El_Maestro_QUAR|Maestro]]. Hasta allí no llega ningún camino del mundo de abajo; hubo que perforar la realidad misma con el [[tren_Chuchu_QUAR|tren gravitatorio "Chuchu"]] para tocar su umbral. Adentro, la arquitectura ya no es humana del todo: blancura, columnas, silencio de servidor.
 

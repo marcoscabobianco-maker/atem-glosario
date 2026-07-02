@@ -16,7 +16,12 @@ aliases:
  - "la primera caída de internet"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 8 (final), Apocalypse Quarantine"
+imagen: Imagenes_Tier1/evento_caida_internet_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/evento_caida_internet_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Por primera vez en diez años, la red mundial se apagó. Ocurrió al desactivarse el nodo con la [[Borges_codigo_QUAR|palabra-código «Borges»]]: el [[El_Maestro_QUAR|Maestro]] quedó sin voz, la [[Reina_Oscura_QUAR|Reina Oscura]] se apagó con él, y en todas las conciencias conectadas sonó un grito único —el mundo entero soltando de golpe el cable que lo sostenía y lo ahorcaba a la vez—. En el silencio que siguió cayeron los velos por un momento, y en ese hueco cupo lo que la red había vuelto imposible: [[evento_primer_nacimiento_QUAR|un nacimiento]].
 

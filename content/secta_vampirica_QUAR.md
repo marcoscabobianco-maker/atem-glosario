@@ -17,7 +17,12 @@ aliases:
  - "las figuras vampírico-robóticas"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/secta_vampirica_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/secta_vampirica_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 En la [[casa_del_horror_QUAR|casa del horror]] oficiaba la **secta vampírico-robótica**: figuras encapuchadas de caucho frío, prensil y perverso, con ojos rojos y caras de omnivisión — ni del todo máquinas ni del todo vampiros, criaturas del set que torturaban niños cautivos para las cámaras. Eran el clero del circo que dirigía el [[Payaso_Maldito_QUAR|Payaso Maldito]], carceleros de los hermanitos de [[Masha_QUAR|Masha]] y de la reproducción clonada del [[Angel_Rojo_QUAR|Ángel Rojo]]. Ardieron con la casa cuando la banda rompió el espectáculo, y con ellas ardió una de las caras más frías del mundo donde el tormento tenía rating.
 

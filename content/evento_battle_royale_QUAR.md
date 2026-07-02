@@ -16,9 +16,14 @@ aliases:
  - "Ninja Nancy y Muertos Vivientes"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de las jornadas 3, 4 y 6, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/evento_battle_royale_QUAR.jpg
 ---
 
-Cacería humana televisada en circuito cerrado —bajo los nombres de *Real Rebels* y *Ninja Nancy y Muertos Vivientes*— donde la banda entera fue subastada como presa dentro de un escenario de caza. Los [[Cazadores_Bosques_Sanos_QUAR|cazadores-estrella]] perseguían; [[Chetty_the_Host_QUAR|Chetty the Host]] anunciaba al aire la muerte de los rebeldes del día; y las consignas virales del show —«lose your fire», «fuck the cow», «wake up, sleep and survive»— corrían por las pantallas como jingles de la propia ejecución. La muerte hecha mercado, en vivo y con rating.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/evento_battle_royale_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Cacería humana televisada en circuito cerrado —bajo los nombres de *Real Rebels* y **[[Ninja_Nancy_Sandeath_QUAR|Ninja Nancy y Muertos Vivientes]]**— donde la banda entera fue subastada como presa dentro de un escenario de caza. Los [[Cazadores_Bosques_Sanos_QUAR|cazadores-estrella]] perseguían; [[Chetty_the_Host_QUAR|Chetty the Host]] anunciaba al aire la muerte de los rebeldes del día; y las consignas virales del show —«lose your fire», «fuck the cow», «wake up, sleep and survive»— corrían por las pantallas como jingles de la propia ejecución. La muerte hecha mercado, en vivo y con rating.
 
 ## Vínculos
 

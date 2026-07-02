@@ -18,7 +18,7 @@ estado: borrador
 fuente: "Apocalypse Quarantine"
 ---
 
-Hija del [[clon_Michael_Douglas_QUAR|emisario clonado]] que llegó con su familia a juzgar a la banda, la **niña salvada** sobrevivió a la masacre de la última cena bajo la protección de [[Zaa_QUAR|Zaa]]. Pero salvarla no fue domesticarla: fue ella quien después abrió el portal y trianguló el misil nuclear hacia [[los_rusos_QUAR|los rusos]], recordándole a todos que la sangre del emisario también corre en los pequeños.
+Hija del [[clon_Michael_Douglas_QUAR|emisario clonado]] que llegó con su familia a juzgar a la banda, la **niña salvada** sobrevivió a la masacre de la última cena bajo la protección de [[Zaa_QUAR|Zaa]]. Pero salvarla no fue domesticarla: fue ella quien después abrió la **[[Puerta_de_Pandora_QUAR|Puerta de Pandora]]** y trianguló el misil nuclear hacia [[los_rusos_QUAR|los rusos]], recordándole a todos que la sangre del emisario también corre en los pequeños.
 
 ## Vínculos
 

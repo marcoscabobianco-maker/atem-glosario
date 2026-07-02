@@ -18,7 +18,12 @@ aliases:
  - "Tusides"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/CEO_Thucydides_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/CEO_Thucydides_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 El **CEO Thucydides** fue el directivo del complejo mediático que hosteaba *Real Rebels*, el programa donde la banda de [[Kreider_QUAR|Kreider]] descubrió una mañana que todos sus muertos habían sido actores forzados de una temporada. Suyo era el aparato que anunciaba al aire, con voz de presentador, qué rebeldes morirían ese día; suyo el negocio de convertir la resistencia en rating.
 
@@ -28,6 +33,6 @@ Su caída tuvo dos actos. Primero descendió a la pista del Canal de la Muerte j
 
 - [[Ball_Breaker_QUAR|Ball Breaker]] — su compañero de descenso a la pista, el que sobrevivió
 - [[Head_Hunter_QUAR|Head Hunter]] — la cazadora de su circuito que le cortó la cabeza
-- [[Kreider_QUAR|Kreider]] — el hardholder que le disparó el misil
+- [[Kreider_QUAR|Kreider]] — el patrón que le disparó el misil
 - [[El_Maestro_QUAR|el Maestro]] — la red que monetizaba su programa
 - [[Apocalypse_World_Campana_Pandemia_TNW_2087|2087]] — la Pandemia del Mundo Nuevo

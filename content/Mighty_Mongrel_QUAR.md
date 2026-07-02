@@ -13,7 +13,12 @@ tags:
  - infiltrado
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Mighty_Mongrel_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mighty_Mongrel_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Llegó como nuevo recluta y caddie, servicial y musculoso, pero **Mighty Mongrel** era un agente encubierto de [[Ball_Breaker_QUAR|Ball Breaker]], el magnate del golf. Cuando intentó forzar el interruptor letal —el Kill Switch— sobre [[Kreider_QUAR|Kreider]], un escopetazo cerró su carrera de infiltrado antes de que cerrara la del jefazo.
 

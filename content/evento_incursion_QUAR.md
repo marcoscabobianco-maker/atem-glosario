@@ -15,9 +15,14 @@ aliases:
  - "la expedición a Albalonga"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 2, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/evento_incursion_QUAR.jpg
 ---
 
-Expedición en dos buses blindados y un auto hacia [[Villa_Albalonga_QUAR|villa Albalonga]], el reducto recontravigilado del proyecto OPER en el conglomerado de los [[Bosques_Sanos_QUAR|Bosques Sanos]]. No llegaron enteros: a mitad de camino un misil los emboscó, y la delación no vino de un traidor sino del bolsillo —los propios celulares del grupo iban cantando la posición a cada kilómetro—. La incursión enseñó lo que el misilazo ya había insinuado: en 2087 el enemigo no te persigue, te sigue la señal que vos mismo llevás encendida.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/evento_incursion_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Expedición en dos buses blindados y un auto, al mando de **[[Kreider_QUAR|Kreider]]**, hacia [[Villa_Albalonga_QUAR|villa Albalonga]], el reducto recontravigilado del proyecto **[[OPER_OPT_QUAR|OPER]]** en el conglomerado de los [[Bosques_Sanos_QUAR|Bosques Sanos]]. No llegaron enteros: a mitad de camino un misil los emboscó, y la delación no vino de un traidor sino del bolsillo —los propios celulares del grupo iban cantando la posición a cada kilómetro—. La incursión enseñó lo que el **[[evento_misilazo_QUAR|misilazo]]** ya había insinuado: en 2087 el enemigo no te persigue, te sigue la señal que vos mismo llevás encendida.
 
 ## Vínculos
 

@@ -13,9 +13,14 @@ tags:
  - informatico
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Sach_QUAR.jpg
 ---
 
-**Sach** es el informático de [[Kreider_QUAR|Kreider]] a cargo del monitoreo del reducto: un hombre parco, de pocas palabras y muchas pantallas. Suya fue la advertencia que cambió el rumbo de aquellos días: las coordenadas del refugio habían salido de la oficina de [[Madman_QUAR|Madman]]. El resto lo hizo el misil.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Sach_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**Sach** es el informático de [[Kreider_QUAR|Kreider]] a cargo del monitoreo del **[[hardhold_Kreider_QUAR|reducto]]**: un hombre parco, de pocas palabras y muchas pantallas. Suya fue la advertencia que cambió el rumbo de aquellos días: las coordenadas del refugio habían salido de la oficina de [[Madman_QUAR|Madman]]. El resto lo hizo el **[[evento_misilazo_QUAR|misil]]**.
 
 ## Vínculos
 

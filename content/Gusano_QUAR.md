@@ -16,11 +16,16 @@ aliases:
  - "el gusano"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Gusano_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Gusano_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Chatarrero y biopunk del reducto, **Gusano** —también llamado Gonzago— fue el socio de taller de [[Zaa_QUAR|Zaa]]: juntos fabricaban las armas tumberas que armaban a la resistencia, pieza a pieza, con lo que la cuarentena dejaba tirado. Digno y castigado, era de los que no fallan: secuaz de confianza en cada avanzada, cada uno en su moto, coronando colinas para espiar los complejos vigilados del enemigo.
 
-Fue él quien, con un mal presentimiento clavado en el pecho, rogó a [[Angel_Garcia_QUAR|Ángel García]] que acudiera al bosque a salvar a los heridos, y quien la guio hasta el claro donde la médica encontró la muerte. Después acompañó a [[Kreider_QUAR|Kreider]] cuando el hardhold entero se echó al riel en el [[tren_rojo_QUAR|tren blindado]], siempre en el lugar donde hacían falta manos.
+Fue él quien, con un mal presentimiento clavado en el pecho, rogó a [[Angel_Garcia_QUAR|Ángel García]] que acudiera al bosque a salvar a los heridos, y quien la guio hasta el claro donde la médica encontró la muerte. Después acompañó a [[Kreider_QUAR|Kreider]] cuando el búnker entero se echó al riel en el [[tren_rojo_QUAR|tren blindado]], siempre en el lugar donde hacían falta manos.
 
 Su rastro se pierde ahí: en la maniobra desesperada que partió el tren en dos, Gusano cayó del convoy. La crónica no registra su final.
 

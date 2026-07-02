@@ -17,7 +17,12 @@ aliases:
  - "el tren magnético"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 8 (final), Apocalypse Quarantine"
+imagen: Imagenes_Tier1/tren_Chuchu_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/tren_Chuchu_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 El último tren de la crónica no corrió sobre rieles. El «Chuchu» nació de una idea de [[Taito_QUAR|Taito]] cuando empezaron a caer del cielo electropartes de satélite —el [[Sky_Metal_QUAR|Sky Metal]], metal azul prístino que resultó ser materia de la construcción misma de la realidad— cerca de la vieja [[Refinery_Dam_QUAR|Refinería y el dique]]. El plan: juntar las piezas, levantar la represa una última vez, y con esa energía gravitatoria armar un tren magnético antigravitatorio capaz de perforar el telón del mundo y llegar a la fuente.
 

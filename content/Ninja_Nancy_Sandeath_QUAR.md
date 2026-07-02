@@ -15,9 +15,14 @@ aliases:
  - "Ninja Nancy"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Ninja_Nancy_Sandeath_QUAR.jpg
 ---
 
-En la economía de la cuarentena, donde la muerte es el mercado que nunca cierra, **Ninja Nancy Sandeath** es una empresaria del rubro: organizadora del espectáculo televisado "Ninja Nancy y Muertos Vivientes", una cacería humana montada sobre una estación arruinada, con hombres-rata mutantes, un comando cazador y las gemelas de superarmadura conocidas como las [[Battle_Babies_QUAR|Battle Babies]] como atracciones.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ninja_Nancy_Sandeath_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+En la economía de la cuarentena, donde la muerte es el mercado que nunca cierra, **Ninja Nancy Sandeath** es una empresaria del rubro: organizadora de un **[[evento_battle_royale_QUAR|Battle Royale]]** televisado, "Ninja Nancy y Muertos Vivientes", una cacería humana montada sobre una estación arruinada, con hombres-rata mutantes, un comando cazador y las gemelas de superarmadura conocidas como las [[Battle_Babies_QUAR|Battle Babies]] como atracciones.
 
 Su golpe de suerte fue quedarse con la banda del [[tren_rojo_QUAR|tren rojo]]: los sobrevivientes del descarrilamiento fueron subastados como presa para su escenario de caza. Le salió carísimo. [[Shibuya_QUAR|Shibuya]], alzado como referente épico, mató a una de las gemelas y desarmó a la otra; el tren volvió a arrancar y el número principal se le escapó por el túnel. El show de Ninja Nancy pasó a la historia como lo que fue: un fracaso transmitido en vivo.
 

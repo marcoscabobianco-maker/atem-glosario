@@ -15,9 +15,14 @@ aliases:
  - "el nacimiento del final"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 8 (final), Apocalypse Quarantine"
+imagen: Imagenes_Tier1/evento_primer_nacimiento_QUAR.jpg
 ---
 
-Cuando [[evento_caida_internet_QUAR|cayó la red]] y con ella se resolvió la crisis de fertilidad, nació el primer niño en mucho tiempo. La imagen final de la crónica no es una batalla sino una cuna: cuatro manos de facciones que hasta ayer se mataban, meciéndola juntas. Después de ocho jornadas de cuarentena, cacerías televisadas y ciudades que caen del cielo, la esperanza volvió por donde siempre vuelve —por lo más chico, lo más frágil y lo más nuevo—.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/evento_primer_nacimiento_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Cuando [[evento_caida_internet_QUAR|cayó la red]] —apagada por la **[[Borges_codigo_QUAR|palabra-código «Borges»]]**— y con ella se resolvió la crisis de fertilidad, nació el primer niño en mucho tiempo, después de **[[Mi_Ciela_QUAR|Mi Ciela]]** la segunda criatura de la crónica. La imagen final no es una batalla sino una cuna: cuatro manos de facciones que hasta ayer se mataban, meciéndola juntas. Después de ocho jornadas de cuarentena, cacerías televisadas y ciudades que caen del cielo, la esperanza volvió por donde siempre vuelve —por lo más chico, lo más frágil y lo más nuevo—.
 
 ## Vínculos
 

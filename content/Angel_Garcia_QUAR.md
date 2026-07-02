@@ -16,9 +16,14 @@ aliases:
  - "la enfermera García"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Angel_Garcia_QUAR.jpg
 ---
 
-En el asentamiento subterráneo de [[Kreider_QUAR|Kreider]], donde cuatrocientas almas se apretaban entre vagones y hortalizas, **Ángel García** era la enfermera: la que proveía remedios, cosía heridas y sostenía la enfermería del reducto. Su historia quedó atada a la de [[Zaa_QUAR|Zaa]], la arregladora con la que traficaba medicinas y de la que estaba enamorada. Fue ella quien la trajo de vuelta cuando la Cazadora le abrió la garganta, y ella quien cargó un desamor que la dejó al borde del abismo — hasta los celos por un simple "like" a una estrella del reality pesaban en ese corazón.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Angel_Garcia_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+En el asentamiento subterráneo de [[Kreider_QUAR|Kreider]], donde cuatrocientas almas se apretaban entre vagones y hortalizas, **Ángel García** era la enfermera: la que proveía remedios, cosía heridas y sostenía la enfermería del **[[hardhold_Kreider_QUAR|reducto]]**. Su historia quedó atada a la de [[Zaa_QUAR|Zaa]], la arregladora con la que traficaba medicinas y de la que estaba enamorada. Fue ella quien la trajo de vuelta cuando la Cazadora le abrió la garganta, y ella quien cargó un desamor que la dejó al borde del abismo — hasta los celos por un simple "like" a **[[American_Ass_QUAR|American Ass]]**, estrella del reality, pesaban en ese corazón.
 
 Murió como había vivido: yendo hacia los heridos. Cuando la banda quedó acorralada en el bosque de pinos milenarios, García acudió en moto siguiendo el rastro de [[Gusano_QUAR|Gusano]], que le rogaba auxilio con un mal presentimiento encima. La posición estaba delatada, las cámaras encendidas. Un disparo cruzó la noche y ella se interpuso: cayó con la cabeza reventada, delante de todos.
 

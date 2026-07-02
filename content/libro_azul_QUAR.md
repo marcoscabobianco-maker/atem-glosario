@@ -16,9 +16,14 @@ aliases:
  - "la Isagógica (2087)"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de las jornadas 1 y 4, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/libro_azul_QUAR.jpg
 ---
 
-Un libro cifrado de aforismos —*Verdaderos aforismos para una vida verdadera*— que en la crónica de la cuarentena responde al nombre de la Isagógica. [[Shibuya_QUAR|Shibuya]] y [[Kreider_QUAR|Kreider]] lo consultan en las horas difíciles, pero el libro no se deja leer de frente: sus claves vienen disfrazadas de recetas de café y golosinas turcas, como si la verdad solo pudiera pasar la censura vestida de cocina. En un mundo donde toda palabra circula vigilada, el azul del libro es el color de lo que todavía se dice en secreto.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/libro_azul_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Un libro cifrado de aforismos —*Verdaderos aforismos para una vida verdadera*— que en la crónica de la cuarentena responde al nombre de la Isagógica. [[Shibuya_QUAR|Shibuya]] y [[Kreider_QUAR|Kreider]] lo consultan en las horas difíciles, pero el libro no se deja leer de frente: sus claves vienen disfrazadas de recetas de café y golosinas turcas, como si la verdad solo pudiera pasar la censura vestida de cocina. En un mundo donde toda palabra circula vigilada, el azul del libro es el color de lo que todavía se dice en secreto —la misma astucia, a otra escala, que escondió la **[[Borges_codigo_QUAR|palabra-código «Borges»]]** en el barrio de Shibuya.
 
 ## Vínculos
 

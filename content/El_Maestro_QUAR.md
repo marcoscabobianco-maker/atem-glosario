@@ -20,7 +20,12 @@ aliases:
  - "The Mother's Heartbeat"
 estado: borrador
 fuente: "Apocalypse Quarantine (todas las sesiones)"
+imagen: Imagenes_Tier1/El_Maestro_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/El_Maestro_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 > *"No hace falta crear un cuerpo: de golpe, todos son códigos. Dejás tu cuerpo en una máquina, y hay un código —pero es tuyo. ¿Ustedes creen que ustedes son libertad?"*
 
@@ -50,7 +55,7 @@ A un mundo hecho enteramente de texto solo lo desarma otro texto. El nodo cae cu
 - [[Puerta_de_Pandora_QUAR|la Puerta de Pandora]] — por donde pretende subir las conciencias
 - [[Borges_QUAR|Borges]] — la palabra que lo apaga; el texto contra el texto
 - [[Apocalypse_World_Campana_Pandemia_TNW_2087|2087 — la Pandemia del Mundo Nuevo]] — el futuro que el Maestro rige
-- [[MOC_Apocalypse_Quarantine|Apocalypse Quarantine]] — la crónica de su caída
-- [[MOC_Never_911|Never 9-11]] — la campaña hermana: allí el poder también **destila y guarda conciencias** (la Biblioteca Akáshica, la ambrosía de los futuros); dos rostros de la misma distopía del archivo total
+- [[MOC_Apocalypse_Quarantine]] — la crónica de su caída
+- [[MOC_Never_911|Never 9-11]] — la campaña hermana: allí el poder también **destila y guarda conciencias** —la Biblioteca Akáshica, la ambrosía de los futuros—; dos rostros de la misma distopía del archivo total
 
 > **Nota [R] (fuera de la diégesis):** el Maestro es el antagonista-sistema de *Apocalypse Quarantine* (Apocalypse World). Registro **fantástico** del mundo, pero anclado en una intuición muy concreta y presente: la pandemia real de 2020, la virtualización de la vida y la muerte vuelta contenido. Rima con la capa akáshica de Never 9-11 y con la "biblioteca del signo" borgiana del troncal.

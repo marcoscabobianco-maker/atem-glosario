@@ -16,9 +16,14 @@ aliases:
  - "Chetty"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Chetty_the_Host_QUAR.jpg
 ---
 
-**Chetty the Host** es el presentador del programa *Real Rebels*, la vidriera donde la rebeldía se vende por episodios. Su oficio es simple y atroz: anunciar al aire, con sonrisa de estudio, la muerte de los rebeldes del día, como quien lee el pronóstico del tiempo en un mundo donde la muerte tiene horario central.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Chetty_the_Host_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**Chetty the Host** es el presentador del programa *Real Rebels*, la vidriera del complejo mediático de **[[CEO_Thucydides_QUAR|Thucydides]]** donde la rebeldía se vende por episodios. Su oficio es simple y atroz: anunciar al aire, con sonrisa de estudio, la muerte de los rebeldes de la banda de **[[Kreider_QUAR|Kreider]]**, como quien lee el pronóstico del tiempo en un mundo donde la muerte tiene horario central.
 
 ## Vínculos
 

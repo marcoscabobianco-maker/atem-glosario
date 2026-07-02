@@ -18,17 +18,22 @@ aliases:
  - "el reducto"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónicas de las jornadas 1, 2 y 6, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/hardhold_Kreider_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/hardhold_Kreider_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 En la cuarentena perpetua de 2087, los pocos que rompieron el encierro viven en reductos, y el de [[Kreider_QUAR|Kreider]] es una cabecera de subte reconvertida en fortaleza. Unas cuatrocientas almas se hacinan en vagones viejos vueltos vivienda; hay hortaliza propia, enfermería, un salón, garaje-taller, generadores, una Monitor Station con su cuarto de control y hasta un piso falso. Todo apuntalado por guardia improvisada y armas tumberas, bajo el patronazgo a la romana del jefazo: adopción, favor y lealtad como moneda de la vida subterránea.
 
 El búnker no está solo. Sus galerías están agujereadas por túneles que alguna vez tocaron Londres, París y una estación rusa clandestina —de donde vienen los aliados y las armas grandes—, y en la superficie lo antecede el [[vivero_subte_QUAR|vivero de subte]], un galpón de cristales tragado por la vegetación. Cerca operan la [[Refinery_Dam_QUAR|Refinería y el dique]], junto a cuyo cuarto de control Kreider capeó la peor noche del reducto.
 
-Esa noche fue la del [[evento_misilazo_QUAR|misilazo]]: con las coordenadas filtradas desde adentro, un misil voló parte del complejo, mató niños y a un cuarto de la población. El hardhold aguantó, se reconstruyó y siguió latiendo hasta que el riel ofreció otra vida: cuando partió el [[tren_rojo_QUAR|tren blindado]], la mitad de la gente quedó cumpliendo cuarentena al cuidado del búnker, con un stash repartido, guardando el hogar de origen de toda la crónica.
+Esa noche fue la del [[evento_misilazo_QUAR|misilazo]]: con las coordenadas filtradas desde adentro, un misil voló parte del complejo, mató niños y a un cuarto de la población. El búnker aguantó, se reconstruyó y siguió latiendo hasta que el riel ofreció otra vida: cuando partió el [[tren_rojo_QUAR|tren blindado]], la mitad de la gente quedó cumpliendo cuarentena al cuidado del búnker, con un stash repartido, guardando el hogar de origen de toda la crónica.
 
 ## Vínculos
 
-- [[Kreider_QUAR|Kreider]] — el hardholder, patrón del reducto
+- [[Kreider_QUAR|Kreider]] — el patrón del reducto
 - [[gang_Kreider_QUAR|gang de Kreider]] — su fuerza armada
 - [[los_rusos_QUAR|los militares exiliados rusos]] — aliados al final del túnel
 - [[vivero_subte_QUAR|el vivero de subte]] — la antesala en superficie

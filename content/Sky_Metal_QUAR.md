@@ -16,7 +16,12 @@ aliases:
  - "el metal azul"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 8, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Sky_Metal_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Sky_Metal_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Metal azul prístino caído del cielo —electropartes de satélite— cuyas primeras piezas se estrellaron cerca de la [[Refinery_Dam_QUAR|Refinería y el dique]]. No es chatarra: son nodos de construcción de la realidad, materia con la que se forjan armaduras, se ensamblan nanobots y se levanta el [[tren_Chuchu_QUAR|tren gravitatorio]] que perfora el camino hasta la esfera del Maestro. En la cuarentena, donde todo lo de arriba baja como amenaza, el Sky Metal fue la única lluvia que trajo herramientas.
 

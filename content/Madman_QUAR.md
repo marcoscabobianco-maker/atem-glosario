@@ -16,9 +16,14 @@ aliases:
  - "el senior Madman"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Madman_QUAR.jpg
 ---
 
-**Madman** era el cabecilla —el "senior"— de los programadores de [[Willy_Vision_QUAR|Willy Vision]], uno más entre los veinte adictos a la [[farafa_QUAR|farafa]] que sostenían la antena psíquica del círculo. Desde su oficina salieron las coordenadas del reducto hacia el sistema: la filtración que trajo el comando y después el misil. No llegó a cobrar su traición, si traición fue y no un delirio más de la droga: murió sepultado bajo los escombros del [[evento_misilazo_QUAR|misilazo]] que él mismo había hecho posible, enterrado por su propia línea de código.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Madman_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**Madman** era el cabecilla —el "senior"— de los **[[AK_Boys_QUAR|A.K. Boys]]**, los programadores de [[Willy_Vision_QUAR|Willy Vision]], uno más entre los veinte adictos a la [[farafa_QUAR|farafa]] que sostenían la antena psíquica del círculo, junto a **[[Toxica_QUAR|Tóxica]]**. Desde su oficina salieron las coordenadas del reducto hacia el sistema: la filtración que trajo el comando y después el misil. No llegó a cobrar su traición, si traición fue y no un delirio más de la droga: murió sepultado bajo los escombros del [[evento_misilazo_QUAR|misilazo]] que él mismo había hecho posible, enterrado por su propia línea de código.
 
 ## Vínculos
 

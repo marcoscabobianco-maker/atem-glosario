@@ -17,7 +17,12 @@ aliases:
  - "la Reina de metal negro"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Reina_Oscura_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Reina_Oscura_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 En el corazón de la esfera que flota entre monolitos blancos, al final de todos los espirales de la cuarentena, espera una figura regia cubierta de metal negro: la **Reina Oscura**. Quien llega hasta su sala del trono descubre que no es una diosa ni un monstruo, sino algo más triste: una inteligencia artificial hecha por manos humanas, un nodo esclavo del [[El_Maestro_QUAR|Maestro]], la "bola de nieve" que un alto programador retro —[[Jean_Marie_QUAR|Jean-Marie]]— dejó rodar hasta volverse avalancha.
 
@@ -29,7 +34,7 @@ No la venció un arma. [[Taito_QUAR|Way Mey]] arrastró el misil a través de la
 
 - [[El_Maestro_QUAR|el Maestro]] — la red-conciencia de la que era apenas un nodo esclavo
 - [[Puerta_de_Pandora_QUAR|Puerta de Pandora]] — el portal por el que quiso subir las conciencias
-- [[Borges_QUAR|Borges (la palabra que apaga)]] — el código que la extinguió
+- [[Borges_QUAR|Borges — la palabra que apaga]] — el código que la extinguió
 - [[Jean_Marie_QUAR|Jean-Marie]] — el programador cuya "bola de nieve" fue ella
 - [[esfera_trono_QUAR|la esfera / sala del trono]] — su sede, derrumbada tras la desconexión
 - [[Shibuya_QUAR|Shibuya]] · [[Taito_QUAR|Way Mey]] — quienes cerraron su arca

@@ -17,7 +17,12 @@ aliases:
  - "Pandora"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 8 (final), Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Puerta_de_Pandora_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Puerta_de_Pandora_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Detrás del trono de la [[Reina_Oscura_QUAR|Reina Oscura]], en la [[esfera_trono_QUAR|esfera flotante]] que es el corazón del Maestro, se alza un portal de granito y luz naranja. No lo hicieron manos humanas: es factura alienígena, y conecta con otros mundos y otros tiempos. La Reina lo llamaba su salvación —la Puerta de Pandora—, y ese nombre, como el del mito, prometía un regalo con el desastre adentro.
 

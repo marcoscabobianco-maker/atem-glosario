@@ -18,7 +18,12 @@ aliases:
  - "los comandos soviéticos"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/los_rusos_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/los_rusos_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Al final de uno de los túneles que agujerean el reducto de [[Kreider_QUAR|Kreider]] hay una estación clandestina donde todavía se habla ruso. Allí viven los **militares exiliados rusos** —Pato, Peto y el que llaman "Putin"—, comandos soviéticos de otro tiempo devenidos traficantes: en la cuarentena de 2087 son la fuente de las armas grandes, y desde la primera noche del misilazo quedaron marcados como el refugio al que se corre cuando todo lo demás arde.
 
@@ -28,7 +33,7 @@ En la última cena, cuando el [[clon_Michael_Douglas_QUAR|emisario clonado del e
 
 ## Vínculos
 
-- [[Kreider_QUAR|Kreider]] — el hardholder al que abastecen desde la primera noche
+- [[Kreider_QUAR|Kreider]] — el patrón al que abastecen desde la primera noche
 - [[Miss_Kremlin_QUAR|Miss Kremlin]] — su heroína de espada y armadura
 - [[Rueda_Fortuna_QUAR|la Rueda de la Fortuna]] — el perímetro que aseguraron, la base con catedral
 - [[hardhold_Kreider_QUAR|el hardhold de Kreider]] — conectado a su estación por túnel

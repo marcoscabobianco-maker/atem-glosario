@@ -15,9 +15,14 @@ aliases:
  - "la Pandilla"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Lucky_Few_QUAR.jpg
 ---
 
-Cuando todos los demás cayeron, quedó él: **Lucky Few**, el último guardaespaldas de [[Kreider_QUAR|Kreider]], un yakuza occidentalizado, bien vestido y mejor armado, cuyo nombre es a la vez una ironía y una estadística. En la ciudad flotante ayudó a [[Taito_QUAR|Taito]] a tomar el Mirage; más tarde se lo vio al frente de "la Pandilla", cuatro grunges que acompañaban al jefazo como una guardia mal peinada.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Lucky_Few_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Cuando todos los demás cayeron, quedó él: **Lucky Few**, el último guardaespaldas de [[Kreider_QUAR|Kreider]], un yakuza occidentalizado, bien vestido y mejor armado, cuyo nombre es a la vez una ironía y una estadística. En la ciudad flotante ayudó a [[Taito_QUAR|Taito]] a tomar el **[[Mirage_QUAR|Mirage]]**; más tarde se lo vio al frente de "la Pandilla", cuatro grunges que acompañaban al jefazo como una guardia mal peinada.
 
 ## Vínculos
 

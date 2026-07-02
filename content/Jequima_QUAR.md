@@ -16,7 +16,12 @@ aliases:
  - "Jequima de Shibuya"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Jequima_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Jequima_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 **Jequima** es otra de las personalidades de [[Shibuya_QUAR|Shibuya]]: el intermediario, la faceta que concierta los encuentros con los contactos del mundo real. Donde [[Kimi_QUAR|Kimi]] es frivolidad y el verdugo es acero, Jequima es puente — la voz que negocia, agenda y abre puertas para que las demás caras del referente lleguen a donde tienen que llegar. En un cuerpo que aloja a treinta, alguien tiene que atender la puerta.
 

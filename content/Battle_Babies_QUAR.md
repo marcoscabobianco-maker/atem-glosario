@@ -16,9 +16,14 @@ aliases:
  - "las Battle Babies"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Battle_Babies_QUAR.jpg
 ---
 
-Hermanas gemelas enfundadas en superarmaduras, las **Battle Babies** cazaban en pareja para el battle royale montado sobre la ruta del tren: dos cuerpos idénticos, un solo instinto asesino, y las cámaras del mundo mirando. La simetría se rompió en el asalto: una murió, la otra quedó desarmada — la mitad viva de un espectáculo que las quería completas.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Battle_Babies_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Hermanas gemelas enfundadas en superarmaduras, las **Battle Babies** cazaban en pareja para el battle royale montado sobre la ruta del **[[tren_rojo_QUAR|tren rojo]]**: dos cuerpos idénticos, un solo instinto asesino, y las cámaras del mundo mirando. La simetría se rompió en el asalto contra la **[[gang_Kreider_QUAR|banda de Kreider]]**: una murió, la otra quedó desarmada — la mitad viva de un espectáculo que las quería completas.
 
 ## Vínculos
 

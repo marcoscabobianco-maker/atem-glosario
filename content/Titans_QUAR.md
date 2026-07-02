@@ -16,7 +16,12 @@ aliases:
  - "las Titans"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Titans_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Titans_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Los **Titans** son inteligencias artificiales con forma de mujeres-guardia, nacidas para custodiar sistemas de defensa: centinelas de un orden que no eligieron, ligadas primero al genio técnico de [[Taito_QUAR|Way Mey]] y después a [[Shibuya_QUAR|Shibuya]]. Como tantas criaturas de la cuarentena de 2087, eran esclavas con poder: máquinas magníficas al servicio de la red que lo devoraba todo.
 

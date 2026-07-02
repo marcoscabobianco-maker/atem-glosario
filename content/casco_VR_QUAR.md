@@ -16,9 +16,14 @@ aliases:
  - "casco VR"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 1, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/casco_VR_QUAR.png
 ---
 
-Visores que conectan a la gente con el [[El_Maestro_QUAR|Maestro]]: quien se lo calza abre la mente a la otra realidad, y la otra realidad le devuelve la mirada. En la cuarentena son a la vez evasión y correa —por ellos el sistema enchufa a los soldados-arcade, que creen jugar un videojuego mientras salen a matar insurrectos de verdad—. El casco no miente sobre lo que muestra; miente sobre cuál de los dos lados es el juego.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/casco_VR_QUAR.png]]
+<!-- /HEADER_IMG -->
+
+Visores que conectan a la gente con el [[El_Maestro_QUAR|Maestro]]: quien se lo calza abre la mente a la otra realidad, y la otra realidad le devuelve la mirada. En la cuarentena son a la vez evasión y correa —por ellos el sistema enchufa a los **[[Arcade_Soldier_QUAR|soldados-arcade]]**, que creen jugar un videojuego mientras salen a matar insurrectos de verdad—. El casco no miente sobre lo que muestra; miente sobre cuál de los dos lados es el juego.
 
 ## Vínculos
 

@@ -13,9 +13,14 @@ tags:
  - guardia
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Troll_QUAR.jpg
 ---
 
-**Troll** es guardia de élite de la ciudad flotante: armado hasta los dientes y con una máscara-cacerola que le da un aire entre ridículo y siniestro, de esos que uno subestima hasta que es tarde. En la fuga de la banda alcanzó a arrancarle el comunicador a [[Taito_QUAR|Taito]], dejándolo mudo en el peor momento.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Troll_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**Troll** es guardia de élite de **[[Narco_Paradise_QUAR|Narco Paradise]]**, la ciudad flotante: armado hasta los dientes y con una máscara-cacerola que le da un aire entre ridículo y siniestro, de esos que uno subestima hasta que es tarde. En la fuga de la banda alcanzó a arrancarle el comunicador a [[Taito_QUAR|Taito]], dejándolo mudo en el peor momento.
 
 ## Vínculos
 

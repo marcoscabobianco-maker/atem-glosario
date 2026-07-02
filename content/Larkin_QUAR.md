@@ -15,7 +15,12 @@ aliases:
  - "el loco Larkin"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Larkin_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Larkin_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Conductor a sueldo de [[Kreider_QUAR|Kreider]], galán rubio de los que parecen salidos de un afiche viejo, **Larkin** entró a la crónica en su hora más oscura: con el jefazo postrado en la enfermería y la mitad del convoy perdida tras la catástrofe del zepelín, fue él quien tomó el volante del [[tren_rojo_QUAR|tren blanco]] y lo hizo retroceder sobre rieles imposibles, tendidos sobre un cielo de agua, para reagrupar a los sobrevivientes rumbo a la Rueda de la Fortuna.
 

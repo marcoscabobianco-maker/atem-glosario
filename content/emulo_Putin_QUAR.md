@@ -15,9 +15,14 @@ aliases:
  - "émulo de Putin"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/emulo_Putin_QUAR.jpg
 ---
 
-Un fanático cargado de armas hasta lo absurdo, que imitaba los gestos del viejo autócrata como quien lleva puesto un disfraz de época. **El émulo de Putin** se atrincheró en la torreta del tren rojo y abrió fuego contra el zepelín que amenazaba la ruta: sus ráfagas provocaron la explosión del gigante en el aire, un final digno de la historia que él creía estar protagonizando.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/emulo_Putin_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Un fanático cargado de armas hasta lo absurdo, que imitaba los gestos del viejo autócrata como quien lleva puesto un disfraz de época. **El émulo de Putin** se atrincheró en la torreta del [[tren_rojo_QUAR|tren rojo]] y abrió fuego contra el zepelín que amenazaba la ruta: sus ráfagas provocaron la explosión del gigante en el aire, un final digno de la historia que él creía estar protagonizando.
 
 ## Vínculos
 

@@ -18,7 +18,12 @@ aliases:
  - "la cazadora de cabezas"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Head_Hunter_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Head_Hunter_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 En la cuarentena de 2087 hay una leyenda que se cuenta en voz baja entre los enchufados: una mujer enmascarada, cazadora y presentadora a la vez, que decapita a sus víctimas en el instante exacto del éxtasis. La **Head Hunter** caza sobre todo a los soldados del [[Arcade_Soldier_QUAR|Arcade Soldier Gamification Project]] —esa carne de cañón que cree estar jugando un videojuego mientras mata insurrectos en la calle—: cuando uno de ellos cae herido, aparece después sin cabeza. Su corte es limpio, ceremonial, perfecto. Nadie sabía de un fallo suyo.
 

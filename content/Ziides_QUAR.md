@@ -15,7 +15,12 @@ aliases:
  - "el CEO Zíides"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Ziides_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Ziides_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 **Zíides** es el CEO del proyecto OPER, radicado en la [[Villa_Albalonga_QUAR|villa Albalonga]] junto a la Fons Egeria, en el corazón del [[Bosques_Sanos_QUAR|conglomerado de los Bosques Sanos]]. Fundador del complejo, montó bajo la fachada de parque temático un negocio de los más oscuros de la cuarentena: carpas de falsa emergencia sanitaria donde se estabiliza, reeduca y prepara a niñas raptadas para el mercado de la Lolita Option. Su villa es una fortaleza — unas cuarenta guardias en motos, ametralladoras, lanzagranadas y espadas custodiando el secreto.
 
@@ -28,6 +33,6 @@ Cuando la incursión de la banda llegó a las puertas de su dominio, Zíides no 
 - [[Villa_Albalonga_QUAR|villa Albalonga]] — su sede, junto a la Fons Egeria
 - [[Bosques_Sanos_QUAR|el conglomerado de los Bosques Sanos]] — el enclave de su negocio
 - [[OPER_OPT_QUAR|OPER / OPT]] — el programa de trata que fundó
-- [[Taito_QUAR|Taito]] — el pasado turbio ("snowball") que los une
+- [[Taito_QUAR|Taito]] — el pasado turbio —"snowball"— que los une
 - [[Macona_QUAR|Macoña]] — su única vice sobreviviente
 - [[Apocalypse_World_Campana_Pandemia_TNW_2087|2087]] — la Pandemia del Mundo Nuevo

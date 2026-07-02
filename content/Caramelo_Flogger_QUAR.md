@@ -18,7 +18,12 @@ aliases:
  - "el pueblo del Ángel Rojo"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Caramelo_Flogger_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Caramelo_Flogger_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Los **Caramelo Flogger** empezaron siendo lo más frágil de la cuarentena: un fandom andrógino de estética punk retro —fotologs, vintage, serendipia— que seguía a [[Shibuya_QUAR|Shibuya]] como se sigue a una estrella. Creían, contra el mundo entero, en una tecnología humano-céntrica, que sirva y no domine; su lema podía resumirse en una frase suya: "la esperanza no es superflua". Esa devoción tuvo su costo temprano: en el bosque de los Bosques Sanos, su entusiasmo transmitió sin querer la posición de la banda al [[El_Maestro_QUAR|Maestro]], y esa noche murió gente.
 

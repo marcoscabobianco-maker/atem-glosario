@@ -16,7 +16,12 @@ aliases:
  - "el dirigible"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 6, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/zepelin_nazi_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/zepelin_nazi_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Dirigible de hidrógeno al viejo estilo Hindenburg, coordinado por [[Teptower_QUAR|Teptower]], que apareció sobre la ruta del [[tren_rojo_QUAR|tren]] como una amenaza de otro siglo flotando sobre el fin de este. [[Taito_QUAR|Taito]] llegó a hackearlo y ponerlo a trabajar en defensa propia, pero el hidrógeno no perdona dos veces: el [[emulo_Putin_QUAR|émulo de Putin]], atrincherado en la torreta del tren, le disparó, y el zepelín repitió su historia estallando en llamas. Algunos objetos cargan su destino en el nombre.
 

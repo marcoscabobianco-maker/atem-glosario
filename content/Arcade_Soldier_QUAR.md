@@ -17,7 +17,12 @@ aliases:
  - "los soldados-arcade"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Arcade_Soldier_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Arcade_Soldier_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 "**Security is for Fun**": ese es el lema del **Arcade Soldier Gamification Project**, quizá la invención más cruel de la cuarentena de 2087. Gente común, enchufada en sus casas con el casco puesto, cree estar jugando a un videojuego de puntería y misiones; en realidad su cuerpo sale a la calle y mata insurrectos de verdad. Ni siquiera saben que salieron. Son la carne de cañón perfecta del sistema: soldados que no cobran, no dudan y no recuerdan, y cuya sangre además rinde en pantalla, porque la [[Head_Hunter_QUAR|Head Hunter]] los tiene por coto de caza favorito —el soldado-arcade que cae herido aparece después decapitado.
 

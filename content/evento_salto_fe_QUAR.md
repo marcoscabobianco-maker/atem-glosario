@@ -16,9 +16,14 @@ aliases:
  - "el sacrificio de Zaa"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 8 (final), Apocalypse Quarantine"
+imagen: Imagenes_Tier1/evento_salto_fe_QUAR.jpg
 ---
 
-En el desenlace de la última jornada, [[Zaa_QUAR|Zaa]] —la arregladora que había sobrevivido a la desfiguración, al trauma y al modo «kill»— hizo su último arreglo: se arrojó al vacío y proyectó su conciencia, junto con la de sus ancestros africanos, hacia un mundo fuera de fase, el mundo de las panteras. No fue una caída sino un salto de fe: el sacrificio que convierte el final en comienzo, la fixer que ya no repara este mundo porque se va a estrenar otro.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/evento_salto_fe_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+En el desenlace de la última jornada, [[Zaa_QUAR|Zaa]] —la arregladora que había sobrevivido a la desfiguración, al trauma y al modo «kill»— hizo su último arreglo: se arrojó al vacío y proyectó su conciencia, junto con la de sus ancestros africanos, hacia un mundo fuera de fase, el mundo de las panteras. No fue una caída sino un salto de fe: el sacrificio que convierte el final en comienzo, la arregladora que ya no repara este mundo porque se va a estrenar otro.
 
 ## Vínculos
 

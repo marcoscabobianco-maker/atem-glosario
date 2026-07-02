@@ -13,9 +13,14 @@ tags:
  - aviador
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Johnny_Vengador_QUAR.jpg
 ---
 
-Cuando el cielo de la batalla final se llenó de enemigos, apareció él en su Dream Chaser mejorado: **Johnny Vengador**, aviador aliado y "hermano" de [[Tuxedo_QUAR|Tuxedo]] — hermandad de cabina, de las que se sellan a diez mil metros. Escoltó el tren en la incursión última, cubriendo desde el aire la carga que perforaba la realidad allá abajo.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Johnny_Vengador_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Cuando el cielo de la batalla final se llenó de enemigos, apareció él en su Dream Chaser mejorado: **Johnny Vengador**, aviador aliado y "hermano" de [[Tuxedo_QUAR|Tuxedo]] — hermandad de cabina, de las que se sellan a diez mil metros. Escoltó el **[[tren_Chuchu_QUAR|tren gravitatorio]]** en la incursión última, cubriendo desde el aire la carga que perforaba la realidad allá abajo.
 
 ## Vínculos
 

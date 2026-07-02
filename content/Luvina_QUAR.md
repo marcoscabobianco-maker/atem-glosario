@@ -13,9 +13,14 @@ tags:
  - visionaria
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Luvina_QUAR.jpg
 ---
 
-**Luvina** es la segunda señora de la casa de [[Pete_Ketterstein_QUAR|Ketterstein]] en la ciudad flotante: una visionaria tatuada de jena, con alas de plumas a la espalda, que recibe a los huéspedes con hospitalidad y quirófanos. Bajo la cortesía late la codicia: puso los ojos en el bebé de la banda, y sus gritos de disputa con la madama [[Lucy_Negro_QUAR|Lucy Negro]] resuenan por los salones de la fortaleza.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Luvina_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**Luvina** es la segunda señora de la casa de [[Pete_Ketterstein_QUAR|Ketterstein]] en **[[Narco_Paradise_QUAR|Narco Paradise]]**: una visionaria tatuada de jena, con alas de plumas a la espalda, que recibe a los huéspedes con hospitalidad y quirófanos. Bajo la cortesía late la codicia: puso los ojos en **[[Mi_Ciela_QUAR|la bebé]]** de la banda, y sus gritos de disputa con la madama [[Lucy_Negro_QUAR|Lucy Negro]] resuenan por los salones de la fortaleza.
 
 ## Vínculos
 

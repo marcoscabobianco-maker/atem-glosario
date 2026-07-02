@@ -15,9 +15,14 @@ aliases:
  - "Macona"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Macona_QUAR.jpg
 ---
 
-Cuando el machete de Shibuya se llevó a [[Chichimeca_QUAR|Chichimeca]] en un callejón, a [[Ziides_QUAR|Zíides]] le quedó una sola vice: **Macoña**. Desde entonces es ella quien atiende el proyecto [[OPER_OPT_QUAR|OPER]] en villa Albalonga, la maquinaria que procesa juventudes para el mercado, con la eficiencia gris de quien heredó el puesto por descarte de muertos.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Macona_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Cuando el machete de Shibuya se llevó a [[Chichimeca_QUAR|Chichimeca]] en un callejón, a [[Ziides_QUAR|Zíides]] le quedó una sola vice: **Macoña**. Desde entonces es ella quien atiende el proyecto [[OPER_OPT_QUAR|OPER]] en [[Villa_Albalonga_QUAR|villa Albalonga]], la maquinaria que procesa juventudes para el mercado, con la eficiencia gris de quien heredó el puesto por descarte de muertos.
 
 ## Vínculos
 

@@ -14,9 +14,14 @@ tags:
  - show
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/American_Ass_QUAR.jpg
 ---
 
-**American Ass** es una de las cazadoras-estrella del espectáculo de los Bosques Sanos, esa cacería televisada donde celebridades armadas persiguen fugitivos para deleite de las audiencias. Su fama tiene además una espina íntima: García le había dedicado un "like", y ese gesto mínimo bastó para sembrar celos en el corazón de la banda.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/American_Ass_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**American Ass** es una de las cazadoras-estrella del espectáculo de [[Bosques_Sanos_QUAR|los Bosques Sanos]], esa cacería televisada donde celebridades armadas persiguen fugitivos para deleite de las audiencias. Su fama tiene además una espina íntima: [[Angel_Garcia_QUAR|García]] le había dedicado un "like", y ese gesto mínimo bastó para sembrar celos en el corazón de la banda.
 
 ## Vínculos
 

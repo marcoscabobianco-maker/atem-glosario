@@ -15,9 +15,14 @@ aliases:
  - "Abdullah"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Flatula_QUAR.jpg
 ---
 
-**Flatula**, también llamada Abdullah, es una cirujana de pesadilla: una mole obesa armada con arpón, cadenas y bombas de gas místico, salida del ala más médica del horror de la cuarentena. Asaltó el tren rojo en plena marcha y terminó arrojada al vacío — pero ni cayendo dejó de operar: su monofilamento arrastró a [[Taito_QUAR|Taito]] con ella.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Flatula_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+**Flatula**, también llamada Abdullah, es una cirujana de pesadilla: una mole obesa armada con arpón, cadenas y bombas de gas místico, salida del ala más médica del horror de la cuarentena. Asaltó [[tren_rojo_QUAR|el tren rojo]] en plena marcha y terminó arrojada al vacío — pero ni cayendo dejó de operar: su monofilamento arrastró a [[Taito_QUAR|Taito]] con ella.
 
 ## Vínculos
 

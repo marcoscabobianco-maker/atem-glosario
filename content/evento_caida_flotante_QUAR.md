@@ -15,7 +15,12 @@ aliases:
  - "la caída de Narco Paradise"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 5, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/evento_caida_flotante_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/evento_caida_flotante_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 [[Narco_Paradise_QUAR|Narco Paradise]] flotaba sobre las montañas, por encima de la peste, de la cuarentena y de las Máquinas, sostenida por turbinas antigravedad: el refugio de los magnates que habían comprado el cielo. Bastó un [[Mirage_QUAR|Mirage]] lanzado en kamikaze por [[Taito_QUAR|Taito]] contra una de esas turbinas para que todo el paraíso empezara a bajar: la fortaleza descendió entre alarmas mientras el grupo escapaba en el taxi aéreo de [[Tuxedo_QUAR|Tuxedo]]. Los que vivían por encima del mundo descubrieron esa noche que la altura también se cae.
 

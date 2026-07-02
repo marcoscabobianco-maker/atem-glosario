@@ -19,7 +19,12 @@ aliases:
  - "el Dam"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Refinery_Dam_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Refinery_Dam_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 En el borde del reducto, donde el subte se acaba y empieza el mundo de arriba, se levantan la **Refinería y el dique**: una mole de energía hidráulica de otro siglo, con algo del viejo Chernóbil en la silueta, que sigue en pie cuando casi todo lo demás se apagó. De ella depende el control del asentamiento de [[Kreider_QUAR|Kreider]] y por ella pasa la ruta hacia la ciudad central; en la cuarentena de 2087, quien sostiene el agua y el combustible sostiene la vida de abajo.
 

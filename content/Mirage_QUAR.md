@@ -15,9 +15,14 @@ aliases:
  - "el caza Mirage"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de las jornadas 4-5, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Mirage_QUAR.jpg
 ---
 
-Caza de guerra de alta tecnología que [[Taito_QUAR|Taito]] dominó como quien domina un simulador de vuelo —porque para él siempre fue eso: un juego que de pronto tenía consecuencias—. El Mirage sirvió primero como arma y después como proyectil: lanzado en kamikaze contra las turbinas antigravedad de [[Narco_Paradise_QUAR|Narco Paradise]], derribó la ciudad flotante de los magnates. Más tarde, otro Mirage hackeado por [[Willy_Vision_QUAR|Willy Vision]] embistió la torre de control: el avión de guerra terminó siendo, dos veces, la herramienta de los que no tenían ejército.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Mirage_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+Caza de guerra de alta tecnología que [[Taito_QUAR|Taito]] dominó como quien domina un simulador de vuelo —porque para él siempre fue eso: un juego que de pronto tenía consecuencias—. El Mirage sirvió primero como arma y después como proyectil: lanzado en kamikaze contra las turbinas antigravedad de [[Narco_Paradise_QUAR|Narco Paradise]], provocó la **[[evento_caida_flotante_QUAR|caída de la ciudad flotante]]** de los magnates. Más tarde, otro Mirage hackeado por [[Willy_Vision_QUAR|Willy Vision]] embistió la torre de control: el avión de guerra terminó siendo, dos veces, la herramienta de los que no tenían ejército.
 
 ## Vínculos
 

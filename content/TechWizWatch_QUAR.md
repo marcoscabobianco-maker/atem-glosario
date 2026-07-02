@@ -15,9 +15,14 @@ aliases:
  - "el reloj de Taito"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónica de la jornada 5, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/TechWizWatch_QUAR.jpg
 ---
 
-El reloj-prodigio de [[Taito_QUAR|Taito]]: hiperreceptor y controlador de transmisiones capaz de hablar todos los idiomas del aire —wifi, satélite, infrarrojo, radio— y hasta de tender línea con el propio [[El_Maestro_QUAR|Maestro]]. Su mayor virtud no es lo que capta sino lo que esconde: una cualidad de ocultamiento que Taito llamaba «Hyden más infinito», el arte de estar en todas las frecuencias sin figurar en ninguna. En un mundo donde ser detectado es ser cazado, el TechWizWatch es la muñeca invisible del genio técnico.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/TechWizWatch_QUAR.jpg]]
+<!-- /HEADER_IMG -->
+
+El reloj-prodigio de [[Taito_QUAR|Taito]]: hiperreceptor y controlador de transmisiones capaz de hablar todos los idiomas del aire —wifi, satélite, infrarrojo, radio— y hasta de tender línea con el propio [[El_Maestro_QUAR|Maestro]]. Su mayor virtud no es lo que capta sino lo que esconde: una cualidad de ocultamiento que Taito llamaba «Hyden más infinito», el arte de estar en todas las frecuencias sin figurar en ninguna. En un mundo donde ser detectado es ser cazado, el TechWizWatch es la muñeca invisible del genio técnico, hermano de taller del **[[desilachado_realidad_QUAR|desilachado límite de la realidad]]**.
 
 ## Vínculos
 

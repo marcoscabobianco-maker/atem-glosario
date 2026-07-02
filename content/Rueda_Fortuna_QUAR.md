@@ -18,7 +18,12 @@ aliases:
  - "la noria"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Rueda_Fortuna_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Rueda_Fortuna_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 Al final de los rieles imposibles, donde el tren blanco se arrastraba entre esqueletos de otros trenes oxidados, apareció girando a lo lejos la **Rueda de la Fortuna**: la noria gigante de un viejo parque de diversiones, señal de que el destino estaba cerca. Hay algo de Pripyat en esa rueda que gira sin nadie — el juguete enorme de un mundo que se fue de golpe y dejó la calesita encendida.
 

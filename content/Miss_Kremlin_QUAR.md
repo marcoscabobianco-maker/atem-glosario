@@ -16,11 +16,16 @@ aliases:
  - "la Miss Kremlin"
 estado: borrador
 fuente: "Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Miss_Kremlin_QUAR.jpg
 ---
 
-Entre los militares exiliados que sostuvieron a la banda desde la primera noche, hay una figura que no necesita presentación por radio: **Miss Kremlin**, la heroína de [[los_rusos_QUAR|los rusos]], espada y armadura en un mundo de drones y cámaras. Cuando el tren malherido llegó por fin al viejo parque de diversiones, fue ella quien aseguró el perímetro alrededor de la Rueda de la Fortuna, convirtiendo el final del camino en la primera base verdadera que la banda tuvo desde la caída del búnker.
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Miss_Kremlin_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
-No es solo brazo armado: es también oído. Fue Miss Kremlin quien advirtió a los sobrevivientes del próximo espectáculo que los productores les preparaban —"Rambo y Rambo", el show de adivinar cuál de dos es el traidor—, dándoles la ventaja de saberse presa antes de que el ojo de la teleaudiencia volviera a encenderse. En un mundo donde la muerte tiene rating, esa clase de aviso vale tanto como una espada.
+Entre los militares exiliados que sostuvieron a la banda desde la primera noche, hay una figura que no necesita presentación por radio: **Miss Kremlin**, la heroína de [[los_rusos_QUAR|los rusos]], espada y armadura en un mundo de drones y cámaras. Cuando el tren malherido llegó por fin al viejo parque de diversiones, fue ella quien aseguró el perímetro alrededor de [[Rueda_Fortuna_QUAR|la Rueda de la Fortuna]], convirtiendo el final del camino en la primera base verdadera que la banda de **[[Kreider_QUAR|Kreider]]** tuvo desde la caída del búnker.
+
+No es solo brazo armado: es también oído. Fue Miss Kremlin quien advirtió a los sobrevivientes del próximo espectáculo que los productores les preparaban —"Rambo y Rambo", el show de adivinar cuál de dos es el traidor—, dándoles la ventaja de encubrir a **[[Taito_QUAR|Taito]]**, recién resucitado del agua, antes de que el ojo de la teleaudiencia volviera a encenderse. En un mundo donde la muerte tiene rating, esa clase de aviso vale tanto como una espada.
 
 ## Vínculos
 

@@ -17,7 +17,12 @@ aliases:
  - "el paraíso narco"
 estado: borrador
 fuente: "ENTIDADES_MAESTRO.md + crónicas de las jornadas 5 y 8, Apocalypse Quarantine"
+imagen: Imagenes_Tier1/Narco_Paradise_QUAR.jpg
 ---
+
+<!-- HEADER_IMG -->
+![[Imagenes_Tier1/Narco_Paradise_QUAR.jpg]]
+<!-- /HEADER_IMG -->
 
 A seis mil metros, entre las nubes, aparece lo que primero parece un espejismo: cúpulas aéreas junto a montañas flotantes, un iceberg terrestre suspendido por turbinas y tecnología incomprensible, con la panza cubierta de contenedores de delivery. Es Narco Paradise, la ciudad de los magnates que se elevaron por encima de la peste, de la cuarentena y de las propias Máquinas. Desde sus cielos baja la droga a domicilio hacia el mundo enfermo de abajo; acá arriba, la misma mercancía "inmuniza" — en la aduana reciben al visitante con sopletes de polvo y una consigna coreografiada: ante la duda, báñense en merca.
 
